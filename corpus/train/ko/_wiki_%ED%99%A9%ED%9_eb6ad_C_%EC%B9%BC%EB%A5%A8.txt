@@ -1,0 +1,3 @@
+
+.mw-parser-output .ib-chembox.mw-parser-output .ib-chembox td,.mw-parser-output .ib-chembox th.mw-parser-output .ib-chembox td+td
+황화 수소 칼륨은 KSH 화학식을 지니는 무기 화합물이다. 이 무색의 염은 양이온 K+와 이황화물 음이온 -로 구성된다. 황화 수소에 수산화 칼륨을 반반 중화시켜 만들어진 산물이다.

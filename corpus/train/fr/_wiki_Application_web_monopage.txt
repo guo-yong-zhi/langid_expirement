@@ -1,0 +1,12 @@
+Cet article ne cite pas suffisamment ses sources .
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+Pour les articles homonymes, voir SPA.
+Cet article est une ébauche concernant l’informatique et Internet.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+Une application web monopage  est une application web accessible via une page web unique. Le but est d'éviter le chargement d'une nouvelle page à chaque action demandée, et de fluidifier ainsi l'expérience utilisateur : la quantité de données à télécharger est réduite et le navigateur web, au lieu de devoir réinitialiser toute la page, n'a qu'une partie à mettre à jour.
+Le terme a été introduit par Steve Yen en 2005.
+Les ressources  nécessaires au fonctionnement de l'application peuvent être :
+Le fruit de l'application peut également être géré de deux manières :
+TiddlyWiki est un exemple d'application web monopage qui permet de créer un journal personnel au format HTML. Cette application peut fonctionner en local et sauvegarder vos modifications en ligne grâce à des modules d'extension sur GitHub ou Dropbox par exemple.
+De nombreuses bibliothèques JavaScript, et notamment des bibliothèques libres, sont spécialisées dans la création d'applications web monopages, entre autres : AngularJS, Ember.js, React, Vue.js et Svelte.

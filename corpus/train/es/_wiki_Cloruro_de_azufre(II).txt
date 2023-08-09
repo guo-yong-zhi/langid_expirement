@@ -1,0 +1,6 @@
+El cloruro de azufre, o dicloruro de azufre , es un líquido de color rojo cereza. Es producido mediante la cloración del azufre elemental o del dicloruro de disulfuro S2Cl2. La separación de SCl2 desde S2Cl2 es posible vía destilación con PCl3 para formar un azeótropo del 99% de pureza.
+La cloración del azufre ocurre en una serie de etapas, algunas de éstas son:
+La adición de Cl2 a S2Cl2 está considerada para producir, mediante una valencia mixta, el producto intermedio Cl3S-SCl.
+SCl2 experimenta incluso una nueva cloración para dar SCl4, pero esta especie es inestable cerca de la temperatura ambiente. Es probable que existan varios SxCl2, donde x > 2.
+SCl2 reacciona mediante hidrólisis potencialmente peligrosa con desprendimiento de HCl. Las muestras con mucho tiempo contienen Cl2.
+M. Schmidt, W. Siebert "Sulphur" Comprehensive Inorganic Chemistry Vol. 2, ed. A.F. Trotman-Dickenson. 1973.

@@ -1,0 +1,4 @@
+eZ Publish je svobodný open source CMS vyvinutý Norskou společností eZ Systems, dostupný jak pod GPL licencí, tak pod proprietárními, komerčními licencemi eZ Systems.
+Až do verze 3.10 běžel eZ Publish pod PHP 4, nejnovější verze, eZ Publish 4.0 je napsaná pro PHP 5.
+eZPublish má svůj vlastní template a cache systém.
+K dispozici je velký počet rozšíření jak od eZ Systems , tak od uživatelů .

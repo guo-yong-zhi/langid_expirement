@@ -1,0 +1,9 @@
+Atari Portfolio je první palmtop kompatibilní s IBM PC. Počítač nevyvinula přímo firma Atari, ale společnost DIP , kterou založili bývalí zaměstnanci Psion.
+Počítač je postaven na CPU 80C88 běžícím na 4,9152 MHz. Operační systém je variantou MS-DOS pojmenovanou DIP-DOS 2.11. Portfolio má RAM 128K a ROM 256K, ve které je OS a vestavěné programy. Paměť RAM se dělí na systémovou paměť a RAMdisk. LCD zobrazovač má rozlišení 40x8 znaků nebo 240x64 bodů a je monochromatický, nepodsvícený.
+Do expazního slotu po pravé straně počítače se dá zasunout paralelní, sériový nebo MIDI interface. K dispozici je také modul s přídavnou RAM 512KB. Z neoriginálního Atari vybavení je asi nejznámější 3,5" disketová jednotka vyvinutá českou firmou.
+Jako hlavní medium pro výměnu dat Portfolio používá RAM karty, které jsou dostupné ve velikostech 32, 64 a 128KB. Karty sice nejsou kompatibilní se standardem PC Card, ale jsou stejné jako dřív používala firma Korg a Waldorf ve svých syntezátorech.
+Operační systém je standardně ve 3 jazycích . Existuje česká lokalizace, spočívající ve výměně ROM a nahrazení francouzštiny češtinou. Takto upravené portfolio používá znakovou sadu Kamenických.
+Vestavěné programy jsou textový editor, tabulkový kalkulátor , adresář, plánovací kalendář a jednoduchý komunikační program pro přenos souboru pomocí paralelního rozhraní.
+Na Portfolio je bohatá knihovna programů od souborových managerů, přes hry až po např. emulátor terminálu.
+Pro Portfolio se stále vyvíjí nový software a hardware. Jedním z doplňků tak může být například čtečka CompactFlash karet, kterou lze používat místo originálních RAM karet.
+Atari Portfolio si zahrálo roli ve filmu Terminátor 2: Den zúčtování, kde jej John Connor používá k vyřazení bezpečnostního systému bankomatu a později k otevření dveří laboratoře Cyberdyne Systems.

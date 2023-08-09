@@ -1,0 +1,27 @@
+• GO:0032403 protein-containing complex binding• phospholipid binding
+• цитоплазма• cell projection• мембрана• ruffle• extrinsic component of cytoplasmic side of plasma membrane• клітинна мембрана• macropinosome• cell leading edge• actin cytoskeleton• intermediate filament cytoskeleton• Цитоскелет• lamellipodium
+• positive regulation of lamellipodium organization• negative regulation of barbed-end actin filament capping• positive regulation of cell migration• positive regulation of ruffle assembly• actin filament network formation• establishment or maintenance of cell polarity• positive regulation of extracellular matrix disassembly• positive regulation of lamellipodium assembly• maintenance of cell polarity• cell migration• wound healing, spreading of cells• establishment or maintenance of monopolar cell polarity
+CARMIL2  – білок, який кодується однойменним геном, розташованим у людей на 16-й хромосомі. 3  Довжина поліпептидного ланцюга білка становить 1 435 амінокислот, а молекулярна маса — 154 689 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функцією належить до фосфопротеїнів. 
+Задіяний у таких біологічних процесах, як альтернативний сплайсинг, метилювання. 
+Локалізований у клітинній мембрані, цитоплазмі, цитоскелеті, мембрані, клітинних відростках.
+  Портал «Біологія»   Портал «Хімія»                       

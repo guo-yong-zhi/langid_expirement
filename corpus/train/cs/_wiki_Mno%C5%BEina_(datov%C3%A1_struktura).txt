@@ -1,0 +1,7 @@
+Množina je v informatice abstraktní datový typ, který je schopen uložit určité hodnoty bez jakéhokoliv pořadí a bez opakujících se hodnot. Je to počítačová implementace matematického konceptu konečné množiny. Na rozdíl od jiných datových struktur se množina používá spíše pro testování, zdali se konkrétní hodnota nachází v množině dat, nežli pro získávání specifických prvků z množiny.
+Některé množiny jsou navrženy jako statické a s jejich vytvořením se žádné prvky už dále nepřidávají ani neodebírají. Statické množiny umožňují pouze operace dotazů na jejich prvky . Jinou variantou množin mohou být množiny dynamické, které oproti statickým umožňují i operace vkládání a odebírání prvků.
+Typické operace, které mohou být prováděny se statickou množinou S, jsou:
+Dynamické množiny navíc typicky obsahují:
+Je možné provádět s množinami základní logické operace.
+Množiny mohou být implementovány pomocí nejrůznějších datových struktur, které poskytují kompromis mezi časem  a místem . Některé implementace jsou navrženy tak, aby zajistily efektivitu při vykonávání speciálních operací, jako jsou například nearest nebo union. Implementace popsané jako "běžné použití" typicky usilují o optimalizaci operací element_of, add a delete.
+V tomto článku byl použit překlad textu z článku Set  na anglické Wikipedii.
