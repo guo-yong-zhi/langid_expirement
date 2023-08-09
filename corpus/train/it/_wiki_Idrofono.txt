@@ -1,0 +1,76 @@
+Un idrofono  è un microfono progettato per essere utilizzato sott'acqua e per ascoltare suoni provenienti dall'acustica sottomarina.
+La maggior parte degli idrofoni sono composti da un trasduttore piezoelettrico che traduce in energia elettrica l'energia meccanica derivante da un mutamento di pressione. Alcuni materiali piezoelettrici, o trasduttori, possono convertire un suono in un segnale elettrico in quanto il suono altro non è che un mutamento di pressione in un fluido. Alcuni trasduttori possono anche essere utilizzati come emettitori ma non tutti possono avere questa peculiarità in quanto possono essere letteralmente distrutti se usati a questo scopo.
+Un idrofono è in realtà in grado di registrare suoni anche nell'aria, ma sarà in ogni caso meno sensibile nel registrare il segnale acustico a causa del fatto che la sua impedenza acustica è maggiormente adatta ad un ambiente liquido, più denso dell'aria. Sarebbe come mettere un microfono normale sottoterra o immerso nell'acqua in un contenitore impermeabile, esso registrerebbe in ogni caso il suono, ma con caratteristiche molto scarse dovute alla sua diversa impedenza acustica non adatta all'acqua.
+Il primo utilizzo di un idrofono risale ai tempi della prima guerra mondiale, quando i convogli di navi alleate utilizzavano questi dispositivi per avvertire in tempo utile le incursioni degli U-Boot tedeschi. Attualmente essi sono degli strumenti molto utili per la navigazione subacquea dei sottomarini e lo studio dei grandi cetacei.  
+Il molteplice impiego di questi particolari strumenti, nell'arco di tempo compreso tra il 1947 e il 2000, ha portato all'evoluzione dell'idrofonia in italia.
+L idrofonia in Italia   N 1  si è sviluppata iniziando, nella sua evoluzione, con l'idrofono cavo, N 2  del periodo precedente alla seconda guerra mondiale, a seguire con gli apparati idrofonici della Ditta SAFAR, successivamente i sonar per i sottomarini classi Toti e Sauro e agli apparati di ultima generazione installati sui sottomarini U212  1  in servizio nel XXI secolo.
+Gli apparati italiani per l'idrofonia erano nominati Impianti idrofonici o ecoidrofonici in base al tipo di localizzazione, o tramite il rumore emesso dal bersaglio i primi o tramite l'eco riflesso da questi il secondo.
+La dizione sonar viene introdotta nel gergo soltanto dopo la fine della seconda guerra mondiale.
+Si ha notizia, dopo la fine della seconda guerra mondiale, della prima applicazione dell'idrofonia in Italia, con i reperti presenti nel Museo Navale di La Spezia  2   il ricevitore idrofonico direzionale.
+Il ricevitore idrofonico rivelatore 3  era formato da una sfera cava di gomma collegata ad un tubo di metallo che terminava con un leggero condotto di gomma da applicare all’orecchio dell’operatore.
+La sfera di gomma veniva immersa in mare alla profondità di qualche metro, le onde sonore che ne colpivano la superficie provocavano delle vibrazioni che si trasmettevano direttamente all’aria in essa contenuta e da questa, tramite il tubo metallico ed il condotto di gomma venivano convogliate all'orecchio dell’operatore che scopriva, se presente, il rumore di un semovente in mare navigante su qualsiasi possibile angolazione dell’orizzonte.
+Si concretizzava quindi la scoperta, ma non la localizzazione del semovente.
+L’operazione di scoperta della direzione del semovente si è realizzata con un dispositivo simile al precedente, ma dotato di due sfere cave.
+L’ascolto avveniva in modo stereofonico, con i contributi acustici delle due sfere, una per ciascun orecchio, e si puntava la sorgente acustica ruotando manualmente il supporto, così come nell'ascoltare un rumore in aria si ruota la testa per individuarne il settore di provenienza 4 .
+Questo sistema di scoperta direzionale presentava ambiguità dato che quando la coppia di sfere individuava il bersaglio questo poteva essere tanto da un lato quanto dal lato opposto.
+Con la costruzione di elementi idrofonici in grado di trasformare le vibrazioni acustiche in tensioni elettriche N 3  5  le sfere cave venivano sostituite da insiemi di quest'ultimi, basi acustiche ruotanti, da movimentare in mare per la scoperta dei bersagli. Isolando acusticamente un lato dell'insieme si consentiva l'ascolto soltanto nella direzione voluta senza ambiguità; la scoperta era fattibile per bersagli relativamente vicini.
+Con l'impiego delle valvole termoioniche 6  vengono sviluppati i primi apparati in grado di scoprire i bersagli a notevoli distanze.
+Il principio di rivelazione dei bersagli resta sempre quello indicato come base ruotante. L'operatore nel locale operativo ruota con un volantino la base esterna al sommergibile e con l'ascolto in cuffia cerca i bersagli per determinarne, su apposito indicatore numerico, la posizione angolare rispetto all'asse del battello.
+Siluette valvola termoionica
+Ricevitore idrofonico ruotante sul sommergibile
+Nel periodo della seconda guerra mondiale, la ditta SAFAR ha prodotto due apparati idrofonici a valvole termoioniche. 7 
+L’impianto di segnalazione acustica subacquea è un complesso di dispositivi che permettono la trasmissione e la ricezione di segnali acustici telegrafici che si propagano in mare.
+A mezzo di apposito trasmettitore, con trasduttore annesso che opera anche come ricevitore, vengono prodotte onde acustiche di frequenza determinata di durata e ritmo variabili a comando manuale. Un impianto analogo riceve i segnali acustici tramite il proprio trasduttore e li rende udibili con cuffia telefonica all'operatore.Si tratta di un dispositivo di comunicazioni tra mezzi navali descritto nel fascicolo monografico originale della SAFAR 8 
+Il fonoscandaglio Safar tipo R è un apparecchio che, installato a bordo di unità subacquea o di superficie, permette di scandagliare il fondo del mare, cioè di misurare la profondità nel punto in cui si trova il semovente navale
+Lo scandaglio, descritto nel fascicolo monografico  8 , è formato da due trasduttori, di ricezione e trasmissione, da un cofano con l'amplificatore e il rivelatore dei segnali, da un trasmettitore e da un indicatore numerico della profondità.
+Con l'impiego dei tubi a raggi catodici  9  , e particolari basi idrofoniche fisse, si sviluppano i primi apparati ecoidrofonici nei quali sullo schermo dei tubi catodici si evidenziano, con marche luminose, le posizioni angolari dei bersagli.
+Siluette tubo a raggi catodici
+Ricevitore idrofonico con base fissa
+I bersagli localizzabili con questi tipi di apparati erano visualizzati all'operatore al sonar su di una consolle di presentazione e controllo dotata di schermo circolare video. Se un sottomarino in fase di scoperta si trova in immersione in una zona di mare, tra coste ed isole, nella quale sono presenti due navi in movimento può esplorare l'ambiente nell'intento di localizzare tanto i bersagli fissi quanto in movimento. Dato che tutti i rilievi angolari del sonar sono effettuati facendo riferimento al sottomarino, esso diventa il centro della geometria della zona. Tracciato un cerchio ideale facendo centro sul sottomarino, tutto ciò che in esso è compreso sarà visualizzato sullo schermo circolare di presentazione con riferimento al punto centrale.
+Geometria del campo di mare esplorato
+Sullo schermo: a sinistra, echi dei bersagli, a destra rumore emesso dai bersagli.
+Nello schermo del sonar compaiono tracce diverse in dipendenza del suo modo operativo. Se si lavora in attivo gli echi di tutti i bersagli compaiono sullo schermo sotto forma di piccoli segmenti luminosi che delineano la topografia della zona circostante il battello, questo compare come un punto luminoso al centro. Un raggio luminoso è fatto ruotare dall'operatore per collimare i bersagli.
+Se il sonar lavora in passivo, i rumori irradiati dai bersagli compaiono sullo schermo sotto forma di tracce radiali che indicano la direzione di provenienza del suono rispetto al battello che compare come un punto luminoso al centro. Anche in questo caso è presente l’indice luminoso per collimare i bersagli.
+Gli studi sull'idrofonia riprendono in USEA  10  nel 1951, sono indirizzati alla costruzione dei primi apparati ecoidrofonici del dopoguerra per navi di superficie e sottomarini.
+Si trattava di un impianto ecoidrofonico sperimentale per navi di superficie; progettato e realizzato nel 1951 dalla Soc. Usea in Lerici . 11 
+È il primo apparato ecoidrofonico per sottomarini  12  costruito in Italia;  realizzato nel 1960 dalla Soc. Usea in Lerici  per i battelli Classe Toti.
+Caratteristiche:
+Tecnologia
+È il secondo apparato ecoidrofonico 13  per sottomarini costruito in Italia; realizzato nel 1970 dalla Soc. Usea in Lerici  per i battelli Classe Sauro.
+Caratteristiche:
+Tecnologia:
+È il terzo apparato ecoidrofonico  14  per sottomarini costruito in Italia; realizzato nel 1974 dalla Soc. Usea in Lerici  per i battelli Classe Sauro.
+Caratteristiche:
+Tecnologia:
+Si tratta del terzo apparato, di tipo esclusivamente idrofonico  15 , progettato e costruito in Italia in via prototipica, presso l'Arsenale Militare di La Spezia nel 2000 come apparato d'emergenza per i sottomarini classe Sauro Sonar di emergenza FALCON - Wikiversità.
+Caratteristiche: N 15  16 
+In ascisse l'arco d'orizzonte esplorato: 
+  
+    
+      
+         
+         
+        
+          180
+          
+             
+          
+        
+         
+        +
+         
+        180
+      
+    
+    \ +\ 180}
+  
+°
+In ordinate le ampiezze dei segnali generate dai fasci preformati.
+Tecnologia:
+Presentazione panoramica tipo A del FALCON -Elaborazione numerica-
+Impianto idrofonico prototipico FALCON
+Altri progettiN° FASCI Selenia
+Sonar FALCON
+Schemi sonar FALCON
+Testo discorsivo sul sonar
+Testo tecnico sulla Correlazione
