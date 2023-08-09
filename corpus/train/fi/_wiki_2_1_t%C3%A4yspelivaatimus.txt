@@ -1,0 +1,10 @@
+2/1 täyspelivaatimus  on yksi bridgen tarjousjärjestelmä, joka rakentuu seuraavista vastauksista yhden tason avauksiin:
+2/1-systeemi ei ole voimassa passanneelta kädeltä, eikä vastustajan välitarjouksen jälkeen. Muut vastaukset ovat kuten SAYC:ssa tai parin sovittavissa. 1 
+2/1 TPV-tarjoukset ovat: 1♦–2♣, 1♥–2♣, 1♥–2♦, 1♠
+–2♣, 1♠–2♦, 1♠–2♥.
+Seuraavat muutokset voidaan sopia parikohtaisesti:
+Koska kahden tason tarjoukset ovat SAYC:ia vahvempia, vastaus 1NT on vaatimus ja sitä käytetään  heikompien käsien tarjoamiseen alemmissa väreissä. Koska 1NT vastaus on vaatimus , voi kolmen kortin tuella aloittaa sangilla. Jotkut parit pelaavat muunnosta, jossa 1NT vastaus 1♥ tai 1♠ päälle on puolivaatimus. Koska avaaja on pakotettu jatkamaan käsillä, joilla hän muuten olisi passannut, hän voi joutua tarjoamaan kolmella tai jopa vain kahdella kortilla.
+2/1:n käyttö edellyttää yleensä  seuraavat sopimukset:
+Grant Audrey, Rodwell Eric: 2/1 Game Force.    Louisville, KY: Baron Barclay Bridge Supply, 2009.  ISBN 978-0-939460-84-7.    
+Hardy Max: Standard Bridge Bidding for the 21st Century.    SQueeZe Books, 2000.  ISBN 978-1-58776-049-5.    
+Hardy Max: Standard Bridge Bidding for the 21st Century.    SQueeZe Books, 2002.  ISBN 978-1-58776-125-6.    

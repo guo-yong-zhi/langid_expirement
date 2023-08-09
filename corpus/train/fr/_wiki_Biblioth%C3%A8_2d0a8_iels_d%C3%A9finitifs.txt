@@ -1,0 +1,5 @@
+Pour les articles homonymes, voir DSL.
+Cet article est une ébauche concernant l’informatique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+La bibliothèque des logiciels définitifs  est une zone de stockage physique sécurisée  dans laquelle sont stockées les versions définitives et validées de tous les composants logiciels du système d'information, qu'ils soient produits en interne ou en externe.
+Sa mise à jour est strictement contrôlée par la gestion des changements et la gestion des mises en production, ce qui permet de suivre et de contrôler les logiciels installés dans l'entreprise.

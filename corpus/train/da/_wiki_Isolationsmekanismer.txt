@@ -1,0 +1,3 @@
+Der findes to former for isolationsmekanismer: præ-zygotiske og post-zygotiske.
+Præ-zygotiske isolationsmekanismer  er isolationsmekanismer, der foregår, før der er blevet dannet befrugtet æg. Det kan blandt andet være:
+Post-zygotiske isolationsmekansmer  foregår ved, at der bliver dannet hybrider, disse har en nedsat fitness på grund af:

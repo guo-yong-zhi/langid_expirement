@@ -1,0 +1,2 @@
+ITBM es el Índice Total de la Bolsa de Madrid
+El Índice Total de la Bolsa de Madrid mide el rendimiento obtenido por la Bolsa de Madrid e incluye no sólo el efecto de los precios, sino también las ampliaciones y dividendos reinvertidos en los valores cada vez que se cobran. Esto la diferencia del IGBM, que refleja exclusivamente la rentabilidad obtenida por el aumento o disminución de los precios de las acciones que lo componen.

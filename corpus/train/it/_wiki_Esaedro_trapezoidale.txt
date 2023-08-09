@@ -1,0 +1,200 @@
+In geometria solida l esaedro trapezoidale è un esaedro le cui facce sono tutte aquiloni.
+L'esaedro trapezoidale ha la stessa combinatoria del cubo: si tratta di un esaedro con 6 facce quadrilatere, 12 spigoli e 8 vertici.
+Se gli spigoli di un esaedro trapezoidale hanno tutti la stessa lunghezza, le facce sono dei rombi ed il solido è chiamato romboedro.
+Un esaedro trapezoidale può però avere spigoli di lunghezze differenti: ci possono essere in generale al più tre lunghezze differenti 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+        ,
+        
+          L
+          
+            2
+          
+        
+        ,
+        
+          L
+          
+            3
+          
+        
+      
+    
+    ,L_}
+  
+, con 3 spigoli incidenti su un vertice 
+  
+    
+      
+        V
+      
+    
+    
+  
+ di lunghezza 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    }
+  
+, i 3 spigoli incidenti al vertice opposto 
+  
+    
+      
+        
+          V
+           
+        
+      
+    
+    
+  
+ di lunghezza 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    }
+  
+ e i rimanenti 6 spigoli di lunghezza 
+  
+    
+      
+        
+          L
+          
+            3
+          
+        
+      
+    
+    {\displaystyle L_
+  
+.
+Conseguentemente, vi sono al più due tipi di facce: le 3 facce incidenti su 
+  
+    
+      
+        V
+      
+    
+    
+  
+ hanno spigoli di lunghezza 
+  
+    
+      
+        
+          L
+          
+            1
+          
+        
+      
+    
+    }
+  
+ e 
+  
+    
+      
+        
+          L
+          
+            3
+          
+        
+      
+    
+    }
+  
+, mentre le 3 facce incidenti su 
+  
+    
+      
+        
+          V
+           
+        
+      
+    
+    
+  
+ hanno spigoli di lunghezza 
+  
+    
+      
+        
+          L
+          
+            2
+          
+        
+      
+    
+    }
+  
+ e
+  
+    
+      
+        
+          L
+          
+            3
+          
+        
+      
+    
+    }
+  
+.
+Se le facce sono dei rombi, l'esaedro è detto romboedro.
+Un trapezoedro è un solido di Catalan le cui 
+  
+    
+      
+        2
+        n
+      
+    
+    
+  
+ facce sono tutte aquiloni. Per 
+  
+    
+      
+        n
+        =
+        3
+      
+    
+    
+  
+, questo è un romboedro.
+L'insieme delle dodici diagonali delle sei facce, prese 6 a 6, sono spigoli di due tetraedri, l'uno duale dell'altro, che, insieme, formano il poliedro composto detto stella octangula retta.
+Il poliedro duale dell'esaedro trapezoidale convesso è un particolare ottaedro .
+Esaedro trapezoidale sghembo  diversi)
+Esaedro concavo trapezoidale sghembo 

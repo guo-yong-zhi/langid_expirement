@@ -1,0 +1,825 @@
+Zlomek  označuje v matematice podíl dvou výrazů  a lze pomocí něj zapsat jakékoliv racionální číslo. Zlomek obsahuje zlomkovou čáru, nad kterou je čitatel a pod ní je jmenovatel, přičemž čitatel i jmenovatel jsou celá čísla. Zápis pomocí zlomků je vhodný pro provádění elementárních úprav složitějších výrazů. Zlomky jsou běžně využívány v hovorové řeči  a starší označení pro různá množství bylo voleno tak, aby mohlo být dále děleno , tj. aby mohly být používány jejich zlomkové části.
+Každý zápis zlomku je založen na části celku .
+Zlomek se zapisuje ve tvaru 
+  
+    
+      
+        a
+        b
+      
+    
+    
+  
+ nebo a⁄b. Výraz 
+  
+    a
+    a
+  
+ označujeme jako čitatel  a výraz 
+  
+    b
+    b
+  
+ označujeme jako jmenovatel . Aby měl zlomek smysl, nesmí být jmenovatel roven nule .
+Pokud jsou v čitateli i ve jmenovateli zlomku další zlomky , pak takový jej označujeme jako složený zlomek.
+Pokud je čitatel menší než jmenovatel  označujeme tento zlomek jako pravý zlomek. Nepravý zlomek je větší než jedna a lze ho převést na smíšené číslo .
+Smíšené číslo se skládá z celého čísla a pravého zlomku, například jeden a půl lze zapsat jako 1+1⁄2.
+Zlomky se dají sčítat, odčítat, násobit a dělit, dokonce i umocňovat. Chceme-li vynásobit dva zlomky, vynásobíme mezi sebou oba čitatele a oba jmenovatele. Součin čitatelům napíšeme nad zlomkovou čáru a součin jmenovatelů pod ní.
+Abychom mohli sečíst nebo odečíst dva zlomky, musí mít stejného jmenovatele . V případě nutnosti lze jeden nebo oba zlomky převést na společného jmenovatele .
+Pokud navíc 
+  
+    
+      c
+       
+      0
+    
+    c\neq 0
+  
+, pak
+Dva zlomky 
+  
+    
+      
+        
+          a
+        
+        b
+      
+    
+    
+  
+ a 
+  
+    
+      
+        
+          c
+        
+        d
+      
+    
+    
+  
+ mají stejnou hodnotu tehdy a jen tehdy, když 
+  
+    
+      
+        a
+         
+        d
+        =
+        b
+         
+        c
+      
+    
+    
+  
+ .
+Pokud máme zlomek 
+  
+    
+      
+        a
+        b
+      
+    
+    
+  
+, přičemž čitatel lze vyjádřit jako 
+  
+    
+      
+        a
+        =
+        c
+         
+        r
+      
+    
+    
+  
+ a jmenovatel jako 
+  
+    
+      
+        b
+        =
+        c
+         
+        s
+      
+    
+    
+  
+ , pak lze zlomek 
+  
+    
+      
+        a
+        b
+      
+    
+    
+  
+ vyjádřit v ekvivalentním tvaru jako
+Tento postup je označován jako krácení zlomku. Hodnoty obou zlomků jsou ekvivalentní a lze je libovolně zaměňovat. Platí tedy např. 
+  
+    
+      
+        
+          
+            4
+            8
+          
+        
+        =
+        
+          
+            2
+            4
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+      
+    
+    
+  
+. Je vidět, že vzájemně ekvivalentních zlomků existuje nekonečné množství, např. 
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+        =
+        
+          
+            n
+            
+              2
+              n
+            
+          
+        
+      
+    
+    {\displaystyle }=}}
+  
+ pro libovolné přirozené číslo n. O zlomku řekneme, že je v základním tvaru, pokud jeho čitatel a jmenovatel nemají žádného společného dělitele - tento tvar je naopak pro každou třídu zlomků o stejné hodnotě jedinečný.
+Podaří-li se zkrátit zlomek na tvar 
+  
+    
+      
+        
+          
+            n
+            1
+          
+        
+      
+    
+    
+  
+, pak jej pokládáme roven přímo číslu n, tzn. 
+  
+    
+      
+        
+          
+            n
+            1
+          
+        
+        =
+        n
+      
+    
+    
+  
+. Např. 
+  
+    
+      
+        
+          
+            4
+            2
+          
+        
+        =
+        
+          
+            2
+            1
+          
+        
+        =
+        2
+      
+    
+    
+  
+.
+Při provádění složitějších operací na zlomky se zlomek a⁄b chová jako 
+  
+    
+      
+        a
+         
+        
+          b
+          
+             
+            1
+          
+        
+      
+    
+    }
+  
+, takže například:
+Lomené výrazy jsou výrazy zapsané ve tvaru zlomku a pracujeme s nimi podobně jako se zlomky. Žádný jmenovatel žádného zlomku nesmí být roven nule, musíme tedy u lomených výrazů vžy určit, kdy mají smysl.
+př. Určete, kdy má výraz 
+  
+    
+      
+        
+          
+            
+              x
+               
+              7
+            
+            
+              
+                x
+                
+                  2
+                
+              
+               
+              4
+            
+          
+        
+      
+    
+    }
+  
+ smysl.
+Výraz má smysl, pokud jmenovatel zlomku není roven 0. Tudíž 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+         
+        4
+         
+        0
+         
+        x
+         
+         
+        2
+      
+    
+    -4\neq 0\Rightarrow x\neq \pm 2}
+  
+Lomené výrazy, stejně jako zlomky, můžeme krátit. Krátit lomený výraz znamená dělit čitatele i jmenovatele stejným výrazem.
+př. Zkraťte lomený výraz.
+  
+    
+      
+        
+          
+            
+              3
+              
+                x
+                
+                  2
+                
+              
+               
+              3
+              x
+              y
+            
+            
+              3
+              
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    -3xy}}
+  
+1) Musíme určit, kdy má daný výraz smysl.
+Výraz má smysl, pokud 
+  
+    
+      
+        3
+        (
+        x
+         
+        y
+        
+          )
+          
+            2
+          
+        
+         
+        0
+      
+    
+    \neq 0}
+  
+ a to je pro 
+  
+    
+      
+        x
+         
+        
+          y
+        
+      
+    
+    }
+  
+Můžeme krátit
+  
+    
+      
+        
+          
+            
+              3
+              
+                x
+                
+                  2
+                
+              
+               
+              3
+              x
+              y
+            
+            
+              3
+              (
+              x
+               
+              y
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    -3xy}}
+  
+ = (abychom mohli čitatele i jmenovatele krátit, musíme čitatel upravit na součin:) = 
+  
+    
+      
+        
+          
+            
+              3
+              x
+              (
+              x
+               
+              y
+              )
+            
+            
+              3
+              (
+              x
+               
+              y
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    }
+  
+ = (můžeme zkrátit výrazem 3(x-y)= 
+  
+    
+      
+        
+          
+            x
+            
+              (
+              x
+               
+              y
+              )
+            
+          
+        
+      
+    
+    
+  
+Tudíž 
+  
+    
+      
+        
+          
+            
+              3
+              
+                x
+                
+                  2
+                
+              
+               
+              3
+              x
+              y
+            
+            
+              3
+              
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            x
+            
+              
+            
+          
+        
+      
+    
+    -3xy}=}}
+  
+ , pro 
+  
+    
+      
+        x
+         
+        
+          y
+        
+      
+    
+    }
+  
+Rozšířit lomený výraz znamená vynásobit jeho čitatele a jmenovatele týmž výrazem . Rozšiřování užíváme též při převádění lomeného výrazu na společného jmenovatele.
+př. Rozšiřte lomený výraz 
+  
+    
+      
+        
+          
+            1
+            
+              x
+              +
+              3
+            
+          
+        
+      
+    
+    
+  
+ výrazem 
+  
+    
+      
+        x
+         
+        1
+      
+    
+    
+  
+Nejprve určíme podmínky lomeného výrazu: 
+  
+    
+      
+        x
+         
+        
+           
+          3
+        
+      
+    
+    }
+  
+Rozšíříme:
+  
+    
+      
+        
+          
+            
+              1
+              
+            
+            
+              
+              
+            
+          
+        
+        =
+        
+          
+            
+              x
+               
+              1
+            
+            
+              
+                x
+                
+                  2
+                
+              
+               
+              x
+              +
+              3
+              x
+               
+              3
+            
+          
+        
+        =
+        
+          
+            
+              x
+               
+              1
+            
+            
+              
+                x
+                
+                  2
+                
+              
+              +
+              2
+              x
+               
+              3
+            
+          
+        
+      
+    
+    =+2x-3}}}
+  
+př. Rozšiřte lomený výraz 
+  
+    
+      
+        
+          
+            
+              x
+              +
+              3
+            
+            
+              x
+               
+              2
+            
+          
+        
+      
+    
+    
+  
+ na lomený výraz se jmenovatelem 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+         
+        4
+      
+    
+    -4}
+  
+Nejprve určíme podmínky lomeného výrazu: 
+  
+    
+      
+        x
+         
+        
+          2
+        
+      
+    
+    }
+  
+Pokud výraz 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+         
+        4
+      
+    
+    -4}
+  
+ rozložíme podle vzorce 
+  
+    
+      
+        
+          a
+          
+            2
+          
+        
+         
+        
+          b
+          
+            2
+          
+        
+        =
+        
+        
+      
+    
+    -b^
+  
+ na výraz 
+  
+    
+      
+        
+        
+      
+    
+    
+  
+ , vidíme, že daný lomený výraz stačí rozšířit výrazem 
+  
+    
+      
+        
+      
+    
+    
+  
+  
+    
+      
+        
+          
+            
+              
+              
+            
+            
+              
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              +
+              2
+              x
+              +
+              3
+              x
+              +
+              6
+            
+            
+              
+                x
+                
+                  2
+                
+              
+               
+              4
+            
+          
+        
+        =
+        
+          
+            
+              
+                x
+                
+                  2
+                
+              
+              +
+              5
+              x
+              +
+              6
+            
+            
+              
+                x
+                
+                  2
+                
+              
+               
+              4
+            
+          
+        
+      
+    
+    +2x+3x+6}=}
+  
+Usměrnit daný lomený výraz znamená upravit ho rozšířením tak, aby již ve jmenovateli nevystupoval výraz, který může nabývat iracionálních či komplexních hodnot.
+V desetinném zápise se zlomky vyjadřují jako desetiny, setiny, tisíciny apod. . Některé zlomky nelze vyjádřit konečným desetinným rozvojem, ale protože se jedná o racionální čísla, jejich rozvoj je od určitého desetinného místa periodický, tedy určitá skupina číslic  se neustále opakuje. Pro zjednodušení zápisu lze použít pro periodické opakování číslic na dalších desetinných místech symbol pruhu nad periodou, např.:
+0,1167 = 0,116767676767...
+Zlomek lze také převést na procentuální podíl z celku .
+Platí :
+.
+V různých civilizacích z důvodu rozvoje průmyslu a obchodu, architektury, mořeplavby, přírodních a jiných věd vznikla potřeba velkých a obtížných aritmetických výpočtů, což vedlo k většímu rozvoji matematiky. Egypťané používali zlomky již asi 1000 př. n. l. 1 . Skoro všechny zlomky se však převáděly na součty tzv. kmenových zlomků, tj. zlomků s čitatelem rovným jedné.

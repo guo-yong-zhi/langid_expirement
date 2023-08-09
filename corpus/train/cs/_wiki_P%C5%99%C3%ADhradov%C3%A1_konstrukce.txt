@@ -1,0 +1,12 @@
+Příhradová konstrukce  je široce využívaný typ nosné konstrukce , kde namísto masivních a těžkých stěn, desek či bloků jsou využity štíhlé a lehké podélné nosné binární prvky , pruty, nosníky, lana apod. V příhradách jsou pruty pospojovány styčníky, které lze chápat jako klouby s vhodně zvolenou mírou idealizace reality. Podstata aplikace příhradové konstrukce je tedy ve vhodném přenesení a rozložení zatížení/mechanického napětí mezi nosnými prvky tak, aby vznikla konstrukce s ohledem na co nejmenší hmotnost, rozměry a nižší finanční náklady. Příhradovou konstrukci je možno také chápat jako určitou formu optimalizace konstrukce. Příhrady se vyskytují také běžně v přírodě a lze je kombinovat s dalšími typy konstrukcí. 1  2  3  4 
+Pojem příhradové konstrukce a prutové konstrukce  mnohdy splývá, avšak někteří autoři považují za příhradové konstrukce jen takové konstrukce, ve kterých se vyskytují alespoň některé členy seskupené do trojúhelníků případně občasně i čtyřúhelníků. Nicméně, postupy technického a výpočtového řešení jsou stejné pro příhrady i prutové konstrukce. Ve stavebnictví se také používá pojem příhradový nosník, především u mostních konstrukcí. 5 
+Podle 1  6  3  lze dělit příhradové konstrukce na:
+Podle 1  existují následující typy příhradových konstrukcí:
+Výpočty příhradových konstrukcí se dělají za účelem designového návrhu nebo posouzení pevnosti a životnosti. Jedním z cílů je také výpočet vnitřních statických účinků, tj. vnitřních normálových sil u prutových členů, případně normálových sil, posouvajících sil a ohybových momentů u nosníků. Existují 1  3 :
+Grafické metody se dnes již v běžné technické praxi nepoužívají, stále však mají významný vysvětlující potenciál. Podle 1  7  existují následující typy příhradových konstrukcí:
+Dle 1  3  existují následující analytické metody řešení:
+Existují různorodé přístupy využívající 1  3 
+Řešení vede buď k řešení soustav lineárních nebo nelineárních rovnic. Existuje široká škála počítačové aplikace numerických metod.
+Každou úlohu mechaniky lze zjednodušit, tj. pomocí diskreditace přijmout zvoléné zjednodušující předpoklady. 1  3 
+Příhrady lze také experimentálně ověřovat. Proměřují se hodnoty a změny hodnot posunutí, deformací, zatížení, napětí, případně růstu trhlin a koroze.
+V roce 1931 byl silniční ocelový most v areálu Škoda a. s.  největším svařovaným příhradovým mostem na světě. Projekt celého mostu vypracoval a veškeré práce řídil prof. František Faltus. 8 
