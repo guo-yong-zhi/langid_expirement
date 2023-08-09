@@ -1,0 +1,4 @@
+
+.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct.mw-parser-output .longitude,.mw-parser-output .latitude
+서진중학교의 위치
+서진중학교는 대구광역시 서구 평리동에 있었던 공립 중학교이다.

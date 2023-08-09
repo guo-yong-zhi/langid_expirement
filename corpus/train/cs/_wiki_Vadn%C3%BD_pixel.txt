@@ -1,0 +1,12 @@
+Vadný pixel je pixel na LCD displeji, který nefunguje správně. Příčinou může být např. poškození, nebo vada při výrobě. Standard ISO 9241 definuje 4 třídy , do kterých mohou zařízení zapadat, podle počtu a typu vadných pixelů. 1  
+Nejběžnějším důvodem výskytu této závady je poškození nebo selhání dodávání energie jednotlivým subpixelům, např. selháním tranzistorů zodpovědných za jejich napájení. 2  3  Protože pixely potřebují energii, aby měnily barvu, proto případě, že nejsou napájeny, nejsou schopny měnit barvu a reagovat na změny obrazu na displeji. 
+Mrtvý pixel  nebo černý pixel je pixel, který nesvítí. Toto je nejčastěji způsobeno poruchou tranzistoru vedoucí k selhání dodání energie a tím pádem k neschopnosti pixelu se rozsvítit. 4  může být ovlivněn pouze jeden subpixel nebo více. Více poškozených subpixelů vede k větším viditelným vadám. Tento typ závady lze nejjednodušeji rozpoznat na bílem pozadí. 
+Zaseknutý pixel  je případ, kdy jeden nebo více subpixelů trvale svítí. Toto vede k tomu že na displeji je trvale vidět pixel nebo několik pixelů neměnící se barvy. Nereaguje na změnu barvy, zůstává v jedné barvě, ať už se na obrazovce zobrazuje cokoli. 5  Na rozdíl od mrtvého pixelu, zaseknutý pixel lze v některých případech opravit bez asistence profesionálů nebo potřeby specializovaných nástrojů. 6  
+Základní rozdíl od mrtvého pixelu je v tom, že subpixelu je energie dodávána trvale , na rozdíl od pixelu mrtvého, kterému se energie nedodává a tím pádem nesvítí vůbec. 
+Méně jasný pixel na LCD displeji zobrazuje barvu, ale vypadá jako by byl o něco tmavší než okolní pixely. Tyto pixely mohou být způsobeny nevyrovnaným osvětlením displeje, takže se nemusí nutně jednat o vadu konkrétního pixelu ale o vadu v osvětlení displeje.
+Hot pixel je pixel, který se zobrazuje příliš jasně a zůstává přibližně 10krát jasnější než okolní pixely 2 , ať už se na obrazovce zobrazuje cokoli. 
+Při nákupu zařízení s displeji se lze setkat s informací o „třídě“ displeje. Jedná se o zařazení do tříd kvality podle standardu ISO 9241. 
+Displeje třídy 0 nemohou mít žádné vady. 1 
+Displeje třídy 1 mohou mít maximálně: 1 
+Displeje třídy 2 mohou mít maximálně: 1 
+Displeje třídy 3 mohou mít maximálně: 1 

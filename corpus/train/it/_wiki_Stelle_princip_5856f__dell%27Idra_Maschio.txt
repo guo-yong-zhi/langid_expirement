@@ -1,0 +1,13 @@
+Segue un prospetto delle stelle principali della costellazione dell'Idra Maschio, elencate per magnitudine decrescente.
+ ·  Nome = nome proprio della stella.
+ ·  B = designazione di Bayer nell'ambito della costellazione.
+ ·  F = designazione di Flamsteed ove presente.
+ ·  HD = numero della stella nel Catalogo Henry Draper.
+ ·  HIP = numero della stella nel Catalogo Hipparcos.
+ ·  AR = ascensione retta della stella all'Epoca dell'equinozio J2000.0.
+ ·  Dec = Declinazione della stella all'Epoca dell'equinozio J2000.0.
+ ·  vis. = magnitudine visuale della stella , conosciuta anche come magnitudine apparente.
+ ·  ass. = magnitudine assoluta della stella .
+ ·  Dist.  = distanza in anni luce dalla Terra.
+ ·  Classe spettrale = classificazione stellare in base alla temperatura superficiale.
+ ·  Note = principalmente sono indicati i nomi comuni con cui è conosciuta la stella; inoltre sono brevemente citate alcune peculiarità della stella .

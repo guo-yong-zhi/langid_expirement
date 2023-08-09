@@ -1,0 +1,3 @@
+P-blokken , et af det periodiske systems blokke, udgøres af grupperne 13 til 18, bortset fra helium. Fælles for disse grundstoffer er at de elektroner, der har den højeste energi i grundtilstanden, befinder sig i p-orbitaler i den yderste skal. En orbital kan højst indeholde to elektroner , og da en elektronskal  maksimalt kan have tre p-orbitaler findes der præcis seks p-bloksgrundstoffer i hver periode, fraset 1. periode.
+Elektronkonfigurationen i de yderste skaller for disse grundstoffer er alle af formen ns2npx hvor n er perioden, og x varierer fra 1 til 6.
+Grupper som indgår:
