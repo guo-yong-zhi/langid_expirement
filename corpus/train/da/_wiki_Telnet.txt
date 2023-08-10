@@ -1,0 +1,4 @@
+Telnet er en netværksprotokol, der anvendes på netværk som eksempelvis internettet og på LAN til tovejs datakommunikation. Den anvendes typisk til fjernstyring af tekstbaserede konsoller. 
+Telnet var, i tiden før World Wide Web blev alment udbredt, blandt andet anvendt til at tilgå fx biblioteksdatabaser. Standardporten for telnet er 23.
+telnet er også navnet på et program der kan bruges til tekstbaseret tovejskommunikation med tjenester på Internettet i et rent tekstuelt format.
+Man kan lave en telnet-forbindelse til port 80, der normalt benyttes af HTTP, der er den dominerende protokol for WWW.  Hvis man henter HTML-dokumenter ad den vej, vil man se deres kildekode.  Hvis der ikke angives andet vil telnet oprette en forbindelse til port 23 der traditionelt anvendes telnet-protokollen.

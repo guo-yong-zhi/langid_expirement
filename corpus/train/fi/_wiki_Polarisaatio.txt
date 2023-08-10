@@ -1,0 +1,98 @@
+Polarisaatio on poikittaiseen aaltoliikkeeseen liittyvä käsite, jolla tarkoitetaan aaltoliikkeen värähtelyjen amplitudin suuntariippuvuutta aallon etenemissuuntaan nähden kohtisuorassa tasossa. Poikittaiset mekaanisetkin aallot voivat olla polarisoituneita, mutta tavallisimmin polarisaatiosta puhutaan valon tai muun sähkömagneettisen säteilyn yhteydessä.
+Sähkömagneettisen säteilyn sähkö-  värähtelevät säteilyn etenemissuuntaan nähden kohtisuorassa tasossa. Polarisaatio kertoo, miten sähkökenttävektorin suunta käyttäytyy tässä tasossa.  Polarisaation erikoistapauksia ovat mm. polarisoitumattomuus, lineaarinen- ja ympyräpolarisaatio. 
+Tavanomaisen valolähteen, kuten lampun ja kynttilän, lähettämässä valossa sähkö- ja magneettikenttä värähtelevät satunnaisesti kaikkiin suuntiin eli valo on polarisoitumatonta. Sinitaivaan valo on heikosti polarisoitunutta. Nestekidenäytöissä on polarisoiva kalvo, jonka takia niiden lähettämä valo on voimakkaasti polarisoitunutta. Jotkut ihmiset pystyvät havaitsemaan polarisaation paljain silmin Haidingerin lyhteen avulla.
+Jos sähkökenttä värähtelee vain yhteen suuntaan, valon sanotaan olevan täysin polarisoitunutta. Tavallisesti polarisoidusta valosta puhuttaessa tarkoitetaan tasopolarisoitua  valoa.
+Polarisaatiota voi aiheuttaa aallon heijastuminen eristeestä kuten lasista tai vedestä tai aallon kulkeminen erittäin ohuen raon läpi. Valo polarisoituu myös kulkiessaan tietyistä aineista koostuvien kiteiden läpi, ja tällaisista aineista voidaankin valmistaa polarisaattori. Radioaaltoja voidaan polarisoida eri tavoin lähetysantennien avulla.
+Metallipinnasta heijastunut valo polarisoituu erittäin heikosti. 
+Jos polarisoitumaton valo kokonaisheijastuu kahden optisesti läpinäkyvän väliaineen rajapinnasta, se on edelleenkin polarisoitumatonta. Valo polarisoituu silloin, kun se tulee vinosti väliaineiden rajapintaan, jossa se heijastuu ja mahdollisesti taittuu. Tällöin sekä heijastunut- että taittunut valo ovat osittain polarisoituneet. 
+Jos säteily tulee rajapinnalle sellaisessa kulmassa 
+  
+    
+      
+        
+           
+          
+            B
+          
+        
+      
+    
+    }
+  
+, että heijastunut säteily ja taittunut säteily muodostavat suoran kulman, heijastunut säteily polarisoituu törmäyspinnan suunnassa. Kulma 
+  
+    
+      
+        
+           
+          
+            B
+          
+        
+      
+    
+    }
+  
+ on nimeltään Brewsterin kulma. Se voidaan laskea yhtälöstä
+  
+    
+      
+        tan
+         
+        
+           
+          
+            B
+          
+        
+        =
+        
+          
+            
+              n
+              
+                2
+              
+            
+            
+              n
+              
+                1
+              
+            
+          
+        
+        ,
+      
+    
+    =,}
+  
+missä 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+      
+    
+    }
+  
+ ja 
+  
+    
+      
+        
+          n
+          
+            1
+          
+        
+      
+    
+    }
+  
+ ovat aineiden taitekertoimet. Läpinäkyvän aineen taitekerroin voidaan määrittää mittaamalla sen Brewsterin kulma kun valo tulee siihen esimerkiksi ilmasta.

@@ -1,0 +1,3 @@
+Le feu blanc clignotant, aussi appelé manœuvre réduite, est un signal ferroviaire de type SNCF.
+Le feu blanc clignotant commande la marche en manœuvre sur un parcours de faible longueur.
+Il interdit dans tous les cas le départ en ligne d'un train.

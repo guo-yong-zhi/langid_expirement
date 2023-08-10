@@ -1,0 +1,3 @@
+El término detector hace referencia a aquel dispositivo capaz de percibir cierto fenómeno físico, tal como la presencia de humo proveniente de un incendio, la existencia de un gas en el aire y la presencia de un intruso en una vivienda.
+En el ámbito del control de procesos, se llama detector a un sensor que solamente es capaz de distinguir entre dos posibles valores o estados del sistema que se mide, por lo cual también recibe el nombre de sensor binario o sensor todo/nada.
+También existen otros detectores tales como:

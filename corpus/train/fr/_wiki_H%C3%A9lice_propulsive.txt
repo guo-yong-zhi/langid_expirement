@@ -1,0 +1,18 @@
+En aéronautique, un moteur à hélice propulsive est un moteur placé devant l'hélice qu'il actionne. De ce fait, l'hélice donne l'impression de « pousser » l'aéronef. Dans la configuration classique, au contraire, l'hélice est située devant le moteur et donne l'impression de « tirer » l'avion : on parle d'hélice « tractive ».
+Sur les monomoteurs, l'hélice propulsive est située à l'arrière du fuselage ou de la nacelle. La queue de l'avion doit donc avoir une forme particulière telle qu'une queue bipoutre.
+Sur les multimoteurs, les moteurs et leurs hélices sont situés près du bord de fuite de l'aile.
+Dans les débuts de l'aviation, l'hélice propulsive a été souvent utilisée, par exemple sur le Wright Flyer ou sur le biplan Curtiss Pusher utilisé par Eugene Ely pour le premier décollage depuis un navire.
+Pendant la Première Guerre mondiale, cette configuration était préconisée par la France et le Royaume-Uni car elle permettait le tir à la mitrailleuse vers l'avant sans être gêné par l'hélice. On l'observe sur les Vickers F.B.5 « Gunbus », Royal Aircraft Factory F.E.2 et Airco DH.2. Par la suite, avec le développement du tir à travers l'hélice, cette configuration s'est raréfiée. Dans les années 1930, on l'observe sur l'hydravion monomoteur Supermarine Walrus. À cette époque, de grands hydravions multimoteurs sont construits, mais plutôt en configuration mixte push-pull, avec un moteur à hélice tractive et un autre à hélice propulsive sur le même axe. Le moteur à hélice propulsive a été utilisé sur le Convair B-36, le plus grand bombardier construit par les États-Unis avec six moteurs en étoile Pratt & Whitney R-4360 de 3 800 ch. Par la suite, ont été ajoutés quatre turboréacteurs General Electric J47.
+Certains avions de tourisme légers modernes sont équipés d'hélices propulsives tels que le Quad City Challenger, le Cirrus VK-30 et les célèbres avions « canards » conçus par Burt Rutan : Varieze et Long-EZ. Mais c'est surtout sur les drones de combat à moteur à hélice que la configuration fait son grand retour : Boeing ScanEagle, RQ-1 Predator, MQ-1C Warrior, RQ-2 Pioneer, RQ-5 Hunter, RQ-7 Shadow, MQ-9 Reaper, RQ-11 Raven, RQ-15 Neptune… En effet, sur ces avions sans pilote, beaucoup d'inconvénients décrits ci-après disparaissent.
+Réplique du Flyer des frères Wright .
+Royal Aircraft Factory F.E.2 . Le moteur se trouve derrière l'aile.
+Hydravion Supermarine Walrus .
+Saab J-21  avant son équipement avec des turboréacteurs.
+Convair B-36 Peacemaker .
+Chasseur expérimental XP-55 .
+Chasseur expérimental XP-56 .
+Aile volante expérimentale Northrop XB-35 .
+Drone Sagem Sperwer B .
+Drone IAI Heron .
+Drone MQ-9 Reaper .
+Sur les autres projets Wikimedia : : document utilisé comme source pour la rédaction de cet article.

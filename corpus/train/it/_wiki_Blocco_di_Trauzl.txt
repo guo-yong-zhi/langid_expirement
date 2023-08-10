@@ -1,0 +1,3 @@
+Il blocco di Trauzl è un sistema utilizzato per misurare la potenza di un esplosivo.
+Consiste in un blocco di piombo puro all'interno del quale vengono fatti esplodere 10 grammi di esplosivo posto in un foro di dimensioni note. La cavità viene quindi ricoperta di sabbia e si procede alla detonazione tramite elettricità. L'immissione di acqua permette di misurare l'aumento di volume della cavità e il valore misurato viene espresso in cm3/g costituisce il numero di Trauzl dell'esplosivo considerato. Esiste anche una variante che utilizza un blocco in alluminio per evitare i rischi legati alla tossicità del piombo.
+Tabella con alcuni valori.

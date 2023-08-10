@@ -1,0 +1,29 @@
+GNU Dr. Geo es un software de geometría interactiva que permite a sus usuarios diseñar y manipular croquis geométricos interactivos. Es software libre , creado por Hilaire Fernandes. Se ejecuta sobre un sistema gráfico Morphic . La versión actual de Dr. Geo es conocida como Geo II. Históricamente Dr. Geo ha sido desarrollado en C++ y Dr. Geo II se ha reescrito completamente usando Pharo desde el año 2005. Este artículo se refiere en su mayoría a la versión más reciente.
+Dr. Geo manipula diferentes clases de objetos como puntos, líneas, círculos, bloque de código.
+Dr. Geo tiene varias clases de puntos: los puntos libres, los cuales pueden ser movidos con el ratón  y los puntos definidos por sus coordenadas.
+Los puntos también pueden ser creados como la intersección de dos curvas o como los puntos medios de un segmento.
+Dr. Geo está equipado con los clásicos tipos línea, rayo, segmento y vector.
+Otros objetos curvilíneos incluyen círculos , arcos , polígonos , y lugares geométricos.
+Además de la línea paralela y la perpendicular a través de un punto, Dr. Geo puede aplicar a un punto o una línea una de estas transformaciones:
+Dr. Geo viene con macro-construcción: una manera de añadir construcciones nuevas a Dr. Geo. Usado para añadir objetos nuevos a Dr. Geo: nuevas transformaciones usando Inversión , construcciones tediosas que usan muchos objetos intermedios o construcciones que requieren un script .
+Cuándo algunos objetos, llamados finales dependen de otros objetos, llamados iniciales, se puede crear una construcción compleja que deduce los objetos finales que quiera crear el usuario de los objetos iniciales dados. Esta es un macro-construcción, un gráfico de objetos interdependientes.
+Acceder a la programación de usuario es la esencia de Dr. Geo: desde el software, el usuario puede directamente leer, estudiar, modificar y redistribuir una versión modificada de Dr. Geo. Además, es posible usar scripts incrustados en los sketchs.
+El código fuente de Dr. Geo está creado en Smalltalk. Es también el lenguaje utilizado para la programación de usuario: extender Dr. Geo con operaciones de cálculo arbitrarias  y definir sketch geométricos solamente programando instrucciones .
+Dr. Geo es distribuido con su código fuente y sus herramientas de desarrollador. Por lo tanto su código puede ser editado y recompilado mientras Dr. Geo está funcionando. Este diseño, heredado de Pharo Smalltalk, hace fácil probar ideas y diseños nuevos.
+Un script es un objeto de primera clase definido con un código de Dr. Geo. Puede tener cero, uno o varios argumentos, de cualquiera de los tipos seleccionados cuándo se define el script. Cuándo una parte de una secuencia de comandos esta conectada en un canvas, el usuario primero selecciona sus argumentos en el canvas con clics del ratón, entonces la posición en el canvas es la salida del script. El script es actualizado en cada cálculo del canvas. Los scripts pueden ser utilizados en cascada, con uno como el argumento de otro. 
+El script está diseñado para ser utilizado en dos maneras diferentes:
+A partir del script, el modelo de argumentos es creado con los métodos #arg1, #arg2, etc. La vista de argumentos está lograda con los métodos #costume1, #costume2, etc.
+El cálculo del script está hecha en su #computar método. Por ejemplo, para calcular la plaza de un número, el script
+    compute 
+ "returns the square of a number" 
+ ^   self   arg1   valueItem   squared 
+    |     triangle     c     | 
+ triangle     :=       . 
+ c     :=     DrGeoCanvas     new  . 
+ triangle     :=     ]  . 
+ triangle 
+       value:      
+       value:      
+       value:      
+       value:     3. 
+</pr

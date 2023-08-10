@@ -1,0 +1,108 @@
+Geisterflecke sind diffus erscheinende, leuchtende, mehr oder weniger kreisrunde Scheiben in fotografischen Aufnahmen. Im englischsprachigen Raum werden diese Flecke häufig als Orbs bezeichnet.  Es handelt sich nicht um einen Abbildungsfehler des abbildenden Systems, sondern häufig um ein Unschärfen-Artefakt, meist bei Aufnahmen mit Blitzlicht.
+Das Licht des Blitzes wird von Teilchen, die zwischen Bildmotiv und Kamera schweben, gestreut und teilweise zurückgeworfen. Infolge der durch die Nähe und den Fokus bedingten Unschärfe entstehen grob scheibenförmige Lichtbilder. Die Abbildung der Teilchen ist dabei um einiges größer als das Teilchen selbst. Die Form orientiert sich an der Form der jeweiligen Blende. Bei der eigentlichen Ursache für diese Streuzentren handelt es sich häufig um Staub, der Effekt kann aber auch durch Regentropfen, Schneeflocken, Insekten oder andere Kleinstobjekte in der Nähe der Kamera hervorgerufen werden.
+Die bei digitalen Kompaktkameras durch die im Vergleich zum analogen Kleinbildformat kleineren Bildsensoren und die damit verbundenen kürzeren Brennweiten bedingte größere Schärfentiefe verursacht Bilder, in denen diese Teilchen noch mit hinreichend kleinem Zerstreuungskreis und somit hell genug abgebildet werden. In der Fotografie im Vollformat oder im Mittelformat sind die Abbildungen der Streuzentren aufgrund der geringen Schärfentiefe oft so groß, dass sie wegen ihrer geringen Helligkeit kaum erkennbar sind.
+Folgende Beobachtungen sind für Geisterflecken typisch:
+Die Größe eines Geisterflecks kann sehr einfach abgeschätzt werden, wenn die Kamera auf unendlich fokussiert ist; die Gegenstandsweite von punktförmig abgebildeten Objekten ist dann ebenfalls unendlich. Der Durchmesser Z des Zerstreuungskreises von einem aus dem Endlichen abgebildeten Punkt ergibt sich mit Hilfe der Linsengleichung und dem geometrischen Verhältnis
+wobei f die eingestellte Brennweite, D die Größe der Eintrittspupille und b die Bildweite sind, dann zu:
+Hierbei sind k die eingestellte Blendenzahl und x der Abstand eines unscharf abgebildeten Punktes sind. Für hinreichend große Abstände 
+  
+    
+      
+        x
+      
+    
+    
+  
+ ergibt sich die Näherung:
+Eine punktförmige Lichtquelle in einem Abstand x vor der Hauptebene des abbildenden Objektivs wird also als leuchtende Scheibe mit einem Durchmesser Z abgebildet, deren Durchmesser umgekehrt proportional zum Abstand des Streuzentrums ist – bei zehnmal größerem Abstand des Streuzentrums wird der Geisterfleck unter sonst gleichbleibenden Bedingungen also zehnmal kleiner.
+Der Durchmesser der entsprechenden Geisterflecke nimmt quadratisch mit der verwendeten Brennweite und linear mit sich vergrößernder Blende  zu. Unter sonst gleichbleibenden Bedingungen werden Geisterflecke bei doppelter Brennweite viermal so groß und bei halber Blendenzahl  doppelt so groß.
+Geisterflecke durch Regen 
+Geisterflecke durch Regen 
+Die Durchmesser der Geisterflecke nimmt also umgekehrt proportional zum Abstand von den Streuzentren zu. Demzufolge nimmt die Fläche der Geisterflecke, also auch die Fläche, auf die sich die Lichtmenge von einem Streuzentrum verteilt, umgekehrt quadratisch zum Abstand von den Streuzentren zu. Auf der anderen Seite nimmt nach dem Abstandsgesetz die Beleuchtungsstärke der Streuzentren quadratisch mit dem Abstand des Blitzlichtes vom Streuzentrum ab. Diese beiden Effekte kompensieren sich, so dass alle Geisterflecke mit Streuzentren gleicher Größe im Bild die gleiche Helligkeit haben; weiter entfernte Streuzentren werden mit ihrer gesamten Lichtmenge zwar als kleinere Geisterflecke mit entsprechend höherer Leuchtdichte abgebildet, werden vom Blitzlicht aber auch im gleichen Maße weniger stark beleuchtet.
+Eine kleine Digitalkamera mit einer Bildsensorgröße von einem halben Zoll  nimmt bei einer eingestellten Blendenzahl von 2,4 und einer Brennweite von 7 Millimetern mit aktiviertem Blitzlicht ein Bild auf, während in zirka 40 Millimetern Abstand vor dem Objektiv ein Staubkorn schwebt . Dieses wird auf dem Bildsensor mit einem Durchmesser von
+abgebildet. Dieser Durchmesser entspricht relativ betrachtet 4 Prozent der Sensordiagonalen. Daher nimmt der entstehende Geisterfleck 4 Prozent der Bilddiagonalen ein und ist bei ausreichender Helligkeit im Bild deutlich als Scheibchen erkennbar.
+Bei einer größeren Kamera mit einer Bildgröße im Kleinbildformat beträgt die Bilddiagonale 43,3 Millimeter. Um eine Aufnahme mit dem gleichen Bildwinkel aufzunehmen wie bei der oben beschriebenen kleinen Digitalkamera, wird eine Brennweite von 24 Millimetern benötigt. Bei der gleichen Blendenzahl von 2,4 und dem gleichen Abstand eines Staubkorns vor dem Objektiv von 40 Millimetern ergibt sich ein Zerstreuungskreisdurchmesser von:
+Das entspricht relativ betrachtet 14 Prozent der Bilddiagonalen.
+Die relativen Flächen der beiden betrachteten Zerstreuungskreise 
+  
+    
+      
+        
+          A
+          
+            
+              r
+              e
+              l
+            
+            ,
+            1
+          
+        
+      
+    
+     ,1}}
+  
+ und 
+  
+    
+      
+        
+          A
+          
+            
+              r
+              e
+              l
+            
+            ,
+            2
+          
+        
+      
+    
+     ,2}}
+  
+ verhalten sich jedoch wie die Quadrate der relativen Durchmesser 
+  
+    
+      
+        
+          Z
+          
+            
+              r
+              e
+              l
+            
+            ,
+            1
+          
+        
+      
+    
+    {\displaystyle Z_}
+  
+ und 
+  
+    
+      
+        
+          Z
+          
+            
+              r
+              e
+              l
+            
+            ,
+            2
+          
+        
+      
+    
+    {\displaystyle Z_}
+  
+, also wie:
+Demzufolge beträgt auch die Helligkeit innerhalb des Zerstreuungskreises bei der größeren Kamera nur 8 Prozent derjenigen bei der kleinen Digitalkamera. Unter Umständen ist das jedoch zu dunkel, um in der Aufnahme überhaupt noch erkannt zu werden. Umgekehrt ausgedrückt ist die Helligkeit des Geisterflecks bei der kleinen Digitalkamera etwa zwölfmal größer als bei größeren Kamera, so dass dieser in den Aufnahmen der kleinen Digitalkamera viel deutlicher erkannt werden kann.
+Das Wissen um die Mechanismen bei der Entstehung von Geisterflecken ermöglicht eine künstlerische Verwendung, etwa durch verschiedene Blendenformen oder künstliche Erzeugung. Linsenreflexionen und Unschärfen punktförmiger Lichtquellen beziehungsweise der Sonne bilden ähnliche Fragmente und Bildartefakte .

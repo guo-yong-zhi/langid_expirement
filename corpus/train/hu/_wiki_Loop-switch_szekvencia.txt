@@ -1,0 +1,24 @@
+Pontosságellenőrzött
+A loop-switch szekvencia, 1   avagy for-case paradigma 2  egy programozási antiminta, ahol egy lépéssorozatot egy ciklus belsejében elhelyezett switch valósít meg, mintha nem lenne ismert az egyes lépések sorrendje. A spagetti kód speciális esete.
+Ha egy ciklusban switch van, az még nem biztos, hogy antiminta. Csak akkor tekinthető annak, ha a lépések sorrendje ismert. A korrekt megvalósításra példa a kontroll megfordítása, és egy eseménykezelő működtetése. Az eseménykezelő ciklusokban a lépések sorrendje ismeretlen fordítási időben, mivel azokat a felhasználó választja ki. Emiatt a switch valóban szükséges. Lásd: eseményvezérelt programozás, eseménykezelő ciklus, és eseményvezérelt véges állapotú gép.
+A kigöngyölített ciklus hiánya okozhat gyengébb performanciát, habár ez nem mindig érződik. Mégsem a performancia gyengítése, hanem a rosszabb olvashatóság a minta legfontosabb következménye. Minden nem triviális példában nehezebb megérteni a programrészletet, annak célját és működését, mint egy szekvenciát tartalmazó ciklust.
+A következő példa egy megfigyelő interfészt valósít meg:
+    String     key     =     null  ; 
+ String     value     =     null  ; 
+ List  <  String  >     params     =     null  ; 
+ int     column     =     0  ; 
+ public     void     addToken        
+       if           
+    // parse a key, a value, then three parameters  
+ String     key     =     null  ; 
+ String     value     =     null  ; 
+ List  <  String  >     params     =     new     LinkedList  <  String  >  ; 
+ for           
+ } 
+    // parse a key and value 
+ String     key     =     stream  .  parse  ; 
+ String     value     =     stream  .  parse  ; 
+ // parse 3 parameters 
+ List  <  String  >     params     =     new     LinkedList  <  String  >  ; 
+ for           
+</prEz a szócikk részben vagy egészben  a   Loop-switch sequence című angol Wikipédia-szócikk fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel. Ez a jelzés csupán a megfogalmazás eredetét és a szerzői jogokat jelzi, nem szolgál a cikkben szereplő információk forrásmegjelöléseként.

@@ -1,0 +1,3 @@
+modifier  Markov est un astéroïde de la ceinture principale.
+ Markov est un astéroïde de la ceinture principale. Il fut découvert par Paul G. Comba le 26 avril 2000 à Prescott. Il présente une orbite caractérisée par un demi-grand axe de 2,87 UA, une excentricité de 0,034 et une inclinaison de 2,97° par rapport à l'écliptique.
+Il fut nommé d'après le mathématicien russe Andreï Markov . Il a un fils homonyme Andreï Markov , également mathématicien.

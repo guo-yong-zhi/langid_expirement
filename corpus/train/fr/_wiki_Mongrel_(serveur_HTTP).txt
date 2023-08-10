@@ -1,0 +1,5 @@
+Pour les articles homonymes, voir Mongrel.
+modifier - modifier le code - voir Wikidata  Cet article est une ébauche concernant l’informatique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+Mongrel est un serveur HTTP écrit en Ruby et en C. Il a été conçu pour être léger, rapide et sécurisé.
+C'est un logiciel libre distribué selon les termes de la licence Ruby, compatible avec la licence GNU GPL.
