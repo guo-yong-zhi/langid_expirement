@@ -1,0 +1,11 @@
+NTP  on UDP-pohjainen protokolla täsmällisen aikatiedon välittämiseen tietokoneiden välillä.
+Protokolla on suunniteltu ottamaan huomioon verkon muuttuvat viiveet. Sama protokolla toimii sekä usean palvelimen kellojen keskinäiseen tahdistamiseen, että asiakas-palvelin käytössä.
+NTP:n suunnitteli David Mills, joka sai rahoitusta ARPANETiin liittyvään kehitystyöhön. 1  1990-luvun puolivälissä Mills luovutti NTP:n uusien julkaisujen tekemisen Harlan Stennille. 1 
+Usein NTP-palvelimet toimivat hierarkkisesti siten että yksi tai useampi 1. tason  palvelin saa aikansa suoraan ulkoisesta aikalähteestä tai esimerkiksi GPS:n välityksellä, atomikellolta tai BIOS:in kellosta. Stratum-taso ei siis kerro palvelimen kellon tarkkuudesta, vaan palvelimen sijainnista verkkohierarkiassa.
+Stratum-tasot ovat hierarkkisia. 2-tason palvelimet hakevat aikansa vähintään yhdeltä 1. tason palvelimelta. Stratum 3 -tason kellot hakevat aikansa kakkosilta jne. Tasoja voi olla 16.
+Perinteisesti loppukäyttäjät hakevat ajan stratum 2 -tason palvelimilta. Asiakas voi käyttää joko yhtä tai useampaa palvelinta. Kolme NTP-palvelinta on vähimmäismäärä, jotta asiakas voi päätellä mikä kelloista on väärässä.
+Ajan välitys voidaan hoitaa lähiverkossa broadcast- tai multicast-lähetyksenä, jolloin useat asiakkaat saavat ajan yhdestä multicast- tai broadcast-paketista.
+Karkaussekuntien käsittelyssä NTP pysäyttää kellon eikä etene karkaussekunnin aikana, joka eroaa POSIXin käytännöistä. 2  Google on ehdottanut karkaustahran käyttöä, joka jakaa karkaussekunnin pienemmissä erissä vuorokauden ajalle, jolloin jokainen sekunti on 11,6 mikrosekuntia pidempi. 3 
+NTP määritellään seuraavissa RFC-dokumenteissa:
+Protokollan toteuttavia ohjelmia ovat muun muassa ntpd ja Chrony.
+Suomen viralliseen aikaan synkronoidut viralliset ja julkiset NTP-palvelut ovat VTT MIKES:in ylläpitämiä. Kuka tahansa voi käyttää MIKESin julkista stratum 2 -tason NTP-palvelua.  4 

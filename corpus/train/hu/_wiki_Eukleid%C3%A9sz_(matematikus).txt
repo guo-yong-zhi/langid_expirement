@@ -1,0 +1,13 @@
+Pontosságellenőrzött
+Alexandriai Eukleidész  egyiptomi hellenisztikus matematikus, akit később a geometria atyjaként is emlegettek.
+Platón akadémiáján tanult Athénben. Az alexandriai matematikai iskola megalapítója. Ő a híres ókori matematikakönyv, az Elemek  szerzője, amelyben összefoglalta a matematika alapjait .
+Az Elemekben geometriai módszerekkel ugyan, de világosan leírja a két szám vagy mennyiség legnagyobb közös osztójának megkeresésére  használt euklideszi algoritmust. Ezt a legtöbb tudománytörténész szerint a püthagoreusok fedezték fel, legalábbis biztos, hogy ismerték.
+Az Elemekben a geometriai objektumok tulajdonságait viszonylag kis számú axiómából vezeti le, így a modern matematika axiomatikus módszerének úttörője  volt. Egyéb művei a perspektíváról, kúpszeletekről, szférikus geometriáról szólnak. Születésének éve és helye, valamint halálának körülményei ismeretlenek.
+Noha az Elemekben bemutatott eredmények nagy része más matematikusoktól származik, Eukleidész nagy érdeme, hogy egységes, logikailag összefüggő szerkezetben mutatta be őket. Azonkívül, hogy néhány hiányzó bizonyítást is elvégzett, Eukleidész szövege tartalmaz számelméleti valamint térmértani részeket is.
+Az Elemekben bemutatott geometriai rendszert sokáig úgy tekintették, mint „a” geometriát. Manapság mindenesetre eukleidészi geometriának nevezik , megkülönböztetésképpen az úgynevezett nem euklideszi geometriáktól, amelyeket a 19. századtól vezettek be. Az új geometriák Eukleidész ötödik posztulátumának a vizsgálatából nőttek ki, amely a matematika történetének legtöbbet tanulmányozott axiómája. Ezek a kutatások legfőképpen azt célozták, hogy bebizonyítsák a viszonylag bonyolult ötödik posztulátumot az első négy használatával.
+A párhuzamossági axióma  elhagyásával vagy más axiómával való helyettesítésével ellentmondásmentes geometriához juthatunk – például a Bolyai János és Lobacsevszkij nevéhez fűződő hiperbolikus geometriához.
+Az Elemek mellett Eukleidésznek még négy műve maradt fenn.
+Mindegyik fenti mű az Elemek logikai szerkezetét követi azáltal, hogy meghatározásokat és bizonyított állításokat tartalmaz.
+További négy művet Eukleidésznek tulajdonítanak, de ezek nem maradtak fenn, csupán hivatkozásokból ismertek:
+Egyiptom királyának  kérdésére, hogy van-e valami könnyebb módszer a geometria elsajátításához, mint az Elemek áttanulmányozása, így felelt: „A geometriához nem vezet királyi út.”
+Róla mesélik, hogy amikor egy ifjú megkérdezte tőle, hogy lesz-e valami haszna abból, hogy geometriát tanul, Eukleidész így szólt a szolgájához: „Adj már ennek egy oboloszt , mert hasznot akar húzni abból, amit tanul.” 2 

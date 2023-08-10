@@ -1,0 +1,238 @@
+Analýza nákladů a přínosů  patří k základním technikám pro hodnocení investičních projektů. Analýza nákladů a přínosů rozšiřuje běžné finanční hodnocení projektu o veškeré socio-ekonomické  dopady projektu . Rozdíl mezi finančním a socio-ekonomickým hodnocením projektu lze ilustrovat na příkladu dětského hřiště. Zatímco výdaje na výstavbu a provoz dětského hřiště patří do finanční analýzy, socio-ekonomická analýza rozšiřuje výsledky hodnocení i o užitek rodičů s dětmi, kteří budou hřiště využívat. 
+Analýza nákladů a přínosů k porovnávání již uskutečněných i pouze potencionálních kroků investičního projektu. Běžně se používá pro hodnocení obchodních či politických rozhodnutí, a to zejména veřejné politiky. Základní myšlenkou CBA je, že investiční projekt by měl přinést více přínosu než újmy. Pro dosažení tohoto cíle jsou při hodnocení klíčové otázky, zda je investice smysluplná, o kolik přínosy převáží náklady a který z vyhodnocovaných projektů je nejlepší. Obecně platí, že analýza nákladů a přínosů poukáže na investice, které zvyšují blahobyt z utilitárního hlediska. 1 
+Český název "Analýza nákladů a přínosů" může být lehce zavádějící, neboť termín náklady v tomto případě neznamená finanční náklady z účetnického hlediska, ale spíše jakési „újmy“, které s sebou investiční projekt nese. Jinak řečeno, jsou to veškeré negativní dopady plynoucí z investice. Přínosy označují naopak dopady pozitivní.
+První formální analýza nákladů a přínosů byla provedena v roce 1708 Francouzem Abbé de Saint-Pierrem, který se v tu dobu zabýval tím, jaké by plynuly výhody z vylepšování silnic. 2 
+Joseph Minard učinil v roce 1832 od svého předchůdce Naviera velké pokroky. Navier pronesl, že veřejné práce by měly být poskytovány pouze tehdy, pokud celkové přínosy převýší celkové náklady. Minard zaprvé zjistil, že úspory nákladů zvyšující užitek jsou výsledkem změny ve spotřebě a zadruhé zavedl do měření přínosů více subjektivních prvků. 2 
+Do vývoje analýzy nákladů a přínosů také významné přispěl francouzský stavební inženýr a ekonom Jules Dupuit, který se začal zajímat o to, jaké by byly přínosy pro veřejnost u projektů jako je například výstavba silnice či mostu. Na základě této myšlenky začal zkoumat, jaký užitek by jednotliví uživatelé z projektu měli a došel k závěru, že pro každého spotřebitele má téže věc jiný užitek. podle množství, které dokáže spotřebovat. 2 
+V USA byla metoda nákladů a přínosů zavedena armádním sborem techniků . 3 
+Analýza nákladů a přínosů byla později rozšířena, aby se zabývala hmotnými i nehmotnými přínosy veřejnosti souvisejícími s duševním onemocněním, zneužíváním návykových látek či vysokoškolským vzděláním.
+Metoda nákladů a přínosů se hojně využívá i při zkoumání investic do dopravy. To začalo poprvé ve Spojeném království při výstavbě dálnice M1 a později byla použita i při výstavbě linky londýnského metra.
+Při zpracovávání CBA je doporučeno postupovat podle těchto kroků: 4 
+Za nulovou variantu považujeme stav, u kterého se předpokládá, že by nastal bez realizace projektu. Naopak investiční varianta je předpokládaný stav po realizaci projektu. 5  Tyto dvě varianty jsou v průběhu delšího časového horizontu zkoumány a porovnávány. Určení správné nulové varianty je pro provádění analýzy nákladů a přínosů klíčové, protože například při zvolení příliš nízké hodnoty pro nulovou variantu může dojít k přecenění přínosů zkoumaného projektu. 6 
+Pro potřeby hodnocení je třeba veškeré dopady kvantifikovat. To lze udělat například použitím přírůstkové metody, což znamená že se počítá pouze se změnou újmy nebo přínosu. Pokud je výsledná hodnota kladná, jedná se o přínos, naopak záporná hodnota napovídá, že se jedná o újmu.
+Veškeré náklady a přínosy se při hodnocení převádí na hotovostní toky, tedy příjmy a výdaje, protože je třeba mít, pokud možno, vše vyjádřené v peněžní podobě. Hotovostní toky jsou upraveny o časovou hodnotu peněz, což znamená, že veškeré peněžní toky jsou vyjádřeny v jejich čisté současné hodnotě.
+Pokud efekty jsou náklady a přínosy vyjádřeny v jiné než peněžní hodnotě, ale existuje trh, který pro ně stanoví cenu, je možné využít přímého ocenění na základě této tržní ceny. 7 
+K ocenění položek, pro které nejsou k dispozici tržní ceny , je možné použít několik přístupů. Jedním z nich jsou tzv. stínové ceny. Ty sice pomáhají posoudit hodnotu určitých dopadů, jsou to ale jen hrubé odhady, a tak často bývají nepřesné. Další nevýhodou stínových cen je, že jsou ve své podstatě subjektivní. 8 
+Dalším způsobem ocenění jsou tzv. náhražkové trhy, což je způsob ocenění na základě odvození ceny od jiného aktiva, pro které existuje tržní cena. Je ale třeba, aby mezi těmito dvěma statky existovala určitá logická paralela.
+Při vyjadřování veškerých nákladů a přínosů je třeba dbát na to, zda se hotovostní toky budou kalkulovat v nominální či reálné podobě, tedy zda bude zahrnuta inflace či nikoli. Způsob vyjádření je na zpracovateli, neboť při zachování všech důležitých pravidel se toto rozhodnutí neprojeví na žádné hodnotě kriteriálních ukazatelů. Musí být však dodrženo několik podmínek: v analýze musí být uvedeno, zda jsou toky kalkulovány v nominální či reálné podobě, všechny toky musí být kalkulovány v jednotné podobě a ve stejné podobě musí být i diskontní sazba. Nedodržení těchto podmínek by mohlo vést ke zkreslení výsledných hodnot. 4 
+U některých nákladů a přínosů ale může být kvantifikace obtížná. Například zlepšení nálady obyvatel v obci se na peněžní podobu bude převádět jen ztěžka, a navíc by převod mohl ohrozit výsledky analýzy, proto není nutné za každou cenu dopady na hotovostní toky převádět, tedy tzv. ocenit.
+Diskontní sazba je výnosová míra, kterou nabízejí z hlediska rizika srovnatelné investiční projekty. 9  Jinými slovy, jde o ušlý zisk z investované částky do alternativního investičního projektu. Diskontování je proces úpravy budoucích hodnot příjmů nebo výdajů na současné hodnoty, a to za pomocí diskontní sazby. 10  Doporučená diskontní sazba při provádění analýzy nákladů a přínosů je podle Evropské komise asi 5 %. 6 
+Převod na současnou hodnotu se provádí již výše zmíněným diskontováním. Vzorec pro výpočet současné hodnoty projektu je následující:
+  
+    
+      
+        P
+        
+          V
+          
+            t
+          
+        
+        =
+        
+           
+          
+            t
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          
+            
+              
+                C
+                
+                  F
+                  
+                    t
+                  
+                
+              
+              
+                
+                  
+                    t
+                  
+                
+              
+            
+          
+        
+      
+    
+    =\sum _}
+  
+kde: 
+Pokud je hodnota ukazatele větší než investiční výdaje, resp. hotovostní toky v nultém období, lze investiční projekt považovat za přijatelný. Pokud je tomu naopak, považuje se za nepřijatelný. Výslednou hodnotu PV lze také brát jako maximální cenu, kterou by byl investor ochoten za projekt zaplatit v současných penězích.
+Čistá současná hodnota , neboli velikost čistého výnosu z investice, se pak spočítá jako součet současné hodnoty budoucích hotovostních toků plynoucích z investice a hotovostního toku v nultém roce. NPV by měla být větší nebo rovna nule.
+  
+    
+      
+        N
+        P
+        V
+        =
+        
+           
+          
+            t
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              
+                C
+                
+                  F
+                  
+                    t
+                  
+                
+              
+              
+                
+                  
+                    t
+                  
+                
+              
+            
+          
+        
+      
+    
+    ^}}
+  
+                                                      neboli
+  
+    
+      
+        N
+        P
+        V
+        =
+        P
+        V
+         
+        I
+      
+    
+    
+  
+kde:
+Vnitřní výnosové procento  je taková diskontní sazba, při které bude čistá současná hodnota toků plynoucích z investic rovna nule. Výpočet IRR investičního projektu:
+  
+    
+      
+        0
+        =
+        
+           
+          
+            t
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          
+            
+              
+                C
+                
+                  F
+                  
+                    t
+                  
+                
+              
+              
+                
+                  
+                    t
+                  
+                
+              
+            
+          
+        
+      
+    
+    ^}}
+  
+Při porovnávání investičních projektů by měl být zvolen projekt s vyšší hodnotou IRR.
+Doba návratnosti je doba, za kterou se předpokládané hotovostní toky vyrovnají počáteční investici. Pro vypočítání doby návratnosti používáme vztah 
+  
+    
+      
+        
+          
+            
+              
+                C
+                
+                  F
+                  
+                    0
+                  
+                
+              
+              
+                C
+                
+                  F
+                  
+                    t
+                  
+                
+              
+            
+          
+        
+      
+    
+    }}
+  
+ neboli 
+  
+    
+      
+        
+          
+            
+              I
+              
+                C
+                
+                  F
+                  
+                    t
+                  
+                
+              
+            
+          
+        
+      
+    
+    }
+  
+.
+Mezi nejznámější kritiky této cost-benefit analýzy patří E. F. Schumacher. Tento model kritizuje z toho důvodu, že i když se pokouší vzít v úvahu náklady a výnosy, kterým by jinak nebyla věnována pozornost, tak je tím prováděn proces, kterým je oceňováno neocenitelné. Všemu je přiřazována finanční hodnota. Schumacher to vnímá jako logickou absurditu - zdání, které probouzí to, že vše má svou cenu a nejvyšší hodnotou jsou tedy peníze. To je podle něho špatné. 
+Ve své knize Malé je milé, pojednává E.F. Schumacher o tom, že panuje všeobecně rozšířený názor - každý člověk se rodí dobrý. Jestli se z něj stane zločinec nebo vykořisťovatel je kladeno za vinu „systému“. Toto přesvědčení souvisí s filosofickými a náboženskými změnami v postoji člověka k přírodě. Moderní člověk nevnímá sám sebe jako součást přírody, ale jako vnější sílu určenou k tomu, aby si přírodu podmanila a dobyla. „Dokonce hovoří o boji s přírodou a zapomíná, že kdyby tuto bitvu vyhrál, ocitl by se na straně poražených.“ 11  
+Lidé se přidržují iluze neomezené moci, která zesiluje s vědeckými a technickými úspěchy. Každý ekonom rozlišuje mezi důchodem a kapitálem vynechává při tom hlavního kapitálu – toho, který člověk nevyrobil a bez kterého nemůže nic . 
+Podle Schumachera každý můžeme svým dílem přispět, musíme však do hloubky pochopit problém a hledat možnosti, jak rozvinout nový životní styl, nové metody výroby a nové vzorce spotřeby – životní styl, který míří k trvanlivosti. „Domnívám se, že základem míru nemůže být všeobecný blahobyt v moderním slova smyslu, protože takového blahobytu je možno  dosáhnout jedině záměrným pěstováním vlastností, jako je chamtivost a závist, jež ovšem ničí inteligenci, štěstí, vyrovnanost, a tudíž i základy míru v člověku samotném.“ 12  
+Ekonomie je odvozená od metaekonomie -  pochopit metaekonomii znamená pochopit a objasnit limity ekonomie. Ekonomové musí pochopit, že aplikace ekonomických pouček má své hranice. Zabývá-li se ekonomie člověkem v jeho prostředí, pak by metaekonomie byla tvořena ze dvou částí – jedné zabývající se člověkem a druhé, která se zabývá prostředím.

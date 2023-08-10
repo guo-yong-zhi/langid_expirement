@@ -1,0 +1,1 @@
+Fizikte dönüşümçarpanı , eksenlerden birinin işaretinin değiştirilmesi durumunda elde edilen sonuçla ilk girdi arasındaki bağıntıyı gösteren çarpandır. 3-boyutta, eksenlerin üçünün işaretinin birden değiştirilmesi ile dönüşümçarpanı elde edilir. Dönüşümçarpanı matematiksel olarak şöyle gösterilebilir:

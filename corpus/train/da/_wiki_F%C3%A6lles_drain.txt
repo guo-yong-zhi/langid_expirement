@@ -1,0 +1,404 @@
+Fælles drain, også kendt som jordet drain eller sourcefølger, er navnet på et forstærkertrin baseret på en felteffekttransistor. Navnet skyldes at transistorens drain-tilledning  står i forbindelse med den ene "side" af både ind- og udgangen på forstærkertrinnet. I tilfældet med en N-channel felteffekt-transistor er denne source-ledning dog forbundet til forsyningsspændingen, mens det er stelledningen der udgør den "fælles side" af ind- og udgang. Men da både stel- og forsyningsledningen er uden vekselspænding , kan man betragte begge dele som "AC-mæssigt stel", dvs. signalmæssigt det samme "sted".
+Kendetegnende for et fælles drain-forstærkertrin er en meget høj indgangsimpedans , en udgangsimpedans på typisk nogle få kiloohm; det har således en forholdsvis stor strømforstærkning. Til gengæld er der ikke nogen spændingsforstærkning – udgangssignalets spænding vil i teorien være en anelse mindre end indgangssignalets.
+Til højre ses diagrammet for et fælles drain-forstærkertrin: modstandene 
+  
+    
+      
+        
+          R
+          
+            1
+          
+        
+      
+    
+    }
+  
+ og 
+  
+    
+      
+        
+          R
+          
+            2
+          
+        
+      
+    
+    }
+  
+ danner en spændingsdeler der fastlægger den spænding der skal være på transistorens gate-forbindelse. Der går ikke nogen strøm i transistorens gate, så hvis man kan fastlægge transistorens arbejdspunkt sådan at gate-spændingen netop er 0 volt, kan man udelade 
+  
+    
+      
+        
+          R
+          
+            1
+          
+        
+      
+    
+    }
+  
+ og "nøjes" med at forbinde gaten til stel gennem en meget stor . Spændingen på gaten er så tilpas lavere end spændingen på source-terminalen, så der løber en vis strøm, kaldet hovedstrømmen gennem drain og source – for småsignal-transistorer typisk 1-10 milli-ampere. Denne strøm medfører et spændingsfald over sourcemodstanden 
+  
+    
+      
+        
+          R
+          
+            3
+          
+        
+      
+    
+    }
+  
+, så sourceterminalen er ca. halvt så stor som den til rådighed stående forsyningsspændiong 
+  
+    
+      
+        
+          U
+          
+            C
+            C
+          
+        
+      
+    
+    }
+  
+.
+Systemet er "selv-stabiliserende" i og med at hvis strømmen stiger, stiger spændingsforskellen mellem source og gate, hvorved hovedstrømmen bringes ned igen, og systemet bringes tilbage mod det oprindelige arbejdspunkt.
+Det signal der skal behandles, føres ind gennem indgangskondensatoren 
+  
+    
+      
+        
+          C
+          
+            1
+          
+        
+      
+    
+    }
+  
+ – denne tjener som skillekondensator for jævnspændinger, eftersom signalkilden oftest vil arbejde ved en anden spænding end den der skal være på sourcen. Signalet vil få spændingen på gaten til at variere, og i kraft af ovenstående stabiliserings-mekanisme vil spæningen på source "følge med" i indgangssignalets variationer, så der hele tiden er den samme spændingaforskel mellem gate og source. Deraf navnet source-følger.
+Da udgangssignalet i er i fase med, og i praksis er præcist lige så stort som indgangsignalet, sker der ikke nogen spændingsforstærkning. Men eftersom udgangsimpedansen kan gøres markant mindre end indgangsimpedansen, finder fælles drain-trinnet anvendelse til impedanstipasningsformål hvor udgangsimpedansen fra en signalkilde skal bringes ned.
+I de følgende formler repræsenterer symbolet 
+  
+    
+      
+         
+      
+    
+    
+  
+ beregningen for parallelkobling af modstande/impedanser.
+Signalkilden driver gennem indgangskondensatoren 
+  
+    
+      
+        
+          C
+          
+            1
+          
+        
+      
+    
+    }
+  
+ kun den eller de modstande der fastlægger gatespæningen, eftersom der ikke går nogen strøm i gaten selv. Derfor er indgangsimpedansen 
+  
+    
+      
+        
+          Z
+          
+            i
+            n
+            d
+          
+        
+      
+    
+    }
+  
+ givet ved 
+  
+    
+      
+        
+          Z
+          
+            i
+            n
+            d
+          
+        
+        =
+        
+          R
+          
+            1
+          
+        
+         
+        
+          R
+          
+            2
+          
+        
+      
+    
+    =R_}
+  
+. Hvis gatens arbejdsspænding er nul volt, udelades 
+  
+    
+      
+        
+          R
+          
+            1
+          
+        
+      
+    
+    {\displaystyle R_
+  
+, og indgangimpedansen er da lig med den tilbageværende modstand 
+  
+    
+      
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle R_
+  
+.
+Udgangsimpedansen 
+  
+    
+      
+        
+          Z
+          
+            u
+            d
+          
+        
+      
+    
+    }
+  
+ skabes af drainmodstanden 
+  
+    
+      
+        
+          R
+          
+            3
+          
+        
+      
+    
+    }
+  
+ og "udgangs-admittansen" 
+  
+    
+      
+        
+          
+            Y
+            
+              O
+              S
+            
+          
+        
+      
+    
+    }}
+  
+ i transistorens drain i forhold til source: 
+  
+    
+      
+        
+          Z
+          
+            u
+            d
+          
+        
+        =
+        
+          Z
+          
+            i
+            n
+            d
+          
+        
+        =
+        
+          R
+          
+            3
+          
+        
+         
+        
+          
+            1
+            
+              Y
+              
+                O
+                S
+              
+            
+          
+        
+      
+    
+    =Z_\|{\frac {1}}}
+  
+Der sker ikke nogen spændingsforstærkning 
+  
+    
+      
+        
+          A
+          
+            u
+          
+        
+      
+    
+    }
+  
+ i et fælles drain-forstærkertrin. Faktisk bliver udgangssignalet, afhængig af den evt. belastning 
+  
+    
+      
+        
+          R
+          
+            L
+          
+        
+      
+    
+    }
+  
+ som udgangan skal drive, en anelse mindre end udgangssignalet, idet 
+  
+    
+      
+        
+          A
+          
+            u
+          
+        
+        =
+        
+          
+            
+              
+                Y
+                
+                  O
+                  S
+                
+              
+               
+              
+                
+              
+            
+            
+              1
+              +
+              
+                Y
+                
+                  O
+                  S
+                
+              
+               
+              
+                
+              
+            
+          
+        
+      
+    
+    =}
+  
+Til gengæld yder trinnet en vis strømforstærkning, idet ind- og udgangssignalerne "færdes" i vidt forskellige impedanser. Strømforstærkningen 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+      
+    
+    }
+  
+ kan approksimeres ved 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+         
+        
+          
+            
+              Z
+              
+                i
+                n
+                d
+              
+            
+            
+              Z
+              
+                u
+                d
+              
+            
+          
+        
+      
+    
+    \approx }
+  
+Skillekondensatorerne i ind- og udgang har den bivirkning at de sætte en nedre grænse for frekvenserne i de signaler trinnet kan bearbejde. Disse kondensatorer virker i samspil med ind- og udgangsimpedanserne samt den signalkilde hhv. belastning der tilsluttes, som et højpasled. Derfor skal disse kondensatorer have så tilpas store værdier, at denne nedre grænsefrekvens ikke får nogen praktisk betydning for anvendelsen af forstærkertrinnet.

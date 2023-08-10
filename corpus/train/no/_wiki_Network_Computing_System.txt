@@ -1,0 +1,2 @@
+Network Computing System er et tidligere nettverksoperativsystem som ble utviklet av Apollo Computer på 1980-tallet som en implementasjon av Network Computing Architecture . Det omfattet et sett med verktøy for implementering av distribuert programvare.
+Konstruksjonen av DCE/RPC, eller Remote procedure call innenfor Distributed Computing Environment, er basert på NCA/NCS. Det samme gjelder den første implementasjonen av universelle unike identifikatorer.

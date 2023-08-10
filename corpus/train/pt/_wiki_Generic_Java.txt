@@ -1,0 +1,2 @@
+Generic Java  é uma linguagem de programação derivado do Java que adiciona suporte para programação genérica. Foi criada por Gilad Bracha, Martin Odersky, David Stoutamire, and Philip Wadler para oferecer uma transição e melhor compatibilidade que a linguagem Pizza criada anteriormente por Odersky e Wadler.
+O Generic Java foi incorporado na versão oficial J2SE 5.0

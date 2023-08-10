@@ -1,0 +1,85 @@
+Operátor výběru je v logice operátor nad formulemi zavedený Davidem Hilbertem vracející term, pro který formule platí. V logice prvního řádu například platí 
+  
+    
+      
+         
+        x
+        .
+        P
+        
+         
+        P
+        
+      
+    
+    
+  
+. Formalismus podporující operátor výběru se nazývá ε-kalkulus.
+ Operátor výběru lze použít k eliminaci kvantifikátorů, neboť platí
+   
+   
+     
+       
+            
+         x 
+         . 
+         P 
+          
+            
+         P 
+          
+       
+     
+      
+   
+    
+a
+   
+   
+     
+       
+            
+         x 
+         . 
+         P 
+          
+            
+         P 
+          
+       
+     
+      
+   
+    .
+Term    
+   
+     
+       
+            
+         x 
+         . 
+            
+         P 
+       
+     
+      
+   
+     ve druhé ekvivalenci reprezentuje imaginární prvek, pro který formule platí, platí-li pro celé  universum . V tomto smyslu je ekvivalentní  Henkinovým svědkům  pro univerzální kvantifikaci:    
+   
+     
+       
+         P 
+          
+            
+            
+         x 
+         . 
+         P 
+          
+       
+     
+      
+   
+    
+ 
+ 

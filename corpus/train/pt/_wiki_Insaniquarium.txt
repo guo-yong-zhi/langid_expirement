@@ -1,0 +1,3 @@
+Insaniquarium é um jogo eletrônico criado pela Flying Bear Entertainment e pela PopCap Games.
+O objetivo do jogador é alimentar peixes e outras criaturas subaquáticas, obtendo upgrades para, enfim, alcançar o objetivo de comprar um ovo. Cada ovo contém um pet que irá ajudar os jogadores nos níveis subsequentes, entretanto só se pode trazer três pets para o nível. Após completar cada tanque o jogador terá um bônus que consiste em obter o máximo de conchas, estas são utilizadas para comprar um dos quatro ovos raros, e também como moeda de troca do aquário.
+A primeira versão do jogo, desenvolvida pela Flying Bear Entertainment, é Java baseada e disponível como um online game gratuito.

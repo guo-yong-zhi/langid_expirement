@@ -1,0 +1,7 @@
+Die Liste der Fließgewässer im Flusssystem Schondra umfasst alle direkten und indirekten Zuflüsse der Schondra, soweit sie namentlich auf 
+aufgeführt werden und zusätzlich einige dort namenlose.
+Wenn sich der Gewässername nach dem Zusammenfluss zweier Gewässerabschnitte ändert, werden die beiden Zuflüsse als Quellzuflüsse separat angeführt, ansonsten erscheint der Teilabschnittsname in Klammern. Die Längen- und Einzugsgebietsangaben werden auf eine Nachkommastelle gerundet, die Werte sind entweder direkt der zweitgenannten Quelle entnommen oder unter möglichst weitgehender Übernahme daraus und zusätzlichen Abmessungen auf der erstgenannten Quelle ermittelt .
+Die Fließgewässer werden jeweils flussabwärts aufgeführt. Die orografische Richtungsangabe ist relativ zum direkt übergeordneten Gewässer.
+Die Schondra ist ein rechter Zufluss der Fränkischen Saale. Sie ist 31,3 km lang und hat ein 164,3 km² großes Einzugsgebiet.
+Direkte und indirekte Zuflüsse der Schondra
+siehe Liste der Fließgewässer im Flusssystem Fränkische Saale

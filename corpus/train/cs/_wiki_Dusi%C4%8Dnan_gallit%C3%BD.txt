@@ -1,0 +1,391 @@
+Dusičnan gallitý je anorganická sůl gallia a kyseliny dusičné s chemickým vzorcem Ga3. Používá se k léčbě symptomatické hyperkalcémie. 2  Účinkuje tak, že brání odbourávání kostí inhibicí aktivity osteoklastů, čímž snižuje množství volného vápníku v krvi. Dusičnan gallitý se také používá k přípravě dalších sloučenin gallia.
+Dusičnan gallitý je komerčně dostupný jako hydrát. Nonahydrát je také možné připravit rozpuštěním gallia v kyselině dusičné a následnou rekrystalizací. 3 
+Dusičnan gallitý a jeho hydráty jsou bílé prášky, které jsou velmi dobře rozpustné ve vodě. 4  Dusičnan gallitý vytváří několik hydrátů: heptahydráty, oktahydráty i nonahydráty. Struktura nonahydrátu dusičnanu gallitého byla zjištěna rentgenovou krystalografií a pomocí galliového MAS NMR.
+při zahřátí se rozkládá:
+  
+    
+      
+        
+          
+            4
+            
+            Ga
+            
+              
+                
+              
+              
+                3
+              
+              
+                
+              
+            
+             
+            
+               
+              
+                110
+                
+                
+                   
+                
+                200
+                
+                  
+                  
+                    o
+                  
+                
+                C
+              
+            
+             
+            2
+            
+            
+              Ga
+              
+                2
+              
+              
+                
+              
+            
+            
+              O
+              
+                3
+              
+              
+                
+              
+            
+             
+            +
+            12
+            
+            
+              NO
+              
+                2
+              
+              
+                
+              
+            
+             
+            +
+            3
+            
+            
+              O
+              
+                2
+              
+              
+                
+              
+            
+             
+          
+        
+      
+    
+    \ \xrightarrow \uparrow +3O_
+  
+Reaguje se zředěnými zásadami:
+  
+    
+      
+        
+           
+          
+            
+              Ga
+              
+                
+                  
+                
+                
+                  3
+                
+                
+                  
+                
+              
+               
+              +
+              3
+              
+              NaOH
+               
+               
+              
+                 
+                
+              
+               
+              Ga
+              
+                
+                  
+                
+                
+                  3
+                
+                
+                  
+                
+              
+               
+               
+              +
+              3
+              
+              
+                NaNO
+                
+                  3
+                
+                
+                  
+                
+              
+            
+          
+        
+      
+    
+    \ +3NaOH\ \ \xrightarrow }}
+  
+známe i příklady podvojné záměny :
+  
+    
+      
+        
+          
+            Ga
+            
+              
+                
+              
+              
+                3
+              
+              
+                
+              
+            
+             
+            +
+            3
+            
+            NaF
+             
+            
+               
+              
+            
+             
+            
+              GaF
+              
+                3
+              
+              
+                
+              
+            
+             
+            +
+            3
+            
+            
+              NaNO
+              
+                3
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    \ +3NaF\ \xrightarrow }}
+  
+  
+    
+      
+        
+          
+            Ga
+            
+              
+                
+              
+              
+                3
+              
+              
+                
+              
+            
+             
+            +
+            
+              K
+              
+                3
+              
+              
+                
+              
+            
+            
+              PO
+              
+                4
+              
+              
+                
+              
+            
+             
+            
+               
+              
+            
+             
+            
+              GaPO
+              
+                4
+              
+              
+                
+              
+            
+             
+            +
+            3
+            
+            
+              KNO
+              
+                3
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    \ +K_}}}}
+  
+  
+    
+      
+        
+          
+            2
+            
+            Ga
+            
+              
+                
+              
+              
+                3
+              
+              
+                
+              
+            
+             
+            +
+            6
+            
+            
+              Na
+              
+                2
+              
+              
+                
+              
+            
+            S
+             
+            +
+            3
+            
+            
+              H
+              
+                2
+              
+              
+                
+              
+            
+            O
+             
+            
+               
+              
+            
+             
+            2
+            
+            Ga
+            
+              
+                
+              
+              
+                3
+              
+              
+                
+              
+            
+             
+            +
+            3
+            
+            
+              H
+              
+                2
+              
+              
+                
+              
+            
+            S
+             
+            +
+            6
+            
+            
+              NaNO
+              
+                3
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    \ +6Na_S\uparrow +6NaNO_
+  
+Dusičnan gallitý může reagovat s redukčními činidly za vzniku tepla a produktů, které mohou být plynné. Produkty samotné mohou vstupovat do dalších reakcí . Chemická redukce materiálu v této skupině může být rychlá, ale často vyžaduje iniciaci teplem, katalyzátor a přidání rozpouštědla. Výbušné směsi dusičnanu gallitého s redukčními činidly často přetrvávají nezměněné po dlouhou dobu, pokud je zabráněno iniciaci. Některá anorganická oxidační činidla, jako dusičnan gallitý, jsou soli kovů, které jsou rozpustné ve vodě. Rozpouštědlo se zředí, ale nezruší oxidační schopnost takových materiálů. Obecně mohou anorganická oxidační činidla prudce reagovat s aktivními kovy, kyanidy, estery a thiokyanatany. 5 
+V tomto článku byly použity překlady textů z článků Gallium nitrate na anglické Wikipedii, Galliumnitrat na německé Wikipedii a Нитрат галлия na ruské Wikipedii.

@@ -1,0 +1,5 @@
+Pour les articles homonymes, voir Minicom .
+Cet article ne cite pas suffisamment ses sources .
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+modifier - modifier le code - voir Wikidata  Minicom est un programme de contrôle de modem et d'émulation de terminal pour les systèmes d'exploitation de type Unix, écrit par Miquel van Smoorenburg d'après le populaire Telix pour MS-DOS. Minicom apporte une émulation ANSI et VT100, un langage de script externe, et d'autres choses encore. 

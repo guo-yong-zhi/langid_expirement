@@ -1,0 +1,2 @@
+DoğrulukGörüldü
+Kayıt, verilerin yakalanması ya da bilgilerin bazı veri depolama aygıtlarında saklanılmak üzere kayıt formatlarından biri hâline çevrilmesi işlemi.

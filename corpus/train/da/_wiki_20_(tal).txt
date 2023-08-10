@@ -1,0 +1,7 @@
+20 er et lige heltal og det naturlige tal, som kommer efter 19 og efterfølges af 21.
+Tyve er et sammensat tal med divisorerne 1, 2, 4, 5 og 10. Tyve er også summen af de første fire trekanttal, hvilket gør det til et pyramidetal. Desuden er 20 et Harshad tal.
+En mængde på tyve udgør en snes. 
+Ordinaltallet er tyvende. Som romertal skrives det XX.
+Et talsystem med 20 som grundtal kaldes et vigesimalt system.
+En polyeder med 20 flader kaldes et ikosaeder.
+Tallet 20 indgår også i følgende sammenhænge:

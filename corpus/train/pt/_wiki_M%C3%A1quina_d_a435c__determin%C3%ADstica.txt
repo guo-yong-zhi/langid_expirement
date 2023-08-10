@@ -1,0 +1,32 @@
+Máquina de Turing não-determinística em ciência da computação é uma máquina de Turing cujo mecanismo de controle atua como um autômato finito não-determinístico.
+Uma máquina de Turing comum  possui uma função de transição que, dado um estado e um símbolo na posição de execução da fita, especifica três coisas: um novo símbolo a ser escrito na posição de execução da fita, a direção para o qual a fita deve mover-se e um novo estado para o controle finito. Por exemplo, um X na fita no estado 3 pode fazer a máquina determinística escrever um Y na fita, mover a cabeça uma posição para a direita e mudar para o estado 5.
+Uma máquina de Turing Não-Determinística difere-se pois um estado e um símbolo de fita não mais definem estas três coisas de forma única - mais de uma ação pode ser aplicável dado um estado e um símbolo.
+Como uma máquina Não-Determinística "sabe" qual dessas ações ela deve tomar? Há duas maneiras de olhar esta questão. Uma é supor que a máquina sempre escolherá uma transição que eventualmente leve a um estado de aceitação. A outra maneira é imaginar que a máquina se ramifica em muitas cópias, cada qual leva a diferentes possíveis transições. Onde uma Máquina de Turing Determinística possui um único "caminho de computação" a ser seguido, uma Máquina de Turing Não-Determinística possui uma "árvore de computação". Se qualquer ramo da árvore pára em uma condição de aceitação, dizemos que a Máquina de Turing Não-Determinística aceita a entrada.
+Mais formalmente, uma Máquina de Turing Não-Determinística é uma 6-tupla 
+  
+    
+      
+        M
+        =
+        
+      
+    
+    
+  
+, onde
+Há um número considerável de variações nessa definição. O estado inicial pode ser substituído por um conjunto de estados iniciais, por exemplo. 
+A variação pode também incluir um conjunto de estados de rejeição, e neste caso diz-se que a Máquina de Turing Não-Determinística rejeita a entrada se a computação leva a um dos estados de rejeição.
+É possível simular qualquer Máquina de Turing não-determinística N com uma MT determinística D. A ideia por trás é fazer com que D tente todos os ramos da computação não-determinística de N. Se em algum momento D encontra o estado de aceitação em algum desses ramos, D aceita. Caso contrário, a simulação de D não terminará.
+Vemos a computação de N sobre uma entrada w como uma árvore. Cada ramo da árvore representa um dos ramos do não-determinismo. Cada nó da árvore é uma configuração de N. A raiz da árvore é a configuração inicial. A MT D busca nessa árvore uma configuração de aceitação. Projetamos D para explorar a árvore usando busca em largura. Essa estratégia explora todos os ramos na mesma profundidade antes de continuar a explorar qualquer ramo da próxima profundidade. Esse método garante que D visitará todo nó na árvore até que ela encontre uma configuração de aceitação.
+A MT determinística simuladora D tem três fitas. A fita 1 sempre contém a cadeia de entrada e nunca é alterada. A fita 2 mantém uma cópia da fita de N em algum ramo de sua computação não-determinística. A fita 3 mantém o registro da posição de D na árvore de computação não-determinística de N.
+Vamos primeiro considerar a representação de dados na fita 3. Todo nó na árvore pode ter no máximo b filhos, onde b é o tamanho do maior conjunto de possíveis escolhas dado pela função de transição de N.  Cada nó na árvore associamos um endereço que é uma cadeia sobre o alfabeto 
+  
+    
+      
+         
+      
+    
+    
+  
+b = . Associamos o endereço 231 ao nó ao qual chegamos iniciando na raiz, indo para seu segundo filho, indo para o terceiro filho desse nó, e, finalmente, para o primeiro filho desse nó. Cada símbolo na cadeia nos diz que escolha fazer a seguir quando simulamos um passo em um ramo da computação não-determinística de N. Às vezes, um símbolo pode não corresponder a nenhuma escolha . Nesse caso, endereço é invalido e não corresponde a nenhum nó. Exemplificando melhor a busca em largura, tendo uma configuração de terceira fita 231 e o terceiro filho do segundo filho da raiz  com 4 filhos, teríamos as seguintes configurações: 231, 232, 233 e 234. A cadeia vazia representa a raiz.
+Agora estamos prontos para descrever D.

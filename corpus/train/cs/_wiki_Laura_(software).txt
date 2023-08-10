@@ -1,0 +1,16 @@
+Účetní systém Laura  byl jeden z prvních českých ekonomických a účetních programů pro vedení ekonomické agendy podniku na počítači, který vznikl již na konci listopadu 1989, rozšířen byl pak v roce 1990. Patří mezi podnikové uživatelské informační systémy.
+Ekonomický systém LAURA byl vytvořen ve vývojovém prostředí jazyka MicroFocus     a MicroFocus Dialog System. Analytické a vývojové postupy zahrnovaly vybrané techniky používané v rámci  a metod firmy LBMS spojených do podoby SSADM . V datové analýze to bylo především Chenovo datové modelování spolu s normalizací datových modelů, s jejichž pomocí byly vytvořeny struktury souborových systémů.
+Program se ovládá klávesnicí v textovém režimu.  K výhodám textového režimu patří malý rozsah paměti potřebné pro uchovávání obsahu obrazovky, snadné ovládání a malé nároky na výkon počítače.
+Program vznikl již koncem listopadu 1989 pro malý okruh uživatelů, první veřejná verze 1.x  pak v roce 1990.  Program byl původně určen pro 16bitový operační systém DOS. Vytvořili jej tehdy ještě studenti VŠE Praha R. Černý a R. Rameš.  Specifické je, že na jeho vývoji se podíleli od samého začátku také sami účetní. V roce 1992 autoři zakládají veřejnou společnost R2 software. V roce 1998 vznikly první verze pro operační systém Windows 98. V roce 2012 společnost R2 zaniká a program přechází do rukou Roberta Rameše, jednoho z autorů programu. V roce 2016 vznikla verze pro 64bitový operační systém Windows 10. Program se neustále vyvíjí podle novelizovaných účetních a daňových předpisů.
+založení podnikatelského subjektu fyzické osoby OSVČ
+jako spoluautor přichází R. Černý
+založení firmy R2 SOFTWARE v.o.s.
+začátek spolupráce  s firmou White ..., zajišťující uživatelský servis klientů
+veletrh Invex v Brně, setkání s Bilem Gatesem
+realizace PC školících projektů pro Prekos Praha, Computer Help Ing. I. Pilného, Akademii J. A. Komenského
+firmu přebírá R. Rameš opět jako fyzická osoba OSVČ
+K užití byly tři verze.
+Byla určená pro 16bitový operační systém typu DOS. Nejrozšířenější verzí pro tento operační systém byla verze LAURA 2.6 z let 1996-1998. Poslední verzí se stala verze 2.9.
+Byla určená pro 32bitový a posléze i pro 64bitový operační systém typu Windows pro vedení účetnictví malých společnosti a drobných živnostníků. Byla určená k užití pro jeden lokální počítač a jednu konkrétní firmu s maximálně 3 účetnictvími.
+Byla určená pro větší společnosti, ale hlavně pro síťový režim propojení počítačových stanic v provedení peer-to-peer nebo klient server. Umožňovala vést libovolná počet účetnictví. Šlo o vyšší stádium verze 3.x.
+Program byl složen z následujících modulů:

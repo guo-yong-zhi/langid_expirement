@@ -1,0 +1,9 @@
+Hertsi  on kansainvälisen yksikköjärjestelmän, eli SI-järjestelmän, mukainen taajuuden yksikkö. 1  Yksikkö on nimetty saksalaisen fyysikon Heinrich Rudolf Hertzin mukaan tunnustukseksi hänen työstään sähkömagnetismin alalla.
+Yksi hertsi tarkoittaa taajuutta, jossa jakson kesto  on 1 sekunti.
+Taajuuden f ja jaksonajan välillä vallitsee yhteys:
+missä T on jaksonaika. Koska yhden hertsin taajuudella jaksonaika on yksi sekunti, hertsi voidaan suureyhtälöissä esittää myös muodossa
+missä s on sekunti.
+Hertsi-nimitys alkoi vakiintua vuonna 1930, jolloin IEC otti sen käyttöön. 2  CGPM hyväksyi yksikön 30 vuotta myöhemmin SI-järjestelmän mukaiseksi yksiköksi, mutta vasta 1970-luvulla hertsi korvasi vanhan yksikön sykliä sekunnissa .
+Yksi hertsi on käytännön mittauksissa suhteellisen pieni taajuus, joten usein yksikön mukana käytetään kerrannaisyksikköä:
+Tietotekniikassa käytetään usein megahertsejä  ja gigahertsejä  kuvaamaan tietokoneen komponenttien kellotaajuutta.
+ULA-radiotaajuudet ilmoitetaan megahertseinä; ULA-asemien taajuudet ovat välillä 87,5–108 MHz.

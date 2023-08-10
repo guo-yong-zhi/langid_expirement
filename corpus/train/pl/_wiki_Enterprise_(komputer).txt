@@ -1,0 +1,31 @@
+komputer domowy
+1985
+Zilog Z80A @ 4 MHz
+64 KB/128 KB
+EXOS BASIC
+Enterprise – komputer domowy oparty na procesorze Zilog Z80, oferowany od 1985 roku w dwóch wariantach: Enterprise 64 z 64 KB pamięci RAM i Enterprise 128 ze 128 KB.
+Komputer posiada procesor Z80 taktowany zegarem 4 MHz, 64 KB lub 128 KB RAM i 32 KB ROM zawierający system operacyjny EXOS i edytor tekstu. BASIC był oferowany w module ROM 16 KB.
+Pamięć można było rozszerzyć do 4 MB używając przełączalnych banków. 64 KB przestrzeń adresową procesora Z80 podzielono na cztery  sekcje po 16 KB. ROM systemu odwzorowano na najniższych dwóch stronach, kolejne cztery strony zarezerwowano na cartridge ROM .
+Dwa układy ASIC  pracowały poza głównym procesorem. Nazwano je "Nick" i "Dave", od imion projektantów . Nick obsługiwał grafikę, Dave dźwięk i stronicowanie pamięci.
+Oryginalna obudowa zawierała pełnowymiarową klawiaturę z programowalnymi klawiszami funkcyjnymi oraz joystick. Klawiatura jest niskoprofilowa i ergonomiczna, ze standardowym układem klawiszy. Zbudowana jest z gumowej membrany, na której umieszczone są klawisze. Joystick zastępował klawisze kursora i umożliwiał jego przemieszczanie nawet po ukosie.
+Enterprise posiada 5 trybów graficznych: 40- i 80-kolumnowe tryby tekstowe, graficzne Lo-Res i Hi-Res  oraz grafiki "atrybutowej". Obraz może być wyświetlany z przeplotem lub bez. Najwyższa rozdzielczość: 640×512 pikseli z przeplotem lub 640×256 bez przeplotu, lecz w tych trybach można używać tylko 2 kolorów, maksymalnie 256 kolorów można uzyskać przy rozdzielczości nie większej niż 80×256. Tryb grafiki "atrybutowej" daje rozdzielczość 320×256 pikseli przy jednoczesnym użyciu 16 kolorów z palety 256.
+Komputer umożliwia wyświetlanie wielu stron jednocześnie, nawet w różnych trybach graficznych, co dawało zwiększenie ilości kolorów wyświetlanych na ekranie. Wysokość strony może być większa niż ekran lub wyświetlane okno. Każda strona jest podłączona z kanałem systemu operacyjnego EXOS, dzięki czemu możliwe jest tworzenie obrazu w obszarach nie wyświetlanych na ekranie.
+Dźwięk jest obsługiwany przez drugi układ ASIC – Dave. Dostępne są 3 kanały plus kanał szumów, stereo. Dźwięk z każdego kanału może być swobodnie umieszczany w bazie stereo . Dostępne są filtry: distortion, górno-, dolnoprzepustowy oraz modulacji pierścieniowej  i rozbudowany generator obwiedni dźwięku.
+Bogaty zestaw złącz: wyjście RGB, port szeregowy RS-232/RS-423, równoległy  Centronics, 2 porty joysticków, 2 do magnetofonu, slot ROM cartridge i port rozszerzeń. Jednak, w ramach oszczędności, wiele portów nie posiada typowych gniazd, a jedynie proste złącza krawędziowe płytki drukowanej.
+BASIC ROM mógł być zastąpiony przez ROM z emulatorem ZX Spectrum, co, teoretycznie, umożliwiało uruchamianie tysięcy programów stworzonych na niego. Później była oferowana zewnętrzna stacja dyskietek.
+System operacyjny EXOS  zawarty w ROM jest oparty na kanałach obsługujących wszystkie urządzenia wejścia-wyjścia, co umożliwia programom obsługiwanie każdego urządzenia w ten sam sposób.
+W pamięci ROM zawarty jest również pełnoekranowy edytor tekstu.
+Wyjątkowo, jak na komputer 8-bitowy swych czasów, Enterprise nie posiada wbudowanego języka BASIC, jest on dostępny na 16K cartridge'u ROM.
+IS-Basic w dużym stopniu przestrzega standardu ANSI BASIC. Jest to w pełni strukturalny język programowania zawierający instrukcje take jak: IF...THEN...ELSE, SELECT...CASE, DO...LOOP, WHILE i UNTIL, procedury i funkcje z parametrami i zmiennymi lokalnymi, obsługę błędów i wyjątków.
+Unikalną właściwością IS-Basic jest możliwość umieszczania w pamięci wielu programów jednocześnie i przekazywania parametrów między nimi.
+Grafika, dźwięk i porty I/O mogą być obsługiwane bezpośrednio w BASIC'a bez konieczności używania instrukcji POKE i PEEK. IS-Basic posiada bogaty zestaw instrukcji graficznych, łącznie z grafiką żółwia w stylu Logo. Komendy dźwiękowe mogą być umieszczane w kolejce, co umożliwiało odtwarzanie dźwięku w tle wykonywanego programu.
+Dostępne były inne języki , konwerter Basic-to-Basic przenoszący programy zapisane w innych odmianach Basic'a, ok. 40 gier. IS-DOS – system kompatybilny z CP/M dawał dostęp do ogromnej ilości programów.
+W 1982, gdy na rynku angielskim pojawił się Sinclair ZX Spectrum, przedsiębiorstwo handlowe z Hongkongu – Locumals zleciło Intelligent Software z Wielkiej Brytanii zaprojektowanie komputera domowego przewyższającego swymi możliwościami konkurencję, projektowi nadano kryptonim DPC . Szef Intelligent Software - David Levy był międzynarodowym graczem w szachy.
+Maszyna była znana także pod nazwami Samurai, Oscar, Elan i Flan, ostatecznie wybrano nazwę Enterprise.
+Stworzono emulator AMSOFT Amstrada – Entersoft w celu zapewnienia oprogramowania dla nowej konstrukcji.
+Choć komputer został zaprezentowany w prasie we wrześniu 1983 roku, do sprzedaży trafił dopiero w roku 1985, gdy rynek był już zdominowany przez konkurencję.
+Jego następca – PW360 powstał w 1986 roku jako bezpośredni konkurent Amstrada PCW 8256, ale w tym czasie przedsiębiorstwo znajdowało się już w poważnych kłopotach finansowych i dystrybucja została wstrzymana.
+Mimo sporych możliwości nie odniósł sukcesu. Pod względem technicznym ustępował pojawiającym się wówczas na rynku 16-bitowym komputerom Atari ST i Amiga, a od innych 8-bitowców był droższy.
+Po wstępnym wyprodukowaniu 80 000 jednostek, dalsza produkcja została wstrzymana, 20 000 sztuk zostało wysłanych na Węgry, gdzie stał się popularny.
+Węgierska firma Videoton od 1984 r. posiadała na niego licencję i dostosowała do lokalnych potrzeb, od 1988 r. był produkowany pod nazwą TV Computer przez ok. 3 lata.
+W Niemczech był sprzedawany od roku 1985 pod nazwą Mephisto PHC 64 przez firmę Hegener & Glaser, która wcześniej z powodzeniem sprzedawała komputery szachowe. W maju 1985 r. jego cena wynosiła 1198 DM.

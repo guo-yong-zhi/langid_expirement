@@ -1,0 +1,45 @@
+Matematiikassa Youngin epäyhtälön mukaan positiivisille reaaliluvuille a, b, p ja q, joille  1/p + 1/q = 1, on voimassa
+Yhtäsuuruus on voimassa kun 
+  
+    
+      
+        
+          a
+          
+            p
+          
+        
+        =
+        
+          b
+          
+            q
+          
+        
+      
+    
+    =b^
+  
+.
+Youngin epäyhtälö on erikoistapaus painotetusta aritmeettis-geometrisesta epäyhtälöstä.
+Youngin epäyhtälöä käytetään todistamaan Hölderin epäyhtälö.
+Tiedetään, että 
+  
+    
+      
+        f
+        
+        =
+        
+          e
+          
+            x
+          
+        
+      
+    
+    }
+  
+ on konveksi, sillä sen toinen derivaatta on kaikkialla positiivinen. Siten
+Tässä on käytetty konveksin funktion määritelmää:
+http://math.stackexchange.com/questions/259826/purely-algebraic-proof-of-youngs-inequality Erilaisia todistuksia Youngin epäyhtälölle 

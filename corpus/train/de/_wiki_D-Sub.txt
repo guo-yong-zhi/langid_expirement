@@ -1,0 +1,39 @@
+D-Sub, als Abkürzung für englisch D-Subminiature, ist eine weitverbreitete Bauform eines Steckersystems, welche Anwendungen unter anderem im Bereich von Computersystemen und der Datenverarbeitung hat. Festgelegt ist dieses Steckersystem international in der IEC 807-2. 1  Je nach Anwendungen und Land ist dieses Steckersystem aufgrund der weiten Verbreitung in verschiedenen weitergehenden Normen festgelegt, wie beispielsweise in der US-Militärnorm MIL-C-24308 oder in Deutschland in der DIN-Norm 41652-1. 2  3  Im Rahmen von ISO-Normen sind einzelne Varianten wie ISO 4903 für DA-15 und ISO 2110 für DB-25 festgelegt.
+Das US-amerikanische Unternehmen Cannon  entwickelte im Jahr 1952 einen trapez förmigen Steckverbindertyp, den sie wegen der D-ähnlichen Form des äußeren Steckverbinders und wegen der für damalige Verhältnisse sehr kleinen Bauform „D subminiature“ nannte. Dieser Steckertyp wurde relativ rasch in die Normenwelt aufgenommen, speziell im MIL-Standard 24308.
+Durch die langjährige Verwendung haben sich die unterschiedlichsten Abkürzungen dieses „D shaped subminiature“-Steckverbinders auf dem Markt etabliert, z. B. D Sub, D-Sub, DSUB, Sub-D, SUB-MIN-D, DE9 , DB25 , HD15 , HP50  und so weiter. Im Labor-Jargon wird er noch heute als „Cannonstecker“ bezeichnet, im Audio- und Bühnenbereich wird darunter allerdings der ebenfalls von Cannon entwickelte XLR-Stecker verstanden.
+Typische Ausführungen des D-Sub-Typs sind:
+Daneben existiert eine Vielzahl von speziellen Varianten, wie beispielsweise eine Kombination von Hochstromkontakten mit Signalkontakten oder Bauformen, in welchen Koaxialstecker, wie bei der Bauform „13W3“, mit in das D-Sub-Steckergehäuse integriert werden. Diese Bauformen finden, wegen des kompakten Aufbaus, unter anderem im Bereich der Avionik und Militärtechnik Anwendung. Bei Personalcomputern legte der ATX-Standard in der Version 2.2 von Intel die Farbgebung nach Schnittstellentyp fest.
+DB-25-Stecker von ITT-Cannon
+13W3-Steckverbinder
+Spezialausführung mit 2 Hochstrom kontakten und mittig 5 Signal kontakten
+DA-15-Monitoranschluss am Apple Macintosh LC
+Amiga Diskettenlaufwerk von Cumana mit DB-23-Anschluss
+DB-19-Anschluss „Smartport“ für ein Diskettenlaufwerk am Macintosh 512K
+Die Stifte für Signalanwendung besitzen einen Durchmesser von 1 mm. Die Stiftreihen haben einen Abstand von 2,84 mm, nebeneinanderliegende Stifte haben den Abstand 2,74 mm ±0,1 mm bei Größen A und E, sowie 2,77 mm ±0,1 mm bei den anderen Größen. 3  Die Stiftreihen sind um die Hälfte dieses Abstandes versetzt angeordnet. Bei Spezialausführungen wie D-Sub-Verbinder mit Hochstromkontakten oder mit integrierten Koaxialverbindern kommen andere Durchmesser und Abstände vor.
+Bei den „High-Density“-Typen wurde der Abstand der Stiftreihen auf 2,41 mm und der nebeneinanderliegender Stifte auf 1,98 mm verringert. Bei „Double Density“ wurden die Abstände weiter verringert; Die Reihen haben nur noch einen Abstand von 1,90 mm, die Stifte einen von 1,65 mm.
+Die mechanische Verriegelung – sie ist nicht bei allen Steckern ausgeführt – ist über zwei seitlich angebrachte Schraubverbindungen realisiert. Die üblichen Gewinde sind entweder das metrische M3 oder ein dazu nicht kompatibles UNC 4-40. 6  Für eine korrekte Verriegelung müssen Stecker und Buchse den gleichen Gewindetyp aufweisen.
+Bezüglich der Nummerierung der einzelnen Kontakte  kommt es immer wieder zu Verwechslungen, was daran liegt, dass manche die Lötperspektive zugrunde legen, andere jedoch die Draufsicht  auf den fertigen Steckverbinder.
+DE-9.mw-parser-output .fussnoten-marke.mw-parser-output .fussnoten-marke.reference,.mw-parser-output span.fussnoten-inhalt.mw-parser-output .fussnoten-marke.reference~.fussnoten-marke.reference,.mw-parser-output span.fussnoten-inhalt~span.fussnoten-inhalt.mw-parser-output .fussnoten-block.mw-parser-output div.fussnoten-inhalt.mw-parser-output div.fussnoten-inhalt p,.mw-parser-output div.fussnoten-inhalt dl,.mw-parser-output div.fussnoten-inhalt ol,.mw-parser-output div.fussnoten-inhalt ul.mw-parser-output div.fussnoten-inhalt.fussnoten-floatfix.mw-parser-output .fussnoten-box.mw-parser-output .fussnoten-box,.mw-parser-output div.fussnoten-inhalt.mw-parser-output .fussnoten-box div.fussnoten-inhalt,.mw-parser-output span.fussnoten-inhalt,.mw-parser-output .fussnoten-inhalt .mw-reference-text.mw-parser-output .fussnoten-inhalt .mw-reference-text.mw-parser-output .fussnoten-linie.mw-parser-output .fussnoten-linie+p,.mw-parser-output .fussnoten-linie+dl,.mw-parser-output .fussnoten-linie+ol,.mw-parser-output .fussnoten-linie+ul,.mw-parser-output .fussnoten-linie+link+div.mw-parser-output .fussnoten-marke.reference:target,.mw-parser-output .fussnoten-inhalt:target.mw-parser-output .fussnoten-marke.reference:target,.mw-parser-output .fussnoten-inhalt:target .fussnoten-marke a9-pol Stift 
+DE-9 a9-pol Buchse 
+DE-15 a15-pol Stift 
+DE-15 a15-pol Buchse 
+DA-15 a15-pol Stift 
+DA-15 a15-pol Buchse 
+DB-25 a25-pol Stift 
+DB-25 a25-pol Buchse 
+DB-13W3 a13-pol Stift  + 3 Coaxial Buchse 
+Zur Unterscheidung der Polarität  werden für D-Sub-Stecker und -Buchsen ebenfalls die gebräuchlichen Bezeichnungen männlich/male  und weiblich/female  verwendet. Die meisten Hersteller verwenden entweder die vom englischen abgeleitete Kurzform, also M und F oder P und S für Plug und Socket. Ein Typ mit der Bezeichnung „D-SUB 9P“ ist zum Beispiel ein Stecker mit neun Kontakten, ein Typ mit der Bezeichnung „D-SUB 25S“ eine Buchse mit 25 Kontakten.
+Im Kontext zum Geschlecht des jeweiligen D-Sub-Typs gibt es sogenannte „Gender Changer“ , welche das Geschlecht invertieren, also von männlich auf weiblich oder umgekehrt adaptieren. Dabei werden gleiche Nummern miteinander verbunden, weshalb die Stifte bzw. Buchsen nicht einfach gerade durchverbunden sein können, sondern im inneren Aufbau ein Seitenwechsel stattfindet.
+D-Sub-Stecker und -Buchsen werden in verschiedenen Varianten hergestellt und sind schnell, billig und universell einzusetzen. Verbreitet sind:
+DE-9  mit Nummerierung 
+DE-9  mit Nummerierung 
+DE-9  mit Nummerierung und Lötkelchanschluss 
+DE-9 90°-Leiterplatten montage, blaugrün für serielle Schnittstelle RS-232/V.24
+DE-15  90°-Leiterplatten montage, blau für VGA-Anschluss
+DA-15  90°-Leiterplatten montage für SMD-Montage und integrierte Befilterung 
+DB-25  90°-Leiterplatten montage, erhöht, pink für LPT/parallele Schnittstelle/Drucker anschluss IEEE 1284
+DA-26 
+DC-37  mit Schneid-Klemm-Kontakten
+DD-50 90°-Leiterplatten montage
+DE-2  mit zwei Hochstromkontakten
+DF-104 90°-Leiterplatten montage

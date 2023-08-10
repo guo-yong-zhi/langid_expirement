@@ -1,0 +1,3 @@
+Pontosságellenőrzött
+A Számítástechnikai kislexikon a Műszaki Könyvkiadó kislexikon sorozatának a számítástechnikával foglalkozó tagja, melyet 1973-ban adtak ki. A könyv a Lexikon der Datenverarbeitung c. Münchenben megjelent mű fordítása, amelyet P. Müller, G. Löbel és H. Schmid szerkesztett.
+A kiadás dátumából is látszik, hogy tartalma a számítástechnika robbanásszerű fejlődése következtében nagyrészt elavult. Jelentősége a magyar számítástechnikai nyelv kialakításában nyilvánul meg. A lexikon az 1970-es évek digitális technikájának tanulmányozására alkalmas megbízható forrás.

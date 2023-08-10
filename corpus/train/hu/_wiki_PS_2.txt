@@ -1,0 +1,2 @@
+Pontosságellenőrzött
+A PS/2 egy régebbi számítógépes csatlakozó, hatlábas, a billentyűzet és az egér csatlakoztatására szolgált IBM-kompatibilis PC-khez. Nevét az IBM PS/2 számítógépekről kapta. A legelső számítógépeken még nem PS/2 csatlakozó volt, hanem az RS-232 soros port , illetve az ötlábas DIN csatlakozó ; ma viszont már az USB terjedt el.

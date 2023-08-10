@@ -1,0 +1,16 @@
+Adabas  ist ein Datenbankmanagementsystem der Darmstädter Software AG. 
+Es wurde von Peter Schnell zunächst für die Großrechner von IBM – unter z/VSE und MVS – und Siemens – unter BS1000 und BS2000 – entwickelt. Die Erstinstallation fand im Jahre 1971 statt. Adabas wurde im Laufe der Jahre auch für andere Plattformen  verfügbar. Adabas wird häufig als Hochleistungsdatenbank bis weit in den Tera-Bereich eingesetzt; genauso aber auch als Abteilungs- oder sogar Desktop-Datenbank für Anwendungen der Software AG, insbesondere wenn es sich dabei um Anwendungen in Natural handelt. 
+Üblicherweise wird Adabas nicht von Privatanwendern eingesetzt, da die zugrunde liegenden Konzepte und auch die Zugriffsmethoden einen nicht unerheblichen Lernaufwand bedingen.
+Adabas basiert auf dem NF²-Datenbankmodell. NF² steht dabei für NFNF = non first normal form.
+Es sollte eigentlich eher NOFNF  heißen.
+Adabas ist nämlich nicht darauf beschränkt, 
+die Daten nach dem Sprachgebrauch der relationalen Theorie ausschließlich in der ersten Normalform abzuspeichern. 
+Vielmehr ist es bei Bedarf möglich,
+eindimensionale Arrays  
+und sogar zweidimensionale Arrays 
+direkt zu speichern.
+Adabas verfügt über mehrere Möglichkeiten, Daten komprimiert abzuspeichern.
+Zusatzfeatures öffnen Adabas auch Anwendern, welche Datenbankinhalte über SQL  oder eine Serviceorientierte Architektur  nutzbar machen wollen.
+Neben Adabas existiert auch eine relationale Datenbank namens Adabas D, die jedoch bis auf den Namen nichts mit Adabas gemeinsam hat. Das D steht hier für Department. Zur besseren Unterscheidung wurde Adabas von Software AG zeitweise auch als Adabas C bezeichnet. Dabei stand das C für Central. Diese Bezeichnung wurde aber in den letzten Jahren wieder aufgegeben. 
+Die aktuellen Versionen auf dem Markt sind seit Oktober 2022 Adabas 7.0 für Linux, Unix und Windows 1  bzw. Ababas 8.5 im Mainframe Bereich. 2 
+Adabas unter kann auch als Docker Image laufen. 3  Adabas und Natural unterstützen die Amazon Webservices Plattform. 4 

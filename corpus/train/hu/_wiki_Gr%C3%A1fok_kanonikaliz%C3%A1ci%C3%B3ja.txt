@@ -1,0 +1,29 @@
+Pontosságellenőrzött
+A gráfelmélet területén a gráfok kanonikalizációja vagy kanonizációja egy adott G gráf kanonikus alakjának megtalálása. A kanonikus forma egy olyan Canon címkézett gráf, ami izomorf G-vel, továbbá minden G-vel izomorf gráfnak is ugyanez a kanonikus alakja. Így tehát a gráfkanonikalizáció problémájának megoldása automatikusan megoldja a gráfizomorfizmus problémáját is: Két gráf, G és H akkor izomorf, ha kanonikus alakjaik, Canon és Canon megegyeznek.
+A gráfok kanonikus alakja a teljes gráfinvariánsok egyik példája: bármely két izomorf gráf kanonikus alakja megegyezik és bármely két nem izomorf gráf kanonikus alakja különbözik. 1  2  Megfordítva, bármely teljes gráfinvariáns segítségével megszerkeszthető egy kanonikus alak. 3  Az n csúcsú gráf csúcspontjait megszámozhatjuk 1-től n-ig egész számokkal, így a gráf kanonikus alakja a csúcsainak egy permutációjával is leírható. A gráfok kanonikus formáját kanonikus címkézésnek is nevezik. 4 
+A kanonikalizációs algoritmus egy vegyület vázának egységes, a molekula helyzetétől független leírását lehetővé tevő módszer. Szerkezettel megadott molekulák keresésére használják.
+A módszert az IUPAC dolgozta ki 2000-től kezdve egy egységes azonosító, az International Chemical Identifier  kifejlesztése során, és kiadott egy programot is, mely az azonosítót kiszámítja. A program LGPL licenc alatt, Windows és Linux operációs rendszerben fut. 5 
+A molekula vázán e szócikkben a molekulát alkotó atomokat és az azok közötti kötéseket értjük. Nem teszünk különbséget kettős és hármas kötés  között, és nem vesszük figyelembe a molekula más tulajdonságait sem .
+Matematikai értelemben a molekulaváz egy olyan gráf, melynek csúcsai különbözőek  lehetnek.
+A kanonikalizált váz  a molekulát alkotó atomokhoz rendel egy-egy egyedi címkét , mely független a molekula lerajzoláskori helyzetétől.
+Az InChI-ben a váz megadására egy szabványos gráfbejárási algoritmust használnak , és ezt az utat adják meg a kanonikus atomszámokkal . Az atomokhoz kötődő hidrogének száma és a molekula többi tulajdonsága is része az InChI-nek, de a molekulaváztól különböző rétegben van megadva. 
+A kémiai adatbázisok – melyekben általában több tízmillió molekula található – kanonikus formában tárolják a molekulák szerkezetét. A keresőkérdéseket átalakítják e kanonikus formára, és egy hash-algoritmus 6  segítségével igen gyorsan megtalálják a molekulát.
+Az algoritmus lényege: külön csoportba sorolja a különböző atomokat, azon belül alcsoportokat hoz létre a szomszédos atomok száma szerint. Ha egy csoportban még így is több atom marad, akkor a 2-, 3-, 4- stb. atomnyi távolságra levő atomokat is figyelembe veszi.
+Összegképlet: C7H5NS. A hidrogénatomokat elhagyjuk, az elemeknek abc-rendben számot adunk: C=1, N=2, S=3.
+Az alábbi táblázatokban az Atom oszlopban a szerkezeti képletben kékkel jelölt címkéket használtuk . A Szomszédok oszlopban az atommal szomszédos atomok címkéi vannak. E két oszlop a számítás során nem változik.
+A bal oldali táblázat Régi oszlopának első száma az elemhez rendelt érték , a második szám a szomszédos atomok száma. Az oszlop kitöltése után a táblázatot sorba rendezzük ezen oszlop szerint, és a kapott sorszámokat írjuk az Új oszlopba. Ha a rendezéskor két vagy több egymás alatti érték azonos, akkor az értéket tartalmazó legutolsó sor számát írjuk valamennyi sorba.
+Vegyük észre , hogy az algoritmus máris elkülönítette a két heteroatomot a szénatomoktól, és a szénatomokat is két csoportra osztotta aszerint, hogy 2 vagy 3 szomszédjuk van-e. Ez a felosztás a későbbiekben már nem változik, csak az ezeken belüli sorrend.
+A második táblázat Régi oszlopának első száma az előző táblázatbeli Új érték, a többi szám a szomszédok előző táblázatbeli Új értéke. A második táblázat Új oszlopát ugyanúgy kapjuk, mint az első táblázatban: a Régi oszlop szerint sorba rendezünk, és a sorszám adja az Új értéket.
+Ezt az eljárást folytatjuk addig, amíg az Új oszlop valamennyi száma különböző lesz, vagy az előző táblázathoz képest már nincs változás az Új oszlopban. 7 
+A második táblázatban a 2-es atom már külön csoportba kerül, mert a két szomszédjának nagyobb az értéke. Ugyancsak külön csoportba kerül az 5,6 és 4,7 atompár, mert az utóbbiak egyik szomszédjának három szomszédja van, míg az 5,6 mindkét szomszédjának 2 szomszédja van.
+A harmadik táblázat már a 4. és 7. atom között is különbséget tud tenni azon az alapon, hogy a 7-es közelebb van a kénhez, és a kénhez tartozó érték nagyobb a nitrogénénél.
+A negyedik táblázat már az 5. és 6. atom között is különbséget tesz a 4. ill. 7. atom alapján.
+Az 1,3-benzotiazol InChI-je: InChI=1S/C7H5NS/c1-2-4-7-68-5-9-7/h1-5H, ahol az első vastag betűs rész az összegképletet, a második a bejárási utat adja meg. A 4. táblázat Atom és Új oszlopa alapján visszaírva az ábrán látható kék számokra:
+ .-----------4 
+|          /
+5-6-7-7a-3a 
+      |    \
+      |     3-2-1
+      |         |
+      .---------.
+</pr

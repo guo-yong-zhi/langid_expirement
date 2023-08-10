@@ -1,0 +1,11 @@
+XXTEA, nazývaná také Corrected Block TEA  je bloková šifra navržená jako oprava slabosti šifry XTEA. Jejími autory jsou opět David Wheeler a Roger Needham z Cambridgeské univerzity a byla zveřejněna v říjnu 1998. Sama je ovšem již považována za prolomenou, neboť existuje útok s výběrem otevřeného textu s 259 dotazy.
+Opět se jedná o Feistelovu šifru s velikostí bloku alespoň 64 bitů a délkou klíče 128 bitů a opět autoři zveřejnili i referenční implementaci napsanou v Céčku.
+Verze zveřejněná Wheelrem a Needhamem vypadá následovně:
+        #define MX  +  +  
+    
+     long     btea        
+         return     0     ;    
+       }     else     if           
+       return     1  ; 
+     } 
+</prV tomto článku byl použit překlad textu z článku XXTEA na anglické Wikipedii.

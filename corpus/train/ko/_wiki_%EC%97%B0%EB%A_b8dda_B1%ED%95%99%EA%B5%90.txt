@@ -1,0 +1,4 @@
+
+.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct.mw-parser-output .longitude,.mw-parser-output .latitude
+연무고등학교의 위치
+연무고등학교는 충청남도 논산시 연무읍 동산리에 있는 사립 고등학교이다.

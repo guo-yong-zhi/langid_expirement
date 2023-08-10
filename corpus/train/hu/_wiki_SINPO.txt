@@ -1,0 +1,8 @@
+Pontosságellenőrzött
+SINPO, angol rövidítés a signal, interference, noise, propagation, and overall . A kódot a rádió adások minőségének leírására/értékelésére használják. A kód mindegyik betűjéhez egy 1 és 5 közötti számot rendelnek, ahol az 1 a legrosszabb és az 5 a legjobb.
+A SINPO kód eléggé szubjektív és használata személyenként változik. Mivel használata gyakorlást igényel ezért sokan nem szeretik.
+A SINPO kódot Gustav-Georg Thiele a Deutsche Welle mérnöke fejlesztette ki, akinek kezdeményezésére egyébként a megfigyelő rádiózással és távolsági rádióvétellel foglalkozó első német DX klubot  is alapították. A kódot hivatalosan átvette a CCIR is. A SINPO és SINPFEMO kód leírása megtalálható az ITU-R SM.1135 számú ajánlásában. 1 
+A kód normális esetben 5 számjegyből álló kódsor:
+54555 – Csekély interferencia érzékelhető, a vétel jó minőségű.
+33434 – Egy közepes jelerősségű adás, amelyet számos zavaró tényező tovább ront.
+Abban az esetben, ha valamelyik érték nem értékelhető X kell helyettesíteni.

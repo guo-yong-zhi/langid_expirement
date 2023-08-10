@@ -1,0 +1,5 @@
+Pour les articles homonymes, voir Abel .
+Cet article est une ébauche concernant l’informatique et l’électronique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+ABEL, acronyme de Advanced Boolean Expression Language, est un langage de programmation informatique utilisé dans le domaine de l'électronique, pour notamment la programmation des PLD. Il a été créé en 1983 par Data I/O Corporation, à Redmond, Washington.
+À la suite d'une série d'acquisitions, ABEL appartient maintenant à Xilinx.

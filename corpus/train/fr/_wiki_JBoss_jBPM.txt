@@ -1,0 +1,4 @@
+Cet article est une ébauche concernant l’informatique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+modifier - modifier le code - voir Wikidata  jBPM  est un moteur de workflow. Il permet la gestion de flux d'informations ainsi que la coordination entre biens et personnes. jBPM est un logiciel libre développé par JBoss. Il est écrit en Java.
+En plus du moteur de workflow, jBPM fournit des applications de développement simple. Elles permettent de poser graphiquement les différentes étapes qui composent le processus.

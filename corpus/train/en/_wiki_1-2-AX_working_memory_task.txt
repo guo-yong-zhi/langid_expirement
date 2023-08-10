@@ -1,0 +1,51 @@
+The 1-2-AX working memory task is a cognitive test which requires working memory to be solved.
+It can be used as a test case for learning algorithms to test their ability to remember some old data. This task can be used to demonstrate the working memory abilities of algorithms like PBWM or Long short-term memory. 1 
+The input of the task is a sequence of the numbers/letters 1, 2, A, X, B and Y, and additional distracting instances of 3, C and Z which should be ignored. For each character of input in sequence, the subject must respond with left  or right .
+The two target sequences that the subject is looking for are A-X and B-Y. When the subject encounters a 1 they must switch to looking for A-X, and when they encounter a 2 they must switch to looking for B-Y.
+While looking for A-X, if the subject encounters an X having seen an A previously , and where that previous letter was not part of an earlier sequence, they respond R to mark the end of that sequence; their response to all other characters should be L. 2 
+To solve this task, an algorithm must be able to both remember the last number 1 or 2 and the last letter A or B independently. We refer to this memory as the working memory. This memory must persist all other input. In addition, the algorithm must be able to strip out and ignore the letters C and Z.
+For traditional computer models, both requirements are easy to solve. Here is some Python code  where the function next_output gets one single number/letter as input and returns either a letter or nothing. next_outputs is there for convenience to operate on a whole sequence.
+    last_num   =   "" 
+ last_letter   =   "" 
+ def   next_output     ->   str   |   None  : 
+       """ 
+     Args: 
+       next_input: A string containing a single character. 
+     Returns: 
+       A string containing the letters "L", "R" or None. 
+     Example: 
+       >>> next_output 
+        L  
+     """ 
+     global   last_num  ,   last_letter 
+     if   next_input   in   : 
+         last_num   =   next_input 
+         last_letter   =   "" 
+         return   "L" 
+     elif   next_input   in   : 
+         last_letter   =   next_input 
+         return   "L" 
+     elif   next_input   in   : 
+         seq   =   last_num   +   last_letter   +   next_input 
+         last_letter   =   next_input 
+         if   seq   in   : 
+             return   "R" 
+         return   "L" 
+     return   None 
+ def   next_outputs     ->   list  : 
+       """ 
+     Args: 
+       next_input: A string. 
+     Returns: 
+       A list of strings containing the letters "L" or "R". 
+     Example: 
+       >>> next_outputs 
+        
+     """ 
+     return    
+    >>>   next_outputs   
+  
+ >>>   next_outputs   
+  
+</prSimilarly, this task can be solved in a straightforward way by a finite-state machine with 7 states .
+This task is much more difficult for neural networks. For simple feedforward neural networks, this task is not solvable because feedforward networks don't have any working memory. After all, including working memory into neural networks is a difficult task. There have been several approaches like PBWM or Long short-term memory which have working memory. This 1-2-AX task is good task for these models and both are able to solve the task.

@@ -1,0 +1,8 @@
+ClassMate PC, previamente conhecido como Eduwise, é um notebook de baixo custo criado pela Intel e destinado aos estudantes.
+O projecto apareceu como resposta aos computadores XO idealizados por Nicholas Negroponte, na guerra pela liderança no mercado dos Netbooks.
+Os Classmate PC estão presentes em mais de 30 países. Na Indonésia é conhecido pelo nome de «Anoa», na Índia é o Mileap-X series, na Itália é o Jumpc no Brasil é conhecido por Mobo Kids e em Portugal por Magalhães.
+O ClassMatePC venceu parcialmente o leilão "Um Computador por Aluno " promovido pelo Governo Federal do Brasil para fornecer 150 mil laptops educacionais ao MEC. Para ganhar o leilão, era necessário que o computador atendesse aos requisitos mínimos propostos pelo governo, como uma configuração básica, além do comprometimento para fornercer suporte e infra-estrutura de rede para os computadores usados nos colégios. Os laptops serão distribuidos em 2008, mas antes, o governo ainda tentará baixar mais o preço da máquina.  No entanto, atualmente, o leilão se encontra congelado.  O Governo não descarta cancelar o leilão e lançar um novo. 
+Dos 150 mil notebooks, eles serão distribuidos assim:
+O estado a receber o menor número de máquinas será Roraima com 3.353 máquinas
+A escolha das instituições de ensino que participarão do projeto piloto fica por conta dos governos estaduais e das secretarias municipais de ensino.
+XO:  é provavelmente o primeiro projecto de criação e distribuição de Portáteis de baixo custo em países em desenvolvimento, criado por Nicholas Negroponte do Massachusetts Institute of Technology  e propondo um equipamento semelhante ao Classmate PC.

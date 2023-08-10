@@ -1,0 +1,43 @@
+En physique, en mécanique classique, la force centrale en 1/r⁵ est un résultat établi par Isaac Newton, en corollaire de son exégèse des Principia Naturalis.
+Soit un point matériel P de masse m décrivant une trajectoire circulaire de rayon a et de centre C. On le soumet à l'attraction gravitationnelle d'un point O situé sur la circonférence de cette trajectoire circulaire.
+On peut alors montrer que la loi de force centrale est en 1/OP⁵.
+On note Q la position de P à t + dt. On note R l'intersection de la tangente en P et de la parallèle à OP passant par Q. D'après la seconde loi de Kepler, l'aire balayée pendant cet intervalle dt est constante, et égale ici à l'aire du triangle OPQ.
+On calcule la limite du rapport 2RQ/², selon l'expression fondamentale des Principia.
+D'autre part l'aire s'évalue par la podaire p comme : A = p.RP / 2, donc A² = p².RP ² / 4. On a alors 
+  
+    
+      
+        F
+         
+        1
+        
+          /
+        
+        
+      
+    
+    
+  
+. Or p = OP.sin et OP = 2a.sin.
+Donc p.2a = OP², on obtient enfin 
+  
+    
+      
+        F
+         
+        1
+        
+          /
+        
+        
+          r
+          
+            5
+          
+        
+      
+    
+    }
+  
+.
+On peut également, avec les formules de Binet, obtenir le même résultat. Cette méthode était cependant inconnue du temps de Newton.

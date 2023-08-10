@@ -1,0 +1,5 @@
+Une pompe électro-osmotique est utilisée pour extraire l’eau liquide en excès des capillaires et des injecteurs dans une pile à combustible à membrane d'échange de protons et pour assurer l’hydratation directe de la membrane à échange de protons d'un empilement de membranes-électrodes.
+Une pompe électro-osmotique est constituée de nanosphères de silice, ou d'un verre poreux hydrophile : le pompage, qui est déclenché par un champ électrique extérieur agissant sur une double couche électrique, crée des pressions très élevées  et des débits considérables . Les pompes EO sont donc compactes, ne mettent en jeu aucun « mécanisme » , et leur taille convient parfaitement à la conception des piles à combustible : elles pourraient permettre de faire baisser de 20 % à 0,5 % la consommation parasite nécessaire à l'évacuation de l'humidité dans ces dispositifs.
+On peut obtenir des pressions et des débits importants en connectant en parallèle plusieurs pompes électro-osmotiques ordinaires en cascade.
+Le pompage par voie poreuse est fondé sur l'emploi de verre fritté,.
+Comme leur nom l'indique, ces pompes sont constituées de microcanaux parallèles.

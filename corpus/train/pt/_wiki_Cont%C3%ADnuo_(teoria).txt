@@ -1,0 +1,2 @@
+As teorias ou modelos do contínuo explicam variações que envolvem transições  quantitativas graduais sem mudanças abruptas ou discontinuidades. Em contraste, teorias ou modelos categóricos explicam-as usando diferentes estados qualitativos.
+Na física, por exemplo, o modelo de espaço-tempo contínuo descreve o espaço e o tempo como partes do mesmo contínuo; e nao como entidades separadas. O espectro na física, como o espectro eletromagnético, e chamado tanto como contínuo  ou discreto .

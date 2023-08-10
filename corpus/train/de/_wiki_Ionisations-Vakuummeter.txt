@@ -1,0 +1,22 @@
+Ein Ionisations-Vakuummeter ist ein Druckmessgerät zur Druckbestimmung im Hoch- und Ultrahochvakuumbereich, also etwa 10−3 mbar  bis 10−12 mbar . Das Prinzip basiert auf einer indirekten Druckmessung mittels elektrischer Größen, die zu den Restgaspartikeln mit der Teilchenzahldichte proportional sind. Dazu muss das Restgas ionisiert werden, wofür es unterschiedliche Umsetzungsmöglichkeiten gibt:
+Zwischen Anode und Kathode liegt eine Gleichspannung von etwa 2 kV an. Vorhandene Elektronen werden in diesem Feld beschleunigt und ionisieren Restgasteilchen durch Stoßionisation. Es bildet sich ein druckabhängiger Entladungsstrom, der gemessen wird. Oberhalb von 10−2 mbar   geht der Ionenstrom in eine Glimmentladung über, die vom Druck unabhängig ist .
+Aufschlagende Ionen bleiben entweder auf der Kathode haften und werden dort neutralisiert, oder sie schlagen Material heraus . Das Material schlägt sich an den Wänden der Messräume nieder. Durch diesen Prozess wird die Kathode langsam verbraucht und ist daher meist austauschbar konstruiert.
+Auf der Restgasionisation mittels Kaltkathoden basieren:
+Dieses System basiert auf der Emission von Elektronen aus dem beheizten Kathodenmaterial. Zwischen der Glühkathode und der Anode liegt eine Spannung  an, die die emittierten Elektronen  beschleunigt. Diese Elektronen können unter der Bedingung 
+  
+    
+      e
+       
+      U
+       
+      
+        E
+        
+          I
+        
+      
+    
+    e\cdot U\geq E_
+  
+  die Restgasteilchen ionisieren. Die positiv geladenen Gasionen werden von einer weiteren Kathode, deren Potential negativer ist als jenes der Glühkathode, angezogen. Die Neutralisation der Ionen führt zu einem messbaren Strom, welcher auf dem Ionenstrom basiert und daher von der Teilchenzahldichte im Restgas abhängt.
+Auf der Restgasionisation mittels Glühkathoden basieren:

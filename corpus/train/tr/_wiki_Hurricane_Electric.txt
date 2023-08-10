@@ -1,0 +1,7 @@
+DoğrulukGörüldü
+Hurricane Electric, IPv4 ve IPv6 Internet erişimi, IP transit, internet araçları ve ağ uygulamaları sunan global bir İnternet servis sağlayıcıdır  1  Firma aynı zamanda, San Jose, California ile firmanın kurulduğu Fremont, Californiada veri merkezi barındırma ve hosting hizmetleri sunar.
+Hurricane Electric, diğer şebekelere peering bağlantı sayısına göre ölçüldüğünde dünyanın en büyük Internet Protocol version 4  ve Internet Protocol version 6  internet şebekesini işletmektedir. 2  Bu bağlantıların çoğu IPv6 BGP oturumlarını da çalıştırmaktadır.
+Hurricane Electric ayrıca IPv6 internetine erişim için ücretsiz tunnel broker servisi sunar. 3  Bu servis 6-in4  mekanizmasıyla çalışır. Firmanın bir diğer popüler hizmeti ise IPv6 sertifikasyon programıyla eğitim ve teknoloji uyumluluk çalışmaları yürütmesidir. 4  5 
+Hurricane Electric, global şebekesi içerisinde, 295 trafik değişim noktasına  bağlıdır 6  7  ve 10'600'den fazla değişik internet şebekesiyle direkt trafik değişimi yapmaktadır. 8 
+European Internet Exchange Association , Hurricane Electric'i katıldığı 155 Euro-IX üyesi trafik değişim noktası nedeniyle dünyada birinci sırada göstermektedir. 9  10 
+İnternet Servis Sağlayıcısı Cogent ile Hurricane Electric arasında uzun süredir devam eden bir anlaşmazlık bulunmaktadır. Cogent, Hurricane'in IPv6 Tier-1 ligine girişini kabul etmemekle kalmayıp, aynı zamanda Google ile de aynı sebepten anlaşmazlığa düşmüştür. 11 

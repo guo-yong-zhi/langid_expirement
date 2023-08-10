@@ -1,0 +1,58 @@
+Keno on rahapeli, jossa pelaaja yrittää arvata koneen arpomat numerot. Suomessa Kenoa on pelattu  vuodesta 1988 alkaen, jolloin Raha-automaattiyhdistys lanseerasi suunnittelemansa Korttikeno-nimisen raha-automaatin 1 . Kymmenen vuotta myöhemmin 1998 Raha-automaattiyhdistys toi korttikenon rinnalle Keno 40 -pelin  2 . Kummatkin pelit ovat edelleen pelipisteiden ja pelisalien raha-automaattien pelivalikoimassa.
+Veikkaus 3  liitti Kenon tuotevalikoimaansa 2002 , ja tätä nykyä se on Veikkauksen toiseksi pelatuin peli Loton jälkeen 5 . Muitakin suomalaisille suunnattuja kenopelejä on kuitenkin saatavilla nettikenon eli Internetissä pelattavan kenon muodossa, esimerkiksi Veikkauksen nettikasinossa on pelattavana viisi erilaista kenopeliä.
+Raha-automaattiyhdistyksen Numerokenossa valitaan pelattavaksi 2–10 numeroa 40 numerosta ja Veikkauksen versiossa valitaan pelattavaksi 2–10 numeroa 70 numerosta. Veikkauksen peliä pelataan päivittäin, jolloin arvotaan 20 numeroa. Kenossa voitto määräytyy tasojen ja panoksen mukaan.
+Kenon oikeiden rivien todennäköisyydet voidaan laskea binomijakauman kaavaa mukaillen siten, että lasketaan 1) todennäköisyys että tulee täsmälleen R rastia (tai palloa) oikein, 2) todennäköisyys että täsmälleen 20 - R palloa menee väärin (eli pallojen numerot eivät löydy omasta rivistä) ja 3) niiden järjestysten lukumäärä, joissa oikeat ja väärät pallot voivat esiintyä 20 pallon sarjassa. Rastien kokonaismäärää rivissä merkitään T:llä. Huutomerkki ! tarkoittaa kertomaa.
+ R palloa oikein:    P1 = T!/! / !)
+20-R palloa väärin: P2 = !/)! / !/
+N tapaa järjestää:   N = 20!/(R!*
+Kenon voittotodennäköisyys P = P1*P2*N
+Vedonlyöntisuhde  O = /P
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+10 oikein        200 000         2 150 000
+9 oikein           5 000            47 000
+8 oikein             200             2 570
+7 oikein              20               260
+6 oikein               4                43
+5 oikein               1                11
+0 oikein               1                38
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+9 oikein          50 000           387 000
+8 oikein           1 200            10 300
+7 oikein              50               684
+6 oikein              10                85
+5 oikein               2                17
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+8 oikein          10 000            74 900
+7 oikein             240             2 440
+6 oikein              20               198
+5 oikein               3                30
+4 oikein               1                 7
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+7 oikein           2 400            15 500
+6 oikein             100               618
+5 oikein              10                62
+4 oikein               1                12
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+6 oikein             420              3380
+5 oikein              20               168
+4 oikein               3                21
+3 oikein               1                 5
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+5 oikein             200               780
+4 oikein               9                49
+3 oikein               1                 8
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+4 oikein              32               188
+3 oikein               2                15
+2 oikein               1                 3
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+3 oikein              18                47
+2 oikein               1                 5
+    Tulos   Voittokerroin  Vedonlyöntisuhde
+2 oikein               7                12
+</prVeikkauksen Kenon numerot arvotaan kolme kertaa päivässä. Arvontanumerot esitetään myös päivittäin televisiossa MTV3-kanavalla myöhäisillassa. Ennen MTV3-kanavaa arvontanumerot esitettiin Nelosella. Nykyään Kenoa esitetään jälleen Nelosella kello 20.57. Kenoarvonta suoritetaan nykyään palloarvontana. Ohjelman juontaa Tuukka Raitala, Katariina Orimus ja Hanna-Leena Turpeinen.
+ 6 
+Nettikenossa on erilaisia kenon variaatiota. Suomalaisille tuttua 2–10 numeron kenoa voi pelata myös netissä, valinnanvaraa on kuitenkin enemmän, sillä Veikkauksen lisäksi on kymmeniä muita pelintarjoajia. Vaihtoehtona 2–10 numeron kenolle on 1–15 numeron keno, jossa valitaan yhdestä viiteentoista numeroa 80:stä. Aivan kuten kymmenen numeron pelissä mitä enemmän numeroita pelaaja arvaa oikein, sitä suurempi on voittokerroin. Mahdolliset voitot eri panoksilla on useimmiten myös mahdollista nähdä ennen numeroiden arvontaa. 7 
+Suurimmat erot suomalaisille tutun kenon ja netissä pelattavan kenon välillä ovat mahdollisuus pelata silloin kun pelaaja itse haluaa, sekä panostusrajojen suuruus. Nettikeno ei rajoitu vain yhteen peliin päivässä maksimissaan 10 euron panostuksella, vaan pelaajalla on mahdollisuus pelata niin monta arvontakierrosta kuin hänestä itsestään tuntuu suurillakin panoksilla. Tämän lisäksi uusia variaatioita kenosta tulee jatkuvasti markkinoille, joten pelaajan ei tarvitse tyytyä vain yhteen pelimuotoon. Saatavilla on myös lukuisia bonuspelejä sekä suuret progressiiviset jackpotit. 8 Nettikenossa talon eli netticasinon etu on yleensä luokkaa 20–35 % ja videokenossa 6–16 %. 9 
+Alkuperäisen Kenon ikä on toista tuhatta vuotta. Kenosta on lukuisia erilaisia variaatiota, ja Raha-automaattiyhdistyksen 40 numeron tai Veikkauksen 70 numeron keno ovat versioita pelistä, jota pelattiin jo muinaisessa Kiinassa. 10 
+ 

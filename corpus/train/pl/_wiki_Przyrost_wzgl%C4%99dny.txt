@@ -1,0 +1,97 @@
+Przyrost względny - stosowany w statystyce opisowej, rozróżniamy dwa rodzaje przyrostów względnych: łańcuchowe oraz o stałej podstawie.
+  
+    
+      
+        
+          d
+          
+            t
+            
+              /
+            
+            t
+             
+            1
+          
+        
+        =
+        
+          
+            
+              
+                y
+                
+                  t
+                
+              
+               
+              
+                y
+                
+                  t
+                   
+                  1
+                
+              
+            
+            
+              y
+              
+                t
+                 
+                1
+              
+            
+          
+        
+      
+    
+    =}}
+  
+Komentarz:
+Uwaga:
+  
+    
+      
+        
+          d
+          
+            t
+            
+              /
+            
+            c
+          
+        
+        =
+        
+          
+            
+              
+                y
+                
+                  t
+                
+              
+               
+              
+                y
+                
+                  c
+                
+              
+            
+            
+              y
+              
+                c
+              
+            
+          
+        
+      
+    
+    =}}
+  
+Komentarz:
+Uwaga:

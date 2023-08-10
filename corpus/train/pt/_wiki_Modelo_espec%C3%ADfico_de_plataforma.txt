@@ -1,0 +1,2 @@
+Um PSM  em engenharia de software é um modelo de sistema de software ou negócio. É a apresentação da implementação do processo de negócio no nível mais próximo do código fonte, e é o produto da transformação de um PIM.
+Este Modelo é uma das visões da Engenharia Orientada a modelos da OMG. A ideia principal é sua utilização para o desenvolvimento do código fonte da plataforma específica através de padrões de transformação.

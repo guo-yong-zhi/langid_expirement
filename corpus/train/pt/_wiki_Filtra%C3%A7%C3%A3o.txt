@@ -1,0 +1,26 @@
+Filtração ou filtragem é um método utilizado para separar sólido de líquido ou fluido que está suspenso, pela passagem do líquido ou fluido através de um meio permeável capaz de reter as partículas sólidas. Existem filtrações de escala de laboratório e filtrações de escala industrial.
+Numa filtração qualitativa, é usado o papel de filtro qualitativo,placas de vidro sinterizados ou de porcelana sinterizada mas, dependendo do caso, o meio poroso poderá ser uma camada de algodão, tecido, polpa de fibras quaisquer, que não contaminem os seres humanos
+Em qualquer dos casos indicados há uma grande gama de porosidades e esta deverá ser selecionada dependendo da aplicação em questão.
+Existem basicamente 5 tipos de filtração utilizadas em laboratório, que são:
+1. Filtrações Comuns de Laboratório
+São onde os elementos fundamentais são: papel filtro qualitativo  e funil comum.
+2. Filtração Analítica 
+Usada na análise quantitativa. O funil é o funil analítico, munido de um tubo de saída longo, que, cheio de líquido "sifona", acelerando a operação de filtração.
+Os papéis filtro para fins quantitativos diferem dos qualitativos, principalmente por serem quase livres de cinzas , visto que, durante a preparação, são lavados com ácido clorídrico e fluorídrico, que dissolvem as substâncias minerais da pasta de celulose. O teor de cinza de um papel filtro quantitativo de 11 cm de diâmetro é menor que 0,0001 g. Eles existem no mercado na forma de discos  e com várias porosidades.
+Os filtros de uma empresa são especificados pelo número 589 e tem várias texturas:
+3. Filtração Com Funil de Buchner ou Cadinho de Gooch
+São as típicas filtrações a vácuo, pois são realizadas com a aplicação de vácuo para permitir, seja por motivo de tempo, seja por viscosidade do líquido a ser filtrado, necessitar-se de um diferencial de pressão  atuando sobre o líquido no filtro.
+É efetuada com sucção com auxílio de uma trompa de vácuo e Kitassato. No fundo do funil, sobre a placa plana perfurada é adaptado o disco de papel filtro molhado, aderido devido à sucção.
+Filtração a vácuo
+Substituindo-se o funil de Buchner por um cadinho de porcelana com fundo perfurado temos a filtração com cadinho de Gooch. É portanto, efetuada com sucção e o meio filtrante é polpa de papel de filtro quantitativo ou amianto. 
+Para a confecção do meio filtrante de amianto ou polpa de papel filtro, deve-se colocar o cadinho na alonga e adicionar com muito cuidado o amianto misturado com água . Bate-se levemente com a bagueta é deixa-se escorrer toda a água através de sucção. O meio filtrante não deve ser muito espesso.
+4. Filtração em Cadinhos Com Placas Porosas de Vidro ou Porcelana
+Neste caso, o cadinho já possui o meio filtrante fundido ao corpo do cadinho. Sofrem via de regia, ataque das soluções alcalinas. Por isso são utilizados em aplicações diversas, evitando-se apenas soluções francamente alcalinas.
+5. Filtração a Quente
+Quando a solubilidade permitir, a filtragem à quente é preferível, por reduzir a viscosidade do líquido.
+Nas filtrações a quente, evita-se o contacto do papel de filtro com as paredes do funil que resfriam o conjunto filtrante. Por isso, depois de feito o cone do papel, suas paredes são dobradas em pregas e aquece-se previamente o conjunto com água quente. Há também filtros com camisa de vapor e neste caso o papel filtro é adaptado como nos casos comuns.
+Filtração
+A filtração é utilizada para realizar a separação do líquido de uma mistura sólido-líquido ou sólido-gasoso. O “equipamento” mais utilizado é o filtro de papel, usado para filtrar o café . Ele funciona como uma peneira microscópica, somente o líquido passa pelos seus minúsculos orifícios, acumulando a fase sólida dentro do filtro. 
+O nome dado à substância que passou pelo filtro é “filtrado”. O filtro é feito de fibras entrelaçadas, formando uma peneira microscópica. 
+Num aspirador de pó, o filtro é utilizado para separar as partículas sólidas  do ar.
+Ex: Os materiais sólidos ficam e os líquidos passam.

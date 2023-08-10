@@ -1,0 +1,29 @@
+4KIK, 3BRT, 3BRV, 4E3C
+• transferase activity• protein kinase activity• IkappaB kinase activity• nucleotide binding• protein homodimerization activity• scaffold protein binding• kinase activity• GO:0001948, GO:0016582 protein binding• ATP binding• protein kinase binding• protein heterodimerization activity• protein serine/threonine kinase activity• identical protein binding
+• мембрана• membrane raft• CD40 receptor complex• cytoplasmic side of plasma membrane• клітинне ядро• IkappaB kinase complex• цитоплазма• гіалоплазма
+• фосфорилювання• regulation of tumor necrosis factor-mediated signaling pathway• cellular response to tumor necrosis factor• response to virus• regulation of phosphorylation• negative regulation of apoptotic process• stimulatory C-type lectin receptor signaling pathway• T cell receptor signaling pathway• TRIF-dependent toll-like receptor signaling pathway• Fc-epsilon receptor signaling pathway• GO:0060469, GO:0009371 positive regulation of transcription, DNA-templated• protein phosphorylation• negative regulation of bicellular tight junction assembly• stress-activated MAPK cascade• positive regulation of I-kappaB kinase/NF-kappaB signaling• negative regulation of myosin-light-chain-phosphatase activity• Вроджений імунітет• inflammatory response• I-kappaB kinase/NF-kappaB signaling• GO:0033109 cortical actin cytoskeleton organization• GO:0003257, GO:0010735, GO:1901228, GO:1900622, GO:1904488 positive regulation of transcription by RNA polymerase II• regulation of establishment of endothelial barrier• I-kappaB phosphorylation• tumor necrosis factor-mediated signaling pathway• positive regulation of NF-kappaB transcription factor activity• antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent• anatomical structure morphogenesis• protein localization to plasma membrane• MyD88-independent toll-like receptor signaling pathway• GO:0035404 peptidyl-serine phosphorylation• interleukin-1-mediated signaling pathway• GO:0022415 viral process
+IKBKB  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 8-ї хромосоми. 4  Довжина поліпептидного ланцюга білка становить 756 амінокислот, а молекулярна маса — 86 564 5 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функціями належить до трансфераз, кіназ, серин/треонінових протеїнкіназ, фосфопротеїнів. 
+Задіяний у таких біологічних процесах, як ацетилювання, альтернативний сплайсинг. 
+Білок має сайт для зв'язування з АТФ, нуклеотидами. 
+Локалізований у цитоплазмі, ядрі, мембрані.
+  Портал «Біологія»   Портал «Хімія»                       

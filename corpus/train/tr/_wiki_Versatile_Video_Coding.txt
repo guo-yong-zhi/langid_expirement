@@ -1,0 +1,11 @@
+H.266, 1  ISO/IEC 23090-3, 2  ve MPEG-I Part 3 olarak da bilinen Versatile Video Coding  , Joint Video Experts Team  tarafından 6 Temmuz 2020'de son haline getirilen bir video sıkıştırma standardıdır. Ekip , 3  ITU-T Çalışma Grubu 16'nın VCEG çalışma grubunun ve ISO/IEC JTC 1/SC 29'un MPEG çalışma grubunun ortak video uzman ekibinden meydana gelmektedir.  High Efficiency Video Coding  ardılıdır. İki temel hedefle geliştirilmiştir   geliştirilmiş sıkıştırma performansı ve çok geniş bir uygulama yelpazesi için destek. 4  5  6 
+JVET, Ekim 2017'de son bir Teklif Çağrısı yayınladı ve standardizasyon süreci, standardın ilk çalışma taslağının üretildiği Nisan 2018'de resmi olarak başladı. 7  8 
+IBC 2018'de, videoyu HEVC'den %40 daha verimli sıkıştırdığı söylenen VVC'ye dayalı bir ön uygulama gösterildi. 9 
+Nihai standardın içeriği 6 Temmuz 2020'de onaylandı  10  11  12 
+HEVC uygulamalarını lisanslarken görülen sorunların riskini azaltmak için VVC, Media Coding Industry Forum  adlı yeni bir grup kuruldu. 14  15  Ancak, MC-IF'in, JVET'in konsensüs kararlarıyla belirlenen teknik değere dayalı standardizasyon süreci üzerinde hiçbir gücü yoktu. 16 
+Önceki AVC  17  ve HEVC  18  kodeklerine benzer bir durumda, başlangıçta dört şirket VVC için patent havuzu yöneticileri olmak için yarışıyordu. Daha sonra iki şirketin havuz oluşturduğu bildirildi: Access Advance ve MPEG LA. 19 
+Access Advance, gerekli lisans ücretinin miktarını yayınladı. 20 
+Kodlayıcılar/kod çözücüler
+Oynatıcılar
+Brezilya SBTVD Forumu, Brezilya'nın yakında çıkacak olan TV 3.0'ı için VVC'yi seçti. Brezilya SBTVD Forumu, 2024'te piyasaya sürülmesi beklenen yakında yayınlanacak televizyon sistemi TV 3.0'da MPEG-I VVC kodekini benimseyecek. Yayın ve geniş bant dağıtımı için bir video taban katmanı kodlayıcısı olarak MPEG-5 LC EVC ile birlikte kullanılacaktır. 37 
+Dijital televizyon yayın standartlarını yöneten Avrupa kuruluşu DVB Project, 24 Şubat 2022'de VVC'nin artık yayın araçlarının bir parçası olduğunu duyurdu. 38  Avrupa, Avustralya ve diğer birçok bölgede kullanılan DVB tuner özelliği, HEVC'nin halefi olan VVC  video codec bileşenini desteklemek üzere revize edilmiştir. 39 

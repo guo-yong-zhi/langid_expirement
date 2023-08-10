@@ -1,0 +1,1 @@
+Flödesbatteri är en typ av elektrokemisk cell där det är elektrolyten som innehåller energin. Det mesta av elektrolyten befinner sig i tankar utanför cellen, och i detta avseende liknar flödesbatteriet en bränslecell. Genom att driva redoxreaktionen åt andra hållet, är det möjligt att på nytt lagra energi i elektrolyten. Principen för flödesbatteriet uppfanns 1902.

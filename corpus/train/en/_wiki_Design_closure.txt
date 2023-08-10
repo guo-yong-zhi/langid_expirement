@@ -1,0 +1,40 @@
+
+Design Closure is a part of the digital electronic design automation workflow by which an integrated circuit  design is modified from its initial description to meet a growing list of design constraints and objectives.
+Every step in the IC design  is already complex and often forms its own field of study.  This article, however, looks at the overall design closure process, which takes a chip from its initial design state to the final form in which all of its design constraints are met.
+Every chip starts off as someone’s idea of a good thing: "If we can make a part that performs function X, we will all be rich!" Once the concept is established, someone from marketing says "To make this chip profitably, it must cost $C and run at frequency F." Someone from manufacturing says "To meet this chip’s targets, it must have a yield of Y%." Someone from packaging says “It must fit in the P package and dissipate no more than W watts.” Eventually, the team generates an extensive list of all the constraints and objectives they must meet to manufacture a product that can be sold profitably. The management then forms a design team, which consists of chip architects, logic designers, functional verification engineers, physical designers, and timing engineers, and assigns them to create a chip to the specifications.
+The distinction between constraints and objectives is straightforward: a constraint is a design target that must be met for the design to be successful. 1  For example, a chip may be required to run at a specific frequency so it can interface with other components in a system. In contrast, an objective is a design target where more
+ is better. For example, yield is generally an objective, which is maximized to lower manufacturing cost. For the purposes of design closure, the distinction between constraints and objectives is not important; this article uses the words interchangeably.
+Designing a chip used to be a much simpler task. In the early days of VLSI, a chip consisted of a few thousand logic circuits that performed a simple function at speeds of a few MHz. Design closure was simple: if all of the necessary circuits and wires "fit", the chip would perform the desired function.
+Modern design closure has grown orders of magnitude more complex. Modern logic chips can have tens to hundreds of millions of logic elements switching at speeds of several
+GHz. This improvement has been driven by Moore’s law of scaling of technology, and has introduced many new design considerations. As a result, a modern VLSI designer must consider the performance of a chip against a list of dozens of design constraints and objectives including performance, power, signal integrity, reliability, and yield.  In response to this growing list of constraints, the design closure flow has evolved from a simple linear list of tasks to a very complex, highly iterative flow such as the following simplified ASIC design flow:
+The purpose of the flow is to take a design from concept phase to working chip. The complexity of the flow is a direct result of the addition and evolution of the list of design closure constraints. To understand this evolution it is important to understand the life cycle of a design constraint. In general, design constraints influence the design flow via the following five-stage evolution:
+A good example of this evolution can be found in the signal integrity constraint. In the mid-1990s , industry visionaries were describing the impending dangers of coupling noise long before chips were
+failing. By the mid-late 1990s, noise problems were cropping up in advanced microprocessor designs.
+By 2000, automated noise analysis tools were available and were used to guide manual fix-up. The total
+number of noise problems identified by the analysis tools identified by the flow quickly became too many
+to correct manually. In response, CAD companies developed the noise avoidance flows that are currently in
+use in the industry.
+At any point in time, the constraints in the design flow are at different stages of their life cycle. At the
+time of this writing, for example, performance optimization is the most mature and is well into the fifth
+phase with the widespread use of timing-driven design flows. Power- and defect-oriented yield optimization
+is well into the fourth phase; power supply integrity, a type of noise constraint, is in the third phase;
+circuit-limited yield optimization is in the second phase, etc. A list of the first-phase impending constraint
+crises can always be found in the International Technology Roadmap for Semiconductors  15-year-outlook technology roadmaps.
+As a constraint matures in the design flow, it tends to work its way from the end of the flow to the beginning.
+As it does this, it also tends to increase in complexity and in the degree that it contends with other constraints.
+Constraints tend to move up in the flow due to one of the basic paradoxes of design: accuracy vs.
+influence. Specifically, the earlier in a design flow a constraint is addressed, the more flexibility there is to
+address the constraint. Ironically, the earlier one is in a design flow, the more difficult it is to predict compliance.
+For example, an architectural decision to pipeline a logic function can have a far greater impact on
+total chip performance than any amount of postrouting fix-up. At the same time, accurately predicting the
+performance impact of such a change before the chip logic is synthesized, let alone placed or routed, is very
+difficult. This paradox has shaped the evolution of the design closure flow in several ways. First, it requires
+that the design flow is no longer composed of a linear set of discrete steps. In the early stages of VLSI it was
+sufficient to break the design into discrete stages, i.e., first do logic synthesis, then do placement, then do
+routing. As the number and complexity of design closure constraints has increased, the linear design flow
+has broken down. In the past if there were too many timing constraint violations left after routing, it was
+necessary to loop back, modify the tool settings slightly, and reexecute the previous placement steps. If the
+constraints were still not met, it was necessary to reach further back in the flow and modify the chip logic
+and repeat the synthesis and placement steps. This type of looping is both time consuming and unable to
+guarantee convergence i.e., it is possible to loop back in the flow to correct one constraint violation only to
+find that the correction induced another unrelated violation.
