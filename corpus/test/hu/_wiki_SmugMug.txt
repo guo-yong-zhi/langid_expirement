@@ -1,0 +1,4 @@
+Pontosságellenőrzött
+A SmugMug egy apa és fia által 2002-ben alapított képmegosztó webes rendszer.
+Nincs ingyenes része, cserébe ezért reklámmentességet, földrajzilag elosztott szervereket és magas rendelkezésre állást kínál. 
+Az alapdíjért korlátlan mennyiségű képet lehet tárolni, az emelt díjakért cserébe pedig a weblap képe is testre szabható.

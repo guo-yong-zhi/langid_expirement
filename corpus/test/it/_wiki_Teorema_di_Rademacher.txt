@@ -1,0 +1,73 @@
+In analisi matematica, il teorema di Rademacher afferma che, se 
+  
+    
+      
+        U
+      
+    
+    
+  
+ è un sottoinsieme aperto di 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+     ^
+  
+ e 
+  
+    
+      
+        f
+        :
+        U
+         
+        
+          
+            R
+          
+          
+            m
+          
+        
+      
+    
+     ^
+  
+ una funzione lipschitziana, allora 
+  
+    
+      
+        f
+      
+    
+    
+  
+ è differenziabile quasi ovunque in 
+  
+    
+      
+        U
+      
+    
+    
+  
+, ovvero i punti in cui 
+  
+    
+      
+        f
+      
+    
+    
+  
+ non è differenziabile formano un insieme di misura nulla.

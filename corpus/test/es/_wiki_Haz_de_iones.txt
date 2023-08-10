@@ -1,0 +1,10 @@
+Un haz de iones  es un haz de partículas cargadas eléctricamente, consistente iones.
+Esencialmente la fuente de un haz de iones es un generador de plasma equipado con un conjunto de rejillas que permiten extraer un chorro de iones. La configuración más común de una fuente de iones es:
+Los iones se producen en una cámara de descarga sometiendo a un gas, en general argón, a un campo de radiofrecuencia . Este gas es alimentado a un cámara de cuarzo o alúmina que tiene una antena bobinada a su alrededor. El campo RF excita los electrones libres del gas hasta que estos tienen la energía suficiente para romper los átomos del gas en iones y electrones; a este proceso se le llama acoplamiento inductivo, el gas entonces se ioniza y se forma un plasma.    
+La función de las rejillas es la de acelerar los iones a alta velocidad y convertirlos en un haz.
+El neutralizador es básicamente una fuente de electrones que compensa la carga de los iones en el haz para reducir la divergencia del haz debido a la mutua repulsión de los iones del propio haz y para reducir la carga del blanco.
+El grabado es conceptualmente similar a usar chorros de arena a presión, pero en lugar de arena se usan los átomos individuales del haz para erosionar el objetivo usando un tipo de haz iónico llamado duoplasmatrón. El grabado iónico reactivo es una extensión importante que usa la reactividad química para potenciar el efecto.  La aplicación típica del grabado iónico es en la fabricación de semiconductores.
+En radiobiología los haces de iones se usan para estudiar los mecanismos de comunicación intra o extra-celular, transducción de señales y daños reparación del ADN.
+Los haces de iones se usan en el tratamiento del cáncer.
+Los haces de iones se usan en propulsores iónicos a bordo de satélites y zonas espaciales.
+En física se usan haces de iones de alta energía en aceleradores de partículas para estudiar la estructura de la materia.

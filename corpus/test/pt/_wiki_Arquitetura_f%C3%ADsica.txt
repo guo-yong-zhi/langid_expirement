@@ -1,0 +1,3 @@
+
+Arquitetura Física do modelo TMN  implementa fisicamente as funções da TMN representando a topologia da rede de gerência de telecomunicações, isto é, define a relação entre os sistemas de gerenciamento da rede de telecomunicações e os elementos gerenciados  A Arquitetura Física fornece os meios para a implementação dos blocos funcionais definidos pela arquitetura funcional.  
+Os blocos da arquitetura física são:
