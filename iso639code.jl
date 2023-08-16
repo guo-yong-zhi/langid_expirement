@@ -8,6 +8,9 @@ MT = coalesce.(MT, "")
 part1toid(c) = T[T[!, :Part1] .== c, :][:, :Id]|>only
 id2mid(c) = MT[MT[!, :I_Id] .== c, :][:, :M_Id]|>only
 function normcode(c, check=false)
+    if occursin("-", c)
+        c = split(c, "-")[1]
+    end
     if c in T[!, :Part1]
         c = part1toid(c)
     end
