@@ -1,0 +1,29 @@
+2LT7, 3FKC, 3M4T, 3M8V, 4F6M, 4F6N
+• methyl-CpG binding• sequence-specific DNA binding• DNA binding• GO:0001948, GO:0016582 protein binding• зв'язування з іоном металу• nucleic acid binding• GO:0001200, GO:0001133, GO:0001201 DNA-binding transcription factor activity, RNA polymerase II-specific
+• клітинна мембрана• Ядерце• клітинне ядро• Нуклеоплазма• цитоплазма• гіалоплазма
+• GO:0007243 intracellular signal transduction• GO:0045996 negative regulation of transcription, DNA-templated• GO:0009373 regulation of transcription, DNA-templated• Wnt signaling pathway• transcription, DNA-templated• GO:0044324, GO:0003256, GO:1901213, GO:0046019, GO:0046020, GO:1900094, GO:0061216, GO:0060994, GO:1902064, GO:0003258, GO:0072212 regulation of transcription by RNA polymerase II
+ZBTB33  – білок, який кодується однойменним геном, розташованим у людей на X-хромосомі. 3  Довжина поліпептидного ланцюга білка становить 672 амінокислот, а молекулярна маса — 74 484 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функціями належить до репресорів, активаторів, фосфопротеїнів. 
+Задіяний у таких біологічних процесах, як транскрипція, регуляція транскрипції, сигнальний шлях Wnt. 
+Білок має сайт для зв'язування з іонами металів, іоном цинку, ДНК. 
+Локалізований у цитоплазмі, ядрі.
+  Портал «Біологія»   Портал «Хімія»                       

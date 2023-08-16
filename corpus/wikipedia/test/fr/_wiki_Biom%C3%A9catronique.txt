@@ -1,0 +1,7 @@
+Cet article est une ébauche concernant la médecine et la science.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+La biomécatronique est une science appliquée interdisciplinaire associant les recherches fondamentales en biomécanique aux techniques médicales et robotiques, et ayant pour objectif d’intégrer des éléments mécaniques dans le corps humain.
+Cette intégration  s’opère autant dans le but :
+On peut résumer la biomécatronique comme étant la science des « cyborgs dans la vraie vie ».
+On notera toutefois que les techniques de prothèses sont souvent palliatives à la greffe d’organes réels, notamment les techniques prosthétiques qui utilisent des prothèses électromécaniques, car elles sont nettement plus fragiles que les prothèses purement mécaniques, plus complexes à concevoir et très coûteuses, et nettement moins efficaces que les organes qu’ils remplacent  ; de plus, ces prothèses posent de sérieux problèmes liés à la fourniture de l’énergie d’alimentation que le corps ne fournit pas naturellement.
+Par contre, de sérieuses avancées aujourd’hui conduisent au développement de prothèses externes ne nécessitant pas d’implantation chirurgicale et facilement réparable ou remplaçable, techniques normalement associées à la rééducation fonctionnelle, par exemple :

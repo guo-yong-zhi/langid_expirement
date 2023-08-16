@@ -1,0 +1,300 @@
+DoğrulukGörüldü
+Möbius fonksiyonu 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+, 1832 yılında Alman matematikçi August Ferdinand Möbius tarafından ortaya atılan çarpımsal bir fonksiyondur. Temel ve analitik sayılar teorisi'nde çoğunlukla kullanılan fonksiyon, genellikle Möbius inversiyon formülü'nün bir parçası olarak görülür. Gian-Carlo Rota'nın 1960'lı yıllardaki çalışmaları sonucunda 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ ile gösterilen Möbius fonksiyonunun genellemeleri kombinatoriğe tanıtılmıştır.
+Herhangi bir pozitif tam sayı 
+  
+    
+      
+        n
+      
+    
+    
+  
+ için 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+, 1'in primitif olan ninci köklerinin toplamını ifade eder. 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+, 
+  
+    
+      
+        n
+      
+    
+    
+  
+'nin asal çarpanlarına ayrılışına göre 
+  
+    
+      
+        
+      
+    
+    }
+  
+ değerlerini alabilir.
+Eğer 
+  
+    
+      
+        n
+      
+    
+    
+  
+,
+olur.
+Möbius fonksiyonu alternatif olarak şu şekilde yazılabilir:
+Burada 
+  
+    
+      
+         
+      
+    
+    {\displaystyle \delta }
+  
+ Kronecker deltasını, 
+  
+    
+      
+         
+        
+      
+    
+    {\displaystyle \lambda }
+  
+ Liouville fonksiyonunu 
+          
+             
+            ^{\Omega }}
+  
+ olarak ifade edilir), 
+  
+    
+      
+         
+        
+      
+    
+    {\displaystyle \omega }
+  
+ ve 
+  
+    
+      
+         
+        
+      
+    
+    {\displaystyle \Omega }
+  
+ ise Asal omega fonksiyonlarını ifade eder.
+  
+    
+      
+         
+        
+      
+    
+    
+  
+'nin ilk 50 pozitif tam sayı için değerleri şu şekildedir:
+Yukarıdaki değerlerin grafik üzerinde gösterimi aşağıdaki gibidir.
+Möbius fonksiyonunu üreten Dirichlet serisi, Riemann zeta fonksiyonunun çarpımsal tersidir. Eğer 
+  
+    
+      
+        s
+      
+    
+    
+  
+ reel kısmı 1'den büyük bir karmaşık sayıysa
+eşitliği sağlanır.
+Bu eşitlik 
+  
+    
+      
+        1
+        
+          /
+        
+         
+        
+      
+    
+    
+  
+'nin Euler çarpımından da görülebilir:
+İlgili seriler:
+Möbius fonksiyonu için Lambert serisi:
+Asal 
+  
+    
+      
+         
+         
+        2
+      
+    
+    
+  
+ için de şunu yazabiliriz:
+Möbius fonksiyonu 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+, 
+  
+    
+      
+        a
+      
+    
+    
+  
+ ve 
+  
+    
+      
+        b
+      
+    
+    
+  
+ aralarında asal ise çarpımsaldır (
+  
+    
+      
+         
+        
+        =
+         
+        
+      
+    
+    
+  
+).
+  
+    
+      
+        n
+      
+    
+    
+  
+'nin her pozitif böleni 
+  
+    
+      
+        d
+      
+    
+    
+  
+ için 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ değerlerinin toplamı sıfırdır: 
+Bu eşitlik Möbius inversiyon formülü'nün temelini oluşturur ve 
+  
+    
+      
+         
+      
+    
+    
+  
+'nun aritmetik ve çarpımsal fonksiyonlar teorisindeki öneminin asıl nedeni budur.
+  
+    
+      
+         
+      
+    
+    
+  
+'nun kombinatorikteki diğer uygulamaları Pólya'nın sayma teoremi'nin kullanımıyla beraber kombinatoryal gruplar ve kombinatoryal sayma ile bağlantılıdır.
+Möbius fonksiyonu tarafından sağlanan bazı özdeşlikler: 1 
+Möbius fonksiyonunun ortalama değeri sıfırdır. Bu iddia, asal sayı teoremine eşittir. 2 
+Sayılar teorisinde Möbius fonksiyonu ile yakından ilgili bir diğer fonksiyon her doğal sayı 
+  
+    
+      
+        n
+      
+    
+    
+  
+ aşağıdaki gibi tanımlanan Mertens fonksiyonu'dur.
+Bu fonksiyon, Riemann zeta fonksiyonunun sıfırları ile yakından bağlantılıdır. Bunun hakkında daha fazla bilgi için Mertens konjektürü sayfasına bakabilirsiniz.
+eşitliğinden Mertens fonksiyonu şu şekilde yazılabilir:
+Burada 
+  
+    
+      
+        
+          
+            
+              F
+            
+          
+          
+            n
+          
+        
+      
+    
+    }_
+  
+, Farey dizisi'nin ninci kümesini belirtmektedir. Bu eşitlik, Franel-Landau teoremi'nin kanıtında kullanılmıştır.

@@ -1,0 +1,7 @@
+Tigase is an open source  project started by Artur Hefczyc in October 2004 to develop an XMPP server implementation in Java.
+Initially the goal was to develop a fully compliant XMPP server with backward compatibility with an informal XMPP specification. In time the project has been split into smaller parts – server implementation, XML tools containing a parser for XML streams and a test suite with a built-in scripting language.  In summer 2006, the client-side library and application in Java have joined the Tigase project. In November 2013, Tigase added a REST API layer project, and later HTTP tools - AdminUI.
+In 2018 IoT1 cloud was launched - bringing all XMPP and all Tigase software together to facilitate IoT devices communication.
+Tigase is currently in active development - on 19th of December 2022 Tigase XMPP Server 8.3.0 was released.
+Now Tigase consists of following subprojects:
+Server-side related projects
+This network-related software article is a stub. You can help Wikipedia by expanding it.

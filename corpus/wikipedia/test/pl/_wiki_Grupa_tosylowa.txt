@@ -1,0 +1,7 @@
+Grupa tosylowa, tosyl, p-toluenosulfonyl  – grupa funkcyjna wywodząca się z kwasu tosylowego, czyli p-toluenosulfonowego. Zawiera grupę sulfonylową przyłączoną do  pierścienia toluenu w pozycji para. 
+Estry tosylowe  są nietrwałe i reaktywne. Rozkładają się one w kontakcie z wilgocią z powietrza oraz są wrażliwe na działanie światła dziennego. 
+Tosylany alkoholi I- i II-rz można otrzymać w formie czystej, natomiast pochodne alkoholi III-rz są zbyt nietrwałe. Otrzymuje je się zazwyczaj w reakcji alkoholu z chlorkiem tosylu w pirydynie:
+W syntezie organicznej związki te są stosowane w reakcjach substytucji nukleofilowej, gdyż tosylan  jest bardzo dobrą grupą odchodzącą, w przeciwieństwie do anionu hydroksylowego OH−:
+Reakcja podstawienia tosylanu jest typu SN2 i zachodzi ona z inwersją konfiguracji na alkoholowym atomie węgla, np.:
+W syntezie organicznej grupa tosylowa jest stosowana także jako grupa ochronna dla grup aminowych.
+Trwałość związków arylosulfonowych można polepszyć stosując pochodne o zwiększonej zawadzie sterycznej . 

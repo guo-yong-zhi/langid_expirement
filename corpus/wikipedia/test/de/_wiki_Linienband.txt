@@ -1,0 +1,2 @@
+Ein Linienband ist grafische Darstellung der Haltestellen einer Linie des Öffentlichen Personennahverkehrs. Am häufigsten findet man Linienbänder in Fahrplänen. Sie kommen aber auch als Anzeige im Innenraum von Fahrzeugen vor.
+Typischer Aufbau eines Linienbandes, erläutert anhand der U-Bahn-Linie U1 der Berliner Verkehrsbetriebe

@@ -1,0 +1,22 @@
+INSERT er et SQL-uttrykk som legger til rader i en tabell i en relasjonell database. En INSERT-setning kan kun sette inn data i én tabell.
+INSERT-spørringer består av spesifikasjonene INSERT INTO og VALUES. INSERT INTO bestemmer hvilken tabell og hvilke kolonner verdiene skal settes inn i, og VALUES spesifiserer verdiene som skal settes inn.
+For å sette inn verdier i alle kolonnene, benyttes en slik spørring:
+    INSERT     INTO     tabell 
+ VALUES 
+ 	  , 
+ 	  , 
+ 	   
+    INSERT     INTO     tabell      
+ VALUES 
+ 	  , 
+ 	  , 
+ 	   
+    INSERT     INTO     tabell2 
+ SELECT     * 
+ FROM     tabell1 
+ WHERE     kolonne     IN      
+    INSERT     INTO     telefonbok      
+ VALUES 
+ 	  , 
+ 	   
+</prTabellen ser da slik ut:

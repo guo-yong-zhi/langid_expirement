@@ -1,0 +1,12 @@
+Enlightenment  – menedżer okien dla środowiska X Window System, który może być używany samodzielnie lub wraz ze środowiskami graficznymi takimi jak GNOME  czy KDE. Jego głównym autorem jest programista i grafik Carsten Haitzler . Wydany na licencji BSD.
+Enlightenment znany jest z dużych możliwości konfiguracji oraz atrakcyjnej grafiki i efektów specjalnych. Dostępne są  niezwykle dopracowane pod względem graficznym tematy pulpitu  oraz statyczne i animowane tła pulpitu.
+Menedżer dostępny jest w dwóch liniach – wydanej w 2000 roku, stabilnej DR16 oraz rozwojowej DR17. Kod następnej serii, DR17 , jest napisany od początku i bazuje na silnie zmodularyzowanych bibliotekach EFL . DR17 ma być samodzielną powłoką graficzną, przeznaczoną dla szerokiej gamy urządzeń od urządzeń wbudowanych do stacji roboczych.
+Powłoka graficzna to określenie twórców Enlightenment. Oznacza ono, że poza zarządzaniem oknami program wykonuje też inne funkcje, ale nie jest tak rozbudowany jak środowiska graficzne w rodzaju KDE czy GNOME, dla których powstają często duże aplikacje. Podobne do niego są środowiska Xfce czy Window Maker.
+Enlightenment również posiada swój menedżer logowania – Entrance. Jest to efektownie wyglądający odpowiednik bardziej znanych menedżerów logowania takich jak XDM, GDM czy KDM.
+Z Enlightenment domyślnie korzystają następujące dystrybucje GNU/Linuksa: Elive, OpenGEU, OzOS, Maryan Linux, Yellow Dog Linux, gOS, Ebuntu, Pentoo, Macpup oraz Bodhi Linux.
+Pierwsza wersja Enlightenment została udostępniona przez Rastera  dnia 30 października 1996.
+Enlightenment jest aktywnie rozwijany od ponad dekady, ostatnia wersja uznawana za stabilną to E19 19.1.
+Wersja 0.17, nazywana także DR17 albo E17, była rozwijana przez 12 lat – od grudnia 2000 roku do 21 grudnia 2012. Została pisana od podstaw i zaprojektowana aby być pełnoprawną powłoką systemową, bazującą na nowych bibliotekach Enlightenment Foundation Libraries .
+Najważniejsze funkcje:
+Głównym założeniem projektu jest umożliwienie użytkownikowi maksymalnej możliwej konfigurowalności środowiska okien. Enlightment umożliwia konfigurację i modyfikację niemal każdego aspektu powłoki graficznej, a także dostarcza sporej gamy efektów specjalnych.
+DR17 jest nadal bardzo aktywnie rozwijany i zmieniany, ale główne cechy pozostają niezmienne:

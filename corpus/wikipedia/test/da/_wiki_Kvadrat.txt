@@ -1,0 +1,1 @@
+Et kvadrat er en plan firkant, hvori alle sider er lige lange, og alle fire vinkler er rette . Et kvadrats størrelse angives med sidelængden s. Da kvadratets areal er lig med s², bruges ordet "kvadrat" også indenfor matematikken om et tal opløftet til 2. potens; således omtales størrelsen s² som "kvadratet på s".

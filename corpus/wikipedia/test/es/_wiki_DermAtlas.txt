@@ -1,0 +1,3 @@
+DermAtlas es un sitio web de acceso abierto dedicado a dermatología alojado por el Dr. Bernard de la Universidad Johns Hopkins, A. Cohen y el Dr. Christoph U. Lehmann. Su objetivo es construir un gran atlas dermatológico de alta calidad,    una base de datos de imágenes de enfermedades de la piel, y anima a sus usuarios a enviar sus imágenes de dermatología y enlaces para su inclusión.
+Es editado en modo colaborativo por médicos de todo el mundo e incluye un cuestionario sobre dermatología interactivo, que permite a toda persona evaluar sus conocimientos en dermatología.
+Actualmente la base de datos contiene más de 10,500 imágenes y consiste tanto de imágenes clínicas e histológicas. Se pone gran énfasis en enfermedades dermatológicas de pacientes pediátricos.

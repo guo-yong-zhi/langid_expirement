@@ -1,0 +1,2 @@
+Liste over kulturminner i Hå er en oversikt over fredede og/eller bevaringsverdige bygninger og elementer i Hå. Data er hentet fra Riksantikvarens liste over kulturminner.
+ID-nummer består av et lenket tall som går direkte til det aktuelle kulturminnet i Kulturminnesøk. 

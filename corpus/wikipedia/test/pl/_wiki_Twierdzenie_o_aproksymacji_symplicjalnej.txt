@@ -1,0 +1,325 @@
+W topologii algebraicznej twierdzenie o aproksymacji symplicjalnej mówi, że dowolne przekształcenie ciągłe między realizacjami kompleksów symplicjalnych da się dobrze przybliżyć przez odwzorowanie symplicjalne.
+Gwiazdą wokół wierzchołka dla danego wierzchołka 
+  
+    
+      
+        s
+      
+    
+    
+  
+ kompleksu symplicjalnego 
+  
+    
+      
+        K
+      
+    
+    
+  
+ nazywamy podkompleks składający się z wszystkich simpleksów 
+  
+    
+      
+        K
+        ,
+      
+    
+    
+  
+ które zawierają wierzchołek 
+  
+    
+      
+        s
+        .
+      
+    
+    
+  
+ Gwiazdę wokół wierzchołka 
+  
+    
+      
+        s
+      
+    
+    
+  
+ oznaczamy 
+  
+    
+      
+        S
+        t
+        
+        .
+      
+    
+    
+  
+Aproksymajcą symplicjalną funkcji ciągłej 
+  
+    
+      
+        g
+         
+        
+          |
+        
+        K
+        
+          |
+        
+         
+        
+          |
+        
+        L
+        
+          |
+        
+      
+    
+    {\displaystyle g\colon |K|\to |L|}
+  
+ nazywamy takie odwzorowanie symplicjalne 
+  
+    
+      
+        f
+         
+        K
+         
+        L
+      
+    
+    {\displaystyle f\colon K\to L}
+  
+ 
+      
+    
+    {\displaystyle f, że spełniony jest następujący warunek:
+Niech 
+  
+    
+      
+        K
+      
+    
+    
+  
+ będzie skończonym kompleksem symplicjalnym, a 
+  
+    
+      
+        f
+         
+        
+          |
+        
+        K
+        
+          |
+        
+         
+        
+          |
+        
+        L
+        
+          |
+        
+      
+    
+    
+  
+ odwzorowaniem ciągłym. Wówczas istnieje takie 
+  
+    
+      
+        n
+         
+        0
+      
+    
+    
+  
+ oraz odwzorowanie symplicjalne 
+  
+    
+      
+        g
+         
+        
+          K
+          
+            
+          
+        
+         
+        L
+      
+    
+    \to L}
+  
+ będące aproksymacją symplicjalną 
+  
+    
+      
+        f
+        ,
+      
+    
+    
+  
+ gdzie 
+  
+    
+      
+        
+          K
+          
+            
+          
+        
+      
+    
+    }
+  
+ jest 
+  
+    
+      
+        n
+      
+    
+    
+  
+-tym podziałem barycentrycznym kompleksu 
+  
+    
+      
+        K
+        .
+      
+    
+    
+  
+Jeśli 
+  
+    
+      
+        K
+      
+    
+    
+  
+ jest kompleksem symplicjalnym o wymiarze 
+  
+    
+      
+        n
+        ,
+      
+    
+    
+  
+ a 
+  
+    
+      
+        L
+      
+    
+    
+  
+ jest kompleksem symplicjalnym o wymiarze 
+  
+    
+      
+        m
+      
+    
+    
+  
+ oraz 
+  
+    
+      
+        n
+        <
+        m
+        ,
+      
+    
+    
+  
+ to z twierdzenia o aproksymacji symplicjalnej wynika, że dla dowolnej ciągłej funkcji 
+  
+    
+      
+        f
+         
+        
+          |
+        
+        K
+        
+          |
+        
+         
+        
+          |
+        
+        L
+        
+          |
+        
+      
+    
+    
+  
+ istnieje homotopijne z nią odwzorowanie 
+  
+    
+      
+        g
+        ,
+      
+    
+    
+  
+ które nie jest suriekcją. W szczególności, wszystkie funkcje ciągłe 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+         
+        
+          S
+          
+            m
+          
+        
+      
+    
+    \to S^
+  
+ dla 
+  
+    
+      
+        n
+        <
+        m
+      
+    
+    
+  
+ są nieistotne , bo ich obraz zawiera się w pewnej sferze z wyjętym punktem, a ta jest ściągalna.

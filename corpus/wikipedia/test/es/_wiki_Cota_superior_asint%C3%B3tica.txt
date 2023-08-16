@@ -1,0 +1,204 @@
+En análisis de algoritmos, una cota superior asintótica es una función que sirve de cota superior de otra función cuando el argumento tiende a infinito. Usualmente se utiliza la notación de Landau: O), Orden de g, coloquialmente llamada Notación O Grande, para referirse a las funciones acotadas superiormente por la función g.
+Formalmente se define:
+  
+    
+      
+        O
+        
+        )
+        =
+        
+          
+        
+      
+    
+    f:}\\\forall x\geq x_}
+  
+Una función f pertenece a O(g) cuando existe una constante positiva c tal que a partir de un valor 
+  
+    
+      
+        
+          x
+          
+            0
+          
+        
+      
+    
+    }
+  
+, f no sobrepasa a 
+  
+    
+      
+        c
+        g
+        
+      
+    
+    
+  
+. Quiere decir que la función f es inferior a g a partir de un valor dado salvo por un factor constante. 
+La cota superior asintótica tiene gran importancia en la Teoría de la complejidad computacional cuando se definen las clases de complejidad.
+A pesar de que O(g(x)) está definida como un conjunto, se acostumbra escribir f(x)=O(g(x)) en lugar de f(x)∈O(g(x)), ya que la clase de equivalencia de f coincide con el conjunto O(g(x). Muchas veces también se habla de la función nombrando únicamente su expresión, como en x² en lugar de h(x)=x², siempre que esté claro cuál es el parámetro de la función dentro de la expresión. En la gráfica se da un ejemplo esquemático de cómo se comporta 
+  
+    
+      
+        c
+        g
+        (
+        x
+        )
+      
+    
+    
+  
+ con respecto a f(x) cuando x tiende a infinito. Nótese además que dicho conjunto es no vacío pues g(x)=O(g(x)).
+La cota ajustada asintótica  tiene relación con las cotas asintóticas superior e inferior :
+  
+    
+      
+        f
+        
+        =
+         
+        (
+        g
+        
+        )
+        
+          
+             si y solo si 
+          
+        
+        f
+        
+        =
+        O
+        (
+        g
+        
+        )
+        
+          
+             y 
+          
+        
+        f
+        
+        =
+         
+        (
+        g
+        
+        )
+        
+      
+    
+    }f=O(g)f=\Omega (g)\,}
+  
+Sea 
+  
+    
+      
+        E
+         
+        
+          R
+        
+      
+    
+     }
+  
+, sean 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        :
+        E
+         
+        
+          R
+        
+      
+    
+    :E\to \mathbb 
+  
+, 
+  
+    
+      
+        
+          g
+          
+            1
+          
+        
+        :
+        E
+         
+        
+          R
+        
+      
+    
+    :E\to \mathbb 
+  
+, 
+  
+    
+      
+        
+          f
+          
+            2
+          
+        
+        :
+        E
+         
+        
+          R
+        
+      
+    
+    :E\to \mathbb 
+  
+, 
+  
+    
+      
+        
+          g
+          
+            2
+          
+        
+        :
+        E
+         
+        
+          R
+        
+      
+    
+    :E\to \mathbb 
+  
+ funciones y 
+  
+    
+      
+        k
+      
+    
+    
+  
+ un real. Entonces los siguientes enunciados son ciertos:
+Los órdenes más utilizados en análisis de algoritmos, en orden creciente, son los siguientes :

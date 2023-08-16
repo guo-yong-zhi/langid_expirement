@@ -1,0 +1,7 @@
+O Spectravideo CompuMate SV010 foi uma expansão que possibilitava transformar uma consola de jogos Atari 2600 VCS num computador doméstico muito simples.
+Na Alemanha, o CompuMate foi vendido também pela "Quelle", uma empresa de vendas pelo correio, sob o nome de "UNIVERSUM".
+No Brasil, por volta de 1985, foram lançadas pelo menos duas cópias do CompuMate, uma pela Milmar Eletrônica , e outra conhecida como "CompuGame".
+O CompuMate consistia num módulo com teclado de membrana e conectores de interface. Estes conectores eram encaixados no slot da consola e em ambas as portas de joystick do Atari. Como o usuário podia colocar o teclado no velho estilo das consolas VCS, isso resultava numa unidade compacta. Usado com a consola 2600jr lembrava um microcomputador desktop com um teclado separado.
+O CompuMate estava equipado com uma interface de gravador, para que pudesse usar fitas cassete para armazenamento de dados e programas.
+O CompuMate oferecia em sua ROM:
+Na ROM também estavam armazenados amostras de som e imagens, disponíveis para os programas citados.

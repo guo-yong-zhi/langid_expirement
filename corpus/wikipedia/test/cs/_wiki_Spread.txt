@@ -1,0 +1,5 @@
+Ve finančnictví představuje spread rozdíl mezi nákupní a prodejní cenou daného finančního instrumentu. Může se jednat o ceny akcií, dluhopisů, měn, komodit, futures, opcí, apod.
+Jinými slovy jde o hodnotu, o kterou se liší nejvyšší nabízená cena a nejnižší poptávaná cena. Tj. ztráta, kterou by investor utrpěl, kdyby daný finanční instrument v jeden okamžik nakoupil a ihned prodal.
+Velikost spreadu ovlivňuje v případě akcií jejich obchodovaný počet. Čím větší je nabídka akcií, tím je spread menší. Malý spread tedy určuje to, že likvidita daného instrumentu je vysoká.
+Také platí, že čím více se s daným instrumentem obchoduje, tím je spread nižší.
+Vývoj velikosti spreadu se často vyjadřuje pomocí grafického indikátoru. Používá se zejména při rozhodování obchodování na forexu.

@@ -1,0 +1,188 @@
+Rdzeń przekroju – pojęcie z zakresu wytrzymałości materiałów, występujące przy projektowaniu prętowych elementów konstrukcyjnych pracujących tylko na ściskanie mimośrodowe.
+Rdzeń przekroju jest definiowany jako miejsce geometryczne położenia punktów, w których działająca siła powoduje powstanie w przekroju naprężeń jednakowego znaku.
+Rdzeń przekroju znajduje zastosowanie przy projektowaniu konstrukcji wykonanych z materiałów, które mogą pracować tylko na ściskanie . Zachodzi wtedy konieczność nadawania im takich kształtów, aby w ich przekrojach poprzecznych występowały tylko naprężenia ściskające, a więc tylko jednego znaku. W praktyce oznacza to, że składowa osiowa siły zewnętrznej powinna znajdować się w rdzeniu przekroju.
+W przekroju poprzecznym elementów ściskanych mimośrodowo siły wewnętrzne mogą być zredukowane do punktowej siły, która może być rozłożona na składową równoległą do osi przekroju 
+  
+    N
+    N
+  
+ i prostopadłą. Składowa prostopadła do osi, leży w płaszczyźnie przekroju i nie ma w tym przypadku znaczenia. Punkt przyłożenia siły określany względem osi głównej i centralnej o współrzędnych 
+  
+    y
+    y
+  
+ i 
+  
+    z
+    z
+  
+ jest 
+  
+    
+      y
+      
+        0
+      
+    
+    y_
+  
+ i 
+  
+    
+      
+        z
+        
+          0
+        
+      
+      .
+    
+    z_.
+  
+ W zależności od położenia punktu przyłożenia siły, linia, wzdłuż której naprężenia normalne są równe 0, zwana osią obojętną, może:
+Naprężenia normalne 
+  
+    
+      
+        
+           
+          
+            n
+          
+        
+      
+    
+    }
+  
+ stałego znaku wystąpią tylko w tym trzecim przypadku, wówczas punkt przyłożenia siły należy do rdzenia przekroju. Linia ograniczająca rdzeń przekroju nazywana jest konturem rdzenia przekroju.
+Siłę działająca poza osią główną można zastąpić siłą działającą na osi głównej przekroju oraz momentami siły gnącymi. Wywołane nimi naprężenie określa wzór:
+gdzie:
+Oś obojętną dla siły przyłożonej w danym punkcie określa linia, dla której 
+  
+    
+      
+        
+           
+          
+            n
+          
+        
+        =
+        0.
+      
+    
+    =0.}
+  
+ Z zależności tych można wyznaczyć położenie punktu przyłożenia siły 
+  
+    
+      
+        
+          y
+          
+            0
+          
+        
+        ,
+      
+    
+    ,}
+  
+ 
+  
+    
+      z
+      
+        0
+      
+    
+    z_
+  
+ wymaganego położenia osi obojętnej i odwrotnie. Z powyższego wzoru dla osi obojętnej otrzymujemy wzór
+Wyznaczyć rdzeń przekroju  dla przekroju prostokątnego o długości 
+  
+    b
+    b
+  
+ i szerokości 
+  
+    h
+    h
+  
+.
+Parametry tego przekroju:
+Oś obojętna określająca fragment konturu rdzenia przekroju dla dodatnich 
+  
+    z
+    z
+  
+ i 
+  
+    y
+    y
+  
+ ma współrzędne 
+  
+    
+      
+        z
+        =
+        h
+        
+          /
+        
+        2
+        ,
+      
+    
+    
+  
+ 
+  
+    
+      
+        y
+        =
+        b
+        
+          /
+        
+        2.
+      
+    
+    
+  
+Dla tych danych powyższego związku:
+Dla siły położonej na osi z, otrzymujemy 
+  
+    
+      
+        
+          y
+          
+            0
+          
+        
+        =
+         
+        b
+        
+          /
+        
+        6.
+      
+    
+    =-b/6.}
+  
+Pozostałe trzy linie konturu otrzymuje się podstawiając za 
+  
+    z
+    z
+  
+ i 
+  
+    y
+    y
+  
+ warunki dla kolejnych boków prostokąta. Rdzeniem przekroju prostokąta jest romb o przekątnych równoległych do boków prostokąta, przekątna ma długość 1/3 długości boku prostokąta do niej równoległego.
+Rdzeń przekroju jest zawsze wypukłą, płaską figurą geometryczną ograniczoną, a w przypadku przekrojów wielobocznych, obszarem zamkniętym krzywą łamaną zamkniętą o tylu wierzchołkach ile boków ma przekrój i o tylu prostoliniowych bokach ile ten przekrój ma naroży.

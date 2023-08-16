@@ -1,0 +1,5 @@
+Un colorimetro è uno strumento che misura l'assorbimento di particolari lunghezze d'onda della luce da parte di una soluzione colorata. È comunemente usato per determinare la concentrazione di un soluto conosciuto in una soluzione per mezzo della legge di Lambert-Beer, che afferma che la concentrazione di un soluto è proporzionale all'assorbanza.
+È caratterizzato da una maggiore semplicità costruttiva rispetto ad uno spettrofotometro e per operare generalmente nella regione spettrale del visibile, tra circa 400-700 nm.
+Le parti essenziali di un colorimetro sono: 
+Vari filtri ottici sono utilizzati nel colorimetro per selezionare l'intervallo di lunghezze d'onda della luce nel quale il soluto assorbe maggiormente, al fine di minimizzare l'errore. La gamma di lunghezza d'onda usuale è 400-700 nanometri . Se è necessario operare nel campo dell'ultravioletto , è necessario utilizzare una sorgente adatta, in genere una lampada a deuterio. Nei moderni colorimetri lampada e filtri possono essere sostituiti da una serie di diodi ad emissione luminosa  di diversi colori.
+Altri progetti

@@ -1,0 +1,138 @@
+Als cantorsches Produkt bezeichnet man in der Analysis ein unendliches Produkt, dessen Glieder aus rationalen Zahlen der Form 
+  
+    
+      
+        1
+        +
+        
+          
+            
+              1
+              q
+            
+          
+        
+      
+    
+    
+  
+ bestehen, wobei die darin auftretenden Nenner stets natürliche Zahlen sind und zudem immer so beschaffen, dass der Nenner 
+  
+    
+      q
+      
+        n
+        +
+        1
+      
+    
+    q_
+  
+ des 
+  
+    
+      n
+      +
+      1
+    
+    n+1
+  
+-ten Gliedes 
+  
+    
+      
+    
+    
+  
+ stets mindestens so groß ist wie das Quadrat des zum vorangehenden  
+  
+    n
+    n
+  
+-ten Glied gehörigen Nenners 
+  
+    
+      q
+      
+        n
+      
+    
+    q_
+  
+  1  2 
+Die cantorschen Produkte wurden von Georg Cantor in einer Arbeit aus dem Jahre 1869 eingeführt. Wie Cantor darin zeigte, lässt sich jede beliebige reelle Zahl 
+  
+    
+      
+        
+           
+        
+        
+          0
+        
+      
+      >
+      1
+    
+    _>1
+  
+ in Form eines cantorschen Produkts darstellen. Grundlegend für Cantors Darlegungen ist dabei die auf Leonhard Euler zurückgehende eulersche Produktgleichung
+welche für alle reellen  Zahlen 
+  
+    x
+    x
+  
+ des Betrags 
+  
+    
+      
+        |
+      
+      x
+      
+        |
+      
+      <
+      1
+    
+    |x|<1
+  
+ Gültigkeit hat. 3 
+Cantors Satz über die cantorschen Produkte lässt sich zusammengefasst wie folgt darstellen:
+Die Zahlenfolge 
+  
+    
+      
+        
+          n
+           
+          
+            
+              N
+            
+            
+              0
+            
+          
+        
+      
+    
+    _ _
+  
+ lässt sich ausgehend von 
+  
+    
+      
+        
+           
+        
+        
+          0
+        
+      
+      >
+      1
+    
+    _>1
+  
+ wie folgt induktiv festlegen: 1 

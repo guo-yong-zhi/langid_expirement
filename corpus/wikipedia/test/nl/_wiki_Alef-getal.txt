@@ -1,0 +1,67 @@
+De alef-getallen zijn in de verzamelingenleer getallen die gebruikt worden om de kardinaliteit  van oneindige verzamelingen weer te geven c.q. te kenmerken. Deze getallen zijn vernoemd naar het symbool dat wordt gebruikt om ze aan te duiden, de Hebreeuwse letter alef .
+De kardinaliteit van de natuurlijke getallen is 
+  
+    
+      
+        
+           
+          
+            0
+          
+        
+      
+    
+    }
+  
+ , de daarop volgende, grotere kardinaliteit is alef-één, 
+  
+    
+      
+        
+           
+          
+            1
+          
+        
+      
+    
+    }
+  
+, daarna alef-twee, 
+  
+    
+      
+        
+           
+          
+            2
+          
+        
+      
+    
+    }
+  
+, en zo verder. Wanneer op deze manier wordt doorgegaan, is het mogelijk een kardinaalgetal 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+ voor elk ordinaalgetal 
+  
+    
+      
+         
+      
+    
+    
+  
+ te definiëren.

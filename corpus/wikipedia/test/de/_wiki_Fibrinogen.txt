@@ -1,0 +1,29 @@
+
+Das Fibrinogen ist ein Glykoprotein, das in der Leber von Wirbeltieren gebildet und ins Blutplasma ausgeschüttet wird. Fibrinogen  wird bei der Blutgerinnung durch die Serinprotease Thrombin  und Calcium  in Fibrin umgewandelt, das als „Substrat der Gerinnung“ zusammen mit zellulären Elementen des Blutes, namentlich den Thrombozyten, den Thrombus bildet.
+Fibrinogen setzt sich aus drei Untereinheiten  zusammen. Mutationen im FGA-, FGB- oder FGG-Gen können Fibrinogenmangel verursachen; Mutationen in FGA können außerdem familiäre Amyloidose Typ 8 hervorrufen. 2 
+Fibrinogen ist ein Proteinkomplex, ein aus je zwei α-, β- und γ-Untereinheiten bestehendes Hexamer. Die Untereinheiten sind über Disulfidbrücken so miteinander verbunden, dass der Amino-Terminus aller Untereinheiten das Zentrum des Komplexes, die so genannte E-Domäne bildet, von der die einzelnen Monomere als Coiled-Coil-Struktur wegführen. Die Carboxyl-Termini an der Außenseite werden D-Domäne genannt, so dass die vereinfachte Schreibweise lautet: D-coil-E-coil-D .
+Es können Heteropolymere mit Fibronectin gebildet werden. Etwa ein Drittel der α-Untereinheiten sind phosphoryliert. 2 
+Die Aktivierung von Thrombozyten führt zu einer Konformationsänderung des Rezeptors Integrin αIIbβ3, der daraufhin Fibrinogen mit hoher Affinität zu binden imstande ist. Eine Quervernetzung der Blutplättchen durch Fibrinogen ist die Folge. 3 
+Fibrinogen ist die Ausgangssubstanz für die Erzeugung des Thrombus. Es liegt ständig im Blut gelöst vor. Bei einer Verletzung wird ein kaskadenartiger, mehrfach rückgekoppelter und an der Oberfläche der aktivierten Thrombozyten ablaufender Prozess der Aktivierung der im Plasma zirkulierenden prokoagulatorischen Faktoren ausgelöst, an dessen Ende die Bildung des zentralen Enzyms Thrombin steht. Dieses schneidet die D-Domänen des Fibrinogen-Hexamers ab . Die so freigesetzten Fibrinmonomere polymerisieren spontan zum wasserunlöslichen Fibrin-Blutgerinnsel. Erst durch weitere kovalente Quervernetzung mittels Faktor XIIIa entsteht der stabile Thrombus. 2 
+Die Normwerte für Fibrinogen liegen im menschlichen Körper zwischen 150 und 450 mg/dl, in der Schwangerschaft physiologisch bedingt bis 600 mg/dl. Als Akute-Phase-Protein kann es bei Entzündungsprozessen in kurzer Zeit auf über 1000 mg/dl ansteigen.
+Die Fibrinogenbestimmung erfolgt im Rahmen der Standard-Gerinnungstests koagulometrisch mit der Bestimmung nach Clauss, abgeleitet aus dem Quickwert oder in Vollblut durch Thromboelastometrie. 4 
+Extrem selten  ist der angeborene Fibrinogenmangel , der oftmals bereits bei der Geburt zu schweren hämorrhagischen Störungen führt.
+Die etwas häufigeren abnormalen Fibrinogenfunktionen  hingegen sind meist klinisch unauffällig; Blutungssymptome treten hier nur ausnahmsweise auf. 5 
+Verdünnung, Verlust oder Verbrauch sind im klinischen Alltag die Hauptursachen für einen erworbenen Fibrinogenmangel. Im Rahmen einer reaktiven oder therapeutischen Hyperfibrinolyse kann das Fibrinogen infolge erhöhten Umsatzes unter kritische Werte absinken. Erworbene Synthesestörungen treten bei schweren Lebererkrankungen oder einer Asparaginasetherapie auf. Auch perioperativ , bei geburtshilflichen Komplikationen und bei Verbrennungen und Schockzuständen mit massivem Blutverlust kann es zu ausgeprägten Fibrinogenmangelzuständen kommen, ebenso während einer disseminierten intravasalen Koagulation  bei Sepsispatienten. Außerdem ist ein Mangel von Fibrinogen durch dessen Bindung an Antikörper möglich. Dies geschieht insbesondere im Rahmen einer Autoimmunerkrankung oder als Begleiterscheinung von neoplastischen Erkrankungen, ist aber insgesamt sehr selten. 6  7 
+Bei Massivtransfusionen ist zu beachten, dass Fibrinogen als erster Prokoagulationsfaktor in den kritischen Bereich  abfällt. 8 
+Es gibt ausreichend Hinweise, dass bei Blutungen die möglichst frühzeitige Korrektur eines Fibrinogenmangels oder einer Fibrinogen-Polymerisationsstörung sehr wichtig ist; diese kann mittels Infusionen von gefrorenem Frischplasma , Kryopräzipitat  oder Fibrinogenkonzentraten erfolgen. Die Plasmakonzentration des Fibrinogens sollte dabei in den Referenzbereich von mindestens 100 bis 150 mg/dl angehoben werden. 9 
+Bei hyperfibrinolytischen Prozessen müssen diese zunächst durch Anwendung von Antifibrinolytika gestoppt werden.
+I Fibrinogen  
+II Prothrombin  
+III Gewebefaktor  
+IV Calcium  
+V Proaccelerin  
+VI Nicht vergeben  
+VII Proconvertin 
+VIII Blutgerinnungsfaktor VIII  
+IX Christmas-Faktor  
+X Stuart-Prower-Faktor  
+XI PTA  
+XII Hageman-Faktor  
+XIII Fibrinstabilisierender Faktor 
+Weitere Gerinnungsfaktoren: Präkallikrein   Hochmolekulares Kininogen

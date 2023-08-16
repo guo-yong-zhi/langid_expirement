@@ -1,0 +1,4 @@
+Pontosságellenőrzött
+A 956  egy természetes szám.
+A tízes számrendszerbeli 956-os a kettes számrendszerben 1110111100, a nyolcas számrendszerben 1674, a tizenhatos számrendszerben 3BC alakban írható fel.
+A 956 páros szám, összetett szám. Kanonikus alakban a 22 · 2391 szorzattal, normálalakban a 9,56 · 102 szorzattal írható fel. Hat osztója van a természetes számok halmazán, ezek növekvő sorrendben: 1, 2, 4, 239, 478 és 956.

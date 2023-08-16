@@ -1,0 +1,83 @@
+Die Liste der Baudenkmäler im Wuppertaler Wohnquartier Blutfinke enthält die denkmalgeschützten Bauwerke auf dem Gebiet von Wuppertal-Blutfinke in Nordrhein-Westfalen . Diese Baudenkmäler sind in der Denkmalliste der Stadt Wuppertal eingetragen; Grundlage für die Aufnahme ist das Denkmalschutzgesetz Nordrhein-Westfalen .
+Folgende Objekte werden noch geprüft oder deren Status in der Denkmalliste nicht klar ersichtlich ist.
+Stadtbezirke:
+Elberfeld  
+Elberfeld-West  
+Uellendahl-Katernberg  
+Vohwinkel  
+Cronenberg  
+Barmen  
+Oberbarmen  
+Heckinghausen  
+Langerfeld-Beyenburg  
+Ronsdorf
+Stadtquartiere:
+00 Elberfeld-Mitte  
+01 Nordstadt , Nordstadt , Nordstadt , Nordstadt , Nordstadt   
+02 Ostersbaum , Ostersbaum   
+03 Südstadt  
+04 Grifflenberg  
+05 Friedrichsberg  
+10 Sonnborn  
+11 Varresbeck  
+12 Nützenberg  
+13 Brill , Brill , Brill   
+14 Arrenberg , Arrenberg   
+15 Zoo , Zoo   
+16 Buchenhofen  
+20 Uellendahl-West , Uellendahl-West   
+21 Uellendahl-Ost  
+22 Dönberg  
+23 Nevigeser Straße  
+24 Beek  
+25 Eckbusch  
+26 Siebeneick  
+30 Vohwinkel-Mitte  
+31 Osterholz  
+32 Tesche  
+33 Schöller-Dornap  
+34 Lüntenbeck  
+35 Industriestraße  
+36 Westring  
+37 Höhe  
+38 Schrödersbusch  
+40 Cronenberg-Mitte  
+41 Küllenhahn  
+42 Hahnerberg  
+43 Cronenfeld  
+44 Berghausen   
+45 Sudberg  
+46 Kohlfurth  
+50 Barmen-Mitte  
+51 Friedrich-Engels-Allee  
+52 Loh , Loh   
+53 Clausen  
+54 Rott  
+55 Sedansberg  
+56 Hatzfeld  
+57 Kothen  
+58 Hesselnberg  
+59 Lichtenplatz  
+60 Oberbarmen-Schwarzbach  
+61 Wichlinghausen-Süd , Wichlinghausen-Süd   
+62 Wichlinghausen-Nord  
+63 Nächstebreck-Ost  
+64 Nächstebreck-West  
+70 Heckinghausen  
+71 Heidt  
+72 Hammesberg  
+80 Langerfeld-Mitte  
+81 Rauental  
+82 Jesinghauser Straße  
+83 Hilgershöhe  
+84 Löhrerlen  
+85 Fleute  
+86 Ehrenberg  
+87 Beyenburg-Mitte  
+88 Herbringhausen  
+90 Ronsdorf-Mitte/Nord  
+91 Blombach-Lohsiepen  
+92 Rehsiepen  
+93 Schenkstraße  
+94 Blutfinke  
+95 Erbschlö-Linde

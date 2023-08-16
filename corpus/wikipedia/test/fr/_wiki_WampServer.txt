@@ -1,0 +1,6 @@
+
+modifier - modifier le code - voir Wikidata  WampServer  est une plateforme de développement Web de type WAMP, permettant de faire fonctionner localement  des scripts PHP.
+WampServer n'est pas en soi un logiciel, mais un environnement comprenant trois serveurs , un interpréteur de script , ainsi que phpMyAdmin pour l'administration Web des bases MySQL.
+Il dispose d'une interface d'administration permettant de gérer et d'administrer ses serveurs au travers d'un tray icon .
+La grande nouveauté de WampServer 3 réside dans la possibilité d'y installer et d'utiliser n'importe quelle version de PHP, Apache, MySQL ou MariaDB en un clic.
+Ainsi, chaque développeur peut reproduire fidèlement son serveur de production sur sa machine locale.

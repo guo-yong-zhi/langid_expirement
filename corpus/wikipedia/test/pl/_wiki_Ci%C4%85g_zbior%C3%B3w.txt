@@ -1,0 +1,493 @@
+Ciąg zbiorów – ciąg, którego elementami są zbiory; dokładniej: podzbiory pewnej przestrzeni. Podobnie jak dla ciągów liczbowych możliwe jest określenie granic dolnej i górnej, a przez to zbieżności.
+Jeżeli każdy kolejny element ciągu zawiera się w poprzednim, ciąg nazywa się zstępującym lub nierosnącym; jeżeli każdy kolejny element ciągu zawiera poprzedni, ciąg nazywa się wstępującym bądź niemalejącym; ciąg, który jest zstępujący lub wstępujący  nazywa się monotonicznym .
+Niech dany będzie ciąg podzbiorów 
+  
+    
+      
+        
+          
+            n
+             
+            
+              N
+            
+          
+        
+      
+    
+     }}
+  
+ ustalonego zbioru 
+  
+    X
+    X
+  
+ nazywanego dalej przestrzenią. Zbiory dane wzorami
+nazywa się odpowiednio granicą dolną i granicą górną ciągu 
+  
+    
+      
+        
+          
+            n
+          
+        
+        ;
+      
+    
+    ;}
+  
+ jeżeli
+to ciąg 
+  
+    
+      
+        
+          
+            n
+          
+        
+      
+    
+    }
+  
+ nazywa się zbieżnym, a zbiór wyznaczony przez tę równość nazywa się granicą tego ciągu i zapisuje 
+  
+    
+      
+        
+          lim
+          
+            n
+             
+            
+              N
+            
+          
+        
+        
+          A
+          
+            n
+          
+        
+        .
+      
+    
+     }A_
+  
+Dla dowolnego ciągu 
+  
+    
+      
+        
+      
+    
+    
+  
+ następujące warunki są równoważne:
+Dodatkowo dla 
+  
+    I
+    I
+  
+ przebiegającego wszystkie nieskończone podzbiory liczb naturalnych zachodzi
+z kolei dla 
+  
+    I
+    I
+  
+ przebiegającego wszystkie podzbiory liczb naturalnych o dopełnieniu skończonym jest
+a ponadto
+a więc sprawdzając zbieżność, wygodnie jest niekiedy ograniczyć się do badania 
+  
+    
+      
+        lim inf
+        
+          A
+          
+            n
+          
+        
+        .
+      
+    
+    .}
+  
+Element 
+  
+    
+      
+        x
+         
+        lim sup
+        
+          A
+          
+            n
+          
+        
+      
+    
+    }
+  
+ wtedy i tylko wtedy, gdy 
+  
+    
+      
+        x
+         
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x\in A_
+  
+ dla nieskończenie wielu wartości 
+  
+    n
+    n
+  
+; z kolei 
+  
+    
+      
+        x
+         
+        lim inf
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x\in \liminf A_
+  
+ wtedy i tylko wtedy, gdy 
+  
+    
+      
+        x
+         
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x\in A_
+  
+ dla wszystkich poza skończenie wieloma wartościami 
+  
+    n
+    n
+  
+; innymi słowy
+a ponadto 
+  
+    
+      
+        
+          
+            
+              c
+            
+          
+        
+        =
+        lim sup
+        
+          A
+          
+            n
+          
+          
+            
+              c
+            
+          
+        
+      
+    
+     }=\limsup A_{n}^}
+  
+ oraz 
+  
+    
+      
+        
+          
+            
+              c
+            
+          
+        
+        =
+        lim inf
+        
+          A
+          
+            n
+          
+          
+            
+              c
+            
+          
+        
+      
+    
+     }=\liminf A_{n}^}
+  
+, gdzie 
+  
+    
+      
+        
+          A
+          
+            
+              c
+            
+          
+        
+      
+    
+    {\displaystyle A^}
+  
+ oznacza dopełnienie zbioru 
+  
+    
+      A
+      .
+    
+    A.
+  
+Ciąg 
+  
+    
+      
+        
+      
+    
+    
+  
+ nazywa się nierosnącym lub zstępującym, jeżeli 
+  
+    
+      
+        
+          A
+          
+            n
+            +
+            1
+          
+        
+         
+        
+          A
+          
+            n
+          
+        
+      
+    
+    \subseteq A_
+  
+ oraz niemalejącym bądź wstępującym, jeżeli 
+  
+    
+      
+        
+          A
+          
+            n
+          
+        
+         
+        
+          A
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    \subseteq A_
+  
+ dla każdego 
+  
+    
+      n
+       
+      
+        
+          N
+        
+      
+      .
+    
+    n\in  }.
+  
+ O takich ciągach mówi się zbiorczo: monotoniczne i jako takie są one zbieżne, przy czym jeśli 
+  
+    
+      
+        
+      
+    
+    
+  
+ jest nierosnący , to
+a jeżeli 
+  
+    
+      
+        
+      
+    
+    
+  
+ jest niemalejący , to
+Granice 
+  
+    
+      
+        lim sup
+        
+          A
+          
+            n
+          
+        
+      
+    
+    }
+  
+ oraz 
+  
+    
+      
+        lim inf
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \liminf A_
+  
+ można uważać za „te zdarzenia 
+  
+    
+      
+        
+          A
+          
+            n
+          
+        
+        ,
+      
+    
+    ,}
+  
+ które zachodzą nieskończenie często” oraz „te zdarzenia 
+  
+    
+      
+        
+          A
+          
+            n
+          
+        
+        ,
+      
+    
+    ,}
+  
+ które w końcu będą zawsze zachodzić”; zawieranie 
+  
+    
+      
+        lim inf
+        
+          A
+          
+            n
+          
+        
+         
+        lim sup
+        
+          A
+          
+            n
+          
+        
+      
+    
+    \subseteq \limsup A_
+  
+ oznacza więc, że „zdarzenia 
+  
+    
+      
+        
+          A
+          
+            n
+          
+        
+        ,
+      
+    
+    ,}
+  
+ które ostatecznie zawsze zajdą, zachodzą nieskończenie często”, skąd granicę 
+  
+    
+      
+        lim
+        
+          A
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \lim A_
+  
+ można rozumieć jako żądanie, by „te ze zdarzeń 
+  
+    
+      
+        
+          A
+          
+            n
+          
+        
+        ,
+      
+    
+    ,}
+  
+ które zachodzą nieskończenie często, ostatecznie zawsze zachodziły”.
+W topologii ciągi zbiorów zstępujących służą charakteryzacji metryzowalnych przestrzeni zwartych i metrycznych przestrzeni zupełnych .

@@ -1,0 +1,21 @@
+CORONA 9008, CORONA C-8, Agena A 1055, Corona 11, FTV – 1055
+1960-004A
+S00032
+ Stany Zjednoczone
+CIA, USAF
+KeyHole-1
+Thor Agena A
+Vandenberg Air Force Base
+169 km
+546 km
+91,69 min
+80°
+15 kwietnia 1960 20:30:37 UTC
+26 kwietnia 1960
+walca
+dł. 5,85 m; śr. 1,52 m
+3850 kg
+Discoverer 11  – amerykański satelita technologiczny. Stanowił część tajnego programu CORONA.
+Statek miał sprawdzić działanie techniki wystrzeliwania, napędu, komunikacji i pracy na orbicie. W pełni zadziałał system kamer, m.in. dzięki zmianie rodzaju filmu z opartego na acetonie na oparty na poliestrze. Również baterie działały bez zarzutu, jednakże nie chciały uruchomić się silniczki sterujące, które miały skierować satelitę w odpowiednią stronę, przygotowując kapsułę do wejścia w atmosferę. W rezultacie nigdy jej nie odzyskano. Następnym razem zastąpiono silniczki rakietowe zbiorniczkami ze sprężonym azotem i usunięto sprzęt fotograficzny, żeby zrobić miejsce dla jeszcze większej liczby przyrządów. 
+Awaria ta pociągnęła za sobą osobistą interwencję Zastępcy Dowódcy Sztabu Sił Powietrznych, generała Curtisa LeMaya, w zakładach Lockheeda. Domagał się podjęcia nadzwyczajnych kroków korekcyjnych i osobistego nadzoru kierownictwa Lockheeda nad eliminacją usterek. Lockheed zarządził dalsze testy w komorach środowiskowych i loty diagnostyczne kapsuł.
+Statek przenosił także eksperyment TOD-3 , najpewniej na potrzeby programu TRANSIT.

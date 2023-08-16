@@ -1,0 +1,5 @@
+Video4Linux o V4L è una API per Linux per la cattura di immagini, la registrazione audio e l'acquisizione di filmati. Sono supportati diversi dispositivi, tra cui webcam USB, schede TV e radio.
+Sebbene il nome ricordi quello di Video for Windows  non c'è nessuna relazione fra le due API che risultano in effetti piuttosto differenti.
+Video4Linux è strettamente integrato con il kernel Linux.
+Le API originali , introdotte al termine dello sviluppo del kernel 2.1.x di Linux, presentavano alcuni problemi cui gli sviluppatori pensarono di rimediare rilasciando, in concomitanza con il kernel 2.5.x, una nuova versione delle API nota come Video4Linux2 o V4L2.
+Sfortunatamente alcune applicazioni gestivano già per proprio conto le stesse situazioni per cui il rilascio di V4L2 ha generato una certa confusione poiché fra applicazioni che facevano riferimento alle vecchie e nuove API. Il supporto di V4L1 è stato abbandonato con il kernel 2.6.38.

@@ -1,0 +1,3 @@
+DexaWave er en bølgemaskine der benytter bølgernes op- og nedadgående bevægelser. Den består af fire pontoner hvor to af disse er placeret på midten mens de to andre i en afstand på hver side. Når bølgerne nærmer sig maskinen vil pontonerne forskyde sig i forhold til hinanden. Det er denne bevægelse der giver anledning til energien. 
+DexaWave har testet en 1:10 skalamodel af maskinen i Limfjorden.
+DexaWave har haft en 1:5 maskinen til test ud for kysten ved Hanstholm, denne maskine vejer 20 tons.

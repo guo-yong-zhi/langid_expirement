@@ -1,0 +1,22 @@
+Energiavyö tarkoittaa energiaväliä, jolla elektronit voivat olla kiinteässä aineessa, ja jossa sen elektronitasot muodostavat jatkumon. 1  Energiavälejä, joilla ei voi olla elektroneita, kutsutaan energiaraoiksi tai kielletyiksi energiavöiksi. 2  Eri aineiden energiavyöt eroavat toisistaan niiden erilaisen kiderakenteen ja niiden atomien erilaisen elektronikonfiguraation takia. Materiaalin vyörakenne selittää suurelta osin sen fysikaaliset ominaisuudet, kuten sähkönjohtavuuden ja optisen absorptiospektrin.
+Vyöteoriassa energiavyöt ja niiden väliset aukot johdetaan tutkimalla sallittuja elektronien aaltofunktioita atomi- tai molekyylihilassa. Vyöteoria muodostaa perustan puolijohde-elektroniikan ymmärtämiselle.
+Yksittäisen, eristetyn atomin elektronit miehittävät atomiorbitaaleja, joista jokaisella on tietty diskreetti energia. Kun kaksi tai useampi atomi liittyy yhteen muodostaen molekyylin, niiden atomiorbitaalit menevät päällekkäin ja hybridisoituvat. Kun kaksi identtistä atomia yhdistyy muodostaakseen diatomisen molekyylin, atomiorbitaalien energiat jakautuvat kahtia.
+Vastaavasti, kun N identtistä atomia liittyy yhteen muodostakseen kiinteän aineen, esimerkiksi kidehilan, vierekkäisten atomien orbitaalit limittyvät, ja kaikki N orbitaalia hybridisoituvat keskenään. Diskreetit energiatasot jakautuvat N:ksi energiatilaksi, joilla jokaisella on eri energia. Koska makroskooppisen kappaleen atomien lukumäärä on Avogadron vakion suuruusluokkaa, 
+  
+    
+      
+        N
+         
+        
+          10
+          
+            23
+          
+        
+      
+    
+    }
+  
+, orbitaalien lukumäärä on hyvin suuri ja niiden energiaväli on hyvin pieni . Koska lähekkäisten tilojen energiaväli on niin pieni, energiatilojen voi ajatella muodostava jatkumon, energiavyön.
+Energiavöitä muodostavat lähinnä atomien ulommaiset valenssielektronit, jotka osallistuvat kemiallisiin sidoksiin ja sähkönjohtavuuteen. Sisemmät elektroniorbitaalit eivät ole merkittävissä määrin päällekkäin, joten niiden energivyöt ovat hyvin kapeita, ja energiatasot ovat lähellä itsenäisten atomiorbitaalien energiaa.
+Energia-aukot ovat energiavälejä, joilla ei ole yhtään energiavöitä. Energiavöiden leveydet riippuvat niiden muodostavien atomiorbitaalien päällekkäisyydestä. Jos kaksi lähekkäistä energiavyötä eivät ole riittävän leveitä jotta niiden energiat limittyisivät, jaa niiden väliin energia-aukko. Sisempien orbitaalien muodostamat matalan energian vyöt ovat yleensä hyvin kapeita, ja niiden muodostamien vöiden väliset aukot ovat vastaavasti suuria. Korkean energian vyöt puolestaan syntyvät uloimmista orbitaaleista, joiden päällekkäisyys on suurta. Niinpä niiden muodostamat vyöt ovat leveitä eikä niiden välillä ole välttämättä ollenkaan energia-aukkoa.

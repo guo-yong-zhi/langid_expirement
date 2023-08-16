@@ -1,0 +1,16 @@
+Servo è un motore di rendering sperimentale sviluppato per sfruttare le proprietà di sicurezza della memoria e le caratteristiche di concorrenza del linguaggio di programmazione Rust. Il progetto è stato avviato da Mozilla Research con l'impegno di Samsung di portarlo sul sistema operativo Android e su processori ARM. 1  Il prototipo cerca di creare un ambiente altamente parallelo, in cui molti componenti  sono gestiti da attività ben definite e isolate.
+Due componenti significativi utilizzati da Servo sono basati su codice C++ preesistente di Mozilla. SpiderMonkey fornisce il supporto JavaScript e la libreria grafica 2D Azure viene utilizzata per interfacciarsi con OpenGL e Direct3D. 
+Servo prende il nome da Tom Servo, un robot del programma televisivo Mystery Science Theatre 3000.
+Lo sviluppo su Servo è ancora in una fase iniziale; tuttavia, può già visualizzare Wikipedia e GitHub e passa con successo il test Acid2. Presenta innovazioni come un algoritmo di layout parallelo e il suo parser CSS3 e HTML5 implementato in Rust. 
+Servo sfrutta l'accelerazione GPU per rendere le pagine Web più veloci e agevoli. Servo è significativamente più veloce, in determinati benchmark, rispetto a Gecko, l'altro motore di rendering e layout di Mozilla, a partire da novembre 2014. 
+Lo sviluppo di Servo è iniziato nel 2012. Il primo impegno dell'8 febbraio 2012 non conteneva alcun codice sorgente. Il primo commit di codice rudimentale si è verificato il 27 marzo 2012. 
+Il 3 aprile 2013 Mozilla ha annunciato la collaborazione con Samsung su Servo. 
+A partire dal 30 giugno 2016, è disponibile per il download una versione di anteprima contrassegnata come 0.0.1 ed è disponibile per macOS e Linux.
+A partire dal 13 aprile 2017, le build sono ora disponibili anche per Windows. 
+Il progetto Servo è ufficialmente un progetto di ricerca. L'obiettivo è creare un nuovo motore di layout utilizzando un linguaggio di programmazione moderno  e utilizzando il parallelismo e la sicurezza del codice, per ottenere una maggiore sicurezza e prestazioni rispetto ai browser contemporanei.
+Usando Browser.HTML come interfaccia grafica, Servo può fungere da browser autonomo. Questa configurazione del browser era originariamente intesa come progetto di ricerca e proof-of-concept. 
+Gli sviluppatori di Servo pianificano di unire parti di Servo in Gecko, prestando così i progressi del progetto Servo a Firefox.
+Servo intende riorganizzare l'API di Chromium Embedded Framework . Ciò consentirebbe a Servo di essere utilizzato come sostituto drop-in per Chromium nelle applicazioni che utilizzano CEF e posiziona Servo come concorrente di Chromium in questi casi.
+Il progetto Servo è sponsorizzato e gestito da Mozilla, con diversi dipendenti Mozilla che contribuiscono con la maggior parte del codice al progetto. Come progetto open source e gratuito, è aperto a contributi di chiunque. Il servo, inclusi tutti i contributi della comunità, è concesso con la licenza pubblica Mozilla versione 2.0.
+A partire dal 2020, come conseguenza di cambi di gestione da parte di Mozilla Foundation e a seguito di ridimensionamenti economici, la gestione del motore Servo è stata affidata a The Linux Foundation, organizzazione promotrice di software Open Source.
+Altri progetti

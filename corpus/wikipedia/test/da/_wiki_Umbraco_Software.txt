@@ -1,0 +1,5 @@
+Umbraco er en open source CMS-platform, som blev udgivet i 2000. Det er udviklet af Niels Hartvig og Umbraco Core Team og udgivet under bl.a. MIT License Prior 4.5: MIT License  og Umbraco License .
+Umbraco har siden 2005 været open source.
+Systemet er udviklet i programmeringssproget C# og det indeholder flere typer framework og applikationer, som afvikles på Microsoft IIS
+I 2009 blev systemet CMS Wire omtalt som et af de førende NET-baserede open source CMS systemer. 1  2  I 2010 registeredes 1000 downloads dagligt. 3  Umbraco var blandt de fem mest populære downloads via  Microsofts Web Platform, blot to placeringer lavere end den største rival DotNetNuke, 4 
+Virksomheden udviklede som led i en udviklingsstrategi i 2012/2013 sammen med Microsoft et pilotprojekt, der bygger bro mellem mellem Umbraco og Microsoft Azure. 5 

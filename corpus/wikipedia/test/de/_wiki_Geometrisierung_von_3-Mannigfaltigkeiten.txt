@@ -1,0 +1,528 @@
+Die Idee der Geometrisierung als Begriff der Mathematik wurde 1980 von William Thurston als ein Programm zur Klassifizierung geschlossener dreidimensionaler Mannigfaltigkeiten vorgestellt. Das Ziel der Geometrisierung ist, nach der Zerlegung einer 3-Mannigfaltigkeit in Grundbausteine auf jedem dieser Bausteine eine charakteristische geometrische Struktur zu finden.
+Die von Thurston aufgestellte und inzwischen bestätigte Vermutung, dass dies immer möglich ist, stellt eine Verallgemeinerung der Poincaré-Vermutung dar. Der Beweis wurde von Grigori Perelman mit seinen Arbeiten zum Ricci-Fluss 2002 erbracht.
+Eine dreidimensionale Mannigfaltigkeit  ist ein topologischer Raum, der sich lokal durch dreidimensionale „Karten“ beschreiben lässt, also auf kleinen Bereichen so aussieht wie der gewöhnliche dreidimensionale euklidische Raum. Eine ganze 3-Mannigfaltigkeit lässt sich dagegen im Allgemeinen nicht als Teilmenge des dreidimensionalen Raumes vorstellen. Dies wird durch Betrachtung von zweidimensionalen Mannigfaltigkeiten anschaulich: Eine zweidimensionale Sphäre  lässt sich lokal durch zweidimensionale Karten beschreiben . Dennoch kann man die ganze 2-Sphäre nicht auf einmal in einer zweidimensionalen euklidischen Ebene darstellen. Analog zum zweidimensionalen Beispiel legen die Kartenwechsel  die Struktur der 3-Mannigfaltigkeit fest.
+Hier zeigt sich eine besondere Eigenschaft von 3-Mannigfaltigkeiten:
+Während es in noch höheren Dimensionen darauf ankommt, was für Kartenwechsel man zulässt , spielt diese Unterscheidung bis zur Dimension 3 keine Rolle. Mathematisch präzisiert heißt dies, dass es auf jeder topologischen 3-Mannigfaltigkeit genau eine differenzierbare Struktur gibt.
+Dies hat zur Folge, dass sich bei der Untersuchung von 3-Mannigfaltigkeiten topologische Methoden und differentialgeometrische Methoden kombinieren lassen. Das Teilgebiet der Mathematik, das sich hiermit beschäftigt, nennt man daher auch dreidimensionale Geometrie und Topologie.
+Ziel der dreidimensionalen Geometrie und Topologie ist es, alle möglichen geschlossenen  3-Mannigfaltigkeiten zu verstehen und zu klassifizieren. Dies ist ein sehr schwieriges Problem, da es – im Gegensatz etwa zu 2-Mannigfaltigkeiten – eine unüberschaubare Vielzahl geschlossener 3-Mannigfaltigkeiten gibt.
+Das von William Thurston vorgeschlagene Programm zur Geometrisierung führt zu einer solchen Klassifikation, indem es  jedem Teilstück eine bestimmte Geometrie zuordnet, die wiederum die topologische Struktur dieses Teilstücks charakterisiert.
+Eine 3-Mannigfaltigkeit in Komponenten zu „zerlegen“ bedeutet, sie zunächst entlang einer eingebetteten zweidimensionalen Sphäre in zwei Komponenten aufzuschneiden. In die dabei entstehenden Ränder  klebt man nun jeweils einen dreidimensionalen Ball ein, sodass die resultierenden Komponenten wieder ohne Rand sind.
+Durch diese Zerlegung entlang von 2-Sphären kann man erreichen, dass die resultierenden Komponenten irreduzibel sind. Das bedeutet, dass jede eingebettete 2-Sphäre auf einer Seite einen 3-Ball berandet und eine weitere Zerlegung daher nur die Abspaltung einer zusätzlichen 
+  
+    
+      
+        
+          S
+          
+            3
+          
+        
+      
+    
+    }
+  
+ zur Folge hätte. Man kann zeigen, dass die Zerlegung in irreduzible Komponenten eindeutig ist bis auf Reihenfolge und zusätzliche 
+  
+    
+      
+        
+          S
+          
+            3
+          
+        
+      
+    
+    }
+  
+-en.
+Ist eine so erhaltene irreduzible Komponente von der Gestalt 
+  
+    
+      
+        
+          S
+          
+            2
+          
+        
+         
+        
+          S
+          
+            1
+          
+        
+      
+    
+    \times S^
+  
+ oder hat sie eine endliche Fundamentalgruppe, so wird diese Komponente nicht weiter zerlegt. Alle anderen Komponenten lassen sich entlang bestimmter Tori nun noch weiter zerlegen, bis man eine wiederum eindeutige Zerlegung erhält, deren Komponenten alle entweder atoroidal oder Seifert-gefasert sind. Diese Zerlegung nennt man Jaco-Shalen-Johannson-Zerlegung oder kurz JSJ-Zerlegung.
+Auf diese Weise erhält man Bausteine, aus denen man alle 3-Mannigfaltigkeiten wieder durch den umgekehrten Prozess zur Zerlegung  zusammensetzen kann. Zur Klassifikation der 3-Mannigfaltigkeiten reicht es daher aus, die Bausteine der JSJ-Zerlegung zu verstehen, also irreduzible Mannigfaltigkeiten mit endlicher Fundamentalgruppe sowie Seifert-gefaserte und atoroidale Mannigfaltigkeiten.
+Thurston versteht unter einer Modellgeometrie anschaulich gesprochen einen abstrakten Raum, der für einen Bewohner überall gleich aussieht, und außerdem in seiner topologischen Gestalt so einfach wie möglich sein soll. Präzise ist dies eine vollständige, einfach zusammenhängende riemannsche Mannigfaltigkeit 
+  
+    
+      
+        X
+      
+    
+    
+  
+ mit transitiver Isometriegruppe 
+  
+    
+      
+        
+          
+            G
+          
+        
+        =
+        
+          I
+          s
+          o
+          m
+        
+        
+      
+    
+    }=\mathrm 
+  
+. Da die Geometrie geschlossener Mannigfaltigkeiten beschrieben werden soll, wird zudem gefordert, dass es mindestens eine kompakte Mannigfaltigkeit mit dieser Geometrie gibt, d. h., dass eine Untergruppe 
+  
+    
+      
+        H
+         
+        
+          
+            G
+          
+        
+      
+    
+    {\displaystyle H\subset }
+  
+ existiert, sodass 
+  
+    
+      
+        X
+        
+          /
+        
+        H
+      
+    
+    
+  
+ kompakt ist.
+Beispiele für eine solche Modellgeometrie sind in Dimension zwei die euklidische Ebene 
+  
+    
+      
+        
+          
+            R
+          
+          
+            2
+          
+        
+      
+    
+     ^
+  
+  oder die zweidimensionale Sphäre 
+  
+    
+      
+        
+          S
+          
+            2
+          
+        
+      
+    
+    {\displaystyle S^
+  
+, also die Oberfläche einer dreidimensionalen Kugel, die bereits selbst kompakt ist. Weniger bekannt ist die hyperbolische Ebene 
+  
+    
+      
+        
+          
+            H
+          
+          
+            2
+          
+        
+      
+    
+     ^
+  
+, die eine dritte Modellgeometrie darstellt. Alle Flächen vom Geschlecht 
+  
+    
+      
+         
+        2
+      
+    
+    
+  
+ lassen sich als kompakte Quotienten der hyperbolischen Ebene darstellen.
+Wenn nun der Raum überall gleich aussehen soll, muss er auch an jedem Punkt gleich gekrümmt sein. In Dimension zwei gibt es aber nur eine Krümmungsgröße, nämlich die Skalarkrümmung . Daraus folgt, dass die Modellgeometrien durch ihre konstante Skalarkrümmung  bereits festgelegt sind und es außer den drei genannten keine weiteren zweidimensionalen Modellgeometrien gibt.
+In Dimension drei gibt es die entsprechenden Modelle mit konstanter Krümmung ebenfalls, hier sind dies
+Darüber hinaus gibt es jedoch noch weitere dreidimensionale Modellgeometrien. Dies liegt daran, dass die Skalarkrümmung nicht mehr alleine die lokale Gestalt des Raumes vorgibt und die Krümmung in einem Punkt von der betrachteten Ebene durch diesen Punkt abhängt. Veranschaulichen lässt sich dies an einem weiteren dreidimensionalen Modell, nämlich
+Dieser Raum lässt sich nicht im dreidimensionalen euklidischen Raum darstellen, jedoch kann man ihn sich wie folgt vorstellen: Der dreidimensionale Raum lässt sich wie eine Zwiebel durch ineinander geschachtelte 2-Sphären mit wachsendem Durchmesser auffassen. Stellt man sich nun vor, dass der Durchmesser der geschachtelten Sphären nicht wächst, sondern konstant 1 bleibt, wenn man von innen nach außen geht, so erhält man den gewünschten Raum. Alternativ kann man sich 2-Sphären entlang einer Gerade aufgereiht vorstellen, die sich aber nicht durchschneiden.
+Befindet man sich in einem Punkt in diesem Raum, so kann man sich entweder auf einer Sphäre bewegen oder senkrecht dazu entlang der Geradenrichtung. In einer Ebene tangential an eine Sphäre beträgt die Krümmung 1, enthält die Ebene jedoch die Geradenrichtung, so ist die Krümmung 0.
+Mit der gleichen Konstruktion kann man aus der hyperbolischen Ebene das Produkt mit einer Geraden bilden:
+Hier liegt die Krümmung zwischen −1 und 0, je nach Richtung der betrachteten Ebene.
+Eine Metrik wie in den beiden Produktgeometrien bezeichnet man als homogen, aber nicht isotrop: Zwar sind alle Punkte „gleich“, aber in einem festen Punkt gibt es Ebenen, die sich von anderen Ebenen durch diesen Punkt unterscheiden. Mathematisch bedeutet dies, dass die Isometriegruppe transitiv auf den Punkten, aber nicht transitiv auf den orthonormalen Rahmen  ist.
+Schließlich gibt es noch drei weitere Modellgeometrien, die die Struktur einer Lie-Gruppe tragen. Dies sind
+Alle drei lassen sich als Metrik auf Matrizengruppen beschreiben. Während 
+  
+    
+      
+        
+          
+            S
+            L
+          
+          
+            2
+          
+        
+        
+          R
+        
+      
+    
+     _ }
+  
+ die Gruppe der invertierbaren 2×2-Matrizen mit Determinante 1 ist, ist die Nil-Geometrie auf der nilpotenten Gruppe der oberen 3×3-Dreiecksmatrizen mit Diagonale 1  und die Sol-Geometrie auf der auflösbaren  Gruppe aller oberen 2×2-Dreiecksmatrizen definiert.
+Als Lie-Gruppen tragen diese Gruppen jeweils eine Metrik, die invariant unter der Linksoperation ist und damit homogen.
+Weil die Gruppe 
+  
+    
+      
+        
+          S
+          L
+        
+        
+      
+    
+     }
+  
+ nicht wie gefordert einfach zusammenhängend ist, geht man zu ihrer universellen Überlagerung über. Da dies für lokale Eigenschaften keinen Unterschied macht, wird manchmal auch von 
+  
+    
+      
+        
+          S
+          L
+        
+        
+      
+    
+     }
+  
+ als Modellgeometrie gesprochen.
+Die Metrik auf 
+  
+    
+      
+        
+          
+            
+              
+                S
+                L
+              
+               
+            
+          
+        
+        
+      
+    
+     }}}
+  
+ lässt sich auch folgendermaßen beschreiben: 
+  
+    
+      
+        
+          P
+          S
+          L
+        
+        
+      
+    
+     }
+  
+ ist die Gruppe der reellen Möbiustransformationen und damit der Isometrien der hyperbolischen Ebene 
+  
+    
+      
+        
+          
+            H
+          
+          
+            2
+          
+        
+      
+    
+     ^
+  
+. Da eine Isometrie von 
+  
+    
+      
+        
+          
+            H
+          
+          
+            2
+          
+        
+      
+    
+     ^
+  
+ eineindeutig durch das Bild eines ausgewählten Einheitstangentialvektors bestimmt ist, gilt 
+  
+    
+      
+        
+          P
+          S
+          L
+        
+        
+         
+        U
+        T
+        
+          
+            H
+          
+          
+            2
+          
+        
+      
+    
+     \cong UT\mathbb }
+  
+. 
+  
+    
+      
+        U
+        T
+        
+          
+            H
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle UT\mathbb }
+  
+, der Raum der Tangentialvektoren der Länge 1, trägt nun eine von 
+  
+    
+      
+        
+          
+            H
+          
+          
+            2
+          
+        
+      
+    
+     ^
+  
+ induzierte Metrik. Die so konstruierte Metrik auf 
+  
+    
+      
+        
+          P
+          S
+          L
+        
+        
+      
+    
+     }
+  
+ induziert schließlich eine Metrik auf der universellen Überlagerung 
+  
+    
+      
+        
+          
+            
+              
+                S
+                L
+              
+               
+            
+          
+        
+        
+      
+    
+     }}}
+  
+.
+Diese Betrachtung liefert Beispiele für 3-Mannigfaltigkeiten mit 
+  
+    
+      
+        
+          
+            
+              
+                S
+                L
+              
+               
+            
+          
+        
+        
+      
+    
+     }}}
+  
+-Geometrie, nämlich Einheitstangentialbündel geschlossener hyperbolischer Flächen .
+Der Beweis, dass die hier beschriebenen Modelle alle Möglichkeiten dreidimensionaler Modellgeometrien sind, benutzt den Stabilisator der Isometriegruppe. Das ist die Gruppe all derjenigen Isometrien eines Modells, die einen bestimmten Punkt festhalten. Im Fall des euklidischen Raumes besteht er beispielsweise aus der gesamten orthogonalen Gruppe O und ist daher dreidimensional, während im Fall der Produktgeometrien die 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+-Richtung von einer Isometrie erhalten werden muss und somit der Stabilisator nur aus der eindimensionalen Untergruppe SO besteht. Die Größe des Stabilisators ist ein Maß für die Symmetrie des Modells.
+Eine weitere Unterscheidung kann gemacht werden, indem man eine Faserung findet, die invariant unter der Isometriegruppe ist und deren Blätter vom Stabilisator auf sich selbst abgebildet werden. Im Fall der Produktgeometrien ist eine solche Faserung einfach durch die Querschnitte 
+  
+    
+      
+        
+          S
+          
+            2
+          
+        
+         
+        
+      
+    
+    \times \
+  
+ bzw. 
+  
+    
+      
+        
+          
+            H
+          
+          
+            2
+          
+        
+         
+        
+      
+    
+     ^}
+  
+ gegeben. In jedem Fall muss eine solche Faser wieder eine zweidimensionale Modellgeometrie sein, sodass sich folgende Übersicht ergibt:
+Lässt sich auf einer aus der oben beschriebenen Zerlegung resultierenden Mannigfaltigkeit eine Metrik wählen, die lokal einer der acht Modellgeometrien entspricht, so nennt man diese Mannigfaltigkeit geometrisierbar. Beispielsweise lässt sich ein Torus aus flachen, euklidischen Karten zusammensetzen und ist also geometrisierbar.
+Thurston hat sich intensiv mit dem Studium von 3-Mannigfaltigkeiten beschäftigt und dabei festgestellt, dass eine große Klasse von ihnen in diesem Sinne geometrisierbar ist.
+Unter anderen hat er dies für Haken-Mannigfaltigkeiten nachgewiesen und dafür 1982 die Fields-Medaille erhalten. Basierend auf diesen Forschungen hat er die Vermutung aufgestellt, dass sich alle geschlossenen 3-Mannigfaltigkeiten geometrisieren lassen. Dies wird als Thurstons Geometrisierungsvermutung bezeichnet.
+Lässt eine 3-Mannigfaltigkeit eine der acht Modellgeometrien zu, so liefert dies Rückschlüsse auf ihre Topologie: Ist die Modellgeometrie nicht hyperbolisch oder sphärisch, so folgt, dass die Mannigfaltigkeit eine Seifert-Faserung besitzt. Da die Topologie von Seifert-Mannigfaltigkeiten bekannt ist, gelten diese als gut verstanden. Da ihre Fundamentalgruppe z. B. stets eine Untergruppe isomorph zur Fundamentalgruppe des 2-Torus, 
+  
+    
+      
+        
+          Z
+        
+         
+        
+          Z
+        
+      
+    
+     \times \mathbb 
+  
+, besitzt, lässt sich die Geometrisierungsvermutung auch so formulieren:
+Für sphärische und hyperbolische Mannigfaltigkeiten gibt es wesentlich mehr Möglichkeiten und diese sind auch nicht vollständig klassifiziert. Dennoch sind viele ihrer Eigenschaften bekannt und die Klassifizierung stellt ein rein gruppentheoretisches Problem dar 
+      
+    
+    {\displaystyle \mathrm {SO} 
+      
+    
+    {\displaystyle \mathrm {PSL} .
+Aus der Umformulierung der Geometrisierungsvermutung folgt die Elliptisierungsvermutung oder Sphärische Raumformen-Vermutung
+sowie die Hyperbolisierungsvermutung
+Ein weiterer Spezialfall der Geometrisierungsvermutung ist die bekannte Poincaré-Vermutung:
+Für zweidimensionale geschlossene Mannigfaltigkeiten ist die Geometrisierung bereits lange bekannt. Aus der Klassifikation der Flächen folgt zusammen mit der Gauß-Bonnet-Formel, dass die 2-Sphäre 
+  
+    
+      
+        
+          S
+          
+            2
+          
+        
+      
+    
+    }
+  
+ als einzige Fläche eine sphärische Geometrie besitzt, der 2-Torus 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T^
+  
+ eine euklidische Geometrie und alle Flächen höheren Geschlechts hyperbolisch sind.
+Richard S. Hamilton hat in den 1980er Jahren als einer der ersten versucht, mit Hilfe des Ricci-Flusses die Geometrisierung zu beweisen. Es gelang ihm für Mannigfaltigkeiten positiver Ricci-Krümmung sowie für solche Mannigfaltigkeiten, auf denen der Ricci-Fluss nicht singulär wird.
+Grigori Perelman hat mit seinen Arbeiten von 2002 und 2003 den entscheidenden Schritt im Beweis der Geometrisierung geliefert, indem er Methoden fand, die den Fluss auch beim Auftreten von Singularitäten kontrollieren.
+Perelmans Arbeiten sind zwar noch nicht in einer referierten Zeitschrift erschienen, dennoch haben sich viele Mathematiker intensiv mit ihnen auseinandergesetzt, ohne wesentliche Fehler oder Lücken zu finden. Hierfür sollte Perelman 2006 mit der Fields-Medaille ausgezeichnet werden, diese lehnte er aber ab.
+Allgemeiner Überblick über die Geometrisierungsvermutung und den Ricci-Fluss
+Topologische Grundlagen und JSJ-Zerlegung
+Modellgeometrien und Thurstons Programm
+Perelmans Beweis mit Hilfe des Ricci-Flusses

@@ -1,0 +1,252 @@
+Em Estatística, em teoria das probabilidades, o valor esperado, também chamado esperança matemática ou expectância, de uma variável aleatória é a soma do produto de cada probabilidade de saída da experiência pelo seu respectivo valor. Isto é, representa o valor médio "esperado" de uma experiência se ela for repetida muitas vezes. Note-se que o valor em si pode não ser esperado no sentido geral; pode ser improvável ou impossível. Se todos os eventos tiverem igual probabilidade o valor esperado é a média aritmética.
+Para uma variável aleatória discreta X com valores possíveis 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+        ,
+        
+          x
+          
+            3
+          
+        
+        ,
+         
+      
+    
+    ,x_,\ldots }
+  
+ e com as suas probabilidades representadas pela função 
+  
+    
+      
+        p
+        
+      
+    
+    
+  
+, o valor esperado calcula-se pela série:
+desde que a série seja convergente.
+Para uma variável aleatória contínua X o valor esperado calcula-se mediante o integral de todos os valores da função de densidade 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+:
+Generalizando, seja g uma função que toma valores no espaço amostral de X. Então temos:
+e
+Deve-se notar que, no caso geral, 
+  
+    
+      
+        
+          E
+        
+      
+    
+     }
+  
+ não comuta com a função g, ou seja:
+Para o caso mais geral de 
+  
+    
+      
+        
+          X
+        
+      
+    
+     }
+  
+ ser uma variável aleatória de mais de uma dimensão, e com 
+  
+    
+      
+        
+          g
+        
+      
+    
+     }
+  
+ assumindo valores em um espaço vetorial normado, temos:
+e
+Nas seguintes propriedades, 
+  
+    
+      
+        X
+        ,
+        Y
+      
+    
+    
+  
+ são variáveis aleatórias, 
+  
+    
+      
+        a
+        ,
+        b
+        ,
+        c
+      
+    
+    
+  
+ são constantes.
+Sejam: x o vetor aleatório N X 1 com valor esperado E e variância  
+  
+    
+      
+        
+           
+          
+            2
+          
+        
+         
+        I
+      
+    
+    \cdot I}
+  
+ ; A uma matriz quadrada genérica de dimensão N x X; tr o traço da matriz A. Então, a esperança da variável ao quadrado será:
+  
+    
+      
+        E
+        
+        =
+        E
+        
+        =
+        V
+        a
+        r
+        
+         
+        t
+        r
+        
+        +
+        
+          
+            T
+          
+        
+         
+        A
+         
+        E
+        
+      
+    
+    \cdot A\cdot E}
+  
+E para duas variáveis aleatórias:
+Estas propriedades podem ser generalizadas para qualquer número de variáveis aleatórias.
+O valor esperado de uma combinação linear de variáveis aleatórias é a combinação linear dos seus valores esperados:
+Por esse motivo, a função E que associa a cada variável aleatória o seu valor esperado é um operador linear, chamado de operador esperança.
+No caso geral, temos que
+No caso particular de X e Y serem variáveis aleatórias independentes, temos que:
+Seja uma variável aleatória 
+  
+    
+      
+        X
+        :
+        
+          
+             
+          
+        
+         
+        
+          R
+        
+      
+    
+    \Omega }\rightarrow \mathbb 
+  
+ e uma sigma-álgebra 
+  
+    
+      
+        
+          
+             
+          
+        
+      
+    
+    \tau }}
+  
+ no espaço amostral 
+  
+    
+      
+        
+          
+             
+          
+        
+      
+    
+    {\displaystyle }
+  
+. A esperança condicional de X, dado 
+  
+    
+      
+        
+          
+             
+          
+        
+      
+    
+    \tau }}
+  
+, é a variável aleatória 
+  
+    
+      
+        Z
+        :
+        
+          
+             
+          
+        
+         
+        
+          R
+        
+      
+    
+    {\displaystyle Z:\rightarrow \mathbb 
+  
+ tal que
+Esta variável Z tem as seguintes propriedades:
+Análise de "Cluster" 

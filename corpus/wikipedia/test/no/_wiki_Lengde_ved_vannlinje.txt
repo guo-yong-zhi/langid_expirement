@@ -1,0 +1,1 @@
+Lengde ved vannlinje  er et mål på et skips lengde, definert som lengden av skipet ved en gitt lastkondisjon, som oftest ved konstruksjonsvannlinjen.

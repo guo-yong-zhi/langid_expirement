@@ -1,0 +1,4 @@
+
+.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct.mw-parser-output .longitude,.mw-parser-output .latitude
+서변중학교의 위치
+서변중학교는 대구광역시 북구 서변동에 있는 공립 중학교이다.

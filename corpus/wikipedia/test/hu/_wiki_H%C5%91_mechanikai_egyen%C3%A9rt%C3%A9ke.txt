@@ -1,0 +1,34 @@
+Pontosságellenőrzött
+Számos tapasztalat szerint a testek súrlódásánál hőmennyiség keletkezik, azaz mechanikai munka árán nemcsak a testek helyzeti vagy mozgási energiáját lehet növelni, hanem hőmennyiséget is lehet termelni. Megfordítva, amint azt a gőzgép példája mutatja, hőmennyiség felhasználásával munkát lehet végeztetni. Ezek arra utalnak, hogy a hő az energia egyik formája.
+E tény felismerése Julius Robert von Mayer és James Prescott Joule nevéhez fűződik, akik egymástól függetlenül meghatározták azt az átszámítási tényezőt, amely megadja, hogy mennyi hőmennyiség mennyi energiának felel meg és fordítva. 1 
+Annak idején a munkát méterkilopondban , a hőt pedig kalóriában  ill. kilokalóriában  mérték, a Joule-t , mint mértékegységet 1889-ben fogadták el. A felismerés lehetővé tette ezek átválthatóságát: 2 
+Az átváltási adatok különböző területeken kissé eltérők lehetnek, ennek okát lásd a Kalória vagy még bővebben a Kalória definíciói szócikkben.
+Ennek  következménye, hogy a gázállandó meghatározható:
+  
+    
+      
+        A
+        m
+        
+         
+        T
+        =
+        m
+        R
+         
+        T
+      
+    
+    
+  
+  
+    
+      
+        A
+        
+        =
+        R
+      
+    
+    
+  

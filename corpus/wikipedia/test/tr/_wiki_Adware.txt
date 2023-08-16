@@ -1,0 +1,1 @@
+Adware,  yüklenildiği bilgisayara yüklenme işleminden sonra program kullanımdayken otomatik olarak çalışan, gösteren ve indirme yapan bir yazılım paketidir. Adwarelerin bazı tipleri kendilerine paketli hâlde gelen spywareler bulundururlar ve kişisel bilgilere gizlice ulaşılmasında kullanılırlar.

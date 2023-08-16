@@ -1,0 +1,212 @@
+Tümleşik matematikte binom dönüşümü bir dizinin ileri farklarını hesaplamaya yarayan bir dizi dönüşümüdür. Kavram, binom dönüşümünün Euler dizisine uygulanması sonucu oluşan Euler dönüşümüyle yakından ilintilidir.
+Bir 
+  
+    
+      
+        
+      
+    
+    \}}
+  
+ dizisinin binom dönüşümü 
+olarak tanımlanan 
+  
+    
+      
+        
+      
+    
+    \}}
+  
+ dizisidir.
+  
+    
+      
+        
+          
+            n
+          
+        
+        =
+        
+          s
+          
+            n
+          
+        
+      
+    
+    =s_
+  
+ yazımında T bir sonsuz boyutlu işleci göstermektedir. Bu işlecin elemanları şu biçimde gösterilebilir:
+Bu dönüşüm bir kıvrılmadır.
+Bu, farklı bir biçimde de gösterilebilir.
+Burada δ Kronecker delta işlevini göstermektedir.
+işlemiyle özgün diziye geri dönülebilir.
+Bir dizinin binom dönüşümü o dizinin n. ileri farkıdır.
+Burada Δ ileri fark işlecini simgelemektedir.
+Binom dönüşümü zaman zaman ek bir imle gösterilmektedir. Bu gösterimde dönüşüm
+biçiminde ifade edilirken bu ifadenin tersi
+olarak yazılır.
+Binom dönüşümleri fark tablolarında kolaylıkla gözlenebilmektedir.
+0, 1, 10, 63, 324, 1485, … biçimindeki en üst satır 
+        
+          3
+          
+            n
+             
+            2
+          
+        
+      
+    
+    {\displaystyle  0, 1, 8, 36, 128, 400, … köşegeninin  binom dönüşümüdür.
+Binom dönüşümü Bell sayılarının değişim işlecidir. Başka bir deyişle,
+eşitliği sağlanmaktadır. Burada 
+  
+    
+      
+        
+          B
+          
+            n
+          
+        
+      
+    
+    }
+  
+ Bell sayılarını göstermektedir.
+Dönüşüm, diziyle ilişkilendirilmiş üretici işlevleri birbirine bağlamaktadır. Olağan üretici işlev için
+ve
+eşitliklerinin sağlandığı varsayılsın. Buradan
+ifadesine ulaşılabilir.
+Olağan üretici işlevler arasındaki ilişki zaman zaman Euler dönüşümü olarak adlandırılmaktadır. İki farklı biçimde var olan dönüşüm, almaşık dizilerin yakınsaklığını hızlandırabilmektedir. Başka bir deyişle,
+ifadesinde x yerine 1/2 konularak 1'e ulaşılabilir. Sağdaki terimler çok hızlı bir biçimde küçüldüklerinden bu toplam kolaylıkla hesaplanabilir.
+Euler dönüşümü şu biçimde genellenbilir:
+p = 0, 1, 2, … için
+eşitliği sağlanır.
+Euler dönüşümü 
+  
+    
+      
+        
+          
+          
+            2
+          
+        
+        
+          F
+          
+            1
+          
+        
+      
+    
+    F_
+  
+ hipergeometrik dizisine sıklıkla uygulanmkatadır. Bu durumda Euler dönüşümü
+olarak ifade edilebilmektedir.
+Binom dönüşümü ve bunun farklı bir uyarlaması olan Euler dönüşümü bir sayının sürekli kesir olarak ifade edilmesinde büyük önem taşımaktadır. 
+  
+    
+      
+        0
+        <
+        x
+        <
+        1
+      
+    
+    
+  
+ sayısının sürekli kesir ifadesinin
+olduğu varsayılsın. Buradan
+ve
+sonuçlarına ulaşılabilmektedir.
+Üstel üretici işlev için
+ve
+eşitliklerinin sağlandığı varsayılsın. Buradan
+eşitliğine ulaşılır.
+Borel dönüşümü, olağan üretici işlevi üstel üretici işleve dönüştürebilmektedir.
+Dizi bir karmaşık çözümleme işleviyle değiştirildiğinde dizinin binom dönüşümü Nörlund-Rice integrali biçiminde ifade edilebilmektedir.
+Prodinger birimsel benzeri bir dönüşümden söz etmektedir.
+eşitliğinin sağlandığı varsayıldığında
+ifadesine ulaşılır. Burada U ve B sırasıyla 
+  
+    
+      
+        
+      
+    
+    \}}
+  
+ ve 
+  
+    
+      
+        
+      
+    
+    {\displaystyle \{b_
+  
+ dizileriyle ilişkilendirilmiş olağan üretici işlevleri göstermektedir.
+Artan k-binom dönüşümü zaman zaman
+biçiminde, azalan k-binom dönüşümü
+biçiminde tanımlanmaktadır. Her iki dönüşüm de bir dizinin Hankel dönüşümü özüne eşittir.
+Binom dönüşümü
+olarak tanımlanır, bu ifade
+  
+    
+      
+        
+          
+            J
+          
+        
+        
+          
+            n
+          
+        
+        =
+        
+          b
+          
+            n
+          
+        
+      
+    
+    }_}
+  
+işlevine eşitlenir, yeni bir ileri fark tablosu oluşturulur ve bu tablonun her satırının ilk elemanından 
+  
+    
+      
+        
+      
+    
+    \}}
+  
+ gibi yeni bir dizi oluşturulursa özgün dizinin ikinci binom dönüşümü
+ifadesine eşit olur.
+Aynı işlem k kez yinelendiğinde
+eşitliğine ulaşılır. Bu ifadenin tersi
+olarak yazılır.
+Bu ifadenin genel biçimi
+olarak yazılabilir. Burada 
+  
+    
+      
+        
+          E
+        
+      
+    
+     }
+  
+ değişim işlecini göstermektedir.
+Bu ifadenin tersi
+biçiminde gösterilir.

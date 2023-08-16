@@ -1,0 +1,16 @@
+Pontosságellenőrzött
+Az 1959-es Formula–1-es világbajnokság harmadik futama a holland nagydíj volt.
+Zandvoortban indultak az Aston Martinok először világbajnoki futamon, Roy Salvadorival és Carroll Shelbyvel, akik csak a tizenharmadik és tizedik helyet tudták megszerezni. Jo Bonnier indult az első sorból a BRM-mel, Brabham és Moss Cooperje mellől. Graham Hill a figyelemre méltó ötödik helyet érte a Lotusszal. A rajtnál Bonnier állt az élre, de Masten Gregory gyári Cooperével a harmadik sorból indulva a második helyre jött fel, majd a következő körben átvette a vezetést. Moss ezzel szemben visszaesett a középmezőnybe az indulásnál. Az amerikai versenyző a következő 12 körben vezetett, de váltóproblémája miatt Bonnier, majd Brabham is visszaelőzte. Moss a negyedik Behra és Gregory megelőzése után az élen haladókhoz kezdett közeledni, majd megszerezte a vezetést is. A brit váltóhiba miatt kiesett, így Bonnier megszerezte a BRM első győzelmét. Brabham második, Gregory harmadik, a debütáló Innes Ireland a Lotusban negyedik lett. 
+Vezető helyen:
+Jo Bonnier egyetlen győzelme, egyetlen pole-pozíciója, Stirling Moss 13. leggyorsabb köre.
+Innes Ireland első versenye.
+MON ·  500 ·  NED ·  FRA ·  GBR ·  GER ·  POR ·  ITA ·  USA
+ARG ·  MON ·  NED ·  500 ·  BEL ·  FRA ·  GBR ·  GER ·  POR ·  ITA ·  MOR
+ARG ·  MON ·  500 ·  FRA ·  GBR ·  GER ·  PSC ·  ITA
+ARG ·  MON ·  500 ·  BEL ·  FRA ·  GBR ·  GER ·  ITA
+ARG ·  MON ·  500 ·  BEL ·  NED ·  GBR ·  ITA
+ARG ·  500 ·  BEL ·  FRA ·  GBR ·  GER ·  SUI ·  ITA ·  ESP
+ARG ·  500 ·  NED ·  BEL ·  FRA ·  GBR ·  GER ·  SUI ·  ITA
+SUI ·  500 ·  BEL ·  FRA ·  GBR ·  GER ·  NED ·  ITA
+SUI ·  500 ·  BEL ·  FRA ·  GBR ·  GER ·  ITA ·  ESP
+GBR ·  MON ·  500 ·  SUI ·  BEL ·  FRA ·  ITA

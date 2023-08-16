@@ -1,0 +1,17 @@
+En lukker er en indretning i fotografisk udstyr som kan åbne og lukke for lysindfald på et lysfølsomt medium . Det tidsrum lukkeren er åben og eksponering står på, kaldes for lukkertiden.
+Mange moderne digitalkameraer har ikke nogen mekanisk lukker, men har i stedet en elektronisk eksponeringskontrol indbygget i sensoren. Det kan dog kun lade sig gøre for visse sensortyper.
+I almindeligt fotoudstyr er de to mest udbredte mekaniske lukkermekanismer centrallukkeren og spaltelukkeren. Der findes andre lukkertyper som bruges ved f.eks. højhastighedsfotografi.
+En centrallukker består af en række blade med aksler rundt i randen, herved dannes lukkefladen. I samme rand er mekanikken med fjedre placeret. Normalt lapper bladene over hinanden. Når lukkeren spændes og udløses, vil bladene samtidig dreje om deres aksler og afdække lysgangen for derpå at falde tilbage igen. Nogle svinger rundt de fleste frem og tilbage. Avancerede lukkere har lukkertider fra 1 sek til 1/500 sek 
+Ved placering i det optiske midterplan  betyder det ikke noget, at randområderne af åbningen står kortere tid åbent end midterområdet.
+En centrallukker vil normalt være indbygget i objektivet og ofte placeret ved blænden. Fordelene er bl.a.
+Ulemperne er bl.a.
+Centrallukkere bruges i mange kameratyper lige fra billige engangskameraer til professionelle atelierkameraer. Den hyppigste undtagelse er netop spejlreflekskameraet hvor ulemperne ofte er for store.
+Specielt i det gamle Vesttyskland fastholdt firmaerne længe centrallukkeren også på dyre spejreflekskameraer, hvilket af mange betragtes som en af årsagerne til denne industris totale kollaps i løbet af 70'erne
+Spaltelukkeren er monteret umiddelbart foran filmen/sensoren og afdækker derfor hele eksponeringsarealet. Det består af to "gardiner" og ved eksponering glider først det ene gardin til side og åbner, og bagefter glider det andet gardin for og lukker igen. Ved korte eksponeringstider når det første gardin ikke at åbne helt før den andet gardin begynder at lukke og lukkersystemer danner derfor en spalte som glider hen over filmplanet.
+Gardinernes bevægelse skal være helt jævn ellers opstår uens belysning af billedet.
+Gardinerne bevæger sig rimelig langsomt på ældre kameraer typisk med en overløbstid på 1/60 sek til 1/100 sek. Men med den smalle spalte kan belysningstiden af den enkelte delområde af filmen/sensoren gøres meget kortere. Når en bil fotograferes bliver bevægelsen "frosset" fast, men billedet af bilen kan blive forlænget/forkortet.
+Gardinerne var tidligere gerne lavet af gummidug, men senere oftest metal/plastik jalousier. Gardinbevægelsen kan enten være vandret eller lodret.
+Ved ældre kameraer kunne gardinernes start og opbremsning give ufrivillig bevægelse af kameraet .
+Blitz kan kun bruges, når første gardin er nået over og anden gardin ikke er begyndt at lukker dvs ved de lange lukkertider. Ved de korte tider vil kun en en del af billedet være belyst.
+Da lukkeren ideelt ikke giver vignettering, er der meget større udvalg af objektivbrændvidder til rådighed 
+Systemet har groft sagt de modsatte fordele og ulemper i forhold til centrallukkeren: Det er kompliceret, men man kan undgå at have det som del af objektivet. 

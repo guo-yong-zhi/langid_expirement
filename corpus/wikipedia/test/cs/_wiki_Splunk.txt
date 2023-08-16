@@ -1,0 +1,2 @@
+Splunk je softwarový produkt společnosti Splunk Inc., který je určen pro sběr a analýzu tzv. strojových dat . Na základě výsledků analýzy je pak možné např. predikovat chování systémů a uživatelů, sledovat trendy návštěvnosti a prodejnosti, upozorňovat na blížící se bezpečnostní incident, předvídat zemětřesení atd.
+Na rozdíl od tradičních produktů pro analýzu logů je schopen vytvářet analýzy nad velkým množstvím dat  v reálném čase. 1  Splunk používá NoSQL databázi a indexaci obsahu, díky čemuž je možné dosahovat velmi podrobných výsledků ve velmi krátkém čase.

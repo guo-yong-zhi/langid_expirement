@@ -1,0 +1,352 @@
+Cipher Block Chaining Mode  ist eine Betriebsart, in der Blockchiffren betrieben werden können. Vor dem Verschlüsseln eines Klartextblocks wird dieser zunächst mit dem im vorhergehenden Schritt erzeugten Geheimtextblock per XOR  verknüpft. Der Modus wurde 1976 von William F. Ehrsam, Carl H. W. Meyer, John L. Smith und Walter L. Tuchman veröffentlicht. 1 
+Die Struktur der Verschlüsselung im CBC-Modus ist in nachfolgender Abbildung dargestellt:
+Man kann dieses Diagramm auch mathematisch in Formeln ausdrücken, bezeichne dazu 
+  
+    
+      E
+      
+        K
+      
+    
+    E_
+  
+ die Verschlüsselungsfunktion mit dem Schlüssel 
+  
+    K
+    K
+  
+, sei 
+  
+    
+      D
+      
+        K
+      
+    
+    D_
+  
+ die zugehörige
+Entschlüsselungsfunktion. Bezeichne 
+  
+    
+      P
+      
+        i
+      
+    
+    P_
+  
+ den i-ten Klartextblock, 
+  
+    
+      C
+      
+        i
+      
+    
+    C_
+  
+ den i-ten Geheimtextblock und sei 
+  
+    
+      I
+      V
+    
+    IV
+  
+ der Initialisierungsvektor; in der Regel wird 
+  
+    
+      
+        C
+        
+          0
+        
+      
+      =
+      I
+      V
+    
+    C_=IV
+  
+ definiert. Außerdem bezeichne 
+  
+     
+    \oplus
+  
+ das logische XOR.
+Dann ist die Verschlüsselung im CBC-Modus wie folgt rekursiv definiert:
+  
+    
+      
+         
+        i
+         
+        
+          
+            N
+          
+          
+            +
+          
+        
+        :
+        
+          C
+          
+            i
+          
+        
+        =
+        
+          E
+          
+            K
+          
+        
+        
+      
+    
+     ^=E_
+  
+Die Struktur der Entschlüsselung im CBC-Modus ist in nachfolgender Abbildung dargestellt:
+Die zugehörige Entschlüsselung ist im CBC-Modus hingegen nicht rekursiv und lautet mit den gleichen Bezeichnungen wie oben:
+  
+    
+      
+         
+        i
+         
+        
+          
+            N
+          
+          
+            +
+          
+        
+        :
+        
+          P
+          
+            i
+          
+        
+        =
+        
+          D
+          
+            K
+          
+        
+        
+         
+        
+          C
+          
+            i
+             
+            1
+          
+        
+      
+    
+     ^=D_}
+  
+Als Initialisierungsvektor  benutzt man entweder einen Zeitstempel oder eine zufällige Zahlenfolge.
+Manche Anwendungen benutzen auch eine vorhersagbare, einfach aufsteigende Zahl, aber dies ist nicht sicher, weil fremde Personen unerwünscht einen Wasserzeichenangriff  auf solche Daten ausführen können.
+Das Modul dm-crypt benutzt zur Generierung des IV das ESS-Verfahren.
+Für die Sicherheit des Algorithmus ist es nicht notwendig, den Initialisierungsvektor geheim zu übertragen.
+Der CBC-Mode hat einige wichtige Vorteile:
+Jedoch hat der CBC-Mode auch einige Nachteile:
+Da ein Geheimtextblock nur von dem vorherigen Block abhängt, verursacht ein beschädigter Geheimtextblock, wie beispielsweise ein Bitfehler bei der Datenübertragung, beim Entschlüsseln keinen allzu großen Schaden: Der Klartextblock 
+  
+    
+      P
+      
+        i
+      
+    
+    P_
+  
+ wird zerstört und im Klartextblock 
+  
+    
+      P
+      
+        i
+        +
+        1
+      
+    
+    P_
+  
+ wird das respektive Bit negiert. Dies ist unmittelbar aus der Definition der Entschlüsselung und obiger Abbildung ersichtlich, da ein beschädigter Geheimtextblock 
+  
+    
+      C
+      
+        i
+      
+    
+    C_
+  
+ nur die Klartextblöcke 
+  
+    
+      P
+      
+        i
+      
+    
+    P_
+  
+ und 
+  
+    
+      P
+      
+        i
+        +
+        1
+      
+    
+    P_
+  
+ beeinflusst und sich nicht unbeschränkt weiter verbreitet. Trotzdem kann diese beschränkte Vervielfachung nur eines einzigen Bitfehlers im Chiffrat bei CBC eine Vorwärtsfehlerkorrektur des Klartextes erschweren bzw. unmöglich machen. Genauso verursacht ein beschädigter Initialisierungsvektor beim Entschlüsseln keinen allzu großen Schaden, da dadurch nur der Klartextblock 
+  
+    
+      P
+      
+        1
+      
+    
+    P_
+  
+ beschädigt wird.
+Der CBC-Modus ist wesentlich sicherer als der ECB-Modus, vor allem wenn man keine zufälligen Texte hat. Unsere Sprache und andere Dateien, wie z. B. Video-Dateien, sind keinesfalls zufällig, weswegen der ECB-Mode gefährlich ist.
+Zur Vereinfachung wird als Verschlüsselungsfunktion 
+  
+    E
+    E
+  
+ die binäre Addition und als Entschlüsselungsfunktion 
+  
+    D
+    D
+  
+ die binäre Subtraktion verwendet.
+Block 1:
+Block 2:
+Verschlüsselter Text:
+Betrachtet man die Verschlüsselung von 
+  
+    
+      B
+      
+        2
+      
+    
+    B_
+  
+, sieht man, dass dazu 
+  
+    
+      C
+      
+        1
+      
+    
+    C_
+  
+ benötigt wird. Generell bedeutet das, dass für eine Verschlüsselung von 
+  
+    
+      B
+      
+        i
+      
+    
+    B_
+  
+ der Chiffratblock 
+  
+    
+      C
+      
+        i
+         
+        1
+      
+    
+    C_
+  
+ benötigt wird. Eine Parallelisierung des Verschlüsselungsvorgangs fällt damit aus.
+Block 1:
+Block 2:
+Klartext:
+Betrachtet man die Entschlüsselung von 
+  
+    
+      C
+      
+        2
+      
+    
+    C_
+  
+, sieht man, dass 
+  
+    
+      B
+      
+        1
+      
+    
+    B_
+  
+ dafür nicht benötigt wird, sondern lediglich 
+  
+    
+      C
+      
+        1
+      
+    
+    C_
+  
+. Generell bedeutet das, dass für eine Entschlüsselung von 
+  
+    
+      C
+      
+        i
+      
+    
+    C_
+  
+ nur 
+  
+    
+      C
+      
+        i
+         
+        1
+      
+    
+    C_
+  
+ benötigt wird. Damit ist eine Parallelisierung des Entschlüsselungsvorgangs möglich.
+CBC kann auch zur Integritätssicherung benutzt werden, indem der Initialisierungsvektor auf null gesetzt und der letzte mit CBC verschlüsselte Block als MAC  an die ursprüngliche unverschlüsselte Nachricht angehängt und diese samt diesem MAC versandt wird. 3  Der Empfänger kann mithilfe des CBC-Algorithmus den CBC-MAC der empfangenen Nachricht berechnen und nun vergleichen, ob der gerade selbst berechnete Wert mit dem an der Nachricht angehängten übereinstimmt. Falls eine mit CBC verschlüsselte Nachricht mit einem CBC-MAC gesichert werden soll, darf für die Generierung des CBC-MAC nicht derselbe Schlüssel verwendet werden wie für die Verschlüsselung. Würde derselbe Schlüssel verwendet, so wäre der MAC-Block gleich dem letzten Chiffratblock und ein Angreifer könnte unentdeckt die gesamte Nachricht mit Ausnahme des letzten Blocks verändern.
+CBC-MAC ist nur für Nachrichten fester Länge sicher. Variiert die Nachrichtenlänge, kann das Verfahren durch Length-Extension angegriffen werden. Ein Angreifer kann aus zwei gültigen Nachricht-MAC-Paaren einen gültigen MAC für eine neue Nachricht  erzeugen. Zwei Modifikationen können diesen Angriff verhindern: Jeder Nachricht kann die Nachrichtenlänge vorangestellt werden oder der MAC-Block wird zusätzlich mit einem zweiten Schlüssel verschlüsselt.
+Ohne Authentifizierung:
+ECB  
+CBC  
+CFB  
+OFB  
+CTR
+Mit Authentifizierung:
+CCM  
+GCM  
+EAX

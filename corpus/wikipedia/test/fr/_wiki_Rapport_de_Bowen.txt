@@ -1,0 +1,73 @@
+Cet article est une ébauche concernant la physique et la météorologie ou la climatologie.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+Le rapport de Bowen est le ratio des flux d'énergies entre deux milieux humides sous forme de chaleur sensible et latente. Il est notamment utilisé pour caractériser les échanges dans la couche limite atmosphérique entre les surfaces continentales ou océaniques et l'atmosphère.
+Cette quantité fut intitulée de la sorte par Harald Sverdrup en hommage à Ira Sprague Bowen , un astrophysicien qui y a eu recours dans ses travaux précurseurs sur l'évaporation vers l'atmosphère d'étendues liquides. Il est essentiellement utilisé dans les disciplines de météorologie et d'hydrologie. 
+Le rapport de Bowen s'exprime par :
+où 
+  
+    
+      
+        
+          Q
+          
+            h
+          
+        
+      
+    
+    }
+  
+ représente le flux de chaleur sensible et 
+  
+    
+      
+        
+          Q
+          
+            e
+          
+        
+      
+    
+    }
+  
+ le flux de chaleur latente.
+Comme 
+  
+    
+      
+        B
+      
+    
+    
+  
+ tend vers l'infini lorsque 
+  
+    
+      
+        
+          
+            Q
+            
+              e
+            
+          
+           
+          0
+        
+      
+    
+    \rightarrow 0}}
+  
+, son usage est peu pratique lorsqu'on s'intéresse aux milieux arides. Pour cette raison, l'emploi de la fraction évaporative se révèle parfois plus adapté pour représenter les contributions relatives des différents flux turbulents à la surface.
+Le rapport de Bowen est relié à la fraction évaporative 
+  
+    
+      
+        E
+        F
+      
+    
+    
+  
+ par l'équation :

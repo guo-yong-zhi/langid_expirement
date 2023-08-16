@@ -1,0 +1,24 @@
+Energielinie ist im Ingenieurwesen, insbesondere im Wasserbau, der Verlauf der Summe aus potentieller und kinetischer Energie entlang eines Fließgewässers oder einer Rohrleitung. Die Ermittlung erfolgt auf Basis der Bernoulli'schen Energiegleichung, indem die Energieanteile in äquivalente Höhen umgerechnet werden.
+Speziell im Fall von Fließgewässern ergibt sich die Energielinie als Summe aus der Höhe Wasserspiegel und der Geschwindigkeitshöhe 
+  
+    
+      
+        
+          
+            
+              v
+              
+                2
+              
+            
+            
+              2
+              g
+            
+          
+        
+      
+    
+    }
+  
+.

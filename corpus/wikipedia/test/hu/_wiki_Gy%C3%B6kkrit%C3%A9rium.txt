@@ -1,0 +1,112 @@
+Pontosságellenőrzött
+A Cauchy-kritérium megadja a numerikus sor konvergenciájának pontos feltételét, azonban a gyakorlatban ritkán használható, mert nehéz ellenőrizni. Ezért szükség van egyszerűbben ellenőrizhető kritériumokra is.
+Gyökkritérium: Ha van olyan 0<q < 1 szám, amelyre 
+  
+    
+      
+        
+          
+            
+              
+                |
+              
+              
+                a
+                
+                  n
+                
+              
+              
+                |
+              
+            
+            
+              n
+            
+          
+        
+        <
+        q
+      
+    
+    |}}<q}
+  
+ teljesül minden elég nagy n esetén, akkor a 
+  
+    
+      
+        
+           
+          
+            n
+            =
+            1
+          
+          
+             
+          
+        
+        
+          a
+          
+            n
+          
+        
+      
+    
+    ^}
+  
+ sor abszolút konvergens, vagyis konvergens is, hiszen az abszolút konvergenciából következik a konvergencia.
+Bizonyítás: A feltétel szerint 
+  
+    
+      
+        
+          |
+        
+        
+          a
+          
+            n
+          
+        
+        
+          |
+        
+        <
+        
+          q
+          
+            n
+          
+        
+      
+    
+    |<q^
+  
+ minden elég nagy n-re. Mivel a 
+  
+    
+      
+        
+           
+          
+            n
+            =
+            1
+          
+          
+             
+          
+        
+        
+          q
+          
+            n
+          
+        
+      
+    
+    ^{\infty }q^
+  
+ sor konvergens, ha 0<q < 1, így alkalmazható a majoráns kritérium és épp a bizonyítandó állítást kapjuk.
