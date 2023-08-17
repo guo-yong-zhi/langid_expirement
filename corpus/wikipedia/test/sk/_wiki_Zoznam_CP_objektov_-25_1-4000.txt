@@ -1,0 +1,1 @@
+Toto je zoznam CP objektov pre zónu deklinácie -25.

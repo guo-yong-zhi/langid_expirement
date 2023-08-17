@@ -1,0 +1,243 @@
+Trong khoa học máy tính và lý thuyết đồ thị, thuật toán Karger là một thuật toán Monte Carlo để tìm lát cắt nhỏ nhất của một đồ thị vô hướng. Bài toán lát cắt nhỏ nhất yêu cầu tìm cách chia đồ thị làm hai phần sao cho số cạnh nối các đỉnh ở hai phần khác nhau là nhỏ nhất. Thuật toán được tìm ra bởi David Karger.
+Ý tưởng chính của thuật toán là sử dụng phép hợp nhất hai đầu của một cạnh 
+  
+    
+      
+        e
+      
+    
+    
+  
+ trong đồ thị 
+  
+    
+      
+        G
+        =
+        
+      
+    
+    
+  
+. Sau mỗi lần hợp nhất, số đỉnh của đồ thị giảm đi 1. Thuật toán sử dụng một chuỗi các phép hợp nhất các cạnh ngẫu nhiên của đồ thị. Xác suất chọn mỗi cạnh tỉ lệ với trọng số của nó. Thuật toán này là một thuật toán đệ quy. Trong mỗi tầng đệ quy, thuật toán hoạt động như sau. Thử hai lần độc lập nhau việc lặp đi lặp lại phép hợp nhất để giảm số đỉnh của 
+  
+    
+      
+        G
+      
+    
+    
+  
+ xuống 
+  
+    
+      
+        
+           
+          
+            n
+            
+              /
+            
+            
+              
+                2
+              
+            
+            +
+            1
+          
+           
+        
+      
+    
+    }+1\right\rceil }
+  
+ và gọi đệ quy để tính lát cắt nhỏ nhất trong đồ thị thu được. Sau đó, chọn kết quả tốt hơn trong hai lần gọi đệ quy và trả về giá trị đó.
+Trong mỗi lần thực hiện, phép toán này hợp nhất hai đỉnh x và y của một cung e thành một đỉnh mới 
+  
+    
+      
+        
+          v
+          
+            e
+          
+        
+      
+    
+    }
+  
+ kề với tất cả các đỉnh kề của x và y. Định nghĩa cụ thể là như sau.
+Cho một đồ thị 
+  
+    
+      
+        G
+        =
+        
+          
+        
+      
+    
+    {\displaystyle G=\left}
+  
+ và 
+  
+    
+      
+        e
+        =
+        {
+        x
+        ,
+        y
+        }
+         
+        E
+      
+    
+    {\displaystyle e=\lbrace x,y\rbrace \in E}
+  
+, kết quả phép hợp nhất hai đỉnh kề với cạnh 
+  
+    
+      
+        e
+      
+    
+    {\displaystyle e}
+  
+ 
+        
+      
+    
+    {\displaystyle G/e=\left là một đa đồ thị định nghĩa như sau:
+và:
+Có thể chứng minh phép toán này không làm giảm nhưng có thể làm tăng giá trị lát cắt nhỏ nhất.
+Thuật toán Karger là thuật toán ngẫu nhiên nhanh nhất hiện nay cho việc tìm lát cắt nhỏ nhất, với thời gian chạy O. Để chứng minh điều này, tác giả chỉ ra cách thực hiện chuỗi các phép hợp nhất để giảm kích thước 
+  
+    
+      
+        G
+      
+    
+    
+  
+ xuống 
+  
+    
+      
+        
+           
+          
+            n
+            
+              /
+            
+            
+              
+                2
+              
+            
+            +
+            1
+          
+           
+        
+      
+    
+    }+1\right\rceil }
+  
+ đỉnh trong thời gian 
+  
+    
+      
+        O
+        
+      
+    
+    
+  
+. Do đó thời gian chạy của thuật toán là 
+  
+    
+      
+        T
+        
+        =
+        2
+        
+          
+            
+          
+          )
+        
+      
+    
+    
+  
+. Phương trình này cho kết quả 
+  
+    
+      
+        T
+        
+        =
+        O
+        (
+        
+          n
+          
+            2
+          
+        
+        l
+        o
+        g
+        
+        )
+      
+    
+    log)}
+  
+. Sau mỗi lần thực hiện thuật toán, xác suất tìm ra lát cắt nhỏ nhất là 
+  
+    
+      
+         
+        (
+        1
+        
+          /
+        
+        l
+        o
+        g
+        
+        )
+      
+    
+    
+  
+. Nếu thực hiện thuật toán 
+  
+    
+      
+        O
+        (
+        l
+        o
+        
+          g
+          
+            2
+          
+        
+        
+        )
+      
+    
+    )}
+  
+ lần thì xác suất không tìm ra lát cắt nhỏ nhất giảm xuống O.

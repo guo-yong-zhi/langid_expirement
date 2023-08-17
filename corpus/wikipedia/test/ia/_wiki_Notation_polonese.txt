@@ -1,0 +1,28 @@
+ 
+Le notation polonese, etiam cognoscite como notation prefixate, es un forma de notation pro logica, arithmetica, e algebra. Su tracto distinguite es que illo placia operatores a leve de lor operandos. Si le numero de operandos del operatores es fixe, le resultato es un syntaxe deprivate de parentheses, le qual pote ancora esser parsate sin ambiguitate. Le logico polonese Jan Łukasiewicz inventava iste notation circa 1920 a fin que simplificar logica de sententias.
+Hic es un citation ab Nicod's Axiom and Generalizing Deduction, pagina 180.Io incontrava le idea de un notation libere de parentheses in 1924. Io usava iste notation le prime vice in mi articulo Łukasiewicz, p. 610, footnote.
+Le referentia citate per Jan Łukasiewicz super es apparentemente un lithographiate reporto in polonese.
+Alonzo Church mentiona iste notation in su libro classic super logica mathematic como relevante in systemas de notation mesmo contrastate a exposition logic de notation de Whitehead e Russell e obra in Principia Mathematica. 1 
+Ben que jam non usate multo in logica, notation polonese ha deinde trovate un loco in informatica.
+Le expression pro addition le numeros un e duo es, in notation prefixate, scribite "+ 1 2" plustosto que "1 + 2". In plus complexe expressiones, le operatores ancora precede lor operandos, sed le operandos pote mesme esser expressiones nonbanal includente operatores de illos. Per exemplo, le expression le qual esserea scribite in conventional notation infixate como
+pote esser scribite in prefixo como 
+o simplemente
+Proque le simple operatores arithmetic es tote binari , qualcunque representation prefixate pertinente a isto es inambigue, e uso de parentheses in le expression prefixate non es necessari. In le exemplo precedente, le parentheses in le version infixate esseva requirite, proque mover los
+o simplemente remover los
+cambiarea le acception e resultato del general expression. Ma nonobstante, le version prefixate correspondente de iste secunde calculation esserea scribite
+Le processo del subtraction es deferite usque ambe operandos del subtraction ha essite legite . Como con qualcunque notation, le expressiones le profundissime es evalutate in prime, sed in notation prefixate iste "profundissimitate" pote esser transmittite per ordine plustosto que uso de parentheses.
+Notation prefixate de simple arithmetica es in bon parte de interesse academic. Al contrario al postfixate simile notation polonese invertite, notation prefixate ha essite usate in alcun  calculatores facite commercialmente. Ma nonobstante, arithmetica notate con prefixo es frequentemente usate como un prime passo conceptual in le inseniamento de construction de compilator.
+Notation prefixate ha vidite ample application in Lisp s-expressiones, ubi le parentheses es requirite a causa del operatores arithmetic habiente variabile numero de operandos. Le lingua de programmation Ambi usa notation polonese pro operationes arithmetic e pro construction de programmas. Le notation polonese invertite postfixate es usate in plure linguas de programmation basate super pila como PostScript, e es le principio operational de certe calculatores, in particular ab Hewlett-Packard.
+Nonobstante evidente, il es importante a notar que le numero de operandos in un expression debe equalar le numero de operatores plus un, alteremente le expression face no senso . Isto pote esser facile a perder quando on tracta se de expressiones plus longe e plus complicate con plure operatores, dunque on debe respice super duple controlo que un expression face senso quando on usa notation prefixate.
+Ordine de operationes es definite in le quadro del structura de notation prefixate e pote esser facilemente determinate. Un cosa a prestar su attention es que quando on executa un operation, le operation es applicate AL prime operando PER le secunde operando. Isto non es un problema con operationes que commuta, sed pro non-commutative operationes como division o subtraction, iste facto es decisive al analyse de un expression. Per exemplo, le expression sequente:
+ / 10 5 = 2 
+  − × / 15 − 7  + 1 1  3 + 2 + 1 1 =
+ − × / 15  − 7   2    3 + 2 + 1 1 =
+ − ×  / 15     5      3 + 2 + 1 1 =
+ −  ×        3       3  + 2 + 1 1 =
+ −          9         + 2  + 1 1  =
+ −          9          + 2   2    =
+  −          9         4          =
+                 5 
+</prLe tabula hic in basso monstra le substantia de notation de Jan Łukasiewicz pro logica de sententias. Le notation "conventional" non deveniva assi usque le annos 1970 e 1980 Alcun litteras in le tabula de notation polonese significa un certe vocabulo in polonese, como monstrate: 
+Nota que le quantificatores continuava ultra valores propositional in obra de Łukasiewicz super logicas multivalutate.

@@ -1,0 +1,3 @@
+En geometrio, interseko esas la punto o punti komuna a du o plura linei, o la loko komuna a du o plura kurvi o plani, o la punti komuna ad ula lineo ed ula geometriala formo.
+Segun la terminaro di analitikala geometrio, se du linei havas equacioni y=f e y=g, ube f e g esas funcioni di x, la interseko-punti esas la valori di x ube f=g. Ca valori di x nomesas anke la radiki dil equaciono f=g.
+Se la equaciono havas ne-unika radiki, la kurvi es tangenta ye la punti definita dal egala radiki.

@@ -1,0 +1,3 @@
+Ecce index asteroidum qui numeri ex 77001 ad 78000 habent.
+Vide omnes indices asteroidum in Index Asteroidum.
+77001... 77101... 77201... 77301... 77401... 77501... 77601... 77701... 77801... 77901... 

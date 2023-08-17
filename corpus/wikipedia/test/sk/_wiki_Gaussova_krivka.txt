@@ -1,0 +1,56 @@
+Gaußova alebo Gaussova krivka veľmi úzko súvisí s pojmom normálne  rozdelenie pravdepodobnosti. Charakterizuje rozloženie výsledkov meraní vzhľadom na referenčnú hodnotu.Je funkciou len dvoch premenných: priemeru a štandardnej odchýlky.
+  
+    
+      
+        g
+        
+        =
+        
+          
+            1
+            
+               
+              
+                
+                  2
+                   
+                
+              
+            
+          
+        
+        
+          e
+          
+            
+              
+                 
+                
+                
+                  )
+                  
+                    2
+                  
+                
+              
+              
+                2
+                
+                  
+                     
+                  
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    }e^}}
+  
+Vo všetkých vedných disciplínach s podporou matematiky dokážeme pomocou Gaussových predpokladov filtrovať alebo analyzovať výsledky meraní a výskumov.
+Ukazuje sa, že pri dodržaní vyššie uvedených predpokladov každý náhodný dej vykazuje svoje správanie podľa Gaussovho rozdelenia.
+Príklady:

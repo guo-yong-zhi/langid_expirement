@@ -1,0 +1,4 @@
+Komputiko > Interreto > Alŝuto
+Per alŝuto  oni celas la transigon de datumoj  de loka komputilo al fora komputilo per komputila reto. Male elŝuto estas la transpreno de foraj datumoj al loka komputilo.
+La prepozicioj "en/al" resp. "el/de" rilatas al la fora komputilo.
+Alŝuto ofte uzas la protokolon FTP aŭ SFTP.

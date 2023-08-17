@@ -1,0 +1,75 @@
+Plastická trhavina je výbušná zmes – trhaviny rôzneho určenia, ktorú je možné tvarovať rukou do požadovaného tvaru bez zmeny ich súdržnosti a výbušných vlastností 1 . Využívajú sa vo vojenstve na deštrukčné práce a plnenie niektorých druhov munície i v priemysle, pri dobývaní nerastov, deštrukčných prácach, zváraní výbuchom a mnohých iných činnostiach. Vždy obsahujú najmenej dve zložky – vlastnú výbušninu a plastifikujúcu zložku, ktorá tiež môže byť výbušná. 
+Nitroglycerínové plastické trhaviny obsahujú ako hlavnú plastifikačnú zložku trhaciu želatínu. Trhacia želatína je rôsolovitá až želatínová hmota pripravená rozpustením 7 – 10% nízko nitrovanej nitrocelulózy  v 90 – 93% nitroglycerínu. Pretože nitroglycerín má pomerne nevýhodný bod tuhnutia +13°C, stáva sa, že takáto trhavina môže pri nižších teplotách zmrznúť, pridáva sa k nitroglycerínu dinitroglykol. Vznikajú tak nemrznúce plastické trhaviny. 
+Trhacia želatína je najvýkonnejšou bežne používanou priemyselnou trhavinou s veľkým pracovným výkonom a vysokou detonačnou rýchlosťou . Často sa používa ako porovnávací štandard pre hodnotenie výkonu ostatných výbušnín . 
+Niektoré ďalšie druhy plastických výbušnín na báze trhacej želatíny sa pripravujú pridaním ďalších zložiek, ako dusičnan amónny, draselný a sodný, rôzne nitrolátky a farbivá k trhacej želatíne. Vzniká cestovitá hmota, viac alebo menej plastická, čo závisí na obsahu trhacej želatíny. Všetky nitroglycerínové plastické trhaviny obsahujú najmenej 15% trhacej želatíny a všeobecne sa označujú ako Dynamity. 
+Podľa obsahu nitroglycerínu sa dynamity jednoducho rozdeľujú na 30%né, 40%né, 60%né atď. Čím vyšší je obsah želatíny, tým je obvykle i trhavina účinnejšia a má vyššiu brizanciu. Pri menšom obsahu želatíny je zmes iba poloplastická. 
+Nitroglycerín a nitroglykol do značnej miery určujú vlastnosti týchto výbušnín. Zapálené na voľnom priestranstve zhoria, vo väčšom množstve môže horenie prejsť v detonáciu a v uzavretom priestore dochádza po krátkom horení k detonácii. U týchto trhavín sa vyskytuje tzv. metastabilná detonácia . Pri iniciácii obyčajnou rozbuškou detonujú malou rýchlosťou cca 3 000 m/s. Táto vlastnosť nie je závislá na obsahu nitroglycerínu, i samotná trhacia želatína môže takto detonovať rýchlosťou len 4 000 m/s. Až použitím iniciačného telieska  dôjde k rozvinutiu maximálnej detonačnej rýchlosti. 
+Dynamit 00  – 92% nitroglycerín, 8% nitrocelulóza  
+Dynamit Gomme BAM  – 60% nitroglycerín, 3% nitrocelulóza, 6% drevnej múčky, 31% dusičnan amónny  
+Nobelite – 60% dusičnan sodný, 22% rôzne nitroestery, 14% dinitrotoluen, 4% drevnej múčky 
+Donarit želatínový 1 – 55% dusičnan amónny, 22% nitroglykol, 10% dusičnan sodný, 6% dinitrotoluén, 5% tritol, 1% drevná múčka, 1 % NC2   
+Dynamit 1  – 63% nitroglycerín, 28% dusičnan draselný, 3.5% NC2, 5.5% drevná múčka  
+Dynamit 2  – 47% nitroglycerín, 40% dusičnan sodný, 10% rastlinná múčka, 1.5% NC2 , 0.5% uhličitan sodný, 1% farbivo  
+Akrylový dynamit  – 73.5% dusičnan amónny, 15% nitroglycerín, 9% tritol, 0.5 % polymetylmetakrylát, 2% drevná múčka  
+Prevažnou súčasťou vojenských plastických trhavín sú brizantné výbušniny v jemnom práškovitom stave. Používajú sa predovšetkým výkonné výbušniny typu  pentrit, hexogén a oktogén. Ako plastifikátor sa používajú organické flegmatizátory, ktoré zaisťujú plasticitu a znižujú citlivosť. Ako plastifikátor sa môže v najjednoduchších prípadoch použiť vazelína alebo rôzne viskózne oleje . Takéto jednoduché zmesi sú však pri nižšej teplote pod 10°C málo plastické a pri vyššej teplote nad 40°C sa zasa roztekajú a neudržia si tvar. 
+Lepšie vlastnosti majú kaučuk, polybutadiénové polyméry, rôzne organické polymérne plastifikátory a tiež zmesi olejov a voskov. Na podobnej báze je založený napríklad svetoznámy český Semtex a americká C-4. Uvádzané plastifikátory majú síce dobré plastifikačné vlastnosti pri nízkej i pri zvýšenej teplote, ale nezúčastňujú sa priamo výbušnej premeny a teda znižujú relatívnu účinnosť trhaviny. Za týmto účelom boli vyvinuté výbušné plastifikátory.
+Najprv išlo o gél zo zmesi kvapalného nitrotoluénu alebo dinitrotoluénu s nitrocelulózou 
+. Neskôr sa začali používať výbušné nitroestery želatinizované nitrocelulózou. Ako nitroester sa používa najviac trimetylolpropántrinitrát , menej dinitrotoluén a kvapalné trinitrotoluény, trietylénglykoltrinitrát. Brizantnou zlúčeninou je obvykle hexogén, oktogén alebo ich zmes, menej často pentrit alebo iné moderné brizantné trhaviny. Takéto trhaviny sa často označujú ako PBX  a PBXN  a číslom označujúcim buď poradie testu alebo obsah hexogénu a oktogénu. 
+Niektoré PBX a PBXN výbušniny sú najúčinnejšie plastické trhaviny a sú používané pre zostavenie kumulatívnych náloží a ako náplň hlavíc riadených striel.
+Americké zmesi C : 
+C-1 – 88,3% RDX, 11,3% viskózny minerálny olej, 0,6% stabilizátor  
+C-2 – 80% RDX, 5% mononitrotoluén , 5% dinitrotoluén, 5% kolódiová bavlna , 5% dimetylformamid 
+C-3 77% RDX, 16% mononitrotoluén , 5% dinitrotoluén, 1% tetryl, 1% kolódiová bavlna  
+C-4 – 91% RDX, 5,3% bis  sebakát, 2,1% polyizobutylén,
+1,6% viskózny motorový olej 
+semtexy: 
+Semtex H – 40,1% RDX, 38,9% pentrit, 10,2% styrén-butadiénový kaučuk, 9,1% plastifikátor , 1% antioxidant , 0,7% farbivo  
+Semtex A – 73,1% pentrit, 4,5% RDX, 10,24% styrén-butadiénový kaučuk, 10,16% plastifikátor , 1,1% antioxidant , 0,9% farbivo  
+Novšie americké plastické trhaviny s označením PBX a PBXN 
+Mnohé z nižšie uvedených PBX a PBXN trhavín sa nedajú tvarovať rukou, stále však majú iné výhodné vlastnosti plastických trhavín – malú pórovitosť, sú pevné a pritom pružné, nepraskajú pri namáhaní, dajú sa presne spracovávať lisovaním do foriem i muničných dielov, často i mechanicky obrábať, sú málo citlivé na mechanický impulz a podobne. 
+EDC-37 – 91% HMX/NC, 	9% polyuretánová guma	
+LX-04-1 – 85% HMX,  	15% Viton-A 	
+LX-07-2 – 90% HMX,  	10% Viton-A 	
+LX-09-0 – 93% HMX,  	4,6% BDNPA 2,4% FEFO 	
+LX-09-1 – 93.3% HMX, 	4,4% BDNPA 2,3% FEFO 	
+LX-10-0 – 95% HMX, 	5% Viton-A  	
+LX-10-1 – 94.5% HMX, 	5,5% Viton-A 	
+LX-11-0 – 80% HMX, 	20% Viton-A 	
+LX-14-0 – 95.5% HMX, 	4,5% Estane a 5702-Fl 	
+LX-15 – 95% HNIS, 	5% Kel-F 800  	
+LX-16 – 96% PETN, 	6% FPC461 	
+LX-17-0 – 92.5% TATB, 	7,5% Kel-F 800 
+LX-19 – 95.8% CL-20,      4.2% Estane 	
+PBX 9007 – 90% RDX, 	9,1% Polystyrén 0,5% DOP  0,4% kalafuna 
+PBX 9010 – 90% RDX, 	10% Kel-F 3700 	
+PBX 9011 – 90% HMX, 	10% Estane a 5703-Fl 	
+PBX 9205 – 92% RDX, 	6% Polystyrén, 2% DOP 	
+PBX 9404 – 94% HMX, 	3% NC, 3% tris- fosfát??? 
+PBX 9407 – 94% RDX, 	6% FPC461 	
+PBX 9501 – 95% HMX, 	2,5% Estane  2,5% BDNPA-F 
+PBX 9502 – 95% TATB, 	5% Kel-F 800 
+PBX 9503 – 80% TATB, 15% HMX, 	5% Kel-F 800  	
+PBX 9604 – 96% RDX, 	4% Kel-F 800  
+PBX-87 – 50% RDX, 41,8% trimetyloletántrinitrát, 4% NC2, 4% trietylénglykoldinitrát, 0,2% stabilizátor . 
+PBXN-109 – 64% RDX, 20% práškový Al, 16% plastifikátor  
+PBXN-110 – 88% HMX, 12% polybutadién 
+PBXN-112 – 70% HMX, 19.2% 1,2,4-butántrioltrinitrát, 9.6% NC2, 1.2% triacetín 	
+PBXN-106 – RDX, 	polyuretánová guma
+PBXN-3 – 85% RDX, 	Nylon 
+PBXN-5 – 95% HMX, 	5% fluóroelastomér 
+X-0242 – 92% HMX, 	8% polymér 	
+TATB = triaminotrinitrobenzén  
+HNIS = hexanitrostilbén  
+DOP = dioktyl ftalát??? 
+BDNPA = Bis  acetál??? 
+BDNPF = Bis  formál??? 
+Najsilnejšie z uvedených sú pochopiteľne PBX a PBXN obsahujúce väčší podiel oktogenu alebo HNIS. Ich účinnosť  je omnoho vyššia než u bežnej C-4 alebo semtexu, napr. PBX-9404 má detonačnú rýchlosť 8 800 m/s pri hustote 1,844 g/cm3, zatiaľ čo C-4, „len“ 7 950 m/s a Semtex H, „iba“ 7 480 m/s, PBXN-110 má detonačnú rýchlosť 8 400 m/s.
+Niektoré sovietske a ruské plastické trhaviny
+ПВВ-5А  – 85% RDX, 5% polyizobutylén, 10% minerálny olej	
+ПВВ-7  – 71,5% RDX, 17% práškový hliník,	11,5% polyizobutylén 	
+Гексопласт ГП-87К  – 82,5% RDX, butylénový kaučuk
+V predchádzajúcom texte sme uviedli len zástupcov najznámejších a najúčinnejších plastických výbušnín. Okrem toho existuje obrovské množstvo iných plastických výbušnín, ktorých vymenovanie je takmer nekonečné a zloženie rozmanité. Sú to napr. 
+trhaviny plastifikované vodou – plastifikátorom je voda, výbušninou je zmes dusičnanov s tritolom, nitroguanidínom, nitroderivátmi alifatických alkoholov, aromatickými nitrozlúčeninami atď. Používajú sa predovšetkým v ťažobnom priemysle pri dobývaní nerastov a hornín.
+trhaviny plastifikované nitroglykolmi zmesi BTTN, TMEN, TEGD, DEGN s NC2 a dusičnanmi, chloristanmi, nitramínmi- RDX, HMX atď. Opäť najväčšie uplatnenie majú v ťažobnom priemysle.
+trhaviny s inertným plastifikátorom – plastifikátorom sú neúčinné oleje, vazelíny, organické polyméry, výbušnou zložkou sú akékoľvek polynitroaromatické a polynitroalifatické výbušniny, môžu to byť tiež len chlorečnany, chloristany a ich zmesi s práškovými kovmi. 
+trhaviny s plastifikátorom z nitrometánu a nízko nitrovaných aromátov – nitrometánové Kinepacky, kompozície obsahujúce mononitrotoluén ap.

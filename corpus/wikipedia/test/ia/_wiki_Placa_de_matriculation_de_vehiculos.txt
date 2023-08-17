@@ -1,0 +1,3 @@
+Un placa de matriculation  1  es un placa pro vehiculos con un combination de numeros e litteras pro poter identificar le proprietario de ille vehiculo.
+In Austria, le prime un o duo litteras significa le urbe, le districto o un altere institution
+In Germania, le prime un, duo o tres litteras significa le districto o le citate-districto o un altere institution como policia, doana o Bundeswehr.

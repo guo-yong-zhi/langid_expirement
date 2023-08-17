@@ -1,0 +1,5 @@
+True Audio o TTA ay isang libre at simpleng real-time lossless audio encoder/decoder, base sa adaptive prognostic filters na nagpakita ng halos parehas o mas higit na magandang resulta kumpara sa ibang modernong analog.
+Ginagampanan ng TTA ang lossless na compression sa multichannel 8, 16 at 24 bit na data ng mga Wav audio file. Nangangahulugan ang pagiging "lossless" na walang nawawala na datos o kalidad sa pag-compress - kapag di compressed, magiging kahintulad sa orihinal ang datos. Depende ang mga ratio ng compression ng TTA sa uri ng file na musika na pinapaliit, ngunit sa pangkalahatan nasa pagitan 30% - 70% ang laki ng compression sa orihinal. Sinusuporta ng TTA format ang parehong ID3v1 at ID3v2 na mga information tag.
+Gamit ang True Audio codec, maaaring makapag-store ng 20 audio CD mula sa iyong koleksiyon ng musika sa isang DVD-R para mapakinggang muli nang nandoon pa rin ang lahat ng impormasyon patungkol sa kanta sa popular na ID3 na tag.
+Ang proyektong TTA ay nagbibigay ng:
+TTA

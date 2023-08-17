@@ -1,0 +1,4 @@
+La astrometrio  estas la geometria parto de astronomio kaj estas rigardata kiel necesa fundamento de astrofiziko. Ĝi inkluzivas la mezuradon kaj komputadon de astraj pozicioj kaj iliaj movadoj kaj distancoj. Ĝis la granda kreskado de astrofiziko post la invento de spektroskopio je ĉirkaŭ 1850, la astrometrio kaj la sfera geometrio ludis plej ĉefan parton en la astronomio.
+Ĉiuj branchoj de astronomio uzadas astrometriajn rezultojn, speciale post la lanĉoj de la astrometriaj satelitoj Hipparcos kaj Gaia en respektive 1989 kaj 2013 1  2 . Gaia jam donis precizajn astrometriajn rezultojn por du mil milionoj da steloj 3 .
+Laŭ Chr. de Vegt, la astrometrio estas la scienco de la geometria konstruo de la universo  aŭ la mezurado de la ĉielo. Plue ĝi donas koordinatan bazon por la geodezio.
+Taskoj en la nuntaga astrometrio estas tiaj:

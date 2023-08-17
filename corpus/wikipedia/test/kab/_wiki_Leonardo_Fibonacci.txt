@@ -1,0 +1,4 @@
+D amussnak  aṭelyani, Leonardo Fibonacci, neɣ Leonardo Pisano , ilul di temdint n Pisa tamdint n tnezzut . Mi yewweḍ 20 n yiseggasen di ticett-is iḍfer baba-s ɣer tafriqt ugafa  din i yeɣra anagraw n usmiden ihendiyen d usmiden inselmanen. Mi d-yuɣal ɣer Turuft , deg useggas 1202, yessuffeɣ-d adlis Liber abaci, deg-s i d-immal asmiden anselman d wulac .
+Fibonacci yura ɣef tiẓri n yemḍanen d tnezzeggit , yettwassen daɣen s umazrar  n "tlalit n iwtal":
+U1=0 ; U2=0 ; Un=Un-1 + Un-2 n>2 .
+Amazrar-agi isnulfa t-id asmi is d-sutren kra n imɣiden ɣef tnerni n iwtal-nsen. Ran ad walin acḥal n iwtal ar a d-yeǧ myal awtul illan ɣur-sen. Dɣa netta, imi i issen i tusnakt tikli issal-id amazrar yeṭfen ism-is ar ass-a : amazrar n Fibonacci.

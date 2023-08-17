@@ -1,0 +1,2 @@
+Dennis MacAlistair Ritchie  var tölvunarfræðingur með háskólagráður í eðlisfræði og stærðfræði, sem átti mikinn þátt í þróun ýmissa hugbúnaðarkerfa, forritunarmála og stýrikerfa.
+Meðal þeirra verkefna sem hann vann að voru ALTRAN, forritunarmálið B, BCPL, forritunarmálið C, Multics, og Unix.

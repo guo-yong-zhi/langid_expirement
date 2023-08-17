@@ -1,0 +1,1 @@
+Gluggi er í tölvum kassalaga svæði sem inniheldur einhvert viðmót sem sýnir notandanum upplýsingar og leyfir notandanum að koma með ílagsgögn fyrir einhver forrit.

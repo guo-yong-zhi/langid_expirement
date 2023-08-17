@@ -1,0 +1,2 @@
+De nafolgend Tabell is en Deel vun de List vun de Asteroiden. De Ziffern bi’n Naam geevt de Folg vun jemehr endgelltig Katalogiseeren an. Se deent togliek as Nummern to’n Identifizeeren un sünd Bestanddeel vun’n Naam vun elk Asteroid.
+501-600   601-700   701-800   801-900   901-1000

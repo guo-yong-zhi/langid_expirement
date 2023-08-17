@@ -1,0 +1,166 @@
+Bangos vektorius – vektorius, parodantis vieno dažnio bangos sklidimo kryptį. Bangos, sudarytos iš daugelio dažnių dedamųjų, bangos vektorius parodo bangos fronto sklidimo kryptį ir yra statmenas bangos frontui kiekviename jo taške. Šio vektoriaus ilgis yra lygus bangos skaičiui , o kryptis sutampa su fazinio greičio kryptimi.
+Bangos vektoriaus sąvoka yra naudinga aprašyti viena kryptimi keliaujančias bangas - kol visos bangos sklinda viena kryptimi, jos yra aprašomos vienu bangos vektoriumi. Pavyzdžiui, vienodo dažnio 
+  
+    
+      
+         
+      
+    
+    
+  
+ plokščios bangos sklisdamos viena kryptimi yra aprašomos bangos vektoriumi 
+  
+    
+      
+        
+          
+            
+              k
+               
+            
+          
+        
+      
+    
+    }}
+  
+, nors jų amplitudės ir fazės gali būti skirtingos:
+kur 
+  
+    
+      
+        
+          A
+          
+            n
+          
+        
+      
+    
+    }
+  
+ yra n-tos plokščios bangos amplitudė, 
+  
+    
+      
+        
+           
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \varphi _
+  
+ yra n-tos plokščios bangos fazė,
+Bangos vektorius gali būti išreikštas per bangos ilgį:
+fazinį greitį 
+  
+    
+      
+        
+          v
+          
+            f
+          
+        
+        =
+        
+          
+            c
+            n
+          
+        
+      
+    
+    =}}
+  
+ :
+Bangų paketas, sudarytas iš beveik monochromatinės šviesos gali būti apibūdintas bangos vektoriumi
+kuris, užrašytas per jo kovariantines ir kontravariantines dedamasias yra
+Bangos vektoriaus dydis tuomet
+Paskutinis veiksmas buvo atliktas pasitelkus žinomą išraišką:
+Bangos vektoriaus Lorenco transformaciją įgalina gauti reliatyvistinio Doplerio efekto išraišką. Matricinis Lorenco transformacijos pavidalas yra
+Tuomet, kada šviesa yra išspinduliuojama iš greitai judančio šaltinio ir norima sužinoti šviesos, detektuojamos Žemės laboratorijoje, dažnį, yra būtina atlikti bangos vektoriaus Lorenco transformaciją. Pažymėtina, kad šaltinio koordinačių sistema yra Ss, o Žemėje esančių stebėtojų Sz.
+Taikydami Lorenco transformaciją bangos vektoriui gauname
+bei susidomėję 
+  
+    
+      
+         
+        =
+        0
+      
+    
+    
+  
+ dedamąja  gauname šią išraišką
+kur 
+  
+    
+      
+        cos
+         
+         
+        
+      
+    
+    
+  
+ yra išraiškos 
+  
+    
+      
+        
+          k
+          
+            1
+          
+        
+      
+    
+    }
+  
+ krypties kosinusas dydžio 
+  
+    
+      
+        
+          k
+          
+            0
+          
+        
+      
+    
+    }
+  
+ atžvilgiu, 
+  
+    
+      
+        
+          k
+          
+            1
+          
+        
+        =
+        
+          k
+          
+            0
+          
+        
+        cos
+         
+         
+        .
+      
+    
+    =k^
+  
+Tuo būdu,
+Pavyzdžiui, pritaikę tai situacijai, kuomet šaltinis juda tiese tolyn nuo stebėtojo , gauname:
+Pavyzdžiui, pritaikę tai situacijai, kuomet šaltinis juda tiese link stebėtojo , gauname:
