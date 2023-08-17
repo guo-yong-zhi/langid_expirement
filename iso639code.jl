@@ -1,8 +1,8 @@
 # https://iso639-3.sil.org/code_tables/download_tables
 using DataFrames
 using CSV
-T = DataFrame(CSV.File(raw"iso-639-3_Code_Tables_20230123\iso-639-3_20230123.tab"))
-MT = DataFrame(CSV.File(raw"iso-639-3_Code_Tables_20230123\iso-639-3-macrolanguages_20230123.tab"))
+T = DataFrame(CSV.File(raw"iso-639-3_Code_Tables_20230123/iso-639-3_20230123.tab"))
+MT = DataFrame(CSV.File(raw"iso-639-3_Code_Tables_20230123/iso-639-3-macrolanguages_20230123.tab"))
 T = coalesce.(T, "")
 MT = coalesce.(MT, "")
 part1toid(c) = T[T[!, :Part1] .== c, :][:, :Id]|>only
