@@ -1,4 +1,4 @@
-struct WikiDataSet
+struct WikiDataSet <: AbstractVector{Pair{String, String}}
     path
     lang_files
     data
@@ -8,22 +8,16 @@ function WikiDataSet(path; langs=readdir(path))
     data = [file => lang for (lang, files) in lang_files for file in files]
     return WikiDataSet(path, lang_files, data)
 end
-function Base.length(wd::WikiDataSet)
-    return length(wd.data)
+function Base.size(wd::WikiDataSet)
+    return size(wd.data)
 end
 function Base.getindex(wd::WikiDataSet, i)
     file, lang = wd.data[i]
     fn = joinpath(wd.path, lang, file)
-    return read(fn, String), lang
+    return read(fn, String) => lang
 end
-function Base.iterate(wd::WikiDataSet, i=1)
-    if i > length(wd)
-        return nothing
-    else
-        return wd[i], i+1
-    end
-end
-struct TatoebaDataset
+
+struct TatoebaDataset <: AbstractVector{Pair{String, String}}
     path
     lang_lines
     data
@@ -48,20 +42,12 @@ function TatoebaDataset(path; langs=[f[1:end-4] for f in readdir(path)], kwargs.
     lang_lines = Dict(lang => collect(1:countlines(joinpath(path, lang * ".txt"))) for lang in langs)
     return TatoebaDataset(path, lang_lines; kwargs...)
 end
-function Base.length(td::TatoebaDataset)
-    return length(td.data)
+function Base.size(td::TatoebaDataset)
+    return size(td.data)
 end
 function Base.getindex(td::TatoebaDataset, i)
     return td.data[i]
 end
-function Base.iterate(td::TatoebaDataset, i=1)
-    if i > length(td)
-        return nothing
-    else
-        return td[i], i+1
-    end
-end
-
 
 using Random
 struct RandomLoader
