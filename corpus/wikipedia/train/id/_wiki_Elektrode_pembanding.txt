@@ -1,0 +1,4 @@
+Elektrode pembanding adalah elektrode yang memiliki potensial elektrode yang stabil dan diketahui. 1  Stabilitas potensial elektrode yang tinggi biasanya dicapai dengan menggunakan sistem redoks dengan konsentrasi yang konstan untuk setiap senyawa yang terlibat dalam reaksi redoks. 2 
+Terdapat banyak cara untuk menggunakan elektrode pembanding. Cara paling sederhana adalah ketika elektrode pembanding digunakan sebagai setengah sel untuk membangun sel elektrokimia, sehingga potensial setengah sel lainnya dapat ditentukan. Sementara itu, metode yang akurat dan praktis untuk mengukur potensial elektrode secara terisolasi  masih belum dikembangkan.
+Beberapa contoh elektrode pembanding cair yang sering digunakan adalah:
+Artikel bertopik kimia ini adalah sebuah rintisan. Anda dapat membantu Wikipedia dengan mengembangkannya.

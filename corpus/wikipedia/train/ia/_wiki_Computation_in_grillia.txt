@@ -1,0 +1,4 @@
+ 
+Le grid computing o computation in grillia es un nove modello pro resolver problemas de computation massive utilisante un grande numero de computatores organisate in racemos incrustate in un infrastructura de telecommunicationes distribuite.
+Le computation in grillia consiste in compartir ressources heterogene , situate in distincte locationes e pertinente a differente dominios de administration super un rete que usa standards aperte. Brevemente, consiste in facer virtual le ressources informatic.
+Le computation in grillia ha essite designate pro resolver problemas nimis grande pro omne simple supercomputator, intertanto se mantene le flexibilitate de laborar in multiple problemas plus pauc. Le computation in grillia es naturalmente un ambiente multi-usatorial; pro illo, le technicas de autorisation secur es essential ante de permitter le ressources informatic esser controlate per usatores remote.

@@ -1,0 +1,2 @@
+Infraštruktúra ako služba 1   je model IT, v ktorom sa hardvérové zariadenia ako napr. dátové úložiská, hardvér, servery a sieťové komponenty outsourcujú. Prevádzkovateľom zariadení je poskytovateľ služby, ktorý je zodpovedný za ich umiestnenie, prevádzku a údržbu. Infraštrukúra ako služba je jednou z troch hlavných kategórií cloud computingu. chýba zdroj]
+Medzi ďalšie z kategórií cloud computingu patrí SaaS - softvér ako služba  a PaaS - platforma ako služba . 1 

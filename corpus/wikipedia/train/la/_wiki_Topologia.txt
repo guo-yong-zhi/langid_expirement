@@ -1,0 +1,5 @@
+Topologia  est pars mathematicae. Agit de illis proprietatibus structurarum mathematicarum quae servantur si structurae modo continuitario deformantur. Topologia oritur ex geometria  et theoria copiarum.
+Fine saeculi XIX topologia originem cepit nominibus Latinis quae sunt "geometria situs" vel "analysis situs".
+Haec sunt duae res quae in topologia homoeomorphae sunt, ambo habent unum foramen:
+Aliud problema topologiae est problema Regiomontanum de septem pontibus.
+Topologia algebraica est pars topologiae quae utiliis vel modis algebrae utitur ad spatia topologica describenda.  Topologia copiarum punctorum similior est analysi quam algebrae.

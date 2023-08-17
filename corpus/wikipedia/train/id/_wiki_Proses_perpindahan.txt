@@ -1,0 +1,44 @@
+Dalam fisika, kimia, dan teknik, fenomena perpindahan adalah salah satu dari berbagai mekanisme di mana partikel atau kuantitas fisik berpindah dari satu tempat ke tempat lain. Tiga contoh umum fenomena perpindahan adalah difusi, konveksi, dan radiasi. Tiga jenis utama fenomena perpindahan adalah perpindahan panas, perpindahan massa, dan perpindahan momentum .
+Satu prinsip penting dalam fenomena perpindahan adalah adanya analogi antar tiap fenomena. Sebagai contoh, massa, energi, dan momentum semua dapat mengalami perpindahan secara difusi:
+Perpindahan massa, energi, dan momentum juga dipengaruhi faktor-faktor luar:
+Semua pengaruh ini dijelaskan oleh persamaan perpindahan skalar generik. Persamaan yang sama yang mengatur konveksi pada perpindahan panas dapat diterapkan pada konveksi pada perpindahan massa. Sewaktu mempelajari problem fenomena perpindahan yang kompleks, seseorang harus menggunakan mekanika malaran  dan kalkulus tensor dan sering kali permasalahan tersebut dapat dijelaskan dengan persamaan diferensial parsial.
+Ada beberapa kesamaan pada persamaan perpindahan panas, momentum, dan massa 1  semuanya dapat dipindahkan dengan difusi:
+Persamaan perpindahan molekuler untuk momentum Hukum Newton, panas Hukum Fourier, dan massa Hukum Fick sangat mirip. 2 
+Pada perpindahan momentum transfer, fluida dibayangkan sebagai objek yang terdistribusi kontinu. Studi mengenai perpindahan momentum atau mekanika fluida dapat dibedakan menjadi 2 cabang: statika fluida  dan dinamika fluida . Ketika fluida bergerak pada arah x paralel dengan permukaan solid, fluida tersebut memiliki momentum pada arah-x dengan konsentrasi υxρ. Dengan difusi acak molekul maka ada perpindahan molekul pada arah-z. Maka momentum pada arah-x berpindah ke arah-z dari lapisan yang bergerak lebih cepat ke lapisan yang bergerak lebih lambat.
+Persamaan perpindahan momentum menurut Hukum Newton tentang Viskositas dapat ditulis sebagai berikut:
+dengan τzx adalah fluks momentum arah-x pada arah-z, ν is μ/ρ, difusivitas momentum z adalah jarak transport atau difusi, ρ adalah densitas, dan μ adalah viskositas.
+Ketika sistem berisi 2 atau lebih komponen yang konsentrasinya berbeda-beda antar titik, ada kecenderungan alami dari massa untuk berpindah, untuk meminimalkan perbedaan konsentrasi dalam sistem. Perpindahan massa dalam sistem dijelaskan oleh Hukum pertama Fick: 'Difusi fluks dari konsentrasi tinggi ke konsentrasi rendah berbanding lurus dengan gradien konsentrasi substansi dan difusivitas substansi pada medium.' Perpindahan massa dapat berlangsung karena ada perbedaan driving force. Beberapa diantaranya adalah: 3 
+Dapat dibandingkan dengan Hukum Fourier mengenai konduksi panas:
+dengan D adalah konstanta difusivitas.
+Prinsip dasar perpindahan panas mengikuti hukum pertama termodinamika yang dapat dinyatakan sebagai berikut:
+Untuk sistem lain yang alirannya turbulen, geometri kompleks atau boundary condition lebih mudah digunakan:
+dengan A adalah luas permukaan,:
+  
+    
+      
+        
+           
+          T
+        
+      
+    
+    }
+  
+ adalah perbedaan suhu, q adalah aliran panas per satuan waktu, dan h adalah koefisien perpindahan panas.
+Untuk sistem lainnya yang mengandung aliran turbulen, geometri kompleks atau boundary condition maka persamaan lainnya dapat digunakan:
+dengan A adalah luas permukaan,:
+  
+    
+      
+        
+           
+          T
+        
+      
+    
+    }
+  
+ adalah perbedaan termperatur, q adalah aliran panas per satuan waktu dan h adalah koefisien transfer panas.
+Ada 2 tipe konveksi yang dapat muncul:
+Konveksi tak bebas dapat muncul pada aliran laminer maupun turbulen. Pada kondisi laminer pada tabung berbentuk lingkaran, ada beberapa besaran tak berdimensi seperti bilangan Nusselt, bilangan Reynolds, dan Prandtl. Persamaan yang umum adalah:
+Perpindahan panas dianalisis pada packed bed, reaktor, dan alat penukar panas .

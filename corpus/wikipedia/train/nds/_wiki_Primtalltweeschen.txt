@@ -1,0 +1,96 @@
+Primtalltweeschens sünd Primtallen, de vunenanner den Afstand 2 hebbt. Bispelen sünd  oder  oder . Oder mathemaatsch utdrückt:
+Primtalltweeschens sünd twee Primtallen 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+      
+    
+    }
+  
+ un 
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+      
+    
+    }
+  
+, de de Differenz 
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+         
+        
+          p
+          
+            1
+          
+        
+        =
+        2
+      
+    
+    -p_
+  
+ hebbt. De Primtall 
+  
+    
+      
+        
+          p
+          
+            2
+          
+        
+        =
+        
+          p
+          
+            1
+          
+        
+        +
+        2
+      
+    
+    =p_
+  
+ warrt denn ok Primtalltweeschen to de Primtall 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+      
+    
+    }
+  
+ nöömt.
+Den Begreep "Primtalltweeschen" hett de Mathematiker Paul Stäckel inföhrt.
+Primtalltweeschens gifft dat ok bi gröttere Tallen. Dat  gröttste Poor hett Eric Vautier ut Frankriek an'n 15. Januar 2007 mit Help vun sien Reekner funnen: 2003663613 · 2195000±1. Disse Tallen hebbt 58711 Talltekens.
+In de Tallentheorie hebbt de Mathematikers al lang de Fraag ünnersöcht, wo vele Poren vun Primtalltweeschens dat gifft. Dat lett so, as wenn dat unendlich vele Primtalltweeschens gifft, aver en Bewies dat dat so is, hebbt se nich funnen. Un ok keen Bewies, dat dat nich so is.
+En empiersche Analys vun allen Primtallen betto 4.35 · 1015 wiest, dat de Antall vun Primtalltweeschens, de lütter as x sünd, 
+x·f/2 is. Dorbi is f üm un bi 1,7, wenn x lütt is un üm un bi 1.3 wenn x na Unendlich streevt. De Grenzweert vun f warrt as 
+vermoodt.
