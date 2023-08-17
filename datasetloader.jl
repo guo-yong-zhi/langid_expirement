@@ -16,7 +16,8 @@ function Base.getindex(wd::WikiDataSet, i)
     fn = joinpath(wd.path, lang, file)
     return read(fn, String) => lang
 end
-
+getlanguages(wd::WikiDataSet) = keys(wd.lang_files)
+sizeoflang(wd::WikiDataSet, lang) = length(wd.lang_files[lang])
 struct TatoebaDataset <: AbstractVector{Pair{String, String}}
     path
     lang_lines
@@ -48,7 +49,8 @@ end
 function Base.getindex(td::TatoebaDataset, i)
     return td.data[i]
 end
-
+getlanguages(td::TatoebaDataset) = keys(td.lang_lines)
+sizeoflang(td::TatoebaDataset, lang) = length(td.lang_lines[lang])
 using Random
 struct RandomLoader
     data
