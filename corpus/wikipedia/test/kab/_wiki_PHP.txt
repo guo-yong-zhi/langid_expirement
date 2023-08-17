@@ -1,0 +1,27 @@
+PHP  d yiwet tmeslayt n usihel n yiskripten, d ahil ilelli , yelha i usnulfu n yismal Web ismussanen.
+Afaylu PHP yesɛa aseɣzif “php”, amedya “afaylu_php.php”. Seddaw-a, d yiwen umedya n uskript php:
+    <?php 
+ print   ; 
+ ?> 
+    <  html  > 
+ <  head  > 
+ <  title  > Amedya HTML </  title  > 
+ </  head  > 
+ <  body  > 
+ <  p  > Aql-aɣ deg umagrad ɣef PHP!!! </  p  > 
+ </  body  > 
+ </  html  > 
+    <html> 
+ <head> 
+ <title>Amedya HTML akk d PHP</title> 
+ </head> 
+ <body> 
+ <?php 
+ print   ; 
+ ?> 
+ <p>Aql-aɣ deg umagrad ɣef PHP!!!</p> 
+ </body> 
+ </html> 
+</pr
+Tura, amur ameqqran n yismal tteddun s PHP , am usmel-a akk d yismal merra ay yetteddun s Wordpress.
+Ugar isalen deg usmel http://www.php.net

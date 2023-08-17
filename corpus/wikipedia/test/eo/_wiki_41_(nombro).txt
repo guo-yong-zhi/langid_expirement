@@ -1,0 +1,5 @@
+
+Kvardek unu  estas la natura nombro kiu sekvas 40 kaj antaŭas 42.
+La nombro 41 en la dekuma sistemo havas alternativajn formojn:
+41 estas sumo de kelkaj primoj:
+Ĝi ankaŭ estas sumo de du kvadratoj:

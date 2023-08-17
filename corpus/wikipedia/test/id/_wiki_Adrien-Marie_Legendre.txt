@@ -1,0 +1,6 @@
+Adrien-Marie Legendre  ialah matematikawan Prancis. Ia membuat sumbangan penting atas statistik, teori bilangan, aljabar abstrak dan analisis matematika.
+Kebanyakan karyanya disempurnakan oleh lainnya: karyanya pada akar polinomial mengilhami teori Galois; karya Abel pada fungsi elips dibangun pada Legendre punya; beberapa karya Gauss dalam statistik dan teori bilangan melengkapi teori Legendre.
+Pada 1830 ia memberikan bukti pada teorema akhir Fermat untuk eksponen n = 5, yang diberikan hampir secara serentak oleh Dirichlet pada 1828.
+Dalam teori bilangan, ia mengkonjekturkan hukum timbal balik kuadrat, yang kemudian dibuktikan Gauss. Ia juga melakukan karya pioner pada prima, dan pada penerapan analisis pada teori bilangan. Konjektur 1796nya dari teorema bilangan prima dengan tepat dibuktikan oleh Hadamard dan de la Vallée-Poussin pada 1898.
+Legendre melakukan sejumlah karya impresif pada fungsi elips, termasuk klasifikasi integral elips, tetapi mengambil percobaan jenius Abel untuk mempelajari invers fungsi Jacobi dan memecBilangan_primaahkan masalah dengan sempurna.
+Dalam mekanika teori, ia dikenal untuk transformasi Legendre, yang digunakan untuk berangkat dari formulasi mekanik Lagrangian ke Hamiltonian.

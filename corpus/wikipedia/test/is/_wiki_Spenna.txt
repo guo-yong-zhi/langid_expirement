@@ -1,0 +1,24 @@
+Spenna er styrkur rafmagns. Í rafmagnsfræðum er oftast átt við mismun á styrk mættisins milli tveggja punkta í rafsviði, þar sem annar punkturinn er jörð, sem samkvæmt skilgreiningu hefur rafmætti núll. SI mælieining er volt, nefnd eftir ítalska eðlisfræðingnum Alessandro Volta. 
+Stærðfræðileg skilgreining rafspennu: Styrkur rafmættis, eða sú vinna, sem þarf til að hliðra einingarrafhleðslu í rafsviði, frá punkti b til punkts a, en það má setja fram með ferilheildinu
+Jafnspenna er föst í tíma, en riðspenna sveiflast reglulega milli tveggja útgilda.
+Jafnspennan V í rafrás er hlutfall afls W og rafstraums I:
+  
+    
+      
+        V
+        =
+        
+          
+            W
+            I
+          
+        
+      
+    
+    
+  
+Lögmál Ohms gefur samband rafspennu og -straums í rafrás með því að skilgreina rafviðnám.
+Spennulögmálið segir að summa allra spennugjafa rafrásar sé jöfn summu spennulfallanna. 
+Jöfnur Maxwells gefa samband rafsegulsviðs og rafspennu.
+Háspenna kallast rafspenna sem er nægjanlega há til geta valdið skammhlaupi í lofti og er hættuleg mönnum og dýrum. 
+Íslensk heimili nota 230 volta riðspennu, með sveiflutíðnina 50 rið, sem strangt tekið telst ekki háspenna, en getur samt verið banvæn. Um raflagnir á heimilum og í fyrirtækjum gilda lög, sem ætlað er að koma í veg fyrir slys af völdum rafmagns.

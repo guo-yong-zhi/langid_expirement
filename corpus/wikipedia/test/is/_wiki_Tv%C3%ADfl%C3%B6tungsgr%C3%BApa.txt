@@ -1,0 +1,65 @@
+Tvíflötungsgrúpa ― Í stærðfræði er talað um samhverfisgrúpur marghyrninga, sem er grúpa af öllum mögulegum samhverfum marghyrninga, þ.e.a.s. allir snúningar og speglanir sem breyta ekki stöðu marghyrningsins. Á marghyrningi með n hliðum eru n speglanir og n snúningar, þ.e.a.s. 2n samhverfislegar umbreytingar.
+Við skilgreinum 
+  
+    
+      
+        
+           
+          
+            x
+          
+        
+      
+    
+    }
+  
+ sem snúning n-hilða marghyrning um 
+  
+    
+      
+        2
+        
+          
+            
+               
+              x
+            
+            n
+          
+        
+      
+    
+    
+  
+ radíana um miðju, og 
+  
+    
+      
+        
+           
+          
+            x
+          
+        
+      
+    
+    {\displaystyle \beta _
+  
+ sem speglun um línu sem snúið hefur verið 
+  
+    
+      
+        
+          
+            
+               
+              x
+            
+            n
+          
+        
+      
+    
+    {\displaystyle }}
+  
+ radíana um miðju. Með þessu fær maður eftirfarandi jöfnur:

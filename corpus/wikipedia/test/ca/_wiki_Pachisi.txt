@@ -1,0 +1,19 @@
+El pachisi és un joc de tauler molt popular a l'Índia i el Pakistan, descendent del chopat o chaupat, o d'origen comú a aquest. El pachisi és un joc en el qual quatre jugadors avancen quatre fitxes cadascun en un tauler amb forma de creu. Es juga amb daus o amb cauris. El seu nom prové de la paraula en hindi pacis que significa vint-i-cinc, la major quantitat de punts que es podia obtenir amb les conquilles originals. En deriva el parxís.
+L'objectiu del pachisi és fer una volta completa amb totes les fitxes. Ho és la mateixa arribada, anomenada charkoni. Cada tirada de cauris serveix per a moure solament una fitxa. Si es repeteix torn, es pot moure amb altra fitxa. Per a sortir de la presó, la primera fitxa pot sortir amb qualsevol tir del dau. Les següents han de sortir amb 6, 10 i 25 respectivament.
+Generalment, es juga per equips de dos. El groc i el negre juguen contra el vermell i el verd. Els guanyadors són els dos que portin primer totes les seves peces al final del recorregut. Es pot passar el torn voluntàriament.
+Per a menjar fitxes es fa de la mateixa manera, en un quadre que no sigui segur, anomenat castell. Es posa una fitxa d'un jugador al costat de la de l'altre jugador i la fitxa capturada es retorna al seu charkoni. A més, el jugador que captura es guanya un torn extra.
+La puntuació s'efectua comptant els cauris que van quedar cap amunt, com segueix:
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6 i un altre torn
+1
+10 i un altre torn
+0
+25 i un altre torn

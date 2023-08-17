@@ -1,0 +1,2 @@
+In mathematica e logica, necessitate e sufficientia describe le relation inter declarationes.
+In Si numero es divisibile per 4, alora illo es divisibile per 2., le proposition divisibile per 4 es sufficiente pro divisibile per 2, e divisibile per 2 es necessari pro divisibile per 4.

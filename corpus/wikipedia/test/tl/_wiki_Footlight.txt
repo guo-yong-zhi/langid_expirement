@@ -1,0 +1,4 @@
+Ang Footlight ay isang serif na pamilya ng tipo ng titik na dinisenyo ni Ong Chong Wah na mula sa Malaysia noong 1986. 1  Ginawa para sa Monotype Corporation, 2  3  ibinebenta ito sa mga bigat mula manipis  hanggang karagdagang-kapal  na may katumbas na mga nakapalihis na titik . Ang Footlight ay isang disenyong di-regular. Unang dinisenyo ito bilang ponteng nakapalihis, at kalaunan ay sinundan ito ng bersyong romano. 4 
+Isang bersyon ng manipis na estilo ng Footlight na tinawag na "Footlight MT"  ay ibinebenta bilang isang package kasama ang ilang sopwer ng Microsoft. 5 
+Naipamahagi na ito sa mga sumusunod na produkto:
+May suporta ang Footlight MT para sa mga sumusunod na bloke ng Unicode:

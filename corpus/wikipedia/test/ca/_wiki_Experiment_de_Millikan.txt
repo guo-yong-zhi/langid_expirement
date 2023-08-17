@@ -1,0 +1,1399 @@
+L'experiment de Millikan  o  experiment de la gota d'oli  és un important experiment que permet determinar la càrrega elèctrica de l'electró. Rep el seu nom pel físic estatunidenc Robert Andrews Millikan, qui el va realitzar per primer cop juntament amb Harvey Fletcher el 1909. 1  2  Millikan el va perfeccionar el 1913 3  i va rebre el premi Premi Nobel de Física del 1923.
+L'experiment consistí essencialment a fer caure gotetes d'oli, mitjançant un polvoritzador, en el si d'un camp elèctric. Algunes de les gotetes es carregaven elèctricament per efecte d'una radiació de raigs X i, donant al camp elèctric un valor apropiat, era possible d'equilibrar-ne la caiguda. Mesurant la intensitat del camp elèctric necessari per a contrarestar la força de la gravetat, el pes de la goteta, i coneixent la massa de les gotetes , Millikan observà que els valors de les càrregues elèctriques de les gotetes eren sempre múltiples enters d'una quantitat fixa, que és la càrrega elemental. El valor obtingut fou e = 1,592 4×10−19 C, només un 0,62% inferior al valor acceptat actualment e = 1,602 176 565 ×10−19 C. 4 
+El 1896, el físic britànic Joseph John Thomson  dugué a terme una sèrie d'experiments que indicaren que els raigs catòdics eren realment partícules úniques i no pas ones, àtoms o molècules, tal com es creia anteriorment. Thomson realitzà bones estimacions tant de la càrrega de l'electró com de la seva massa, i trobà que les partícules dels raigs catòdics –les quals anomenava «corpuscles»– tenien potser una mil·lèsima part de la massa de l'ió menys massiu conegut, l'ió hidrogen. Mostrà que la seva proporció càrrega/massa era independent del material del càtode. 5 
+Una vegada determinada la relació càrrega/massa el problema a resoldre era evident, determinar per separat la massa i la càrrega de l'electró. La primera determinació de la càrrega de l'electró es deu al físic anglès John Sealy Edward Townsend , alumne de J.J. Thomson, que publicà el seu resultat el 1897. 6  El seu experiment consistí a mesurar dues quantitats: La càrrega total d'un nigul de vapor d'aigua format per expansió d'un gas ionitzat; i el nombre de gotes del nigul. La hipòtesi en què es basà fou suposar que cada gota s'havia condensat sobre un únic ió. Així resultava que dividint la càrrega total pel nombre de gotes  donaria el valor de la càrrega d'un d'ells. El valor obtingut per Townsend difereix en un factor 2 del valor acceptat actualment. 7 
+Aquest mètode fou modificat pel mateix J.J. Thomson i pel físic anglès Harold Albert Wilson . 8  Wilson afegí plaques a sota i a sobre el nigul de manera que podia carregar-les elèctricament i produir un camp elèctric uniforme vertical en l'espai ocupat pel nigul. La velocitat de caiguda del núvol la mesurà amb el camp elèctric i sense, i pogué calcular el valor de la càrrega a partir de l'equació de la força suposant la validesa de la llei de Stokes. 7 
+El físic estatunidenc Robert A. Millikan s'interessà en el problema de la determinació de la càrrega de l'electró durant una estada d'un any a Europa el 1895. L'octubre assistí a Berlín a una sèrie de lliçons sobre física teòrica impartides per Max Planck  en relació als raigs catòdics. De tornada als Estats Units passà a treballar d'assistent d'Albert Abraham Michelson  a la Universitat de Chicago. El següent any J.J. Thomson determinà la naturalesa corpuscular dels raigs catòdics. El 1906 Millikan decidí millorar el mètode de Wilson emprant unes bateries més potents, de 1600-3000 V, per produir un camp elèctric més intens entre plaques separades 5 mm. Treballant amb el seu alumne de doctorat Louis Begeman  obtingueren valors més precisos . 9  10 
+El 1909 Harvey Fletcher  inicià el seu doctorat amb Millikan, el qual li proposà preparar l'experiment per a la determinació de la càrrega de l'electró com a treball de la seva tesi doctoral. Observant que les gotes d'aigua s'evaporaven en menys de dos segons, Fletcher proposà la utilització d'una altra substància com mercuri, oli o altres. Millikan no hi estava d'acord però acceptà perquè era la tesi doctoral de Fletcher. A partir d'aquest moment Fletcher dissenyà una nova cambra per a realitzar les mesures amb gotetes d'oli 11  lleuger, del tipus emprat per a la lubrificació de rellotges. 12 
+Una vegada acabat l'experiment, Fletcher redactà l'article que havien de signar Millikan i ell. Però Millikan volgué signar-lo com a únic autor, encara que citant Fletcher com a col·laborador. Les normes de la Universitat de Chicago impedien que articles signats per més d'un autor formassin part de la tesi doctoral d'un d'ells. D'aquesta manera Fletcher hagué de canviar de tesis i presentà un treball sobre el moviment brownià, mentre que Millikan es quedà amb l'autoria de l'experiment de la goteta d'oli. 11  13  1 
+L'aparell constava de tres cambres. La més externa contenia les altres dues i estava plena de 40 l d'oli de motor per a mantenir la temperatura constant dintre les altres dues, amb fluctuacions de només 0,02 °C. La més interna constava de dues plaques de llautó circulars de 22 cm de diàmetre situades horitzontalment una damunt de l'altra i separades 1,6 cm. La superior tenia un petit forat al centre, i es carregava positivament ; la inferior no tenia forat i es carregava negativament . Entre aquestes plaques s'hi podia crear un camp elèctric uniforme, dirigit cap avall o cap amunt, d'intensitat entre 3000 i 8000 V/cm . Les plaques quedaven separades mitjançant tres petites peces d'ebonita i tot l'espai tancat amb una cinta d'ebonita, aïllant la cambra entre les plaques de l'exterior. En aquesta franja d'ebonita hi havia tres finestres de vidre, quadrades, d'1,5 cm de costat, situades a 0°, 165º i 180°. Un feix de llum estret, produït per una làmpada d'arc, entrava a través de la primera finestra i emergia a través de la darrera. L'altra finestra a 165º servia per observar, amb l'ajuda d'un curt telescopi situat a 61 cm, l'interior de la cambra. 2 
+Un atomitzador, com els emprats en els flascons de perfums, 12  produïa petites gotetes d'oli a la part superior d'una altra cambra que contenia la cambra descrita. Les gotetes queien per efecte del camp gravitatori i, alguna d'elles, passava pel petit forat d'agulla de la placa superior. En observar-se l'entrada d'una goteta es tancava el forat per evitar corrents d'aire. La goteta seguia, ara dintre la cambra, el seu camí de caiguda cap a terra. Una font de radiació, raigs X o radi , entrant per la mateixa finestra per on entrava la llum, permetia ionitzar les molècules de l'aire , i els ions, cations o electrons, eren absorbits per la goteta d'oli. 2 
+La caiguda de les gotetes d'oli dintre de l'aire ve donada per la llei de Stokes, això és la velocitat de caiguda, 
+  
+    
+      
+        
+          v
+          
+            c
+          
+        
+      
+    
+    }
+  
+, es veu condicionada per la viscositat del medi, 
+  
+    
+      
+         
+      
+    
+    
+  
+, en aquest cas aire. Aquesta velocitat es pot determinar dividint l'espai recorregut, 
+  
+    
+      
+        d
+      
+    
+    
+  
+, entre el temps de caiguda, 
+  
+    
+      
+        
+          t
+          
+            c
+          
+        
+      
+    
+    {\textstyle t_
+  
+.
+Quan s'ionitza l'aire les gotetes absorbeixen electrons. En absència de camp elèctric segueixen caient a la mateixa velocitat, ja que les masses dels electrons són molt petites. Activant el camp elèctric entre les plaques es pot aturar la caiguda d'una goteta, igualant-se en aquest cas la força de la gravetat i la força elestrostàtica, o, si s'augmenta més la intensitat del camp elèctric hom pot fer-les pujar que, per efecte un altre cop de la llei de Stokes, és un moviment a velocitat constant. La mateixa goteta es pot fer pujar i baixar fins que xoca contra una de les plaques, i així es poden realitzar una sèrie de mesures amb la mateixa goteta. 2 
+Un dels aspectes més destacats de la recerca de Millikan és que les gotetes quedaven carregades amb un nombre indeterminat d'electrons que no podia calcular. Amb les seves mesures anava obtenint valors de càrregues elèctriques diferents, 
+  
+    
+      
+        q
+      
+    
+    
+  
+. Millikan interpretà correctament que la càrrega elemental, 
+  
+    
+      
+        e
+      
+    
+    
+  
+, era la càrrega elèctrica de l'electró, i que havia de ser el màxim comú divisor de totes les càrregues calculades, és a dir 
+  
+    
+      
+        q
+        =
+        n
+        e
+      
+    
+    
+  
+. 2 
+Millikan aplicà la llei de Stokes per a relacionar la velocitat de caiguda, 
+  
+    
+      
+        
+          v
+          
+            c
+          
+        
+      
+    
+    }
+  
+, de les gotetes d'oli amb la seva càrrega elèctrica 
+  
+    
+      
+        q
+      
+    
+    
+  
+. George Gabriel Stokes  determinà la força de fricció, 
+  
+    
+      
+        
+          F
+          
+            d
+          
+        
+      
+    
+    }
+  
+, de cossos esfèrics que cauen dintre d'un medi viscós amb la velocitat del moviment, 
+  
+    
+      
+        v
+      
+    
+    
+  
+, és una força que s'oposa al moviment i que creix a mesura que creix la velocitat, les dimensions del cos i la viscositat del medi. L'equació és:
+  
+    
+      
+        
+          F
+          
+            d
+          
+        
+        =
+        6
+         
+        a
+         
+        v
+      
+    
+    =6\pi a\eta v}
+  
+on:
+Millikan va fer una correcció d'aquesta equació perquè les seves gotes eren molt petites i la seva fricció menor que la donada per aquesta llei, ja que durant una fracció de temps les gotetes, per les seves petites dimensions, cauen dins el buit. L'equació de Stokes és correcta per a esferes majors de 0,1 cm. La correcció de Millikan és:
+  
+    
+      
+        
+          F
+          
+            d
+          
+        
+        =
+        
+          
+            
+              6
+               
+              a
+               
+              v
+            
+            
+              1
+              +
+               
+              
+            
+          
+        
+        =
+        
+          
+            
+              6
+               
+              a
+               
+            
+            
+              1
+              +
+               
+              
+            
+          
+        
+        v
+        =
+        b
+        v
+      
+    
+    =}=}v=bv}
+  
+on 
+  
+    
+      
+         
+        =
+        0
+        ,
+        817
+      
+    
+    
+  
+ i 
+  
+    
+      
+        L
+      
+    
+    
+  
+ és el camí mitjà recorregut per les gotetes. 14 
+En el cas d'absència de camp elèctric la goteta cau per efecte del camp gravitatori terrestre que l'accelera cap a terra, i és frenada per efecte de la força de fregament de Stokes, 
+  
+    
+      
+        
+          F
+          
+            d
+          
+        
+      
+    
+    }
+  
+. Com que la força de Stokes és proporcional a la velocitat, 
+  
+    
+      
+        
+          F
+          
+            d
+          
+        
+        =
+        b
+        v
+      
+    
+    =bv}
+  
+, augmenta fins a igualar la força de la gravetat, 
+  
+    
+      
+        
+          F
+          
+            g
+          
+        
+        =
+        m
+        g
+      
+    
+    =mg}
+  
+, i l'esfera accelera fins que assoleix una velocitat constant de caiguda, 
+  
+    
+      
+        
+          v
+          
+            c
+          
+        
+      
+    
+    }
+  
+:
+  
+    
+      
+        b
+        
+          v
+          
+            c
+          
+        
+        =
+        m
+        g
+      
+    
+    =mg}
+  
+Si s'activa el camp elèctric, 
+  
+    
+      
+        E
+      
+    
+    
+  
+, per fer pujar la goteta a velocitat constant, 
+  
+    
+      
+        
+          v
+          
+            p
+          
+        
+      
+    
+    }
+  
+, es compleix que la força que la fa pujar, la força de Coulomb, 
+  
+    
+      
+        
+          F
+          
+            C
+          
+        
+        =
+        q
+        E
+      
+    
+    =qE}
+  
+, és igual a la suma de les forces que s'oposen a fer que pugi, això és, la força de la gravetat o pes, 
+  
+    
+      
+        
+          F
+          
+            g
+          
+        
+        =
+        m
+        g
+      
+    
+    =mg}
+  
+ i la força de fricció de Stokes, 
+  
+    
+      
+        
+          F
+          
+            d
+          
+        
+        =
+        b
+        
+          v
+          
+            p
+          
+        
+      
+    
+    =bv_
+  
+:
+  
+    
+      
+        q
+        E
+        =
+        m
+        g
+        +
+        b
+        
+          v
+          
+            p
+          
+        
+      
+    
+    }
+  
+i la goteta puja a la velocitat, 
+  
+    
+      
+        
+          v
+          
+            p
+          
+        
+      
+    
+    }
+  
+:
+  
+    
+      
+        
+          v
+          
+            p
+          
+        
+        =
+        
+          
+            
+              q
+              E
+               
+              m
+              g
+            
+            b
+          
+        
+      
+    
+    =}}
+  
+Aïllant la constant 
+  
+    
+      
+        b
+      
+    
+    
+  
+ de la primera equació i substituint a la darrera queda:
+  
+    
+      
+        
+          v
+          
+            p
+          
+        
+        =
+        
+          
+            
+              q
+              E
+               
+              m
+              g
+            
+            
+              m
+              g
+              
+                /
+              
+              
+                v
+                
+                  c
+                
+              
+            
+          
+        
+      
+    
+    =}}}
+  
+Aïllant la càrrega elèctrica de la goteta, 
+  
+    
+      
+        q
+      
+    
+    
+  
+, i posant-la en funció dels temps de caiguda, 
+  
+    
+      
+        
+          t
+          
+            c
+          
+        
+      
+    
+    }
+  
+, i del de pujada, 
+  
+    
+      
+        
+          t
+          
+            p
+          
+        
+      
+    
+    }
+  
+:
+  
+    
+      
+        q
+        =
+        
+          
+            
+              m
+              g
+            
+            E
+          
+        
+        
+          
+            
+              
+                v
+                
+                  c
+                
+              
+              +
+              
+                v
+                
+                  p
+                
+              
+            
+            
+              v
+              
+                c
+              
+            
+          
+        
+        =
+        
+          
+            
+              m
+              g
+              
+                t
+                
+                  c
+                
+              
+            
+            E
+          
+        
+        
+          
+        
+      
+    
+    +v_}=
+  
+ 15 
+En el cas de la caiguda sense camp elèctric, i sense considerar la correcció de la llei de Stokes feta per Millikan per simplificar aquesta demostració, es poden deduir la massa de la goteta, 
+  
+    
+      
+        m
+      
+    
+    
+  
+, i el seu radi, 
+  
+    
+      
+        a
+      
+    
+    
+  
+, a partir de la velocitat de caiguda 
+  
+    
+      
+        
+          v
+          
+            c
+          
+        
+        =
+        d
+        
+          /
+        
+        
+          t
+          
+            c
+          
+        
+      
+    
+    =d/t_
+  
+, que s'obté a partir de l'espai recorregut, 
+  
+    
+      
+        d
+      
+    
+    
+  
+, i el temps emprat, 
+  
+    
+      
+        
+          t
+          
+            c
+          
+        
+      
+    
+    {\textstyle t_
+  
+:
+  
+    
+      
+        6
+         
+        a
+         
+        
+          v
+          
+            c
+          
+        
+        =
+        m
+        g
+        
+         
+        
+        m
+        =
+        
+          
+            
+              6
+               
+              a
+               
+              
+                v
+                
+                  c
+                
+              
+            
+            g
+          
+        
+      
+    
+    =mg\quad \longrightarrow \quad m=
+  
+La massa de la goteta, 
+  
+    
+      
+        m
+      
+    
+    
+  
+, també es pot relacionar amb la densitat de l'oli, 
+  
+    
+      
+         
+      
+    
+    
+  
+, el seu volum, 
+  
+    
+      
+        V
+      
+    
+    
+  
+, el d'una esfera, i el radi, 
+  
+    
+      
+        a
+      
+    
+    
+  
+:
+  
+    
+      
+        m
+        =
+         
+        V
+        =
+         
+        
+          
+            4
+            3
+          
+        
+         
+        
+          a
+          
+            3
+          
+        
+      
+    
+    }
+  
+Igualant les dues expressions de la massa es pot aïllar el radi, 
+  
+    
+      
+        a
+      
+    
+    
+  
+, i deixar-lo en funció de paràmetres coneguts, que permeten calcular-lo:
+  
+    
+      
+         
+        
+          
+            4
+            3
+          
+        
+         
+        
+          a
+          
+            3
+          
+        
+        =
+        
+          
+            
+              6
+               
+              a
+               
+              
+                v
+                
+                  c
+                
+              
+            
+            g
+          
+        
+        
+         
+        
+        a
+        =
+        
+          
+            
+              
+                18
+                 
+                
+                  v
+                  
+                    c
+                  
+                
+              
+              
+                4
+                g
+                 
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                9
+                 
+                
+                  v
+                  
+                    c
+                  
+                
+              
+              
+                2
+                g
+                 
+              
+            
+          
+        
+      
+    
+    =}}
+  
+Per a calcular la massa, 
+  
+    
+      
+        m
+      
+    
+    
+  
+, hom pot substituir aquesta expressió del radi en l'expressió que relaciona massa, densitat i volum, i queda com:
+  
+    
+      
+        m
+        =
+         
+        
+          
+            4
+            3
+          
+        
+         
+        
+          
+            
+          
+          
+            
+              3
+              2
+            
+          
+        
+        =
+        
+          
+            4
+            3
+          
+        
+         
+        
+          
+            
+          
+          
+            
+              3
+              2
+            
+          
+        
+        
+          
+            
+          
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    {2}}=}\pi \left^}\left^}}
+  
+Substituint ara a la fórmula de la càrrega, 
+  
+    
+      
+        q
+      
+    
+    
+  
+, queda:
+  
+    
+      
+        q
+        =
+        
+          
+            
+              m
+              g
+            
+            E
+          
+        
+        
+          
+            
+              
+                v
+                
+                  c
+                
+              
+              +
+              
+                v
+                
+                  p
+                
+              
+            
+            
+              v
+              
+                c
+              
+            
+          
+        
+        =
+        
+          
+            4
+            3
+          
+        
+         
+        
+          
+            
+          
+          
+            
+              3
+              2
+            
+          
+        
+        
+          
+            
+          
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            g
+            E
+          
+        
+        
+          
+            
+              
+                v
+                
+                  c
+                
+              
+              +
+              
+                v
+                
+                  p
+                
+              
+            
+            
+              v
+              
+                c
+              
+            
+          
+        
+      
+    
+    +v_}=}\pi \left^}\left^}{\frac {g}+v_}}
+  
+I simplificant s'obté la fórmula que dona la càrrega en funció de valors coneguts que es poden mesurar a l'experiment:
+  
+    
+      
+        q
+        =
+        
+          
+            4
+            3
+          
+        
+         
+        
+          
+            
+          
+          
+            
+              3
+              2
+            
+          
+        
+        
+          
+            
+          
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            
+              
+                
+              
+              
+                v
+                
+                  c
+                
+                
+                  1
+                  
+                    /
+                  
+                  2
+                
+              
+            
+            E
+          
+        
+      
+    
+    ^}
+  
+ 1 
+Alguns dels valors de l'experiment de Millikan eren: viscositat de l'aire 
+  
+    
+      
+         
+        =
+        1
+        ,
+        83
+         
+        
+          10
+          
+             
+            5
+          
+        
+        
+        k
+        g
+        
+          /
+        
+        m
+         
+        s
+      
+    
+    \;kg/m\cdot s}
+  
+; densitat de l'oli 
+  
+    
+      
+         
+        =
+        858
+        
+        k
+        g
+        
+          /
+        
+        
+          m
+          
+            3
+          
+        
+      
+    
+    }
+  
+; espai recorregut en caiguda lliure 
+  
+    
+      
+        d
+        =
+        0
+        ,
+        600
+        
+        c
+        m
+      
+    
+    
+  
+; temps de caiguda 
+  
+    
+      
+        
+          t
+          
+            c
+          
+        
+        =
+        21
+        
+        s
+      
+    
+    =21\;s}
+  
+. Aplicant les fórmules anteriors donen una valors per a la massa i el radi de les gotetes: 
+  
+    
+      
+        m
+        =
+        1
+        ,
+        67
+         
+        
+          10
+          
+             
+            14
+          
+        
+        
+        k
+        g
+      
+    
+    \;kg}
+  
+ i 
+  
+    
+      
+        a
+        =
+        1
+        ,
+        67
+         
+        
+          10
+          
+             
+            6
+          
+        
+        
+        m
+        =
+        1
+        ,
+        67
+        
+         
+        m
+      
+    
+    \;m=1,67\;\mu m}
+  
+. 14 
+A l'expressió de la càrrega Millikan també introduí la consideració que la goteta d'oli està dintre d'un fluid, l'aire, per la qual cosa experimenta un empenyiment per amunt degut al principi d'Arquimedes, la qual cosa obliga a considerar el pes aparent:
+  
+    
+      
+        m
+        g
+         
+        
+           
+          
+            a
+            i
+            r
+            e
+          
+        
+        V
+        g
+        =
+         
+        V
+        g
+         
+        
+           
+          
+            a
+            i
+            r
+            e
+          
+        
+        V
+        g
+        =
+        
+          
+        
+        V
+        g
+      
+    
+    Vg=\rho Vg-\rho _
+  
+Així s'obté la fórmula donada per Millikan, substituint la densitat 
+  
+    
+      
+         
+      
+    
+    
+  
+ de l'oli per 
+  
+    
+      
+         
+         
+        
+           
+          
+            a
+            i
+            r
+            e
+          
+        
+      
+    
+    }
+  
+:
+  
+    
+      
+        q
+        =
+        
+          
+            4
+            3
+          
+        
+         
+        
+          
+            
+          
+          
+            
+              3
+              2
+            
+          
+        
+        
+          
+            
+                
+              
+            
+            )
+          
+          
+            
+              1
+              2
+            
+          
+        
+        
+          
+            
+              
+                
+              
+              
+                v
+                
+                  c
+                
+                
+                  1
+                  
+                    /
+                  
+                  2
+                
+              
+            
+            E
+          
+        
+      
+    
+    {\displaystyle q={\frac {4}{3}}\pi \left^{\frac {3}{2}}\left}}\right)^{\frac {1}{2}}{\frac {\leftv_{c}^{1/2}}{E}}}
+  
+El valor obtingut en els experiments inicials realitzats per Millikan i Fletcher el 1911 fou e = 4,891×10–10 Fr = 1,631×10–19 C, 2  que equival a una diferència d'un 4,8% del valor acceptat actualment. Amb les millores introduïdes per Millikan posteriorment aconseguí, el 1913, un valor de e = 4,774 ± 0,009×10–10 Fr = 1,592 ± 0,003×10–19 C, 3  només un 0,62% inferior al valor acceptat actualment e = 1,602 176 565 ×10−19 C. 4 
+La primavera del 1910 s'inicià l'anomenada «La batalla per l'electró» entre Millikan i un físic de la Universitat de Viena, Felix Ehrenhaft . El mateix any Ehrenhaft havia publicat 16  unes mesures sobre la càrrega elemental realitzades amb un experiment semblant al de Millikan, però emprant partícules metàl·liques, i anunciant l'existència de tota una distribució de càrregues menors que la de l'electró. Durant els següents anys, ells i els seus alumnes seguiren publicant articles on indicaven l'existència de càrregues més petites que la de l'electró, que anomenaren subelectrons. Això provocà que fos una qüestió que estava a l'ordre del dia d'alguns dels físics més importants d'aquell moment . 17  Per reforçar els seus resultats, Millikan millorà l'experiment i realitzà noves mesures més precises que confirmaven que la càrrega de l'electró era la càrrega elemental, publicant un nou article el 1913 on també calculava la constant d'Avogadro. 3  El 1916 publicà un extens article on detallava una sèrie d'errors en el procediment experimental emprat per Ehrenhaft. 18  La comunitat científica es posà majoritàriament de part de Millikan  19  i fou nominat regularment per a premi Nobel de física des de l'any 1916 fins que li fou concedit el 1923 10  pels seus treballs sobre la determinació de la càrrega elèctrica elemental i sobre l'efecte fotoelèctric. 20 
+A partir dels quaderns de laboratori de Millikan s'ha descobert que, malgrat indicar en el seu article de 1913 que hi figuraven totes les gotes que havia estudiat durant les 9 setmanes que durà l'experiment , 58 en total, les gotes que mesurà foren unes 100. Millikan no inclogué les dades de 25 gotes perquè avortà l'experiment abans d'acabar-lo i no completà la recollida de dades, d'altres 17 no les emprà perquè considerà que hi havia hagut errors en la seva mesura: 21  gotes massa grosses, bloqueig del manòmetre amb una bombolla d'aire, interferències en els corrents de convecció, errors del cronòmetre o funcionament defectuós de l'atomitzador. Per contra Ehrenhaft, seguint el mètode científic més ortodox, presentà tots els seus resultats i no se'n podia deduir que la càrrega de l'electró fos la més petita de la natura. L'estudi dels quaderns de laboratori de Millikan feren que se l'acusés, ja a finals del segle xx, d'haver manipulat les dades. 13  19  Tanmateix, una anàlisi exhaustiva de les dades no publicades indiquen que en cap cas Millikan hauria descartat dades amb la intenció de manipular els resultats. Moltes de les dades no publicades, si les hagués emprat, donarien el mateix resultat que les publicades. 21 
