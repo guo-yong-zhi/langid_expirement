@@ -1,0 +1,3 @@
+JavaScript d tutlayt n usihel mebla compilation i d-yesnulfa Brendan Eich . JavaScript itddu kan deg yiminig web maca tura nezmer ad t-nesseqdec deg Backend s Node.js.
+    console  .  log  ; 
+</pr

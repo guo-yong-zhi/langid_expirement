@@ -1,0 +1,61 @@
+In mathematica, le infimo 1  es le inferior barriera le plus grande, e le supremo es le superior barriera le minus grande, si il se tracta de un ordine partial.
+Sia 
+  
+    
+      
+        A
+      
+    
+    
+  
+ un insimul con un ordine partial 
+  
+    
+      
+         
+      
+    
+    
+  
+, e 
+  
+    
+      
+        S
+         
+        A
+      
+    
+    
+  
+ un subinsimul de 
+  
+    
+      
+        A
+      
+    
+    
+  
+. Alora es ver:
+Si 
+  
+    
+      
+        A
+      
+    
+    
+  
+ es le insimul 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+ del numeros real, alora es ver:

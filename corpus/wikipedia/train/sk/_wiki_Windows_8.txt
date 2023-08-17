@@ -1,0 +1,6 @@
+Windows 8 bola verzia operačného systému Windows NT, ktorá bola nástupcom Windows 7. Vo Windowse 8 chýbalo tlačidlo štart, ktoré bolo pridané až v aktualizácii na Windows 8.1. 2  Uvedenie finálnej verzie Windows 8 sa konalo v októbri 2012. 3  
+Vydaná bola 32-bitová a 64-bitová verzia pre procesory x86 a verzia pre SoC a ARM procesory . 4  5  6  
+Viditeľné zmeny boli vo vzhľade, kde bol použitý Ribbon design. Kvôli zmenám v jadre systému bolo riziko nekompatibility ovládačov. Systém bol použiteľný aj na starších stolových počítačoch a notebookoch a taktiež aj na tabletoch s architektúrou ARM. 7 Oficiálne ukončenie podpory Windowsu 8 bolo v roku 2016, zatiaľ čo Windowsu 8.1 končí 10. januára 2023.
+Podľa prezentovaných správ, aplikácie napísané pre architektúru X86-64, neboli kompatibilné pre verzie Windows 8 pre architektúru ARM. 8 
+Microsoft vyhlásil, že zobrazenie developer preview pracuje správne na hardvéri vyhovujúcom pre Windows Vista alebo 7. 21 
+Tento článok je čiastočný alebo úplný preklad článku Windows 8 na anglickej Wikipédii.

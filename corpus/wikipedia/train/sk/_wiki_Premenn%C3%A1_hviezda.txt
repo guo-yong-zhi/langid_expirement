@@ -1,0 +1,63 @@
+Premenná hviezda je hviezda, ktorej jasnosť a prípadne aj spektrum sa mení v pravidelných alebo nepravidelných intervaloch. Zmeny jasnosti môžu mať príčinu vo fyzikálnych zmenách na samotnej hviezde , alebo môže ísť len o následok zákrytu v sústave dvojhviezd či natáčanie rôznych nepravidelných štruktúr na hviezde smerom k pozorovateľovi .
+Prvá známa premenná hviezda je Mira Ceti, ktorú pozoroval v roku 1596 David Fabricius. Hviezda Algol bola známa ešte skôr, no pri nej sa premenlivosť potvrdila až v roku 1667.
+Väčšina hviezd má takmer konštantnú svetelnosť. Naše Slnko je dobrým príkladom hviezdy, kde dochádza k relatívne malým odchýlkam jasnosti . U veľkého počtu hviezd však dochádza k významným zmenám svetelnosti, a práve takéto hviezdy sa nazývajú premenné hviezdy.
+Základnou charakteristikou premennej hviezdy je krivka svetelných zmien. Zmeny jasnosti môžu byť rádovo len v desatinách magnitúdy, ale môžu byť aj väčšie ako 10 magnitúd. Interval zmien môže byť od desaťtisícin sekundy  po celé roky až desaťročia .
+Premenné hviezdy sú vo všeobecnosti analyzované pomocou fotometrie a fotospektrometrie. Pozorovaniami ich jasností, ktoré sú porovnávané s nepremennými hviezdami známych hviezdnych veľkostí, je možné vytvoriť svetelnú krivku. Pre pravidelné premenné hviezdy môže byť perióda premeny a jej amplitúda veľmi presne stanovená; pre veľa premenných hviezd sa však tieto veličiny časom pomaly menia, prípadne sa menia len medzi viacerými vybranými hodnotami. Vrcholy jasnosti na svetelnej krivke sa nazývajú maximá, zatiaľ čo najnižšie hodnoty krivky sú známe ako minimá.
+Fyzikálne premenné sú hviezdy, ktoré majú intrinzickú, vnútornú povahu premennosti svojej svetelnosti, to znamená, že hviezda sama sa stáva jasnejšou a tmavšou. Táto kategória môže byť ďalej rozdelená na podskupiny: pulzujúcich a kataklizmatických  premenných. Príklady typov spomedzi týchto tried sú uvedené nižšie.
+Jedným z najvýznamnejších typov premenných hviezd sú cefeidy, žltí obri, ktorí pulzujú vo veľmi pravidelných periódach. Sú pomenované podľa δ Cephei, prvej objavenej premennej hviezdy tohto typu, a majú periódy od jedného dňa až po niekoľko týždňov.
+Cefeidy sú dôležité, pretože sú typom tzv. štandardných sviec. Ich svietivosť je priamo závislá od ich periódy premennosti, tiež s malou závislosťou od metalicity.  Čím dlhšia je pulzačná perióda, tým jasnejšia býva hviezda. Keď sa pre cefeidu vykalibruje vzťah medzi periódou a svietivosťou, znamená to, že pozorovaním periódy cefeíd, priamo dostávame aj ich svietivosť. Ich vzdialenosť je potom ľahko dopočítateľná zo zdanlivej hviezdnej veľkosti. Pozorovania cefeíd sú veľmi dôležité pre stanovovanie vzdialeností galaxií vnútri našej lokálnej skupiny galaxií.
+Tieto premenné sú veľmi podobné cefeidám, ale patria do populácie II a tak majú nižšiu metalicitu a preto nepatrne iný vzťah perióda-svietivosť. Niekedy sa označujú ako Cefeidy typu II.
+Premenné typu δ Scuti sú podobné cefeidám, ale trochu slabšie a s kratšími periódami. Kedysi boli nazývané ako trpaslíčie cefeidy. Často sa vyznačujú znásobenými periódami, ktoré vytvárajú veľmi zložité svetelné krivky.
+Tieto hviezdy sú mierne podobné cefeidám, ale nie sú tak svietivé. Sú staršie ako cefeidy, patria do populácie II. Obvykle sa vyskytujú v guľových hviezdokopách, a v minulosti boli niekedy označované ako kopové cefeidy. Majú tiež veľmi dobre stanovený vzťah perióda-svietivosť, a teda sú vhodné indikátory pre vzdialenosti.
+Tieto premenný hviezdy sú žltí nadobri, ktorí majú meniace sa hlboké a plytké minimá. Toto kolísanie dvojakých vrcholov má typicky periódu medzi 30 až 100 dňami. Znásobením tejto premenlivosti môžu nastať dlhodobé zmeny periód počas niekoľkých rokov.
+Premenné typu Mira Ceti sú veľmi chladní červení nadobri, ktorí sa podrobujú veľmi veľkým pulzáciám. Počas periód zvyčajne niekoľkých mesiacov, sa môžu zjasniť o niekoľko magnitúd pred ich ďalším pokračujúcim slabnutím. Samotná Mira Ceti, tiež známa ako ο  Ceti, ktorá prepožičala celej skupine názov, kolíše v jasnosti z takmer druhej magnitúdy a slabne až po deviatu magnitúdu.
+Polopravidelnými premennými sú zvyčajne červení nadobri. Skupina týchto premenných môže občas vykazovať jednoznačnú periódu, ale taktiež prechádzať cez periódy nepravidelných premien. Najznámejší známy príklad je polopravidelná premenná Betelgeuse, ktorej zdanlivá hviezdna veľkosť sa mení od 0.2 do 1.2.
+Zvyčajne ide o červených nadobrov. Niekedy majú náznak periodicity.
+Supernovy sú kataklizmatické  premenné hviezdy, sú to jedny z najenergetickejších udalostí vo vesmíre. Supernova môže v krátkom čase uvoľniť toľko energie ako celá galaxia. Supernovy môžu byť následkom zániku mimoriadne masívnych hviezd, mnohonásobne hmotnejších ako Slnko. Takisto môžu vzniknúť pri prenose hmoty na bielych trpaslíkov. Absolútna svietivosť neskoršie menovaného spôsobu je závislá od vlastností svojej svetelnej krivky, takže tieto supernovy môžu pomôcť pri zisťovaní vzdialeností iných galaxií.
+Novy sú takisto výsledkom dramatických explózií, ale na rozdiel od supernov nemajú za následok deštrukciu pôvodnej hviezdy. Vytvárajú sa v blízkych binárnych sústavách a výbuchy sa môžu opakovať s periódov od dekád do storočia, či tisícročia. Nova Cygni 1975 bola ostatnou veľmi jasnou novou v našej galaxii, dosiahla jasnosť až druhej magnitúdy. Novy sú kategorizované ako rýchle, pomalé alebo veľmi pomalé, zavisí to na správaní ich svetelnej krivky.
+Trpaslíčie novy sú dvojhviezdy, kde pri prenose hmoty medzi komponentami dochádza k pravidelným vzplanutiam. Poznáme tri typy trpaslíčich nov: hviezdy typu U Geminorum, ktoré majú výbuchy trvajúce zhruba 5 – 20 dní nasledované tichou periódou typicky niekoľkosto rokov; hviezdy typu Z Camelopardalis, pri ktorých boli pozorované občasné plošiny zjasnenia  nazývané zastávky, trvajúce dobu niekoľkých normálnych periód, niekde na ceste medzi maximom a minimom jasnosti; a hviezdy typu SU Ursae Majoris, pri ktorých sú pozorované frekventované malé výbuchy, no takisto aj zriedkavejšie veľké výbuchy.
+Aj keď sú klasifikované ako eruptívne premenné hviezdy, u týchto hviezd nedochádza k periodickým zjasneniam; namiesto toho udržujú väčšinu času maximálnu jasnosť, ale po nepravidelných intervaloch náhle zoslabnú o mnoho magnitúd. Pomaly potom v pribehu niekoľkých mesiacov, čo rokov získavajú naspäť pôvodnú maximálnu jasnosť. Za zdroj tohto kolísania jasnosti sú považované epizódy formovania prachu v atmosfére hviezdy. Po tom, čo sa vytvorí prach a premiestni sa ďalej od hviezdy, eventuálne ochladne pod teplotu kondenzácie prachu, v bode ktorom sa potom vytvorí mračno nepriesvitného prachu, čo spôsobí, že pokles jasnosti pozorovanej hviezdy.
+Známe tiež ako hviezdy typu UV Ceti sú tieto veľmi slabé hviezdy hlavnej postupnosti, u ktorých dochádza k pravidelným zábleskom. Zvyšujú svoju jasnosť až o dve magnitúdy v priebehu niekoľkých sekúnd a potom oslabujú na normálu jasnosť v priebehu polhodiny alebo menej.
+Ide o mladé hviezdy s protoplanetárnymi diskami, ktorých premennosť je pravdepodobne spôsobená rôznymi nestabilitami v disku ako aj v ich atmosfére.
+Zmeny jasností u geometrických premenných hviezd, ako sú pozorované pozemskými pozorovateľmi, sú vyvolané externými zdrojmi. Jednou z najbežnejších príčin býva prítomnosť druhej hviezdnej spoločnice tak, že obidve spolu vytvárajú dvojhviezdu. Ak sú tieto pozorované z určitých uhlov, jedna hviezda môže zakryje druhú, čím zapríčiní zníženie ich spoločnej vizuálnej jasnosti. Jedna z najznámejších zákrytových premenných dvojhviezd je Algol, ináč nazývaný aj β Persei.
+Hviezdy s planetárnymi sústavami sa môžu takisto prejavovať zmenami jasnosti, ak sa ich planéty dostanú medzi Zem a danú hviezdu. Tieto zmeny sú oveľa menšie ako tie s hviezdnymi spoločnicami a sú detegovateľné iba pri mimoriadne presných pozorovaniach.
+Hviezdy s rozmernými slnečnými škvrnami môžu vykazovať značné rozdiely v jasnosti pri rotácii a do zorného poľa sa dostávajú striedavo jasnejšie a tmavšie  oblasti.
+Veľmi zriedkavým typom premennej hviezdy býva hviezda, ktorej jas je dočasne znížený kvôli reflexnej hmlovine, ktorá pred ňou prechádza.
+V danom súhvezdí je prvým objaveným premenným hviezdam priradené označenie písmenami R až Z, napr. R Andromedae. .) Až sa minú jednotlivé písmená, použijú sa pre označenie ďalších objavených premenných v danom súhvezdí dvojice RR až RZ, SS až SZ, a tak ďalej až po ZZ, napr. RR Lyrae. Neskoršie objavy používajú nepoužité dvojice AA až AZ, BB až BZ, a postupne po QQ až QZ . Až sa vyčerpá týchto 334 kombinácií, premenné sú označené podľa poradia objavu a priradí sa im prefix V, napr. V1500 Cygni.
+Vznik    Pred hlavnou postupnosťou    Hlavná postupnosť    Horizontálna vetva    Asymptotická vetva obrov    Dredge-up    Nestabilný pruh    Červená skupina    Planetárna hmlovina     Protoplanetárna hmlovina    Wolfova-Rayetova hviezda    Supernova impostor    Supernova    Hypernova    Hertzsprungov-Russellov diagram
+Molekulárny mrak    Bokova globula    Mladý hviezdny objekt    Herbigov-Harov objekt    Hayashiho čiara    Henyeyho stopa    Premenná hviezda typu T Tauri    Hviezda typu Herbig Ae/Be 
+Podtrpaslík    
+Trpaslík    
+Podobor   
+Obor    
+Jasný obor   
+Nadobor    
+Hyperobor    
+Modrý tulák   
+Lastúrová hviezda   
+Individuálna hviezda    
+Technéciova hviezda   
+Premenná hviezda 
+Biely trpaslík    
+Neutrónová hviezda    
+Hviezdna čierna diera
+Kvarková hviezda    Q-hviezda    Bozónová hviezda    Gravahviezda    Čierna hviezda
+Hnedý trpaslík    Hnedý podtrpaslík    Planetar
+Jadro    Konvektívna zóna    Oblasť žiarivej rovnováhy    Fotosféra    Hviezdna škvrna    Chromosféra    Koróna    Hviezdny vietor    Bublina hviezdneho vetra    Asteroseizmológia    Eddingtonova svietivosť
+Alfa reakcia    3-alfa reakcia    Protón-protónový cyklus     Héliový záblesk    Uhlíkový cyklus    Horenie uhlíka    Horenie neónu    Horenie kyslíka    Horenie kremíka    S-reakcia    R-reakcia
+Klasifikácia   
+Označenie   
+Dynamika   
+Efektívna teplota   
+Kinematika    
+Magnetické pole   
+Veľkosť    
+Hmotnosť   
+Metalicita   
+Mikroturbulencia   
+Oscilácia   
+Planetárna sústava   
+Rotácia   
+Hviezdna sústava    
+UBV systém
+Zoznam hviezd podľa súhvezdia    Zoznam hviezd s planétami    Zoznam najbližších hviezd     Zoznam najbližších jasných hviezd    Zoznam najjasnejších hviezd    Zoznam najmenších hviezd    Zoznam najväčších hviezd    Zoznam najľahších hviezd    Zoznam najťažších hviezd    Zoznam polopravidelných premenných hviezd    Zoznam premenných hviezd    Zoznam pulzarov     Zoznam röntgenových pulzarov    Zoznam tradičných názvov hviezd

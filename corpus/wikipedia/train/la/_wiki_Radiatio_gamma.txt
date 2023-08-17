@@ -1,0 +1,68 @@
+Radiatio gamma  est radiatio electromagnetica altae energiae tabi radioactiva nucleorum atomorum facta. Consistit radiatio gamma ex undis brevissimis at simul energia photoni altissima.
+Radiatio in genere est energiae 
+  
+    
+      
+        E
+      
+    
+    
+  
+ vel emissio vel transmissio ex undis et particulis composita. Radiatio gamma imprimis ex undis, quae energiam, at non materiam, portant, composita est.
+Undae per longitudinem λ et amplitudinem A describuntur.
+Radiatio electromagnetica per oscillationes camporum et electricorum et magneticorum consistit, igitur maxima in parte ex undis composita est. Amborum camporum anguli inter se 90° formant, ambi inter se perpendiculariter velocitate alta currunt.
+Energia 
+  
+    
+      
+        E
+      
+    
+    
+  
+  est quantitas conservata. Cum undae movent, eis energia cinetica 
+  
+    
+      
+        
+          E
+          
+            k
+            i
+          
+        
+      
+    
+    }
+  
+ sunt. Praeterea radiationi gamma etiam energia potentialis 
+  
+    
+      
+        
+          E
+          
+            p
+          
+        
+      
+    
+    }
+  
+, campis et electricis et magneticis causa, est.
+Anno 1900 Paulus Villard radiationem γ invenit, dum ex radio radiationem emittantem investiget. Notio "gamma" radiorum ab Ernesto Rutherford anno 1903 decreta est. Primum a radiatione X dignota est, causa undarum longitudine, quae mox infra 
+  
+    
+      
+        
+          10
+          
+             
+            11
+          
+        
+      
+    
+    }
+  
+ m inventa fuit; hodie sane a radiatione Roentgeniensi secundum originem distinguitur: Orta est radiatio gamma ex nucleo atomorum, at radiatio Roentgeniana ex electronibus, extra nucleum. 

@@ -1,0 +1,2 @@
+Subspecie es un rango taxonomic.
+superdominio ·  dominio ·  subdominio ·  regno ·  subregno ·  superphylo ·  phylo/division ·  subphylo ·  superclasse ·  classe ·  subclasse ·  superordine ·  ordine ·  subordine ·  superfamilia ·  familia ·  subfamilia ·  genere ·  subgenere ·  section ·  specie ·  subspecie

@@ -1,0 +1,7 @@
+Un mur pantalla o pantalla de formigó in situ és un tipus de pantalla, o estructura de contenció flexible, emprat habitualment en projectes d'enginyeria civil.
+A diferència de les pantalles de panells prefabricats de formigó, aquest tipus d'estructura es realitza en obra. És a dir, en lloc de recórrer a panells prefabricats, els elements estructurals d'aquest tipus de pantalla s'executen in situ.
+Les dimensions dels panells que conformen els murs pantalla són entre 2,5 i 5 metres de longitud, i 4 a 15 cm de gruix. La longitud de la pantalla depèn del seu dimensionament.
+Cada element que conforma un mur pantalla treballa independentment, i entre ells presenten juntes que han de ser estanques . El càlcul de les pantalles se sol realitzar suposant que és una biga encastada que suporta el moviment de terres.
+Els murs pantalla serveixen per poder resistir les empentes del terreny en els períodes crítics d'excavació del solar i evitar i limitar l'entrada d'aigües del nivell freàtic, així com absorbir les càrregues. El mur pantalla es formigona amb bombes, desplaçant els llots cap amunt. Necessita diferents màquines per la seva construcció.
+El formigó que s'utilitza per a la seva construcció habitualment porta incorporat uns additius fluïdificants que afavoreixen l'adaptació al terreny a la vegada que facilita la unió amb l'armadura de la pantalla.
+Aquest tipus de murs poden ser de diferents tipus:

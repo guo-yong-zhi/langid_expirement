@@ -1,0 +1,3 @@
+La fórmula de Regnault és una fórmula empírica obtinguda pel químic francès Henri Victor Regnault que permet calcular la calor latent de vaporització de l'aigua a diferents temperatures. Matemàticament es pot expressar així:
+on T és la temperatura expressada en kèlvins i Lv la calor latent expressada en kilojoules per kilogram . 1 
+Aquesta fórmula és vàlida per a temperatures entre 100 °C i 200 °C . S'empra en el funcionament d'autoclaus.

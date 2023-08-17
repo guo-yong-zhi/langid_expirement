@@ -1,0 +1,24 @@
+Sa estadistika, ang Koepisyenteng ranggong korelasyon ni Spearman o Spearman's rank correlation coefficient o Spearman's rho na ipinangalan kay Charles Spearman at kadalasang tinutukoy ng letrang Griyego na 
+  
+    
+      
+         
+      
+    
+    
+  
+  o bilang 
+  
+    
+      
+        
+          r
+          
+            s
+          
+        
+      
+    
+    }
+  
+ ay isang hindi paremetrikong sukat ng dependiyensiyang estadistikal sa pagitan ng dalawang mga bariabulo. Tinatasa nito kung gaano kahusay na ang relasyon sa pagitan ng dalawang mga bariabulo ay maaaring ilarawan gamit ang punsiyong monotoniko. Kung walang umuulit na halagang datos, ang isang perpektong korelasyong Spearman ng +1 o  1 ay nangyayari kapag ang bawat mga bariabulo ay isang perpektong monotonong punsiyon ng isa pa. Ang koepisyente ni Spearman ay maaaring gamitin kapag ang parehong dependiyenteng bariablo at independiyenteng bariabulo ay numerikong ordinal o kapag ang isang bariabulo ay isang numerikong ordinal at ang isa pa ay isang tuloy tuloy na bariabulo. Gayunpaman, angkop rin na gumamit ng korelasyon ni Spearman kapag ang parehong mga bariabulo ay tuloy tuloy. 1 

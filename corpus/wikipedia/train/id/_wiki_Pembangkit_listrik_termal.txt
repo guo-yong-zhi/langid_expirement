@@ -1,0 +1,19 @@
+Pembangkit listrik termal  adalah pembangkit listrik dimana energi panas diubah menjadi energi listrik. Di sebagian besar pembangkit listrik termal, menggunakan turbin yang digerakkan oleh uap yang mengubah panas menjadi energi mekanik sebagai perantara ke energi listrik. Pembangkit listrik termal menggunakan bahan bakar fosil seperti minyak bumi, batu bara, uranium, dan energi panas bumi sebagai energi primer. 3  4 
+Pada pembangkit listrik tenaga uap menggunakan bahan bakar batu bara, minyak, atau gas sebagai sumber energi primer. Untuk memutar generator pembangkit listrik menggunakan putaran
+turbin uap. Tenaga untuk menggerakkan turbin berupa tenaga uap yang berasal dari ketel uap. Bahan bahan bakar ketelnya berupa batu bara, 
+minyak bakar, dan lainnya. 5 
+Kelebihan
+Kekurangan
+Pada pembangkit listrik tenaga gas, energi primer berasal dari bahan bakar gas atau minyak. Untuk memutar generator pembangkit listrik menggunakan tenaga penggerak turbin gas atau motor gas. Untuk memutar turbin gas atau motor gas menggunakan tenaga gas. Gas berasal dari dapur tinggi, dapur kokas, dan gas alam.
+Fleksibel dalam pengoperasian. 5 
+Kelebihan
+Kekurangan
+Pada pembangkit listrik tenaga diesel, energi primer sebagai energi diesel berasal dari bahan bakar minyak atau bahan bakar gas. Untuk memutar generator pembangkit listrik menggunakan tenaga
+pemutar yang berasal dari putaran mesin diesel.
+Pembangkit listrik tenaga gas dan uap merupakan kombinasi PLTG dengan PLTU. Gas buang dari PLTG dimanfaatkan untuk menghasilkan uap oleh ketel uap dan menghasilkan uap sebagai penggerak turbin uap. Turbin uap selanjutnya memutar generator listrik.
+Pembangkit listrik tenaga panas bumi merupakan pusat pembangkit yang tidak memiliki ketel uap karena uap sebagai penggerak turbin uap berasal dari dalam bumi. 5 
+Pembangkit listrik termal disamping menghasilkan listrik juga menghasilkan limbah yang akan menimbulkan pencemaran bagi lingkungan apabila limbah tidak diolah terlebih dahulu. Limbah pembangkit listrik tenaga termal dapat berbentuk padat, cair, gas, maupun panas.
+Limbah padat berasal dari kadar abu yang terdapat didalam bahan bakar, dimana abu merupakan bagian yang tidak terbakar dan ikut mengalir didalam aliran gas hasil pembakaran, karena itu abu ini harus ditangkap sebelum gas hasil pembakaran keluar cerobong. 7 
+Limbah cair berasal dari deterjen, tumpahan minyak, bahan kimia, dan bahan cair lainnya. Limbah cair harus dialirkan ke tempat pengolahan limbah untuk diolah dan dinetralkan agar tidak mencemari lingkungan.
+Limbah gas berupa gas hasil pembakaran yang keluar dari cerobong, gas gas yang dianggap sebagai pencemar lingkungan adalah gas oksida nitrogen dengan rumus kimia NOx dan belerang dioksida dengan rumus kimia SO2. sementara karbondioksida atau CO2 bukan dianggap sebagai pencemar lingkungan karena gas ini akan diserap pada daun dipepohonan. 7 
+Artikel bertopik pembangkit listrik ini adalah sebuah rintisan. Anda dapat membantu Wikipedia dengan mengembangkannya.

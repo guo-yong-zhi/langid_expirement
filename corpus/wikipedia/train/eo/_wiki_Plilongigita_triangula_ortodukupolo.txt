@@ -1,0 +1,142 @@
+En geometrio, la plilongigita triangula ortodukupolo estas unu el la solidoj de Johnson . Kiel la nomo sugestas, ĝi povas esti konstruita per plilongigo de triangula ortodukupolo  per enigo de seslatera prismo inter ĝiaj duonoj. La rezultanta solido estas simila al la rombokub-okedro , kun tiu diferenco ke ĝi havas 3-oblan turnan simetrion ĉirkaŭ ĝia akso anstataŭ 4-obla turna simetrio de rombokub-okedro.
+La volumeno de J35 estas sumo de volumenoj de 2 kupoloj kaj de seslatera prismo.
+La du kupoloj se estus kunmetataj rezultiĝas je kubokedro.
+Estu a longo de la latero.
+La volumeno de kubokedro estas 
+  
+    
+      
+        
+          
+            
+              5
+              
+                
+                  2
+                
+              
+            
+            3
+          
+        
+        
+          a
+          
+            3
+          
+        
+      
+    
+    }}}
+  
+.
+La areo de seslatero, kiu estas bazo de la seslatero prismo, estas 
+  
+    
+      
+        
+          
+            
+              3
+              
+                
+                  3
+                
+              
+            
+            2
+          
+        
+        
+          a
+          
+            2
+          
+        
+      
+    
+    }}}
+  
+.
+La volumeno de la seslatera prismo estas 
+  
+    
+      
+        
+          
+            
+              3
+              
+                
+                  3
+                
+              
+            
+            2
+          
+        
+        
+          a
+          
+            3
+          
+        
+      
+    
+    }}}
+  
+.
+Do fine:
+  
+    
+      
+        
+          V
+          
+            
+              J
+              
+                35
+              
+            
+          
+        
+        =
+        
+        
+          a
+          
+            3
+          
+        
+      
+    
+    }=a^
+  
+La cifereca valoro:
+  
+    
+      
+        
+          V
+          
+            
+              J
+              
+                35
+              
+            
+          
+        
+        =
+        4.9550988153084743549606507192748
+        
+          a
+          
+            3
+          
+        
+      
+    
+    }=4.9550988153084743549606507192748a^
+  

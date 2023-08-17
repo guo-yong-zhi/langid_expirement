@@ -1,0 +1,28 @@
+Elektrický indukčný tok alebo elektrický tok alebo tok elektrickej intenzity je fyzikálna veličina, vyjadrujúca tok intenzity elektrického poľa uzavrenou plochou .
+Značka:  E
+Základná jednotka: N.m2.C−1
+Výpočet: 
+  
+    
+      
+        
+           
+          
+            E
+          
+        
+        =
+         
+        
+          E
+          .
+          d
+          S
+        
+      
+    
+    =\oint 
+  
+, kde E je vektor elektrickej intenzity, dS je element plochy so smerom normály k ploche, E.dS je skalárny súčin, integrácia prebieha cez uzavrenú plochu S.
+Ak sa znázorní elektrické pole siločiarami tak, že hustota čiar zodpovedá veľkosti elektrickej intenzity, tak tok intenzity vyjadruje počet siločiar prechádzajúcich uzavrenou plochou.
+Ak nie je vo vnútri uzatvorenej plochy žiadne teleso s elektrickým nábojom, tak je tok elektrickej intenzity touto plochou nulový, teda vektor elektrickej intenzity, ktorý vojde do plochy, aj z nej vystúpi. Ak sa nachádza vnútri plochy elektrický náboj, tak tok elektrickej intentizy touto plochou je úmerný veľkosti elektrického náboja, čo vyjadruje Gaussov zákon elektrostatiky.

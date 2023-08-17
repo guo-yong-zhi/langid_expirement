@@ -1,0 +1,2 @@
+Þéttipunktur er hugtak í grannfræði og mengjafræði og á við punkt p mengis S, sem er þannig að sérhver grennd G punktsins p, inniheldur óendalegan fjölda punkta umhverfis p. 
+Þéttipunktur getur einnig átt við runu , sem er þ.a. punktar rununnar nálgast þéttipunktinn eins nærri og vera vill þegar talan n vex.

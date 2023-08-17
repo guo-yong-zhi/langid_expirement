@@ -1,0 +1,18 @@
+Mezoamerikos kalendoriaus sistema – kalendorių grupė, naudojama įvairiose senovės Mezoamerikos tautose skaičiuoti ir žymėti laiką. Šiai grupei priskiriami majų, actekų, mištekų ir kitos kalendorinės sistemos, kurios tarpusavyje skiriasi daugiau ne pačia struktūra, bet mėnesių pavadinimais ir smulkiais niuansais.
+Visų Mezoamerikos kalendorių būdingas bruožas yra du skirtingi ciklai, kurie naudojami vienu metu. Vienas jų, yra šventasis ciklas, susidedantis iš 260 dienų, o kitas – saulės ciklas, beveik atitinkantis Saulės metus .
+Saulės ciklas iš 365 dienų Mezoamerikos tautose, panašiai kaip ir Senajame žemyne, buvo dalijamas į mėnesius. Tačiau mėnesius sudarė ne 30, o 20 dienų. Taigi, per metus susidarydavo 18 mėnesių. Kiekvienas mėnuo turėjo savo pavadinimą ir reikšmę, tačiau tie pavadinimai skyrėsi tarp atskirų tautų. Mėnesių dienos buvo žymimos skaitmenimis, tačiau skaičiuojamos ne nuo 1, o nuo nulio.
+Atskiri mėnesiai žymėjo tam tikrus darbus ir sezonus. Likusios penkios dienos prieš saulės ciklo pabaigą buvo laikomos pavojingomis ir traktuojamos specifiškai.
+Majų kalendoriuje šis ciklas vadinamas haab, actekai jį vadino šiunahpohualiu.
+Šventasis ciklas iš 260 dienų, nesusijęs su jokio konkretaus dangaus kūno judėjimu, yra gerokai sudėtingesnis. Jis buvo labai svarbus nustatant švenčių dienas.
+Šį ciklą sudaro du atskiri ciklai, persikeičiantys tarpusavyje. Viena, jį sudaro 13 dienų ciklai , žymimi skaitmenimis. Trecenos buvo savotiškos Mezoamerikos kultūrų savaitės, kiekviena jų turėjo savo pavadinimą ir dievą – globėją.
+Antra, greta eina 20 dienų ciklai, žymimi ženklais. Majai turėjo specialius ženklus šioms 20 dienų žymėti. Actekai ir mištekai dienas vadino gyvūnų ir daiktų pavadinimais. Pvz., buvo gyvatės, driežo, namo, vėjo, krokodilo ir kitokios dienos.
+Visas šventasis ciklas prasideda, kuomet pirmoji skaitinė diena sutampa su pirmuoju ženklu. Toliau eina antroji diena su antruoju ženklu ir t. t.
+Pasibaigus trumpesniam skaitiniam ciklui, jis prasideda iš naujo, tuo tarpu ženklų ciklas tęsiasi toliau. Dėl šių nevienodo ilgio ciklų, ženklai eina vis su skirtingu skaitmeniu, ir tada, kuomet 20-tasis ženklas sutampa su 13-uoju skaičiumi, yra žymima ciklo pabaiga.
+Majų kalendoriuje šis ciklas vadinamas colkinu.
+Šie du atskiri ciklai derinami kartu, sudaro vadinamąjį kalendoriaus ratą, kurį sudaro 52 saulės ciklai. Žymint datas šio rato principu, visuomet rašomos abiejų ciklų datos, iš pradžių šventojo, vėliau saulės: pvz., 12 Chikchan 18 Sak majų kalendoriuje.
+Labai dažnai saulės ciklo metai yra įvardijami taip, kokia šventojo ciklo diena jie prasideda. Todėl galimas pasakymas „2 nendrių metai“  arba „5 čikčan metai“ .
+Kiekvieno metų rato pradžioje Mezoamerikos tautos rengdavo didžiulę šventę, vadinamą Naująja Ugnimi.
+Kalendoriaus ratas, panašiai kaip kinų kalendoriaus 60 metų ciklas, leido maždaug išmatuoti vieno žmogaus gyvenimą, o per žmogaus gyvenimą beveik nepasitaikydavo tos pačios datos dienų. Tačiau problema buvo, kuomet reikėdavo rašyti istoriją ir skaičiuoti šimtmečius.
+Tam kai kurios Mezoamerikos tautos, pvz., olmekai ir majai, naudojo ilgąjį skaičiavimą, kuriuo rašydavo dienas nuo tam tikros datos skaičiuodami dienų ciklus. Šito ilgojo skaičiavimo atspirties taškas buvo 3114 m. pr. m. e. rugpjūčio 11 d. Ilgojo skaičiavimo ciklas turi baigtis 2012 m. gruodžio 21 d.
+Kalendoriaus sistema kilo olmekų kultūroje, o vėliau paplito į visas kitas Mezoamerikos kultūras.
+Kalendorius visose Mezoamerikos kultūrose vaidino didžiulį vaidmenį. Visi paminklai turi savo datas, neretai žmonės buvo vadinami pagal tą dieną, kurią gimė. Spėjama, kad kalendoriaus sistema inspiravo Mezoamerikos rašto sistemų atsiradimą, ir pirmiausia Mezoamerikoje buvo užrašyti skaičiai ir datos.

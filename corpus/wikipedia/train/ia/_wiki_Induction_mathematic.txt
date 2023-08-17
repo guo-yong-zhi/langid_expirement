@@ -1,0 +1,81 @@
+Le induction mathematic 1  es un specie de prova mathematic specialmente pro numeros natural. Illo consiste del duo partes base de induction e passo inductive.
+Le prova que es ver le proposition 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ pro omne 
+  
+    
+      
+        n
+         
+        
+          n
+          
+            0
+          
+        
+      
+    
+    }
+  
+ alora consiste
+Sovente iste 
+  
+    
+      
+        
+          n
+          
+            0
+          
+        
+      
+    
+    }
+  
+ es 
+  
+    
+      
+        0
+      
+    
+    
+  
+, 
+  
+    
+      
+        1
+      
+    
+    
+  
+, o 
+  
+    
+      
+        2
+      
+    
+    
+  
+. Le proposition 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ del induction es le hypothese inductive.
+In altere parolas, le passo provide que le proposition es ver pro le numero sequente de un qualcunque numero, durante que le base provide que il ha un initio. Si le passo es provate, ma un base non pote esser trovate, tunc il non ha un initio e le proposition alora non es provate. Un bon imagine es un fila de dominos: Si un pecia cade, alsi le sequente cade. Si al minus uno de illos cade, alsi omnes sequente cade.
