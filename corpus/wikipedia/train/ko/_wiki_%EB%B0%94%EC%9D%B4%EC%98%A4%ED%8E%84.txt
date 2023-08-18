@@ -1,0 +1,21 @@
+
+바이오펄 1  2 은 1994년부터 시작된 펄 언어에서도 생명과학분야 모듈 구축 프로젝트 이름이다. 인간 게놈 프로젝트에서 필수적인 역할을 하고 있다. 3 
+바이오펄은 바이오라이선스라는 무료/공개 라이선스를 사용한다. BSD와 비슷하고 누구나 상업적 목적으로 아무런 조건 없이 활용할 수 있다. 1995~1996년부터 독일의 게오르그 푸엘런이 주도적으로 모듈개발을 지휘했고 2000년대에 와서는 국제적인 프로젝트로 널리 알려졌다.
+ use Bio::DB::GenBank;
+$db_obj = Bio::DB::GenBank->new;
+$seq_obj = $db_obj->get_Seq_by_acc;
+ use Bio::SeqIO;
+my $usage = "all2y.pl informat outfile outfileformat";
+my $informat = shift or die $usage;
+my $outfile = shift or die $usage;
+my $outformat = shift or die $usage;
+my $seqin = Bio::SeqIO->new;
+my $seqout = Bio::SeqIO->new;
+while 
+ use Bio::Tools::SeqStats;
+$seq_stats = Bio::Tools::SeqStats->new;
+$weight = $seq_stats->get_mol_wt;
+$monomer_ref = $seq_stats->count_monomers;
+# for nucleic acid sequence
+$codon_ref = $seq_stats->count_codons;
+</pr

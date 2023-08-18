@@ -1,0 +1,75 @@
+Kirchhoffovy zákony jsou dvě pravidla formulující principy zachování náboje a energie v elektrických obvodech. Jsou jedním ze základních nástrojů při teoretické analýze obvodů. Zákony byly pojmenovány podle jejich objevitele Gustava Roberta Kirchhoffa, který je poprvé popsal roku 1845.
+Oba zákony lze přímo odvodit z Maxwellových rovnic, které ovšem byly formulovány až v roce 1864; Kirchhoff zákony vytvořil jako zobecnění výsledků Georga Simona Ohma.
+Kromě Kirchhoffových zákonů pro elektrické obvody existuje také Kirchhoffův zákon tepelného vyzařování a další empirické Kirchhoffovy zákony popisující vyzařovací spektra.
+První Kirchhoffův zákon popisuje zákon zachování elektrického náboje ; říká, že v každém bodě  elektrického obvodu platí, že:
+Jinými slovy též:
+Vyjádřeno matematicky:
+kde 
+  
+    
+      
+        
+          I
+          
+            k
+          
+        
+      
+    
+    }
+  
+ jsou jednotlivé proudy vstupující do uzlu; podle konvence je proud tekoucí do uzlu záporný, zatímco proud tekoucí z uzlu kladný.
+Druhý Kirchhoffův zákon formuluje pro elektrické obvody zákon zachování energie; říká, že:
+Nebo jinak:
+Jinými slovy též:
+Vyjádřeno matematicky:
+  
+    
+      
+        
+           
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          U
+          
+            k
+          
+        
+        =
+        0
+        ,
+      
+    
+    ^=0,}
+  
+kde 
+  
+    
+      
+        
+          U
+          
+            k
+          
+        
+      
+    
+    }
+  
+ jsou jednotlivá napětí ve smyčkách.
+Pokud by zákon pro nějakou smyčku neplatil, mohlo by být sestrojeno perpetuum mobile, ve kterém by proud touto smyčkou procházel neustále dokola při permanentním odběru energie.
+Předpokladem tohoto zákona je, že smyčka neobepíná žádný časově proměnný magnetický tok – jinak se ve smyčce indukuje napětí a zákon v základní podobě neplatí. V takovém případě lze při analýze obvodu indukované napětí reprezentovat zařazením dalšího prvku, který má stejný účinek.
+Kirchhoffovy zákony se používají zvláště pro rozvětvené elektrické obvody, protože spolu s Ohmovým zákonem umožňují určit velikost a směr elektrického proudu v jednotlivých větvích a velikost elektrického napětí na svorkách jednotlivých prvků.
+Při analýze obvodu pomocí Kirchhoffových zákonů je možné použít jednu ze dvou metod: analýzu uzlů  nebo analýzu smyček .
+Obě metody poskytují stejné výsledky, pro daný obvod však může být jedna či druhá metoda jednodušší. Metody vyžadují vyřešení soustavy n rovnic o n neznámých. U metody uzlů je n počet uzlů minus počet všech zdrojů napětí minus jedna . U metody smyček je n rovno počtu elementárních smyček minus počet zdrojů proudu. Obvykle se tedy používá ta metoda, která vyžaduje řešení menšího počtu rovnic.
+Je však třeba podotknout, že metodu smyček lze použít jen pro planární obvody, tedy obvody, na jejichž schématu se nekříží vodiče. Taková je ale většina obvodů, které se v praxi objevují.
+Analýzu pomocí Kirchoffových zákonů lze provádět jak v obvodech stejnosměrného proudu, tak v obvodech střídavého proudu. V těch se napětí a proud vyjadřují komplexními čísly, které reprezentují fázory, a místo elektrického odporu se používá impedance.
+Kirchhoffovy zákony se mimo elektrotechniku používají také v teorii grafů pro analýzů toků  v sítích . Dokonce se dá říci, že teorie grafů jako taková má v Kirchhoffových zákonech svoje kořeny.

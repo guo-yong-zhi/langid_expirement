@@ -1,0 +1,3 @@
+Một mạng thần kinh đệ quy là một dạng mạng thần kinh học sâu được tạo ra bằng cách áp dụng cùng tập các trọng lượng đệ quy trên một đầu vào có cấu trúc, để sản sinh một dự đoán cấu trúc với các cấu trúc đầu vào kích thước thay đổi, hoặc một dự đoán scalar trên nó, theo cách duyệt qua một cấu trúc cho trước trong sắp xếp tô pô.
+Mạng thần kinh đệ quy đã và đang thành công trong việc học theo trình tự và các cấu trúc cây trong lĩnh vực xử lý ngôn ngữ tự nhiên, chủ yếu là các thể hiện cụm từ hay câu liên tiếp nhau dựa trên kỹ thuật nhúng từ.
+Mạng thần kinh đệ quy lần đầu được giới thiệu để học các cấu trúc thể hiện phân phối, chẳng hạn như  logic toán. 1  Các framework mô hình và framework tổng quát đã và đang được phát triển ở các công trình trước đó từ năm 1990. 2  3 

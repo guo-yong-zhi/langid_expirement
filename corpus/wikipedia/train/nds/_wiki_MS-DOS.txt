@@ -1,0 +1,4 @@
+MS-DOS ist en Bedriefssysteem för en Reekner vun Microsoft, is aber hüüt nich mehr begäng. Langform vun de Naam is Microsoft Disk Operating System.
+MS-DOS is en textbaseert System. Dat heet, dat Befehlen blots mit Tastatur un nich mit ene Muus ingeben warrn köönt. Dat System weer fröher noch as ünnerste Loog vun de graafschen Bedriefssystemen Windows 1.x, 2.x, 3.x, 95, 98 und ME vun Microsoft implementeert. In ne’ere Bedriefssystemen warrt en anner Grundloog bruukt.
+Hüüt warrt MS-DOS, as ok annere Disk Operating Systems, kuum noch bruukt, is aber vun wegen de Grött good to bruken, wenn een to’n Bispeel en System op Diskett packen will.
+Hier is en List vun de wichtigsten Kommandos, man nich vullstännig. Ünner MS-DOS köönt Informatschonen to Befehlen mit BEFEHL /? afropen warrn.

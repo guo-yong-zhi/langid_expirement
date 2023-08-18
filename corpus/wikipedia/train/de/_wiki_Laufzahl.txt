@@ -1,0 +1,83 @@
+Die Laufzahl 
+  
+    
+      
+         
+      
+    
+    
+  
+  ist eine dimensionslose Kennzahl zur Charakterisierung einstufiger Strömungsmaschinen. Sie ist das Verhältnis der Drehzahlen einer Turbomaschine und einer Vergleichsmaschine und spielt eine ähnliche Rolle wie die spezifische Drehzahl 
+  
+    
+      
+        
+          n
+          
+            
+              q
+            
+          
+        
+      
+    
+    }}
+  
+.
+Die Laufzahl ist von Bedeutung für die Auslegung von Strömungsmaschinen, indem sie zusammen mit der Durchmesserzahl im Cordier-Diagramm aufgetragen wird.
+Die Herleitung der Laufzahl stützt sich auf die Definitionsformeln der Strömungsmaschinen-Kenngrößen Durchflusszahl 
+  
+    
+      
+         
+      
+    
+    
+  
+ und Druckzahl 
+  
+    
+      
+         
+      
+    
+    
+  
+:
+Diese werden so umgeformt, dass der Durchmesser des Laufrades eliminiert wird und die Laufraddrehzahl 
+  
+    
+      
+        n
+      
+    
+    
+  
+ linear auftritt:
+Der Volumenstrom 
+  
+    
+      
+        
+          
+            
+              V
+               
+            
+          
+        
+      
+    
+    }}
+  
+ des Laufradaustritts und die spezifische Stutzenarbeit 
+  
+    
+      
+        Y
+      
+    
+    
+  
+ bedeuten Anforderungen, die an die Strömungsmaschine gestellt werden.
+Zur Beschreibung von Windturbinen wird die Schnelllaufzahl verwendet. Diese gibt das Verhältnis von der Umlaufgeschwindigkeit der Blattspitze zur Windgeschwindigkeit an.

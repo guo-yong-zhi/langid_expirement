@@ -1,0 +1,852 @@
+Sistem eutektik merupakan campuran senyawa kimia yang yang membeku atau melebur pada suatu suhu yang lebih rendah daripada titik lebur dari campuran senyawa yang sama dengan rasio berbeda dan juga titik lebur dari masing-masing senyawa itu sendiri. Rasio campuran yang menghasilkan fenomena tersebut disebut sebagai sebagai komposisi eutektik dan suhu campuran yang mampu menghasilkan fenomena tersebut disebut sebagai suhu eutektik. Pada diagram fase di samping, persimpangan suhu eutektik dan komposisi eutektik memberikan titik eutektik. 1  
+Rasio campuran noneutektik mengalami perubahan wujud campuran lebih lama karena salah satu kisi senyawa dalam campuran melebur  atau membeku  sebelum yang lain. Tidak semua paduan biner memiliki titik eutektik. Sebagai contoh, yaitu dalam sistem perak-emas, dengan suhu leleh  dan suhu beku  dari campuran tersebut justru lebih tinggi daripada suhu kedua unsur dalam rasio murninya. 2 
+Reaksi eutektik didefinisikan sebagai berikut: 3 
+Jenis reaksi ini adalah reaksi invarian, karena berada dalam dalam kesetimbangan termal, cara lain untuk mendefinisikan hal ini adalah energi bebas Gibbs sama dengan nol. Secara nyata, hal ini berarti cairan dan dua larutan padat berdampingan pada saat yang sama dan berada dalam kesetimbangan kimia. Selama fase perubahan ini, terdapat juga penangkapan termal di mana suhu dari sistem tidak berubah. 3 
+Hasil macrostructure solid dari reaksi eutektik tergantung pada beberapa faktor. Faktor yang paling penting adalah bagaimana dua larutan padat membentuk atom dan berkembang. Struktur yang paling umum adalah struktur pipih, tetapi mungkin juga membentuk sruktur lain seperti menyerupai-batang, bulat, dan lancip. 4 
+Komposisi dan suhu eutektik dapat dihitung dari entalpi dan entropi fusi masing-masing komponen. 5 
+Entalpi bebas Gibbs G tergantung pada perbedaan masing-masing dengan rumus (
+  
+    
+      
+        G
+        =
+        H
+         
+        T
+        S
+         
+        
+          
+            {
+            
+              
+                
+                  
+                    H
+                    =
+                    G
+                    +
+                    T
+                    S
+                  
+                
+                
+                  
+                
+                
+                  
+                    
+                      
+                        
+                          (
+                          
+                            
+                              
+                                 
+                                G
+                              
+                              
+                                 
+                                T
+                              
+                            
+                          
+                          )
+                        
+                        
+                          P
+                        
+                      
+                      =
+                       
+                      S
+                    
+                  
+                
+              
+            
+            
+          
+        
+         
+        H
+        =
+        G
+         
+        T
+        
+          
+            (
+            
+              
+                
+                   
+                  G
+                
+                
+                   
+                  T
+                
+              
+            
+            )
+          
+          
+            P
+          
+        
+        .
+      
+    
+    {\displaystyle G=H-TS\Rightarrow {\left\{{\begin{array}{l}H=G+TS\\\\{\left({\frac {\partial G}{\partial T}}\right)_{P}=-S}\end{array}}\right.}\Rightarrow H=G-T\left({\frac {\partial G}{\partial T}}\right)_{P}.}
+  
+Dengan demikian, turunan G / T pada tekanan konstan dihitung dengan persamaan
+  
+    
+      
+        
+          
+            
+          
+          
+            P
+          
+        
+        =
+        
+          
+            1
+            T
+          
+        
+        
+          
+            
+          
+          
+            P
+          
+        
+         
+        
+          
+            1
+            
+              T
+              
+                2
+              
+            
+          
+        
+        G
+        =
+         
+        
+          
+            1
+            
+              T
+              
+                2
+              
+            
+          
+        
+        
+          
+              
+              
+                P
+              
+            
+          
+          )
+        
+        =
+         
+        
+          
+            H
+            
+              T
+              
+                2
+              
+            
+          
+        
+      
+    
+    =}\left_G=-}}\left(\right)=-{\frac {H}}
+  
+Potensi kimia 
+  
+    
+      
+         
+        m
+        
+          u
+          
+            i
+          
+        
+      
+    
+    }
+  
+dihitung jika kita menganggap kegiatan sama dengan konsentrasi.
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+        =
+        
+           
+          
+            i
+          
+          
+             
+          
+        
+        +
+        R
+        T
+        ln
+         
+        
+          
+            
+              a
+              
+                i
+              
+            
+            a
+          
+        
+         
+        
+           
+          
+            i
+          
+          
+             
+          
+        
+        +
+        R
+        T
+        ln
+         
+        
+          x
+          
+            i
+          
+        
+      
+    
+    =\mu _+RT\ln {a}}\approx \mu _+RT\ln x_
+  
+Pada kesetimbangan, 
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+        =
+        0
+      
+    
+    =0}
+  
+, thus 
+  
+    
+      
+        
+           
+          
+            i
+          
+          
+             
+          
+        
+      
+    
+    ^
+  
+ didapat dengan:
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+        =
+        
+           
+          
+            i
+          
+          
+             
+          
+        
+        +
+        R
+        T
+        ln
+         
+        
+          x
+          
+            i
+          
+        
+        =
+        0
+         
+        
+           
+          
+            i
+          
+          
+             
+          
+        
+        =
+         
+        R
+        T
+        ln
+         
+        
+          x
+          
+            i
+          
+        
+        .
+      
+    
+    =\mu _+RT\ln x_{i}=0\Rightarrow \mu _=-RT\ln x_
+  
+Dengan menggabungkan formula di atas, didapat persamaan:
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                  
+                  
+                    P
+                  
+                
+                =
+                
+                  
+                     
+                    
+                       
+                      T
+                    
+                  
+                
+                
+                  
+                
+                 
+                R
+                ln
+                 
+                
+                  x
+                  
+                    i
+                  
+                
+                =
+                 
+                
+                  
+                    
+                      H
+                      
+                        i
+                      
+                      
+                         
+                      
+                    
+                    T
+                  
+                
+                +
+                K
+              
+            
+            
+              
+            
+          
+        
+      
+    
+    ^}}
+  
+Integrasi konstanta K dapat ditentukan untuk komponen murni dengan suhu leleh 
+  
+    
+      
+        
+          T
+          
+             
+          
+        
+      
+    
+    }
+  
+ dan entalpi fusi 
+  
+    
+      
+        
+          H
+          
+             
+          
+        
+      
+    
+    {\displaystyle H^
+  
+ Eq.
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+        =
+        1
+         
+        T
+        =
+        
+          T
+          
+            i
+          
+          
+             
+          
+        
+         
+        K
+        =
+        
+          
+            
+              H
+              
+                i
+              
+              
+                 
+              
+            
+            
+              T
+              
+                i
+              
+              
+                 
+              
+            
+          
+        
+      
+    
+    =1\Rightarrow T=T_\Rightarrow K={\frac {H_{i}^{T_{i}^}}
+  
+Kita mendapatkan hubungan yang menentukan fraksi molar sebagai fungsi suhu untuk masing-masing komponen.
+  
+    
+      
+        R
+        ln
+         
+        
+          x
+          
+            i
+          
+        
+        =
+         
+        
+          
+            
+              H
+              
+                i
+              
+              
+                 
+              
+            
+            T
+          
+        
+        +
+        
+          
+            
+              H
+              
+                i
+              
+              
+                 
+              
+            
+            
+              T
+              
+                i
+              
+              
+                 
+              
+            
+          
+        
+      
+    
+    =-}{T}}+}}}
+  
+Campuran komponen n digambarkan oleh sistem
+  
+    
+      
+        
+          
+            
+              
+                
+                  {
+                  
+                    
+                      
+                        
+                          
+                            ln
+                             
+                            
+                              x
+                              
+                                i
+                              
+                            
+                            +
+                            
+                              
+                                
+                                  H
+                                  
+                                    i
+                                  
+                                  
+                                     
+                                  
+                                
+                                
+                                  R
+                                  T
+                                
+                              
+                            
+                             
+                            
+                              
+                                
+                                  H
+                                  
+                                    i
+                                  
+                                  
+                                     
+                                  
+                                
+                                
+                                  R
+                                  
+                                    T
+                                    
+                                      i
+                                    
+                                    
+                                       
+                                    
+                                  
+                                
+                              
+                            
+                            =
+                            0
+                          
+                        
+                      
+                      
+                        
+                          
+                            
+                               
+                              
+                                i
+                                =
+                                1
+                              
+                              
+                                n
+                              
+                            
+                            
+                              
+                                x
+                                
+                                  i
+                                
+                              
+                              =
+                              1
+                            
+                          
+                        
+                      
+                    
+                  
+                  
+                
+              
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{l}\left\{{\begin{array}{*{20}c}{\ln x_{i}+{\frac {H_{i}^{\circ }}{RT}}-{\frac {H_{i}^{\circ }}{RT_{i}^{\circ }}}=0}\\{\sum \limits _{i=1}^{n}{x_{i}=1}}\\\end{array}}\right.\\\\\end{array}}}
+  
+  
+    
+      
+        
+          
+            
+              
+                
+                  {
+                  
+                    
+                      
+                        
+                          
+                             
+                            i
+                            <
+                            n
+                             
+                            ln
+                             
+                            
+                              x
+                              
+                                i
+                              
+                            
+                            +
+                            
+                              
+                                
+                                  H
+                                  
+                                    i
+                                  
+                                  
+                                     
+                                  
+                                
+                                
+                                  R
+                                  T
+                                
+                              
+                            
+                             
+                            
+                              
+                                
+                                  H
+                                  
+                                    i
+                                  
+                                  
+                                     
+                                  
+                                
+                                
+                                  R
+                                  
+                                    T
+                                    
+                                      i
+                                    
+                                    
+                                       
+                                    
+                                  
+                                
+                              
+                            
+                            =
+                            0
+                          
+                        
+                      
+                      
+                        
+                          
+                            ln
+                             
+                            
+                              
+                            
+                            +
+                            
+                              
+                                
+                                  H
+                                  
+                                    n
+                                  
+                                  
+                                     
+                                  
+                                
+                                
+                                  R
+                                  T
+                                
+                              
+                            
+                             
+                            
+                              
+                                
+                                  H
+                                  
+                                    n
+                                  
+                                  
+                                     
+                                  
+                                
+                                
+                                  R
+                                  
+                                    T
+                                    
+                                      n
+                                    
+                                    
+                                       
+                                    
+                                  
+                                
+                              
+                            
+                            =
+                            0
+                          
+                        
+                      
+                    
+                  
+                  
+                
+              
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{l}\left\{{\begin{array}{*{20}c}{\forall i<n\Rightarrow \ln x_{i}+{\frac {H_{i}^{\circ }}{RT}}-{\frac {H_{i}^{\circ }}{RT_{i}^{\circ }}}=0}\\{\ln \left+{\frac {H_{n}^{\circ }}{RT}}-{\frac {H_{n}^{\circ }}{RT_{n}^{\circ }}}=0}\\\end{array}}\right.\\\\\end{array}}}
+  
+yang dapat diselesaikan dengan
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                
+                =
+                
+                  
+                    
+                  
+                  
+                     
+                    1
+                  
+                
+                .
+                
+                  
+                
+              
+            
+          
+        
+      
+    
+    }}
+  

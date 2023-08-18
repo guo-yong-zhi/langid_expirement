@@ -1,0 +1,8 @@
+SORM  este un program de supraveghere al serviciului intern de securitate FSB al Federației Ruse prin care sunt captate și salvate conversațiile telefonice și transferul de date din  internet.
+Din punct de vedere tehnic programul SORM este comparabil cu  programul de supraveghere PRISM. La ambele sunt captate pachetele de date cu ajutorul unei cutii  negre  pentru a putea fi analizate de la distanță: „Nu mai este nevoie de aparatul judicativ ci doar de prestatorul de servicii“. 1  Doar prezumția unei fapte penale mijlocii sau existența unui crâmpei de informație asupra faptei pentru a declanșa supravegherea. 2 
+Toți furnizorii de internet din Rusia sunt obligați, începând cu anul 2000, să livreze date către sistemul SORM. 3 
+În anul 2012 judecătoriile rusești au emis un număr de 530.000 mandate de supraveghere. 2 
+În primăvara anului 2010 a fost detectat, cu ajutorul sistemului, un hacker care a rulat un film porno de pe un server din Cecenia pe panouri publicitare din Moscova. 3 
+ 1 
+ 2 
+ 3 

@@ -1,0 +1,210 @@
+Un bus quàntic és un dispositiu que es pot utilitzar per emmagatzemar o transferir informació entre qubits independents en un ordinador quàntic, o combinar dos qubits en una superposició. És l'anàleg quàntic d'un bus clàssic.
+Hi ha diversos sistemes físics que es poden utilitzar per realitzar un bus quàntic, inclosos ions atrapats, fotons i qubits superconductors. Els ions atrapats, per exemple, poden utilitzar el moviment quantificat dels ions  com a bus quàntic, mentre que els fotons poden actuar com a portadors d'informació quàntica utilitzant l'augment de la força d'interacció proporcionada per l'electrodinàmica quàntica de la cavitat. L'electrodinàmica quàntica de circuits, que utilitza qubits superconductors acoblats a una cavitat de microones en un xip, és un altre exemple d'un bus quàntic que s'ha demostrat amb èxit en experiments. 1 
+El concepte va ser demostrat per primera vegada per investigadors de la Universitat de Yale i el National Institute of Standards and Technology  el 2007. 2  3  4  Abans d'aquesta demostració experimental, els científics del NIST havien descrit el bus quàntic com un dels possibles blocs bàsics de les arquitectures de computació quàntica. 5  6 
+Es pot construir un bus quàntic per a qubits superconductors amb una cavitat de ressonància. L' hamiltonià per a un sistema amb qubit A, qubit B i la cavitat de ressonància o bus quàntic que connecta els dos és 
+  
+    
+      
+        
+          
+            
+              H
+               
+            
+          
+        
+        =
+        
+          
+            
+              
+                H
+                 
+              
+            
+          
+          
+            r
+          
+        
+        +
+        
+           
+          
+            j
+            =
+            A
+            ,
+            B
+          
+        
+        
+          
+            
+              
+                H
+                 
+              
+            
+          
+          
+            j
+          
+        
+        +
+        
+           
+          
+            j
+            =
+            A
+            ,
+            B
+          
+        
+        h
+        
+          g
+          
+            i
+          
+        
+        
+          
+        
+      
+    
+    }=__hg_
+  
+ on 
+  
+    
+      
+        
+          
+            
+              
+                H
+                 
+              
+            
+          
+          
+            j
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+         
+        
+           
+          
+            j
+          
+        
+        
+          
+            
+              
+                 
+                 
+              
+            
+          
+          
+            +
+          
+          
+            j
+          
+        
+        
+          
+            
+              
+                 
+                 
+              
+            
+          
+          
+             
+          
+          
+            j
+          
+        
+      
+    
+    }__{+}^}_}
+  
+ és el qubit únic hamiltonià, 
+  
+    
+      
+        
+          
+            
+              
+                 
+                 
+              
+            
+          
+          
+            +
+          
+          
+            j
+          
+        
+        
+          
+            
+              
+                 
+                 
+              
+            
+          
+          
+             
+          
+          
+            j
+          
+        
+      
+    
+    {\displaystyle _{+}^}_}
+  
+ és l'operador de pujada o baixada per crear o destruir excitacions en el 
+  
+    
+      
+        j
+      
+    
+    
+  
+ el qubit, i 
+  
+    
+      
+         
+        
+           
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \hbar \omega _
+  
+ està controlat per l'amplitud del biaix del flux de CC i radiofreqüència. 7 

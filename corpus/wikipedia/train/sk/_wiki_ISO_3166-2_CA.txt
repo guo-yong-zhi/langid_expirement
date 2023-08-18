@@ -1,0 +1,15 @@
+Kódy ISO 3166-2 pre Kanadu identifikujú 10 provincií a 3 teritóriá. Prvá časť  je medzinárodný kód pre Kanadu, druhá časť pozostáva z dvoch písmen identifikujúcich provinciu alebo teritórium.
+ CA-AB Alberta 
+CA-BC Britská Kolumbia 
+CA-MB Manitoba 
+CA-NB New Brunswick 
+CA-NL Newfoundland a Labrador 
+CA-NS Nové Škótsko 
+CA-NT Severozápadné teritóriá 
+CA-NU Nunavut 
+CA-ON Ontário 
+CA-PE Ostrov Princa Edwarda 
+CA-QC Quebec 
+CA-SK Saskatchewan 
+CA-YT Yukon 
+</pr

@@ -1,0 +1,3 @@
+În cristalografie, sistemul cristalin triclinic  este un sistem cristalin al cărui celulă elementară este foarte puțin simetrică. În acest sistem, cristalul este descris de vectori de lungimi egale, analog sistemului ortorombic. Niciuna dintre axe nu face unghi drept  cu alta.
+Cristalele din sistemul triclinic se clasifică în alte două clase cristaline: 1 
+Minerale care cristalizează în sistemul triclinic sunt: plagioclazul, microclinul, wolastonitul, rodonitul, turcoaza, etc.

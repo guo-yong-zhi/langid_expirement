@@ -1,0 +1,3 @@
+TTT-servilo aŭ Retservilo povas esti
+1. Dediĉita servilo kiu traktas la HTTP-petojn de retumiloj kutime respondante per montrado de retpaĝo, HTMLa dokumento kun teksto kaj bildoj.
+2. Komputila programo kiu provizas la funkciadon de la unua signifo. Ekzemple, programoj "Apache" kaj "Nginx" povas kunekzisti en sama komputilo funkcianta per Windows. Tamen nur unu estu lanĉata samtempe por povi uzi pordon 80.

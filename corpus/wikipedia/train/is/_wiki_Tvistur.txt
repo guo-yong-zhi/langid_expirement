@@ -1,0 +1,2 @@
+Tvistur eða díóða er rafeindaíhlutur sem aðeins hleypir gegn rafstraumi í eina átt. Tvistar eru ólínulegur rásaíhlutur þ.e. straumurinn er ekki línulegt fall af spennunni.
+Til er mismunandi gerðir tvista, t.d. ljóstvistur, sem gefur frá sér ljós þegar straumur fer um hann, ljósnæmur tvistur, innrauður tvistur, sem gefur frá sér innrautt ljós og leysitvistur, sem gefur frá sér leysigeisla. Tvistar eru nú til dags nær alltaf gerðir úr pn-hálfleiðara skeyti, einnig er hægt að búa til tvist úr rafeindalampa.

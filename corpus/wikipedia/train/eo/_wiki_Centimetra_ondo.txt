@@ -1,0 +1,3 @@
+Centimetraj ondoj estas mikroondoj, do elektromagnetaj ondoj kies ondolongo estas inter 1 kaj 10 centimetroj , kio korespondas al frekvencoj inter  3 GHz kaj 30 GHz.
+Tiu frekvencaro nomiĝas SHF - anglalingva mallongigo por Super High Frequency, do "treege alta frekvenco".
+Centimetraj ondoj interalie uziĝas en radaro kaj satelita dissendo de televidaj programoj.

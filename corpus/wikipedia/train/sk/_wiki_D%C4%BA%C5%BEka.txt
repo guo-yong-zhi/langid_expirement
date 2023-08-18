@@ -1,0 +1,3 @@
+Dĺžka je rozmer útvaru v smere dlhšej osi.
+Vo všeobecnosti je to rozmer predmetu v smere predozadnej osi pri pohľade na predmet spredu. Niekedy je označovaný aj ako hĺbka predmetu.
+Dĺžka je fyzikálna veličina. Jej značka je l , a jej základná jednotka je meter .

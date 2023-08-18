@@ -1,0 +1,100 @@
+De Krinktall 
+  
+    
+      
+         
+      
+    
+    
+  
+  is en mathemaatsche Kunstant. Ehr numerisch Weert is
+Se betekent in de Geometrie de Proportschoon twischen den Ümfang vun en Krink un sien Dörmeter. Disse Proportschoon hangt nich vun de Grött vun den Krink af. As Symbol för de Krinktall warrt de greeksche Bookstaav Pi bruukt. Dat steiht för greeksch perifereia  un perimeter . 
+Dat gifft mehr as een Definitschoon för de Krinktall 
+  
+    
+      
+         
+      
+    
+    
+  
+. De Tall is jümmers desülvige:
+In de Analysis is dat eenfacher, toeerst den Kosinus över sien Taylor-Reeg to defineren un denn de Krinktall as
+De Tall 
+  
+    
+      
+         
+      
+    
+    
+  
+ is en reelle Tall aver keen ratschonale Tall. Dat heet, een kann se nich as Bröök vun twee helen Tallen schrieven. Dat hett Johann Heinrich Lambert al 1761  bewiesen. 
+Ferdinand von Lindemann hett 1882 sogor bewiesen, dat 
+  
+    
+      
+         
+      
+    
+    
+  
+ ok transzendent is. Dat heet: dat gifft keen Polynom mit ratschonale Koeffizienten, dat 
+  
+    
+      
+         
+      
+    
+    
+  
+ as Nullsteed hett. Dat bedüüdt: dat is nich möglich, 
+  
+    
+      
+         
+      
+    
+    
+  
+ blots mit helen Tallen, Bröken oder Wörteln to schrieven un dat heet ok, dat de Quadratur vun den Krink nich möglich is.
+Wieldat 
+  
+    
+      
+         
+      
+    
+    
+  
+ en irratschonale Tall is, is dat in keen Stellenweertsystem mööglich, de Tall vullständig antogeven: se is unendlich lang un nich perioodsch. De eersten 100 Tallteken na dat Komma sünd:
+En annere Möglichkeit, reelle Tallen optoschrieven, is de Keedbröök. Wieldat 
+  
+    
+      
+         
+      
+    
+    
+  
+ transzendent is, is ok disse Schrievwies unendlich lang.
+Anners as bi de Eulersche Tall e hebbt de Mathematikers bi de Keedbröökschrievwies vun 
+  
+    
+      
+         
+      
+    
+    
+  
+ nix funnen, wat regelmatig is.
+Mit 194 Deelnömers is de Tall op 200 Steed na dat Komma akraat un süht so ut:
+  
+    
+      
+         
+      
+    
+    
+  
+ = 

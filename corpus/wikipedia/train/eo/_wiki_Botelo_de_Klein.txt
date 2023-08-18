@@ -1,0 +1,22 @@
+En matematiko, la botelo de Klein estas certa 2-dimensia sternaĵo, tio estas, surfaco. Ĝi estas kompakta kaj ne-orientebla . Botelo de Klein ne povas esti enigita en kutiman tri-dimensian eŭklidan spacon sen sekco de si.
+Ĝia eŭlera karakterizo estas 0.
+Aliaj rilatantaj ne-orienteblaj objektoj estas la filmo de Möbius kaj la reela projekcia ebeno. Rilatantaj orienteblaj objektoj estas cilindro, sfero kaj toro. Filmo de Möbius kaj cilindro estas du dimensiaj surfacoj kun rando; botelo de Klein, reela projekcia ebeno, sfero kaj toro ne havas randon.
+La botelo de Klein estis unua priskribis en 1882 per la germana matematikisto Felix Klein. Ĝi estis originale nomata kiel Kleinsche Fläche, "surfaco de Klein"; tamen, ĉi tiu estis malĝuste interpretita kiel Kleinsche Flasche, "Botelo de Klein". Finfine la lasta varianto estis adoptita ankaŭ en la germana lingvo.
+Startu de kvadrato kaj tiam gluu kune respektivajn kolorigitajn randoj, tiel ke la sagoj kongruu. Botelo de Klein estas la kvocienta spaco priskribis kiel unuobla kvadrato  kun flankoj identigitaj per la rilatoj:
+Ĉi tiu kvadrato estas fundamenta plurlatero de la botelo de Klein.
+Noto ke ĉi tio estas abstrakta gluado en topologia senco.
+Botelo de Klein ne povas esti enigita  en tri-dimensian spacon. Tamen, ĝi povas esti mergita .
+Glui la ruĝajn sagoj de la kvadrato kune, rezultiĝas cilindro. Por glui la bluajn sagojn kune, traigu unu finon tra la flanko de la cilindro. Ĉi tiu kreas cirklon de sinsekco. Ĉi tiu estas mergo de la botelo de Klein en tri dimensioj.
+Botelo de Klein povas esti enigita en 4-dimensian eŭklidan spacon. Anstataŭ sinsekco, eblas ĉirkaŭ iri per la 4-a dimensio. Utila analogeco estas konsideri sinsekcantan kurbo sur la ebeno; sinsekco povas esti eliminita per movo de unu el la intersekcantaj eroj de la kurbo for de la ebeno en la 3-an dimension.
+Ses koloroj sufiĉas por kolorigo de ĉiu mapo sur botelo de Klein; ĉi tio estas la nura escepto al
+la konjekto de Heawood, ĝeneraligo de la teoremo de kvar koloroj, kiu devus postuli sep kolorojn.
+Botelo de Klein estas ekvivalento al sfero plus du kruco-ĉapoj.
+La komuna fizika modelo de botelo de Klein estas de simila konstruado. La Brita Scienca Muzeo estas elmontrata kolekto de manfaritaj vitraj boteloj de Klein, eksponantaj multajn variadojn pri ĉi tiu topologia temo. 1 
+Sekco de botelo de Klein en duonoj laŭ ĝiaj simetriebenaj rezultiĝas en du spegulaj variantoj de filmo de Möbius. Eblas ankaŭ tranĉi la Botelo de Klein en solan filmon de Möbius.
+La cifero-8-simila mergo de botelo de Klein havas aparte simplan parametrigon:
+En ĉi tiu mergo, la sinsekca cirklo estas geometria cirklo en la xy ebeno. La pozitiva konstanto r estas la radiuso de ĉi tiu cirklo. La parametro u donas la angulo en la xy ebeno, kaj v precizigas la pozicion ĉirkaŭ la "8" formita kruca sekcio.
+La parametrigo de la 3-dimensia mergo de la botelo estas multe pli komplika. Jen estas simpligita versio:
+kie
+por 0   u < 2  kaj 0   v < 2 .
+En ĉi tiu parametrigo, u sekvas la longon de la botela korpo kaj v iras ĉirkaŭ ĝia cirkonferenco.
+La artikolo fundamenta plurlatero provizas priskribon de la ĝeneraligoj de botelo de Klein de pli altaj genroj.

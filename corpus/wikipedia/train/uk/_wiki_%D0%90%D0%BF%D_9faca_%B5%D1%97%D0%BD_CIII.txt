@@ -1,0 +1,25 @@
+2JQ3
+• lipid binding• lipase inhibitor activity• GO:0010576 enzyme regulator activity• high-density lipoprotein particle receptor binding• cholesterol binding• phospholipid binding
+• chylomicron• very-low-density lipoprotein particle• spherical high-density lipoprotein particle• extracellular region• early endosome• екзосома• intermediate-density lipoprotein particle• extracellular space• GO:0005578 Позаклітинна матриця• collagen-containing extracellular matrix
+• negative regulation of cholesterol import• G protein-coupled receptor signaling pathway• negative regulation of very-low-density lipoprotein particle remodeling• lipid transport• chylomicron remnant clearance• negative regulation of fatty acid biosynthetic process• regulation of Cdc42 protein signal transduction• lipid metabolism• negative regulation of high-density lipoprotein particle clearance• phospholipid efflux• negative regulation of low-density lipoprotein particle clearance• negative regulation of very-low-density lipoprotein particle clearance• retinoid metabolic process• negative regulation of receptor-mediated endocytosis• lipid catabolic process• cholesterol efflux• negative regulation of lipoprotein lipase activity• cholesterol homeostasis• very-low-density lipoprotein particle assembly• negative regulation of triglyceride catabolic process• negative regulation of lipid catabolic process• negative regulation of lipid metabolic process• reverse cholesterol transport• triglyceride homeostasis• triglyceride metabolic process• triglyceride catabolic process• chylomicron remodeling• high-density lipoprotein particle remodeling• chylomicron assembly• lipoprotein metabolic process• GO:0015915 транспорт
+Аполіпротеїн CIII  – білок, який кодується геном APOC3, розташованим у людей на короткому плечі 11-ї хромосоми.  3  Довжина поліпептидного ланцюга білка становить 99 амінокислот, а молекулярна маса — 10 852 4 .
+A: Аланін
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+K: Лізин
+L: Лейцин
+M: Метіонін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Задіяний у таких біологічних процесах як метаболізм ліпідів, транспорт, транспорт ліпідів, деградація ліпідів. 
+Білок має сайт для зв'язування з сіаловими кислотами. 
+Секретований назовні.
+  Портал «Біологія»   Портал «Хімія»                       

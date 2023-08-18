@@ -1,0 +1,21 @@
+Ljudski Interferoni tip I su velika i rastuća grupa IFN proteina. Svi tip I interferoni se vezuju za specifični receptorski kompleks na ćelijskoj površini poznat kao IFN-α receptor  koji se sastoji od IFNAR1 i IFNAR2 lanaca. 1 
+Homologni molekuli sa tipom I IFN su nađeni u mnogim vrstama, uključujući sve sisare, kao i kod nekih vrsta ptica, reptila, amfibija i riba. 2 
+Homologni molekuli sa tipom I IFN su nađeni u mnogim vrstama, uključujući sve sisare, kao i kod nekih vrsta ptica, reptila, amfibija i riba. 2 
+IFN-α proteine proizvode leukociti. Oni uglavnom funkcionišu kao deo odgovora urođenog imunskog sistema na virusne infekcije. Postoji 14 pod-tipova, i oni se nazivaju IFNA1, IFNA2, IFNA4, IFNA5, IFNA6, IFNA7, IFNA8, IFNA10, IFNA13, IFNA14, IFNA16, IFNA17, IFNA21. Geni za IFN-α molekule su grupisani na hromozomu 9.
+IFN-α se takođe pravi sintetičkim putem kao medikacija. Postoje dva tipa: 
+-{IFN-β{- proteini se proizvode u velikim količinama od strane fibroblasta. Oni imaju antiviralnu aktivnost, uglavnom u okviru urođenog imunog odgovora. Dva tipa IFN-β su poznata, IFN-β1  i IFN-β3  3  .
+IFN-ε, –κ, -τ, i –ζ izgleda, da postoji samo jednu izoforma kod ljudi, IFNK. Samo preživari kodiraju IFN-τ, IFN-ω varijantu. Do sada, IFN-ζ je nađen samo kod miševa, dok je strukturni homolog, IFN-δ nađen u raznovrsnom nizu placentalnih sisara koji nisu primati i glodari. Većina ali ne svi placentalni sisari kodiraju funkcionalne IFN-ε i IFN-κ gene.
+IFN-ω, mada je samo jedna funkcionalna forma opisana do sad , postoji nekoliko pseudogena: IFNWP2, IFNWP4, IFNWP5, IFNWP9, IFNWP15, IFNWP18, i IFNWP19 kod ljudi. Mnogi ne-primatni placentalni sisari izražavaju više IFN-ω pod-tipova.
+Ovaj pod-tip tipa I IFN je nedavno bio opisan kao pseudogen kod ljudi, ali je potencijalno funkcionalan u genomu domaće mačke.
+IFN-α i IFN-β se izlučuju is mnogih ćelijskih tipova uključujući limfocite , makrofage, fibroblaste, endotelijalne ćelije, osteoblasti i druge. Oni stimulišu makrofage i NK ćelije da proizvedu antiviralni odgovor, i oni su aktivni protiv tumora. Nedavno su plazmacitoidne dendritske ćelije bile identifikovane kao najpotentniji proizvođači tipa I interferona u odgovoru na antigen, i bile su nazvani prirodne IFN proizvodeće ćelije.
+IFN-ω se oslobađa iz leukocita na mestu viralne infekcije ili tumora.
+ Mediji vezani za članak Interferon tip I na Vikimedijinoj ostavi
+inhibitor sinteze pirimidina: Leflunomid    Teriflunomid
+Interferon 
+IL-6 
+BLyS      CTLA-4     CAT     Integrin     Interleukin-6 receptor     LFA-1 
+IL-2 receptor/CD25 
+M: LMC
+ćelije/fis/auag/auab
+imdf/ipig/hyps/tumr
+proc, lek 

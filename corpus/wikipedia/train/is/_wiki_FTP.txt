@@ -1,0 +1,22 @@
+FTP-samskiptareglurnar eða bara FTP  eru samskiptareglur fyrir flutning gagna á milli tölva og er þetta einn elsti samskiptastaðallinn sem enn er í notkun. Hann tilheyrir notkunarlagi OSI netsamskipta módelsins.
+FTP er átta-bita biðlaraþjónustu samskiptastaðall sem getur meðhöndlað gögn án þess að þurfa breyta þeim , aftur á móti er biðtími langur, þ.e. milli þess að skipunin er gefin og gagnaflutningur hefst og einnig getur auðkenning verið langdregin.
+Það er til örugg útgáfa af FTP, en sú sem er almennt í notkun er það ekki, og hægt er að hlera lykilorð sem sent er. Af þeim sökum er verið að taka stuðning við FTP út vöfrum, Chrome, 1  og Firefox. Samt eru til sjálfstæð forrit fyrir FTP, svo örugga, og óörugga útgáfan verða eitthvað við lýði áfram. Hins vegar hafa verið til öruggar leiðir  til að flytja skrár á milli tölva í mörg ár á undan sam hafa ekkert með FTP staðalinn að gera.
+FTP notar tvær TCP tengingar samtímis, aðra á porti 21 og hina á porti 20. Gögnin og skipanirnar sem fara á milli þjóna eða þjóns og biðlara eru aðskilinn, gögnin fara um port 20 á meðan að skipanir til að stjórna samskiptunum fara um port 21. Á meðan á gagnafærslu stendur ganga engar skipanir á milli og portið er aðgerðalaust, þetta veldur því, þar sem að eldveggir loka ónotuðum portum, að rof verður á sambandi.
+                                                 -------------
+                                                |/---------\|
+                                                ||Notenda- ||    -----------
+                                                ||viðmót   |<--->| Notandi |
+                                                |\----^----/|    -----------
+                  --------------                |     |     |
+                  |/----------\|  FTP Skipanir  |/----V----\|
+                  ||Samskipta |<---------------->|Samskipta||
+                  ||túlkur    ||  FTP Samsvörun ||  túlkur ||
+                  |\--^-------/|                |\----^----/|
+                  |   |        |                |     |     |
+      --------    |/--V-------\|     Gagna-     |/----V----\|     --------
+      |Skráa-|<-->|           |<---------------->|          |<--->|Skráa-|
+      |kerfi |    ||   DTP    ||    straumur    ||   DTP   ||     |kerfi |
+      --------    |\----------/|                |\---------/|     --------
+                  --------------                -------------
+                  FTP-Þjónn                   FTP-Þjónn/biðlari
+</prDTP = Data transfer protocol

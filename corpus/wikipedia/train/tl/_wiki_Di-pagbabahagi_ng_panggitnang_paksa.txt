@@ -1,0 +1,7 @@
+Ang di-pagbabahagi ng panggitnang paksa  ay isang kamaliang lohikal na nangyayari kapag ang panggitnang paksa  sa isang silogismo ay hindi maayos na naibahagi sa pagitan ng mga magkasunod na palagay . Kung kaya, ito ay isang uri ng pang-silogismong kamalian.
+Halimbawa:
+Makikita ang panggitnang paksa sa magkasunod na palagay - sa halimbawang nabanggit, ito ay pangkat ng mga nagdadala ng bag. Di-naibahagi ang paksa dahil pareho itong hindi nailalapat sa lahat ng mga nagdadala ng bag. Meron pang ibang nagdadala ng bag na hindi estudyante at hindi ko rin lolo. Kaya, hindi maayos ang pagkakaugnay ng mga estudyante at ng lolo ko - magkahiwalay at hindi magkauring bahagi ng pangkat ng mga nagdadala ng bag.
+Datapuwat, kung ang huling dalawang palagay ay babaligtarin, magiging tumpak ang silogismo:
+Sa halimbawang ito, ang panggitnang paksa ay pangkat ng mga estudyante, at ang unang gamit nito ay malinaw na tumutukoy sa "lahat ng estudyante". 
+Kaya, maayos ang pagkakabahagi ng paksa sa kabuuan ng buong pangkat, at maaari nitong pag-ugnayan ang iba pang mga paksa .
+ Ang lathalaing ito  ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito.

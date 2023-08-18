@@ -1,0 +1,9 @@
+Ėminys – iš generalinės aibės  tyrimui paimtas objektas ar medžiagos porcija. Ėminiai dažnai imami ėmikliais.
+Žodžiu ėminys apibūdina bet kokius ėminius, nepriklausomai nuo jų tolesnio panaudojimo. Ėminiai gali būti tiriami įvairiais metodais , gali būti išsyk tiriami ar tiriami po papildomo apdorojimo, gali būti saugomi galimam vėlesniam tyrimui, jeigu iškils poreikis.
+Labai dažnai ėminys yra imties dalis – vienas objektas ar viena medžiagos porcija, esantis imties narys. Ėminių skaičius imtyje – tai imties tūris.
+Imčių ryšys su ėminiais dvejopas:
+Lietuvos moksle ir gamyboje susiklostė tradicija skirstyti ėminius į dvi grupes – bandinius ir mėginius .
+Bandinys – ėminys, kuris yra ar bus tiriamas fizikiniais  metodais. Terminas bandinys naudojamas fizikoje, mechanikoje, inžinerijoje, mašinų gamyboje ir kt. panašiose srityse. 
+Bandinys taip pat yra tiesiogiai bandomas produktas , tam tikras ruošinys fizikiniams ar mechaniniams tyrimams .
+Mėginys – ėminys, kuris yra ar bus tiriamas cheminiais, biocheminiais, biologiniais metodais. Terminas mėginys naudojamas chemijoje, biologijoje, medicinoje, žemės ūkyje, miškininkystėje, maisto pramonėje ir kt. panašiose srityse. Tos pačios tradicijos dėka atsiradęs ir terminas mėgintuvėlis.
+Atvejais, kai imant mėginį neaišku, kaip jis bus tiriamas ir atvejais, kai tenka kalbėti tiek apie bandinius, tiek apie mėginius, naudojamas bendrasis terminas ėminys.

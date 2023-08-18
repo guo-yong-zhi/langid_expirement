@@ -1,0 +1,3 @@
+
+modifier  Lawson est un astéroïde de la ceinture principale.
+ Lawson est un astéroïde de la ceinture principale. Il fut découvert le 14 septembre 1998 à Socorro  par le projet LINEAR. Il présente une orbite caractérisée par un demi-grand axe de 2,21 UA, une excentricité de 0,19 et une inclinaison de 3,1° par rapport à l'écliptique.

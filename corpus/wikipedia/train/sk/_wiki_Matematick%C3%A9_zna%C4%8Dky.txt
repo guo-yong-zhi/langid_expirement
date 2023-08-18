@@ -1,0 +1,57 @@
+rovná sa , nespisovne aj je rovné alebo rovnítko
+nerovná sa, je rôzne od, nespisovne aj nie je rovné
+je totožné, je kongruentné, nespisovne aj je identicky rovné
+je približne rovné
+je menšie ako
+je väčšie ako
+je menšie alebo rovné, rovné najviac
+je väčšie alebo rovné, rovné najmenej
+je prvkom 
+absolútna hodnota čísla
+plus, a, značka pre sčítanie, pre kladnú hodnotu
+mínus, menej, bez, značka pre odčítanie, zápornú hodnotu
+krát, násobené, znamienko pre násobenie
+delené, lomené, značka pre delenie, zlomková čiara
+percento , 
+promile 
+n-tá odmocnina
+druhá odmocnina
+okrúhle zátvorky
+hranaté zátvorky
+zložené zátvorky
+n-faktoriál
+súčet  viacerých sčítancov
+súčin viacerých činiteľov
+je kolmé
+je rovnobežné
+delta
+nekonečno
+otvorený interval
+uzavretý interval
+postupnosť a1, a2, a3, …, an
+limita
+x sa blíži k a, x konverguje k a
+maximum, najväčšia hodnota
+minimum, najmenšia hodnota
+derivácia funkcie f
+parciálna derivácia funkcie f podľa x
+integrál neurčitý
+integrál určitý 
+reálna časť komplexného čísla z
+imaginárna časť komplexného čísla z
+prirodzená exponenciálna funkcia
+prirodzená logaritmická funkcia, prirodzený  logaritmus
+logaritmická funkcia, logaritmus o základe a 
+dekadický logaritmus 
+signum čísla
+je podobné
+trojuholník
+stupeň 
+minúta 
+sekunda 
+pravý uhol 
+grád 
+centigrád 
+centicentigrád 
+arkus .
+- desatinná čiarka

@@ -1,0 +1,17 @@
+Danh sách các tiểu hành tinh 1 
+Chú thích: 
+AMR - Nhóm Amor,
+APL - Nhóm Apollo,
+ATN - Nhóm Aten,
+BIN - tiểu hành tinh đôi,
+CBW - kubewano,
+CNT - Centauri,
+HLD - Nhóm Hilda,
+JUT - Thiên thể Troia Sao Mộc,
+MBA - tiểu hành tinh thuộc vành đai chính,
+NET - Thiên thể Troia Sao Hải Vương,
+PHA - tiểu hành tinh có khả năng gây nguy hiểm,
+PLT - Nhóm Plutino,
+SDO - tiểu hành tinh thuộc vành đai Kuiper,
+TNO - thiên thể transneptun,
+TNR - thiên thể transneptun trên các quỹ đạo cộng hưởng.

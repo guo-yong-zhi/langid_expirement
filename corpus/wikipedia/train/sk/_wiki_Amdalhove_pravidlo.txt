@@ -1,0 +1,210 @@
+Amdahlové pravidlo je používané v informatike k vyjadreniu maximálneho predpokladaného zlepšenia systému potom, čo je vylepšená iba niektorá z jeho častí. Využíva sa napr. u viacejprocesorových systémov k predpovedaní teoretického maximálneho zrýchlenia pri pridávaní ďalších procesorov.
+Veľkosť zlepšenia môžeme označiť ako zrýchlenie S a bude nám určovať, koľkokrát je beh úlohy s vylepšením rýchlejší. 
+  
+    
+      
+        S
+        =
+        
+          
+            v konnos  pri pou it  zlep enia
+            v konnost bez pou it  zlep enia
+          
+        
+        =
+        
+          
+            
+              P
+              
+                nov 
+              
+            
+            
+              P
+              
+                p vodn 
+              
+            
+          
+        
+      
+    
+    }=}}}
+  
+alebo tiež pomocou
+  
+    
+      
+        S
+        =
+        
+          
+            
+              doba v po tu bez pou itia zlep enia
+            
+            
+              doba v po tu pri pou it  zlep enia
+            
+          
+        
+        =
+        
+          
+            
+              T
+              
+                p vodn 
+              
+            
+            
+              T
+              
+                nov 
+              
+            
+          
+        
+      
+    
+    } \over = \over T_}
+  
+Pokiaľ chceme počítať celkový zisk na vylepšenie určitých častí, môžeme použiť nasledujúci postup:
+Najskôr definujeme premenné 
+  
+    
+      
+        
+          F
+          
+            E
+          
+        
+        =
+        
+          
+            
+              p vodn  doba v po tu zlep enej  asti
+            
+            
+              p vodn  celkov  doba v po tu
+            
+          
+        
+         
+        1
+      
+    
+    = \over \leq 1}
+  
+ 
+  
+    
+      
+        
+          S
+          
+            E
+          
+        
+        =
+        
+          
+            
+              p vodn  doba v po tu zlep enej  asti  lohy
+            
+            
+              doba v po tu zlep enej  asti  lohy
+            
+          
+        
+        >
+        1
+      
+    
+    = \over >1}
+  
+ 
+potom môžeme spočítať dobu výpočtu po zlepšení 
+  
+    
+      
+        
+          T
+          
+            po zlep en 
+          
+        
+        =
+        
+          T
+          
+            pred zlep en m
+          
+        
+         
+        
+          
+        
+      
+    
+    }=T_\times \left}
+  
+ 
+celkové zrýchlenie S potom môžeme spočítať ako 
+  
+    
+      
+        
+          S
+          
+            celkov 
+          
+        
+        =
+        
+          
+            
+              T
+              
+                pred zlep en m
+              
+            
+            
+              T
+              
+                po zlep en  
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              
+              +
+              
+                
+                  
+                    F
+                    
+                      E
+                    
+                  
+                  
+                    S
+                    
+                      E
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    }= \over T_=}}}}
+  

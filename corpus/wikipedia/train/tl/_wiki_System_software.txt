@@ -1,0 +1,2 @@
+Ang System software  ay uri ng software na namamahala at gumagabay sa mga gawain ng sistemang kompyuter tulad ng pamamahala ng hardware at interface sa pagitan ng application software at ng kompyuter. Ang pinakakilalang uri ng system software ay ang operating system. Ang mga system software sa kasalukuyan, ay nakagagawa ng maraming task sa isang tampok na oras.
+ Ang lathalaing ito na tungkol sa Kompyuter ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito.

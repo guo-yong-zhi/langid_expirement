@@ -1,0 +1,9 @@
+Ilivuta: ActionScript, AtScript, CoffeeScript, Dart, JScript .NET, LiveScript, Objective-J, Opa, QML, Raku, TypeScript
+JavaScript ni lugha ya programu. Iliundwa na Brendan Eich na ilianzishwa 4 Desemba 1995. Leo tunatumia Javascript kusudi kuzijenga tovuti. Ilivutwa na Python.
+Ilianzishwa 4 Desemba 1995 katika Netscape. Kisha Ilitelekezwa katika Microsoft 1996.
+Namna ya JavaScript ni namna nyingi.
+Sintaksia ya JavaScript ni rahisi sana.
+Programu kwa kuchapa « Jambo ulimwengu ! ».    consol  .  log  ; 
+    function     factorial        
+ factorial  ;     // returns 6 
+</pr

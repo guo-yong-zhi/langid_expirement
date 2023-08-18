@@ -1,0 +1,5 @@
+80186 je procesor architektúry x86 vyvinutý firmou Intel okolo roku 1982. 80186 bolo vylepšené jadro založené na starších procesoroch Intel 8086 a Intel 8088. Rovnako ako 8086 mal 16 bitovú zbernicu a bol dostupný aj vo verzii Intel 80188 s 8-bitovou zbernicou. Pôvodný takt týchto procesorov bol 6 MHz. Boli väčšinou používané ako mikrokontroléry. Neboli príliš používané v osobných počítačoch, ale existuje pár výnimiek: počítače Mindset, Siemens PC-D, Compis, Unisys ICON, HP 2001x, Tandy 2000, Philips :YES. Spoločnosť Acorn tiež vytvorila plugin "Druhý procesor", ktorý obsahoval čip 80186 s 512 KiB RAM.
+Jedna z hlavných funkcií procesorov série 80186/80188 bolo redukovať počet čipov nutných k zahrnutiu vlastností ako DMA radič, radič prerušenia, časovač atď.
+V 80186/80188 boli predstavené nasledovné nové inštrukcie:
+Líši sa tým, že má externú dátovú zbernicu iba 8-bitovú.
+Tento článok je čiastočný alebo úplný preklad článku Intel 80186 na českej Wikipédii.

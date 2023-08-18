@@ -1,0 +1,32 @@
+JavaServer Pages – technologija, leidžianti dinamiškai generuoti HTML, XML, ar kito tipo puslapius. Ši technologija suteikia galimybę į statinį puslapį įterpti Java kodą ir kitą dinaminį turinį.
+JSP puslapyje kaitaliojasi įprastine HTML kalba parašyti fragmentai bei java kalba parašytos sekcijos. J2EE serveris vykdo puslapyje esantį java kodą kuris iš anksto specialia JSP direktyva deklaruotiems kintamiesiems priskiria reikiamas reikšmes. Kita JSP direktyva šias reikšmes galima reikiamoje vietoje įterpti į dokumentą.
+Gerai parašytoje sistemoje JSP puslapio kodas atsakingas tik už paties dokumento generavimą. Sąveika su duomenų bazėmis, sudėtingesni skaičiavimo algoritmai, sprendimų priėmimas bei kiti panašūs algoritmai turi būti koduojami aukštesniame, EJB lygyje .
+ <html>
+  <body>
+<%!String intarpas; %>
+    <p>Cia paprastas HTML tekstas</p>
+<%
+  // O čia java kodas:
+  int s = 0;
+  for 
+    s += i;
+  intarpas = "Skaiciu nuo vieno iki devyniu suma: "+s;
+%> 
+</pre>
+<p>Java kodo rezultatas:</p>
+<b><i><u> <%= intarpas %></b></i></u>
+  </body>
+</html>
+ <ul>
+<%
+ for 
+   
+%>
+</ul%>
+     <%@ include file="betkoksfailas.jspf" %>
+    <%@ page import="java.util.*" %>
+   <%@ page contentType="text/html" %>
+   <%@ page isErrorPage=false %>
+   <%@ page isThreadSafe=true %>
+     <%@ taglib prefix="myprefix" uri="taglib/mytag.tld" %>
+</prVisąlaik prieinami skripte yra šie kintamieji:

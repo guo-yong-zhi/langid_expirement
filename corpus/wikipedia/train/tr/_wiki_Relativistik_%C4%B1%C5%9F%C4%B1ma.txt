@@ -1,0 +1,84 @@
+Relativistik Işıma doppler ışıması ya da doppler artması olarak da bilinir.  Maddenin ışık hızına yakın bir hızda yayılan parlaklığını açıklayan bir işlemdir. Astronomi kaynaklarında, katılımlarla büyüyen sıkışık madde kökeninden gelen Relativistik jet plazmalarında Relativistik ışınma zıt yönlü meydana gelir. Katılımlarla büyüyen sıkışık madde ve Relativistik jetler sırayla gözlemlenmiş olan olayları açıklamayı hatırlatıyor. X ışını ikilisi, gama ışın patlaması ve etkin çekirdekli galaksi.
+Işıma, herhangi bir şeyin parlaklığını etkiler.Mesela deniz feneri ışık kaynağının görünümünü etkler. Işık kaynağı gemiye görünmez ya da sönük gelir eğer ışık kaynağı gemiye doğru ışımıyorsa ki o zaman çok parlak bir ışık olarak gemiden gözükür.  Bu deniz feneri etkisi, Relativistik ışımada hareket yönünün ne kadar önemli olduğunu örnekler. Eğer elektromanyetik radyasyon yayan az miktarda gaz gözlemciye doğru hareket ediyorsa durgun halinden daha parlak gelecektir. Eğer gaz gözlemciye doğru hareket etmiyorsa durgun halinden daha sönük gelecektir. Bu deniz feneri etkisinin önemi jetler tarafından tespit edilmiştir. M87 adlı galaksideki ikiz jetlerden biri dünyaya doğru diğeri ise ona zıt yönde giderken ışımanın nasıl görünümlerini etkilediğini gösterir. M87 nin dünyaya doğru hareket eden jeti teleskopla rahatça görülebilir ve ışıma yüzünden çok daha parlaktır. M87 deki diğer jet ise  ışıma nedeniyle görünmeyecek kadar sönüktür. 1  3C31 M87 den daha farklıdır çünkü her iki jet de görüş açımıza neredeyse 90 derece açıdadır ve bu nedenle aynı yoğunukta ışınlamaya maruz kalır. M87 dekinin aksine, 3C31 deki her iki jet de gözükür.
+Relativistik olarak hareket eden cisimler birçok fiziksel nedenden dolayı ışıma yapar. Işığın sapması, cismin hareket yönü boyunca çok sayıda fotonun yayılmasına neden olur. Doppler etkisi fotonların enerjisini değiştirir . Son olarak, cisim tarafından yayılan fotonların hareketi boyunca ölçülen zaman aralığı ile dünyada gözlemci tarafından ölçülen zaman farklıdır. Bunun nedeni ise, zaman genişlemesi ve fotonun geliş zamanı etkisinden dolayıdır. Tüm bu etkiler, Relativistik doppler etkisini tanımlayan denklemler tarafından belirtilen hareket eden cismin parlaklığını gösterir. 
+Basit bir jet modeli,ışık hızına yakın ve dünayaya doğru yolculuk yapan bir homojenik bir küredir. Bu basit jet modeli ışımaların fiziksel süreçlerini yeterli bir şekilde örneklese de gerçek olmayan bir modeldir.
+Relativistik jetler enerjilerinin çoğunu senkrotron emisyonu üzerinden yayarlar. Basit modelimizde, küre yüksek Relativistik elektronlar ve sabit bir manyetik alan içerir. İçerideki elektronlar ışık hızından biraz düşük seviyede hareket eder ve manyetik alan tarafından döndürülür. Elektronlardaki her yön değişimi, fotonlardaki enerji formunun ortaya çıkmasına eşlik etmesiyle olur. Yeteri kadar elektron ve yeteri kadar güçlü manyetik alan ile relavisitk küre çok sayıda foton yayablir. Düşük radyo frekansından güçlü x-ray fotonlarına doğru sıralanır. 
+Tayf örneği şekli basit bir senkrotron tayfın temel özelliklerini gösterir. Düşük frekansta jet küremiz opaktır. Parlaklık derecesi frekans arttıkça artar, ta ki tepe noktalarında kadar ve daha sonra azalmaya başlar. Tepe noktası frekansı 
+  
+    
+      
+        log
+         
+         
+        =
+        3
+      
+    
+    
+  
+ oranında olur. Bundan daha yüksek frekanslarda jet küremiz şeffaf olur. Parlaklık frekans ile azalır, ta ki kırılma anına kadar. Bundan sonra ise parlaklık hızla azalmaya başlar. Kırılma anı 
+  
+    
+      
+        log
+         
+         
+        =
+        7
+      
+    
+    
+  
+ oranında olur. Keskin kırılma anları, foton yayan elektronların çok fazla enerji kaybetmesinden dolayı meydana gelir. Elektronların enerjilerindeki keskin düşüş tayfta keskin bir düşüş meydana geldiğine işarettir. Senkrotron tayfının eğimindeki değişim tayf indeksiyle modellenir. Tayf indeksinde, verilen frekans dizisinin diagramdaki eğimi 
+  
+    
+      
+        log
+         
+        S
+      
+    
+    
+  
+ vs. 
+  
+    
+      
+        log
+         
+         
+      
+    
+    
+  
+. 
+Basit jet modelimiz olan homojenik küremizde, gözlemlenen parlaklık gerçek parlaklıkla ilişkilidir. 
+Gözlemlenen parlaklık, jetin hızına, görüş açısına doppler faktörüne ve jetin içindeki özelliklere bağlıdır. 
+Işıma denklemi üç etkiden dolayı bozulabilir
+Sapma, gözlemcinin göreli çapraz hareketinden dolayı cismin yönündeki değişimdir. Eylemsizlik sisteminde, sapma ışık zaman doğrulamasına eşit ve zıttır. 
+Günlük yaşantıda sapma fazlaca bilinen bir olaydır. Farz edelim ki birisi yağmurda ayakta duruyor olsun ve rüzgar olmasın. Birey ayakta dikildiği süre boyunca yağmur düz bir şekilde yeryüzüne indiğini görecektir. Fakat birey hareket halindeyken mesela arabayla giderken yağmurun düz değil de belli bir açıyla yağdığını görecektir. Bu yağan yağmurların yönündeki değişimin sebebi ise sapmadır. 
+Sapma miktarı yayılan cisim hızına veya gözlemciye göre dalgaya bağladır. Yukarıdaki örnekte arabanın hızı ile yağmurun hızı karşılaştırlmıştır. Bu durum, cisim ışık hızına yakın bir hızda bile olsa değişemeyecektir. Aynı klasik ve Relativistik etkide olduğu gibi sapma da yayılma zamanı içerisinde yayıcının hızına ve emme zamanı içerisinde gözlemcinin hızına bağlıdır. 
+Relavisitk jet olayında, ışıma jetin hareket yönü boyunca daha fazla ileriye enerji gönderiyormuş gibi gösterir. Basit jet modelimizdeki homojen küremiz her yönde eşit enerji yayar. Dünyada, hareket eden küre enerjisinin çoğunu hareket yönü boyunca yaydığı gözlemlenir. Bu nedenle hareket yönü boyunca ışınlama yapar. 
+Nicel olarak sapma, aşağıdakinin parlaklığındaki değişimden sorumludur. 
+Zaman genişlemesi özel göreliliğinin bir sonucudur ve aşağıdakinin gözlemlenmiş parlaklığındaki değişimden sorumludur
+Kırmızıya kayma belirli frekansta gözlemlenen parlaklığı değiştirebilir  fakat bu bir ışıma etkisi değildir. Kırmızya kayma, aşağıdakinin gözlemlenmiş parlaklığındaki değişimden sorumludur.
+Lorenz değişmezliği, 
+  
+    
+      
+        
+          
+            S
+            
+               
+              
+                3
+              
+            
+          
+        
+      
+    
+    }
+  
+  niceli ile başlayan ışıma denkleminin çok gelişmiş bir türevidir. Bu farklı referans sistemlerinde aynı değere sahiptir.

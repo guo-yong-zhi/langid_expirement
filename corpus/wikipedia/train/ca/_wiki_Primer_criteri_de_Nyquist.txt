@@ -1,0 +1,60 @@
+En comunicacions, el Criteri de Nyquist per ISI  descriu les condicions sota les quals, quan són satisfetes per un canal de comunicació , el resultat és una Interferència entre símbols nul·la. Aquest criteri proveeix un mètode per construir funcions de banda limitada que resisteixin els efectes de la interferència entre símbols.
+Quan símbols consecutius són transmesos per un canal mitjançant una modulació lineal , la resposta a impuls  del canal causa que un símbol transmès s'escampi en el domini del temps. Això causa interferència entre símbols perquè els símbols transmesos anteriorment afecten els rebuts actualment, reduint així la tolerància al soroll. El teorema de Nyquist relaciona aquesta condició del domini del temps a una condició equivalent en el domini de la freqüència.
+Si anomenem la resposta a l'impuls del canal 
+  
+    
+      
+        h
+        
+      
+    
+    
+  
+, llavors la condició per a una resposta lliure d'ISI pot ser expressada com a: 
+per a tots els enters 
+  
+    
+      
+        n
+      
+    
+    
+  
+, on 
+  
+    
+      
+        
+          T
+          
+            s
+          
+        
+      
+    
+    }
+  
+ és el període del símbol. El teorema de Nyquist diu que això equival a:
+on 
+  
+    
+      
+        H
+        
+      
+    
+    
+  
+ és la transformada de Fourier de 
+  
+    
+      
+        h
+        
+      
+    
+    
+  
+. Aquest és el criteri de Nyquist contra ISI.
+Aquest criteri pot ser entès intuïtivament de la següent manera: rèpliques d'H desplaçades en la freqüència han de sumar conjuntament a un valor constant.
+En la pràctica aquest criteri és aplicat a filtres de banda base prenent la seqüència de símbols com a impulsos amb pesos . Quan els filtres en el sistema de comunicació satisfan el criteri de Nyquist, els símbols poden ser transmesos a través d'un canal amb una resposta plana, dins d'una banda limitada de freqüència, sense ISI. Exemples d'aquests filtres són els filtres de cosinus alçat, o els filtres de sinus com a cas ideal.

@@ -1,0 +1,156 @@
+Ang Système international d'unités   ang pinakagamiting sistema ng mga yunit sa mga pang-araw-araw na kalakalan sa mundo at halos pandaigdigang ginagamit sa larangan ng agham.
+Noong 1960, pinili ang SI bilang subset ng sistema ng yunit na metre-kilogram-second  sa halip na matandang sistemang centimetre-gram-second . Nang lumaon maraming bagong mga yunit ang idinagdag sa pagpasok ng SI. Ang SI ay kalimitang tinatawag na sistemang metriko lalo na sa Estados Unidos na kung saan ito'y di-lubos na tanggap at sa Gran Britanya na kung saan maliit pa rin ang paggamit nito. Isang itinakdang saligan ng pagsukat na hinalaw at pinalawak mula sa sistemang metriko ang SI. Alalaungbaga, hindi lahat ng mga yunit ng panukatang metriko ay tanggap bilang SI yunit.
+Mula pa noong 1640, ang mga siyentipiko lalo na sa Pransiya ay nagmungkahi at nag-usap na sa paggamit ng isang panukatang gumagamit ng sistemang desimal  ayon sa mga likas na yunit. Ang opisyal na pagtanggap ng sistemang nasabi ay nangyari matapos ang Rebolusyong Pranses noong 1789. Sinikap sa sistemang metriko ang pagpili ng mga yunit na makatuwiran at praktikal na naayon sa opisyal na ideolohiya ng rebolusyon na maging "wagas at matuwid"; iminungkahi ito bilang malaking unlad mula sa isang pabago-bagong mga yunit na ginamit noon na kung saan ang halaga nito ay naaayon sa rehiyon gumagamit nito.
+Ang haba ang pinakamahalagang yunit: ang isang metro ay itinakdang kapantay ng isang bahagi ng 10 000 000  na distansiya mula sa polo  hanggang sa ekwador  ng meridyan na dumaraan sa Paris. Halos 10% mas mahaba ito sa isang yarda. Nang kalaunan, isang baras na gawa sa platino na may matigas na hugis -X sa seksiyong sirkular ginawa bilang batayan ng isang metrong haba. Dahil sa kahirapang tunay sa pagsukat ng haba ng isang kwadradong meridyan noong siglo 18, ang unang platinong prototype ay maikli ng 0.2 milimetro. Nitong nagdaan, itinakda ang metro bilang isang tiyak na bilang ng wavelength  ng isang radiasyon. Sa kasalukuyan, ang metro ay itinatakda bilang distansiyang nilallakbay ng liwanag sa vacuum sa isang tiyak na oras. Iniwanan na ang pagtatakda ng metro ayon sa multipleng bilang na ito sa meridyan.
+Gramo ang unang saligang yunit ng bigat  sa sistemang metriko na pinili upang iangkop sa bigat ng isang cubic centimeter  ng tubig.  Sa praktikal na kadahilanan, ang sangguniang pamantayan ay itinago sa Archives de la république noong 22 Hunyo 1799 bilang isang kilogramo . Halos 2.2 libra ang isang kilogramo . Noong 1889 sa unang Panglahatang Kumperensiya sa Timbang at Sukat , tinanggap ang pagpapalit ng prototype na gumagamit ng alloy ng 90% plátino at 10% iridyo. Ito ngayon ang nagsisilbing pamantayan sa kilogramo at nakatago sa isang baul sa Paris. Naging batayang yunit ang kilogramo noon 1901.
+Noon ding 1901, ang isang kilo ng dinalisay na tubig sa kanyang pinakasiksikan  sa ilalim ng atmosperang pamantayan ng presyon ang ginamit sa pagtatakda ng litro. Isang mas madaling gamiting yunit ito kaysa sa napakalaking metro kubiko . Sa dahilang ang isang litro ay kakaiba sa isang desimetro kubiko nang isang bahagi ng 28 milyon, ang pagtatakdang ito ay iniwanan na noong 1964 pabor sa paggamit ng desimetro kubiko .
+Ang kilogramo lamang ang saligang yunit na hindi itinakda ayon sa di-nababagong kababalaghan sa kalikasan. Dahil sa pagtatakdang ito sa paggamit ng isang artefact , hindi ito madaling gamitin dahil sasadyain pa ito upang ihambing ang isang kandidatong batayan ng isang bansa sa itinakdang saligang pamantayan. Sa kadahilanang ito gayundin ang gawa upang maprotektahan ang saligang pamantayan sa paghigop o pagsingaw ng gas at singaw, nanawagan ang mga siyentipiko sa isang pagtitipon sa Royal Society sa London noong 15 ng Pebrero 2005 na mapalitang ang bigat ng pamantayang kilogramo sa Paris ng isang pamantayang ayon sa "isang katangiang di nagbabago sa kalikasan"; ngunit walang desisyon sa pagtatakda nito ang mangyayari bago ang 2007.
+Ang yunit ng temperatura ay naging sentigrado o baliktad ng gradong Celsius  na kung saan itinakda ang mercury scale  ay pantay na hinati-hati sa 100 bahagi mula sa paghahalo ng tubig-yelo bilang 0 °C at ang pagkulo  ng dinalisay na tubig bilang 100 °C . Ito ang metrikong yunit ng temperatura sa pang-araw-araw na gamit. Makaraan ang isang daang taon, ang pagkakatuklas ng absolutong sero ang nag-atubili sa pagtatatag ng bagong batayan ng temperatura, ang sukat Kelvin , na kung saan ang sero ay inilipat sa absolutong sero na kung saan ang pagkakaiba ng temperatura ng pagtigas  at pagkulo ng tubig ay halos malapit sa 100 K.
+Ang metrikong yunit ng panahon ay ang segundo na unang itinakda bilang isang bahagi ng 86 400 ng isang karaniwang solaryong araw . Ang pormal na pagtatakda ng segundo ay maraming ulit na binago nang masumpungan ang mas tumpak na pakahulugan: una, ayon sa obserbasyon ng kalawakan; sumunod, ang orasan ng tenedor sonico, orasang kwarso  at ngayon ang orasang atomika na gumagamit ng cesio.
+Unang binigyan ng ngalang SI ito noong 1960 at huling dinagdagan naman noon 1971. Ito ay nasa pangangasiwa ng organisasyon sa pamantayan ng Bureau International des Poids et Mesures 
+Kalimitan ang mabilis na pagtanggap ng sistemang metriko bilang kasangkapang pang-ekonomya at pangaraw-araw na kalakalan ay ayon sa kasalatan ng kaugaliang sistema  sa maraming bansa: upang ipakita ang ilang konsepto o bunga ng pagtatangka na magkaroon ng isang pamantayan sa sukat sa iba't ibang sistemang ginagamit sa isang rehiyon. Sa pagtaas ng kalakalan sa pandaigdigang pamilihan ng isang bansa, tumalab rin paggamit ng sistemang metriko. Sa agham, nagpapadali ito sa pagpapakita ng napakalaki o napakaliit na dami  dahil naaayon ito sa sistemang desimal.
+Makikita sa pangaraw-araw na lokal na paggamit ng mga metrikong yunit ang pagkakaiba ng mga kultura. Halimbawa, ang tinapay ay itinitinda ng kalahati, isa o dalawang kilong  laki sa maraming bansa ngunit sa dating Unyong Sobyet ito ay mabibili lamang sa multiple ng 100 gramo . Sa ilang bansa, ang paggamit ng pusuwelo ay itinakda sa 250 mL, at ang mga halaga ng mga bilihin ay por siyento  gramo  sa halip na por kilogramo . Malaki rin ang pagkakaiba ng kultura sa pagitan ng mga pisiko at mga inheniyero lalo na ang inhenyero sa radyo bago pa man tanggapin ang sistemang MKS gayundin ang mga sumunod rito na SI yunit. Tinanggap sa pisikang teoretika  ang CGS at tunay na inkombenyente ang paggamit nito sa inhenyeriya at di naiintindihan ng sambahayang gumagamit ng mga aparatong gumagamit ng volts at watts. Ang mga inheniyero ay gumagamit ng volts, amperes, ohms, farads at coulombs na may tunay na praktikal na gamit.
+Di dapat ipasangtabi ng mga karaniwang tao ang pinong pagsasaayos na nangyari sa yunit na ayon sa metriko nang nakaraang 2000 daon, na kadalasang ginagawa ng mga eksperto upang itama sa paggamit nito sa pananaliksik . Ang mga pagbabagong ito ay walang apekto sa pangaraw-araw na paggamit ng metrikong yunit. Ang mga pagbabagong ito ang dahilan kung bakit ang mga pabor sa nakagawiang yunit sa Amerika ay laban sa paggamit ng metrikong yunit. Ang mga nakaugaliang yunit ngayon ay nakatakda na sa pamamagitan ng SI yunit kaya ang pagkakaiba ng pakahulugan ng SI yunit ay nagpapakita ng pagkakaiba nila sa nakaugaliang yunit.
+Binubuo ng pitong pamantayang yunit at maraming halaw na yunit ang SI kasama rito ang paggamit ng maraming unlapi . Narito ang pitong pamantayang yunit: kilogramo, metro, segundo, ampere, kelvin, mol at candela. Nagtatakda rin ang SI ng ilang unlaping ginagamit sa mga yunit: na kapag ginamit sa pangalan ng yunit nagpapakita ito ng pagkakahati-hati at multiple  nito. Halimbawa, ang unlaping kilo ay nagpapakita ng maramihan ng isang libo, kaya ang kilometro ay 1000 metro, ang kilogramo ay 1000 gramo at iba pa. Hindi tamang pagdikitin ang dalawang unlapi; ang isang bahagi ng isang milyong kilogramo ay isang miligramo at hindi isang mikrokilogramo.
+Ang mga simbolo ay isinusulat sa minuskula  maliban sa mga simbolong halaw mula sa pangalan ng tao. Halimbawa, ang yunit ng presyon ay hinalaw mula kay Blaise Pascal. Kaya, "Pa" ang simbolo nito ngunit kung isulat ng buo ay "pascal". Ang isang eksepsiyon ay ang litro na "l" ang unang daglat nito at halos kamukha ng bilang "1". Iminungkahi ng NIST na gamitin ang "L" na ngayon ay karaniwang ginagamit sa Amerika, Canada at Australya. Tinanggap rin itong alternatibo ng CGPM. Ang kursibong pasulat na "ℓ" ay paminsan-minsang makikita lalo na sa Hapon ngunit ito'y di rekomendado ng pamantayang organisasyon. Para sa marami pang impormasyon, tingnan ang Litre.
+Pang-isahang  porma lamang dapat isulat ang mga simbolo nito: i.e., "25 kg", hindi "25 kgs". Ang paggamit ng maramihang  porma ay naaangkop sa wika; ang pangmaramihang gamit ng "s"  ay hindi maayos dahil ang "s" ay simbolo ng segundo.
+Hindi na dapat tuldukan  ang mga simbolo.
+Higit na mainam isulat ang mga simbolo ng sulat Romano   upang hindi malito. Ang sulat Italiko  ay ginagamit sa mga variables sa matematika , l para sa haba).
+Dapat bigyan ng pagitan ang bilang at ang simbolo. Halimbawa, "2.21 kg", "7.3×102 m2", "22 °C" . Maliban rito ang mga simbolo ng planong antas  ng anggulo, minuto at segundo , na isinusulat nang walang patlang matapos isulat ang bilang.
+Dapat bigyan ng patlang ang bawat tatatluhing grupo ng desimong digit, e.g. 1 000 000 or 342 142 .
+Ideneklara ang ikasampung resolusyon ng CGPM noong 2003 na ang panandang desimo ay tuldok o kuwit sa pagsulat nito. Sa gamit, ang tuwirang paghinto ay ginagamit sa Ingles at ang kuwit sa karamihang ng wikang Europeo.
+Ang mga simbolong hinalaw mula sa pagpaparami o ng maramihang yunit ay pinagsasama sa pamamagitan ng patlang o sentrong tuldok, , e.g. N m o N·m. 
+Ang mga simbolong binuo mula sa paghahati ng dalawang yunit ay pinagsasama ng isang solidus , o kaya'y ng negatibong exponent. Halimbawa, ang "metro por segundo" ay maisusulat ng "m/s", "m s-1", "m·s-1" or . Hindi dapat gamit ang solidus kung ang bunga ay makalilito, i.e. "kg·m-1·s-2" ay mas mainap kaysa "kg/m/s2".
+Ang sumusunod ay ang mga pundamental na yunit na kung saan hinalaw ang iba. Kanyang angkin ang mga sukat na ito. Ang pagtatakda nito ay malawakang tanggap.
+Mga Pangunahing yunits ng SI
+Pangalan: kilogramo
+Simbolo: Kg
+Kantidad: masa 
+Pagtatakda:
+Ang yunit ng bigat na itinakda sa bigat ng pandaigdigang prototype na kilogramo  na nakatago sa Bureau International des Poids et Mesures , Sèvres, Paris , CR 34-38). Makikitang ang kilogramo ay isang pamantayang yunit na gumagamit ng unlapi; ang gramo ay isang hinalaw na yunit na katumbas ng isang ikasanlibong  parte ng kilogramo; ang unlaping mega ay ginagamit sa gramo at di sa kg: e.g. Gg, hind Mkg. Ito rin ang kaisa-isang yunit na gumagamit ng pisikal na prototype sa halip na nasusukat na likas na kababalaghan .
+Pangalan: segundo
+Simbolo: s
+Kantidad: Oras/Panahon
+Pagtatakda: 
+Ang yunit ng panahon na may tagal na eksaktong 9 192 631 770 piriyod ng silahis na katugon  sa transisyon sa pagitan ng dalawang napakapinong nibel  ng panatag na katayuan  ng atomo ng cesio-133 sa temperaturang 0 K  Resolution 1, CR 103).
+Pangalan: metro
+Simbolo: m
+Kantidad: Haba 
+Pagtatakda: 
+Ang yunit ng haba na itinakda sa haba ng daang  tinahak ng liwanag sa vacuum nang may pagitang oras  ng isang bahagi ng 299 792 458 ng isang segundo  Resolution 1, CR 97).
+Pangalan: ampere 
+Simbolo: A
+Kantidad: Daloy ng koryente
+Pagtatakda: 
+Ang yunit ng daloy ng koryente ay di-nababagong daloy, na kung pananataliin ng dalawang magkaagabay  na daluyan ng koryente , na walang-hanggahang haba at di-pansing seksiyon sirkular, na pinaghiwalay ng isang metro sa vacuum na magbubunga ng pwersa sa pagitan ng daluyang ito ng 2×10 −7 newtons por metro ng haba  Resolution 7, CR 70).
+Pangalan: kelvin
+Simbolo: K
+Kantidad: Termodinamikang temperatura 
+Pagtatakda: 
+Ang yunit ng termodinamikang temperatura  ay ang hating-bilang na 1/273.16  ng termodinamikong temperatura sa punto triple ng tubig   Resolution 4, CR 104).
+Pangalan: mol  
+Simbolo: mol
+Kantidad: Dami ng sustansiya
+Pagtatakda: 
+Ang yunit ng dami ng sustansiya na itinakda sa dami ng sustansiyang naglalaman ng mga simulaing butil o kaya'y mga atomo sa 0.012 kilogramo ng dalisay na karbon-12  Resolution 3, CR 78).  Ito ay humigit kumulang sa 6.02214199×1023 yunit .
+Pangalan: kandela
+Simbolo: cd
+Kantidad: Tindi  ng liwanag
+Pagtatakda:
+Ang yunit ng tindi ng liwanag na itinakdang tindi  ng liwanag, sa isang itinakdang direksiyon ng pinanggalingan nito na nagbubuga ng monokromatikong silahis na may prekwensiya ng 540×1012 hertz at may ningning ng silahis sa direksiyong ito ng 1/683 watt per steradian  Resolution 3, CR 100).
+Ang mga sumusunod na SI yunit ay tunay na walang dimensiyong ratio na binuo sa paghahati ng dalawang magkaparehong SI yunit. Kaya ito'y sinasabing hinalaw ng BIPM. Sa pormal, ang kanilang yunit ay ang bilang na 1 ngunit sila ay may espesyal na pangalan kung ang paggamit ng walang yunit ay makalilito.
+Mga Yunit SI na Walang Dimensiyon 
+Pangalan: radian
+Simbolo: rad
+Kantidad: Anggulo 
+Pagtatakda:
+Ang yunit ng anggulo ay anggulong na nasa ilalim mula sa pusod ng bilog at ng isang arko na pumapaibabaw sa palibot  nito na katumbas ng haba ng radius nito. Mayroong 2π radians sa isang bilog.
+Pangalan: steradian
+Simbolo: sr
+Kantidad: Solid na Anggulo
+Pagtatakda:
+Ang yunit ng solid na anggulo ay ang solid na anggulo na nasa ilalim mula sa pusod ng bolang bilog  na may radius r at ng bahagi ng rabaw na nasa ibabaw nito na may luwang na r2. Mayroong 4π steradians sa isang bolang bilog.
+Ang mga saligang yunit ay mapagsasama upang makabuo ng hinalaw ng yunit ng sukat para sa ibang kantidad. Ang ilan ay binigyan ng pangalan.
+Mga Hinalaw ng Yunit mula sa SI na may espesyal na pangalan
+Pangalan: hertz
+Simbolo: Hz
+Kantidad: Frequency 
+Pakita bilang mga SI yunit: s−1
+Pangalan: newton
+Simbolo: N
+Kantidad: Force 
+Pakita bilang mga SI yunit: m·kg·s−2
+Pangalan: joule
+Simbolo: J
+Kantidad: Energy 
+Pakita bilang mga SI yunit: N m = m2·kg·s−2
+Pangalan: watt
+Simbolo: W
+Kantidad: Power 
+Pakita bilang mga SI yunit: J/s = m2·kg·s−3
+Pangalan: pascal
+Simbolo: Pa
+Kantidad: Pressure, Stress 
+Pakita bilang mga SI yunit: N/m2 = m·kg−1·s−2
+Pangalan: lumen
+Simbolo: lm
+Kantidad: Luminous flux 
+Pakita bilang mga SI yunit: cd·sr = m2·m−2·cd = cd
+Pangalan: lux
+Simbolo: lx
+Kantidad: Illuminance 
+Pakita bilang mga SI yunit:lm/m2 = m2·m−4·cd = m−2·cd
+Pangalan: coulomb
+Simbolo: C
+Kantidad: Electric charge 
+Pakita bilang mga SI yunit: s·A
+Pangalan: volt
+Simbolo: V
+Kantidad: Electrical potential difference 
+Pakita bilang mga SI yunit: W/A = J/C = m2·kg·s−3·A−1
+Pangalan: ohm
+Simbolo: Ω
+Kantidad: Electric resistance  
+Pakita bilang mga SI yunit: V/A = m2·kg·s−3·A−2
+Pangalan: farad
+Simbolo: F
+Kantidad: Electric capacitance 
+Pakita bilang mga SI yunit: C/V = m−2·kg−1·s4·A2
+Pangalan: weber
+Simbolo: Wb
+Kantidad: Magnetic flux 
+Pakita bilang mga SI yunit: m2·kg·s−2·A−1
+Pangalan: tesla
+Simbolo: T
+Kantidad: Magnetic flux density 
+Pakita bilang mga SI yunit: Wb/m2 = kg·s−2·A−1
+Pangalan: henry
+Simbolo: H
+Kantidad: Inductance  
+Pakita bilang mga SI yunit: Wb/A = m2·kg·s−2·A−2
+Pangalan: siemens
+Simbolo: S
+Kantidad: Electric conductance 
+Pakita bilang mga SI yunit: Ω−1 = m−2·kg−1 s3·A2
+Pangalan: becquerel
+Simbolo: Bq
+Kantidad: Radioactivity  
+Pakita bilang mga SI yunit: s−1
+Pangalan: gray
+Simbolo: Gy
+Kantidad: Absorbed dose   
+Pakita bilang mga SI yunit: J/kg = m2·s−2
+Pangalan: sievert
+Simbolo: Sv
+Kantidad: Equivalent dose   
+Pakita bilang mga SI yunit: J/kg = m2·s−2
+Pangalan: katal
+Simbolo: kat
+Kantidad: Catalytic activity 
+Pakita bilang mga SI yunit: mol/s = s−1·mol
+Pangalan: degree Celsius
+Simbolo: °C
+Kantidad: Thermodynamic temperature 
+Pakita bilang mga SI yunit: K 
+Maraming bansa, bantog dito ang Estados Unidos, ang karaniwang gumagamit ng binaybay na 'meter' at 'liter' sa halip na 'metre' at 'litre'. Ito ay naayon sa pagbabaybay sa standard American English . Ang isa pa, ang opisyal na baybay sa Amerika ng ulaping SI na 'deca' ay 'deka'.
+Ang yunit na 'gramo' sa mga bansang nagsasalita ng Inggles ay minsang binabaybay na 'gramme' maliban sa Amerika kahit na ang paggamit nito ay umuunti na.

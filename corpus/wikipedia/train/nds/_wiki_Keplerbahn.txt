@@ -1,0 +1,93 @@
+Keplerbahnen sind Resultaten vun’t Tweekörperproblem ut de klass’schen Himmelsmechanik, bi dat sik twee Massepunkten ünner jemehr gegensietige Gravitatschoon üm den gemeensomen Sworpunkt  bewegt. De Formen vun de Keplerbahnen sünd Kegelsneed: Krink, Ellips, Parabel un Hyperbel. Dorbi liggt dat Baryzentrum in’n Brennpunkt vun de Bahn.
+Wenn dat Baryzentrum as fasten Betogspunkt ansehn warrt, maakt beide Körpers gliektietig en glieke Keplerbahn üm dat Baryzentrum, wobi se in Betog op’t Baryzentrum jümmer Punkten gegenöver innehmen doot. De Proportschoon jemehr ännerlichen Afstännen to’t Zentrum is dorbi jümmer anners rüm is as jemehr Massenproportschoon. In de Praxis is faken een Körper düütlich grötter un sworer as de annere, so dat de swore Körper as fast ansehn warrn kann. In dissen Fall beschrifft de Körper mit weniger Masse en Keplerbahn üm den annern mit mehr gröttere Masse. Dat is ruchweg de Fall bi de Planeten, Asteroiden un de tallrieke Kometen, de sik üm de Sünn bewegt oder ok bi’n Maand, de üm de Eer kreist.
+De Orientierung vun en Keplerbahn in’n Ruum is dör de Bahnelementen beschreven, de Bewegung folgt na de Keplersche Gesetten, wiel Afwieken dorvun so nöömte Bahnstörungen dorstellt.
+In Polarkoordinaten wiest en Keplerbahn en Winkelafhangigkeit vun’n Radius 
+  
+    
+      
+        r
+      
+    
+    
+  
+, also den Afstand vun en Bahnpunkt vun’n Sworpunkt 
+  
+    
+      
+        F
+      
+    
+    
+  
+: 1 
+Dorbi warrt de as wohre Anomalie betekente Winkel 
+  
+    
+      
+         
+      
+    
+    
+  
+ twüschen Apsidenlien un Radiusvekter vun de Periapsis ut rekent, de in’t Bild rechts to sehn is.
+De Exzentrizität 
+  
+    
+      
+         
+      
+    
+    
+  
+ giifft an, wo dull de Bahn streckt is:
+För de apenen Bahnen  is dat Definitschoonsrebeet vun 
+  
+    
+      
+         
+      
+    
+    
+  
+ op dat apene Intervall 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ beschränkt. Himmelskörpers op apene Bahnen hebbt en nich-bunnen Tostand to’n Zentralsteern. Biespelen sünd Kometen, de na eenmol Annegern an de Sünn wedder ut dat Sünnsystem verswinnen door un nich wedder torüch kamt.
+För verschedene 
+  
+    
+      
+         
+      
+    
+    {\displaystyle \varepsilon }
+  
+ sniedt sik de Bahnen bi 
+  
+    
+      
+         
+        =
+         
+        
+          
+             
+            2
+          
+        
+      
+    
+    {\displaystyle \nu =\pm {\pi  \over 2}}
+  
+ 
+        
+      
+    
+    {\displaystyle p=r\left.

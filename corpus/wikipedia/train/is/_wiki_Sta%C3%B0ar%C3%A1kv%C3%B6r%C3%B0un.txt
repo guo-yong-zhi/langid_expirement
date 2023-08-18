@@ -1,0 +1,2 @@
+Staðarákvörðun er sú aðgerð að finna út stöðu hlutar á Jörðinni, sem yfirleitt felst í því að ákvarða staðsetningu miðað við bauganet jarðar, sett fram í breiddargráðum og lengdargráðum. Staðarákvörðun getur líka miðast við fjarlægð og miðun frá þekktum stað,
+Staðarákvörðun er til dæmis notuð í dýrasendum, staðsetningarkerfum , netstaðsetningarkerfum og rakningu farsíma.

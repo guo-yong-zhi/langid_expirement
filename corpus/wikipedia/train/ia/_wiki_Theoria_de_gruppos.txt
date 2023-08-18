@@ -1,0 +1,2 @@
+In mathematica, plus precisemente in algebra abstracte, le theoria de gruppos explora le proprietates de gruppos, un structura algebric multiplissimemente applicabile. Iste theoria es un vinculo inter algebra e geometria. Pioneros es Niels Henrik Abel e Évariste Galois sur le flanco del algebra, e Felix Klein e Sophus Lie sur le flanco del geometria.
+Aspectos importante es le classification del gruppos, subgruppos, subgruppos normal e classes lateral .

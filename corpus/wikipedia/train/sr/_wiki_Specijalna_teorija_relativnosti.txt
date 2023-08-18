@@ -1,0 +1,506 @@
+Specijalna teorija relativnosti  je fizička teorija koju je 1905. godine formulisao nemački fizičar Albert Ajnštajn. Te godine je u nemačkom naučnom časopisu Annalen der Physik izašao članak "O elektrodinamici pokretnih tela" 1 , u kojem su bile izložene ideje ove teorije, koja je svojom sadržinom sprovela svojevrsnu revoluciju u svetu fizike. Galilejev princip relativnosti, formulisan oko tri veka ranije, govorio je o tome da su sva kretanja relativna. Dopunjen postulatom o konstantnosti brzine svetlosti u vakuumu za sve inercijalne posmatrače obrazovao je osnovu jedne velike teorije koja je trebalo da promeni dotadašnje shvatanje sveta. Ova dva postulata uzeta zajedno formirali su celinu koja je imala značenje koje se protivilo klasičnoj mehanici i uvreženim principima iste koje dotad niko nije smeo da dovede u pitanje. Ova teorija ima mnoštvo iznenađujućih posledica koje se na prvi pogled čine protivnim "zdravorazumskom" shvatanju i standardnoj percepciji sveta u kojoj su prostor i vreme apsolutne kategorije. Specijalna relativnost odbacuje njutnovska načela o apsolutnom prostoru i vremenu tvrđenjem da prostorni i vremenski intervali između bilo koja dva događaja zavise od stanja kretanja njihovog posmatrača, ili da različiti posmatrači različito i opažaju prostorne i vremenske intervale istih događaja. S druge strane brzina svetlosti u vakuumu uzeta je kao apsolutna veličina, kao brzina koja je ista za sve inercijalne referente sisteme i koja se ne može nadmašiti, odnosno koja predstavlja najveću moguću brzinu u prirodi.
+Sa napretkom na polju elektromagnetizma, ostvarenim zahvaljujući Maksvelovim teorijama u želji generalizacije fizike i njenog dovođenja na zajednički okvir, proistekle su izvesne nesuglasice između klasične mehanike i elektromagnetizma. Fizičari su uporno tražili način da ih prevaziđu, uvođenjem teorije o etru, koji bi bio nosilac elektromagnetnih pojava i za koji bi se mogao vezati apsolutni sistem 2 . Krajem XIX veka fizika je bila na prekretnici. Nakon Majkelson-Morijevog eksperimenta, sprovedenog 1887. godine, postalo je više nego jasno da je u fizici prisutna velika praznina koju je trebalo nadoknaditi. Naime, on je pokazao da je brzina svetlosti konstantna i u svim inercijalnim referentnim sistemima ima istu vrednost, što se protivilo klasičnom shvatanju i nerelativističkom zakonu slaganja brzina.
+Narednih godina fizičari su na različite načine pokušavali da protumače eksperimentom dobijen paradoks. Takvo stanje neizvesnosti održalo se u fizici sve do 1905. godine, i već pomenutog članka, kojim su u fiziku uvedene novine koje su bile u skladu sa Majkelson-Morijevim eksperimentom, ali su odbacivale principe klasične fizike. Ajnštajnov mladalački um, posvećen razotkrivanju ove prirodne tajne, iznedrio je novu teoriju, koja se protivila normama usvojenim iz svakodnevnog iskustva. Skoro istovremeno sa Ajnštajnom do sličnih zaključaka je došao i francuski naučnik Anri Poenkare, ali mu nije pripisan udeo u zasluzi stvaranja ove revolucionarne teorije. Još nekoliko godine pre obojice, Lorenc je formulisao principe transformisanja koordinata, poznate kao Lorencove transformacije, koje dokazuju relativističke efekte, ali sam Lorenc nije bio uspešan u njihovom tumačenju. Nezavisno od Lorenca iste transformacije je formulisao i Ficdžerald, pa se ponekad u literaturi sreće i pojam Ficdžerald-Lorencovih transformacija.
+Neposredno po objavljivanju ove, tada neobične teorije, Ajnštajn je bio izložen burnim kritikama naučne javnosti. Ipak, on nije ustuknuo pred izazovom i istrajao u branjenju teorije koju je formulisao. Vremenom je ona postala prihvaćena i Ajnštajn je stekao odgovarajuće priznanje u tadašnjem naučnom svetu. Tri godine nakon Ajnštajnovog objavljivanja STR, Herman Minkovski uvodi matematički model četvorodimenzionalnog prostorno-vremenskog kontinuuma, zasnovan na principima STR. Već 1916. godine Ajnštajn poopštava svoju teoriju, dovodeći pod njen okvir i neinercijalne referentne sisteme. Ova teorija, poznata kao opšta teorija relativnosti  predstavlja generalizaciju specijalne relativnosti, koja ubrzo u astronomskim osmatranjima pronalazi svoj praktični dokaz. Do danas su eksperimentalno dokazani brojni relativistički efekti, od konstantnosti brzine svetlosti u vakuumu za inercijalne posmatrače do dilatacije vremena, izmerenoj uz pomoć vrlo preciznih časovnika. Postulat vezan za svetlost je višestruko potvrđen u praksi. Sovjetski naučnici A.M. Bonč Bruevič i V.A. Molčanov su 1956. godine posmatrajući prostiranje Sunčevih zraka uspeli da pokažu tačnost tog tvrđenja. Osam godina kasnije to je pošlo za rukom i T. Aljvergeru i njegovim saradnicima koji su to učinili proučavanjem π°-mezona. Bez obzira na to da se danas uspešno primenjuje i dalje postoje pojedini pokušaji da se ona opovrgne, što nije nikom uspelo do sada.
+Izvesno neslaganje OTR sa kvantnom mehanikom navodi na pomisao da je moguće postojanje savršenije teorije, koja bi i relativnost i kvantnu mehaniku obuhvatila kao svoj deo. Teorija struna je jedna od takvih teorija koje teže da ujedine relativističku fiziku sa kvantnom, pri čemu je matematički prilično dobro argumentovana, ali još uvek nije do kraja oblikovana. U modernoj fizici se u smislu ujedinjenja ove dve teorije ističe kvantna teorija polja i kvantna elektrodinamika 3 . Sasvim je moguće da će se ispostaviti da je STR granični slučaj neke još opštije specijalne teorije, koja bi sadašnju obuhvatila kao graničan slučaj. Važno je napomenuti da se neslaganje između kvantne mehanike i relativnosti odnosi na opštu relativnost, dok je STR sasvim u skladu sa kvantnom mehanikom, čak je u mogućnosti da je dopuni, pošto neki kvantni efekti, poput spina, imaju objašnjenje baš u STR. Ipak kvantna mehanika je nezavisna od STR, tj. mogla bi se izvesti i iz klasične fizike.
+Prvi postulat je bio prisutan još u klasičnoj mehanici, ali nije postojao zajednički sa drugim, pošto su se oni činili uzajamno protivurečnim. Spajanje ta dva stava koji na prvi pogled izgledaju kao suprotstavljeni doprineli su tome da ova teorija rezultuje nekim po tada zastupljenom shvatanju neverovatnim posledicama, odnosno relativiziranju vremena i prostora.
+Prvi postulat je nešto što se svakodnevno može opaziti. Ako postoje dva automobila koja se kreću po paralelnim pravcima i u istom smeru jednakim brzinama, a pored puta se nalazi čovek u stanju mirovanja u sistemu vezanom za put, onda će taj čovek reći da se automobili kreću, a on sam miruje, dok će posmatrači iz automobila smatrajući da su u stanju mirovanja reći da se drugi automobil ne kreće, a čovek da. Pri tome su tvrđenja svih posmatrača ravnopravna.
+Ovaj stav se može drugačije formulisati: Svi zakoni fizike su isti u svim inercijalnim referentnim sistemima.
+Drugi postulat iskombinovan sa prvim je bio prilična novina. Bez obzira da li se izvor svetlosti kreće ili miruje u datom inercijalnom sistemu referencije, bez obzira na izbor inercijalnog referentnog sistema iz kojeg to kretanje posmatramo — brzina emitovane svetlosti u vakuumu ostaje ista. Uobičajeno je da se ona obeležava sa c. Ovaj postulat implicira da je brzina svetlosti maksimalna brzina koju materijalno telo može dostići u prirodi. Dakle ne postoji materijalno telo koje bi se moglo kretati većom brzinom od c Napomene 1 .
+Posledice Lorencovih transformacija su kontrakcija dužine, dilatacija vremena, promena zakona slaganja brzina, izmena Njutnovih zakona, povećanje mase sa brzinom i ekvivalentnost mase i energije. Ove posledice su neobične sa aspekta nerelativističke fizike i nemoguće im je naći analogiju u nerelativističkoj fizici.
+Telo nema stalnu dužinu, ona zavisi od izbora referentnog sistema, odnosno od brzine tog tela u odnosu na taj inercijalni referentni sistem.
+Vremenski interval između dva ista događaja zavisi od izbora referentnog sistema, odnosno zavisi od brzine inercijalnog referentnog sistema u odnosu na sistem u kojem se događaji dešavaju.
+Zakon slaganja brzina u relativističkoj fizici je izmenjen u odnosu na onaj u klasičnoj mehanici(kao što je i opisano u prethodnom primeru,
+Drugi Njutnov zakon u obliku 
+  
+    
+      
+        
+          
+            
+              F
+               
+            
+          
+        
+        =
+        
+          m
+          
+            
+              
+                a
+                 
+              
+            
+          
+        
+      
+    
+    }=}}
+  
+, ne važi u relativističkoj fizici. S druge strane, tačan je njegov zapis kojim se sila definiše kao promena impulsa u vremenu.
+Masa, po originalnoj STR raste sa brzinom. Po modernom shvatanju to nije sasvim tako 4 , što je dalje detaljno objašnjeno. Ipak račun u kojem se uzima da masa na taj način zavisi od brzine daje sasvim korektne rezultate, pa je stoga u literaturi i dalje prilično zastupljeno ovo tvrđenje.
+Zaključak proistekao iz relacije 
+  
+    
+      
+        E
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    }
+  
+ jeste da su masa i energija ekvivalentne.
+Neka se referentni sistem K nalazi u stanju relativnog mirovanja, a sistem S kreće brzinom 
+  
+    
+      
+        v
+      
+    
+    
+  
+ duž x-ose u odnosu na K. Koordinatni počeci se u početnom trenutku poklapaju.
+Prema STR prostor i vreme su uzajamno zavisni. Uvođenjem koeficijenata α, β, γ se može pisati:
+Prema drugom Ajnštajnovom postulatu brzina svetlosti u vakumu c, ne zavisi od inercijalnog sistema referencije iz kojeg kretanje posmatramo. S obzirom na to x = ct ako je x′ = ct′. Zamenom x i x′ u prethodnim relacijama:
+Odatle se dobija:
+S obzirom na postulat STR koji govori da su svi referentni sistemi ravnopravni:
+Iz ovih relacija se nalazi:
+Zamenom x'=1 i t'=0 u prvoj jednakosti i x'=0 kao i t'=1 u drugoj dolazi se do:
+Koristeći prethodno dokazanu relaciju:
+Pošto je dobijena vrednost početnih koeficijenata nalazi se:
+Ili koristeći koeficijent γ,
+Analogno se dobija:
+Ove transformacije poznate su pod nazivom Lorencove transformacije. Njihovim izvođenjem dobijena je veza između prostornih koordinata i vremena u zavisnosti od brzine. Za razliku od Galilejevih, potpuno su u skladu sa relativističkim idejama. Važno je primetiti da se Galilejeve transformacije javljaju graničnim slučajem Lorencovih i to za brzine mnogo manje od brzine svetlosti, kada odgovarajuće formule postaju aproksimativno istovetne.
+Neka se sistem od dva ogledala od kojih se naizmenično odbija foton kreće brzinom 
+  
+    
+      
+        v
+      
+    
+    
+  
+ u odnosu na sistem koji je u stanju relativnog mirovanja i neka je rastojanje između tih ogledala L. Za posmatrača u pokretnom sistemu vreme koje protekne između dva sudara sa istim ogledalom je:
+Posmatrač koji se nalazi u stanju relativnog mirovanja smatra da je put koji mora da pređe foton u stvari veći iznosi D. Ovde dolazi do razilaženja relativističke i klasične fizike koje je odlična ilustracija njihove opšte razlike. Prema klasičnom shvatanju isto je vreme za koje foton prelazi taj put, a različita je brzina. Relativistički gledano brzina je ista, a vreme različito. Stoga možemo pisati:
+Ostaje da se pronađe veza između ta dva vremena. Uz pomoć Pitagorine teoreme i sređivanjem Napomene 2 :
+S obzirom da je 
+  
+    
+      
+        
+          
+            1
+             
+            
+              v
+              
+                2
+              
+            
+            
+              /
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        <
+        1
+      
+    
+    /c^
+  
+ ova formula govori da je vreme koje pokazuje pokretan sat manje od onog koje pokazuje onaj koji je u stanju relativnog mirovanja. To bi značilo da ako čovek na svemirskom brodu odleti u kosmos i provede tamo određen broj godina kada se bude vratio na Zemlji će proći više godina nego što je on proveo u kosmosu! Ovaj efekat daje mogućnost perspektive vremenskih putovanja, koja je ipak, pre svega teorijska.
+Takvo vremensko putovanje je praktično neizvodljivo, jer zahteva veliki utrošak energije, najpre da bi se brod ubrzao do brzine na kojoj se relativistički efekti jasnije projavljuju, a zatim i za zaustavljanje, i slične promene u kretanju. Takođe čovek ne bi mogao dugo da izdrži veliko ubrzanje kakvo bi bilo potrebno za taj poduhvat. U suštini je drugi nedostatak manje važan od prvog, jer se i kretanjem od dve-tri godine pod konstantnim ubrzanjem g  postiže sasvim primetna vremenska razlika. Ipak, prvi je dovoljno veliki da onemogući ostvarenje ovakvog projekta. U savremenoj nauci postoje još neke ideje zasnovane na OTR o vremenskim putovanjima, ali one već izlaze iz okvira STR.
+Korišćenjem Lorencovih transformacija može se dokazati da je dužina tela u sopstvenom sistemu uvek veća nego u sistemu u odnosu na koji se to telo kreće.
+U inercijalnom sistemu S' su 
+  
+    
+      
+        
+          x
+          
+            1
+          
+          
+            
+              
+               
+            
+          
+        
+      
+    
+    ^
+  
+ i 
+  
+    
+      
+        
+          x
+          
+            2
+          
+          
+            
+              
+               
+            
+          
+        
+      
+    
+    ^
+  
+ krajnje tačke štapa dužine 
+  
+    
+      
+        
+          L
+          
+            0
+          
+          
+            
+              
+               
+            
+          
+        
+      
+    
+    ^
+  
+ koji se nalazi u stanju relativnog mirovanja. Koristeći Lorencove transformacije može se pisati:
+Štap se kreće u drugom inercijalnom referentnom sistemu S. Njegova dužina u istom 
+  
+    
+      
+        L
+      
+    
+    
+  
+ je određena koordinatama njegove početne i krajnje tačke u istom trenutku sa stanovišta tog sistema. Stoga se nalazi:
+Na taj način se dobija konačna formula koja povezuje dužine u ova dva referentna sistema:
+Ova formula dokazuje da ako se telo kreće u datom inercijalnom referentnom sistemu njegova dužina se skraćuje, što se naziva kontrakcijom dužine. Ako čovek stoji pored pruge, a pored njega prođe voz brzinom približno jednakoj brzini svetlosti onda će mu voz izgledati mnogo kraćim nego za putnika koji je u vozu. U praksi su ti efekti nemerljivi i jasno se projavljuju se tek pri pri brzinama većim od od 0,5c 5 .
+Prema STR vreme nije apsolutno kao u do tada zastupljenom shvatanju. Događaji koji su sa stanovišta jednog posmatrača istovremeni nisu to i za drugog posmatrača. Događaji ponekad čak mogu da promene redosled.
+Jedan primer kojim se relativnost istovremenosti može ilustrovati je sledeći:
+U sredini svemirskog broda koji se kreće kroz otvoren kosmos je sijalica koja se pali. Na krajevima broda se nalaze dva kosmonauta koji mere vreme za koje će svetlost do njih stići. Ukoliko su časovnici sinhronizovani u početku, oni će pokazivati isto vreme, tj. Svetlost će do njih stići istovremeno.
+Ukoliko isti primer posmatramo iz drugog sistema referencije koji je u stanju relativnog mirovanja i u odnosu na koji se taj brod kreće, događaji neće biti istovremeni, jer se jedan od kosmonauta približava izvoru svetlosti, a drugi od njega udaljava. Pošto je brzina svetlosti ista u oba slučaja razlikuju se vremena za koje će svetlost preći te različite udaljenosti. Svetlost će jednog do kosmonauta stići pre drugog što znači da u sa stanovišta ovog sistema događaji nisu istovremeni.
+To dovodi do opšteg zaključka: događaji koji su istovremeni u jednom inercijalnom referentnom sistemu nisu istovremeni u onom sistemu u odnosu na koji se dati sistem kreće. Skup sinhronizovanih časovnika iz jednog sistema je nesinhronizovan za posmatrača u drugom koji se kreće u odnosu na taj sistem.
+Slaganje brzina se u relativističkoj fizici vrši na drugačiji način nego u klasičnoj. Primer koji srećemo u praksi je da kada se dva voza kreću jednakim brzinama od 100 km/h jedan prema drugome relativna brzina je 200 km/h. Ako bi se ta dva voza kretala brzinom približno jednakom c, njihova relativna brzina nije 2c, kako govori svakodnevno iskustvo, već približno c, jer je brzina svetlosti ista za posmatrače iz svih inercijalnih referentnih sistema, prema Ajnštajnovom postulatu. Naravno, brzina pomenuta u formulaciji postulata ne mora biti brzina same svetlosti, već brzina tela koje se kreće brzinom približnoj jednakoj onoj kod svetlosti  Napomene 3 . Nesuglasica sa praktičnim primerom objašnjava se zakonom slaganja brzina izmenjenim u odnosu na klasični, koji je samo granični slučaj relativističkog, i važi za brzine mnogo manje od brzine svetlosti, poput onih iz prvog primera. Naime, relativna brzina u prvom slučaju nije egzaktno 200 km/h, već odstupa za jako malu vrednost, koja se praktično ne može izmeriti Za razliku od jednostavne aditivne metode 
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        =
+        v
+        +
+        u
+      
+    
+    =v+u}
+  
+ ,koja sledi iz Galilejevih transformacija, iz Lorencovih transformacija se dobija nešto složeniji zakon sabiranja brzina:
+Može se primetiti da kada je 
+  
+    
+      
+        v
+      
+    
+    
+  
+ ili 
+  
+    
+      
+        u
+      
+    
+    
+  
+ jednako 
+  
+    
+      
+        c
+      
+    
+    
+  
+ onda je i 
+  
+    
+      
+        
+          v
+          
+            r
+          
+        
+        =
+        c
+      
+    
+    =c}
+  
+,što je u skladu sa Ajnštajnovim postulatom. S druge strane za 
+  
+    
+      
+        v
+        ,
+        u
+        <<
+        c
+      
+    
+    
+  
+ ovaj zakon postaje aproksimativno ekvivalentan onom dobijenom iz Galilejevih transformacija.
+U vektorskom obliku se relativistički zakon slaganja brzina se zapisuje na sledeći način:
+Uvođenjem koeficijenta 
+  
+    
+      
+         
+      
+    
+    
+  
+ koji se definše kao: 
+  
+    
+      
+         
+        =
+        
+          
+            1
+            
+              1
+               
+              
+                
+                  2
+                
+              
+            
+          
+        
+        .
+      
+    
+    }.}
+  
+, preko Lorencovih transformacija se dobijaju sledeće formule za impuls i energiju, respektivno:
+Pritom je γm relativistička masa. Neki autori koriste oznaku m za relativističku masu, a m0 za masu mirovanja. 6 , pa je u tom slučaju pomenuti koeficijent sadržan u m.
+Ako se sa m označi masa mirovanja onda se između impulsa i energije može uspostaviti sledeća veza:
+Ova formula ima duboko suštinsko značenje. Dok energija i impuls zavise od izbora sistema referencije vrednost E2 − 2 je invarijantna na Lorenocove transformacije.
+Zakoni održanja u relativističkoj fizici su nešto izmenjeni u poređenju sa onim u klasičnoj. Zakon održanja impulsa se javlja sa skoro istovetnim oblikom, a jedina razlika je u definiciji impulsa. Zakon održanja impulsa se u relativistici formuliše ovako:
+Ukupna vrednost impulsa čestica u izolovanom sistemu je konstantna.
+Zakoni održanja energije i mase ne postoje kao takvi, ali postoje u sjedinjenom obliku, formirajući zakon održanja mase-energije:
+Ukupna energija izolovanog sistema čestica je konstantna.
+Ovaj zakon je zasnovan na prethodnoj formuli. S obzirom da se impuls ne menja u izolovanom sistemu ,a da je c konstanta, pošto je kombinacija impulsa i energije jednaka broju koji ne menja vrednost ne menja se ni energija izolovanog sistema. Ovaj princip se može nazivati i zakonom održanja energije, pošto su masa i energija po STR ekvivalentne, ali je ipak uobičajen prvo pomenut naziv.
+Nije dobro koristiti koncept mase 
+  
+    
+      
+        M
+        =
+        m
+        
+          /
+        
+        
+          
+            1
+             
+            
+              v
+              
+                2
+              
+            
+            
+              /
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    /c^
+  
+ pokretnog tela koji se ne može jasno definisati. Bolje je ne koristiti nikakav drugi koncept osim mase mirovanja, m. Umesto upotrebe M bolje je koristiti jednakost sa impulsom i energijom pokretnog tela.Među autorima postoji nesuglasica oko zavisnosti mase od brzine. Uglavnom preovladava koncept relativističke mase definisane kao funkcije brzine, mada je u modernoj fizici njena protivteža preuzima dominantnu ulogu 7 . Zavisnost mase i brzine se dobija analogijom između relativističke formule za impuls i one iz klasične fizike:
+Prema ovoj formuli masa tela raste sa povećanjem brzine.
+Suština osporavanja ovakvog korišćenja mase se svodi na činjenicu da se relativistička masa ne može definisati kao masa. Masa mirovanja je mera inertnosti tela, dok se relativistička masa ne može smatrati merom inertnosti tela. Drugi Njutnov zakon u relativističkoj fizici se prevodi na četvorodimenzionalni prostor, pa su sila i ubrzanje kvadrivektori, pa se on zapisuje i ovako:
+To znači da sila i ubrzanje nisu kolinearni, pa inertnost tela nije jedinstvena, a relativistička masa ne može da je opiše.
+U praktičnim izračunavanjima se danas ipak koristi prva formula. Bez obzira na to da relativistička masa nema definisan fizički smisao, račun koji se njome koristi daje sasvim korektne rezultate, što je osnovni razlog zbog kojeg je i dalje kao takva prisutna u fizici.
+U STR drugi Njutnov zakon nije oblika 
+  
+    
+      
+        
+          
+            
+              F
+               
+            
+          
+        
+        =
+        
+          m
+          
+            
+              
+                a
+                 
+              
+            
+          
+        
+      
+    
+    }=}}
+  
+ . Ipak njegov drugačiji zapis preko impulsa nije izmenjen u odnosu na onaj iz klasične fizike:
+gde je p impuls definisan kao  i "m" masa mirovanja. Odatle se sila računa na sledeći način:
+Što, imajući u vidu relaciju 
+  
+    
+      
+        v
+        
+          
+            
+              
+                d
+                v
+              
+              
+                d
+                t
+              
+            
+          
+        
+        =
+        
+          
+            
+              v
+               
+            
+          
+        
+         
+        
+          
+            
+              a
+               
+            
+          
+        
+      
+    
+    }\cdot }
+  
+, može biti zapisano ovako:
+Razlaganjem ubrzanja na horizontalnu i vertikalnu komponentu:
+U literaturi se ponekad govori o, γ3m kao longitudinalnoj masi', i γm kao transverzalnoj .
+Prema STR kinetička energija se ne računa kao u klasičnoj mehanici formulom, 
+  
+    
+      
+        
+          E
+          
+            k
+          
+        
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+        m
+        
+          v
+          
+            2
+          
+        
+      
+    
+    =}mv^
+  
+,već :
+U klasičnoj mehanici materijalno telo koje je u stanju relativnog mirovanja i nema potencijalnu energiju ima ukupnu energiju jednaku nuli. Prema STR materijalno telo poseduje energiju samim tim što postoji , a ta energija je energija mirovanja. Ukupna energija tela(bez potencijalne data je formulom E = γm0c2 što, kada se razvije u red daje:
+Za brzine mnogo manje od brzine svetlosti, s obzirom na malu vrednost člana v/c jednakost prelazi u:
+što je klasičan obrazac za kinetičku energiju uvećan za energiju mirovanja.
+Otuda se dobija obrazac za energiju mirovanja: 
+  
+    
+      
+        
+          E
+          
+            0
+          
+        
+        =
+        m
+        
+          c
+          
+            2
+          
+        
+      
+    
+    =mc^
+  
+Ova formula se tumači kao dokaz ekvivalentnosti mase i energije.
+Njena tačnost praktično je dokazana u nuklearnoj fizici, gde se koristi objašnjavanju nekih nuklearnih reakcija. U toku procesa kao što je to fisija ili fuzija dolazi do promene mase mirovanja jezgra atoma usled čega se oslobađa odgovarajuća energija. Formula je takođe značajna za određivanje mase fotona, koji nema masu mirovanja, ali može imati masu pošto ima energiju, pošto su to dva ekvivalentna pojma.
+U STR pojmovi prostora i vremena do njene pojave zastupljene u ljudskom sagledavanju prirodnih pojava dobijaju potpuno novo okrilje i bivaju modifikovani poprimajući oblik četvorodimenzionalnog kontinuuma koji obuhvata prostor i vreme spajajući ih u neraskidivu celinu. Ta celina se naziva prostorno-vremenski kontinuum Minkovskog i služi boljem geometrijskom opisivanju četvorodimenzionalnog sveta. Pritom su tri koordinate prostorne, poput Euklidovih, a četvrta predstavlja vreme koje uključuje brzinu svetlosti kao svoj množilac, kako bi sve četiri koordinatne ose ovog kontinuuma primile istu dimenziju. Matematički se mogu uspostaviti sledeće relacije:
+U fizičkom smislu prostorno-vremenski kontinuum predstavlja skup svih mogućih događaja određenih sa četiri pomenute koordinate. Grafik kretanja čestice u ovom kontinuumu naziva se svetska linija. Svetske linije koje odgovaraju brzini svetlosti određuju konačni konačni konusni oblik. Događaji koji odgovaraju tačkama smeštenim u unutrašnjosti konusa iznad x-ose formiraju apsolutnu budućnost, oni ispod x-ose, a u unutrašnjosti konusa apsolutnu prošlost, dok oni van konusa apsolutnu sadašnjost.
+Misaoni eksperiment je oblik naučnog istraživanja koji je Ajnštajn svojom teorijom uveo kao metod koji se koristi u stvaranju fizičkih teorija 8 . Koristeći im se u izvođenju svoje teorije koju tada još nije mogao praktično da proveri on je uspeo da je izgradi u obliku u kojem je poznata danas i njime prevaziđe mnoge druge teorije koje su imale verifikaciju u realnim eksperimentima. Metod misaonog eksperimenta  sastoji se u misaonoj simulaciji fizičkog procesa u mislima radi boljeg sagledavanja predviđene teorije i njene provere i nadogradnje. Može biti čak i izvor neke ideje i osnova za neku fizičku teoriju ili zakon, što je bio slučaj sa STR. Obično se izvodi u situacijama koje je teško u delo sprovesti praktično, kao u primeru sa dva voza koji se kreću brzinom približno jednakoj brzini svetlosti u vakuumu upotrebljen u opisu relativističkog zakona slaganja brzina.
+Misaoni eksperimenti su poslužili kao potvrda relativnosti, ali su bili korišćeni i u pokušajima da se ista opovrgne. U tom smislu nastao je čitav niz paradoksa kojima su naučnici želeli da pokažu neispravnost ove teorije. Najpoznatiji od tih paradoksa je svakako paradoks blizanaca.
+On se sastoji u tome da jedan  od dva blizanca odlazi na svemirsko putovanje gde putuje brzinom bliskom brzine svetlosti u vakuumu. Pošto je taj blizanac A pokretan dolazi do vremenske dilatacije i kada se bude vratio na Zemlju biće mlađi od svog brata blizanca B. Međutim imajući u vidu princip relativnosti moglo bi se tvrditi da je blizanac B bio u stvari taj koji se kreće, a A koji je mirovao, pa bi tad blizanac B bio mlađi od starijeg A. Paradoks se objašnjava činjenicom da STR obuhvata samo inercijalne referentne sisteme, ne i neinercijalne. Stoga će blizanac A biti mlađi od B pri povratku.
+To je samo jedan u nizu paradoksa o STR koji su bili formulisani kako bi ista bila osporena. Prilično su poznati Belov i Ernfestov paradoks.
+Bez obzira što su brojni pokušaji njenog osporavanja, oni su dosad svi bili neuspešni, što, zajedno sa činjenicom da je teorija eksperimentalno potvrđena i da se uspešno primenjuje u praksi čini da ova teorija zadrži svoj dominantan položaj u odnosu na klasičnu, nerelativističku fiziku.
+Jedan novi pristup objašnjenju teorijskog, fizičkog, smisla specijalne relativnosti sa intuitivno-geometrijske tačke gledišta

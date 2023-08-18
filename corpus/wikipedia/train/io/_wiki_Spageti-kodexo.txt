@@ -1,0 +1,2 @@
+Spageti-kodexo en informatiko termino pri komplexa e ne facila por komprenar fontokodexo di komputerala programo. De ta sorto di kodexo kompilesis programi per frua programifi procedurala quale Fortran e BASIC.
+Lingui kun la kodexo uzesis ante kreado di strukturala programifi e uzis ofte komando di salto .

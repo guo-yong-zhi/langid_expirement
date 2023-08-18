@@ -1,0 +1,5 @@
+Letadlové soustavy tvoří součást konstrukce letadla. Zabezpečují některé funkce související s provozem letadla.
+Letadlové soustavy dělíme na silové soustavy a soustavy vybavení letadla.
+Silové soustavy přeměňují část mechanické energie pohonné jednotky v jiný druh energie, kterou přenášejí na místo potřeby a zde jí opět mění v mechanickou, která je většinou využita k ovládání části draku . Silové soustavy obsahují:
+Mezi silové soustavy patří:
+do soustav vybavení letadla patří: 

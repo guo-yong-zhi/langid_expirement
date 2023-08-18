@@ -1,0 +1,12 @@
+英伟达Shield TV（英語：Nvidia Shield TV，又称：英伟达Shield、英伟达Shield Gaming Edition、英伟达Shield Smart Home Edition、英伟达神盾，前称：英伟达Shield Android TV、英伟达Shield Pro、英伟达Shield影游一体机）是于2015年5月由英伟达发布的微型游戏机。
+它作为Android TV的数字媒体播放器推向市场，其能够在本地网络上通过兼容PC播放下载的游戏和流游戏，或通过GeForce Now订阅服务。与所有其他Android TV设备一样，也可以使用应用程序从各种来源流式传输内容，还支持4K分辨率视频 1 。
+英伟达Shield采用英伟达图睿X1系统芯片，基于ARM Cortex-A57 CPU和英伟达的Maxwell微结构GPU，具有3GB RAM。该设备支持4K分辨率在60fps以上的HDMI 2输出、千兆以太网或802.11ac Wi-Fi互联网连接，以及HEVC编码视频。它包含两个USB端口與16 GB的内部闪存或500 GB的硬盘，可通过MicroSD或可移动存储进行扩展。配备一个无线的英伟达Shield遥控器；带语音控制和耳机插孔的英伟达Shield遥控器则单独出售 2  3  4 。
+英伟达Shield运行Android TV；通过单独的Shield Store应用程序提供针对设备优化和移植的游戏。该设备还可以通过英伟达的按需订阅云游戏服务GeForce Now以及通过GeForce Experience应用程序使用支持的英伟达显卡的GameStream功能从本地计算机流式传输游戏 5  6 。
+2017年1月16日，英伟达Shield基于Android 7.0 Nougat的Shield Experience Upgrade 5.0推出。它增加了2017年更新模型的软件功能。在2018年6月，英伟达发布了一个包含Android 8.0 Oreo的更新以及用户界面的更新 7  8  9 。
+2017年1月，英伟达Shield的16 GB和500 GB更新版本推出。它具有经过修改的外形尺寸，尺寸更小但没有MicroSD插槽，并提供Shield Experience Upgrade 5.0。现在捆绑了一个英伟达Shield遥控器，以及一个带有永远在线麦克风的英伟达Shield遥控器 10 。
+2019年，据信有升级版的SHIELD TV Pro版，采用Tegra X1+芯片，并且支持Dolby Vision HDR；配套之遥控器具有更多实体按键，并改用易替换的AAA电池 11 。
+中华人民共和国网络审查和电子游戏审查制度使中国大陆版本的英伟达Shield只内置爱奇艺游戏中心、奇艺玩应用商店和Shield游戏应用程序，英伟达选择与中国大陆企业爱奇艺共同发布16G基础版本，于2016年7月22日引进中国大陆。该版本与国际版并没有硬件差异，而仅配置了特制的出厂系统，以符合中国大陆游玩环境。玩家发现可以在国际版与中国大陆版之间切换，英伟达也在其开发者网站提供取得Root权限的映象文件 12 。
+英伟达Shield支持从个人电脑串流游戏。PC端需要安装英伟达自己的驱动辅助程序GeForce Experience，使用受支持的英伟达图形卡的GameStream功能。而一些第三方软件也可以实现，例如威尔乌的（英文） 13 。
+而2015年10月开始运营的GeForce Now加入支持英伟达Shield，玩家不需要下载并安装游戏，可以游玩由英伟达在服务器端运行的游戏程序。推荐游玩1080p／60fps游戏需要保证至少50Mbps的带宽 14 。
+英伟达Lightspeed Studios在Google Play商店提供优化了的游戏，包括但不限于来自Square Enix的《古墓丽影》、Konami的《潛龍諜影崛起 再復仇》、Valve的《傳送門》和独立游戏《超级肉肉男孩》之移植优化版 15 。
+英伟达从任天堂取得几款游戏的授权，僅限中国大陆版本的英伟达Shield发售。通过逆向工程分析，有人指出中国大陆版本的英伟达Shield上，移植的任天堂游戏可能以GameCube或Wii模拟器方式运行 16  17  18  19  20 。

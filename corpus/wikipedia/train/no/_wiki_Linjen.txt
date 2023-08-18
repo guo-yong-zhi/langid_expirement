@@ -1,0 +1,2 @@
+Linjen er den formelle betegnelsen Jernbaneverket bruker om banestrekningen mellom to stasjoner 1 .
+En jernbanestrekning består dermed av en kjede med stasjoner og linjer. Spor som grener ut fra linjen, utenfor stasjon, benevnes innenfor denne terminologien som sidespor.

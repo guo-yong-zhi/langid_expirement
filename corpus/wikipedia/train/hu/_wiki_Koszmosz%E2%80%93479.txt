@@ -1,0 +1,9 @@
+Pontosságellenőrzött
+Koszmosz–479  Koszmosz műhold, a szovjet műszeres műhold-sorozat tagja. Katonai rádiófelderítő műhold.
+Meghatározott űrkutatási és katonai programot hajtott végre. Celina–0  rádiófelügyeleti rendszer. Feladata a földi adók  pontos helyének, frekvenciájának, az alkalmazott eszköz típusának, az alkalmazás módjának , aktivitásának meghatározása. Hadműveletek során felerősödő kommunikáció ellenőrzése, lehetőséget biztosítva az előzetes figyelmeztetésre, további eszközök felkészítésére.
+A dnyipropetrovszki Juzsnoj  tervezőirodában kifejlesztett, ellenőrzése alatt gyártott műhold. Üzemeltetője a moszkvai MO  minisztérium.
+1972. március 22-én a Pleszeck űrrepülőtérről egy Koszmosz–3M  típusú hordozórakétával juttatták magas Föld körüli,  körpályára. Az orbitális egység pályája 95,1 perces, 74 fokos hajlásszögű, elliptikus pálya perigeuma 512 kilométer, apogeuma 538 kilométer volt. Hasznos tömege 875 kilogramm. A sorozat felépítését, szerkezetét, alapvető fedélzeti rendszereit tekintve egységesített, szabványosított űreszköz. Henger formájú, átmérője 2 méter, hossza 1 méter, felületét napelemek burkolják. Áramforrása kémiai, illetve a körkörösen elhelyezett 8 napelemtábla-energia hasznosításának kombinációja . Pályasíkjában rögzítette a jeleket, vevőállomás aktivitásánál lejátszotta.
+1980. április 13-án belépett a légkörbe és megsemmisült.
+Elődje:Koszmosz–478
+Koszmosz-program1972
+Utódja:Koszmosz–480

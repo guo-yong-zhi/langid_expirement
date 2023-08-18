@@ -1,0 +1,164 @@
+Un transductor d'estats finits, o transductor finit, és un autòmat finit  amb dues cintes, una d'entrada i una d'eixida.
+Açò contrasta amb un autòmat finit habitual, que només té una cinta. Podem dir que l'autòmat reconeix una cadena si aquesta es troba en la seva cinta d'entrada. En altres paraules, l'autòmat computa una funció que converteix una cadena en un element del conjunt . D'altra banda, podem dir que un autòmat genera cadenes, a partir de la seva cinta d'eixida. Des d'aquest punt de vista, l'autòmat genera un llenguatge formal, que no és més que un conjunt de cadenes. Els dos punts de vista de l'autòmat són equivalents: la funció que computa l'autòmat és la funció indicadora del conjunt de cadenes reconegudes. La classe de llenguatges generats per un autòmat finit es coneix amb el nom de  llenguatges regulars.
+Les dues cintes d'un transductor són vistes típicament com una cinta d'entrada i una altra d'eixida. Des d'aquest punt de vista, un transductor transdueix  el contingut de la seva cinta d'entrada a la seva cinta d'eixida, acceptat cadenes en la seva cinta d'entrada i generant altres cadenes en la seva cinta d'eixida. Pot fer-ho de forma no-determinística, cosa que produirà més d'una eixida per a cada cadena d'entrada. Un transductor també pot no produir cap eixda per a una cadena d'entrada donada; en aquest cas es diu que rebutja l'entrada. En general, un transductor computa una  relació entre dos llenguatges formals. La classe de relacions computades per un transductor d'estats finits es coneix com a classe de  relacions racionals.
+Els transductors d'estats finits són utilitzats habitualment en  anàlisi morfològiques, en l'àrea d'investigació de processament del llenguatge natural i en les seves aplicacions.
+Formalment, un transductor finit T és una tupla  on:
+Podem veure  com un graf dirigit etiquetat, conegut com el graf de transició de T: el conjunt de vèrtex és Q, i 
+  
+    
+      
+        
+         
+         
+      
+    
+    
+  
+ significa que hi ha una aresta etiquetada que va des del vèrtex q cap al vèrtex r. També diem que a és l'etiqueta d'entrada i b és l'etiqueta d'eixida de l'aresta.
+Es defineix la funció de transició estesa 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+ com el conjunt mínim que compleix les següents restriccions:
+La funció de transició estesa és essencialment la clausura de transició estesa del graf de transició que s'ha augmentat per tindre en consideració les etiquetes de les arestes. Els elements de 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+ es coneixen com a camins. Les etiquetes d'un camí s'obtenen concatenant les etiquetes que componen el camí en l'ordre en què es produeixen les transicions.
+El comportament del transductor T és la relació racional  definida de la següent manera: 
+  
+    
+      
+        x
+        
+        y
+      
+    
+    
+  
+ si i només si 
+  
+    
+      
+         
+        
+        
+        i
+         
+        I
+         
+        
+        
+        f
+         
+        F
+      
+    
+    i\in I\land 
+  
+ de forma que 
+  
+    
+      
+        
+         
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+. Açò és com dir que T transdueix  una cadena 
+  
+    
+      
+        x
+         
+        
+           
+          
+             
+          
+        
+      
+    
+    {\displaystyle x\in \Sigma ^
+  
+ en una altra cadena 
+  
+    
+      
+        y
+         
+        
+           
+          
+             
+          
+        
+      
+    
+    {\displaystyle y\in \Gamma ^
+  
+ si existeix un camí des d'un estat inicial fins a un estat final amb entrada x i eixida y.
+Les següents operacions definides en autòmats finits també es poden aplicar als transductors:
+No existeix el concepte d'intersecció de transductors. Per contra, existeix una operació de composició que és específica per als transductors, la construcció de la qual és semblant a la intersecció dels autòmats. La composició es defineix de la següent forma:
+També es pot projectar una cinta del transductor per obtenir un autòmat. Hi ha dues funcions de projecció: 
+  
+    
+      
+        
+           
+          
+            1
+          
+        
+      
+    
+    }
+  
+ manté la cinta d'entrada, i 
+  
+    
+      
+        
+           
+          
+            2
+          
+        
+      
+    
+    }
+  
+ manté la d'eixida. La primera projecció  es defineix de la següent manera:
+La segona projecció  es pot definir de forma semblant.
+Plantilla:Copy book
+Plantilla:Copy book
+Plantilla:Copy book
+Plantilla:Copy book
+Plantilla:Copy book

@@ -1,0 +1,1367 @@
+Dalam matematika, aljabar asosiatif matriks riil 2 × 2 dilambangkan dengan 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+. Dua matriks 
+  
+    
+      
+        p
+      
+    
+    
+  
+ dan 
+  
+    
+      
+        q
+      
+    
+    
+  
+ dalam 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+ memiliki sebuah jumlah 
+  
+    
+      
+        p
+        +
+        q
+      
+    
+    
+  
+ diberikan oleh penjumlahan matriks. Hasil kali matriks 
+  
+    
+      
+        p
+         
+        q
+      
+    
+    
+  
+ dibentuk dari produk dot dari baris dan kolom dari faktornya melalui perkalian matriks. Untuk
+misalkan
+Maka, 
+  
+    
+      
+        q
+        q
+         
+        =
+        q
+         
+        q
+        =
+        
+        I
+      
+    
+    
+  
+, dimana 
+  
+    
+      
+        I
+      
+    
+    
+  
+ adalah matriks identitas 2 × 2. Bilangan real 
+  
+    
+      
+        a
+        d
+         
+        b
+        c
+      
+    
+    
+  
+ disebut determinan 
+  
+    
+      
+        q
+      
+    
+    
+  
+. Ketika 
+  
+    
+      
+        a
+        d
+         
+        b
+        c
+         
+        0
+      
+    
+    
+  
+, 
+  
+    
+      
+        q
+      
+    
+    
+  
+ adalah sebuah matriks yang dapat dibalik, dan kemudian
+Kumpulan dari semua seperti matriks yang dapat dibalik merupakan grup linear umum 
+  
+    
+      
+        GL
+         
+        
+      
+    
+     }
+  
+. Dalam istilah aljabar abstrak, 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+ dengan terkait operasi penjumlahan dan perkalian membentuk sebuah gelanggang, dan 
+  
+    
+      
+        GL
+         
+        
+      
+    
+     }
+  
+ adalah grup satuan tersebut. 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+ juga sebuah ruang vektor empat-dimensi, jadi ini ditinjau sebagai aljabar asosiatif.
+Matriks real 2 × 2 ada di korespondensi satu-satu dengan pemetaan linear dari sistem koordinat Kartesius dua dimensi menjadi dirinya sendiri oleh aturan
+Bagian selanjutnya memperlihatkan 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+ adalah sebuah gabungan tampang lintang planar yang termasuk sebuah garis riil. 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+ adalah isomorfis gelanggang ke kuaternion terbagi, dimana ini adalah sebuah gabungan yang mirip namun dengan himpunan indeks yaitu hiperbolik.
+Dalam 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+, perkalian dengan bilangan riil dari matriks identitas 
+  
+    
+      
+        I
+      
+    
+    
+  
+ dapat dianggap sebuah garis real. Garis real ini adalah tempat dimana semua subgelanggang komutatif datang bersama.
+Misalkan 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+        =
+        
+      
+    
+    =\}
+  
+ dimana 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+         
+        
+      
+    
+    \in \
+  
+. Maka 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ adalah sebuah subgelanggang komutatif dan 
+  
+    
+      
+        M
+         
+        
+        =
+         
+        
+          P
+          
+            m
+          
+        
+      
+    
+     =\bigcup P_
+  
+ dimana gabungan pada semua 
+  
+    
+      
+        m
+      
+    
+    
+  
+ seperti 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+         
+        
+      
+    
+    \in \
+  
+.
+Untuk mengidentifikasi 
+  
+    
+      
+        m
+      
+    
+    
+  
+, pertama kuadratkan matriks umum:
+Ketika 
+  
+    
+      
+        a
+        +
+        d
+        =
+        0
+      
+    
+    
+  
+, kuadrat ini adalah sebuah matriks diagonal.
+Jadi salah satunya mengasumsikan 
+  
+    
+      
+        d
+        =
+         
+        a
+      
+    
+    
+  
+ ketika mencari untuk 
+  
+    
+      
+        m
+      
+    
+    
+  
+ untuk membentuk subgelanggang komutatif. Ketika 
+  
+    
+      
+        m
+        m
+        =
+         
+        I
+      
+    
+    
+  
+, maka 
+  
+    
+      
+        b
+        c
+        =
+         
+        1
+         
+        a
+        a
+      
+    
+    
+  
+, sebuah persamaan menggambarkan sebuah paraboloid hiperbolik dalam ruang parameter 
+  
+    
+      
+        
+      
+    
+    
+  
+. Seperti sebuah 
+  
+    
+      
+        m
+      
+    
+    
+  
+ berfungsi sebagai sebuah satuan khayal. Dalam kasus ini 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ isomorfik dengan medan bilangan kompleks .
+Ketika 
+  
+    
+      
+        m
+        m
+        =
+        +
+        I
+      
+    
+    
+  
+, 
+  
+    
+      
+        m
+      
+    
+    
+  
+ adalah sebuah matriks involutori. Maka 
+  
+    
+      
+        b
+        c
+        =
+        +
+        1
+         
+        a
+        a
+      
+    
+    
+  
+, juga memberikan sebuah paraboloid hiperbolik. Jika sebuah matriks adalah sebuah matriks idempoten, ini pasti terletak pada 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ dan dalam kasus ini 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ isomorfik dengan gelanggang bilangan kompleks terbagi
+Kasus dari sebuah matriks nilpoten, 
+  
+    
+      
+        m
+        m
+        =
+        0
+      
+    
+    
+  
+, muncul ketika hanya salah satu dari 
+  
+    
+      
+        b
+      
+    
+    
+  
+ dan 
+  
+    
+      
+        c
+      
+    
+    
+  
+ tak nol, dan subgelanggang komutatif 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ kemudian sebuah salinan dari bidang bilangan dual.
+Ketika 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+ dikonfigurasi ulang dengan sebuah penukaran basis, profil ini berubah menjadi profil kuaternion terbagi dimana himpunan akar kuadrat 
+  
+    
+      
+        I
+      
+    
+    
+  
+ dan 
+  
+    
+      
+         
+        I
+      
+    
+    
+  
+ mengambil sebuah bentuk simetris sebagai hiperboloid.
+Pertama, ubah satu vektor diferensial ke yang lainnya:
+Luas-luas diukur dengan densitas 
+  
+    
+      
+        d
+        x
+         
+        d
+        y
+      
+    
+    
+  
+, 2 bentuk diferensial yang melibatkan penggunaan aljabar eksterior. Densitas yang diubah tersebut adalah
+Demikian pemetaan ekui-areal diidentifikasi dengan 
+  
+    
+      
+        SL
+         
+        
+        =
+        
+      
+    
+     =\}
+  
+ ), grup linear khusus. Diberikan profil di atas, setiap 
+  
+    
+      
+        g
+      
+    
+    
+  
+ terletak dalam sebuah subgelanggang komutatif 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ mewakili sebuah tipe bidang kompleks menurut kuadrat dari 
+  
+    
+      
+        m
+      
+    
+    
+  
+ Karena 
+  
+    
+      
+        g
+        
+          g
+          
+             
+          
+        
+        =
+        I
+      
+    
+    =I}
+  
+, salah satu dari tiga alternatif berikut terjadi:
+Menulis mengenai pemetaan afin planar, Rafael Artzy membuat sebuah trikotomi planar yang serupa, pemetaan linear dalam bukunya Linear Geometry .
+Subgelanggang komutatif 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+ menentukan teori fungsi; khususnya tiga tipe subbidang memiliki struktur aljabar kepunyaan mereka yang menetapkan nilai ekspresi aljabar. Pertimbangan fungsi akar kuadrat dan fungsi logaritma tersebut berfungsi untuk mengilustrasikan batasnya tersirat oleh sifat-sifat khusus setiap tipe subbidang 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ yang digambarkan di profil di atas. Konsep komponen identitas dari grup satuan 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ mengarah ke penguraian polar elemen dari grup satuan:
+Dalam kasus pertama 
+  
+    
+      
+        exp
+         
+        
+        =
+        cos
+         
+        
+        +
+        m
+        sin
+         
+        
+      
+    
+    
+  
+. Dalam kasus bilangan dual 
+  
+    
+      
+        exp
+         
+        
+        =
+        1
+        +
+        s
+        m
+      
+    
+    
+  
+. Terakhir, dalam kasus bilangan kompleks terbagi terdapat empat komponen dalam grup satuan. Komponen identitas berparameter oleh 
+  
+    
+      
+         
+      
+    
+    
+  
+ dan 
+  
+    
+      
+        exp
+         
+        
+        =
+        cosh
+         
+        
+        +
+        m
+        sinh
+         
+        
+      
+    
+    
+  
+.
+Sekarang 
+  
+    
+      
+        
+          
+             
+            exp
+             
+            
+          
+        
+        =
+        
+          
+             
+          
+        
+        exp
+         
+        
+          
+        
+      
+    
+    }=\exp \left}
+  
+ terlepas dari  subbidang 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+, tetapi argumen dari fungsi harus diambil dari komponen identitas grup satuannya. Setengah bidang hilang dalam kasus dari struktur bilangan dual, tiga per empat dari bidang harus dikecualikan dalam kasus dari struktur bilangan kompleks terbagi.
+Dengan cara yang sama, jika 
+  
+    
+      
+         
+        exp
+         
+        
+      
+    
+    
+  
+ adalah sebuah elemen dari komponen identitas dari grup satuan dari sebuah bidang yang terkait dengan matriks 2 × 2 dari 
+  
+    
+      
+        m
+      
+    
+    
+  
+, maka fungsi logaritma tersebut menghasilkan sebuah nilai 
+  
+    
+      
+        log
+         
+         
+        +
+        a
+        m
+      
+    
+    
+  
+. Domain dari fungsi logaritma tersebut mendapat batasan yang sama seperti halnya fungsi akar kuadrat yang digambarkan di atas, setengah atau tiga perempat 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ harus dikecualikan dalam kasus 
+  
+    
+      
+        m
+        m
+        =
+        0
+      
+    
+    
+  
+ atau 
+  
+    
+      
+        m
+        m
+        =
+        I
+      
+    
+    
+  
+.
+Teori fungsi yang lebih lanjut dapat dilihat di artikel fungsi kompleks untuk struktur 
+  
+    
+      
+        C
+      
+    
+    
+  
+, atau di artikel variabel motor untuk struktur kompleks terbagi.
+Setiap matriks real 2 × 2 dapat diartikan sebagai salah satu dari tiga bilangan kompleks : bilangan kompleks standar, bilangan dual, dan bilangan kompleks terbagi. Di atas, aljabar matriks 2 × 2 diprofilkan sebagai sebuah gabungan bilangan kompleks, semua membagi sumbu real yang sama. Bidang-bidang ini diperkenalkan sebagai subgelanggang komutatif 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+. Salah satunya dapat menentukan bliangan matriks yang mana sebuah matriks 2 × 2 yang diberikan milik sebagai berikut dan menggolongkan jenis bilangan kompleks yang bidang tersebut mewakili.
+Anggap matriks 2 × 2
+Bilangan kompleks 
+  
+    
+      
+        
+          P
+          
+            m
+          
+        
+      
+    
+    }
+  
+ yang berisi 
+  
+    
+      
+        z
+      
+    
+    
+  
+ ditemukan sebagai berikut.
+Seperti yang disebutkan di atas, kuadrat dari matriks 
+  
+    
+      
+        z
+      
+    
+    
+  
+ adalah diagonal ketika 
+  
+    
+      
+        a
+        +
+        d
+        =
+        0
+      
+    
+    
+  
+. Matriks 
+  
+    
+      
+        z
+      
+    
+    
+  
+ harus diekspresikan sebagai jumlah sebuah perkalian dari matriks identitas 
+  
+    
+      
+        I
+      
+    
+    
+  
+ dan sebuah matriks dalam hiperbidang 
+  
+    
+      
+        a
+        +
+        d
+        =
+        0
+      
+    
+    
+  
+. Memproyeksikan 
+  
+    
+      
+        z
+      
+    
+    
+  
+ secara alternatif ke subruang-subruang 
+  
+    
+      
+        
+          
+            R
+          
+          
+            4
+          
+        
+      
+    
+     ^
+  
+ ini menghasilkan
+Selanjutnya,
+dimana
+Sekarang 
+  
+    
+      
+        z
+      
+    
+    
+  
+ merupakan salah satu dari tiga tipe bilangan kompleks:
+Misalkan 
+  
+    
+      
+        q
+        =
+        
+          
+            1
+            
+               
+              p
+            
+          
+        
+        ,
+        
+        m
+        =
+        q
+        n
+      
+    
+    ,\quad m=qn}
+  
+. Maka 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+        =
+        I
+        ,
+        
+        z
+        =
+        x
+        I
+        +
+        m
+        
+          
+             
+            p
+          
+        
+      
+    
+    =I,\quad z=xI+m
+  
+.
+Misalkan 
+  
+    
+      
+        q
+        =
+        
+          
+            1
+            
+              p
+            
+          
+        
+        ,
+        
+        m
+        =
+        q
+        n
+      
+    
+    ,\quad m=qn}
+  
+. Maka 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+        =
+        I
+        ,
+        
+        z
+        =
+        x
+        I
+        +
+        m
+        
+          
+            p
+          
+        
+      
+    
+    =I,\quad z=xI+m
+  
+.
+Dengan cara yang sama, sebuah matriks 2 × 2 dapat juga diekspresikan dalam koordinat polar dengan peringatan bahwa terdapat dua komponen terhubung dari grup satuan dalam bidang bilangan dual, dan empat komponen dalam bidang bilangan kompleks terbagi.
+Sebuah matriks real 2 × 2 yang diberikan dengan 
+  
+    
+      
+        a
+        d
+         
+        b
+        c
+      
+    
+    
+  
+ bertindak pada koordinat projektif 
+  
+    
+      
+        
+      
+    
+    
+  
+ dari garis projektif real 
+  
+    
+      
+        
+          P
+        
+        
+      
+    
+     }
+  
+ sebagai sebuah transformasi pecahan linear:
+  
+    
+      
+        
+        
+          
+            
+          
+        
+         
+        =
+         
+        
+      
+    
+    a&c\\b&d\end
+  
+Ketika 
+  
+    
+      
+        c
+        x
+        +
+        d
+        y
+        =
+        0
+      
+    
+    
+  
+, titik gambar tersebut adalah titik di takhingga, sebaliknya
+  
+    
+      
+        
+         
+         
+        
+          
+        
+      
+    
+    
+  
+Daripada bertindak pada bidang tersebut sebagai dalam seperti di bagian atas, sebuah matriks bertindak pada garis projektif 
+  
+    
+      
+        
+          P
+        
+        
+      
+    
+     }
+  
+, dan semua matriks sebanding bertindak dengan cara yang sama.
+Misalkan 
+  
+    
+      
+        p
+        =
+        a
+        d
+         
+        b
+        c
+         
+        0
+      
+    
+    
+  
+. Maka
+Aksi dari matriks ini pada garis projektif real tersebut adlaah
+  
+    
+      
+        
+        
+          
+            
+          
+        
+         
+        =
+         
+        
+         
+        
+      
+    
+    p&0\\0&p\end
+  
+ karena koordinat projektif, sehingga aksi tersebut adalah pemetaan identitas pada garis projektif real. Oleh karena itu 
+  
+    
+      
+        
+          
+            
+          
+        
+      
+    
+    a&c\\b&d\end
+  
+ dan 
+  
+    
+      
+        
+          
+            
+          
+        
+      
+    
+    d&-c\\-b&a\end
+  
+ bertindak sebagai invers perkalian.
+Grup projektif tersebut dimulai dengan grup satuan 
+  
+    
+      
+        GL
+         
+        
+      
+    
+     }
+  
+ dari 
+  
+    
+      
+        M
+         
+        
+      
+    
+     }
+  
+, dan kemudian menghubungkan dua elemen jika mereka sebanding, karena aksi sebanding pada 
+  
+    
+      
+        
+          P
+        
+        
+      
+    
+     }
+  
+ identik:
+  
+    
+      
+        PGL
+         
+        
+        =
+        
+          
+            
+              GL
+               
+              
+            
+             
+          
+        
+      
+    
+     =
+  
+ ) dimana 
+  
+    
+      
+         
+      
+    
+    
+  
+ menghubungkan matriks sebanding. Setiap elemen dari grup linear projektif 
+  
+    
+      
+        PGL
+         
+        
+      
+    
+     }
+  
+ adalah sebuah kelas kesetaraan dibawah 
+  
+    
+      
+         
+      
+    
+    
+  
+ dari matriks real 2 × 2 sebanding.

@@ -1,0 +1,2 @@
+Ang hindi nawawalang memorya o non-volatile memory, nonvolatile memory, NVM o non-volatile storage ang memorya ng kompyuter na nagpapanatili ng impormasyon kahit nakapatay ang elektridad o kuryente. Ang mga halimbawa nito ay kinabibilangan ng read-only memory, flash memory, ferroelectric RAM , karamihang mga uri ng magnetikong kasangkapang imbakan ng kompyuter , optical discs, at mga maagang pamamaraan gaya ng  paper tape at mga punched card.
+ Ang lathalaing ito  ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito.

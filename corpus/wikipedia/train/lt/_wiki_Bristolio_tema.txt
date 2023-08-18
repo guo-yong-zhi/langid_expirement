@@ -1,0 +1,56 @@
+1.Bd1-h1!  Rb5-e8/d7 
+2.Vg6-b1  2...Re8-b5 
+3.Vb1-g1# 1 
+Bristolio tema – tai linijos išlaisvinimo temos variantas, kai toliašaudė figūra, judėdama linija, atlaisvina kelią po jos, ta pačia kryptimi judėsiančiai kitai figūrai. 2 
+Figūra, atlaisvinusi kelią, paprastai, tolimesniame žaidime nedalyvauja.
+Kai ši tema išreiškiama juodosiomis figūromis turime juodąjį Bristolį. Šachmatų uždavinyje vienu metu gali būti panaudotos baltojo ir juodojo Bristolio temos.
+Pati tema, laikui bėgant, kito. Buvo sukurta uždavinių, kuriuose nebebuvo griežtai laikomasi pirminių reikalavimu. Uždavinys, kuris sukurtas pilnai prisilaikant Bristolio temos pirminių reikalavimų vadinamas grynuoju Bristoliu.
+Temai pradžią davė anglų šachmatų kompozitoriaus 1861 m. Bristolyje vykusiame turnyre Frenko Hilio sukurtas uždavinys. Iš čia ir temos pavadinimas. 3 
+Tipinę Bristolio temą sudaro valdovė ir kita toliašaudė figūra, paprastai bokštas arba rikis. Tai dviejų ėjimų tema. Jos panaudojimas uždavinyje reikalauja tam tikros vietos šachmatų lentoje, o tai sumažina galimų laukelių skaičių kitoms temoms.
+Bėgant metams, kai dviejų ėjimų uždaviniuose vienintelio teminio varianto pradėjo nepakakti, Bristolio tema, pradėjo keistis. Uždaviniai pradėti skirstyti, atsižvelgiant į Bristolio temos reikalavimų laikymasi. Tie, kurie sudaryti, prisilaikant jų, pavadinti grynojo Bristolio uždaviniais.
+Grynojo Bristolio tema nustato, kad priekinė figūra juda vieninteliu tikslu: atlaisvinti liniją, eisiančiai po jos figūrai. Ji neskirta saugoti laukelių aplink juodųjų karalių ir neturi dar ko nors kompozicijoje keisti, o tik sudaryti galimybę kitai figūrai laisvai judėti atlaisvintąją linija ta pačia kryptimi.
+Daugelio ėjimų ir trijų ėjimų uždaviniuose Bristolio tema turi mažesnę įtaką turiniui.
+Juodojo Bristolio tema Koco ir Kockelkorno uždavinyje panaudojama juodųjų gynybai Po 1. d3 baltieji grasina 2. Re4 ir toliau su žirgu matuoti karalių laukeliuose c4 ir g4. Juodieji ginasi juoduoju Bristoliu 1… Bh8! 2.Re4 V.g8!. Tiesa, apsigina laikinai, nes po 3. Rb2 jie patenka į cugcvangą ir tenka valdove pasitraukti. Juodasis Bristolis paplito tarp sutarto mato uždavinių.
+M. Vukčevičiaus uždavinyje Bristolio tema sutinkama du kartus. Klaidinančiame pėdsake panaudota viena pora Bristolio figūrų: rikio ir valdovės, o sprendinyje kita pora – bokšto ir valdovės.
+I. Kisio uždavinyje taip pat sutinkame du Bristolius: vieną klaidinančiame pėdsake, kitą – sprendinio variante, tačiau baltieji neprisilaiko grynojo Bristolio reikalavimo, kad figūra atlaisvinusi liniją, toliau nebedalyvautų žaidime. Abiem atvejais bokštai grasina matu, ko pagal grynojo Bristolio temos reikalavimus neturėtų daryti.
+Sprendinys
+1.d3 Bh8! 2.Re4 Vg8! 
+3.Rb2  Vf8/Ve8/Vd8/Vc8/Vb8/Va8,Vf7,Ve6,Vd5 4. Žg4# 
+3...Vg7/Vg6/Vg5 Vc4 4. Žc4#
+Klaidinantis pėdsakas
+1. Ra4?  - grėsmė   2. Kd7#
+1. ... B:e4 2. Vb5#
+1. ... Žd4 2. Bd5#
+1.... K:e4 2. Kf6#, 
+paneigimas: 1... Žf4!
+Sprendinys
+1. Ba8!  - grėsmė  2. Kd8#
+1. ... Žd4 2. Vb8#
+1. ... B:e4 2. Ba5#
+1. ... K:e4 2. Kd6#
+1. ... Rf8+ 2. Kxf8#
+Klaidinantis pėdsakas: 
+1.Ba1?  grėsmė2.Ba4# 
+1... Že2 2.Vb1#. 
+1... R:g4 2.Rd3#
+Paneigimas: 1... Žxg4!
+ Sprendinys  1.Bh8!  - grėsmė  2.Be8#.  
+1... Žxg4 2.Vh7#. 
+1… Rxg4 2.Bxf4#. 4 
+Šią temą šachmatų kompozitoriai naudoja, kurdami :tiesioginius 5 , sutarto mato 6 , atvirkščio mato 7 , sutarto atvirkščio mato 8 , serijinių ėjimų 9 , retro šachmatų uždavinius ir etiudus 10 .
+Iliuzinis žaidimas
+1... Bh8! 2. Kxd3 Vh7#
+Sprendinys
+1.Va1! Ve4 
+2. Rb2 d4# 11 
+Sprendinys
+1.Bh6! 
+1...Vg1 2.Ža4+ Rb6 3.Žc5+ V×c5# 
+1...V×g2 2.Žh7+ Bg6 3.Žg5+ V×g5# 
+1...Bg6 2.Žd5+ Rb6 3.Žf4+ V×f4#
+ 12 
+Du sprendiniai
+1.Kf2 Ve6 2.Bc5 Rd5 3.Ve1+ Vxe1# 
+1.Kg2 Vf7 2.Vc6 Re5 3.Bf1+ Vxf1# 13 
+Bristolio temos uždaviniai
+Peter Wong. Bristol 

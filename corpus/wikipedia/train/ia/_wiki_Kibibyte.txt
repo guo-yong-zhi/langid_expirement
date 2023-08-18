@@ -1,0 +1,37 @@
+ 
+Le kibibyte es un unitate de mesura del information o del quantitate de datos.
+Le termino deriva del contraction anglese kilo binary byte e ha pro symbolo KiB .
+Iste standard ha essite definite per le Commission Electronic International  in decembre 1998 pro establir le nove multiplos del byte.
+Le kibibyte es ligate strictemente al kilobyte, le qual es usate  o como synonymo pro kibibyte o pro referer se a 
+  
+    
+      
+        
+          10
+          
+            3
+          
+        
+      
+    
+    }
+  
+ bytes  creante in ille caso un error de 2,4 %.
+1 kibibyte = 1 024 B = 
+  
+    
+      
+        
+          2
+          
+            10
+          
+        
+      
+    
+    }
+  
+ bytes
+1 kibibyte ≈ 1 000 bytes → 2,4% de error
+In bytes:
+In bits:
