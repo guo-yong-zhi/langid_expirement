@@ -29,6 +29,17 @@ function dataset_ngrams(dataset, n)
     counters
 end
 
+function merged_dataset_ngrams(dataset, n)
+    counter = Dict{Tuple{Vararg{UInt8}}, Float64}()
+    for (text,lang) in dataset
+        text = normalize_text(text)
+        for i in 1:n
+            ngrams(text, i, counter)
+        end
+    end
+    counter
+end
+
 function Base.:*(n::Number, d::Dict)
     return typeof(d)((k, v*n) for (k, v) in d)
 end
@@ -37,9 +48,10 @@ function Base.:+(d1::Dict, d2::Dict)
     mergewith(+, d1, d2)
 end
 
-function dump_ngrams(D::Dict{T, Float64}, filename) where T <: Tuple{Vararg{UInt8}}
+function dump_ngrams(D, filename)
     open(filename, "w") do f
         for (k, v) in D
+            @assert k isa Tuple{Vararg{UInt8}}
             write(f, join(string.(k, base=16), ""))
             write(f, ",")
             write(f, string(v))
@@ -58,5 +70,24 @@ function load_ngrams(filename)
             push!(D, k => parse(Float64, v))
         end
         Dict(D)
+    end
+end
+function dump_vocab(V, filename)
+    open(filename, "w") do f
+        for k in V
+            @assert k isa Tuple{Vararg{UInt8}}
+            write(f, join(string.(k, base=16), ""))
+            write(f, "\n")
+        end
+    end
+end
+function load_vocab(filename)
+    open(filename) do f
+        V = []
+        for line in eachline(f)
+            c = Tuple(parse.(UInt8, Iterators.partition(string(line), 2), base=16))
+            push!(V, c)
+        end
+        V
     end
 end

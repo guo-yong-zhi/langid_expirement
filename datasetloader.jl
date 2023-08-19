@@ -4,7 +4,7 @@ struct WikiDataSet <: AbstractVector{Pair{String, String}}
     data
 end
 function WikiDataSet(path; langs=readdir(path))
-    lang_files = Dict(lang => readdir(joinpath(path, lang)) for lang in langs)
+    lang_files = Dict(lang => readdir(joinpath(path, get(WLANGMAP, lang, lang))) for lang in langs)
     data = [file => lang for (lang, files) in lang_files for file in files]
     return WikiDataSet(path, lang_files, data)
 end
@@ -13,7 +13,7 @@ function Base.size(wd::WikiDataSet)
 end
 function Base.getindex(wd::WikiDataSet, i)
     file, lang = wd.data[i]
-    fn = joinpath(wd.path, lang, file)
+    fn = joinpath(wd.path, get(WLANGMAP, lang, lang), file)
     return read(fn, String) => lang
 end
 getlanguages(wd::WikiDataSet) = keys(wd.lang_files)
@@ -25,10 +25,10 @@ struct TatoebaDataset <: AbstractVector{Pair{String, String}}
 end
 
 function TatoebaDataset(path, index::AbstractDict; langs=[f[1:end-4] for f in readdir(path)])
-    lang_lines = Dict(lang => index[lang] for lang in langs)
+    lang_lines = Dict(lang => index[get(TLANGMAP, lang, lang)] for lang in langs)
     data = Pair{String, String}[]
     for (lang, lines) in lang_lines
-        text = readlines(joinpath(path, lang * ".txt"))
+        text = readlines(joinpath(path, get(TLANGMAP, lang, lang) * ".txt"))
         for line in lines
             push!(data, text[line] => lang)
         end
@@ -115,4 +115,9 @@ LANGS = ["ara", "bel", "ben", "bul", "cat", "ces", "dan", "deu", "ell",
 "mar", "mkd", "msa", "nds", "nld", "nor", "pol", "por", "ron", "rus", 
 "slk", "spa", "swa", "swe", "tat", "tgl", "tur", "ukr", "vie", "yid", 
 "zho"]
+
+WLANGMAP = Dict("epo" => "eo", "jpn" => "ja", "kor" => "ko", "ron" => "ro", "nds" => "nds", "fin" => "fi", "kab" => "kab", "bel" => "be", "tgl" => "tl", "heb" => "he", "tat" => "tt", "yid" => "yi", "swa" => "sw", "ara" => "ar", "hin" => "hi", "hbs" => "sr", "bul" => "bg", "mar" => "mr", "spa" => "es", "swe" => "sv", "fra" => "fr", "hun" => "hu", "cat" => "ca", "eng" => "en", "ina" => "ia", "deu" => "de", "dan" => "da", "ben" => "bn", "fas" => "fa", "por" => "pt", "nld" => "nl", "zho" => "zh", "rus" => "ru", "lat" => "la", "ukr" => "uk", "tur" => "tr", "ita" => "it", "kur" => "ckb", "hau" => "ha", "ell" => "el", "msa" => "id", "pol" => "pl", "lit" => "lt", "slk" => "sk", "nor" => "no", "ido" => "io", "vie" => "vi", "mkd" => "mk", "isl" => "is", "ces" => "cs")
+TLANGMAP = Dict("epo" => "epo", "jpn" => "jpn", "kor" => "kor", "ron" => "ron", "nds" => "nds", "fin" => "fin", "kab" => "kab", "bel" => "bel", "tgl" => "tgl", "heb" => "heb", "tat" => "tat", "yid" => "yid", "swa" => "swc", "ara" => "ara", "hin" => "hin", "hbs" => "srp", "bul" => "bul", "mar" => "mar", "spa" => "spa", "swe" => "swe", "fra" => "fra", "hun" => "hun", "cat" => "cat", "eng" => "eng", "ina" => "ina", "deu" => "deu", "dan" => "dan", "ben" => "ben", "fas" => "pes", "por" => "por", "nld" => "nld", "zho" => "cmn", "rus" => "rus", "lat" => "lat", "ukr" => "ukr", "tur" => "tur", "ita" => "ita", "kur" => "ckb", "hau" => "hau", "ell" => "ell", "msa" => "ind", "pol" => "pol", "lit" => "lit", "slk" => "slk", "nor" => "nob", "ido" => "ido", "vie" => "vie", "mkd" => "mkd", "isl" => "isl", "ces" => "ces")
+REV_WLANGMAP = Dict(v=>k for (k,v) in WLANGMAP)
+REV_TLANGMAP = Dict(v=>k for (k,v) in TLANGMAP)
 nothing
