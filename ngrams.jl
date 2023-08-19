@@ -17,6 +17,18 @@ function ngrams(text::AbstractString, n, counter=Dict{NTuple{n, UInt8}, Float64}
 	end
     counter
 end
+function merged_ngrams(text::AbstractString, n=5, counter=Dict{Tuple{Vararg{UInt8}}, Float64}())
+    text = normalize_text(text)
+	text = transcode(UInt8, string(text))
+    for k in 1:n
+        for i in 1:length(text)-k+1
+            p = Tuple(text[i:i+k-1])
+            counter[p] = get(counter, p, 0) + 1
+        end
+    end
+    counter
+end
+
 
 function dataset_ngrams(dataset, n)
     counters = [Dict{NTuple{i, UInt8}, Float64}() for i in 1:n]
@@ -32,10 +44,7 @@ end
 function merged_dataset_ngrams(dataset, n)
     counter = Dict{Tuple{Vararg{UInt8}}, Float64}()
     for (text,lang) in dataset
-        text = normalize_text(text)
-        for i in 1:n
-            ngrams(text, i, counter)
-        end
+        merged_ngrams(text, n, counter)
     end
     counter
 end
