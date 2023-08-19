@@ -99,3 +99,20 @@ function load_index(filename)
     end
     return index
 end
+
+TLANGS = ["ara", "bel", "ben", "bul", "cat", "ces", "dan", "deu", "ell", "eng", "epo", "pes", "fin",
+ "fra", "hau", "srp", "heb", "hin", "hun", "ido", "ina", "isl", "ita", "jpn", "kab", "kor", "ckb", 
+ "lat", "lit", "mar", "mkd", "ind", "nds", "nld", "nob", "pol", "por", "ron", "rus", "slk", "spa", 
+ "swc", "swe", "tat", "tgl", "tur", "ukr", "vie", "yid", "cmn"]
+WLANGS = ["ar", "be", "bn", "bg", "ca", "cs", "da", "de", "el", 
+"en", "eo", "fa", "fi", "fr", "ha", "sr", "he", "hi", "hu", "io", 
+"ia", "is", "it", "ja", "kab", "ko", "ckb", "la", "lt", "mr", "mk",
+ "id", "nds", "nl", "no", "pl", "pt", "ro", "ru", "sk", "es", "sw",
+  "sv", "tt", "tl", "tr", "uk", "vi", "yi", "zh"]
+LANGS = ["ara", "bel", "ben", "bul", "cat", "ces", "dan", "deu", "ell", 
+"eng", "epo", "fas", "fin", "fra", "hau", "hbs", "heb", "hin", "hun", 
+"ido", "ina", "isl", "ita", "jpn", "kab", "kor", "kur", "lat", "lit", 
+"mar", "mkd", "msa", "nds", "nld", "nor", "pol", "por", "ron", "rus", 
+"slk", "spa", "swa", "swe", "tat", "tgl", "tur", "ukr", "vie", "yid", 
+"zho"]
+nothing
