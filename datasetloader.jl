@@ -100,24 +100,24 @@ function load_index(filename)
     return index
 end
 
-TLANGS = ["ara", "bel", "ben", "bul", "cat", "ces", "dan", "deu", "ell", "eng", "epo", "pes", "fin",
+const TLANGS = ["ara", "bel", "ben", "bul", "cat", "ces", "dan", "deu", "ell", "eng", "epo", "pes", "fin",
  "fra", "hau", "srp", "heb", "hin", "hun", "ido", "ina", "isl", "ita", "jpn", "kab", "kor", "ckb", 
  "lat", "lit", "mar", "mkd", "ind", "nds", "nld", "nob", "pol", "por", "ron", "rus", "slk", "spa", 
  "swc", "swe", "tat", "tgl", "tur", "ukr", "vie", "yid", "cmn"]
-WLANGS = ["ar", "be", "bn", "bg", "ca", "cs", "da", "de", "el", 
+const WLANGS = ["ar", "be", "bn", "bg", "ca", "cs", "da", "de", "el", 
 "en", "eo", "fa", "fi", "fr", "ha", "sr", "he", "hi", "hu", "io", 
 "ia", "is", "it", "ja", "kab", "ko", "ckb", "la", "lt", "mr", "mk",
  "id", "nds", "nl", "no", "pl", "pt", "ro", "ru", "sk", "es", "sw",
   "sv", "tt", "tl", "tr", "uk", "vi", "yi", "zh"]
-LANGS = ["ara", "bel", "ben", "bul", "cat", "ces", "dan", "deu", "ell", 
+const LANGS = ["ara", "bel", "ben", "bul", "cat", "ces", "dan", "deu", "ell", 
 "eng", "epo", "fas", "fin", "fra", "hau", "hbs", "heb", "hin", "hun", 
 "ido", "ina", "isl", "ita", "jpn", "kab", "kor", "kur", "lat", "lit", 
 "mar", "mkd", "msa", "nds", "nld", "nor", "pol", "por", "ron", "rus", 
 "slk", "spa", "swa", "swe", "tat", "tgl", "tur", "ukr", "vie", "yid", 
 "zho"]
 
-WLANGMAP = Dict("epo" => "eo", "jpn" => "ja", "kor" => "ko", "ron" => "ro", "nds" => "nds", "fin" => "fi", "kab" => "kab", "bel" => "be", "tgl" => "tl", "heb" => "he", "tat" => "tt", "yid" => "yi", "swa" => "sw", "ara" => "ar", "hin" => "hi", "hbs" => "sr", "bul" => "bg", "mar" => "mr", "spa" => "es", "swe" => "sv", "fra" => "fr", "hun" => "hu", "cat" => "ca", "eng" => "en", "ina" => "ia", "deu" => "de", "dan" => "da", "ben" => "bn", "fas" => "fa", "por" => "pt", "nld" => "nl", "zho" => "zh", "rus" => "ru", "lat" => "la", "ukr" => "uk", "tur" => "tr", "ita" => "it", "kur" => "ckb", "hau" => "ha", "ell" => "el", "msa" => "id", "pol" => "pl", "lit" => "lt", "slk" => "sk", "nor" => "no", "ido" => "io", "vie" => "vi", "mkd" => "mk", "isl" => "is", "ces" => "cs")
-TLANGMAP = Dict("epo" => "epo", "jpn" => "jpn", "kor" => "kor", "ron" => "ron", "nds" => "nds", "fin" => "fin", "kab" => "kab", "bel" => "bel", "tgl" => "tgl", "heb" => "heb", "tat" => "tat", "yid" => "yid", "swa" => "swc", "ara" => "ara", "hin" => "hin", "hbs" => "srp", "bul" => "bul", "mar" => "mar", "spa" => "spa", "swe" => "swe", "fra" => "fra", "hun" => "hun", "cat" => "cat", "eng" => "eng", "ina" => "ina", "deu" => "deu", "dan" => "dan", "ben" => "ben", "fas" => "pes", "por" => "por", "nld" => "nld", "zho" => "cmn", "rus" => "rus", "lat" => "lat", "ukr" => "ukr", "tur" => "tur", "ita" => "ita", "kur" => "ckb", "hau" => "hau", "ell" => "ell", "msa" => "ind", "pol" => "pol", "lit" => "lit", "slk" => "slk", "nor" => "nob", "ido" => "ido", "vie" => "vie", "mkd" => "mkd", "isl" => "isl", "ces" => "ces")
-REV_WLANGMAP = Dict(v=>k for (k,v) in WLANGMAP)
-REV_TLANGMAP = Dict(v=>k for (k,v) in TLANGMAP)
+const WLANGMAP = Dict("epo" => "eo", "jpn" => "ja", "kor" => "ko", "ron" => "ro", "nds" => "nds", "fin" => "fi", "kab" => "kab", "bel" => "be", "tgl" => "tl", "heb" => "he", "tat" => "tt", "yid" => "yi", "swa" => "sw", "ara" => "ar", "hin" => "hi", "hbs" => "sr", "bul" => "bg", "mar" => "mr", "spa" => "es", "swe" => "sv", "fra" => "fr", "hun" => "hu", "cat" => "ca", "eng" => "en", "ina" => "ia", "deu" => "de", "dan" => "da", "ben" => "bn", "fas" => "fa", "por" => "pt", "nld" => "nl", "zho" => "zh", "rus" => "ru", "lat" => "la", "ukr" => "uk", "tur" => "tr", "ita" => "it", "kur" => "ckb", "hau" => "ha", "ell" => "el", "msa" => "id", "pol" => "pl", "lit" => "lt", "slk" => "sk", "nor" => "no", "ido" => "io", "vie" => "vi", "mkd" => "mk", "isl" => "is", "ces" => "cs")
+const TLANGMAP = Dict("epo" => "epo", "jpn" => "jpn", "kor" => "kor", "ron" => "ron", "nds" => "nds", "fin" => "fin", "kab" => "kab", "bel" => "bel", "tgl" => "tgl", "heb" => "heb", "tat" => "tat", "yid" => "yid", "swa" => "swc", "ara" => "ara", "hin" => "hin", "hbs" => "srp", "bul" => "bul", "mar" => "mar", "spa" => "spa", "swe" => "swe", "fra" => "fra", "hun" => "hun", "cat" => "cat", "eng" => "eng", "ina" => "ina", "deu" => "deu", "dan" => "dan", "ben" => "ben", "fas" => "pes", "por" => "por", "nld" => "nld", "zho" => "cmn", "rus" => "rus", "lat" => "lat", "ukr" => "ukr", "tur" => "tur", "ita" => "ita", "kur" => "ckb", "hau" => "hau", "ell" => "ell", "msa" => "ind", "pol" => "pol", "lit" => "lit", "slk" => "slk", "nor" => "nob", "ido" => "ido", "vie" => "vie", "mkd" => "mkd", "isl" => "isl", "ces" => "ces")
+const REV_WLANGMAP = Dict(v=>k for (k,v) in WLANGMAP)
+const REV_TLANGMAP = Dict(v=>k for (k,v) in TLANGMAP)
 nothing

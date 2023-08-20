@@ -13,7 +13,7 @@ function ngrams(text::AbstractString, n, counter=Dict{NTuple{n, UInt8}, Float64}
 	text = transcode(UInt8, string(text))
 	for i in 1:length(text)-n+1
         p = Tuple(text[i:i+n-1])
-        counter[p] = get(counter, p, 0) + 1
+        counter[p] = get(counter, p, 0.) + 1.
 	end
     counter
 end
@@ -23,7 +23,7 @@ function merged_ngrams(text::AbstractString, n=5, counter=Dict{Tuple{Vararg{UInt
     for k in 1:n
         for i in 1:length(text)-k+1
             p = Tuple(text[i:i+k-1])
-            counter[p] = get(counter, p, 0) + 1
+            counter[p] = get(counter, p, 0.) + 1.
         end
     end
     counter
