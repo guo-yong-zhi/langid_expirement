@@ -60,7 +60,7 @@ end
 function dump_ngrams(D, filename)
     open(filename, "w") do f
         for (k, v) in D
-            @assert k isa Tuple{Vararg{UInt8}}
+            @assert k isa Vector{UInt8}
             write(f, join(string.(k, base=16), ""))
             write(f, ",")
             write(f, string(v))
