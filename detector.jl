@@ -24,13 +24,7 @@ function detector_lh(text; ngram=5, languages=LANGS, logtable=LOG_T)
     lhs = likelihood.(Ref(t), logtable)
     languages[argmax(lhs)]
 end
-function detector_lh2(text; ngram=5, languages=LANGS, logtable=LOG_T2)
-    t = merged_ngrams(text, ngram)
-    lhs = likelihood.(Ref(t), logtable)
-    languages[argmax(lhs)]
-end
+
 norm_table!.(G);
 const LOG_T = last.(G);
 const DEFAULT_LOGP = (minimum.(values.(last.((G))))|>minimum)
-using Dictionaries
-const LOG_T2 = Dictionary.(LOG_T)
