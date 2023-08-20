@@ -47,6 +47,9 @@ w", "sag", "bei", "bns", "mmm", "mrh", "kvt", "phk", "sbz", "sjl", "bmi", "kjh",
 part1toid(c) = part1_id[c]
 id2mid(c) = iid_mid[c]
 function normcode(c, check=false)
+    if occursin("-", c)
+        c = split(c, "-")[1]
+    end
     c = get(part1_id, c, c)
     c = get(iid_mid, c, c)
     if check
