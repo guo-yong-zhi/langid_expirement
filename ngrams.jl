@@ -22,7 +22,7 @@ function merged_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8}, Fl
 	text = transcode(UInt8, string(text))
     for k in 1:n
         for i in 1:length(text)-k+1
-            p = (text[i:i+k-1])
+            p = text[i:i+k-1]
             counter[p] = get(counter, p, 0.) + 1.
         end
     end
