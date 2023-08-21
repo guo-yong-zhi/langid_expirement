@@ -1,0 +1,40 @@
+Un ARN termómetro  es una molécula de ARN no codificante, sensible a la temperatura, que regula la expresión génica. A menudo están implicados en la expresión de genes requeridos durante el choque térmico, pero también han sido relacionados con otras funciones reguladoras, así como en patogenicidad e inanición. 
+En general, los ARN termómetros operan modificando su estructura secundaria en respuesta a fluctuaciones de temperatura. Este cambio conformacional puede exponer u ocluir regiones importantes del ARN, como por ejemplo el sitio de unión a ribosomas, lo cual afecta al índice de traducción de las proteínas codificadas por genes cercanos.
+Los ARN termómetro, junto con los riboswitches, son expuestos como ejemplos de apoyo a la hipótesis del mundo de ARN, que sugiere que el ARN fue en algún momento del pasado el único ácido nucleico en las células, siendo posteriormente reemplazado por el sistema actual en el que la información genética es transmitida entre generaciones en el ADN, y los transcritos de ARN son los intermediarios en la síntesis proteica. 
+Ejemplos de termosensores de ARN incluyen el termómetro FourU, el elemento regulador en cis de Hsp90, el elemento ROSE, 
+y el termómetro Hsp17. 
+ 
+ 
+El primer elemento de ARN sensible a la temperatura fue dilucidado en 1989. 
+Previo a esta investigación, se observó que las mutaciones corriente arriba del sitio de inicio de la transcripción en el 
+ARN mensajero  del gen cIII del fago lambda , afectaban a su nivel de traducción.  
+La proteína cIII está implicada en la selección del ciclo a seguir por el fago λ en su infección , induciendo la lisogenia a altas concentraciones.  El estudio en profundidad de esta región corriente arriba del ARNm permitió identificar dos estructuras secundarias alternativas. Experimentalmente se descubrió que dichas estructuras eran intercambiables y dependientes de la concentración de ion magnesio y de la temperatura.  
+  
+Actualmente se piensa que esta región de ARN termómetro promueve la entrada en el ciclo lítico bajo estrés térmico, con el fin de que el bacteriófago se replique rápidamente y salga de la célula hospedadora. 
+El término "ARN termómetro" no fue acuñado hasta 1999, cuando fue utilizado para referirse al elemento rpoH identificado en Escherichia coli. 
+  
+Más recientemente, han sido empleadas búsquedas bioinformáticas para descubrir secuencias candidatas a revelarse como termómetros de ARN.  
+Las búsquedas tradicionales basadas en secuencias son ineficientes, ya que es la estructura secundaria  la que se conserva similar entre los diferentes elementos, y no tanto su secuencia de nucleótidos. 
+La mayoría de termosensores de ARN conocidos están localizados en la región no traducida  5' de los ARN mensajeros que codifican para proteínas de choque térmico —aunque ha sido sugerido esto puede deberse, en parte, a un sesgo de muestreo y a las dificultades inherentes de detectar secuencias cortas y no conservadas de ARN en la información genética. 
+ 
+Si bien son predominantemente encontrados en procariotas, un potencial ARN termómetro ha sido encontrado en mamíferos, incluyendo los humanos.  
+El candidato es el ARN termómetro de choque térmico-1 . Éste activa el factor de transcripción de choque térmico 1 , que induce la transcripción de proteínas protectoras cuándo la temperatura de la célula supera los 37 °C , y por ello previene los daños por sobrecalentamiento en las células. 
+Los ARN termómetro son estructuralmente sencillos y pueden estar formados por secuencias cortas. El más pequeño consta de 44 nucleótidos y se encuentra en el ARN de la proteína de choque térmico hsp17, en Synechocystis sp. PCC 6803. 
+  Generalmente, este tipo de elementos oscilan entre los 60-110 nucleótidos de longitud y contienen una estructura de tallo-bucle con un pequeño número de bases desapareadas que reducen la estabilidad de la estructura permitiendo, por lo tanto, su desdoblamiento en respuesta al calentamiento. 
+El análisis estructural detallado del ARN termómetro ROSE, reveló que las bases desapareadas están en realidad implicadas en un emparejamiento no estándar que preserva la estructura helicoidal del ARN . Los pares de bases inusuales consisten en G-G, U-U, y UC-U. Como estos pares no canónicos son relativamente inestables, el aumento de la temperatura causa la fusión local de la estructura de ARN en dicha región, exponiendo la secuencia de Shine-Dalgarno. 
+Algunos termosensores de ARN son más complejos que una horquilla simple, como en el caso de una región encontrada en el ARNm de CspA, que se cree que contiene un pseudonudo, así como múltiples horquillas.   Se han diseñado termómetros de ARN sintéticos con estructura de horquilla simple.  Sin embargo, la estructura secundaria de tales termómetros de ARN cortos es sensible a las mutaciones, ya que el cambio de una sola base de su secuencia puede inactivar la horquilla in vivo. 
+Los termómetros de ARN se encuentran en la 5'-UTR del ARN mensajero, corriente arriba del gen codificante para la proteína.  Allí son capaces de ocluir el sitio de unión al ribosoma  e impedir traducción del ARNm a proteína.  Cuando la temperatura aumenta, la estructura en horquilla pierde su integridad y expone el RBS o secuencia de Shine-Dalgarno, para permitir la unión de la subunidad ribosomal pequeña , que a continuación recluta al resto de la maquinaria de traducción.  El codón de inicio, encontrado normalmente 8 nucleótidos corriente abajo de la secuencia Shine-Dalgarno,  señala el principio de la región codificante del gen que es traducido a proteína por el ribosoma. Además de este mecanismo regulador en cis, un caso de ARN termómetro regulador en trans ha sido encontrado en el ARNm de la proteína RpoS, donde se cree implicado en la respuesta a la inanición. 
+Un ejemplo estructural concreto de estos elementos de ARN es el termómetro FourU encontrado en Salmonella enterica.  Cuando es sometido a temperaturas por encima de los 45 °C, el tallo-bucle formado opuestamente a la secuencia Shine-Dalgarno se desacopla y permite al ribosoma acceder al ARNm.  
+Se ha demostrado que la concentración de ion Mg2+ afecta a la estabilidad de FourU.  
+El ARN termómetro mejor estudiado es el encontrado en el gen rpoH de Escherichia coli.  
+Este termosensor regula el aumento de la expresión de proteínas de choque térmico a altas temperaturas, a través del σ32, un factor sigma especializado en la respuesta a este tipo de estrés. 
+Aunque típicamente asociados con la expresión de proteínas inducida por calor, los termómetros de ARN también pueden regular proteínas de choque frío.  
+Por ejemplo, la expresión de dos proteínas de 7kDa en la bacteria termófila Thermus thermophilus, está regulada por un ARN termómetro,
+  
+y un mecanismo similar ha sido identificado en el orden Enterobacteriales. 
+Los termosensores de ARN sensibles a temperaturas de 37 °C pueden ser utilizados por patógenos para activar genes de infección.  
+Por ejemplo, la sobreexpresión del gen prfA, que codifica un regulador transcripcional de varios genes de virulencia clave en Listeria monocytogenes, fue demostrada al fusionar el extremo 5' del ADN de prfA al gen de la proteína verde fluorescente. La fusión de ambos genes fue entonces transcrita desde el promotor T7 en E. coli, y la fluorescencia se observó a 37 °C pero no a 30 °C. 
+La hipótesis del mundo de ARN afirma que el ARN fue en algún momento tanto el portador de la información hereditaria como el responsable de las reacciones enzimáticas, con diferentes secuencias actuando como biocatalizadores, reguladores y sensores.  
+La hipótesis propone pues, que la vida en algún momento evolucionó al modelo actual basado en ADN, ARN y proteínas, y que la selección reemplazó la mayoría de las funciones del ARN con otras biomoléculas. 
+Se cree que los termómetros de ARN y los riboswitches son evolutivamente antiguos, debido a su amplia distribución en organismos distantes.  Se ha propuesto que, en el mundo de ARN, estos termosensores habrían sido los responsables de la regulación dependiente de temperatura de otras moléculas de ARN. 
+ 

@@ -1,0 +1,139 @@
+Molekula Mekaniko estas metodaro kiun oni kelkfoje kvalifikas kiel branĉo kaj de Teoria Kemio kaj de Komputika Kemio. Ĝi,  per uzo de la Klasika Mekaniko klopodas modelumi molekulajn sistemojn. La Potencialan energion de ĉiu ajn sistemo oni kalkulas per fortokampoj. Molekula Mekaniko povas esti uzata por pristudi kaj malgrandajn molekulojn kaj gradegajn biologiajn sistemojn.
+Ĉiu Molekula Mekaniko-Metodo havas la jenajn ecojn:
+La jenan matematikan esprimon oni konas en la Komputika Kemia fako kiel Potenciala Energio-Funkcio aŭ Fortokampo:
+  
+    
+      
+         
+        E
+        =
+        
+          E
+          
+            kovalenta
+          
+        
+        +
+        
+          E
+          
+            nekovalenta
+          
+        
+        
+      
+    
+    }+E_\,}
+  
+kie la kontribuoj kovalenta kaj nekovalenta samtempe egalas al:
+  
+    
+      
+         
+        
+          E
+          
+            kovalenta
+          
+        
+        =
+        
+          E
+          
+            ligo
+          
+        
+        +
+        
+          E
+          
+            ligoangulo
+          
+        
+        +
+        
+          E
+          
+            duedrangulo
+          
+        
+        
+      
+    
+    }=E_+E_+E_\,}
+  
+  
+    
+      
+         
+        
+          E
+          
+            nekovalenta
+          
+        
+        =
+        
+          E
+          
+            kulomba
+          
+        
+        +
+        
+          E
+          
+            van der Waals
+          
+        
+        
+      
+    
+    }=E_+E_\,}
+  
+Ĉi tial, oni havas entute la jenan Fortokampon:
+  
+    
+      
+         
+        E
+        =
+        
+          E
+          
+            ligo
+          
+        
+        +
+        
+          E
+          
+            ligoangulo
+          
+        
+        +
+        
+          E
+          
+            duedrangulo
+          
+        
+        +
+        
+          E
+          
+            kulomba
+          
+        
+        +
+        
+          E
+          
+            van der Waals
+          
+        
+        
+      
+    
+    }+E_+E_+E_+E_\,}
+  

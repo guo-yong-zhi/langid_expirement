@@ -1,0 +1,6 @@
+C#  is ene Programmeerspraak, de op de Spraken C un C++ baseert. Microsoft hett disse Spraak utklamüsert. 1998 geev dat de eersten Berichten, dat Microsoft an en ne’e Programmeerspraak arbeiden dee, aver eerst 2000 hebbt se de Spraak op de Professional Developers Conference in Orlando offiziell vörstellt. Vör allen dor an mitarbeidt hebbt Anders Hejlsberg, Scott Wiltamuth un Peter Golde. De Spraak schull de Vördelen vun C un C++ mit de vun Java vereenigen. Ok mit dat .NET Framework schull de Spraak good tohooparbeiden.
+Dit Bispill schrievt "Moin!" up dien Monitor.
+    using     System  ; 
+ class     Program      
+ } 
+</pr

@@ -1,0 +1,5 @@
+Pontosságellenőrzött
+A zalaegerszegi 8E jelzésű autóbusz a Kertváros, autóbusz-fordulótól indulva körjáratként közlekedik a belváros érintésével. A vonalat a Volánbusz üzemelteti.
+1    1A    1E    1U    1Y    2    2A    2R    2Y    3    3C    3Y    4    4A    4E    4U    4Y    5    5C    5U    5Y    8    8C    8E    9    9E    9U    10    10C    10E    10Y    11    11A    11Y    24    26    30    30A    30C    41    44    48    69    C1    C2    C4    C5
+Andráshida vasútállomás    Zalaegerszeg vasútállomás    Zalaegerszeg-Ola megállóhely
+Zala Volán     ÉNYKK    Volánbusz     MÁV-START Zrt.

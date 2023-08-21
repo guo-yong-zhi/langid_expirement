@@ -1,0 +1,1 @@
+Incompatible Timesharing System – opracowany w latach 60., stworzony w assemblerze system operacyjny z funkcją dzielenia czasu. Został zaprojektowany na MIT, gdzie był używany do 1990 roku.

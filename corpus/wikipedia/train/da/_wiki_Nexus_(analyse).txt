@@ -1,0 +1,6 @@
+Nexus er en betegnelse for den metode, man anvender til at analysere sætninger grammatisk. Metoden blev første gang brugt i Danmark og blev senere kraftigt udviklet af den danske lingvist Otto Jespersen. Brugen af krydser, boller, trekanter og firkanter under ordene kendetegner ofte metoden.
+ Glasset falder
+   X      O
+ Drengen giver pigen blomster
+    X      O     ₳      Δ
+</prIgen refererer krydset til subjektet og bollen til verballeddet. Trekanten markerer genstandsleddet , og firkanten markerer hensynsleddet .

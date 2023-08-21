@@ -1,0 +1,169 @@
+Santraukos funkcija  – bendru atveju, vienos  aibės atvaizdavimas į kitą  aibę. Santraukos funkcija labai svarbi kriptografijoje, tačiau gali būti naudojama ir kitose srityse.
+  
+    
+      
+        h
+        :
+        A
+         
+        B
+        ,
+         
+        
+          |
+        
+        A
+        
+          |
+        
+        >
+        
+          |
+        
+        B
+        
+          |
+        
+        
+      
+    
+    
+  
+.
+Kriptografinei santraukos funkcijai keliami keli svarbūs reikalavimai.
+Kriptografijoje naudojamos santraukos funkcijos, kurios atvaizduoja kintamo ilgio  žodžius į fiksuoto ilgio žodžius. Pastebėsime, kad tai neišvengiamai sudaro galimybę kolizijoms, t. y. 
+  
+    
+      
+         
+        x
+        ,
+         
+        y
+        ,
+         
+        x
+         
+        y
+        :
+        h
+        
+        =
+        h
+        
+        
+      
+    
+    
+  
+.
+Apibrėžimas. Santraukos funkcija vadiname funkciją h, kuri turi mažiausiai šias savybes:
+Santraukos funkcijos skirstomos į keletą rūšių:
+Apibrėžimas. Santraukos funkcija yra atspari silpnai kolizijai , jeigu turint 
+  
+    
+      
+        x
+        
+      
+    
+    
+  
+ surasti 
+  
+    
+      
+        
+          
+            
+              x
+               
+            
+          
+        
+        ,
+         
+        x
+         
+        
+          
+            
+              x
+               
+            
+          
+        
+        
+      
+    
+    },\ x\neq \,}
+  
+, kad būtų 
+  
+    
+      
+        h
+        
+        =
+        h
+        
+        
+      
+    
+    
+  
+ yra sunku.
+Apibrėžimas. Santraukos funkcija yra atspari stipriai kolizijai , jeigu surasti 
+  
+    
+      
+        x
+        
+      
+    
+    
+  
+ ir 
+  
+    
+      
+        
+          
+            
+              x
+               
+            
+          
+        
+        ,
+         
+        x
+         
+        
+          
+            
+              x
+               
+            
+          
+        
+        
+      
+    
+    },\ x\neq \,}
+  
+, kad būtų 
+  
+    
+      
+        h
+        
+        =
+        h
+        
+        
+      
+    
+    
+  
+ yra sunku.

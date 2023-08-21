@@ -1,0 +1,6 @@
+En topologio, punkto x de aro S estas nomita kiel izolita punkto, se tie ekzistas najbareco de x ne enhavanta aliajn punktojn de S.
+Aparte, en eŭklida spaco , x estas izolita punkto de S, se oni povas trovi malfermitan pilko ĉirkaŭ x kiu ne enhavas aliajn punktojn de S.
+Ekvivalente, punkto x estas ne izolita se kaj nur se x estas limiga punkto.
+Aro kiu estas farita nur de izolitaj punktoj estas nomita kiel diskreta aro . Diskreta subaro de eŭklida spaco estas kalkulebla; tamen, aro povas esti kalkulebla sed ne diskreta, ekzemple racionalaj nombroj.
+Fermita aro sen izolitaj punktoj estas nomita kiel perfekta aro.
+Topologiaj spacoj en jenaj ekzemploj estas konsideritaj kiel subspacoj de la reela linio.

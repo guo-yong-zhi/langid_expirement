@@ -1,0 +1,216 @@
+Radioactivitatea cluster  este un tip de dezintegrare nucleară în care un nucleu părinte cu număr de masă A, având A nucleoni dintre care Z sunt protoni, emite un nucleu  cu Ne neutroni și Ze protoni, mai greu decât o particulă alfa dar mai ușor decât un fragment de fisiune nucleară.  În urma dezintegrării rezultă un nucleu emis  și un alt nucleu având numărul de masă Ad = A - Ae și
+numărul atomic Zd = Z - Ze, unde Ae =
+Ne + Ze. 1  De exemplu:
+Acest mod de dezintegrare rar a fost observat pînă în prezent mai ales în
+nuclee care emit în mod predominant particule alfa, astfel că fenomenul este
+însoțit de un fond imens de particule alfa . 2 
+Raportul de ramificare față de dezintegrarea alfa
+este foarte mic . Ta și
+Tc  sunt perioadele parțiale de înjumătățire ale nucleului părinte față de dezintegrarea alfa și respectiv radoactivitatea cluster.
+Cele două procese, ca și fisiunea nucleară sunt fenomene care au loc prin efectul tunel cuantic: clusterul pătrunde bariera de potențial.
+Teoretic orice nucleu cu Z > 40 a cărui energie eliberată, Q, este pozitivă, poate fi un emițător spontan de clusteri. In practică, însă, observarea experimentală este limitată de către stadiul actual al tehnicii care cere ca durata de viață să fie sub 1032 s iar r1032 s,aportul de ramificare B > 10 −17.
+În absența unei „pierderi” de energie pentru deformarea și excitarea fragmentelor , energia cinetică totală egală cu valoarea Q-ului se împarte între nucleul emis și nucleul fiică invers proporțional cu masele lor, 
+cum rezultă din legea de conservare a impulsului. Ad este numărul de masă al nucleului Ad = A – Ae.
+Primele informații despre nucleul atomic s-au obținut la începutul secolului
+20-lea prin studiul radioactivității. O vreme îndelungată s-au cunoscut doar 
+trei tipuri de dezintegrări nucleare: alfa, beta și gamma. Acestestea
+ilustrează trei dintre cele patru tipuri de interacții fundamentale din
+natură: tare, slabă si electromagnetică. Fisiunea nucleară spontană a
+devenit foarte cunoscută la scurt timp dupa descoperirea sa în 1940 de către
+K. Petrzhak și G.N. Flerov, datorită aplicațiilor militare și pașnice
+ ale fisiunii induse descoperite în 1939 de către Otto Hahn,
+Lise Meitner și Fritz Strassmann în care se utilizează marea
+cantitate de energie degajată în acest proces.
+Există multe alte tipuri de radioactivitate, de exemplu radioactivitatea
+cluster, radioactivitatea protonică  și diprotonică , diverse moduri
+de dezintegrare beta-întârziată , 
+fisiunea izomeră, fisiunea ternară , etc.  
+Înălțimea barierei de potențial, în special de natură electrostatică, pentru
+emisia de particule încărcate este mult mai mare decât energia cinetică a   
+particulei emise.  Dezintegrarea spontană poate fi explicată doar prin      
+tunelare cuantică într-un mod similar cu prima aplicație a Mecanicii        
+cuantice la nuclee făcută de către G.  Gamow pentru a explica dezintegrarea 
+alfa.
+"În 1980 A. Sandulescu, DN Poenaru, și W. Greiner au descris calcule care
+indică posibilitatea unui nou tip de dezintegrare a nucleelor grele
+intermediară între dezintegrarea alfa și fisiunea spontană. Prima observare
+a radioactivității de ioni grei a fost emisia ionului de carbon-14 de 30 de
+MeV din radiu-223 de către H. J.  Rose și G.A. Jones în 1984".
+ 3 
+De obicei teoria explică un fenomen deja observat experimental.
+Radioactivitatea cluster este unul din rarele exemple de fenomene prezis
+înainte de descoperirea experimentală.  Previziuni teoretice au fost făcute
+în 1980,
+ 4  
+patru ani înaintea descoperirii experimentale.
+ 5 
+Au fost utilizate patru abordări teoretice: teoria fragmentării în care se
+rezolvă ecuația Schroedinger având ca variabilă asimetria de masă pentru a
+obține distribuția după mase a fragmentelor; calcule de penetrabilitate   
+similare cu cele utilizate în teoria tradițională a dezintegrării alfa și 
+modele de fisiune superasimetrică, numerică  și analitică .  
+Modelele de fisiune superasymmetrică sunt bazate pe metoda
+macroscopică-microscopică
+ 6     
+folosind modelul uniparticulă în pături cu două centre
+ 7 
+ 8 
+pentru a obține nivelele de energie folosite ca date de intrare pentru
+calculul corecțiilor de pături și împerechere. Ca model fenomenologic se
+utilizează fie modelul picătură de lichid
+ 9 
+fie modelul Yukawa-plus-exponențială
+ 10 
+extinse la nuclee cu rapoarte sarcină/masă diferite.
+ 11 
+Folosind teoria penetrabilității s-au prezis opt moduri de dezintegrare:
+14C, 24Ne, 28Mg, 32,34Si,   
+46Ar și 48,50Ca ale următoarelor nuclee părinte:  
+222,224Ra, 230,232Th, 236,238U,
+244,246Pu, 248,250Cm, 250,252Cf,
+252,254Fm și 252,254No.
+Primul experiment a fost raportat în 1984, când fizicienii de la
+Universitatea din Oxford au descoperit că Ra223 emite spontan
+câte un nucleu de C14 la fiecare miliard de dezintegrări alfa.
+Tunelarea cuantică se poate calcula fie ca mai sus prin extinderea teoriei
+fisiunii nucleare la o asimetrie de masă mai mare sau a teoriei
+dezintegrării alfa la particule emise mai grele.   12 
+Ambele abordări  pot exprima constanta de dezintegrare
+  
+    
+      
+         
+      
+    
+    
+  
+ = ln 2 / Tc, ca un produs de trei  
+mărimi dependente de model
+unde 
+  
+    
+      
+         
+      
+    
+    
+  
+ este frecvența asalturilor asupra barierei în unitate
+de timp, S este probabilitatea preformării clusterului la suprafața
+nucleului și Ps este penetrabilitatea barierei externe.  În
+teoriile de tip alfa S este integrala suprapunerii funcțiilor de undă ale
+partenerilor.  În teorii de fisiune probabilitatea preformării este
+penetrabilitatea părții interne a barierei între punctele de întoarcere
+inițial Ri și final 
+Rt.
+ 13 
+Foarte frecvent se calculează folosind aproximarea Wentzel-Kramers-Brillouin
+.
+Un număr foarte mare, de ordinul 105, de combinații părinte -
+nucleu emis au fost luate în considerare într-o căutare sistematică de noi
+moduri de dezintegrare.  Cantitate mare de calcule s-a putut face într-un
+timp rezonabil folosind modelul ASAF dezvoltat de către ], Walter Greiner și colab.  Acest model a fost primul folosit
+la prezicerea mărimilor măsurabile în radioactivitatea de cluster.  Peste 
+150 de moduri de dezintegrare au fost prezise înainte ca alte tipuri de   
+calcule să fie raportate. S-au publicat tabele cuprinzătoare de durate de 
+viață, răapoarte de ramificare și energii cinetice, ca de exemplu
+ 14 
+ 15 
+Forme de bariere de potențial similare cu cele luate în considerare în cadrul
+modelului ASAF au fost calculate utilizând metoda macroscopic-microscopică.  
+ 16 
+Anterior
+ 17 
+s-a demonstrat că chiar și dezintegrarea alfa poate fi considerată un caz
+particular de fisiune rece.  Modelul ASAF poate fi folosit pentru a  
+descrie în mod unitar dezintegrarea alfa, radioactivitatea cluster și    
+fisiunea rece .
+Se poate obține cu bună aproximare o curbă universală  pentru orice
+fel de mod de radioactivitatea cluster cu număr de masă Ae, inclusiv
+dezintegrarea alfa
+Într-o scară logaritmică ecuația log T = f  reprezintă o
+singură linie dreaptă pentru fiecare tip de radioactivitate cluster și poate
+fi utilizată comod pentru a estima durate de viață.  O singură curbă
+universală pentru alfa și toate radioactivitățile cluster rezultă dacă se
+exprimă log T + log S = f .
+ 18 
+Datele experimentale privind radioactivitatea cluster în trei grupe de
+nuclee părinte par-par, par-impar și impar-par sunt reproduse cu o acuratețe
+comparabilă prin ambele tipuri de curbe universale, UNIV  și   
+UDL .  
+ 19 
+Pentru a calcula energia degajată
+se poate folosi o compilare recentă a masele măsurate.
+ 20  
+M, Md și Me sunt masele nucleelor părinte, fiica și
+emis iar c este viteza luminii. Excesul de masă este transformat în energie
+în conformitate cu  formula lui Einstein E = mc2.
+Principala dificultate experimentală în observarea emisiei spontane de
+clusteri constă din necesitatea de a identifica câteva evenimente rare
+într-un fond perturbator de particule alfa imens.  Mărimile determinate
+experimental sunt perioada parțială de înjumătățire, Tc și  
+energia cinetică a clusterului emis Ek.  Este nevoie și de  
+identificarea particulelor emise.
+Detectarea radiațiilor se bazează pe interacțiunile lor cu materia, ceea ce
+duce în principal, la ionizări.  Folosind un telescop semiconductoar și o  
+aparatură convențională electronică Rose și Jones au identificat ionii de  
+14C emiși de 223Ra.  A fost necesară o durată a
+măsurătorii de cca șase luni pentru a obține 11 evenimente utile.
+Cu spectrometre magnetice moderne , la Orsay și
+Argonne National Laboratory , s-a 
+putut utiliza o sursă foarte puternică astfel că 11 evenimente au fost    
+obținute doar în câteva ore.
+Detectorii de urme nucleare cu corp solid  insensibili la particule
+alfa și spectrometrele magnetice în care particulele alfa sunt deviate de un
+câmp magnetic puternic au fost folosite cu succes pentru a depăși
+dificultatea menționată.  SSNTD sunt ieftine și la îndemână, dar au nevoie
+de o decapare chimică și scanare îndelungată la microscop pentru
+identificarea și numărarea urmelor.
+Un rol-cheie în experimentele efectuate la Berkeley, Orsay, Dubna și Milano
+l-au jucat P.  Buford Price, Eid Hourany, Michel Hussonnois, Svetlana
+Tretyakova, AA Ogloblin, Roberto Bonetti, A. Guglielmetti și colegii lor.
+Regiunea principală de emițători observată experimental până în 2010
+este situată mai sus de Z = 86:
+221Fr, 221-224,226Ra, 223,225Ac,
+228,230Th, 231Pa, 230,232-236U,
+236,238Pu și 242Cm.
+Doar limite superioare au putut fi detectate în următoarele cazuri:
+dezintegrarea 12C a 114Ba, emisia de 15N
+din 223Ac, a 18O din 226Th, a
+24,26Ne din 232Th și din 236U, a
+28Mg din 232,233,235U, radioactivitatea
+30Mg a 237Np, și emisia 34Si din
+240Pu și din 241Am.
+Unii dintre emițători sunt membri ai celor trei familii naturale
+radioactive. Alții au fost produși prin reacții nucleare.  Până în
+prezent nu au fost observați emițători impar-impari.
+Din multe moduri de dezintegrare cu timpi de înjumătățire și rapoarte de
+ramificare relative la dezintegrarea alfa prezise cu modelul analitic al
+fisiunii superasymmetrice, următoarele 11 au fost confirmate
+experimental: 14C, 20O, 23F,
+22,24-26Ne, 28,30Mg, 32,34sup>Si.  Datele
+experimentale sunt în concordanță cu valorile prezise.  S-a observat un   
+efect de pături puternic: de regulă cel mai scurt timp de înjumătățire este
+obținut atunci când nucleul fiică are un număr magic de neutroni
+ și/sau de protoni .   
+Radioactivitățile cluster cunoscute până în 2010 sunt:
+ 21 
+ 22 
+ 23 
+Structura fină în radioactivitatea 14C a 223Ra a fost
+discutată pentru prima dată de către M.  Greiner și W.  Scheid în 1986.
+ 24 
+Sspectrometrul supraconductor SOLENO al IPN Orsay a fost folosit începând cu
+anul 1984 pentru a identifica clusterii 14C emiși de nucleele de 
+222-224,226Ra.  În plus a fost folosit pentru a descoperi
+ 25 
+ 26 
+structura fină (tranziții către stări excitate ale nucleului fiică.
+În mod surprinzător, experimentatorii au văzut o tranziție către prima stare
+excitată a fiicei mai puternică decât cea către starea fundamentală. 
+Tranziția este favorizată în cazul în care nucleonul decuplat rămâne în
+aceeași stare atât în nucleul părinte cât și în nucleul fiică.  În caz 
+contrar diferența de structură nucleară conduce la o interdicție puternică.
+Interpretarea  27  a fost confirmată: principala componentă
+sferică a funcției de undă a nucleului părinte deformat are un caracter 
+i11/2, adică este sferică.

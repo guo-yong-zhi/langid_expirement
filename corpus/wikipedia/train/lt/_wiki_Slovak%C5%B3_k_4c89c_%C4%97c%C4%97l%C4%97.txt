@@ -1,0 +1,6 @@
+Slovakų kalbos abėcėlė yra sudaryta iš 46 raštmenų lotynų abėcėlės pagrindu. Slovakų kalbos raštas yra fonetinis, todėl vienam garsui užrašyti paprastai naudojama viena raidė. 
+Pastabos:
+Slovakų kalbos garsai yra skirstomi į balsius, priebalsius ir dvibalsius.
+Slovakų kalbos priebalsiai gali būti skirstomi pagal minkštumą arba skardumą. Su priebalsių minkštumu siejasi balsių i, í, y ir ý rašyba. Norint šiuos balsius rašyti taisyklingai, būtina žinoti priebalsio, einančio prieš juos, minkštumą. Priebalsių skirstymas pagal minkštumą:
+Pastaba:
+Priebalsių skirstymas pagal skardumą:

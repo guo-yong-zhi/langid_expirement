@@ -1,0 +1,58 @@
+L anàlisi complexa és la branca de les matemàtiques que investiga les funcions de nombres complexos, i que es fonamenta en conceptes bàsics de funció, límit, continuïtat, derivada i integral, 1  i és d'una gran utilitat pràctica en moltes branques de la física com per exemple la hidrodinàmica.
+L'anàlisi complexa es refereix particularment a les funcions analítiques de variables complexes, conegudes com a funcions holomorfes. Les funcions holomorfes estan íntimament relacionades amb les funcions harmòniques, que són les funcions anul·lades per l'operador de Laplace, el qual apareix en moltes equacions de la física matemàtica.
+Una funció complexa és una funció en la qual la variable independent i la variable dependent són ambdues nombres complexos. Amb més precisió, una funció complexa és una funció definida en un subconjunt del pla complex amb valors complexos.
+Per a qualsevol funció complexa, tant la variable independent com la dependent poden separar-se en les seves components real i imaginària:
+on 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        u
+        
+        ,
+        v
+        
+         
+        
+          R
+        
+      
+    
+     }
+  
+.
+D'aquí es desprèn que les components de la funció,
+es poden interpretar com a funcions reals de dues variables reals 
+  
+    
+      
+        x
+        
+      
+    
+    
+  
+ i 
+  
+    
+      
+        y
+        
+      
+    
+    
+  
+.
+L'extensió de funcions reals  al domini complex s'utilitza normalment com a introducció a l'anàlisi complexa.
+Les funcions holomorfes són funcions complexes definides en un subconjunt obert del pla complex que són diferenciables en sentit complex. La diferenciabilitat complexa té conseqüències molt més fortes que la diferenciabilitat usual . Per exemple, les funcions holomorfes són infinitament diferenciables, un fet que està lluny de ser cert per a les funcions diferenciables reals. La majoria de funcions elementals, incloent la funció exponencial, les funcions trigonomètriques i totes les funcions polinòmiques, són holomorfes.
+Una eina central en l'anàlisi complexa és la integral de línia. La integral al voltant d'un camí tancat d'una funció que és holomorfa en tots els punts dins de l'àrea envoltada pel camí tancat és sempre zero; aquest és el teorema de Cauchy. Els valors d'una funció holomorfa dins un disc es poden calcular per una certa integral de camí sobre la frontera del disc . Les integrals de camí en el pla complex s'usen sovint per a determinar integrals reals complicades, i aquí és on la teoria dels residus és útil. Si una funció té un "pol" o "singularitat" en algun punt, això significa que en aquest punt el valor de la funció "s'escapa" i no té valor finit, aleshores es pot calcular el residu de la funció en aquest pol, i aquests residus es poden utilitzar per a calcular integrals de camí que involucren la funció; aquest és el contingut del teorema dels residus. El comportament de les funcions holomorfes prop de les singularitats essencials es descriu en el Teorema de Casorati-Weierstrass. Les funcions que tenen només pols però no singularitats essencials s'anomenen meromorfes.
+Les sèries de Laurent són semblants a les sèries de Taylor però es poden utilitzar per a estudiar el comportament de les funcions prop de les singularitats.
+Una funció fitada que és holomorfa en tot el pla complex ha de ser constant; aquest és el teorema de Liouville. Es pot utilitzar per a donar una demostració natural i curta del teorema fonamental de l'àlgebra, que afirma que el cos dels nombres complexos és algebraicament tancat.
+Una propietat important de les funcions holomorfes és que si una funció és holomorfa en tot un domini aleshores els seus valors estan unívocament determinats pels seus valors en qualsevol subdomini d'aquest. Això permet l'extensió de la definició de funcions com ara la funció zeta de Riemann que estan inicialment definides en termes de sumes infinites, que convergeixen només en dominis limitats, a gairebé tot el pla complex. Alguns cops, com en el cas del logaritme natural, és impossible continuar analíticament una funció holomorfa a un domini no simplement connex en el pla complex, però és possible estendre-la a una funció holomorfa en una superfície molt relacionada amb aquest domini, coneguda com a superfície de Riemann.
+Tot això es refereix a l'anàlisi complexa en una variable. També hi ha una teoria molt rica d'anàlisi complexa en diverses variables on les propietats analítiques com el desenvolupament en sèrie de potències continuen essent certes, mentre que moltes de les propietats geomètriques de les funcions holomorfes en una dimensió complexa  ja no són vàlides. El teorema de la representació conforme de Riemann, sobre les relacions conformes de certs dominis en el pla complex, un dels resultats més importants en la teoria unidimensional, falla dramàticament en dimensions superiors.
+Les funcions de variable complexa també s'apliquen a molts camps de l'enginyeria, per exemple en l'enginyeria de l'energia.
+L'anàlisi complexa és una de les branques clàssiques de les matemàtiques amb les seves arrels al segle xix, tot i que anteriorment ja s'havia fet alguna cosa en aquesta línia. Alguns matemàtics importants en aquesta branca són Euler, Gauss, Georg Friedrich Bernhard Riemann, Cauchy, Weierstrass, i molts d'altres al segle xx.
+Tradicionalment, l'anàlisi complexa, en particular la teoria de les aplicacions conformes, té moltes aplicacions en l'enginyeria, però també s'usa en tota la teoria analítica de nombres. En els temps moderns ha esdevingut molt popular a través de la nova alça de la dinàmica complexa i els dibuixos de fractals produïts per iteracions de funcions holomorfes, essent el més popular el conjunt de Mandelbrot. Una altra aplicació important de l'anàlisi complexa avui en dia és en teoria de cordes, que és una teoria de camps quàntics conformement invariant.

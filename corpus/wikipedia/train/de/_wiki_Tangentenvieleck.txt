@@ -1,0 +1,2 @@
+Ein Tangentenvieleck, Tangentenpolygon oder Tangenten-n-Eck ist im mathematischen Bereich der ebenen Geometrie ein besonderes Vieleck. Diese Vielecke sind charakterisiert dadurch, dass sie einen Inkreis besitzen.
+Ein Tangentenvieleck ist ein Vieleck, dessen Seiten Tangenten eines Kreises sind. Dieser Kreis wird als Inkreis bezeichnet. 1 

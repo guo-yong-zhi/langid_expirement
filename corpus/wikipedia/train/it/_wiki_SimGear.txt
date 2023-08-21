@@ -1,0 +1,2 @@
+SimGear è un gruppo di librerie, distribuite sotto licenza GNU LGPL, per simulazioni, computer grafica e programmazione di videogiochi. Gran parte del codice è stato scritto per supportare il progetto FlightGear. SimGear è progettato per essere portabile su un largo numero di piattaforme e compilatori.
+Il software è incluso in alcune distribuzioni Linux, come Ubuntu 1 , Debian  2  e Fedora. 3 

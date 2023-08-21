@@ -1,0 +1,1392 @@
+Los métodos lineales multipaso se utilizan para la resolución numérica de ecuaciones diferenciales ordinarias. Conceptualmente, los métodos numéricos comienzan tras la elección de un punto inicial y a continuación realizan un paso de aproximación para encontrar el siguiente punto que permita seguir acercándose a la solución. El proceso continúa con los siguientes pasos para reconocer la solución.
+Los métodos de un solo paso  se refieren solo a un punto anterior y a su derivada para determinar el valor buscado. Métodos como el de Runge–Kutta utilizan un paso más  para obtener un método de orden superior, para luego descartar la información anterior antes de dar un segundo paso. Los métodos de varios pasos intentan obtener eficiencia manteniendo y utilizando la información de los pasos anteriores, en lugar de descartarla. Por consiguiente, se refieren a distintos puntos anteriores y a los valores de sus derivadas. En el caso de los métodos lineales "multipaso", se utiliza una combinación lineal de los puntos anteriores y de los valores de sus derivadas.
+Los métodos numéricos para obtener soluciones aproximadas a ecuaciones diferenciales ordinarias, abordan el problema de elegir valores iniciales de la forma
+El resultado es un conjunto de aproximaciones para el valor de 
+  
+    
+      
+        y
+        
+      
+    
+    
+  
+ en momentos discretos 
+  
+    
+      
+        
+          t
+          
+            i
+          
+        
+      
+    
+    }
+  
+:
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+         
+        y
+        
+        
+        
+          donde
+        
+        
+        
+          t
+          
+            i
+          
+        
+        =
+        
+          t
+          
+            0
+          
+        
+        +
+        i
+        h
+        ,
+      
+    
+    \approx y\quad \quad t_+ih,}
+  
+siendo 
+  
+    
+      
+        h
+      
+    
+    
+  
+ es el paso o incremento del tiempo elegido  y siendo 
+  
+    
+      
+        i
+      
+    
+    
+  
+ un entero.
+Los métodos de varios pasos utilizan información de los pasos anteriores de 
+  
+    
+      
+        s
+      
+    
+    
+  
+ para calcular el siguiente valor. En particular, un método "lineal multipaso" utiliza una combinación lineal de 
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+      
+    
+    }
+  
+ y 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ para calcular el valor de 
+  
+    
+      
+        y
+      
+    
+    
+  
+ para el paso deseado. Por lo tanto, un método lineal multipaso adopta la forma
+Los coeficientes 
+  
+    
+      
+        
+          a
+          
+            0
+          
+        
+        ,
+         
+        ,
+        
+          a
+          
+            s
+             
+            1
+          
+        
+      
+    
+    ,\dotsc ,a_
+  
+ y 
+  
+    
+      
+        
+          b
+          
+            0
+          
+        
+        ,
+         
+        ,
+        
+          b
+          
+            s
+          
+        
+      
+    
+    ,\dotsc ,b_
+  
+ determinan el método. El diseñador del método elige los coeficientes, equilibrando la necesidad de obtener una buena aproximación a la verdadera solución, frente a la necesidad de obtener un método que sea fácil de aplicar. A menudo, muchos coeficientes son cero para simplificar el método.
+Se puede distinguir entre métodos implícitos y explícitos. Si 
+  
+    
+      
+        
+          b
+          
+            s
+          
+        
+        =
+        0
+      
+    
+    =0}
+  
+, entonces el método se llama "explícito", ya que la fórmula puede calcular directamente 
+  
+    
+      
+        
+          y
+          
+            n
+            +
+            s
+          
+        
+      
+    
+    }
+  
+. Si 
+  
+    
+      
+        
+          b
+          
+            s
+          
+        
+         
+        0
+      
+    
+    \neq 0}
+  
+ entonces el método se llama "implícito", ya que el valor de 
+  
+    
+      
+        
+          y
+          
+            n
+            +
+            s
+          
+        
+      
+    
+    }
+  
+ depende del valor de 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+, y la ecuación debe ser resuelta para 
+  
+    
+      
+        
+          y
+          
+            n
+            +
+            s
+          
+        
+      
+    
+    }
+  
+. Métodos iterativos tales como el método de Newton se utilizan a menudo para resolver la fórmula implícita.
+A veces se utiliza un método explícito de varios pasos para "predecir" el valor de 
+  
+    
+      
+        
+          y
+          
+            n
+            +
+            s
+          
+        
+      
+    
+    }
+  
+. Ese valor se utiliza entonces en una fórmula implícita para "corregir" el valor obtenido. El resultado es entonces un método predictor–corrector.
+Considérese por ejemplo el problema
+La solución exacta es 
+  
+    
+      
+        y
+        
+        =
+        
+          
+            e
+          
+          
+            t
+          
+        
+      
+    
+     ^
+  
+.
+Un método numérico simple es el método de Euler:
+El método de Euler puede ser visto como un método multipaso explícito, para el caso degenerado de un solo paso.
+Este método, aplicado con el tamaño de paso 
+  
+    
+      
+        h
+        =
+        
+          
+            
+              1
+              2
+            
+          
+        
+      
+    
+    
+  
+ en el problema 
+  
+    
+      
+        
+          y
+           
+        
+        =
+        y
+      
+    
+    
+  
+, da los siguientes resultados:
+El método de Euler es un método de un solo paso. Un método simple de varios pasos es el método de dos pasos de Adams-Bashforth
+Este método necesita dos valores, 
+  
+    
+      
+        
+          y
+          
+            n
+            +
+            1
+          
+        
+      
+    
+    }
+  
+ y 
+  
+    
+      
+        
+          y
+          
+            n
+          
+        
+      
+    
+    }
+  
+, para calcular el siguiente valor, 
+  
+    
+      
+        
+          y
+          
+            n
+            +
+            2
+          
+        
+      
+    
+    }
+  
+. Sin embargo, el problema de valor inicial proporciona solo un valor, 
+  
+    
+      
+        
+          y
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    =1}
+  
+. Una posibilidad para resolver este problema es utilizar el 
+  
+    
+      
+        
+          y
+          
+            1
+          
+        
+      
+    
+    }
+  
+ calculado por el método de Euler como el segundo valor. Con esta opción, el método de Adams-Bashforth produce :
+  
+    
+      
+        
+          
+            
+              
+                
+                  y
+                  
+                    2
+                  
+                
+              
+              
+                
+                =
+                
+                  y
+                  
+                    1
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                h
+                f
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                h
+                f
+                
+                =
+                1.5
+                +
+                
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                1.5
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                1
+                =
+                2.375
+                ,
+              
+            
+            
+              
+                
+                  y
+                  
+                    3
+                  
+                
+              
+              
+                
+                =
+                
+                  y
+                  
+                    2
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                h
+                f
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                h
+                f
+                
+                =
+                2.375
+                +
+                
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                2.375
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                1.5
+                =
+                3.7812
+                ,
+              
+            
+            
+              
+                
+                  y
+                  
+                    4
+                  
+                
+              
+              
+                
+                =
+                
+                  y
+                  
+                    3
+                  
+                
+                +
+                
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                h
+                f
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                h
+                f
+                
+                =
+                3.7812
+                +
+                
+                  
+                    
+                      3
+                      2
+                    
+                  
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                3.7812
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                
+                 
+                2.375
+                =
+                6.0234.
+              
+            
+          
+        
+      
+    
+    y_}hf=1.5+\cdot \cdot 1.5-\cdot \cdot 1=2.375,\\y_{3}&=y_{2}+hf-hf=2.375+\cdot \cdot 2.375-\cdot \cdot 1.5=3.7812,\\y_{4}&=y_{3}+hf-hf=3.7812+\cdot \cdot 3.7812-\cdot \cdot 2.375=6.0234.\end
+  
+La solución exacta en 
+  
+    
+      
+        t
+        =
+        
+          t
+          
+            4
+          
+        
+        =
+        2
+      
+    
+    =2}
+  
+ es 
+  
+    
+      
+        
+          
+            e
+          
+          
+            2
+          
+        
+        =
+        7.3891
+         
+      
+    
+     ^
+  
+, por lo que el método de dos pasos de Adams-Bashforth es más preciso que el método de Euler. Esto es siempre el caso si el tamaño del paso es lo suficientemente pequeño.
+Se utilizan comúnmente tres familias de métodos lineales de varios pasos: los métodos de Adams-Bashforth, los métodos de Adams-Moulton y las fórmula de diferenciación hacia atrás.
+Los métodos de Adams-Bashforth son métodos explícitos. Los coeficientes son 
+  
+    
+      
+        
+          a
+          
+            s
+             
+            1
+          
+        
+        =
+         
+        1
+      
+    
+    =-1}
+  
+ y 
+  
+    
+      
+        
+          a
+          
+            s
+             
+            2
+          
+        
+        =
+         
+        =
+        
+          a
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    =\cdots =a_
+  
+, mientras que los 
+  
+    
+      
+        
+          b
+          
+            j
+          
+        
+      
+    
+    }
+  
+ son elegidos de tal manera que los métodos tienen orden s .
+Los métodos de Adams-Bashforth con s = 1, 2, 3, 4, 5 son :
+Los coeficientes 
+  
+    
+      
+        
+          b
+          
+            j
+          
+        
+      
+    
+    }
+  
+ se pueden determinar como sigue: utilícese la interpolación polinómica para encontrar el polinomio p de grado 
+  
+    
+      
+        s
+         
+        1
+      
+    
+    
+  
+ tal que:
+La fórmula de Lagrange para la interpolación polinómica resulta
+El polinomio p es localmente una buena aproximación del lado derecho de la ecuación diferencial 
+  
+    
+      
+        
+          y
+           
+        
+        =
+        f
+        
+      
+    
+    
+  
+ que se va a resolver, por lo que puede considerarse la ecuación 
+  
+    
+      
+        
+          y
+           
+        
+        =
+        p
+        
+      
+    
+    
+  
+ en su lugar. Esta ecuación puede ser resuelta exactamente; la solución es simplemente la integral de p. Esto sugiere que:
+El método de Adams-Bashforth surge cuando se sustituye p en la fórmula. Los coeficientes 
+  
+    
+      
+        
+          b
+          
+            j
+          
+        
+      
+    
+    }
+  
+ resultan ser dados por
+Reemplazar 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ por su interpolante p supone incurrir en un error de orden hs, de lo que se sigue que el método de Adams-Bashforth de s pasos tiene efectivamente orden s .
+Los métodos de Adams-Bashforth fueron diseñados por John Couch Adams para resolver un modelo de ecuaciones diferenciales de capilaridad planteado por Francis Bashforth. Bashforth  publicó su teoría y el método numérico de Adams .
+Los métodos de Adams-Moulton se parecen a los métodos de Adams-Bashforth en que también tienen 
+  
+    
+      
+        
+          a
+          
+            s
+             
+            1
+          
+        
+        =
+         
+        1
+      
+    
+    =-1}
+  
+ y 
+  
+    
+      
+        
+          a
+          
+            s
+             
+            2
+          
+        
+        =
+         
+        =
+        
+          a
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    =\cdots =a_
+  
+. De nuevo se eligen los coeficientes "b" para obtener el orden más alto posible. Sin embargo, los métodos de Adams-Moulton son métodos implícitos. Al eliminar la restricción de que 
+  
+    
+      
+        
+          b
+          
+            s
+          
+        
+        =
+        0
+      
+    
+    =0}
+  
+, un método de Adams-Moulton "paso a paso" puede alcanzar el orden 
+  
+    
+      
+        s
+        +
+        1
+      
+    
+    
+  
+, mientras que los métodos de Adams-Bashforth en el paso s solo tienen orden s.
+Los métodos de Adams-Moulton con s = 0, 1, 2, 3, 4 son :
+La deducción de los métodos de Adams-Moulton es similar a la del método de Adams-Bashforth; sin embargo, el polinomio de interpolación utiliza no solo los puntos 
+  
+    
+      
+        
+          t
+          
+            n
+             
+            1
+          
+        
+        ,
+         
+        ,
+        
+          t
+          
+            n
+             
+            s
+          
+        
+      
+    
+    ,\dots ,t_
+  
+, como anteriormente, sino también 
+  
+    
+      
+        
+          t
+          
+            n
+          
+        
+      
+    
+    }
+  
+. Los coeficientes vienen dados por
+  
+    
+      
+        
+          b
+          
+            s
+             
+            j
+          
+        
+        =
+        
+          
+            
+              
+                
+                  j
+                
+              
+            
+            
+              j
+              !
+              
+              !
+            
+          
+        
+        
+           
+          
+            0
+          
+          
+            1
+          
+        
+        
+           
+          
+            
+              
+                i
+                =
+                0
+              
+              
+                i
+                 
+                j
+              
+            
+          
+          
+            s
+          
+        
+        
+        
+        d
+        u
+        ,
+        
+        
+          para 
+        
+        j
+        =
+        0
+        ,
+         
+        ,
+        s
+        .
+      
+    
+    =^^}j=0,\ldots ,s.}
+  
+Los métodos de Adams-Moulton se deben únicamente a John Couch Adams, al igual que los métodos de Adams-Bashforth. El nombre de Forest Ray Moulton se asoció con estos métodos porque se dio cuenta de que podrían ser utilizados en tándem con los métodos de Adams-Bashforth como un par de métodos predictor-corrector ; Milne  tenía la misma idea. Adams utilizó el método de Newton para resolver la ecuación implícita .
+Los métodos de diferenciación hacia atrás son métodos implícitos, con 
+  
+    
+      
+        
+          b
+          
+            s
+             
+            1
+          
+        
+        =
+         
+        =
+        
+          b
+          
+            0
+          
+        
+        =
+        0
+      
+    
+    =\cdots =b_
+  
+ y los otros coeficientes elegidos de manera que el método obtenga el orden s . Estos métodos se utilizan especialmente para la resolución de ecuaciones diferenciales rígidas.
+Los conceptos centrales en el análisis de los métodos lineales multipaso, y de hecho, de cualquier método numérico para resolver ecuaciones diferenciales, son su convergencia, su orden, y su estabilidad.
+La primera pregunta es si el método es coherente: ¿es la ecuación diferencial
+una buena aproximación de la ecuación diferencial 
+  
+    
+      
+        
+          y
+           
+        
+        =
+        f
+        
+      
+    
+    
+  
+? Más precisamente, un método de varios pasos es consistente si el error de truncamiento local se acerca a cero más rápido que el tamaño de paso h cuando h tiende a cero, donde se define elerror de truncamiento local como la diferencia entre el resultado del método 
+  
+    
+      
+        
+          y
+          
+            n
+            +
+            s
+          
+        
+      
+    
+    }
+  
+ , y la solución exacta de la ecuación para el instante 
+  
+    
+      
+        
+          t
+          
+            n
+            +
+            s
+          
+        
+      
+    
+    {\displaystyle t_
+  
+. Un cálculo utilizando la serie de Taylor muestra que un método lineal multipaso es coherente si y solo si:
+Todos los métodos mencionados anteriormente son consistentes .
+Si el método es consistente, entonces la siguiente pregunta es en qué manera la ecuación que define el método numérico se aproxima a la ecuación diferencial. Se dice que un método de varios pasos tiene orden p si el error local es de orden 
+  
+    
+      
+        O
+        
+      
+    
+    
+  
+ cuando h tiende a cero. Esto es equivalente a la condición siguiente sobre los coeficientes de los métodos:
+El método de Adams-Bashforth de la etapa s tiene orden s, mientras que el método de Adams-Moulton en la etapa s tiene orden 
+  
+    
+      
+        s
+        +
+        1
+      
+    
+    
+  
+ .
+Estas condiciones se formulan a menudo utilizando los "polinomios característicos":
+En términos de estos polinomios, la condición anterior para que el método tenga orden p se convierte en:
+En particular, el método es coherente si tiene orden al menos uno, que es el caso si 
+  
+    
+      
+         
+        
+        =
+        0
+      
+    
+    
+  
+ y 
+  
+    
+      
+        
+           
+           
+        
+        
+        =
+         
+        
+      
+    
+    
+  
+.
+La solución numérica con un método de un paso depende de la condición inicial 
+  
+    
+      
+        
+          y
+          
+            0
+          
+        
+      
+    
+    }
+  
+, pero la solución numérica de un método de "s" pasos, depende de todos los valores iniciales de "s", 
+  
+    
+      
+        
+          y
+          
+            0
+          
+        
+        ,
+        
+          y
+          
+            1
+          
+        
+        ,
+         
+        ,
+        
+          y
+          
+            s
+             
+            1
+          
+        
+      
+    
+    ,y_}
+  
+. Por lo tanto, es de interés determinar si la solución numérica es estable con respecto a perturbaciones en los valores de partida. Un método lineal multipaso es "cero-estable" para una determinada ecuación diferencial en un intervalo de tiempo dado, si una perturbación en los valores iniciales del tamaño ε hace que la solución numérica sobre ese intervalo de tiempo cambie por no más de Kε para algún valor de K, que no depende del tamaño del paso h. Esto se llama "estabilidad cero" porque es suficiente para comprobar la condición de la ecuación diferencial 
+  
+    
+      
+        
+          y
+           
+        
+        =
+        0
+      
+    
+    
+  
+ .
+Si las raíces del polinomio característico ρ tienen un módulo menor o igual a 1 y las raíces del módulo 1 son de multiplicidad 1, se dice que la condición raíz está satisfecha. Un método lineal multipaso es cero-estable si y solo si la condición raíz se satisface .
+Supóngase ahora que un método lineal multipaso coherente se aplica a una ecuación diferencial suficientemente suave y que los valores iniciales 
+  
+    
+      
+        
+          y
+          
+            1
+          
+        
+        ,
+         
+        ,
+        
+          y
+          
+            s
+             
+            1
+          
+        
+      
+    
+    ,\ldots ,y_
+  
+ convergen todos al valor inicial 
+  
+    
+      
+        
+          y
+          
+            0
+          
+        
+      
+    
+    }
+  
+ cuando 
+  
+    
+      
+        h
+         
+        0
+      
+    
+    
+  
+. Entonces, la solución numérica converge a la solución exacta cuando 
+  
+    
+      
+        h
+         
+        0
+      
+    
+    
+  
+ si y solo si el método es cero-estable. Este resultado se conoce como el "teorema de equivalencia de Dahlquist", nombrado así en memoria de Germund Dahlquist. El razonamiento de este teorema es similar al del teorema de equivalencia de Lax para el método de las diferencias finitas. Además, si el método tiene orden p, entonces el error global de truncado  es 
+  
+    
+      
+        O
+        
+      
+    
+    
+  
+ .
+Además, si el método es convergente, se dice que el método es "fuertemente estable" si 
+  
+    
+      
+        z
+        =
+        1
+      
+    
+    
+  
+ es la única raíz de módulo 1. Si es convergente y no se repiten todas las raíces de módulo 1, pero hay más de una raíz de este tipo, se dice que es "relativamente estable". Téngase en cuenta que 1 debe ser una raíz para que el método sea convergente; los métodos convergentes son siempre uno de estos dos.
+Para evaluar el rendimiento de los métodos lineales de varios pasos en ecuaciones diferenciales rígidas, considérese la ecuación lineal de prueba y = λy. Un método multipaso aplicado a esta ecuación diferencial con el tamaño de paso h produce una relación de recurrencia lineal con polinomio característico
+Este polinomio se denomina polinomio de estabilidad del método multipaso. Si todas sus raíces tienen un módulo menor que uno, entonces la solución numérica del método de varios pasos convergerá a cero y se dice que el método de varios pasos es "absolutamente estable" para ese valor de hλ. Se dice que el método es A-estable si es absolutamente estable para todos los hλ con la parte real negativa. La región de estabilidad absoluta es el conjunto de todos los hλ para los cuales el método multipaso es absolutamente estable . Para obtener más detalles, consúltese la sección sobre ecuaciones diferenciales rígidas.
+Considérese el método de tres pasos de Adams-Bashforth:
+Así, un polinomio característico toma la forma:
+con raíces 
+  
+    
+      
+        z
+        =
+        0
+        ,
+        1
+      
+    
+    
+  
+, y las condiciones anteriores se satisfacen. Como 
+  
+    
+      
+        z
+        =
+        1
+      
+    
+    
+  
+ es la única raíz del módulo 1, el método es fuertemente estable.
+El otro polinomio característico es:
+Estos dos resultados fueron probados por Germund Dahlquist y representan un límite importante para el orden de convergencia y para la A-estabilidad de un método lineal de varios pasos. La primera barrera de Dahlquist fue probada en Dahlquist  y la segunda en Dahlquist .
+Un método de paso múltiple de paso q escalable a cero no puede alcanzar un orden de convergencia mayor que q + 1 si q es impar y mayor que q + 2 si q es par. Si el método también es explícito, entonces no puede alcanzar un orden mayor que q .
+No hay métodos explícitos A-estables y multipaso lineales. Los implícitos tienen un orden de convergencia de 2 como máximo. La regla trapezoidal tiene la menor constante de error entre los métodos de paso múltiple lineal A-estables de orden 2.
+Weisstein, Eric W. «Adams Method».  En Weisstein, Eric W, ed. MathWorld . Wolfram Research. 

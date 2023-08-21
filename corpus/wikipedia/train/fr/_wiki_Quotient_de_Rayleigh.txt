@@ -1,0 +1,338 @@
+En mathématiques, pour une matrice hermitienne A et un vecteur x non nul, le quotient de Rayleigh est l’expression scalaire définie par
+où x* désigne le vecteur adjoint de x. Pour une matrice symétrique à coefficients réels, le vecteur x* est simplement son transposé xT.
+Dans les deux cas, le quotient de Rayleigh fournit une valeur réelle qui renseigne sur le spectre de la matrice par les deux propriétés fondamentales suivantes :
+Ces deux propriétés peuvent être exploitées pour déterminer numériquement les valeurs, vecteurs et espaces propres d'un opérateur hermitien ou symétrique.
+Le quotient de Rayleigh, dont la propriété d'extremum peut être reliée au principe du minimum de l'énergie potentielle en mécanique, a été étudié pour la première fois par Rayleigh .
+Walter Ritz reprit l'idée en 1909 pour en faire la base d’une méthode d’approximation variationnelle.
+Partant d'une matrice symétrique respectivement hermitienne , le quotient de Rayleigh satisfait les propriétés suivantes :
+Dans le cas réel, la matrice symétrique est diagonalisable dans le sens où il existe une matrice orthogonale O  et une matrice diagonale D dont les coefficients sont les valeurs propres 
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+      
+    
+    }
+  
+ telles que
+Dans le cas complexe, la matrice hermitienne peut être diagonalisée à l’aide d’une matrice unitaire 
+  
+    
+      
+        A
+        =
+        U
+        D
+        
+          U
+          
+             
+          
+        
+      
+    
+    }
+  
+ et le raisonnement est identique.
+Le changement de variable 
+  
+    
+      
+        y
+        =
+        
+          O
+          
+            T
+          
+        
+        x
+      
+    
+    x}
+  
+ préserve la norme euclidienne et ainsi
+Dans les variables yi, le quotient de Rayleigh est une moyenne pondérée des valeurs propres, ce qui justifie la propriété 2.
+On suppose que les valeurs propres sont distinctes les unes des autres ; dans le cas contraire, il suffit de rassembler les termes de Φ par groupes de valeurs propres multiples.
+On vérifie que le gradient et la matrice hessienne de Φ s’écrivent respectivement
+où J est une matrice diagonale :
+Avec des valeurs propres distinctes, le gradient s’annule si et seulement si tous les yi sont nuls sauf un. En choisissant arbitrairement un indice k et en posant 
+  
+    
+      
+        
+          y
+          
+            i
+          
+        
+        =
+        
+           
+          
+            i
+            k
+          
+        
+      
+    
+    =\delta _
+  
+ , on en déduit :
+Finalement
+Remarque : Hkk=0 reflète le caractère homogène de Φ.
+La norme de x n’ayant pas d’effet par la propriété 1, on peut également formuler le problème par la méthode des multiplicateurs de Lagrange en recherchant x qui maximise  xT A x sous la contrainte xT x = 1 Il s’agit ainsi de considérer la fonction
+et de rechercher x et μ qui annulent la différentielle de Ψ. La solution est donnée par les conditions nécessaires  suivantes :
+Combiné au théorème min-max de Courant-Fischer, le quotient de Rayleigh permet de déterminer une à une toutes les valeurs propres d'une matrice. On peut également l'employer pour calculer une valeur approchée d'une valeur propre à partir d'une approximation d'un vecteur propre. Ces idées forment d'ailleurs la base de l’algorithme d’itération de Rayleigh.
+Les matrices autoadjointes positives  possèdent des valeurs propres positives ou nulles et le quotient de Rayleigh reste ainsi toujours positif ou nul. C'est en particulier le cas pour les matrices de covariances et cette propriété est à la base de l'analyse en composantes principales et des corrélations canoniques.
+La théorie de Sturm-Liouville a trait à l’action de l’application linéaire
+sur l’espace préhilbertien des fonctions y vérifiant des conditions aux limites particulières en x=a et b, muni du produit scalaire : 
+  
+    
+      
+         
+        
+          
+            y
+            
+              1
+            
+          
+          ,
+          
+            y
+            
+              2
+            
+          
+        
+         
+        =
+        
+           
+          
+            a
+          
+          
+            b
+          
+        
+        
+          w
+          
+          
+            y
+            
+              1
+            
+          
+          
+          
+            y
+            
+              2
+            
+          
+          
+        
+        
+          d
+        
+        x
+      
+    
+    ,y_^y_ x}
+  
+.
+Dans ce cas, le quotient de Rayleigh est
+On le présente parfois sous une forme équivalente, obtenue en découpant l'intégrale du numérateur et en intégrant par parties :
+Pour déterminer une solution approchée 
+  
+    
+      
+        
+          
+            
+              y
+               
+            
+          
+        
+        
+      
+    
+    }}
+  
+ de l’équation
+vérifiant les conditions aux limites, on choisit un certain nombre de fonctions 
+  
+    
+      
+        
+          u
+          
+            1
+          
+        
+        ,
+        
+          u
+          
+            2
+          
+        
+        ,
+        .
+        .
+        .
+        ,
+        
+          u
+          
+            p
+          
+        
+      
+    
+    ,u_}
+  
+ vérifiant elles-mêmes les conditions aux limites, et on cherche la solution approchée comme une combinaison linéaire des p modes retenus : 
+  
+    
+      
+        
+          
+            
+              y
+               
+            
+          
+        
+        
+        =
+        
+          
+             
+            
+              i
+              =
+              1
+            
+            
+              p
+            
+          
+          
+             
+            
+              i
+            
+          
+          
+            u
+            
+              i
+            
+          
+          
+        
+      
+    
+    }=\textstyle \sum _\alpha _}
+  
+. Les coefficients inconnus 
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \alpha _
+  
+ s’obtiennent en écrivant la stationnarité du quotient de Rayleigh :
+  
+    
+      
+        
+          
+            
+              
+                 
+                 
+              
+              
+                 
+                
+                   
+                  
+                    i
+                  
+                
+              
+            
+          
+        
+        =
+        0
+      
+    
+    {\partial \alpha _}=0}
+  
+, qui détermine p équations linéaires d'inconnues 
+  
+    
+      
+        
+          
+            i
+            =
+            1
+            ,
+            .
+            .
+            .
+            ,
+            p
+          
+        
+      
+    
+    }
+  
+On peut étendre la notion de quotient de Rayleigh à deux matrices symétriques définies positives réelles , et à un vecteur non-nul x, selon :
+Ce « quotient de Rayleigh généralisé » se réduit au quotient de Rayleigh R par la transformation 
+  
+    
+      
+        D
+        =
+        
+          C
+          
+             
+            T
+          
+        
+        A
+        
+          C
+          
+             
+            1
+          
+        
+      
+    
+    AC^
+  
+ où C est la factorisation de Cholesky de la matrice B.

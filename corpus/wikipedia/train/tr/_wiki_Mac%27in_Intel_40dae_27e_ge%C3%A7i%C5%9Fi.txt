@@ -1,0 +1,4 @@
+Mac'in Intel işlemciler'e geçişi, Apple'ın merkezî işlem birimi'ni  değiştirme işlemi idi. PowerPC'den Intel x86 işlemcilere geçiş yapıldı. 2005-2020 yıllarında mevcut olmuştur ve ürünlerinde Apple-Intel mimarisi kullanıldı. 1 
+Geçiş, o zamanki Apple CEO'su Steve Jobs tarafından 2005 Apple Worldwide Developers Conference'de  duyuruldu. Apple'ın yavaş yavaş Freescale Semiconductor  ve IBM tarafından sağlanan PowerPC mikroişlemcilerini kullanmayı bırakacağını söyledi. 2 
+2020'nin sonlarından itibaren Apple, Mac bilgisayar ailesini Intel işlemcilerden Apple silicon işlemcilerine geçirme sürecindedir. 22 Haziran 2020'de WWDC 2020'de Mac'in Apple silicon'a geçişi süreci duyuruldu. 3 
+4Group Holdings 

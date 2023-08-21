@@ -1,0 +1,161 @@
+Die Steuergerechtigkeit ist ein wesentlicher Grundsatz des Steuerrechts und spezieller Ausdruck des grundrechtlich zugesicherten Gleichheitssatzes gemäß Art. 3 Abs. 1 GG.
+Ein moderner Staat benötigt zur Finanzierung seiner vielfältigen Aufgaben Einnahmen, die im Wesentlichen durch die Besteuerung seiner Bürger erzielt werden. Bereits im Altertum verlangte die jeweilige Obrigkeit Abgaben. Der Ökonom Adam Smith vertrat bereits 1776 die Ansicht, dass die Bürger eines jeden Staates „zum Unterhalt der Regierung möglichst genau im Verhältnis zu ihren jeweiligen Fähigkeiten beitragen“ sollen und galt damit als erster Verfechter der Steuergerechtigkeit. In seinem Buch Der Wohlstand der Nationen warnte er 1776 vor der Steuerflucht, wenn die Besitzer beweglichen Kapitals bei hohen Steuern ihr „Vermögen in irgendein anderes Land bringen“. 1  Er stellte hierin die Besteuerungsgrundsätze der Gleichmäßigkeit , Bestimmtheit , Bequemlichkeit  und Billigkeit  auf.
+Der preußische Finanzminister Johannes von Miquel entwickelte 1891 ein modernes Einkommensteuersystem. Aufgrund der Einführung einer allgemeinen Steuererklärungspflicht und der progressiven Besteuerung diente es anderen deutschen Ländern als Vorbild. In einem demokratischen Gemeinwesen müssen die Besteuerungsgrundsätze wegen der Legitimationsproblematik offengelegt werden, da die Durchsetzung und die praktische Umsetzung allgemeiner Besteuerungsregeln eng mit der Akzeptanz der Steuergesetze durch den Bürger verknüpft ist. Das wiederum berührt die Steuergerechtigkeit und der damit zusammenhängenden steuerlichen Auswirkungen auf das Einkommensgefüge.
+Die Steuergerechtigkeit fordert, dass sich die Steuer an der wirtschaftlichen Leistungsfähigkeit des Steuerzahlers orientiert  und dass sie in sich schlüssig ausgestaltet ist . 2 
+Als fundamentaler Besteuerungsgrundsatz ist sie unverzichtbarer Bestandteil des Steuersystems. Auch unter dem Aspekt der Akzeptanz der jeweiligen Besteuerung, ist eine möglichst gerechte Verteilung der Steuerlast erforderlich. Ein Steuersystem, das den gesellschaftlichen Interessengruppen ausgeliefert ist, wird von den Bürgern als ungerecht empfunden und zum eigenen Vorteil ausgenutzt. Steuerumgehungsmöglichkeiten können das Rechtsempfinden mit der Bedrohung der Einnahmeerzielung  erheblich stören.
+Die individuelle wirtschaftliche Leistungsfähigkeit hängt als Maß für die Steuerlast von der wirtschaftlichen Position des Steuerzahlers ab. Hier wird unterschieden zwischen:
+Daraus ergeben sich drei Probleme:
+Als Indikator der Leistungsfähigkeit gelten das Einkommen, der Konsum und in gewissem Umfang auch das Vermögen. Die Einkommensteuer und die Körperschaftsteuer besteuern das Einkommen, die Umsatzsteuer den Konsum, die Erbschaftsteuer und die Vermögensteuer das Vermögen. Dabei stellt sich die Frage des Verhältnisses zwischen direkten und indirekten Steuern.
+Probleme zeigen sich bei der Eingrenzung des steuerpflichtigen Einkommens.
+Nach der Reinvermögenszugangstheorie sollen alle erzielten Einnahmen und Wertsteigerungen bzw. Vermögensmehrungen zwischen zwei Stichtagen besteuert werden.
+Nach der Quellentheorie sollen nur regelmäßig zufließende Einnahmen besteuert werden.
+Weiterhin wurden die sogenannte Opfertheorie entwickelt, die von einem sinkenden Grenznutzen des Einkommens ausgeht. Grenznutzen: Je mehr Geld ein Individuum besitzt, desto geringer ist der Nutzen des einzelnen Euros. Man vergleiche z. B. eine Person, die mit 100 Euro einen ganzen Monat überleben muss mit einer Person, die im Monat 10.000 Euro zur Verfügung hat. Bei ersterer ist der Nutzen jedes einzelnen Euros groß, bei letzterer kommt es auf einen Euro mehr oder weniger nicht an. Die Opfertheorie wird jedoch nicht als eindeutiges und schlüssiges Konzept zur Ausgestaltung der vertikalen Leistungsfähigkeit verstanden.
+Ein besonderer Fall ist die Umsetzung des Grundsatzes der Gleichheit der Besteuerung bei der Besteuerung von Einkünften aus selbständiger Arbeit einerseits und den Einkünften aus nichtselbständiger Arbeit andererseits.
+Das Nettoeinkommen eines Selbständigen repräsentiert zum einen die Entlohnung für das Unternehmerrisiko, welches er eingegangen ist, sowie eine Rendite für das Kapital, welches er investiert hat und ggf. auch die Entlohnung für seinen persönlichen Einsatz. Stattdessen könnte er seine Arbeitskraft auch auf dem Arbeitsmarkt anbieten und Einkünfte aus nichtselbständiger Arbeit beziehen. In diesem Zusammenhang stellt sich die Frage, ob die beiden Einkunftsarten gleich besteuert werden sollten.
+Wenn ein Steuersystem Begünstigungen für Selbständige vorsieht, kann das ein Anreiz sein, eine selbständige Tätigkeit anzustreben. Die Folge könnten Neugründungen von kleineren Firmen und „Subcontracting“ -Firmen sein. Andererseits kann eine deutlich höhere Besteuerung von Einkünften aus selbständiger Arbeit die Produktivkräfte in ein Angestelltenverhältnis drängen. Neben nur unwesentlich höheren, gleich hohen oder sogar niedrigeren Einkünften aus selbständiger Arbeit, nimmt hier der Faktor der Risikoaversion vor Jobverlust proportional zu und führt zu einer höheren individuellen Bewertung des Angestelltenverhältnisses im Vergleich zur Selbständigkeit.
+Unter Annahme einer gleichen Besteuerung von selbständiger Arbeit und nichtselbständiger Arbeit, also gleichem x und mind. 
+  
+    
+      r
+      >
+      0
+    
+    r>0
+  
+ oder 
+  
+    
+      i
+      >
+      0
+    
+    i>0
+  
+ ergibt sich ein proportional höheres Nettoeinkommen aus selbständiger Arbeit im Vergleich zum Nettoeinkommen aus nichtselbständiger Arbeit. Kapitaleinkommen sind zur Vergleichbarkeit vernachlässigt.
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        =
+        
+         
+         
+        
+         
+         
+        L
+        
+        
+      
+    
+    =\cdot \ \cdot \ L\,}
+  
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+        =
+        L
+         
+         
+        
+        
+      
+    
+    =L\cdot \ \,}
+  
+Muss ein Individuum entscheiden, ob es Einkünfte aus selbständiger Arbeit oder aus nichtselbständiger Arbeit beziehen will, kann dies nicht objektiv beurteilt werden aufgrund der individuellen Reservationsgrenze und der individuellen Bewertung der Einkunftssicherheit.
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+        >
+        R
+        G
+        <
+        
+          E
+          
+            2
+          
+        
+      
+    
+    >RG<E_
+  
+Festzustellen ist aber, dass mit einem niedrigeren 
+  
+    
+      x
+      
+        1
+      
+    
+    x_
+  
+, also Steuerbegünstigungen für Einkünfte aus selbständiger Arbeit, 
+  
+    
+      E
+      
+        1
+      
+    
+    E_
+  
+ proportional größer wird als 
+  
+    
+      E
+      
+        2
+      
+    
+    E_
+  
+ und die Wahrscheinlichkeit, dass bei mehr Individuen die Reservationsgrenze überschritten wird, proportional auch größer wird.
+Andererseits wird aber auch deutlich, dass ein hoher Steuersatz 
+  
+    
+      x
+      
+        1
+      
+    
+    x_
+  
+, das Individuum direkt in ein Angestelltenverhältnis drängt. Neben nur unwesentlich höheren, gleichen oder sogar niedrigeren Einkünften 
+  
+    
+      E
+      
+        1
+      
+    
+    E_
+  
+, nimmt hier auch der Faktor der Risikoaversion vor Jobverlust proportional zu, und lässt das Individuum, das Angestelltenverhältnis noch höher bewerten, also die 
+  
+    
+      R
+      G
+    
+    RG
+  
+ nach oben verschieben.
+In Deutschland haben sich durch Rechtsprechung des Bundesverfassungsgerichts die folgenden Minimalvorgaben zur Bestimmung der steuerlichen Leistungsfähigkeit herausgebildet:

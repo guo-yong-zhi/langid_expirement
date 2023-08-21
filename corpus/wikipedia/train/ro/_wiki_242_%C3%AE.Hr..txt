@@ -1,0 +1,4 @@
+Milenii: Mileniul al II-lea î.Hr. - Mileniul I î.Hr. - Mileniul I
+Secole: Secolul al IV-lea î.Hr. - Secolul al III-lea î.Hr. - Secolul al II-lea î.Hr.
+Decenii: Anii 290 î.Hr. Anii 280 î.Hr. Anii 270 î.Hr. Anii 260 î.Hr. Anii 250 î.Hr. - Anii 240 î.Hr. - Anii 230 î.Hr. Anii 220 î.Hr. Anii 210 î.Hr. Anii 200 î.Hr. Anii 190 î.Hr.
+Ani: 247 î.Hr. 246 î.Hr. 245 î.Hr. 244 î.Hr. 243 î.Hr. - 242 î.Hr. - 241 î.Hr. 240 î.Hr. 239 î.Hr. 238 î.Hr. 237 î.Hr.

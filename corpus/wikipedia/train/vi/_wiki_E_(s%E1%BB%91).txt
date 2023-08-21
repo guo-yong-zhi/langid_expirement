@@ -1,0 +1,274 @@
+Số e là một hằng số toán học có giá trị gần bằng 2,71828 và có thể được biểu diễn theo nhiều cách khác nhau. Nó là cơ số của logarit tự nhiên, là số duy nhất sao cho logarit tự nhiên của nó bằng 1, 1  và đồng thời là giới hạn của n khi n tiến về vô hạn, một biểu thức nảy sinh từ việc nghiên cứu lãi kép. Nó cũng bằng tổng của chuỗi vô hạn
+e cũng được định nghĩa là số dương a duy nhất sao cho đồ thị của hàm y = ax có hệ số góc bằng 1 tại x = 0.
+Hàm mũ  f = ex là hàm số duy nhất có đạo hàm bằng chính nó và có giá trị ban đầu là f = 1, và dễ thấy e = f. Logarit tự nhiên, hay logarit cơ số e, là hàm ngược của hàm mũ tự nhiên. Logarit tự nhiên của một số k > 1 được định nghĩa là diện tích hình phẳng giới hạn bởi đồ thị của hàm y = 1/x từ x = 1 đến x = k, khi đó e là giá trị của k sao cho diện tích đó bằng 1 . e còn có nhiều cách biểu diễn khác.
+e thỉnh thoảng còn được gọi là số Euler theo tên của nhà toán học người Thụy Sĩ Leonhard Euler , hoặc hằng số Napier. Tuy nhiên, ký hiệu e của Euler được cho là đã được giữ lại để vinh danh ông. 2  Hằng số này được tìm ra bởi nhà toán học người Thụy Sĩ Jacob Bernoulli khi nghiên cứu về lãi kép. 3  4 
+Số e có tầm quan trọng lớn trong toán học cùng với số 0, 1,   và i. Cả năm số này đều đóng vai trò không thể thiếu trong toán học và cùng xuất hiện trong một phương trình của đồng nhất thức Euler. Giống như hằng số  , e là một số vô tỉ  và là số siêu việt . Giá trị của e đến 50 chữ số thập phân là:Hằng số e được liên hệ lần đầu tiên vào năm 1618 ở bảng phụ lục trong công trình của John Napier về logarit, nhưng lại không nhắc đến trực tiếp về e mà chỉ liệt kê danh sách các logarit được tính từ nó. 4  Bảng này được thừa nhận là do William Oughtred viết ra. Jacob Bernoulli đã tìm ra chính hằng số e vào năm 1683 khi tìm giá trị của biểu thức 5  6 
+Hằng số này được sử dụng lần đầu tiên với ký hiệu là b trong bức thư của Gottfried Leibniz gửi Christiaan Huygens vào năm 1690 và 1691. 7  Leonhard Euler trong thư gửi Christian Goldbach vào ngày 25 tháng 11 năm 1731 đã gọi chữ cái e là cơ số của logarit tự nhiên. 8  9  Euler bắt đầu sử dụng chữ e để ký hiệu cho hằng số vào khoảng 1727 hoặc 1728 trong một bài báo không được xuất bản về sức nổ của súng thần công, và e chỉ xuất hiện trong xuất bản phẩm lần đầu vào năm 1736 trong cuốn Mechanica của ông. 10  11  Dù một số nhà nghiên cứu sử dụng chữ c trong những năm sau đó, 12  13  nhưng chữ e dần trở thành tiêu chuẩn về sau này.
+Trong toán học, cách phổ biến nhất là viết hằng số thành chữ "e" in nghiêng, nhưng tiêu chuẩn ISO 80000-2 khuyến nghị sắp chữ các hằng số theo kiểu thẳng đứng như các chữ cái thông thường. 14 
+Jacob Bernoulli tìm ra hằng số e vào năm 1683 khi nghiên cứu một bài toán về lãi kép: 4 Một tài khoản có số dư 1 đô la và nhận 100% lãi suất mỗi năm. Nếu lãi suất được tính một lần thì đến cuối năm, số dư của tài khoản đó là 2 đô la. Điều gì sẽ xảy ra khi lãi suất được tính và thanh toán thường xuyên hơn trong năm?
+Nếu lãi được tính hai lần trong năm thì lãi suất cho mỗi 6 tháng sẽ là 50%, do đó 1 đô la ban đầu được nhân hai lần cho 1,5 để có 1,00 × 1,52 = 2,25 đô la vào cuối năm. Khi tính lãi theo quý thì ta có 1,00 × 1,254 = 2,4414… đô la, còn tính lãi theo tháng được 1,00 × 12 = 2,613035… đô la. Nếu có n khoảng thời gian tính lãi thì lãi suất trên mỗi khoảng là 100%/n và số dư vào cuối năm là 1,00 × n.
+Bernoulli nhận thấy chuỗi này tiến dần về một giới hạn với n càng lớn và khoảng thời gian tính lãi càng nhỏ. Tính lãi theo tuần  được 2,692597... đô la, còn tính lãi theo ngày  thì được 2,714567... đô la, chỉ nhiều hơn hai xu. Giới hạn khi n tăng lên chính là số e; khi tính lãi liên tục thì số dư của tài khoản tiệm cận đến 2,7182818... đô la.
+Tổng quát hơn, một tài khoản có số dư ban đầu là 1 đô la và nhận lãi suất hằng năm là R thì sau t năm sẽ nhận được eRt đô la khi tính lãi liên tục. 15  
+Số e cũng có ứng dụng trong lý thuyết xác suất, nảy sinh từ một vấn đề không liên quan rõ ràng với lũy thừa. Giả sử một người chơi một máy đánh bạc n lần và xác suất để thắng là một phần n. Với n lớn  thì xác suất để người đó thua mọi lần gần bằng 1/e. Với n = 20 thì tỉ số này đã gần bằng 1/2,79.
+Đó là một ví dụ về phép thử Bernoulli. Mỗi lần người đó chơi máy thì xác suất để thắng là một trên một triệu. Một triệu lần chơi như thế được mô hình hóa bằng phân phối nhị thức, vốn có liên hệ mật thiết với định lý nhị thức và tam giác Pascal. Xác suất để thắng k lần trên một triệu lần chơi là
+Đặc biệt, xác suất để người đó không thắng lần nào  là
+rất gần với giới hạn
+Phân phối chuẩn với trung bình bằng 0 và độ lệch chuẩn bằng 1 được gọi là phân phối chuẩn tắc và được cho bởi hàm mật độ xác suất 16 
+Điều kiện phương sai bằng 1  dẫn đến phân số 1/2 trong số mũ, và điều kiện tổng diện tích dưới đường cong ϕ bằng 1 dẫn đến tỷ số 
+  
+    
+      
+        
+          1
+          
+            /
+          
+          
+            
+              2
+               
+            
+          
+        
+      
+    
+    }}
+  
+. Hàm số này đối xứng quanh x = 0, tại đó nó đạt giá trị lớn nhất 
+  
+    
+      
+        
+          1
+          
+            /
+          
+          
+            
+              2
+               
+            
+          
+        
+      
+    
+    }}
+  
+, và có các điểm uốn tại x = ±1.
+Một ứng dụng khác của e, vốn do Jacob Bernoulli và Pierre Raymond de Montmort tìm ra, nằm trong bài toán về hoán vị vô trật tự hay còn gọi là bài toán trả mũ. 17  Có n vị khách được mời đến một bữa tiệc và đều phải trả mũ của họ cho quản gia. Quản gia sẽ đặt số mũ này vào n hộp, mỗi hộp được ghi tên của một vị khách duy nhất. Nhưng quản gia lại không hỏi trước tên của các vị khách nên việc xếp mũ vào hộp được thực hiện một cách ngẫu nhiên. Bài toán của de Montmort là tìm xác suất để không có chiếc mũ nào được đặt đúng vào hộp của vị khách đó. Câu trả lời là
+Khi số vị khách n tiến đến vô hạn thì pn tiệm cận về 1/e. Hơn nữa, số cách xếp mũ vào hộp để biến cố trên xảy ra là n!/e  với n là số dương. 18 
+Một gậy chiều dài L bị vỡ thành n mảnh có độ dài bằng nhau. Giá trị của n để tích các độ dài này lớn nhất là 19 
+vì 
+  
+    
+      
+        
+          x
+          
+             
+            1
+          
+        
+        ln
+         
+        x
+      
+    
+    \ln x}
+  
+ đạt giá trị lớn nhất tại 
+  
+    
+      
+        x
+        =
+        e
+      
+    
+    
+  
+ . Đại lượng 
+  
+    
+      
+        
+          x
+          
+             
+            1
+          
+        
+        ln
+         
+        x
+      
+    
+    \ln x}
+  
+ là một độ đo lượng thông tin thu được từ một biến cố xảy ra với xác suất 
+  
+    
+      
+        1
+        
+          /
+        
+        x
+      
+    
+    
+  
+, do đó phép chia tối ưu trên xuất hiện trong các bài toán kế hoạch tối ưu, chẳng hạn như bài toán thư ký.
+Số e xuất hiện khi liên hệ với nhiều bài toán liên quan đến tiệm cận. Một ví dụ là công thức Stirling về tiệm cận của hàm giai thừa có sự xuất hiện của cả hai số e và  : 20 
+Từ đó
+Cơ sở chủ yếu cho sự ra đời của số e, đặc biệt trong vi tích phân là từ các phép tính vi phân và tích phân với các hàm mũ và logarit. 21  Tổng quát, hàm mũ y = ax có đạo hàm được cho bởi giới hạn:
+Giới hạn trong ngoặc ở vế phải độc lập với biến x và chỉ phụ thuộc vào cơ số a. Khi cơ số đó bằng e thì giới hạn trên bằng 1 nên e được định nghĩa tượng trưng bởi phương trình:
+Do đó, hàm mũ cơ số e rất phù hợp cho việc tính vi tích phân, vì nó giúp đơn giản hóa nhiều phép tính liên quan đến đạo hàm.
+Một cách tiếp cận khác đến từ việc tính đạo hàm của logarit cơ số a  với x > 0: 22 
+trong đó đặt u = h/x. Logarit cơ số a của e bằng 1 nếu a bằng e, do đó
+Logarit với cơ số đặc biệt này được gọi là logarit tự nhiên và được ký hiệu là ln, giúp đơn giản hóa phép vi phân do không cần tìm các giới hạn chưa biết.
+Như vậy, có hai cách để tìm một số a đặc biệt như thế. Cách thứ nhất là cho đạo hàm của hàm mũ ax bằng với ax rồi giải phương trình để tìm a. Cách thứ hai là cho đạo hàm của logarit cơ số a bằng 1/x và giải tương tự. Cả hai nghiệm a thu được thực chất là giống nhau và bằng số e.
+Có nhiều cách biểu diễn số e: giới hạn của một dãy, tổng của một chuỗi vô hạn hay các biểu thức liên quan đến giải tích tích phân. Trên đây, ta đã biết được hai tính chất:
+Bốn cách biểu diễn sau cũng được chứng minh là tương tự như trên:Tương tự: 23 
+Hàm mũ ex rất quan trọng một phần do đây là hàm số duy nhất có đạo hàm bằng chính nó:
+và do đó cũng có nguyên hàm bằng chính nó:
+e là số thực duy nhất sao cho
+với mọi số dương x. 24 
+Đồng thời, ta cũng có bất đẳng thức
+với mọi số thực x, và dấu bằng xảy ra khi và chỉ khi x = 0. Hơn nữa, e là cơ số duy nhất của hàm mũ để bất đẳng thức ax ≥ x + 1 đúng với mọi x. 25  Đó là một trường hợp giới hạn của bất đẳng thức Bernoulli.
+Bài toán Steiner yêu cầu tìm giá trị lớn nhất của hàm số
+Giá trị lớn nhất này đạt được tại x = e. Để chứng minh, từ bất đẳng thức 
+  
+    
+      
+        
+          e
+          
+            y
+          
+        
+         
+        y
+        +
+        1
+      
+    
+    \geq y+1}
+  
+ ở trên, đặt 
+  
+    
+      
+        y
+        =
+        
+        
+          /
+        
+        e
+      
+    
+    
+  
+ rồi rút gọn thì ta có 
+  
+    
+      
+        
+          e
+          
+            x
+            
+              /
+            
+            e
+          
+        
+         
+        x
+      
+    
+    \geq x}
+  
+. Do đó 
+  
+    
+      
+        
+          e
+          
+            1
+            
+              /
+            
+            e
+          
+        
+         
+        
+          x
+          
+            1
+            
+              /
+            
+            x
+          
+        
+      
+    
+    \geq x^
+  
+ với mọi số dương x. 26 
+Tương tự, x = 1/e là điểm để hàm số
+đạt giá trị nhỏ nhất với x là số dương. Tổng quát hơn, hàm số
+với x là số dương đạt giá trị lớn nhất tại x = 1/e khi n < 0 và đạt giá trị nhỏ nhất tại x = e−1/n khi n > 0.
+Tetration vô hạn
+hội tụ khi và chỉ khi e−e ≤ x ≤ e1/e  theo một định lý của Leonhard Euler. 27 
+Số thực e là một số vô tỉ. Euler chứng minh được điều này bằng cách cho thấy liên phân số của nó có thể được mở rộng ra vô hạn. 28  29  a  Hơn nữa, theo định lý Lindemann–Weierstrass, e là một số siêu việt, có nghĩa là nó không phải là nghiệm của bất kỳ phương trình đa thức khác không với hệ số hữu tỉ. Charles Hermite chứng minh được điều này vào năm 1873. 30 
+Có phỏng đoán cho rằng e là số bình thường, có nghĩa là khi e được biểu diễn trên bất kỳ hệ đếm cơ số nào thì các chữ số trong hệ đếm đó được phân bố đồng đều nhau . 31 
+Hàm mũ ex có thể được viết thành chuỗi Taylor: 32 
+Vì chuỗi trên hội tụ với bất kỳ giá trị phức nào của x nên nó có thể được dùng để mở rộng khái niệm ex cho số phức. Cùng với chuỗi Taylor cho sin x và cos x, ta suy ra được công thức Euler đúng với mọi số phức x:
+Trường hợp đặc biệt với x = π là đồng nhất thức Euler:
+từ đó suy ra, trong nhánh chủ yếu của logarit,
+Hơn nữa, áp dụng các công thức lũy thừa,
+đó chính là công thức de Moivre.
+Biểu thức
+còn được ký hiệu là cis. 33 
+Ta cũng suy ra được các biểu thức biểu diễn 
+  
+    
+      
+        sin
+         
+        x
+      
+    
+    
+  
+ và 
+  
+    
+      
+        cos
+         
+        x
+      
+    
+    
+  
+ theo các hàm mũ:
+Họ các hàm số
+với C là số thực, là nghiệm của phương trình vi phân
+Số e có thể được biểu diễn thành một số thực theo nhiều cách khác nhau: là một chuỗi vô hạn, một tích vô hạn, một liên phân số hay giới hạn của một dãy. Trong số đó, thông dụng nhất là giới hạn
+đã cho ở trên, và chuỗi
+có được bằng cách thay x = 1 vào chuỗi lũy thừa cho hàm mũ ex ở trên.
+Một dạng khác ít phổ biến hơn là liên phân số 34 
+hoặc được viết thành
+Nhiều cách biểu diễn khác của e dưới dạng chuỗi, dãy số, liên phân số và tích vô hạn cũng đã được tìm ra và phát triển.
+Cùng với các biểu thức giải tích chính xác, e còn có thể được tính gần đúng thông qua các kỹ thuật ngẫu nhiên. Một cách tiếp cận như thế bắt đầu từ một dãy vô hạn các biến độc lập ngẫu nhiên X1, X2,... trong một phân phối đều trên . Gọi V là số n nhỏ nhất để tổng của n biến đầu tiên như vậy lớn hơn 1:
+Khi đó giá trị kỳ vọng của V là e hay E = e. 35 
+Số chữ số đã biết của e đã gia tăng đáng kể trong vài thập kỷ trở lại đây do sự phát triển của máy tính và thuật toán nói chung.
+Từ khoảng năm 2010, với sự ra đời của máy tính để bàn hiện đại tốc độ cao, việc tính toán hàng nghìn tỷ chữ số của e trong một khoảng thời gian chấp nhận được là hoàn toàn khả thi. Tính đến ngày 5 tháng 12 năm 2020, e đã được tính đến 31,4 nghìn tỷ chữ số thập phân. 45 
+Trong sự xuất hiện của văn hóa Internet, nhiều tổ chức và cá nhân đã đôi lúc tỏ lòng kính trọng và tôn vinh số e. Chẳng hạn, nhà khoa học máy tính Donald Knuth đã cho số phiên bản của phần mềm Metafont của ông tiến dần về số e. Các phiên bản lần lượt là 2, 2.7, 2.71, 2.718,... 46 
+Trong đợt IPO của Google năm 2004, công ty đặt mục tiêu huy động được đúng 2.718.281.828 đô la Mỹ, tức là e tỷ đô la làm tròn đến hàng đơn vị. 47  Google cũng đã từng làm một biển quảng cáo đặt tại trung tâm thung lũng Silicon và sau đó tại Cambridge, Massachusetts, Seattle, Washington và Austin, Texas, trong đó có ghi ".com" . 48  Khi giải được bài toán này và truy cập vào trang web đã cho thì người giải được dẫn đến một bài toán khó hơn với cơ hội được vào Google Labs để làm một bản hồ sơ lý lịch trích ngang. 49  Số nguyên tố có 10 chữ số đầu tiên trong e là 7427466391, bắt đầu từ chữ số thứ 99. 50 

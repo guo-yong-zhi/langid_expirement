@@ -1,0 +1,23 @@
+En probabilitat i estadística, la distribució de Dirichlet , sovint denotada 
+  
+    
+      
+        Dir
+         
+        
+      
+    
+     }
+  
+, és una família de distribucions de probabilitat multivariables contínues parametritzades per un vector 
+  
+    
+      
+        
+           
+        
+      
+    
+    }}
+  
+ de reals positius. És una generalització multivariant de la distribució beta, 1  d'aquí el seu nom alternatiu de distribució beta multivariant . 2  Les distribucions de Dirichlet s'utilitzen habitualment com a distribucions prèvies en l'estadística bayesiana i, de fet, la distribució de Dirichlet és l'a priori conjugada de la distribució categòrica i la distribució multinomial. 3 

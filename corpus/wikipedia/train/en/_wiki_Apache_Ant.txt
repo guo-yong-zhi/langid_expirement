@@ -1,0 +1,39 @@
+Apache Ant is a software tool for automating software build processes 2  which originated from the Apache Tomcat project in early 2000 as a replacement for the Make build tool of Unix. 3  It is similar to Make, but is implemented using the Java language and requires the Java platform. Unlike Make, which uses the Makefile format, Ant uses XML to describe the code build process and its dependencies. 4 
+Released under an Apache License by the Apache Software Foundation, Ant is an open-source project.
+Ant  5  was conceived by James Duncan Davidson while preparing Sun Microsystems's reference JSP and Servlet engine, later Apache Tomcat, for release as open-source. A proprietary version of Make was used to build it on the Solaris platform, but in the open-source world, there was no way of controlling which platform was used to build Tomcat; so Ant was created as a simple platform-independent tool to build Tomcat from directives in an XML "build file". Ant  was officially released as a stand-alone product on July 19, 2000.
+Several proposals for an Ant version 2 have been made, such as AntEater by James Duncan Davidson, Myrmidon by Peter Donald  6  and Mutant by Conor MacNeill, none of which were able to find large acceptance with the developer community. 7 
+At one time , Ant was the build tool used by most Java development projects. 8  For example, most open source Java developers included build.xml files with their distribution. citation needed  Because Ant made it trivial to integrate JUnit tests with the build process, Ant allowed developers to adopt test-driven development and extreme programming.
+In 2004 Apache created a new tool with a similar purpose called Maven. 
+Gradle, which is similar software, was created in 2008, which in contrary uses groovy  code instead of XML.
+WOProject-Ant 9  is just one of many examples of a task extension written for Ant. These extensions are installed by copying their .jar files into ant's lib directory. Once this is done, these task extensions can be invoked directly in the typical build.xml file. The WOProject extensions allow WebObjects developers to use ant in building their frameworks and apps, instead of using Apple's Xcode suite.
+Antcontrib 10  provides a collection of tasks such as conditional statements and operations on properties as well as other useful tasks. 11  12 
+Ant-contrib.unkrig.de 13  implements tasks and types for networking, Swing user interfaces, JSON processing and other.
+Other task extensions exist for Perforce, .NET Framework, EJB, and filesystem manipulations. 14 
+Below is listed a sample build.xml file for a simple Java "Hello, world" application. It defines four targets - clean, 15  clobber, compile and jar , each of which has an associated description. The jar target lists the compile target as a dependency. This tells Ant that before it can start the jar target it must first complete the compile target.
+    <?xml version="1.0"?> 
+ <project     name=  "Hello"     default=  "compile"  > 
+       <target     name=  "clean"     description=  "remove intermediate files"  > 
+           <delete     dir=  "classes"  /> 
+       </target> 
+       <target     name=  "clobber"     depends=  "clean"     description=  "remove all artifact files"  > 
+           <delete     file=  "hello.jar"  /> 
+       </target> 
+       <target     name=  "compile"     description=  "compile the Java source code to class files"  > 
+           <mkdir     dir=  "classes"  /> 
+           <javac     srcdir=  "."     destdir=  "classes"  /> 
+       </target> 
+       <target     name=  "jar"     depends=  "compile"     description=  "create a Jar file for the application"  > 
+           <jar     destfile=  "hello.jar"  > 
+               <fileset     dir=  "classes"     includes=  "**/*.class"  /> 
+               <manifest> 
+                   <attribute     name=  "Main-Class"     value=  "HelloProgram"  /> 
+               </manifest> 
+           </jar> 
+       </target> 
+ </project> 
+    <jar     destfile=  "hello.jar"  > 
+ rm -rf classes/
+ rmdir /S /Q classes
+       <delete     dir=  "classes"  /> 
+</prAdditionally, Ant does not differentiate between forward slash or backslash for directories and semicolon or colon for path separators. It converts each to the symbol appropriate to the platform on which it executes.
+There exist third-party Ant extensions  that provide much of the missing functionality. Also, the Eclipse integrated development environment  can build and execute Ant scripts, while the NetBeans IDE uses Ant for its internal build system. As both these IDEs are very popular development platforms, they can simplify Ant use significantly. 

@@ -1,0 +1,28 @@
+1GTU, 1XW6, 1XWK, 1YJ6, 2F3M
+• enzyme binding• glutathione binding• protein homodimerization activity• transferase activity• glutathione transferase activity
+• цитоплазма• гіалоплазма• intercellular bridge
+• xenobiotic catabolic process• nitrobenzene metabolic process• cellular detoxification of nitrogen compound• glutathione metabolic process• Обмін речовин• glutathione derivative biosynthetic process
+GSTM1  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 1-ї хромосоми.  3  Довжина поліпептидного ланцюга білка становить 218 амінокислот, а молекулярна маса — 25 712 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функціями належить до трансфераз, фосфопротеїнів. 
+Задіяний у такому біологічному процесі як поліморфізм. 
+Локалізований у цитоплазмі.
+  Портал «Біологія»   Портал «Хімія»                       

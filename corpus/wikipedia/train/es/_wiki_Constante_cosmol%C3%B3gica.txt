@@ -1,0 +1,361 @@
+En relatividad general, la constante cosmológica  es una constante propuesta por Albert Einstein en 1917  como una modificación de su ecuación original del campo gravitatorio para conseguir una solución que diera un universo estático. Einstein rechazó esta idea en 1931 una vez que el corrimiento al rojo de las galaxias observado por Edwin Hubble sugiriese que el universo no era estático y de que Eddington demostrara en 1930 que el universo estático de la relatividad general con constante cosmológica era inestable.  Sin embargo, el descubrimiento de la aceleración cósmica en 1998 que consiguió el Premio Nobel de Física en 2011,  ha renovado el interés en la constante cosmológica.
+La constante cosmológica  aparece en las ecuaciones de Einstein 
+  
+    
+      
+        
+          R
+          
+             
+             
+          
+        
+         
+        
+          
+            R
+            2
+          
+        
+        
+          g
+          
+             
+             
+          
+        
+        +
+         
+        
+          g
+          
+             
+             
+          
+        
+        =
+        
+          
+            
+              8
+               
+              G
+            
+            
+              c
+              
+                4
+              
+            
+          
+        
+        
+          T
+          
+             
+             
+          
+        
+      
+    
+    -}g_=}}T_
+  
+Cuando 
+  
+    
+      
+         
+      
+    
+    
+  
+ es cero, estas se reducen a la ecuación tradicional de la relatividad general. Las observaciones astronómicas implican que su valor satisface:
+  
+    
+      
+         
+         
+        
+          10
+          
+             
+            52
+          
+        
+         
+        
+          
+            
+              m
+            
+          
+          
+             
+            2
+          
+        
+      
+    
+    \ ^
+  
+Aunque Einstein introdujo la constante cosmológica como un término independiente en las ecuaciones del campo gravitatorio, de hecho, este puede ser interpretado como una energía o presión negativa del vacío. Si se supone que el vacío viene representado por un tensor de energía-impulso dado por: 
+  
+    
+      
+        
+          T
+          
+             
+             
+          
+          
+            
+              
+            
+          
+        
+        =
+         
+        
+          
+            
+               
+              
+                c
+                
+                  4
+                
+              
+            
+            
+              8
+               
+              G
+            
+          
+        
+        
+          g
+          
+             
+             
+          
+        
+      
+    
+    ^=-}
+  
+La constante cosmológica es entonces equivalente a una densidad de energía intrínseca del vacío:
+  
+    
+      
+        
+          
+             
+            
+              v
+              a
+              c
+            
+          
+          =
+          
+            
+              
+                 
+                
+                  c
+                  
+                    2
+                  
+                
+              
+              
+                8
+                 
+                G
+              
+            
+          
+        
+      
+    
+    =
+  
+La presión asociada se calcula mediante la ecuación de estado:
+  
+    
+      
+        
+          
+            p
+            
+              v
+              a
+              c
+            
+          
+          =
+          w
+           
+          
+             
+            
+              v
+              a
+              c
+            
+          
+          
+            c
+            
+              2
+            
+          
+        
+      
+    
+    =w\cdot \rho _}
+  
+En la que el valor de la constante w es -1. Por lo tanto, la presión asociada a la constante cosmológica es negativa, de aquí que su efecto sea repulsivo en vez de atractivo como la gravedad:
+  
+    
+      
+        
+          
+            p
+            
+              v
+              a
+              c
+            
+          
+          =
+           
+          
+             
+            
+              v
+              a
+              c
+            
+          
+          
+            c
+            
+              2
+            
+          
+        
+      
+    
+    =-\rho _}
+  
+  
+    
+      
+        
+          
+            p
+            
+              v
+              a
+              c
+            
+          
+          =
+           
+          
+            
+              
+                 
+                 
+                
+                  c
+                  
+                    4
+                  
+                
+              
+              
+                8
+                 
+                G
+              
+            
+          
+        
+      
+    
+    =-
+  
+Vemos que una constante cosmológica positiva resulta en una densidad de energía positiva y en una presión negativa. La contante cosmológica puede ser atribuida a la presencia de una energía del vacío diferente de cero, a la que se le denomina energía oscura y que es la responsable de que la aceleración del factor de escala del universo, que había sido negativa durante los primeros 7600 millones de años de expansión,  haya pasado a ser positiva desde hace 6200 millones de años, hecho que se conoce como expansión acelerada del universo.
+La constante cosmológica fue introducida inicialmente por Einstein en 1917 para lograr un universo estático, que coincidía con la concepción del universo reinante en su tiempo. Sus ecuaciones originales de 1915 no permitían un universo estático: la gravedad lleva a un universo inicialmente en equilibrio dinámico a contraerse. Sin embargo, después de desarrollar su solución estática, Alexander Friedman en 1922, examina las ecuaciones de la relatividad de Einstein y llega a la conclusión de que al eliminar la constante cosmológica, se obtienen varias soluciones, entre ellas el Universo en expansión.
+George Lemaitre, en 1927, llega a las mismas conclusiones que Friedman y propone su modelo del átomo primordial, que contiene toda la materia y la energía a partir de la cual se formó el Universo. Fue el precursor de la teoría del Big Bang.
+Edwin Hubble sugirió en 1929 que el universo parecía estar en expansión. Esto era perfectamente consistente con las soluciones a las ecuaciones originales, descubiertas por el matemático Friedman en 1922 y por el físico Georges Lemaître, quien, independientemente, encontró una solución similar en 1927.
+Ahora se sabe que el universo estático encontrado por Einstein es inestable, hecho que fue demostrado por Eddington en 1930. A pesar de estar en equilibrio, cualquier pequeña perturbación lo haría o bien implosionar o bien expandirse de nuevo.
+Al contrario que el resto de la relatividad general, esta nueva constante no se justificaba para nada, y fue introducida exclusivamente con el fin de obtener el resultado que en la época se pensaba era el apropiado. Cuando se presentó la evidencia de la expansión de universo, se cree que Einstein llegó a declarar que la introducción de dicha constante fue el «peor error de su carrera». La frase “el mayor error” o “la mayor metedura de pata” , en relación a la constante cosmológica y Einstein, fue escrita por primera vez por el físico George Gamow en un artículo publicado en septiembre de 1956 en la revista Scientific American . Gamow repitió esta frase varias veces en otros textos. Sin embargo, la constante cosmológica permaneció como un problema de interés teórico y experimental .
+Observaciones realizadas a finales de la década de 1990 de las relaciones distancia-corrimiento al rojo indicaron que la expansión del universo es acelerada. Combinadas con medidas del fondo cósmico de microondas, arrojaron un valor de 
+  
+    
+      
+        
+           
+           
+          
+            10
+            
+               
+              52
+            
+          
+          
+            
+              
+                m
+              
+            
+            
+               
+              2
+            
+          
+        
+      
+    
+    ^
+  
+. Existen otras causas posibles para esta expansión acelerada, como la quintaesencia o la energía fantasma, pero la constante cosmológica dentro del modelo estándar cosmológico Lambda-CDM es la solución más simple.
+La constante cosmológica se calcula a partir del ratio de densidad de energía oscura, la Constante de Hubble y la velocidad de la luz mediante la expresión
+Los mejores valores de cálculo de los que disponemos actualmente para la constante de Hubble y el ratio de densidad son los proporcionados por las medidas del satélite Planck, que fueron publicadas en 2018:
+Con ello se obtiene
+Como se observa, las unidades de la constante cosmológica corresponden al inverso de una longitud al cuadrado. En ocasiones, la constante cosmológica aparece en algunos textos expresada en unidades de inverso de tiempo al cuadrado en vez de inverso de longitud al cuadrado. Es decir en esos textos lo que realmente aparece es la constante cosmológica multiplicada por el cuadrado de la velocidad de la luz.
+Uno de los mayores desafíos de la física teórica es comprender la predicción genérica de las teorías cuánticas de campos dé un valor enorme de la constante cosmológica.
+Esta conclusión se sigue de un poco de análisis dimensional en teorías de campo efectivas. Si el universo está descrito por una teoría cuántica de campos efectiva hasta energías del orden de la masa de Planck, se esperaría que 
+  
+    
+      
+         
+      
+    
+    
+  
+ fuera del orden de 
+  
+    
+      
+        
+          M
+          
+            p
+            l
+          
+          
+            4
+          
+        
+      
+    
+    ^
+  
+, que es 120 órdenes de magnitud  más grande que el valor medido. Esta discrepancia ha sido calificada como «la peor predicción en la historia de la física».

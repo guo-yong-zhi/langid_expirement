@@ -1,0 +1,28 @@
+Fedtsyremetabolisme eller fedtsyrestofskiftet er kroppens samlede behandling af fedt. Dette består både af fedtnedbrydning og fedtdannelse, hhv. lipolyse og lipogenese. 
+Lipolyse , er udvinding af energi ved nedbrydning af fedt.
+Esterbindingen i triacylglycerol hydrolyseres, og der dannes frit glycerol og 3 frie fedtsyrer.
+Glycerol frigives til blodet, hvorfra leveren optager og omdanner det til dihydroxyacetonefosfat og lader det indgå i glukoneogenesen eller glykolysen.
+Når først fedtsyren er fjernet, fortsætter nedbrydningen. Den lipase, der fjerner den første fedtsyre, er derfor kontrolleret hormonelt, måske via leptin og glukagon.
+Den aktiverede fedtsyres 3. carbon-atom, beta-carbon, oxideres så der dannes en dobbelt binding mellem 2. og 3. C-atom. Oxidationen medfører en reduktion af FAD til FADH2.
+Denne dobbeltbinding hydreres, og der dannes en sekundær alkohol.
+Ved hjælp af en dehydrogenase og NAD+ dannes en oxogruppe.
+Ved hjælp af CoA spaltes bindingen mellem beta- og alpha-carbonet. Fedtkæden er nu to carbonatomer kortere, og der er frigivet AcetylCoA.
+Processen kan nu begynde forfra.
+Da der altid fjernes 2 carbonatomer vil det sidste CoA-derivat ved ulige antal C-atomer indeholde 3 C-atomer og ikke to. Denne tre carbon lange CoA enhed kaldes propionylCoA og kan bruges i glykoneogenesen.
+Beta-oxidationen er formentligt substratreguleret, dvs. mængden af fedtsyre og CoA, samt NAD+ og FAD.
+Den hastighed, som citronsyrecyklus bruger acetylCoA med, har betydning for, hvor hurtigt CoA bliver tilgængeligt igen. 
+Store mængder malonylCoA hæmmer CAT 1 og mindsker dermed den tilgængelige mængde fedtsyrer. Dette hænger sammen med insulinkoncentrationen. kilde mangler 
+Beta-oxidationen sker i mitokondriets indre membran.
+Lipogenese  er dannelsen af fedt ud fra kulhydrater eller aminosyrer. 
+Fedt, her tænkes især på triglycerid, har høj energitæthed og lille vandindhold og er derfor fremragende som et langtidsdepot for energi.
+Lipogenesen eller fedtsyresyntesen sker i cytosolen – i et multifunktionelt enzym "mammalian fatty acid synthase" -- "pattedyrs fedtsyresyntase".
+AcetylCoA binder sig til enzymet—på den såkaldte PhP-plads. Acetylgruppen overføres herefter til en cystein sidekæde i enzymet—cys-pladsen.
+Herefter kan tilføres MalonylCoA til PhP-pladsen, og acetylgruppen fra Cys-pladsen kobles på malonylgruppen.
+Oxogruppen—resten af carboxylsyregruppen fra acetyl -- reduceres nu.
+Den spæde fedtsyre overføres nu til cys-pladsen og en ny malonylCoA tilføres PhP-pladsen.
+Den spæde fedtsyre på cys-pladsen kobles nu på malonylkæden —carbondioxid fraspaltes, og endnu engang reduceres oxalogruppen væk — den fra fedtsyren ikke carboxylsyre gruppen på malonyl. 
+Endnu engang overføres den voksende fedtsyre til cys-pladsen, og en ny malonyl anbringes på PhP-pladsen. Dette gentages til fedtsyren er 16-carbonatomer langt, herefter frigives den. Denne 16 carbon, mættede fedtsyre kaldes palmitinsyre.
+Andre ikke-essentielle fedtsyrer kan dannes fra palmitinsyre både længere, kortere og umættede fedtsyrer, kun kan de ikke være umættede tættere på metyl-enden end carbon-7 talt fra metyl-enden.
+Tre nydannede fedtsyrer kan kobles på et glycerol-molekyle, så der dannes triglycerid.
+Dette sker ved, at dihydroxyacetone reduceres til glycerol-3-fosfat -- samme mekanisme som i glycerolfosfatshuttlen -- på carbon 1 kan nu kobles en fedtsyre. Efterfølgende kan en fedtsyre kobles på carbon 2, og fosforgruppen fjernes. Nu haves diacylglycerol. Hvis den sidste OH-gruppe også esterficeres med en fedtsyre, haves triacylglycerol, også kaldet triglycerid.
+Triacylglycerol dannes i fedtceller, leverceller og muskelceller i den sidstnævnte dog kun til eget forbrug.

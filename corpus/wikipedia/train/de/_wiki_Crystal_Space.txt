@@ -1,0 +1,20 @@
+
+Crystal Space ist ein freies und portables Framework und SDK mit einer Grafik-Engine für die Darstellung von 3D-Welten für Computerspiele und andere Anwendungen virtueller Realität.
+Es ist in der Programmiersprache C++ geschrieben und unter den Bedingungen der GNU Lesser General Public License  als freie Software verbreitet.
+Crystal Space unterstützt zurzeit GNU/Linux, Unix, Windows und macOS. Optional kann es OpenGL , SDL , X11  und SVGALIB  verwenden. Es kann auch als Assembler-Framework mit NASM und MMX verwendet werden.
+Crystal Space ist ein Open-Source-Projekt mit ungefähr 700 Beteiligten. Initiiert wurde das Projekt von Jorrit Tyberghein im Jahr 1997. Nach zehn Jahren Entwicklungszeit wurde am 15. Januar 2007 die Version 1.0 freigegeben.
+In den Jahren 2006 und 2007 wurden mit der „Crystal Space Conference“ an der RWTH Aachen eigene Entwicklerkonferenzen abgehalten.
+Das MMORPG „PlaneShift“ basiert auf der CS-Engine. 1 
+In dem Apricot-Projekt wurde im Rahmen der praktischen Umsetzung eines 3D-Spieles an der Weiterentwicklung von Blender und Crystal Space gearbeitet. Das aus dem Apricot-Projekt entstandene Jump-’n’-Run-Spiel „Yo Frankie!“ verwendet alternativ entweder Crystal Space oder die Blender-Engine.
+Crystal Core ist ein spielbares Demo-Spiel zu der Engine, ein modularer, erweiterbarer Egoshooter. 2 
+Die Rendering-Engine ist modular und erweiterbar und mit einer Physik- und 3D-Sound-Engine ausgestattet.
+Crystal Entity Layer  ist eine Abstraktionsschicht für die Steuerung des Geschehens in der virtuellen Welt. Sie dient zum Beispiel als Schnittstelle für Scripting, berechnet Bewegungspfade durch Gelände und künstliche Intelligenz.
+Die Engine von Crystal Space arbeiten mit sechs Freiheitsgraden mit beliebig geformten Polygonen . Darüber hinaus verfügt Crystal Space über ein flexibles Plugin-System, das es Modulen erlaubt, andere Skriptsprachen einzufügen. Python, Perl und Java werden bereits unterstützt. Ebenso existieren Zusatzmodule für Schriftarten, Musik, Physikberechnungen sowie das Aufzeichnen und Abspielen von Filmen. Crystal Space verwendet SCF  für die Kommunikation zwischen verschiedenen Schichten . Dadurch lässt sich ein Plug-and-Play-Konzept umsetzen.
+Unterstützt werden 15/16-Bit- und 24/32-Bit-True-Color-Anzeige und verschiedenen Auflösungen . Crystal Space lässt sich gut über die Kommandozeile und durch Konfigurationsdateien konfigurieren.
+Der C++-Quellcode und Assemblercode ist verfügbar. Crystal Space steht unter der LGPL, einer GNU-Copyleft-Lizenz mit weniger restriktivem Ansatz als die GPL.
+Die Software beinhaltet Dateikonverter für:
+Crystal Space wurde portiert für
+Optionale OpenGL-Hardware-Beschleunigung unter Windows, GNU/Linux und Macintosh OS X sowie
+Linux 
+Crystal Space kann folgende 3D-Objekte direkt laden und abhängig von der Entfernung in unterschiedlicher Auflösung darstellen :
+Für In-Game-Menüs ist bereits ein Fenstersystem enthalten. Eine Unterstützung für eine Eingaben- und Ausgabenkonsole, wie sie zum Beispiel in Quake benutzt wird, existiert auch.

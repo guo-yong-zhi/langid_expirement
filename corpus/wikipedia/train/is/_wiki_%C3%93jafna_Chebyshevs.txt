@@ -1,0 +1,107 @@
+Ójafna Chebyshevs er ójafna í líkindafræði sem segir að í líkindadreifingum eða úrtökum eru næstum öll gildi nálægt meðaltalinu. Til dæmis eru aldrei fleiri en 1/4 gildanna í meiri en 2 staðalfrávika fjarlægð frá meðaltalinu, og aldrei meira en 1/9 gildanna í meira en 3 staðalfrávika fjarlægð.
+Ójafnan er nefnd eftir Pafnuty Chebyshev, sem sannaði hana fyrstur manna. 
+Ójafna Chebyshevs er mikið notuð í ályktunartölfræði, þá sér í lagi í tengslum við normaldreifingar. Þar gildir að 95% staka eru innan tveggja staðalfrávika frá meðaltalinu.
+Látum 
+  
+    
+      
+        
+      
+    
+    
+  
+ vera líkindarúm og 
+  
+    
+      
+        X
+      
+    
+    
+  
+ vera slembibreytu. Þá gildir:
+Þar sem að E táknar væntigildið á X, og Var táknar dreifni þess.
+Ein af einföldustu sönnunum á ójöfnu Chebyshevs notast við ójöfnu Markovs:
+Sönnum að ójafna Chebyshevs gildi fyrir slembibreytuna X. Setjum fyrst 
+  
+    
+      
+        Y
+        =
+        
+        
+          )
+          
+            2
+          
+        
+      
+    
+    }
+  
+. Þá er Y slembibreyta. Þá gildir að væntigildið á Y er 
+  
+    
+      
+        
+          
+            E
+          
+        
+        
+        =
+        
+          
+            E
+          
+        
+        (
+        
+        
+          )
+          
+            2
+          
+        
+        )
+        =
+        
+          
+            Var
+          
+        
+        
+      
+    
+    }=()^}}
+  
+.
+Þá er sönnunin einföld:
+Sem er ójafna Chebyshevs ef skipt er út E fyrir Var og 
+  
+    
+      
+        Y
+        >
+        
+           
+          
+            2
+          
+        
+      
+    
+    }
+  
+ fyrir 
+  
+    
+      
+        X
+        >
+         
+      
+    
+    
+  
+.

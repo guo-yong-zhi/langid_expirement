@@ -1,0 +1,97 @@
+In mathematica, un gruppo symmetric 1  es un gruppo finite consistente de omne permutationes del elementos de un insimul de 
+  
+    
+      
+        n
+      
+    
+    
+  
+ elementos. Le symbolo es 
+  
+    
+      
+        
+          S
+          
+            n
+          
+        
+      
+    
+    }
+  
+, 
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          
+            n
+          
+        
+      
+    
+    }_
+  
+ o 
+  
+    
+      
+        
+          Sym
+          
+            n
+          
+        
+      
+    
+     _
+  
+ con 
+  
+    
+      
+        n
+      
+    
+    
+  
+ le grado del gruppo.
+Le operation es le composition de permutationes. Le elemento neutre es le function identitate.
+Le ordine es 
+  
+    
+      
+        n
+        !
+      
+    
+    
+  
+ con 
+  
+    
+      
+        n
+      
+    
+    
+  
+ le grado del gruppo. Pro 
+  
+    
+      
+        n
+        >
+        2
+      
+    
+    
+  
+, un gruppo symmetric non es abelian.

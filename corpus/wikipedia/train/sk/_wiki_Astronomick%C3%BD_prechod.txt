@@ -1,0 +1,47 @@
+Astronomický prechod  je jav, pri ktorom z pohľadu pozorovateľa jedno menšie astronomické teleso prechádza popred druhé väčšie. 1  
+Za prechod sa spravidla považujú len udalosti, pri ktorých je uhlová veľkosť prechádzajúceho objektu oveľa menšia ako uhlová veľkosť objektu, popred ktorý prechádza. Pokiaľ prechádzajúce teleso úplne alebo takmer úplne prekryje teleso za sebou, ide o zatmenie . Za prechody sa nepovažujú ani javy, pri ktorých sa prechádzajúce teleso nepremietne celé na disk telesa v pozadí, takže čiastočné zatmenie Slnka nepatrí medzi prechody, hoci pri ňom často nedochádza k pozorovateľnému poklesu jasnosti Slnka. Ak nastane opačný prípad – uhlovo omnoho menšie teleso sa dočasne skryje za kotúčom väčšieho telesa – hovoríme o zákryte.
+Pojem prechod môže mať v astronómii aj druhý význam. O prechode hovoríme, keď nebeské teleso prechádza cez meridián kvôli rotácii Zeme, približne v polceste medzi východom a západom. Príkladom je prechod Slnka cez meridián cez slnečné poludnie. Pozorovanie meridiánových prechodov bolo kedysi veľmi dôležité pri určovaní času.
+Aby došlo k prechodu, musí byť pozorovateľ v jednej priamke s prechádzajúcim telesom aj s telesom, na ktoré sa prechádzajúce teleso premieta. Dôležité je, aby sa pozorovateľ nenachádzal v úplnom tieni  prechádzajúceho telesa, ale až za ním. V prípade, že sa pozorovateľ nachádza v umbre, ide o zatmenie. Prechádzať môžu len telesá, ktoré sú od pozorovateľa dostatočne vzdialené a/alebo dostatočne malé na to, aby sa dokázali premietnuť na plochu vzdialenejšieho, ale väčšieho telesa. Pri pohľade zo Zeme spĺňajú tieto podmienky planéty Merkúr a Venuša, ktoré ako jediné môžu prechádzať popred slnečný disk. Ich prechody sú pomerne vzácne udalosti, ktoré bývajú sledované najmä amatérskymi astronómami po celom svete. Merkúr a Venuša sú pri prechode popred Slnko vždy otočené k Zemi svojou neosvetlenou stranou. Možno povedať, že sa nachádzajú vo fáze novu. 
+Ostatné planéty sa z pohľadu Zeme nikdy nedostanú pred Slnko a tak cez jeho disk ani nemôžu prechádzať, poskytujú však dostatočnú plochu na to, aby pred nimi prechádzali ich mesiace. Vzácne môže nastať aj prechod jedného mesiaca planéty pred druhým, v tomto prípade však pri pozorovaní zo Zeme ide skôr o zákryt. 
+Mesačný kotúč má približne rovnakú uhlovú veľkosť ako Slnko. Pred ním, rovnako ako aj pred slnečným kotúčom, môžu prechádzať umelé družice Zeme. 
+Najväčší vedecký význam majú v súčasnosti prechody exoplanét popred disky ich materských hviezd. Počas prechodov jasnosť materskej hviezdy nepatrne periodicky klesá. Takéto pozorovania môžu viesť k objavu novej exoplanéty. 
+Nielen exoplanéty, ale aj hviezdy v dvojhviezdnom a viacnásobnom hviezdnom systéme, môžu z nášho pohľadu prechádzať jedna pred druhou. Uhlové veľkosti hviezd sú však väčšinou navzájom porovnateľné, takže prechod zložky viacnásobnej hviezdy je skôr zatmením .
+Pri každom prechode rozoznávame štyri fázy: Prvý kontakt je okamih, kedy sa menšie  teleso z vonkajšej strany zdanlivo dotkne kotúča väčšieho telesa. Menšie teleso sa postupne presúva pred disk väčšieho telesa. Vo chvíli, keď sa disku väčšieho telesa dotýka už len v jedinom bode, nastáva druhý kontakt. Tretí kontakt je opakom druhého kontaktu. Teleso sa opäť dotýka disku väčšieho telesa z vnútornej strany, ale už nie vo fáze vstupu, ale výstupu. Štvrtý kontakt nastáva, keď sa menšie teleso disku väčšieho telesa dotýka z vonkajšej strany. Týmto okamihom prechod končí. Pokiaľ ide o prechod popred slnečný disk, menšie teleso sa po štvrtom kontakte spravidla stáva nepozorovateľným na taký dlhý čas, kým sa úzky osvetlený kosáčik dostatočne telesa nerozšíri a zároveň sa teleso dostatočne uhlovo nevzdiali od Slnka.
+Medzi druhým a tretím kontaktom nastáva okamih konjunkcie oboch telies. V prípade prechodu Merkúra a Venuše sa táto konjunkcia nazýva dolná konjunkcia.
+Jadro Slnka   
+Oblasť žiarivej rovnováhy   
+Styčná vrstva   
+Konvektívna zóna
+Fotosféra   
+Chromosféra   
+Prechodová oblasť   
+Koróna
+Slnečná konštanta   
+Slnečný vietor   
+Heliosféra   
+Heliopauza   
+Rázová vlna
+Slnečné škvrny   
+Fakuly   
+Flokuly   
+Fibrily   
+Granulácia   
+Obrie cely   
+Spikuly   
+Protuberancie   
+Slnečné erupcie   
+Koronálne diery   
+Aktívne oblasti   
+Oblasť M   
+Koronálna kondenzácia
+Zatmenie Slnka   
+Astronomický prechod   
+Bishopov prstenec
+Slnečná sústava   
+Pohyb Slnka   
+Slnečné dynamo   
+Slnečné spektrum   
+Slnečná aktivita   
+Slnečná radiácia   
+Rádiová búrka   
+Magnetická búrka

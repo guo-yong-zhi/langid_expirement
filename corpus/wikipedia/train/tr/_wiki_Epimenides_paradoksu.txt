@@ -1,0 +1,3 @@
+Epimenides paradoksu mantıktaki bir sorundur. Bu sorun Giritli filozof Knossoslu Epimenides'in ardından adlandırılmıştır. Filozof şöyle demiştir: Κρῆτες ἀεί ψεύσται, "Giritliler, her zaman yalancıdır". Problemin bir başka sürümü de Douglas R. Hofstadter'in Gödel, Escher, Bach: Bir Ebedi Gökçe Belik isimli eserinde bulunur:
+Epimenides'in bu ifadesi Epimenides paradoksu olarak adlandırılır. Zaman zaman Yalancı paradoksu veya Giritli paradoksu olarak da anılmıştır.
+Paradoks şuradan kaynaklanmaktadır: 

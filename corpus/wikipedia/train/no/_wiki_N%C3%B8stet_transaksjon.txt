@@ -1,0 +1,2 @@
+En nøstet transaksjon er en databasetransaksjon som blir startet som en instruksjon innenfor rammene av en allerede startet transaksjon.
+Nøstede transaksjoner er implementert forskjellig i forskjellige databaser. De har til felles at en forandring ikke blir gjort synlig for noen andre urelaterte transaksjoner før den ytterste transaksjonen har blitt foretatt. Dette betyr at en fullførelse i en indre transaksjon ikke nødvendigvis gir oppdateringer av databasen.

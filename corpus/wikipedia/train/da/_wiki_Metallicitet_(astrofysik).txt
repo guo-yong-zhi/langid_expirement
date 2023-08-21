@@ -1,0 +1,114 @@
+Metallicitet bruges indenfor astrofysik-grenen af astronomi til at beskrive den andel af en masse  som består af andre  grundstoffer end Hydrogen  og Helium. Indenfor astronomi bruges betegnelsen "metal" som et samlebegreb for alle atomer med atomnummer større end 2, dvs. atomvægt højere end 4, nemlig de stoffer, som er dannet efter Big Bang.  1 
+Udtrykket metallicitet har, som så mange andre astrofysiske navne på fænomener, sin oprindelse fra det tidspunkt, hvor den blev opdaget, og før man havde sikker viden om, hvad metalliciteten egentlig var forårsaget af.
+Man havde observeret linjer i Solens spektrum, havde identificeret brint og et grundstof, som havde visse spektrale ligheder med brint , og desuden indeholdt solspektret linjer af "noget andet" i små mængder . Dette "noget andet" fik så navnet "metal", fordi man havde identificeret nogle få linjer af metal, desuden havde en ret sikker forestilling om, at det øvrige "noget andet" også måtte være tungere grundstoffer og derfor gættede på nogle af de, som er ofte forekommende på Jorden, nemlig metaller.
+Metallicitet i astrofysisk forstand er alle grundstoffer med atomvægte større end helium . Indenfor astrofysik tælles fx Kulstof  med blandt metallerne, selv om det ikke er et metal i traditionel kemisk/fysisk forstand.
+Ubestemtheden udtrykt med "eller evt. lithium" skyldes, at nogle astrofysikere skelner mellem de grundstoffer, som blev dannet under Big Bang, nemlig ca. 0,765  brint betegnet X, heraf en meget lille andel "tung brint", også kaldet Deuterium, betegnet X3, ca. 0,235  helium betegnet Y og minimale mængder lithium, ca. 0,0000000001 = 0,00000001% . De indbyrdes forhold er regnet i forhold til masse, ikke i forhold til antal atomer. De fleste astrofysikere henholder sig derimod til, at de allerældste stjerner var så rene brint- og heliumstjerner, at man bør drage skellet på den ene side mellem stjerner af 'brint+helium' og på den anden side stjerner dannet af 'brint+helium+noget andet'. Dette "noget andet" betegnes Z.
+Omkring 300.000 år efter universets dannelse var det således sammensat af 0,765 X + 0,235 Y + 0,0000000001 Z . Summen af X + Y + Z er altid 1,000.
+Udtrykket metallicitet har en vis forbindelse til egentlige metaller – specielt jern – både fordi disse har atomvægte større end helium og desuden fordi man oftest angiver metalliciteten ved at måle forholdet mellem en stjernes indhold af jern og brint.
+De tunge grundstoffer, "metallerne", er uden undtagelse dannet under kernereaktioner i stjerners kerne eller i supernovaeksplosioner.
+I forholdsvise lette stjerner som Solen dannes grundstoffer indtil ilt . Tungere grundstoffer indtil jern  dannes i mere massive stjerner. Alle grundstoffer tungere end jern dannes af de atomare reaktioner under og efter en supernovaeksplosion. Hovedparten af "jernmetallerne"  stammer fra supernovaer af type Ia, dertil en mindre andel fra supernovatyperne Ib, Ic og II, hvoraf II er hovedlevandør af grundstoffer med atomvægte større end jernmetallerne.
+Når stjerner med masser mellem 0,8 og ca. 9 solmasser slynger deres atmosfærer ud, nemlig under den udviklingsfase, hvor de skifter fra at være røde kæmpestjerner til at være hvide dværge, beriges gas- og støvskyerne i det interstellare medium  med tunge grundstoffer, og det samme sker i en supernovaeksplosion, blot i langt større mængder. Nye stjerner indeholder derfor en stadig voksende andel af "metaller", de alleryngste stjerner, som oftest betegnes 4. generation har ved deres dannelse ca. dobbelt så stort "metal"indhold som Solen, som er en stjerne af 3. generation. Nogle af dem, de som er dannet i meget berigede skyer i ISM , har op til tre gange så stor metallicitet som Solen.
+De tidligst dannede stjerner indeholdt ingen metaller, de havde derfor en metallicitet på 0, også kaldet Z=0. I løbet af de følgende ca. 9 milliarder år øgedes "metal"indholdet i ISM indtil det havde nået en værdi af ca. 0,02  på det tidspunkt vor egen lokale stjerne, Solen, dannedes. I de ca. 4,6 milliarder år, der er gået siden da, er ISMs "metal"indhold vokset til ca. 0,04 ; i visse tilfælde helt op til ca. 0,06 .
+Solens metallicitet er ca. 0,02  beregnet efter masse . Det er mest almindeligt at angive metalliciteten som log10, dvs. titals-logaritmen af forholdet mellem en stjernes indhold af jern  og brint  sat i forhold til Solens indhold af de samme grundstoffer. Adskillige andre grundstoffer, som ikke er metaller i kemisk forstand, findes i langt større mængder end jern, men netop jern har nogle meget karakteristiske linjer i den visuelle del af spektret, og er derfor et af de nemmeste grundstoffer at måle.
+Den generelle formel for en stjernes metallicitet i forhold til Solens er:
+hvor symb erstattes af det kemiske symbol for et bestemt grundstof, 
+  
+    
+      
+        
+          N
+          
+            
+              s
+              y
+              m
+              b
+            
+          
+        
+      
+    
+     }}
+  
+ og 
+  
+    
+      
+        
+          N
+          
+            
+              H
+            
+          
+        
+      
+    
+     }}
+  
+ er antallet af atomer af et grundstof hhv. af brint  pr. rumfangsenhed og tegnet ≡ betyder "defineret som".
+Formlen specielt for jern :
+hvor 
+  
+    
+      
+        
+          N
+          
+            
+              F
+              e
+            
+          
+        
+      
+    
+     }}
+  
+ og 
+  
+    
+      
+        
+          N
+          
+            
+              H
+            
+          
+        
+      
+    
+     }}
+  
+ er massen af de af jern- hhv. brintatomer pr. rumfangsenhed, som man måler.
+Metalliciteten beregnet på denne måde er et indeks 2 , hvor Solens metallicitet har værdien 0,0. Stjerner med lavere metallicitet end Solen får en negativ værdi hvorimod stjerner med højere metallicitet får en positiv værdi. Eftersom formlen benytter titals-logaritmer, angiver fx værdien +2, at stjernen har 102 = 100 gange så stor metallicitet som Solen, mens værdien -1 viser, at stjernen har en forholdsvis metallicitet på 10-1 = 1/10 af Solens.
+De ældste Pop. III stjerner  menes at have et index på ca. -6 , Pop. II stjerner har et index tæt på 0,0 og de yngste Pop. I stjerner  har index på typisk +0,3 til +0,4 og for helt nydannede og ekstremt metalrige stjerner, helt op til +0,6 eller ca. fire gange Solens. I vor egen Mælkevejsgalakse har vi observeret stjerner med index fra -5,4 til +0,6.
+En lignende metode, baseret på kombinationer af den generelle formel, benyttes til at beregne det indbyrdes forhold mellem grundstoffer i en stjerne, igen udtrykt i forhold til Solens indhold af de samme grundstoffer, herunder fx en stjernes forhold mellem kulstof  og kvælstof , repræsenteret af udtrykket 
+  
+    
+      
+        
+      
+    
+    
+  
+.
+Grundlaget for ovenstående formel er, at hvis et rumfang gas er fortyndet med ren brint, vil dens forhold  formindskes, eftersom der er færre kulstofatomer for hvert brintatom efter fortyndingen, men mellem alle andre grundstoffer x, forbliver forholdet  uændret. Hvis derimod et rumfang gas indeholder en eller anden mængde rent kulstof, vil dens forhold mellem jern og brint  være uændret, mens gassens forhold mellem kulstof og jern  vil være forøget.
+En stjernenukleosyntese ændrer for det meste kun den forholdsvise mængde mellem nogle få grundstoffer eller isotoper, så en ændring af forholdet mellem disse er oftest en indikator for en bestemt kernereaktion.
+Vi kan anlægge 2 forskellige betragtninger over væksten i ISMs metallicitet:
+Betragtning 1. De ældste observerede stjerner har en metallicitet på 0,0002 . Vækstraten i metallicitet var dermed 100  i løbet af de ca. 9 milliarder år, der gik inden Solen blev dannet og kun 2  i løbet af de ca. 4,6 milliarder år, der er gået siden Solens fødsel, altså et meget stort fald i vækstrate. Vækstraten var høj i universets ungdom, men er faldet betragteligt siden.
+Årsagen til den høje vækstrate i det tidlige, helt unge, univers er, at det udelukkende bestod af "metal"fri gasskyer, hvoraf en meget stor andel efterhånden er medgået til dannelse af stjerner. Megen gas betyder dannelse af mange, meget massive stjerner, som ender i core collapse-  supernovaer, hvilket medfører en høj vækstrate.
+Efter at langt over halvdelen af gasserne er forbrugt på denne måde, sker en stadig større andel af "metal"berigelsen af ISM ved at mindre massive stjerner, som omtalt ovenfor, slynger deres atmosfærer ud  i en stadig mindskende gasmængde, som allerede har stor metallicitet, dette medfører en lav vækstrate i det ældre univers.
+Betragtning 2. Væksten i absolut metallicitet var kun 0,018 , nemlig 0,0002 til 0,02, i løbet af de første ca. 9 milliarder år, men 0,02 , nemlig 0,02 til 0,04, dvs. en fordobling, i løbet af de næste kun ca. 4,6 milliarder år. Den absolutte vækst var lav i universets ungdom og er steget betragteligt siden.
+Årsagen til den høje absolutte vækst i det yngste  univers er, at flere og flere af de stjerner, som ender som supernovaer, selv er startet med en stadigt højere metallicitet og at det samme gælder de stjerner, som bidrager til ISM ved at udstøde store dele af deres atmosfære i løbet af deres periode som røde kæmpestjerner.
+Til trods for, at Solen kun indeholder ca. 2% grundstoffer med atomvægte større end helium, er den absolutte masse af disse beskedne 2% langt større end alle tunge grundstoffer i resten af solsystemet, planeter, måner, Oorts sky, asteroider, kometer, osv.
+Vi mennesker er selv et resultat af metalliciteten, og det er en fascinerende tanke, at store dele af vor krop engang er dannet i en stjerne eller en supernovaeksplosion. Alt guld er fx dannet i en supernovaeksplosion – ringen på din finger stammer fra en "core collapse" supernova af en af typerne Ib, Ic eller II.
+Det er værd at bemærke, at overgangen fra Z=0 til Z=0,6 er glidende. Væksten begyndte, da den første supernova eksploderede og fortsætter, så længe der dannes stjerner, der ender som supernovaer.
+Metalfattige stjerner
+De metalfattige 2. generations-/population II-stjerner i og omkring vor Mælkevejsgalakse findes hovedsagelig i kuglehobene i dens halo eller som frie stjerner i haloen og endvidere i Mælkevejens kerne . En vis andel af stjernerne i den såkaldte "tykke skive" er også ret metalfattige, med metalindex  helt ned til -2,2. I kuglehoben 47 tuc i Peberfuglen er metalindexet  = -0,67, mens det i Messier 92 i Herkules er -2,0.
+Desuden er stjernene i de to nære dværggalakser, den Store  og den Lille Magellanske Sky , ret metalfattige. LMC har Z≈0,006  og SMC≈0,002 . Af denne årsag ser stjernerne i disse to dværggalakser ud til at være mere blå end Mælkevejens stjerner af 3.generation/population I, fordi metalfattige stjerners atmosfærer er mere gennemsigtige end metalrige stjerners, og vi derfor ser ind til dybereliggende og dermed varmere lag i stjernerne i SMC og LMC.
+Metalrige stjerner
+De mere metalrige 3.generation/population I stjerner findes i vor galakse næsten udelukkende i dens "tynde skive" . I den tykke skive er metalindexet  fra -2,2 til -0,5. I den tynde skive er indexet fra -0,5 til  +0,3; kun her finder man de helt unge og meget metalrige 4. generationsstjerner med index helt op til +0,6.
+Carroll, Bradley W. & Ostlie, Dale A.: "Modern Astrophysics", Pearson Education Inc., 2006/2007, ISBN 0-321-44284-9 
+Prialnik, Dina : Stellar Structure and Evolution, Cambridge University Press, 2006 , ISBN 978-0-521-65937-6

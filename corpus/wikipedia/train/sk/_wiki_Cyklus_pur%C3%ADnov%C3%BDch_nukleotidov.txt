@@ -1,0 +1,10 @@
+Cyklus purínových nukleotidov je metabolická dráha, v ktorej sa tvorí amoniak a fumarát  a inozínmonofosfát  za účelom regulácie koncentrácie adenínových nukleotidov a sprostredkovania uvoľnenia amoniaku z aminokyselín. 1  Ako prvý popísal túto dráhu Lowenstein a zároveň ukázal jej dôležitosť v procesoch ako sú katabolizmus aminokyselín a regulácia toku v glykolýze a citrátovom cykle. 1  2  3 
+Cyklus je zložený z troch reakcií katalyzovaných enzýmami. V prvom kroku sa deaminuje purínový nukleotid adenozínmonofosfát  za vzniku inozínmonofosfátu , čo katalyzuje enzým AMP deamináza:
+V druhom kroku vzniká adenylosukcinát z IMP a aminokyseliny aspartátu, čo je spojené s energeticky výhodnou hydrolýzou GTP. Túto reakciu katalyzuje enzým adenylosukcinátsyntáza:
+Nakoniec sa adenylosukcinát štiepi na fumarát za obnovenia AMP. Reakciu katalyzuje adenylosukcinátlyáza:
+Nedávna štúdia ukázala, že aktivácia HIF-1α umožňuje kardiomyocytom udržať mitochondriálny membránový potenciál počas anoxického stresu využitím fumarátu tvoreného adenylosukcinátlyázou ako alternatívneho akceptoru elektrónov namiesto kyslíku. Tento mechanizmus by mohol poskytnúť ochranu pred ischemickou srdcovou chorobou. 4 
+Tento cyklus prebieha v cytozolickej časti myocytov kostrových svalov. Táto reakcia pomáha zbaviť sa AMP produkovaného nasledujúcimi reakciami:
+Cyklus purínových nukleotidov prebieha pri namáhavom cvičení, postení alebo hladovaní, keď sa znižujú zásoby ATP.
+Fumarát je intermediát citrátového cyklu a vstupuje do mitochondrie po konverzii na malát a využití malátového člnku. V mitochondrii sa premieňa na oxalacetát, ktorý potom vstupuje do citrátového cyklu alebo sa premieňa na aspartát priamo v mitochondrii. Aspartát môže znovu vstúpiť do cyklu purínových nukleotidov.
+Glutamát reaguje s amoniakom, vďaka čomu sa z neho stáva glutamín. Ten vstupuje do krvného riečišťa a dostáva sa do obličiek. V obličkách sa glutamín dvakrát deaminuje za vzniku glutamátu a potom α-ketoglutarátu. Tieto molekuly amoniaku neutralizujú organické kyseliny  produkované v svaloch.
+Tento článok je čiastočný alebo úplný preklad článku Purine nucleotide cycle na anglickej Wikipédii.

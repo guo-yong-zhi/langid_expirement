@@ -1,0 +1,5 @@
+Protónové číslo alebo staršie atómové číslo 1  je poradové číslo chemického prvku v periodickej tabuľke, ktoré vyjadruje počet protónov  v jadre atómu. Súčasne sa rovná počtu elektrónov v obale neutrálneho atómu. Protónové číslo je označované písmenom Z. 2 
+Protónové číslo sa zapisuje vľavo dole pred značku prvku, napríklad 92U .
+Pôvodne protónové číslo označovalo hlavne polohu prvku v periodickej tabuľke. Ak by sa tabuľka zoradila podľa atómovej hmotnosti prvkov, niektoré prvky by sa dostali na zlé miesto . Čísla, ktoré udávajú poradie zodpovedajúce chemickým vlastnostiam, sú práve protónové čísla.
+V roku 1913 Henry Moseley objavil závislosť umiestnenia prvku v periodickej tabuľke na jeho röntgenovo-difrakčnom spektre. Neskôr sa zistilo, že atómové číslo závisí na elektrickom náboji jadra . A práve tento náboj určuje chemické vlastnosti prvkov.
+S atómovým číslom súvisí nukleónové číslo, ktoré udáva celkový počet protónov a neutrónov v atómovom jadre. Nukleónové číslo určuje konktrétny izotop.

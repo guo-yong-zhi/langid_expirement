@@ -1,0 +1,105 @@
+Rungeho jav je v numerickej matematike názov pre problém, ktorý vzniká pri interpolácii polynómom vyššieho stupňa. Je pomenovaný po Carlovi Davidovi Tolméovi Rungeovi, ktorý ho objavil, keď skúmal chybu polynomiálnej interpolácie istej triedy funkcií, dnes známych ako Rungeho funkcie. Tento jav je podobný Gibbsovmu javu pri Fourierových radoch.
+Uvažujme funkciu:
+Runge objavil, že pokiaľ sa táto funkcia  interpoluje na intervale 
+  
+    
+      
+        <
+         
+        1
+        ;
+        1
+        >
+      
+    
+    
+  
+ pomocou ekvidištančných uzlov 
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    }
+  
+, teda
+polynómom Pn stupňa n, výsledná interpolačná krivka v okolí krajov intervalu  silne osciluje . Dá sa dokázať, že chyba interpolácie speje s rastúcim stupňom polynómu do nekonečna, teda platí:
+Na druhej strane však Weierstrassova veta o aproximácii hovorí, že existuje postupnosť aproximujúcich polynómov, pre ktoré sa chyba limitne blíži k nule. Z toho vyplýva, že polynómy vysokého stupňa nemusia byť pri použití ekvidištančných uzlov optimálnym riešením.
+Jeden zo základných poznatkov teórie interpolácie je, že chyba interpolačného polynómu rádu N je daná vzorcom
+pre nejaké 
+  
+    
+      
+         
+      
+    
+    
+  
+ z intervalu .
+Pre Rungeho funkciu
+majú prvé dve derivácie hodnoty:
+Absolútne hodnoty derivácií vyšších rádov môžu byť ešte väčšie. Z toho vyplýva, že sa zvyšuje aj horná hranica chyby interpolácie medzi interpolačnými uzlami.
+Oscilácia interpolačného polynómu môže byť zmiernená, pokiaľ budú mať interpolačné uzly väčšiu hustotu v krajných častiach intervalu. Konkrétne, na intervale  možno vybrať uzly s asymptotickou hustotou danou vzorcom 
+  
+    
+      
+        1
+        
+          /
+        
+        
+          
+            1
+             
+            
+              x
+              
+                2
+              
+            
+          
+        
+      
+    
+    }}}
+  
+. Štandardným príkladom množiny interpolačných uzlov spĺňajúcich túto vlastnosť sú tzv. Čebyšovove uzly, pre ktoré je zaručené, že maximálna chyba sa s rastúcim stupňom polynómu zmenšuje. Rungeho jav je teda dôkazom, že ekvidištančné uzly sú pre polynómy vyššieho stupňa nevhodné. Problém ale môže byť odstránený použitím splajnových kriviek, teda kriviek, ktoré sú po častiach polynomiálne. Pri splajnových krivkách sa dá chyba zmenšiť jednoducho zväčšením počtu deliacich bodov, a teda nie je potrebné zvyšovať stupeň polynómu.
+Ďalšou použiteľnou metódou je interpolácia polynómom nižšieho rádu pomocou metódy najmenších štvorcov. Vo všeobecnosti, pri použití m ekvidištančných uzlov pre interpoláciu polynómom stupňa N, ak 
+  
+    
+      
+        N
+        <
+        2
+        
+          
+            m
+          
+        
+      
+    
+    }}
+  
+, tak výsledný interpolačný polynóm 
+  
+    
+      
+        
+          P
+          
+            N
+          
+        
+        
+      
+    
+    }
+  
+ má dobré vlastnosti.
+Tento článok je čiastočný alebo úplný preklad článku Runge's phenomenon na anglickej Wikipédii.

@@ -1,0 +1,3 @@
+Tetraphenylphosphonium chloride.c1cc4ccccc4InChI=1S/C24H20P.ClH/c1-5-13-212524-19-11-4-12-20-24;/h1-20H;1H/q+1;/p-1 YKey: WAGFXJQAIZNSEQ-UHFFFAOYSA-M YInChI=1S/C24H20P.ClH/c1-5-13-212524-19-11-4-12-20-24;/h1-20H;1H/q+1;/p-1Key: WAGFXJQAIZNSEQ-REWHXWOFAO 
+تترافنیل‌فسفونیم کلرید  با فرمول شیمیایی C۲۴H۲۰ClP یک ترکیب شیمیایی با شناسه پاب‌کم ۱۶۴۹۱۱ است. که جرم مولی آن ۳۷۴٫۸۴ g/mol می‌باشد. شکل ظاهری این ترکیب، جامد بی‌رنگ است.
+این یک مقالهٔ خرد  شیمی است. می‌توانید با گسترش آن به ویکی‌پدیا کمک کنید.

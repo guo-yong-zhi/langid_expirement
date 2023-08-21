@@ -1,0 +1,7 @@
+ISO 3166-2:KW – kody ISO 3166-2 dla podjednostek administracyjnych Kuwejtu.
+Kody ISO 3166-2 to część standardu ISO 3166 publikowanego przez Międzynarodową Organizację Normalizacyjną. Kody te są przypisywane głównym jednostkom podziału administracyjnego, takim jak np. województwa czy stany, każdego kraju posiadającego kod w standardzie ISO 3166-1.
+Aktualnie  dla Kuwejtu zdefiniowano kody dla 6 muhafaz.
+Pierwsza część oznaczenia to kod Kuwejtu zgodnie z ISO 3166-1, natomiast druga część oznaczenia znajdująca się po myślniku to dwuliterowy kod jednostki administracyjnej.
+Część 1: Kody państw
+Część 2: Kody jednostek administracyjnych
+Część 3: kody poprzednio używanych nazw państw

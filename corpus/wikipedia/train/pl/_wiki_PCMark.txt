@@ -1,0 +1,1 @@
+PCMark - rodzina benchmarków firmy Futuremark służąca do sprawdzania ogólnej wydajności komputera - prędkości procesora, prędkości odczytu/zapisu pamięci RAM i dysku twardego.

@@ -1,0 +1,18 @@
+Pendu per longa, fleksebla ŝnuro plumban globeton. Tiel estiĝas pendolo. la ŝnuro estas la tigo de pendolo. Movu la globeton el sia ripoza pozicio tiel, ke la ŝnuro dume restu ĉiam fleksite. Lasinte la globeton ĝi movados laŭ pendola movo. Difinu la grandon de la returnanta forto! 
+Se la devio x estas sufiĉe malgranda , la longo de kordo inter la punktoj DA per bona alproksimigo egalas kun la x devio. Se la ŝnuro estas sufiĉe longa, la distanco OA1 alproksimiĝante egalas kun la longo l de la ŝnuro. La punkto A1 estas perpendikulara projekcio de punkto A al vertikala tigo de pendolo.
+Kiaj fortoj efikas sur la globeton en la punkto A ? Pro sia maso de la plumba globeto volas tiri ĝin la gravita forto G. Ĉar la ŝnuro estas ĉiam streĉita, t. e. ĝi estas ĉiam rekta, oni povas dividi la forton G al komponentoj centrifuga forto C, kaj tanĝanta forto T.
+Laŭ la similaj trianguloj oni povas skribi la rilaton:
+De tie:
+kaj
+Ĝi similas al la ekvacio dekondukita ĉe la simpla vibra movo. Tio estas, la risorta konstanto konvenas al la rilato G/l de la pendola movo: 
+La maso estas la frakcio de gravita forto G kaj la gravita akcelo g:
+Se oni ilin anstataŭigas en la ekvacioj de vibra movo, ricevas la tempon de la tuta periodo:
+  
+    
+      
+    
+    
+  
+Ĉe la pendola movo oni ne mezuras la tutan periodon sed nur la tempon de unu pendo:
+Videblas, ke la pendola tempo de matematika pendolo ne dependas de io, ol de la longo de pendolo. Tiel la pendola movo uzeblas mezuri la tempon  kaj difini la graviton. Laŭ ĉi tiu principo funkcias la fama pendolo de Lóránd Eötvös . 
+Memkompreneble, la dekondukitaj ekvacioj estus komplete validaj, se ni povus  plenumi la komencajn kondiĉojn. La realaj, praktikaj pendoloj nomiĝas fizikaj pendoloj. Al ties kalkulo oni enkondukis la tiel nomitan reduktitan longon. La reduktita longo estas la longo de tiu matematika pendolo, kies pendola tempo egalas kun la reala pendola tempo de konkreta, fizika pendolo.

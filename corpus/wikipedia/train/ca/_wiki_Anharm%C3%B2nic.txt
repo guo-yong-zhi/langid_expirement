@@ -1,0 +1,161 @@
+En física, l'anharmonicitat és la desviació d'un sistema respecte a un oscil·lador harmònic. Un oscil·lador que no és harmònic es coneix com un oscil·lador anharmònic, i normalment es pot aproximar com un oscil·lador harmònic i l'anharmonicitat es pot calcular usant la teoria de pertorbacions. Si l'anharmonicitat és gran, aleshores la teoria de pertorbacions no és vàlida i s'han d'usar altres mètodes.
+Com a resultat de l'anharmonicitat, apareixen oscil·lacions amb freqüències 
+  
+    
+      
+        2
+         
+        ,
+        3
+         
+        ,
+      
+    
+    
+  
+ ..., on 
+  
+     
+    \omega
+  
+ és la freqüència fonamental de l'oscil·lador. A més, la freqüència 
+  
+     
+    \omega
+  
+ és diferent de la freqüència 
+  
+    
+      
+        
+           
+          
+            0
+          
+        
+      
+    
+    }
+  
+ de les oscil·lacions harmòniques. Com a primera aproximació, el canvi de freqüència 
+  
+    
+      
+         
+         
+        =
+         
+         
+        
+           
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Delta \omega =\omega -\omega _
+  
+ és proporcional al quadrat de l'amplada d'oscil·lació 
+  
+    A
+    A
+  
+:
+A un sistema d'oscil·ladors amb freqüències naturals 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+        ,
+        
+           
+          
+             
+          
+        
+        ,
+      
+    
+    ,\omega _
+  
+ ..., l'anharmonicitat porta a oscil·lacions addicionals amb freqüències 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+         
+        
+           
+          
+             
+          
+        
+        .
+      
+    
+    \pm \omega _
+  
+L'anharmonicitat també modifica la corba de ressonància, portant a fenòmens com la ressonància superharmònica.
+L'oscil·lador harmònic és un sistema ideal que oscil·la amb una sola freqüència independentment de l'energia que s'injecti al sistema. Com a conseqüència d'aquest fet, la freqüència fonamental de l'oscil·lador harmònic és independent de l'amplada de les vibracions. Les aplicacions de l'oscil·lador harmònic són abundants, però segurament la més coneguda i estudiada és la llei de Hooke per a una molla i una massa. En un sistema que obeeix la llei de Hooke, la força exercida sobre la massa és proporcional al desplaçament de la massa respecte al seu punt d'equilibri. Aquesta relació lineal entre força i desplaçament porta que la freqüència d'oscil·lació de la massa sigui independent de l'amplada del desplaçament.
+A un oscil·lador anharmònic mecànic, la relació entre la força i el desplaçament no és lineal, sinó que depèn de l'amplada del desplaçament. La no linealitat apareix perquè la molla no és capaç d'exercir una força recuperadora que sigui proporcional al desplaçament, causat per exemple perquè el material que forma la molla es deforma. Com a resultat de la no linealitat les freqüències de vibració poden canviar en funció del desplaçament del sistema. Aquests canvis a les freqüències de vibració resulten en l'acoblament energètic entre la freqüència de vibració fonamental i altres freqüències, en un procés anomenat acoblament paramètric.
+Hi ha molts de sistemes al món físic que es poden descriure com a oscil·ladors anharmònics, a part del sistema de massa i molla no lineal. Per exemple, un àtom, que està format per un nucli amb càrrega elèctrica positiva envoltat per un núvol d'electrons carregat negativament, experimenta un desplaçament entre el centre de massa del nucli i el núvol electrònic quan hi ha un camp elèctric extern present. La magnitud del desplaçament, anomenada moment dipolar elèctric, està linealment relacionada al camp elèctric extern per a camps petits, però quan la magnitud del camp augmenta, la relació camp-dipol es torna no lineal, igual que al sistema mecànic.
+Altres exemples d'oscil·ladors anharmònics inclouen el pèndol d'angle gran, que exhibeix comportament caòtic com a resultat de l'anharmonicitat; semiconductors fora de l'equilibri que posseeixen una gran població de partícules conductores i que exhibeixen comportament no lineal de diversos tipus relacionat a la massa efectiva dels conductors; i també plasmes ionosfèrics que també exhibeixen comportaments no lineals deguts a l'anharmonicitat del plasma. De fet, virtualment tots els oscil·ladors tornen anharmònics quan la seva amplada supera algun límit, i com a resultat és necessari usar equacions no lineals per descriure el seu moviment.
+L'anharmonicitat també té un paper important a les vibracions estructurals dels sòlids i les molècules, a les vibracions quàntiques , "The Effect of Anharmonicity on Diatomic Vibration: A Spreadsheet Simulation", J. Chem. Educ. 82 , i a l'acustica. Els àtoms d'una molècula o d'un sòlid vibren repecte al seu punt d'equilibri. Quan aquestes vibracions tenen amplades petites es poden descriure amb oscil·ladors harmònics. En canvi, quan les vibracions tenen amplades majors, per exemple a altes temperatures, l'anharmonicitat resulta important. Un exemple dels efectes de l'anharmonicitat és la dilatació tèrmica dels sòlids, que normalment s'estudia usant l'aproximació quasi-harmònica. Estudiar sistemes anharmònics usant mecànica quàntica és una tasca complicada perquè l'anharmonicitat complica els potencials que cada oscil·lador experimenta i perquè els diferents oscil·ladors interaccionen entre si. És possible usar mètodes com la teoria del funcional de la densitat per calcular el potencial anharmònic que els àtoms experimenten tant en molècules 1  com en sòlids. 2 
+Considerem un pou de potencial 
+  
+    
+      
+        U
+        
+      
+    
+    
+  
+. Assumint que la corba 
+  
+    
+      
+        U
+        =
+        U
+        
+      
+    
+    
+  
+ és simètrica respecte a l'eix 
+  
+    
+      
+        U
+      
+    
+    
+  
+, la forma de la corba es pot determinar implícitament a partir del període 
+  
+    
+      
+        T
+        
+      
+    
+    
+  
+ de les oscil·lacions de les partícules amb energia 
+  
+    E
+    E
+  
+ usant la fórmula:

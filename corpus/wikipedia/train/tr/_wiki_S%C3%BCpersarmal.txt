@@ -1,0 +1,7 @@
+Süpersarmal, bir sarmalın kendisinin sarmal olarak sarılmış halidir. Süper sarımlı  bir sarmalın süpersarmal bölgelere sahip olur.
+Hem protein, hem nükleik asitlerin yapısında, örneğin aşırı burulmuş halkasal DNA'da, süpersarmal yapı görülür.
+Moleküler biyolojide süpersarmal teriminin ilk ayrıntılı kullanımı 1971'de F.B. Fuller tarafından olmuştur:
+Bağlantı sayısı adı verilen topolojik özellik, burulma ve burkulma adlı geometrik özelliklerinden ortaya çıkar.
+Lk= T+ W
+burada Lk bağlantı sayısı, W burkulma  ve T sargıdaki burulmadır .
+Bağlantı sayısı, bir ipliğin öbürü etrafında sarılma sayısı ile ilgilidir. Halkasal DNA'da bu özellik sabittir ve ancak topoizomeraz gibi özelleşmiş enzimler tarafından değiştirilebilir.

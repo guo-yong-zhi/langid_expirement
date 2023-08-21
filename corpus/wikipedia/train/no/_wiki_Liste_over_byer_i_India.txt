@@ -1,0 +1,2 @@
+Dette er en liste over byer i India, ordnet etter innbyggertall og alfabetisk.
+Hovedstedene i delstatene er markert med en asterisk .

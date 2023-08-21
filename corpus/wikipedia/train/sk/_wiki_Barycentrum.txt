@@ -1,0 +1,8 @@
+Barycentrum je v astronómii centrum hmoty dvoch alebo viacerých telies, ktoré sa obiehajú navzájom a je bodom, okolo ktorého tieto telesá obiehajú. Je to dôležitá koncepcia v oblastiach astronómie a astrofyziky. Vzdialenosť od stredu hmoty telesa k barycenteru sa môže vypočítať ako problém dvoch telies.
+Problém dvoch telies je úloha klasickej mechaniky, v ktorej je cieľom skúmať pohyb dvoch telies, ktoré navzájom interagujú. Príkladom môže byť obeh planét okolo Slnka.
+V prípade dvoch telies vzdialenosť r1 od ťažiska primárneho telesa  k barycenteru je daná:
+V nasledujúcej tabuľke sú uvedené niektoré príklady telies zo slnečnej sústavy. R1 je polomer centrálneho telesa, M⊕ hmotnosť Zeme.
+Ak chcete vypočítať barycentrum Slnečnej sústavy a skutočný pohyb Slnka, stačí zvážiť pohyby štyroch veľkých planét . Príspevky všetkých ostatných planét, trpasličích planét atď. sú zanedbateľné. Ak by štyri obrie planéty boli na rovnej línii na tej istej strane Slnka, centrum hmoty Slnečnej sústavy by ležalo o viac ako 810 000 km nad povrchom Slnka, teda okolo 1,17 násobku polomeru Slnka nad jeho povrchom. V prípade ak sa vplyvy planét vzájomne vykompenzujú, bude barycentrum ležať pri ťažisku Slnka.
+Barycentrum sústavy Zem-Mesiac; vzhľadom na pomer hmotností obidvoch telies  leží vnútri Zeme.
+Tento článok je čiastočný alebo úplný preklad článku Barycenter na anglickej Wikipédii.
+Tento článok alebo jeho časť obsahuje heslo z Encyklopédie astronómie s láskavým dovolením autorov a podporou SZA.

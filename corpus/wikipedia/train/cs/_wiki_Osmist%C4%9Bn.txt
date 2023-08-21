@@ -1,0 +1,35 @@
+Pravidelný osmistěn  je trojrozměrné těleso v prostoru, jehož stěny tvoří 8 stejných rovnostranných trojúhelníků. Má 6 rohů a 12 hran. Patří mezi mnohostěny, speciálně mezi takzvaná platónská tělesa.
+Osmistěn je zvláštní případ čtyřbokého dvojjehlanu.
+Výpočet pro výšku osmistěnu : 
+  
+    
+      
+        2
+         
+        
+          
+            
+              
+                
+                
+              
+              
+                2
+              
+            
+             
+            
+              
+                
+                
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    ^}}
+  

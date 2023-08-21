@@ -1,0 +1,29 @@
+4GC5, 4GC9
+• GO:0102674, GO:0102675 methyltransferase activity• transferase activity• DNA binding• rRNA methyltransferase activity• GO:0001948, GO:0016582 protein binding• rRNA -dimethyltransferase activity• RNA binding
+• мітохондріальний матрикс• mitochondrial nucleoid• мітохондрія
+• rRNA processing• Метилювання• mitochondrion organization• GO:0009373 regulation of transcription, DNA-templated• rRNA methylation• transcription, DNA-templated• rRNA modification
+TFB1M  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 6-ї хромосоми. 3  Довжина поліпептидного ланцюга білка становить 346 амінокислот, а молекулярна маса — 39 543 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функціями належить до трансфераз, метилтрансфераз. 
+Задіяний у таких біологічних процесах, як транскрипція, регуляція транскрипції, процесінг рРНК. 
+Білок має сайт для зв'язування з ДНК, РНК, S-аденозил-L-метіоніном. 
+Локалізований у мітохондрії.
+  Портал «Біологія»   Портал «Хімія»                       

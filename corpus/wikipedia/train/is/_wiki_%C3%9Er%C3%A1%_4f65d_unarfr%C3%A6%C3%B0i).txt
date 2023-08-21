@@ -1,0 +1,95 @@
+Þráður er, í tölvunarfræði, íslensk þýðing á orðinu thread á ensku sem er stytting á thread of execution. Þræðir eru leið fyrir forrit til þess að skipta niður vinnslu sinni í mörg minni verkefni, leysa þau öll „samtímis“ og spara með því tíma og/eða örgjörvavinnslu.
+Flestar PC-tölvur í dag hafa reyndar bara einn örgjörva svo þráðavinnsla þykist bara keyra mörg forrit á sama tíma, vinnslutíma örgjörvans er þess í stað skipt niður í smærri einingar. Þessi skipting er útfærð með verkröðun  þar sem örgjörvi skiptir  milli þráða. Þessi skipti gerast svo hratt að notanda finnst eins og öll þau forrit sem hann er að nota keyri á sama tíma. Í raun og veru skiptir örgjörvi svo ört á milli þráða að notandi tekur ekki eftir því.
+Þessi klasi býr til þráðinn „EinfaldurThradur“ þegar kallað er í hann úr keyrsluklasa hér að neðan.
+ public class EinfaldurThradur extends Thread
+    public void run
+    
+        }
+        System.out.println("Upp kom: " + getName);
+    }
+}
+ public class EinfaldurThradurKeyrsla
+}
+ Kast númer 1 Króna
+Kast númer 1 Skjaldarmerki
+Kast númer 2 Króna
+Kast númer 3 Króna
+Kast númer 2 Skjaldarmerki
+Kast númer 4 Króna
+Kast númer 3 Skjaldarmerki
+Kast númer 5 Króna
+Kast númer 4 Skjaldarmerki
+Kast númer 6 Króna
+Kast númer 5 Skjaldarmerki
+Kast númer 7 Króna
+Kast númer 6 Skjaldarmerki
+Kast númer 7 Skjaldarmerki
+Kast númer 8 Króna
+Kast númer 9 Króna
+Kast númer 8 Skjaldarmerki
+Upp kom: Króna
+Kast númer 9 Skjaldarmerki
+Upp kom: Skjaldarmerki
+ public class EinfaldurThradurKeyrsla2
+}
+ Kast númer 1 Ás
+Kast númer 1 Tvistur
+Kast númer 1 Þristur
+Kast númer 1 Fjarki
+Kast númer 1 Fimma
+Kast númer 1 Sexa
+Kast númer 2 Sexa
+Kast númer 2 Fjarki
+Kast númer 2 Tvistur
+Kast númer 2 Þristur
+Kast númer 2 Ás
+Kast númer 3 Þristur
+Kast númer 3 Sexa
+Kast númer 4 Þristur
+Kast númer 2 Fimma
+Kast númer 3 Fjarki
+Kast númer 4 Sexa
+Kast númer 3 Fimma
+Kast númer 3 Tvistur
+Kast númer 3 Ás
+Kast númer 4 Ás
+Kast númer 5 Þristur
+Kast númer 5 Sexa
+Kast númer 4 Fimma
+Kast númer 4 Fjarki
+Kast númer 5 Ás
+Kast númer 5 Fimma
+Kast númer 4 Tvistur
+Kast númer 6 Þristur
+Kast númer 5 Tvistur
+Kast númer 6 Ás
+Kast númer 6 Tvistur
+Kast númer 6 Fimma
+Kast númer 5 Fjarki
+Kast númer 6 Sexa
+Kast númer 7 Ás
+Kast númer 7 Fimma
+Kast númer 7 Þristur
+Kast númer 7 Tvistur
+Kast númer 7 Sexa
+Kast númer 8 Ás
+Kast númer 8 Fimma
+Kast númer 6 Fjarki
+Kast númer 8 Tvistur
+Kast númer 7 Fjarki
+Kast númer 9 Ás
+Kast númer 8 Þristur
+Kast númer 9 Fimma
+Kast númer 8 Fjarki
+Kast númer 9 Tvistur
+Kast númer 9 Þristur
+Kast númer 8 Sexa
+Upp kom: Tvistur
+Kast númer 9 Sexa
+Upp kom: Ás
+Kast númer 9 Fjarki
+Upp kom: Fimma
+Upp kom: Þristur
+Upp kom: Sexa
+Upp kom: Fjarki
+</pr

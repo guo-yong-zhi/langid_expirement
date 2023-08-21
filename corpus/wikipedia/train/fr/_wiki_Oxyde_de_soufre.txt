@@ -1,0 +1,16 @@
+Cet article ne cite pas suffisamment ses sources .
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+Les oxydes de soufre sont les différents types de composés contenant du soufre et de l'oxygène, et dont la structure suit la formule générale SxOy. Aujourd'hui on recense treize oxydes de soufre, les plus stables étant SO2 et SO3. Les composés S2O, S2O2, SO4 et SO sont entre autres instables. Ce dernier se décompose totalement en moins d'une seconde.
+SO2 et SO3 sont les oxydes présents à température ambiante. Ce sont des molécules très importantes dans l'industrie chimique : ce sont les précurseurs de l'acide sulfurique qui est le composé minéral le plus utilisé dans le monde. Ces oxydes sont aussi des polluants atmosphériques formés dans les installations de combustion, ils interviennent par exemple dans le phénomène des pluies acides ou dans la formation du smog dans les zones urbaines.
+SO est observé à haute température, il existe sous forme condensée à température ambiante et dimérise sous forme de S2O2.
+Les composés SnO  sont des monoxydes. Leur structure est basée sur le cycle Sn correspondant, l'atome d'oxygène est greffé sur le cycle.
+Ces composés sont orange/jaune foncé.
+Ce sont des solides cristallisés qui sont modérément solubles dans des solvants tels que le disulfure de carbone ou le dichlorométhane, les solutions sont instables à température ambiante et SnO se décompose principalement en SO2 et en soufre élémentaire.
+Ils peuvent être obtenus par oxydation de cyclo-Sn correspondant  par CF3CO2H . Les proportions de SnO obtenues restent faibles . Le monoxyde S5O n'a jamais été isolé par cette technique. S8O peut être obtenu par réaction de OSCl2 et H2S7 dans CS2 à −40 °C.
+SO2 est un gaz toxique incolore. Une concentration atmosphérique supérieure à 5 ppm devient très dangereuse pour l'Homme mais pour certaines plantes, celle-ci est nocive dès 1 ou 2 ppm.
+SO2 est obtenu commercialement par combustion de S, H2S ou par chauffage de FeS2. SO2 est également obtenu comme sous-produit indésirable lors de la combustion du charbon par exemple.
+La majeure partie de la production de SO2 est utilisée pour former de l'acide sulfurique par les réactions :
+SO2 intervient également dans la production des sulfites  et des dithionites . 
+Ses utilisations sont diverses : désinfectant, solvant, réfrigérant, etc.
+SO2 est également un très bon ligand. Il possède neuf modes de coordination.

@@ -1,0 +1,20 @@
+Malfermoj de la reĝa peono  estas ŝaka malfermo, kiu uzas la peonon super la reĝo. Ĝi inkluzivas multajn variaĵojn.
+1.e4
+1.e4 b6
+1.e4 f5
+1.e4 f6
+1.e4 a5
+1.e4 Ĉa6
+1.e4 h6
+1.e4 g5
+1.e4 a6
+1 - Malfermo de la centro:
+2 - Skota malfermo: 
+3 - Itala malfermo: 
+4 - Defensivo de la du ĉevaloj: 
+5 - Hispana malfermo: 
+6 - Malfermo de la kvar ĉevaloj: 
+7 - Defendo Philidor: 
+8 - Defendo Petroff: 
+9 - Kontraŭ-gambito greka: 
+10 - Kontraŭ-gambito de dama peono: 

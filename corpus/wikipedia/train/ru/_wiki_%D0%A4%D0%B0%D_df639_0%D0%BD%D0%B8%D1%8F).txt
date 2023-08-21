@@ -1,0 +1,472 @@
+Шаблон фасад  — структурный шаблон проектирования, позволяющий скрыть сложность системы путём сведения всех возможных внешних вызовов к одному объекту, делегирующему их соответствующим объектам системы.
+Как обеспечить унифицированный интерфейс с набором разрозненных реализаций или интерфейсов, например, с подсистемой, если нежелательно  сильное связывание с этой подсистемой или реализация подсистемы может измениться?
+Определить одну точку взаимодействия с подсистемой — фасадный объект, обеспечивающий общий интерфейс с подсистемой, и возложить на него обязанность по взаимодействию с её компонентами. Фасад — это внешний объект, обеспечивающий единственную точку входа для служб подсистемы. Реализация других компонентов подсистемы закрыта и не видна внешним компонентам. Фасадный объект обеспечивает реализацию GRASP паттерна Устойчивый к изменениям  с точки зрения защиты от изменений в реализации подсистемы.
+Шаблон применяется для установки некоторого рода политики по отношению к другой группе объектов. Если политика должна быть
+яркой и заметной, следует воспользоваться услугами шаблона Фасад. Если же необходимо обеспечить скрытность и аккуратность , более подходящим выбором является шаблон Заместитель .
+    #include     <iostream> 
+ #include     <string> 
+ #include     <memory> 
+ #include     <string_view> 
+ /** Абстрактный музыкант - не является обязательной составляющей паттерна, введен для упрощения кода */ 
+ class     Musician      
+       virtual     ~  Musician       =  default  ; 
+ protected  : 
+       void     output       ; 
+ /** Конкретные музыканты */ 
+ class     Vocalist  :     public     Musician      
+       void     singCouplet        
+ }; 
+ class     Guitarist  :     public     Musician      
+       void     playCoolOpening        
+       void     playAnotherCoolRiffs        
+       void     playFinalAccord       ; 
+ class     Bassist  :     public     Musician      
+       void     followTheDrums        
+       void     stopPlaying       ; 
+ class     Drummer  :     public     Musician      
+       void     startPlaying       { 
+           output  ; 
+       } 
+       void     stopPlaying       ; 
+ /** Фасад, в данном случае - знаменитая рок-группа */ 
+ class     BlackSabbath      
+      void     playCoolSong       ; 
+ int     main        
+ /** 
+  * OUTPUT: 
+  * Тони Айомми начинает с крутого вступления. 
+  * Билл Уорд начинает играть. 
+  * Гизер Батлер следует за барабанами. 
+  * Тони Айомми играет крутые риффы. 
+  * Оззи Осборн спел куплет №1. 
+  * Гизер Батлер перешел на ритм припевa. 
+  * Тони Айомми играет другие крутые риффы. 
+  * Оззи Осборн спел припев. 
+  * Гизер Батлер перешел на ритм куплетa. 
+  * Тони Айомми играет крутые риффы. 
+  * Оззи Осборн спел куплет №2. 
+  * Гизер Батлер перешел на ритм припевa. 
+  * Тони Айомми играет другие крутые риффы. 
+  * Оззи Осборн спел припев. 
+  * Гизер Батлер перешел на ритм куплетa. 
+  * Тони Айомми выдает невероятно крутое соло. 
+  * Тони Айомми играет крутые риффы. 
+  * Оззи Осборн спел куплет №3. 
+  * Гизер Батлер перешел на ритм припевa. 
+  * Тони Айомми играет другие крутые риффы. 
+  * Оззи Осборн спел припев. 
+  * Гизер Батлер перешел на ритм куплетa. 
+  * Тони Айомми играет крутые риффы. 
+  * Гизер Батлер заканчивает играть. 
+  * Билл Уорд заканчивает играть. 
+  * Тони Айомми заканчивает песню мощным аккордом. 
+  */ 
+    /* Complex parts */ 
+ function     SubSystem1       ; 
+ } 
+ function     SubSystem2       ; 
+ 	  this  .  methodB     =     function        
+ /* Facade */ 
+ function     Facade       ; 
+ 	  this  .  m2     =     function        
+ /* Client */ 
+ function     test        
+ test  ; 
+ /* 
+ Выведет: 
+ "вызван Facade.m1" 
+   "вызван SubSystem1.method1" 
+   "вызван SubSystem2.method2" 
+ "вызван Facade.m2" 
+   "вызван SubSystem2.methodB" 
+ */ 
+    # Загрузчик изображений 
+ class     ImageLoader 
+ 	  loadImage     =      -> 
+ 		  # ... 
+ 	  constructor     :      -> 
+ 		  @images     =      
+ 		  @images       =     loadImage       for     name  ,     src     of     hash 
+ # Загрузчик аудио 
+ class     SoundLoader 
+ 	  loadSound     =      -> 
+ 		  # ... 
+ 	  constructor     :      -> 
+ 		  @sounds     =      
+ 		  @sounds       =     loadSound       for     name  ,     src     of     hash 
+ # Фасад 
+ class     Loader 
+ 	  constructor     :      -> 
+ 		  @images     =     new     ImageLoader  .  images 
+ 		  @sounds     =     new     SoundLoader  .  sounds 
+ 	 
+ 	  sound     :      -> 
+ 		  @sounds   
+ 	 
+ 	  image     :      -> 
+ 		  @images   
+    /** 
+  * Реализации отдельных частей компьютера. 
+  * У каждого метода классов имеется какая-то реализация, в данном примере она опущена. 
+  */ 
+ /** 
+  * Class CPU, отвечает за работу процессора 
+  */ 
+ class   CPU 
+  
+     public   function   jump      
+ } 
+ /** 
+  * Class Memory, отвечает за работу памяти 
+  */ 
+ class   Memory 
+ { 
+     const   BOOT_ADDRESS   =   0x0005  ; 
+     public   function   load      
+ /** 
+  * Class HardDrive, отвечает за работу жёсткого диска 
+  */ 
+ class   HardDrive 
+ { 
+     const   BOOT_SECTOR   =   0x001  ; 
+     const   SECTOR_SIZE   =   64  ; 
+     public   function   read      
+ /** 
+  * Пример шаблона "Фасад" 
+  * В качестве унифицированного объекта выступает Компьютер. 
+  * За этим объектом будут скрыты все детали работы его внутренних частей. 
+  */ 
+ class   Computer 
+  
+     /** 
+      * Упрощённая обработка поведения "запуск компьютера" 
+      */ 
+     public   function   startComputer   
+      
+ /** 
+  * Пользователям компьютера предоставляется Фасад , 
+  * который скрывает все сложность работы с отдельными компонентами. 
+  */ 
+ $computer   =   new   Computer  ; 
+ $computer  ->  startComputer  ; 
+    # Сложные части системы 
+ class   CPU  : 
+     def   __init__  : 
+         # ... 
+         pass 
+     def   freeze  : 
+         # ... 
+         pass 
+     def   jump  : 
+         # ... 
+         pass 
+     def   execute  : 
+         # ... 
+         pass 
+ class   Memory  : 
+     def   __init__  : 
+         # ... 
+         pass 
+     def   load  : 
+         # ... 
+         pass 
+ class   HardDrive  : 
+     def   __init__  : 
+         # ... 
+         pass 
+     def   read  : 
+         # ... 
+         pass 
+ # Фасад 
+ class   Computer  : 
+     def   __init__  : 
+         self  .  _cpu   =   CPU   
+         self  .  _memory   =   Memory   
+         self  .  _hardDrive   =   HardDrive   
+     def   startComputer  : 
+         self  .  _cpu  .  freeze   
+         self  .  _memory  .  load  ) 
+         self  .  _cpu  .  jump   
+         self  .  _cpu  .  execute   
+ # Клиентская часть 
+ if   __name__   ==   "__main__"  : 
+     facade   =   Computer   
+     facade  .  startComputer   
+    using     System  ; 
+ namespace     Library 
+  
+           internal     string     A2   
+            
+       } 
+       internal     class     SubsystemC 
+        
+ } 
+ /// <summary> 
+ /// Facade - фасад 
+ /// </summary> 
+ /// <remarks> 
+ /// <li> 
+ /// <lu>"знает", каким классами подсистемы адресовать запрос;</lu> 
+ /// <lu>делегирует запросы клиентов подходящим объектам внутри подсистемы;</lu> 
+ /// </li> 
+ /// </remarks> 
+ public     class     Facade 
+  
+       public     void     Operation2   
+        
+ class     Program 
+  
+ } 
+    module     Library 
+       # <summary> 
+       # Класс подсистемы 
+       # </summary> 
+       # <remarks> 
+       # <li> 
+       # <lu>реализует функциональность подсистемы;</lu> 
+       # <lu>выполняет работу, порученную объектом <see cref="Facade"/>;</lu> 
+       # <lu>ничего не "знает" о существовании фасада, то есть не хранит ссылок на него;</lu> 
+       # </li> 
+       # </remarks> 
+       class     SubsystemA 
+           def     a1  ;      "Subsystem A, Method a1  \n  "  ;      end 
+           def     a2  ;      "Subsystem A, Method a2  \n  "  ;      end 
+       end 
+       class     SubsystemB 
+           def     b1  ;      "Subsystem B, Method b1  \n  "  ;     end 
+       end 
+       class     SubsystemC 
+           def     c1  ;      "Subsystem C, Method c1  \n  "  ;     end 
+       end 
+ end 
+ # <summary> 
+ # Facade - фасад 
+ # </summary> 
+ # <remarks> 
+ # <li> 
+ # <lu>"знает", каким классами подсистемы адресовать запрос;</lu> 
+ # <lu>делегирует запросы клиентам подходящим объектам внутри подсистемы;</lu> 
+ # </li> 
+ # </remarks> 
+ class     Facade 
+       def     initialize 
+           @a     =     Library  ::  SubsystemA  .  new  ; 
+           @b     =     Library  ::  SubsystemB  .  new  ; 
+           @c     =     Library  ::  SubsystemC  .  new  ; 
+       end 
+       def     operation1 
+           puts     "Operation 1  \n  "     + 
+           @a  .  a1     + 
+           @a  .  a2     + 
+           @b  .  b1 
+       end 
+       def     operation2 
+           puts     "Operation 2  \n  "     + 
+           @b  .  b1       + 
+           @c  .  c1   
+       end 
+ end 
+ facade     =     Facade  .  new 
+ facade  .  operation1 
+ facade  .  operation2 
+ # Wait for user 
+ gets 
+    Namespace     Library 
+        Класс подсистемы 
+          . реализует функциональность подсистемы 
+          . выполняет работу, порученную объектом Facade 
+          . ничего не "знает" о существовании фасада, то есть не хранит ссылок на него 
+       Friend     Class     SubsystemA 
+           Friend     Function     A1       As     String 
+               Return     "Subsystem A, Method A1"     &     vbCrLf 
+           End     Function 
+           Friend     Function     A2       As     String 
+               Return     "Subsystem A, Method A2"     &     vbCrLf 
+           End     Function 
+       End     Class 
+       Friend     Class     SubsystemB 
+           Friend     Function     B1       As     String 
+               Return     "Subsystem B, Method B1"     &     vbCrLf 
+           End     Function 
+       End     Class 
+       Friend     Class     SubsystemC 
+           Friend     Function     C1       As     String 
+               Return     "Subsystem C, Method C1"     &     vbCrLf 
+           End     Function 
+       End     Class 
+ End     Namespace 
+  Facade - фасад 
+    . "знает", каким классами подсистемы адресовать запрос 
+    . делегирует запросы клиентов подходящим объектам внутри подсистемы 
+ Public     NotInheritable     Class     Facade 
+       Private     Sub     New   
+       End     Sub 
+       Shared     a     As     New     Library  .  SubsystemA   
+       Shared     b     As     New     Library  .  SubsystemB   
+       Shared     c     As     New     Library  .  SubsystemC   
+       Public     Shared     Sub     Operation1   
+           Console  .  WriteLine  (  "Operation 1"     &     vbCrLf     &     a  .  A1       &     a  .  A2       &     b  .  B1  ) 
+       End     Sub 
+       Public     Shared     Sub     Operation2   
+           Console  .  WriteLine  (  "Operation 2"     &     vbCrLf     &     b  .  B1       &     c  .  C1  ) 
+       End     Sub 
+ End     Class 
+ Class     Program 
+       Shared     Sub     Main   
+           Facade  .  Operation1   
+           Facade  .  Operation2   
+            Ожидаем действия пользователя 
+           Console  .  Read   
+       End     Sub 
+ End     Class 
+    program     FacadePattern  ; 
+  
+ uses 
+     SysUtils  ; 
+ type 
+     TComputer     =     class 
+     public 
+       procedure     PlugIn  ; 
+       procedure     PowerMonitor  ; 
+       procedure     Power  ; 
+     end  ; 
+     procedure     TComputer  .  PlugIn  ; 
+     begin 
+       WriteLn    ; 
+     end  ; 
+     procedure     TComputer  .  PowerMonitor  ; 
+     begin 
+       WriteLn    ; 
+     end  ; 
+     procedure     TComputer  .  Power  ; 
+     begin 
+       WriteLn    ; 
+     end  ; 
+ type 
+     TNotebook     =     class 
+       procedure     Power  ; 
+     end  ; 
+     procedure     TNotebook  .  Power  ; 
+     begin 
+       WriteLn    ; 
+     end  ; 
+ type 
+     TKettle     =     class 
+       procedure     PlugIn  ; 
+       procedure     Power  ; 
+     end  ; 
+     procedure     TKettle  .  Power  ; 
+     begin 
+       WriteLn    ; 
+     end  ; 
+     procedure     TKettle  .  PlugIn  ; 
+     begin 
+       WriteLn    ; 
+     end  ; 
+ type 
+     TFacade     =     class 
+     public 
+       procedure     PowerOn    ; 
+     end  ; 
+     procedure     TFacade  .  PowerOn    ; 
+     begin 
+       if     aDevice     is     TComputer     then 
+         with     TComputer       do 
+         begin 
+           PlugIn  ; 
+           PowerMonitor  ; 
+           Power  ; 
+         end  ; 
+       if     aDevice     is     TNotebook     then 
+         with     TNotebook       do 
+           Power  ; 
+       if     aDevice     is     TKettle     then 
+         with     TKettle       do 
+         begin 
+           PlugIn  ; 
+           Power  ; 
+         end  ; 
+       WriteLn 
+     end  ; 
+ begin 
+     with     TFacade  .  Create     do 
+     try 
+       PowerOn    ; 
+       PowerOn    ; 
+       PowerOn    ; 
+     finally 
+       Free  ; 
+     end  ; 
+     ReadLn  ; 
+ end  . 
+ /* Complex parts */
+class CPU 
+    public void jump 
+}
+class Memory {
+    public void load 
+class HardDrive 
+}
+/* Facade */
+class Computer 
+    public void startComputer 
+/* Client */
+class Application 
+}    /** 
+  * Реализации отдельных частей компьютера. 
+  * У каждого метода классов имеется какая-то реализация, в данном примере она опущена. 
+  */ 
+ /** 
+  * Class CPU, отвечает за работу процессора 
+  */ 
+ class     CPU      
+       public     function     freeze  :  Void      
+      
+       public     function     execute  :  Void      
+ /** 
+  * Class Memory, отвечает за работу памяти 
+  */ 
+ class     Memory      
+      
+       public     function     load  :  Void      
+ /** 
+  * Class HardDrive, отвечает за работу жёсткого диска 
+  */ 
+ class     HardDrive      
+       public     function     read  :  haxe  .  io  .  Bytes      
+ /** 
+  * Пример шаблона "Фасад" 
+  * В качестве унифицированного объекта выступает Компьютер. 
+  * За этим объектом будут скрыты, все детали работы его внутренних частей. 
+  */ 
+ class     Computer      
+       /** 
+      * Упрощённая обработка поведения "запуск компьютера" 
+      */ 
+       public     function     startComputer  :  Void      
+ /** 
+  * Пользователям компьютера предоставляется Фасад , 
+  * который скрывает все сложность работы с отдельными компонентами. 
+  */ 
+ class     Application      
+ } 
+    // Logic 
+ class   CPU    
+    
+     public   func   jump     ->   String    
+    
+ } 
+ class   Memory    
+    
+ } 
+ class   HardDrive    
+    
+ } 
+ //Facade 
+ class   ComputerFacade    
+    
+ } 
+ // Client 
+ let   pc   =   ComputerFacade   
+ pc  .  start   
+</pr

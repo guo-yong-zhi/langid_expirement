@@ -1,0 +1,2 @@
+Tohle je seznam editorů, ve kterých je možno upravovat texty.
+Následující editory mohou být použity buď s grafickým uživatelským rozhraním nebo textovým uživatelským rozhraním.

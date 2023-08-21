@@ -1,0 +1,76 @@
+In statistics, the pseudomedian is a measure of centrality for data-sets and populations. It agrees with the median for symmetric data-sets or populations. In mathematical statistics, the pseudomedian is also a location parameter for probability distributions.
+The pseudomedian of a distribution 
+  
+    
+      
+        F
+      
+    
+    
+  
+ is defined to be a median of the distribution of 
+  
+    
+      
+        
+        
+          /
+        
+        2
+      
+    
+    
+  
+, where 
+  
+    
+      
+        
+          Z
+          
+            1
+          
+        
+      
+    
+    }
+  
+ and 
+  
+    
+      
+        
+          Z
+          
+            2
+          
+        
+      
+    
+    }
+  
+ are independent, each with the same distribution 
+  
+    
+      
+        F
+      
+    
+    
+  
+. 1 
+When 
+  
+    
+      
+        F
+      
+    
+    
+  
+ is a symmetric distribution, the pseudomedian coincides with the median; otherwise this is not generally the case.
+The Hodges–Lehmann statistic, defined as the median of all of the midpoints of pairs of observations, is a consistent estimator of the pseudomedian.
+Like the set of medians, the pseudomedian is well defined for all probability distributions, even for the many distributions that lack modes or means.
+In signal processing there is another definition of pseudomedian filter for discrete signals.
+For a time series of length 2N + 1, the pseudomedian is defined as follows. Construct N + 1 sliding windows each of length N + 1. For each window, compute the minimum and maximum. Across all N + 1 windows, find the maximum minimum and the minimum maximum. The pseudomedian is the average of these two quantities. 2 
+This statistics-related article is a stub. You can help Wikipedia by expanding it.

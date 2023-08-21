@@ -1,0 +1,19 @@
+Nationalt Patientindeks  er et projekt der går ud på at skabe en dokumentoversigt, der  giver patienter og sundhedspersoner i Danmark adgang til relevante patientdata på rette tidspunkt og rette sted.
+Dokumentoversigten vil give mulighed for at dele patientdata på tværs af af regionernes grænser og med andre sektorer såsom praksissektoren. Endvidere bliver det også muligt at trække på patientdata på tværs af landegrænser.
+Ideen er at sikre højere behandlingskvalitet og mere effektive arbejdsgange. For patienten vil det sikre mulighed for en mere aktiv deltagelse og indsigt i egen behandling. Endvidere vil patientsikkerheden være i højsæædet.
+Nationalt patientindeks er et projekt under Sektor for National Sundheds IT der er en del af Statens Serum Institut under Ministeriet for forebyggelse og sundhed. NSI koordinerer it på sundhedsområdet i Danmark og har ansvaret for at fastlægge de standarder som kommunikationen på tværs af sektorer skal følge.
+Det følger af den regionale økonomiaftale for 2011 , at Sundhedsministeriet skal stille krav til en ensartet og effektiv udveksling af relevante patientoplysninger på tværs af sundhedsvæsenets forskellige it-systemer. Endvidere fremgår det, at der i 2011 skal etableres et nationalt patientindeks , som sikrer samlet overblik over alle væsentlige oplysninger om patienten og integreres i regionernes kliniske arbejdspladser inden udgangen af 2013, se nedenfor.
+Citat fra Økonomiaftalen for 2011 vedr. NPI:
+”Borgere og sundhedspersonalet skal have et samlet digitalt overblik over relevante sundhedsoplysninger på tværs af sundhedsvæsenets parter.
+Inden udgangen af 2011 etableres et Nationalt Patient Indeks , som løbende udbygges med stadig flere data om patienten, herunder:
+- Medicinoplysninger i Det Fælles Medicinkort, som er udrullet i samtlige regioner inden udgangen af 2011.
+- Journaloplysninger i eJournal, som er fuldt udrullet på alle sygehuse inden udgang af 2010.
+- Vaccinationsoplysninger i Det Danske Vaccinationsregister, som er sat i drift medio 2011.
+- Billeddiagnostiske oplysninger i et fællesregionalt billedarkiv, som er fuldt udrullet på alle sygehuse i 2012.
+- Kontaktoplysninger i Landspatientregisteret.”
+I projektgrundlaget var der lagt op til genbrug af eksisterende snitflader fra ”gamle” datakilder. Den første afklaring ift. valg af metode til integration mod kilderne, viste sig imidlertid at rumme udfordringer. De fleste kilder havde ikke etablerede mekanismer til ”event baseret” opdatering af indekset – kilderne er bygget til at svare når de bliver spurgt, men kan ikke, uden viderevikling, aktivt fortælle omverdenen, at der er sket en opdatering.
+Forskellige mulige løsninger blev estimeret, men viste sig alle at ligge uden for projektets økonomiske ramme samtidig med, at de på flere områder vil være i modstrid med den referencearkitektur for deling af billeder og dokumenter, som parterne i samme periode godkendte, som grundlag for bl.a. NPI-projektet. Denne erkendelse forelå ved udgangen af marts måned 2012.
+Styregruppen for projektet besluttede derfor i april 2012 at udskyde kildeintegrationerne, men ud fra en værdisikringsbetragtning at gennemføre leverancen af indeks og sikkerhedskomponenter fra Systematic iht. kontrakten. Styregruppen indledte dermed en replanlægning af projektet i april 2012.
+Projektet afsluttes med udgangen af maj 2013 og der pågår analyser af hvordan aktiverne ifa. en XDS enablet serviceplatform kan genanvendes ift. andre områder som fx det telemedicinske domæne. 
+Beskrivelse af projekt på www.ssi.dk/NSI
+Referencearkitektur for deling af dokumenter og billeder 

@@ -1,0 +1,106 @@
+Der Quanten-Zeno-Effekt ist ein Effekt aus der Quantenmechanik, bei dem der Übergang eines quantenmechanischen Systems von einem Zustand in einen anderen, z. B. durch Lichtaussendung eines angeregten Atoms, durch wiederholt ausgeführte Messungen aufgehalten werden kann. Damit erinnert der Effekt an das Pfeil-Paradoxon des griechischen Philosophen Zenon von Elea. Der Begriff stammt von George Sudarshan und Baidyanaith Misra. 1 
+Wenn ein Atom spontan von einem angeregten Zustand A in einen niedrigeren Zustand B übergeht , so geschieht dies nicht zu einem vorbestimmten Zeitpunkt, sondern zufällig, d. h. nach rein statistischen Gesetzmäßigkeiten. Nach den Gesetzen der Quantenmechanik befindet sich das Atom in einem Zustand, der eine Superposition  der Zustände A  und B  ist. Aus diesem Überlagerungszustand leitet sich die Wahrscheinlichkeit ab, dass bei einer Wechselwirkung mit der Umgebung  der Zustand A bzw. der Zustand B vorgefunden wird. Eine grundlegende Eigenschaft der quantenmechanischen Messung ist, dass nur Eigenzustände des Messoperators  und keine Überlagerungszustände detektiert werden können. Die Wahrscheinlichkeit für das Vorfinden von Zustand A bzw. B ergibt sich aus dem Anteil des jeweilig gemessenen Zustands in der Überlagerung, der sich mit der Zeit immer mehr von A nach B verschiebt. Nach dem Messprozess selbst befindet sich das Atom wieder in einem „reinem“ Zustand A oder B, was auch als „Kollaps der Wellenfunktion“ bezeichnet wird.
+Wenn nun am Anfang das einzelne Atom im Zustand A  ist, dann ist der Anteil des Zustandes B  nach sehr kurzer Zeit sehr gering. Bei einer Messung wird es also mit sehr hoher Wahrscheinlichkeit noch nicht zerfallen sein. Durch die Beobachtung geht es in diesem Fall wieder in den Eigenzustand A  über, und der Zerfallsvorgang beginnt wieder von Neuem.
+Entscheidend ist hier, dass der „Anteil A“ und der „Anteil B“ hier keine Wahrscheinlichkeiten, sondern Wahrscheinlichkeitsamplituden sind; die Wahrscheinlichkeit, den Zustand B zu messen, ist  näherungsweise das Quadrat des Betrags des Anteils B. Wenn man also näherungsweise annimmt, dass der Anteil B mit der Zeit linear zunimmt und nach einer kurzen Zeit t die Wahrscheinlichkeit, einen Zerfall zu messen, p beträgt, so ist nach einem Zehntel dieser Zeit  die Wahrscheinlichkeit für B nur ein Hundertstel . Bei zehn Messungen jeweils im Abstand t/10 beträgt also die Gesamtwahrscheinlichkeit, einen Zerfall vorzufinden, nicht p, sondern nur 10·p/100 = p/10.
+Insgesamt bekommt man somit bei häufiger Beobachtung eine Zerfallsrate, die deutlich unter der unbeobachteten Zerfallsrate liegt. Lässt man die Abstände der Beobachtungen gegen null gehen, was einer Dauerbeobachtung gleichkommt, so geht auch die Zerfallswahrscheinlichkeit gegen null, d. h. das dauernd beobachtete Atom sollte aufgrund dieser Beobachtung gar nicht mehr zerfallen.
+Der Quanten-Zeno-Effekt wurde von mehreren Gruppen weltweit mithilfe von Methoden der Lasertechnik und Atomphysik experimentell bestätigt. 2  3  4  5  6 
+Eine deutschsprachige populärwissenschaftliche Aufarbeitung erschien 1994 nach Messungen an der Ludwig-Maximilians-Universität München: Die Bewegung eines Quantensystems wurde dort nachweislich alleine durch eine Folge dichter Messungen zum Stillstand gebracht, was die theoretische Modellierung des Quanten-Zeno-Effekts untermauerte. 7 
+Vorbedingungen aus der Quantentheorie für das Zustandekommen des Effektes:
+Ein auch im Rahmen der klassischen Physik beschreibbares Experiment, das dazu dient, sich einem Verständnis des  Zeno-Effektes zu nähern, besteht aus einer polarisierten Lichtquelle und mehreren Polarisatoren, wie in nebenstehender Abbildung gezeigt.
+Zunächst ) ist das Licht aus der Lichtquelle rein vertikal polarisiert. Bei freier Ausbreitung ändert sich diese Ausrichtung nicht, wird also nie horizontal polarisiert sein. Ein horizontaler Polarisator führt daher immer zur Auslöschung.
+Fügt man nun einen gegen die Polarisationsrichtung des Lichtes um den Winkel 
+  
+    
+      
+         
+      
+    
+    
+  
+ verdrehten Polarisator hinzu, so sinkt die Intensität beim Beobachter proportional zu 
+  
+    
+      
+        
+          cos
+          
+            2
+          
+        
+         
+         
+      
+    
+    \alpha }
+  
+, da nur die Projektion der Schwingungsebene auf die Polarisatorachse durchgelassen wird. Interessant ist aber vor allem, dass dieser Polarisator eine quantenmechanische Messung darstellt. Nach Passieren des Polarisators liegt also die Polarisationsebene des Lichts parallel zur Polarisatorachse ), was einer quantenmechanischen Zustandspräparation entspricht.
+Fügt man nun 
+  
+    
+      
+        n
+      
+    
+    
+  
+ Polarisatoren hintereinander, im Grenzfall: 
+  
+    
+      
+        n
+         
+         
+      
+    
+    
+  
+, die jeweils zueinander nur um einen infinitesimalen Winkel 
+  
+    
+      
+        
+          d
+        
+         
+      
+    
+     \alpha }
+  
+ verdreht sind, so ist der Verlust pro Polarisator minimal und geht im Grenzfall gegen null. Somit kann man rein durch hintereinander ausgeführte verlustfreie Messungen die Polarisationsrichtung drehen, d. h. die Erwartungsgröße der Observablen ändern. Dieses Szenario entspricht in etwa der oben beschriebenen kontinuierlichen Messung.
+Mathematisch lässt sich dieser Sachverhalt besonders einfach zeigen, wenn der Winkel 
+  
+    
+      
+         
+      
+    
+    
+  
+ klein ist. In diesem Fall beträgt der Transmissionsgrad
+Wird dazwischen ein zweiter Polarisator mit halbem Winkel 
+  
+    
+      
+         
+        
+          /
+        
+        2
+      
+    
+    
+  
+ hinzugefügt, ist die totale Transmission
+und im Grenzfall 
+  
+    
+      
+        n
+         
+         
+      
+    
+    
+  
+ ergibt sich
+Bisher wurde noch kein Anhalten des radioaktiven Zerfalls durch experimentelle Messungen eines Ensembles von radioaktiven Atomen oder gar eines einzelnen radioaktiven Atoms bestätigt, wie es die Theorie des Quanten-Zeno-Effekts erfordern würde. Vor allem stellt das Gegenteil, die Umkehrung des Zeno-Effekts, keine Analogie, sondern nur einen konträren oder polaren Gegensatz dar. Die Experimente von Itano und Mitarbeitern 2  beziehen sich auf stabile Isotope von 9Be in Mischungen mit 26Mg, wobei Übergänge im UV-Bereich stimuliert und beobachtet wurden. Da das quantenmechanische System in diesem Fall a priori durch den Beobachter definiert oder gestört wurde, kann grundsätzlich nicht von der Beobachtung eines indeterminierten Systems ausgegangen werden, wodurch der experimentelle Ansatz in Frage gestellt wird. Tatsächlich ist es wahrscheinlicher, dass der entsprechende quantenmechanische Prozess, insbesondere der radioaktive Zerfall, sogar beschleunigt wird, wenn er mit hoher Beobachtungsfrequenz untersucht wird. 8 

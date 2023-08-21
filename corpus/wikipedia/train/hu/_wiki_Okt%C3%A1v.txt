@@ -1,0 +1,6 @@
+Pontosságellenőrzött
+Az oktáv  a zenében a diatonikus hangsor nyolcadik fokát jelenti, illetve azt a hangközt, amely az első fokot a nyolcadiktól elválasztja. Jelölheti még az egy oktáv hangközön belüli hangok összességét is. Az oktávhang frekvenciája kétszerese az alaphangnak, ez 1200 cent hangköznek felel meg.
+Az oktáv a prím fordított, inverz hangköze, tehát az a hangköz, amely azt oktávra egészíti ki.
+A zenei hang első felhangja az oktáv, tehát ha egy hang és annak oktávja együtt szól, azokat a fülünk egyáltalán nem, vagy csak alig tudja egymástól elkülöníteni, hangszínként érzékeli. Ezért szokás az oktávot  a legkonszonánsabb hangköznek tekinteni. Az oktávhangot ugyanazzal a hangnévvel jelölik, mint az alaphangot.
+Az oktáv a legfontosabb, legalapvetőbb hangköze a zenének, minden nyugati hangsor az oktávnak kisebb hangközökre való felosztásán alapul. Jele: T8  tiszta oktáv.
+prím    szekund    terc    kvart    kvint    szext    szeptim    oktáv

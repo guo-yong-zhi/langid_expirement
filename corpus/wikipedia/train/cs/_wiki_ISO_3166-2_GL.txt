@@ -1,0 +1,7 @@
+Kódy ISO 3166-2 pro Grónsko identifikují 5 krajů .
+ GL-AV  Avannaata  
+GL-KU  Kujalleq 	
+GL-SM  Sermersooq 		
+GL-QT  Qeqertalik  		
+GL-QE  Qeqqata  
+</pr

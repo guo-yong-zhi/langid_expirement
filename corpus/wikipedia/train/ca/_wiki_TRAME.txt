@@ -1,0 +1,66 @@
+TRAME  1  va ser la segona xarxa del món similar a Internet en ser emprada en una empresa de serveis, concretament, al sector elèctric. Com a la Internet, la tecnologia de base era la commutació de paquets i va ser desenvolupada per l'empresa elèctrica ENHER a Barcelona i desplegada inicialment per la mateixa empresa a Catalunya i l'Aragó i, posteriorment, a altres indrets. Es va començar a desenvolupar l'any 1974 i els primers nodes o encaminadors es van desplegar l'any 1978. 2  3  4  5  La xarxa ha funcionat fins a l'any 2016 , òbviament amb successives actualitzacions i postes al dia tecnològiques tan de programari com de maquinari.
+L'any 1974, la commutació de paquets era una tecnologia coneguda només en els àmbits de recerca.
+El concepte es va iniciar l'any 1968 dins del projecte de recerca nord-americà ARPAnet de l'agència americana ARPA   que creà una xarxa que unia diverses universitats americanes amb objectius de recerca sobre xarxes. En aquells anys, no hi havia oferta comercial ni tan sols gaire informació sobre la commutació de paquets de forma que calia fer recerca, innovar i desenvolupar la tecnologia des de zero per poder-la aplicar.
+La idea d'aplicar el concepte de commutació de paquets en l'àmbit d'una empresa de serveis, i en concret del sector elèctric, va sorgir l'any 1974 quan l'empresa sueca Vattenfall va començar a crear la seva xarxa TIDAS 6  7  8  de commutació de paquets i va ser seguida per l'empresa elèctrica ENHER, 9  que produïa i distribuïa energia elèctrica a Catalunya i part de l'Aragó, va pensar en telecontrolar  la seva xarxa elèctrica, fins aleshores operada manualment.
+Per a aquest objectiu, l'empresa ENHER es va dotar d'un petit equip de persones per tal de desenvolupar tan la xarxa TRAME com el sistema de Telecontrol o SCADA que seria la seva principal aplicació.L'any 1978 ja es disposava dels primers quatre encaminadors TRAME i l'any 1980 s'en varen ja desplegar vuit  . 5  10  Aquests primers encaminadors estaven basats en el processador Zilog Z80 i estaven formats per una sèrie de plaques que controlaven, cadascuna d'elles, fins a quatre línies de comunicacions. 2  Les plaques estaven connectades a una memòria comuna que els permetia intercanviar i commutar dades i missatges.
+El projecte es va desenvolupar junt amb la seva principal aplicació, el projecte de telecontrol SICL  11  12  13  amb el qual inicialment compartien un maquinari molt semblant.
+La capacitat màxima dels enllaços d'aquella primera xarxa de l'any 1978 era de 9.600 bps, que l'any 1980 era la màxima capacitat a que es podia transmetre dades per un canal telefònic normalitzat de 4 kHz d'amplada. Aquests canals analògics eren la unitat bàsica dels sistemes de comunicació analògics que encara es feien servir aquells anys. La resta d'empreses elèctriques feien servir enllaços dedicats de 600 bps i els compartien típicament entre 10 subestacions elèctriques d'alta tensió.
+El servei bàsic prestat per la xarxa TRAME va ser sempre el de telecontrol dels sistema elèctric, que permetia l'automatització de la xarxa elèctrica d'Alta Tensió i una millor eficiència en la seva gestió, fins aleshores fets manualment i a través de comunicació telefònica entre operadors.
+Cada encaminador TRAME tenia associada una o diverses Estacions Remotes de Telecontrol  del sistema SICL. 12  També tenia connectades pantalles, i més tard PCs, des d'on s'intercanviaven missatges entre ells i amb els centre de control, en especial el Centre de Control Central  13  localitzat inicialment al Passeig de Gràcia, 132 de Barcelona a la coneguda Casa Fuster. Era un predecessor de l'e-mail que després tant s'ha popularitzat.
+Més endavant  Es varen també desenvolupar protocols per a integrar-hi part de la Informàtica corporativa, sistemes de vigilància de seguretat patrimonial de l'empresa i altres serveis .
+També es van desenvolupar aplicacions i terminals per a transmissió de veu, 14  sistema que podríem considerar predecessor dels sistemes actuals tipus Skype, o vídeo. 15 
+L'encaminament de la xarxa TRAME, 3  com el de la xarxa de recerca nord-americana ARPA original, es basava en l'algorisme de Bellman-Ford però amb «horitzó partit», 6  7  com a la xarxa sueca TIDAS, la primera en operar en una empresa elèctrica, però amb una millora pròpia. 3 
+Aquest protocol permet  trobar camins òptims en xarxes mallades de comunicacions per a cada paquet a transmetre, permetent compartir la mateixa xarxa entre múltiples serveis. En contraposició, la tecnologia tradicional de commutació de circuits el que feia era establir circuits dedicats per a cada servei o comunicació.
+L'adreçament dels encaminadors i terminals emprava una sistema propi amb una adreça de 16 bits; Seria l'equivalent al conegut Protocol IP  versió 4 , que encara avui fa servir gran part d'internet i que té adreces de 32 bits.
+Cal pensar que l'any 1978 el protocol IP no existia, ja que la versió IPv4 emprada a Internet no es va definir fins a l'any 1981 i, de fet, no va arribar al gran públic a Espanya fins a l'any 1992, any en què la Internet es va fer disponible en aparèixer el primer proveïdor de serveis d'Internet  a Espanya  i el 1994 el segon, Servicom, amb més impacte.
+El protocols de línia eren també propietaris i s'anomenaven UCL , el que unia els encaminadors,  i UTR , el que connectava els nodes amb els terminals. Després es varen anar incorporant altres protocols com l'X.25 i també el conegut IP.
+Els protocols UCL i UTR es varen dissenyar per oferir la qualitat de servei més elevada que requeria l'aplicació de telecontrol elèctric en termes de disponibilitat i d'integritat de dades, d'acord amb la normativa IEC  i que el protocol de mode d'aleshores, l'HDLC, pensat per aplicacions comercials, no oferia. 16  17 
+L'any 2000 el protocol UTR es va substituir 18  per l'Estàndard internacional per a Telecontrol IEC 60870-5-101/104.
+El control de flux inicialment es basà en gestionar 8 prioritats en cues del tipus HOL , que era suficient per a Telecontrol, i després es varen incorporar un protocol extrem a extrem per a alguns fluxos , un bit d'indicació de congestió i la gestió dels temps entre paquets d'entrada a la xarxa, així com la mesura de la capacitat de l'enllaç coll d'ampolla de cada trajecte i la corresponent gestió del flux de cada font 17  19  20  21  22  23 
+Per poder perdurar durant quasi quaranta anys, es va haver de sotmetre a una evolució intensa. Bàsicament hi van haver quatre generacions TRAME que es descriuen a continuació.
+i960RM
+UCL
+UTR
+X.25
+1991-IPv4
+Propietaris
+UCL
+UTR
+K32/64 
+X.25
+1991-IPv4
+Frame Relay
+Ethernet
+Propietaris
+UCL
+UTR
+K32/64  
+X25
+IPv4
+Frame Relay
+Ethernet
+IEC 60870-5-101/104
+Propietaris
+UCL
+M2 
+1980-8 encaminadors
+1983-27 encaminadors
+1987-32 encaminadors
+2014-Uns 3000 encaminadors a tot Espanya
+A continuació es descriuen amb mes detall les 4 generacions de la tecnologia TRAME.
+Adreçament:
+Avantatges bàsics de TRAME respecte a altres tecnologies:
+Degudes a la pròpia tecnologia de commutació de paquets:
+Altres específiques de TRAME:
+Tot això redundava en una millora de la qualitat de servei, en especial de la disponibilitat i la integritat de dades, i en una integració de serveis en una mateixa xarxa.
+L'aspecte d'una placa UCL TRAME 1 es pot veure a l'enllaç següent:
+https://photos.google.cat/album/AF1QipNcyNkndJnnI7YcVBYRVIR8YPvOD_bdiCGaxRA-/photo/AF1QipNyF2ruIwccm39dKVr-PnfUMJK5-mhZmwSRAkQx?hl=ca
+L'evolució del desplegament de la xarxa TRAME I a l'empresa ENHER es poden veure a les Figures II, IV i V.
+Desenvolupat a ENHER i DIMAT S.A. 
+On r és el nivell d'utilització de l'enllaç  que varia entre 0 i 1, K pot valer 0, 1 o 2, i f és una funció el valor de la qual depèn de l'invers de la velocitat de l'enllaç. Un valor de K>0 augmenta el nivell de bifurcació del tràfic .
+La llargada d'un camí o distància és la suma dels pesos dels enllaços que el formen.
+Millores respecte a TRAME2:
+La topologia de la xarxa TRAME 3 l'any 1994 es pot veure a la Figura VI.
+Es va iniciar el seu disseny l'any 1998 amb l'empresa DIMAT, S.A.. El 1999 ja hi havia nodes TRAME+.
+En perdre redundància , perdia fiabilitat respecte a TRAME III. Això es va fer per raons econòmiques i pensant que allà on calia més redundància es podia multiconnectar els terminals a diversos nodes.
+Desenvolupat a Endesa Servicios i DIMAT S.A.

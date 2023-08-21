@@ -1,0 +1,82 @@
+La disuguaglianza di Bernoulli afferma che:
+per ogni intero n ≥ 0 e ogni numero reale x > -1. La disuguaglianza di Bernoulli è un passo cruciale nella dimostrazione di altre disuguaglianze e si rivela uno strumento fondamentale per importanti dimostrazioni .
+La disuguaglianza prende il nome da Jacob Bernoulli, celebre matematico del XVII secolo, che ne pubblicò per primo l'enunciato nella seconda pagina del trattato Positiones Arithmeticae de Seriebus Infinitis pubblicato a Basilea nel 1689, facendone frequente uso nelle rimanenti parti dell'opera 1 . Bernoulli ne dà una dimostrazione basata sul V libro degli Elementi di Euclide 1 , ma André Weil ritiene che Bernoulli fosse consapevole del fatto che la disuguaglianza aveva un significato anche in matematica finanziaria, in cui essa equivale a dire che indebitarsi a interesse composto è più oneroso che a interesse semplice. 1 
+Secondo quanto riporta Joseph E. Hofmann in un suo articolo sulla Exercitatio Geometrica di Michelangelo Ricci 2  l'enunciazione della diseguaglianza si deve a René-François de Sluse che la espose nell'edizione 1668 del suo trattato sul mesolabio di Eratostene, al capitolo IV, intitolato De maximis & minimis 1  3 .
+La disuguaglianza  può essere dimostrata per induzione. 
+La verifica della tesi è banale per n = 0. Si supponga che sia vera per n: per completare l'induzione occorre dimostrare che è vera anche per n + 1. Moltiplicati entrambi i membri per , fattore che è sempre maggiore di 0 per ipotesi, si ottiene:
+Poiché nx2 ≥ 0, l'omissione di questo termine può solo rendere più forte la relazione di disuguaglianza, quindi:
+Una versione più debole, in cui si suppone solo 
+  
+    
+      
+        x
+         
+        0
+      
+    
+    
+  
+, può essere ricavata come immediata conseguenza dello sviluppo binomiale del primo membro:
+in cui si trascurano tutti i termini dello sviluppo contenenti potenze di x il cui ordine sia superiore a 1 . 
+La dimostrazione pubblicata da René-François de Sluse nel 1668, anch'essa ristretta al caso 
+  
+    
+      
+        x
+         
+        0
+      
+    
+    
+  
+.  Scartando il caso banale 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    
+  
+, si avrà l'ipotesi 
+  
+    
+      
+        x
+        >
+        0
+      
+    
+    
+  
+. La dimostrazione di de Sluse  parte da una catena di n disuguaglianze che, in notazione moderna, si esprimono così:
+Si tratta di diseguaglianze evidenti: infatti, partendo da destra, in ogni passo viene sommata una stessa quantità positiva  al numeratore e al denominatore; di conseguenza, in ogni passaggio la frazione diminuisce rimanendo maggiore di 1.
+Moltiplicando tra loro gli n termini della catena, e semplificando numeratori e denominatori, si ottiene: 
+D'altro canto, ciascun fattore della moltiplicazione è minore del termine più a destra, . Quindi, il risultato della moltiplicazione è minore di 
+  
+    
+      
+        
+          
+            n
+          
+        
+      
+    
+    }
+  
+, da cui la tesi.
+Se l'esponente n è pari, la disuguaglianza è valida per ogni numero reale x. Se n ≥ 2 e  x > −1 con x ≠ 0, allora vale la disuguaglianza stretta:
+Vi sono anche delle versioni più forti della disuguaglianza di Bernoulli, per esempio:
+per ogni n ≥0 e x ≥0.
+La disuguaglianza può anche essere generalizzata ad un qualsiasi esponente reale r. Infatti, se x > −1, allora
+per r ≤ 0 oppure r ≥ 1, e
+per 0 ≤ r ≤ 1.
+Questa generalizzazione può essere dimostrata confrontando le derivate.
+Anche in questo caso, vale la disuguaglianza stretta se x ≠ 0 e r ≠ 0 e da 1.
+La seguente disuguaglianza fornisce una stima per eccesso della potenza r-esima di 1 + x. Per ogni numero reale x ed r > 0, vale
+dove e = 2.718....
+È possibile dimostrare questa disuguaglianza sfruttando il fatto che k < e.
+Altri progetti

@@ -1,0 +1,70 @@
+Slėgis – fizikinis dydis, jėgos veikimas į plotą. Kiekybiškai jis apibūdinamas kaip jėga, statmenai veikianti ploto vienetą:
+Slėgio matavimo prietaisas vadinamas manometru.
+Fizikoje slėgis svarbus nagrinėjant procesus dujose, skysčiuose, atmosferos fizikoje , medicinoje, biologijoje – kraujospūdis.
+Slėgį dujose lemia molekulių keitimasis impulsais dėl šiluminio judėjimo: šiuo atveju jėga susidaro dėl molekulių smūgių į indo sieneles. Idealioms dujoms galioja Klapeirono lygtis:
+  
+    
+      
+        
+          
+            
+              p
+              V
+            
+            T
+          
+        
+        =
+        c
+        o
+        n
+        s
+        t
+      
+    
+    
+  
+Ši lygtis buvo sudaryta sujungus tris izoprocesų dėsnius:
+Visi minėti dėsniai galioja, kai dujų kiekis  nekinta.
+Bendru atveju galioja Mendelejevo-Klapeirono lygtis: 
+  
+    
+      
+        p
+        V
+        =
+        
+          
+            m
+            M
+          
+        
+        R
+        T
+      
+    
+    
+  
+Realioms dujoms apytikriai tinka Van der Valso dėsnis:
+  
+    
+      
+        
+          
+        
+        
+          
+        
+        =
+        R
+        T
+      
+    
+    
+  
+Žymėjimas:
+Tai yra skysčio stulpelio, kurio aukštis h, slėgis.
+Skysčiams ir dujoms galioja Paskalio dėsnis – „skysčiai ir dujos išorinį slėgį perduoda visomis kryptimis vienodai.“
+SI sistemoje pagrindinis slėgio matavimo vienetas yra paskalis  – vienas paskalis yra slėgis, kai vieno niutono jėga statmenai veikia į 1 kvadratinio metro plotą:
+Nesisteminiai vienetai  1 , naudojami slėgiui matuoti:
+Didžiausią įtaką slėgis daro nardytojams, alpinistams ir pilotams. Pavyzdžiui, esant giliuose vandenyse žmogus negali greitai iškilti į paviršių, dekompresija būna lėta, nes jo kraujyje ištirpęs papildomas azoto kiekis gali užvirti ir iššaukti aeroembolizmą ir kesoninę ligą. 2 

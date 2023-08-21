@@ -1,0 +1,52 @@
+docomo NEXT series ARROWS X F-02E（ドコモ ネクスト シリーズ アローズ エックス エフゼロニイー）は、富士通によって開発された、NTTドコモの第3.9世代移動通信システム（Xi）と第3世代移動通信システム（FOMA）のデュアルモード端末である。docomo NEXT seriesのひとつ。
+ARROWSシリーズのドコモ向けハイエンドフラッグシップ機「X」の3代目。2代目のF-10Dと同様にクアッドコアCPU「NVIDIA Tegra 3」を採用する。CPUのクロックはF-10Dの1.5GHzから1.7GHzへと向上している。また、ARROWSシリーズのスマートフォンとしては初めてAndroid 4.1 3 を搭載している。新たに5インチフルHD液晶を搭載。また、周囲の光や再生中のメディアコンテンツに合わせてディスプレイの色合いを自動調整する「インテリカラー」をサポートしている。ただし、ストレージは兄弟機種のARROWS V F-04E（CPUはF-10Dと同じTegra 3 1.5GHzでOSはAndroid 4.0、ストレージは64GB）の半分の32GBとなっている 4 。
+F-10Dと異なりNOTTVに対応している。NFCは従来のドコモ向けARROWSシリーズと同じく決済機能には対応しない。おくだけ充電には対応していない。
+バッテリー容量は2420mAh 5 。
+キャッチコピーは、「圧巻の1.7GHzクアッドコアと感動の使いやすさを備えた大画面ハイスペック」。
+ドコモの提供するサービスのほか、富士通製機種向けに無償で提供される 6 アプリが存在し、いくつかがプリインストールされている。
+また、プリインストールされていないものもGoogle Playストアからダウンロード・使用可能。
+以下は他社製機種に向けても同等に公開されているアプリのうち、本機種にプリインストールされたもの。
+ヒューマンセントリックエンジン（HCE）および「あわせるビュー」「戻ってシェイク」「うっかりタッチサポート」等のユーザ支援機能を従来機種から引き続き搭載している。
+ARROWS Tab LTE F-01D - ARROWS Kiss F-03D - ARROWS X LTE F-05D  REGZA Phone T-01D
+ARROWS Z ISW11F
+ARROWS μ F-07D - ARROWS X F-10D - ARROWS Me F-11D - ARROWS Kiss F-03E - ARROWS V F-04E - ARROWS Tab F-05EF-09D ANTEPRIMA - らくらくスマートフォン  REGZA Phone T-02D
+ARROWS ES IS12F - ARROWS Z ISW13F - ARROWS ef FJL21
+ARROWS A 101F
+ARROWS Tab Wi-Fi FAR75A/FAR70A - ARROWS Tab Wi-Fi QH-55/J
+ARROWS X F-02E - ARROWS NX F-06E - ARROWS NX F-01F - ARROWS Tab F-02Fらくらくスマートフォン2  - らくらくスマートフォン プレミアム Disney Mobile on docomo F-07E - Disney Mobile on docomo F-03F
+ARROWS Z FJL22 - ARROWS Tab FJT21
+ARROWS A 201F - ARROWS A 202F - ARROWS A 301F
+ARROWS S EM01F
+ARROWS Tab Wi-Fi FAR70B - ARROWS Tab QH55/M - ARROWS Tab QH77/M
+ARROWS NX F-05F - ARROWS NX F-02G - ARROWS Tab F-03Gビジネススマートフォン F-04F - らくらくスマートフォン3 
+ARROWS M305/KA4 - ARROWS M01
+ARROWS NX F-04G - ARROWS ケータイ F-05G - arrows Fit F-01H - arrows NX F-02H
+ARROWS M305
+arrows M02 - arrows Tab M01T
+arrows SV F-03H - arrows Tab F-04H - arrows NX F-01J
+arrows M03 - ARROWS M357
+らくらくスマートフォン4  - arrows Be F-05J - arrows NX F-01K
+arrows M04
+arrows Tab F-02K - らくらくスマートフォンme F-03K - arrows Be F-04K
+らくらくスマートフォンme F-01L - arrows Be3 F-02L - arrows ケータイ F-03L - らくらくホン F-01M
+arrows U（SoftBankブランド） - arrows J（Y!mobileブランド・ジャパネットたかた専売端末）
+arrows RX
+arrows M359 - arrows BZ01 - arrows M05
+arrows Be4 F-41A - らくらくスマートフォン F-42A - arrows 5G F-51A - arrows NX9 F-52A
+arrows Be4 PLUS F-41B - arrows We F-51B
+arrows We FCG01（auブランド/UQ mobileブランド）
+arrows We（SoftBankブランド）
+arrows BZ02
+らくらくスマートフォン F-52B - arrows ケータイ ベーシック F-41C
+ 「 」：FOMAハイスピード対応機種 -
+ 「※」：PREMIUM 4G・Xi・FOMAハイスピード対応機種 -
+ 「*」：Xi・FOMAハイスピード対応機種 -
+ 「**」：FOMAハイスピード非対応機種 -
+ 「***」：携帯電話回線非対応 -
+ 【新色】は以前に発売された機種の新色版
+KC-01 
+LG G3 Beat 
+AQUOS L 
+VAIO Phone
+Xperia J1 Compact
+レインボーパッド

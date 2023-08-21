@@ -1,0 +1,3 @@
+Concrete Mathematics: A Foundation for Computer Science, di Ronald Graham, Donald Knuth, e Oren Patashnik, è un libro di testo universitario, che fornisce quelle nozioni fondamentali di matematica che risultino particolarmente utili nello studio dell'informatica.
+È basato su un corso sviluppato, in origine, da Knuth, nel 1970, rivolto a studenti dell'Università di Stanford.
+La pubblicazione si distingue per lo stile informale, umoristico, che si manifesta, ad esempio, nell'uso di "graffiti matematici", cioè, nella profusione di note a margine contenenti i commenti al testo proposti dai primi editori del testo: gli studenti di Knuth e Patashnik dell'Università di Stanford.

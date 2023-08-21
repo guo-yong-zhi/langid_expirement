@@ -1,0 +1,229 @@
+Multinomické rozdělení popisuje četnost dvou a více jevů, které jsou výsledkem nějakých pokusů. Multinomické rozdělení musí vyhovovat podmínkám:
+Pravděpodobnost, že po 
+  
+    
+      
+        N
+      
+    
+    
+  
+ pokusech nastane i-tá možnost z 
+  
+    
+      
+        M
+      
+    
+    
+  
+ možných právě 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    }
+  
+  krát je:
+  
+    
+      
+        P
+        
+        =
+        
+          
+            
+              M
+              !
+            
+            
+              
+                k
+                
+                  1
+                
+              
+              !
+              .
+              .
+              .
+              
+                k
+                
+                  i
+                
+              
+              !
+              .
+              .
+              .
+              
+                k
+                
+                  M
+                
+              
+              !
+            
+          
+        
+        
+          P
+          
+            1
+          
+          
+            
+              k
+              
+                1
+              
+            
+          
+        
+        .
+        .
+        .
+        
+          P
+          
+            i
+          
+          
+            
+              k
+              
+                i
+              
+            
+          
+        
+        .
+        .
+        .
+        
+          P
+          
+            M
+          
+          
+            
+              k
+              
+                M
+              
+            
+          
+        
+      
+    
+    !}}P_}...P_{i}^{k_...P_}}
+  
+,
+kde 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    }
+  
+ je četnost i-tého výsledku a 
+  
+    
+      
+        
+          P
+          
+            i
+          
+        
+      
+    
+    {\displaystyle P_
+  
+ je pravděpodobnost, že nastane i-tý výsledek v jednom pokusu.
+Základní parametry  multinomického rozdělení jsou:
+  
+    
+      
+        E
+        
+        =
+        N
+        
+          P
+          
+            i
+          
+        
+      
+    
+    }
+  
+  
+    
+      
+        V
+        
+        =
+        N
+        
+          P
+          
+            i
+          
+        
+        
+      
+    
+    }
+  
+  
+    
+      
+        c
+        o
+        v
+        
+        =
+         
+        N
+        
+          P
+          
+            i
+          
+        
+        
+          P
+          
+            j
+          
+        
+        ,
+         
+         
+         
+        i
+         
+        j
+      
+    
+    P_
+  
+Příkladem může být například rozdělení četností jednotlivých hodnot na kostce, se kterou házíme. Pokud by nás zajímala pouze četnost jedné hodnoty na kostce v n nezávislých pokusech, pak by se jednalo o binomické rozdělení. 

@@ -1,0 +1,247 @@
+Tsarin daidaiton yanayin kasa  tsarine wanda yake kunshe da ainihin wurare a Duniya . GCS na iya ba da matsayi:
+A geodetic da daidaito da kuma lambobin taswira , tsarin daidato  yana hawa kuka sai ya hade. and map coordinates, the coordinate tuple is decomposed such that one of the numbers represents a vertical position and two of the numbers represent a horizontal position.
+ 
+A sabuwar dabara na wani yanayin daidaita tsarin da aka kullum yaba wa Eratosthenes na Bakurane, waɗanda suka haɗa da yanzu-rasa yanayin kasa a Library of Alexandria a cikin karni 3rd BC.  Aarni ɗaya bayan haka, Hipparchus na Nicaea ya inganta akan wannan tsarin ta hanyar tantance latitude daga ma'aunin taurari maimakon tsawan rana da kuma ƙayyade tsawo ta hanyar lokutan fitowar wata, maimakon lissafin mutu'a . A cikin karni na 1 ko na 2, Marinus na Taya ya kirkiro babban gazetteer da taswirar duniya ta hanyar lissafi ta hanyar amfani da daidaitattun hanyoyin da aka auna daga gabas daga Firayim Minista a yankin da aka fi sani da yamma, wanda aka sanya tsibirin Fortunate, kusa da gabar yammacin Afirka kusa da Canary ko Cape Tsibirin Verde, kuma ya auna arewa ko kudu na tsibirin Rhodes daga Asiya orarama . Ptolemy ya yaba masa da cikakkiyar tallafi na latitude da latitud, maimakon auna latitude dangane da tsawon ranar tsakiyar lokacin bazara. 
+Ptota 2nd-karni <i id="mwTA">yanayin kasa</i> amfani da wannan Firayim Meridian amma auna latitud daga mazauna maimakon. Bayan an fassara aikinsu zuwa larabci a karni na 9, littafin Al-Khwārizmī na bayanin Duniya ya gyara kurakuran Marinus da Ptolemy dangane da tsawon Tekun Bahar Rum,  note 1  wanda ya haifar da zanen larabawa na zamani don amfani da Firayim Meridian kusa da 10 ° gabashin layin Ptolemy. Taswirar ilimin lissafi ta ci gaba a cikin Turai bayan Maximus Planudes 'dawo da rubutun Ptolemy kaɗan kafin 1300; an fassara rubutun zuwa Latin a Florence ta Jacobus Angelus a wajajen 1407.
+A shekarar 1884, Amurka ta dauki bakuncin taron Meridian na Duniya, wanda ya samu halartar wakilai daga kasashe ashirin da biyar. Ashirin da biyu daga cikinsu sun amince da ɗaukar doguwar Royal Observatory a Greenwich, Ingila a matsayin layin nuna sifili. Jamhuriyar Dominica ta kada kuri’ar kin amincewa da kudirin, yayin da Faransa da Brazil suka kaurace.  Faransa ta karɓi Lokacin Ma'anar Greenwich a maimakon ƙayyadaddun gida ta hanyar Paris Observatory a cikin 1911.
+ 
+ 
+Datums na iya zama na duniya, ma'ana cewa suna wakiltar duk Duniya, ko kuma suna iya zama na gari, ma'ana cewa suna wakiltar ellipsoid mafi dacewa don kawai ɓangaren Duniya. Mahimman bayanai akan doron duniya suna dangi da juna saboda motsin farantin nahiyoyi, rashi, da kuma ambaton girgizar duniya wanda wata da Rana suka haifar. Wannan motsi na yau da kullun na iya zama kamar mita. Yunkurin ƙasa na iya zuwa 10 cm a shekara, ko 10 m a cikin ƙarni. Yankin yanayin yanayin matsin lamba na iya haifar da nitsewa na 5 mm . Scandinavia tana hawa da 1 cm a shekara sakamakon narkewar kankara na zamanin dusar kankara na karshe, amma makwabtan Scotland yana tashi da 0.2 cm kawai. Waɗannan canje-canje ba su da mahimmanci idan aka yi amfani da datum na gida, amma suna da ƙididdiga idan aka yi amfani da datum na duniya. 
+Datididdigar cikin gida da ƙungiyar zane-zanen ƙasa suka zaɓa sun haɗa da Datum ta Arewacin Amurka, Turai ta Turai50, da Burtaniya OSGB36 . Bada wuri, datum din yana bada damar 
+  
+    
+      
+         
+      
+    
+    
+  
+ da kuma longitude 
+  
+    
+      
+         
+      
+    
+    
+  
+ . A cikin Burtaniya akwai latitude, Longitude, da Tsarin tsayi guda uku da ake amfani da su. WGS 84 ya banbanta a Greenwich da wanda akayi amfani dashi akan taswirar da aka buga OSGB36 da kimanin 112 m. Tsarin soja na ED50 , wanda NATO ke amfani da shi, ya bambanta da kusan 120 m zuwa 180 m. 
+Latitude da longitude a kan taswirar da aka yi wa datti na gida bazai zama iri ɗaya da wanda aka samo daga mai karɓar GPS ba. Canza tsarawa daga wannan datum zuwa wani yana bukatar canjin datti kamar sauyawar Helmert, kodayake a wasu yanayi fassarar mai sauki na isa. 
+A cikin mashahurin software na GIS, bayanan da aka tsara a cikin latitud / longitude galibi ana wakiltar su azaman Tsarin Tsarin Geoasa . Misali, bayanai a cikin latitude / longitude idan datum din shine Datum ta Arewacin Amurka na 1983 yana nuna ta 'GCS North American 1983'.
+  
+"Latitude"  na aya a saman duniya shine kusurwa tsakanin jirgin sama mai daidaitawa da layin da yake wucewa ta wannan wurin zuwa kuma  tsakiyar duniya.  note 2  Lines masu haɗuwa da wuraren da'irar alamun latitude a saman Duniya ana kiransu masu kamanceceniya, kamar yadda suke daidai da Equator da juna. Pole ta Arewa 90 ° ne N; Pole ta Kudu yana 90 ° S. Zangon 0 ° na latitude an ayyana shi ne Equator, babban jirgi ne na dukkanin tsarin daidaita yanayin ƙasa. Equator ya raba duniya zuwa Yankin Arewa da na Kudu .
+"Longitude"  na aya a saman duniya shine kusurwar gabas ko yamma na meridian da aka ambata zuwa wani meridian da ya ratsa ta wannan wurin. Duk 'yan meridians rabi ne na manyan ƙusoshin hannu , waɗanda ke haɗuwa a Poles na Arewa da Kudu. Meridian na British Royal Observatory a Greenwich, a kudu maso gabashin London, Ingila, shi ne Firayim Minista na duniya, kodayake wasu ƙungiyoyi-irin su French Institut national de l’information géographique et forestière - ci gaba da amfani da wasu meridians don dalilai na ciki. Firayim Minista yana ƙayyade Hemispheres na Gabas da Yammacin da suka dace, kodayake taswira galibi suna rarraba waɗannan sassan zuwa yamma don kiyaye Tsohuwar Duniya a gefe ɗaya. Meridian antipodal na Greenwich duka 180 ° W da 180 ° E. Wannan ba za a haɗa shi da Layin Kwanan Duniya ba, wanda ya karkata daga gare shi a wurare da yawa saboda dalilai na siyasa da sauƙi, gami da tsakanin gabashin gabashin Rasha da tsibirin Aleutian da ke yamma mai nisa.
+Haɗuwa da waɗannan abubuwan biyu ya bayyana matsayin kowane wuri a saman Duniya, ba tare da la'akari da tsawo ko zurfin ba. Grid din da aka kirkira ta layin latitude da longitude ana kiransa "kyauta".  Tushen / sifili na wannan tsarin yana cikin Tekun Guinea na kusan 625 kilometres  kudu da Tema, Ghana .
+ 
+A kan GRS80 ko WGS84 spheroid a matakin teku a Equator, daya sakandare na biyu yakai mita 30.715, minti daya na latitudinal yakai mita 1843 kuma digirin latitudinal daya shine 110.6 kilomita. Da'irorin Longitude, meridians, sun haɗu a sandunan ƙasa, tare da faɗin yamma zuwa gabas na sakan na ɗabi'a yana raguwa yayin da latitude ke ƙaruwa. A kan Equator a matakin teku, dakika biyu a tsaye zaikai 30.92 mita, tsayin mintuna shine 1855 mita kuma digiri na biyu shine 111.3 kilomita. A 30 ° na biyu a tsaye shine 26.76 mita, a Greenwich  19.22 mita, kuma a 60 ° yana da mita 15.42.
+A kan WGS84 spheroid, tsayin a mitoci na digiri na latitude a latitude φ , shine game da
+Mita da aka dawo na mitoci a kowane matakin latitude ya sha bamban tare da latitude.
+Hakanan, ana iya lasafta tsayin a cikin mitoci na digiri na tsawo kamar yadda
+Dabarun sun dawo da raka'a mita na digiri.
+Wata hanya ta daban don kimanta tsawon karatun digiri a latitud 
+  
+    
+      
+        
+          
+             
+          
+          
+          
+        
+      
+    
+    \,\!}
+  
+ shine ɗaukar Duniyar da ke kewaye :
+ 
+inda duniya ke matsakaiciyar radius 
+  
+    
+      
+        
+          
+            
+              M
+              
+                r
+              
+            
+          
+          
+          
+        
+      
+    
+    }\,\!}
+  
+ ne 6,367,449 m . Tunda Duniya ƙasa ce mai fa'ida, ba mai zagaye ba, wannan sakamakon yana iya kashe da kashi goma cikin ɗari na ɗari; mafi kyaun kusanci na dogon lokaci a latitud 
+  
+    
+      
+        
+          
+             
+          
+          
+          
+        
+      
+    
+    \,\!}
+  
+ shine
+ 
+inda radius na kasa da kasa 
+  
+    
+      
+        a
+      
+    
+    
+  
+ yayi daidai da 6,378,137 m kuma 
+  
+    
+      
+        
+          
+            tan
+             
+             
+            =
+            
+              
+                b
+                a
+              
+            
+            tan
+             
+             
+          
+          
+          
+        
+      
+    
+    
+  
+ ; ga GRS80 da WGS84 spheroids, b / a lissafin ya zama 0.99664719. ( 
+  
+    
+      
+        
+          
+             
+          
+          
+          
+        
+      
+    
+    \,\!}
+  
+ an san shi da ƙarancin latitude (ko ma'auni ). Baya ga zagayawa, wannan ita ce madaidaiciyar tazara tare da daidaiton latitude; samun nesa tare da gajeriyar hanya zai zama aiki mai yawa, amma waɗannan nisan biyu koyaushe suna cikin mita 0.6 na juna idan maki biyun suna mataki ɗaya na nesa da juna.
+ 
+ 
+Don kafa matsayin wuri na wuri a kan taswira, ana amfani da tsinkayar taswira don sauya haɗin haɗin yanayin zuwa haɗin jirgin sama akan taswira; yana aiwatar da daidaitattun bayanan ellipsoidal da tsayi zuwa saman shimfidar taswira. Datum ɗin, tare da taswirar taswira da aka yi amfani da shi a layin wuraren bincike, ya kafa tsarin layin wutar lantarki don tsara wurare. Taswirar taswira ta gama gari a cikin amfani na yanzu sun hada da Universal Transverse Mercator , Tsarin Grid Reference Reference System , United States National Grid , Global Reference System  da World Geographic Reference System  .  Abubuwan haɗin kai akan taswira galibi suna cikin lamuran ƙa'idodi na N da kuma biyan harajin E dangane da asalin asali.
+Ka'idodin taswirar taswira sun dogara da joometry na tsinkayar da kuma sigogin da suka dogara da takamaiman wurin da aka tsara taswirar. Saitin sigogi na iya bambanta dangane da nau'in aikin da taron da aka zaba don tsinkayen. Don tsinkayen Mercator wanda aka yi amfani dashi a cikin UTM, sigogin da ke hade sune latitude da longitude na asalin halitta, al'adun karya da gabas ta karya, da kuma ma'aunin sikeli gaba daya.  Idan aka ba da sigogi da ke alaƙa da wani wuri ko murmushi, abubuwan da ake tsammani don ƙetare Mercator haɗuwa ce ta aikin algebraic da trigonometric.  1  
+ 
+Universal Transverse Mercator  da Universal Polar Stereographic  suna daidaita tsarin dukansu suna amfani da layin Cartesi wanda aka shimfida akan waniy ma'auni wanda aka tsara shi don gano matsayin a saman Duniya. Tsarin UTM ba taswirar taswira guda bane amma jerin sittin, kowannensu yana dauke da makada mai digiri 6 na tsawo. Ana amfani da tsarin UPS don yankuna na polar, waɗanda tsarin UTM bai rufe su ba.
+A lokacin zamanin da, ana amfani da tsarin daidaita yanayin sitiriyo don dalilai na kewayawa. ana buƙatar hujja  An tsara tsarin daidaita yanayin sitiriyo ta tsarin latitude-latitud. Kodayake ba a amfani da su a cikin kewayawa, ana amfani da tsarin daidaitaccen yanayin a cikin zamani don bayyana kwatancen kristal a fagen kristallography, ma'adinai da kimiyyar kayan. ana buƙatar hujja 
+Duk ma'anar da aka bayyana a cikin haɗin gwiwar ellipsoidal za'a iya bayyana ta azaman x y z  daidaitawa. Ididdigar Cartesian ta sauƙaƙe lissafin lissafi da yawa. Tsarin Cartesian na ɗakunan ajiya daban-daban basu dace ba. 
+-Asar da aka kafa ta duniya  yana juyawa tare da Duniya kuma yana da asalinsa a tsakiyar Duniya.
+Tsarin daidaitawa na hannun  dama na dama yana sanya:
+Misali shine bayanan NGS don faifan tagulla kusa da taron Donner, a California. Ganin girman  ellipsoid, jujjuyawar daga lat / lon / tsawo-sama-ellipsoid zuwa XYZ kai tsaye ne - a kirga XYZ don lat-lon da aka bayar akan farfajiyar ellipsoid kuma ƙara vetocin XYZ wanda yake daidai da ellipsoid a can kuma yana da tsayi daidai da tsayin wurin sama da ellipsoid. Juyin juya baya ya fi wuya: idan aka ba XYZ nan da nan za mu iya samun tsawo, amma babu wata hanyar rufewa da kewayawa da tsawo. Duba "Tsarin yanayi ." Ta amfani da dabara ta Bowring a cikin 1976 Survey Review na farko iteration bada latitude daidai tsakanin 10 -11 digiri muddin zance yana tsakanin mita 10,000 sama ko 5,000 mita kasa da ellipsoid.
+ 
+ 
+Ana iya bayyana jirgin saman tangal na gida dangane da matakan tsaye da kwance . Haɗin tsaye yana iya nunawa ko sama ko ƙasa. Akwai tarurruka iri biyu don hotunan:
+A cikin yawancin aikace-aikacen nema da bin diddigin tsarin daidaitaccen tsarin ENU Cartesian ya fi hankali da amfani fiye da ECEF ko haɗin gwiwar ƙasa. A gida ENU tsarawa an kafa daga wani jirgin saman tangent ga Duniya ta surface gyarawa zuwa wani takamaiman wuri kuma inganta shi ne, wani lokacin sani a matsayin mai gida tangent ko gida geodetic jirgin sama. Ta hanyar taron an sanya alamar gabas 
+  
+    
+      
+        x
+      
+    
+    
+  
+, arewa 
+  
+    
+      
+        y
+      
+    
+    
+  
+ da kuma sama 
+  
+    
+      
+        z
+      
+    
+    
+  
+ .
+A cikin jirgin sama, yawancin abubuwan sha'awa suna ƙasa da jirgin sama, saboda haka yana da kyau a ayyana a matsayin lamba mai kyau. Nungiyoyin NED sun ba da izinin wannan azaman madadin ENU. Ta hanyar yarjejeniya, ana yiwa arewa alama 
+  
+    
+      
+        
+          x
+           
+        
+      
+    
+    
+  
+, gabas 
+  
+    
+      
+        
+          y
+           
+        
+      
+    
+    
+  
+ da kasa 
+  
+    
+      
+        
+          z
+           
+        
+      
+    
+    
+  
+ . Don kaucewa rikicewa tsakanin 
+  
+    
+      
+        x
+      
+    
+    
+  
+ kuma 
+  
+    
+      
+        
+          x
+           
+        
+      
+    
+    
+  
+, da dai sauransu a cikin wannan labarin za mu ƙayyade tsarin haɗin gida zuwa ENU.
+Cite error: <ref> tags exist for a group named "note", but no corresponding <references group="note"/> tag was found

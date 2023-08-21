@@ -1,0 +1,5 @@
+671 Carnegia, 1  olim designatione 1908 DV agnitus, est asteroides systematis solaris nostri, asteroidibus Cinguli Principalis attributus. Astronomis terrestribus magnitudinem absolutam 10.00 monstrat. Die 21 Septembris 1908 ab Iohanne Palisa in Observatorio Vindobonae versato repertus est. 2  
+Rerum orbitalium ratio epochae 4 Ianuarii 2010 constitit. Qua epocha 671 Carnegia per dies 1985 circa solem movebatur. Axem orbitalem habebat unitatum astronomicarum 3.09 et eccentricitatem 0.07, distans igitur a sole quam minime unitatibus 2.88, quam maxime unitatibus 3.3. Inclinatio orbitalis 8.04  reperiebatur, anomalia media 130.83 .
+ Haec commentatio, automatice praeparata, res astronomicas colligit excerptas e pagina  sitús Small-Body Database, quem elaboraverunt NASA et JPL apud Institutum Technologiae Californiense.
+Planetae: Mercurius | Venus | Tellus  | Mars | Iuppiter | Saturnus | Uranus | Neptunus 
+Corpora alia: Satellites | Luna | Asteroides  | Corpora transneptuniana

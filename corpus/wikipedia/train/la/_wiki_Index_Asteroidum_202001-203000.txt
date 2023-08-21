@@ -1,0 +1,3 @@
+Ecce index asteroidum qui numeri ex 202001 ad 203000 habent.
+Vide omnes indices asteroidum in Index Asteroidum.
+202001... 202101... 202201... 202301... 202401... 202501... 202601... 202701... 202801... 202901... 

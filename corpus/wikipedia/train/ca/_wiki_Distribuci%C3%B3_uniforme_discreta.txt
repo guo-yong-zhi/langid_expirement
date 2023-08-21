@@ -1,0 +1,70 @@
+La distribució uniforme discreta és una distribució de probabilitat sobre un conjunt finit de punts als quals els assigna la mateixa probabilitat.
+Si la distribució considera els valors reals 
+  
+    
+      
+        
+          x
+          
+            1
+          
+        
+        ,
+        
+          x
+          
+            2
+          
+        
+         
+        
+          x
+          
+            n
+          
+        
+        
+        
+      
+    
+    ,x_\,\!}
+  
+, la seva funció de probabilitat és:
+i la seva funció de distribució acumulada  és:
+La seva esperança és:
+i la variància és:
+Si 
+  
+    
+      
+        X
+      
+    
+    
+  
+ és una variable aleatòria uniforme sobre el conjunt 
+  
+    
+      
+        
+      
+    
+    ,\dots ,x_
+  
+ s'escriu 
+  
+    
+      
+        X
+         
+        
+          
+            U
+          
+        
+        
+      
+    
+    }}
+  
+ .

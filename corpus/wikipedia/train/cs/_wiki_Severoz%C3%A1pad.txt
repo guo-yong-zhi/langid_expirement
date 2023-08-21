@@ -1,0 +1,3 @@
+Severozápad  je jeden z vedlejších směrů na kompasu. Leží mezi severem a západem, tj. odpovídá azimutu 315°. Na opačné straně je jihovýchod.
+Západoseverozápad  je dalším z vedlejších směrů na kompasu. Leží mezi severozápadem a západem, tj. odpovídá azimutu 292,5°. Na opačné straně je východojihovýchod.
+Severoseverozápad  je dalším z vedlejších směrů na kompasu. Leží mezi severozápadem a severem, tj. odpovídá azimutu 337,5°. Na opačné straně je jihojihovýchod.

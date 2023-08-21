@@ -1,0 +1,10 @@
+Antonio De Zolt  è stato un matematico italiano. 1 
+Laureato all'Università degli Studi di Torino nel 1872, divenne docente a Milano al Regio Liceo Ginnasio Giuseppe Parini. Si dedicò alle leggi della geometria. 2  È tumulato in un colombaro al Cimitero Monumentale di Milano. 3 
+Nel 1895 era stato uno dei fondatori  della Mathesis.
+Nel 1881 De Zolt enunciava un postulato:
+«Il tutto non è equivalente ad una sua parte»
+L'assioma è intuitivamente valido per quantità finite, ma se si passa al confronto di quantità infinite, l'assioma non è più vero. Consideriamo, ad esempio, tutti i numeri naturali, ad ognuno di essi si può far corrispondere il suo doppio, quindi ad ogni numero naturale corrisponde un numero pari. Quindi possiamo dedurre che i numeri pari sono tanti quanti i numeri naturali. Questo risultato risulta contrario a quanto afferma De Zolt.
+Il paradosso viene esposto, in una seconda forma, da Galileo Galilei: 
+«Il tutto è maggiore della parte»
+Ciò viene affermato valido in assoluto anche da Aristotele.
+Mettere in corrispondenza gli elementi di un insieme con quelli di una sua parte è caratteristica degli insiemi di infiniti elementi. Nel caso infinito, gli elementi di un insieme possono ben essere tanti quanti quelli di una sua parte.

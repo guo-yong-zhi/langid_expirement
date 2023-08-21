@@ -1,0 +1,10 @@
+Pour les articles homonymes, voir Surface.
+Cet article est une ébauche concernant l’aéronautique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+La surface alaire d'un avion ou d'un planeur est l'aire des ailes projetée sur le plan horizontal , empennage non compris.
+Elle se calcule comme toute aire en mathématiques. 
+La surface reliant les ailes à travers le fuselage est incluse dans le calcul.
+La surface alaire et la vitesse sont des facteurs qui  déterminent la portance de l'appareil.
+La portance varie avec le carré de la vitesse : un avion allant moins vite compense ce manque de vitesse par une surface plus importante ; à l'inverse, les avions les plus rapides ont de petites ailes de moindre superficie, ce qui réduit leur traînée à grande vitesse, mais augmente leur vitesse de décrochage. Pour garder une vitesse de décrochage raisonnable tout en diminuant la surface alaire, on ajoute souvent des dispositifs hypersustentateurs aux ailes.
+Avions civils
+Avions militaires

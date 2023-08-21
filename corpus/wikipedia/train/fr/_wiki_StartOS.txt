@@ -1,0 +1,12 @@
+Cet article est une ébauche concernant un logiciel libre.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+StartOS, anciennement appelée Ylmf OS, est une distribution Linux gratuite dérivée du système d'exploitation Ubuntu  développée en République populaire de Chine, et dont la première version est sortie en 2009.
+L'ancienne version de cette distribution, lorsqu'elle était appelée Ylmf, se caractérisait principalement par son interface utilisateur, très similaire à celle de Microsoft Windows XP. Elle connaît une grande popularité en Chine réf. nécessaire .
+Le navigateur par défaut depuis la version 5 est Chromium, le logiciel libre qui est la base de Chrome. Les appareils vendus en Chine, avec Android ne contient pas les applications fermées Google, où elles sont remplacées par des applications locales. De la même façon, les machines contenant ChromeOS sont remplacés par Chromium OS, la version libre.
+La version 6.0 beta, développé principalement pour les plates-formes x86 64 bits , est déclinée en deux versions, avec bureau KDE ou avec bureau GNOME.
+Elle est proposée en 2014, lors de la fin du support de Windows XP et l'interdiction aux agences gouvernementales d'installer Windows 8, comme une des possibles solutions, permettant de réduire les coûts de migrations et de résoudre les problèmes de sécurité et de souveraineté, soulevés notamment par Edward Snowden.
+3.0
+4.0
+5.0
+6.0beta KDE
+Sur les autres projets Wikimedia :

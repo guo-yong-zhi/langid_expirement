@@ -1,0 +1,15 @@
+Windows  d yiwen n unagraw seg yinagrawen n wammud i d-tesuffeɣ Microsoft i yiselkimen imṣudan . Yerna-d deffir MS DOS.
+Seg yiseggasen n 1990 , d ttwafɣa n Windows 95, i  d-yemmugren rbaḥ ameqqṛan, dɣa imi amaẓrag-ines yestenya amtawa d waṭas n yimesraken n yiselkimen iwakken ad sbeddayen deg yifuras-nsen ala Windows 95 neɣ muyaf-asen gen tafagwit n tedrimt, ayagi yeǧǧat ad yawi amḍiq ameqṛan deg ugduz.
+taseddaṛt n Windows deg-s aṭas ifurkawen:
+Di 2001 Windows XP yeffeɣ-d, yuɣal ufurk agi sseqdacent yemdanen merra, ayen yeǧǧan Microdoft ad suffaɣ wa deffir wayeḍ Windows Vista d Windows 7.
+Ismawen n tengalin yettwasnen ger wacciwen.
+Ileqmen imezwura n Windows ttwasekkaren si DOS, sseqdacen anagraw n ifuyla n DOS. Sinna Windows tsekcem-d kra n twura n unagraw n wammud, am umasal n uselkam n yimanis, asefrek n ukala multitaches, asefrek n tkatut tahlist d inuḍafen iw sefrek n ubeqqeḍ, asiggez, anasiw, imesli ... d wiyaḍ. Windows 2.10 i 386 yuǧwed ula d netta seg iketturen n Intel 80386, am usersi n yiɣes s uqqin imesten d uselkem n ahilen DOS di tmacinin tuhlisin s uqqin 8086.
+Nezmer daɣen anesseqdac Windows di DOS wiyaḍ mači MS-DOS n Windows, am PC-DOS n IBM neɣ DR-DOS, maca ilaq ad neǧǧ di rrif yark inzan inezriyen i d-ittcegga uselkim deg usbeddi.
+si Windows 95, agrudem udlif yuɣal susmenzi d-amadraw n MS-DOS. Dayen id yessekren ugur ger Caldera, ig llan d-amaẓrag n DR-DOS di lawan nni, yettaǧǧan daɣen Windows ad yelḥu, d Windows.
+Si Windows XP, nezmer ad nini dakken DOS dayen iruḥ yark seg inagrawen n wammud n Microsoft, maca talalt ines tezmer adili.
+Ismawen n tengalin yettwasnen ger wacciwen.
+A laǧay n yiɣes n NT meẓẓiyen aṭas d ugar n useqdec n wahilen ddaw MS-DOS, Microsoft tẓerged yiwen unagraw n wammud iwakken ad yettwaseqdac sɣuṛ yemdanen maṛṛa, d win id yebwin tiɣerwan yelhan n Windows NT u yeqqim d-amṣadan d-ileqman imenza n Windows d MS-DOS.
+Inagrawen Windows 95 d wid it idiḍefṛen d-inemhazen iregnawen 16/32 ibitten n-ileqman Windows 3.0 d 3.1. Ttwasulin yark ɣef yiwet tmudemt inuḍafen: i VxD ten. Di 1995, Windows 95 yebwid aṭas tɣawsuwin timaynutin: tissi n uzeṭṭa id yesukkes si tin n Windows NT, agrudem udlif amaynut. Mači d anagraw n wammud amaynut, maca d tanemhazt n Windows 3.1. ɣuṛ Windows 95 tazmert iwakken ad yelḥu ɣef tiwilawin unekcum n tseddaṛt s wazal n 4 MO n tkatut tuddirt , lqem OSR2 n Windows 95 yebwid ttawil n tawadma n tezmart n USB d FAT32.
+Lqem-agi amezwaru yettwasnen ussan-nni n tneflit-ines s yisem n "Chicago" u yeffeɣ-d s yisem n Windows 95, yemmuger-d tinemhazin timeqqṛanin, gar-asent Windows 98 d Windows Me , i yeǧǧan inagrawen n wammud n Microsoft ad ttwasnen xilla. 
+Ileqman agi yark sɛan yiwen wugur ameqqṛan ninfafaden, ayen yeǧǧan Microsoft ad tsuffeɣ afurk n Windows NT 5.1 neɣ win umi neqqaṛ Windows XP iwakken ad tqazem ugur agi.
+Ismawen n tengalin yettwasnen ger wacciwen.

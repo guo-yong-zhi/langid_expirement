@@ -1,0 +1,581 @@
+Em matemática e ciência da computação teórica, um semiautômato é um autômato finito determinístico que tem entradas mas não tem saídas. Isto consiste de um conjunto Q de estados, um alfabeto de entrada Σ, e uma função T: Q × Σ → Q chamado de função de transição.
+Associado a qualquer semiautômato está um monoide chamado monoide de característica, monoide de entrada, monoide de transição ou sistema de transição do semiautômato, que atua  sobre o conjunto de estados Q. Isso pode ser visto tanto como uma ação do monoide livre de uma cadeia de caracteres na entrada do alfabeto Σ, ou como uma transformação de semigrupo de Q.
+Em livros antigos como Clifford e Preston , ações-S são chamadas de “operandos”.
+Em teoria das categorias, semiautômatos são essencialmente funtores.
+Um semigrupo de transformação  ou transformação de monoide é um par 
+  
+    
+      
+        
+      
+    
+    
+  
+ consistindo de um conjunto  de Q  e um semigrupo  ou monoide  M de funções, ou “transformações”, mapeando Q em si próprio. Eles são funções no sentido de que todo elemento m de M é um mapeamento 
+  
+    
+      
+        m
+         
+        Q
+         
+        Q
+      
+    
+    
+  
+. Se s e t são duas funções de um semigrupo de transformação, o produto deles é definido como sua composição de função. 
+  
+    
+      
+        
+        
+        =
+        
+        
+        =
+        s
+        (
+        t
+        
+        )
+      
+    
+    
+  
+.
+Alguns autores consideram “semigrupo” e “monoide” como sinônimos. Aqui um semigrupo não precisa ter um elemento identidade; um monoide é um semigrupo com um elemento identidade . Desde a noção de funções agindo sob um conjunto sempre é incluso a noção de uma função identidade, que quando é aplicada ao conjunto não faz nada, um semigrupo de transformação pode ser feito em um monoide adicionando a função identidade.
+Seja M um monoide e Q um conjunto não vazio. Se existe uma operação de multiplicação que satisfaz a propriedade para 1 a unidade do monoide, e para todo 
+  
+    
+      
+        q
+         
+        Q
+      
+    
+    
+  
+ e 
+  
+    
+      
+        s
+        ,
+        t
+         
+        M
+      
+    
+    
+  
+, então a tripla 
+  
+    
+      
+        
+      
+    
+    
+  
+ é chamada uma ação-M à direita ou simplesmente uma ação à direita.  Onde, 
+  
+    
+      
+         
+      
+    
+    
+  
+ é a multiplicação direita de elementos de Q por elementos de M. A ação à direita é usualmente escrita como 
+  
+    
+      
+        
+          Q
+          
+            M
+          
+        
+      
+    
+    }
+  
+.
+A ação de esquerda é definida similarmente, com E é denotada como 
+  
+    
+      
+        
+          
+          
+            M
+          
+        
+        Q
+      
+    
+    Q}
+  
+.
+Uma ação-M é estreitamente relacionada a uma transformação de monóide. Entretanto os elementos de M não precisam ser funções por si, elas são apenas elementos de um monoide. Portanto, deve-se exigir que a ação de 
+  
+    
+      
+         
+      
+    
+    
+  
+ seja consistente com a multiplicação no monoide 
+        =
+         
+        
+      
+    
+    
+  
+), como, em geral, isso não pode assegurar para algum 
+  
+    
+      
+         
+      
+    
+    
+  
+ arbitrário, da maneira que ele faz para a composição de função.
+Uma vez que se faz essa exigência, ele está completamente seguro para queda de todos os parênteses, como o produto do monoide e a ação do monoide em um conjunto são completamente associativos. Em particular, esses elementos do monoide permitidos para serem representados como cadeia de caracteres de letras. Essa abstração nos permite falar sobre operações em cadeias de caracteres em geral, e eventualmente conduzir ao conceito de linguagem formal como sendo composta de letras.
+Outra diferença entre uma ação-M e uma transformação de monoide é que para uma ação-M Q, dois elementos distintos do monoide pode determinar a mesma transformação de Q. Se nós forçamos isso não acontecer, então uma ação-M é essencialmente a mesma que um monoide de transformação.
+Para duas ações-M 
+  
+    
+      
+        
+          Q
+          
+            M
+          
+        
+      
+    
+    }
+  
+ e 
+  
+    
+      
+        
+          B
+          
+            M
+          
+        
+      
+    
+    {\displaystyle B_
+  
+ compartilhando o mesmo monoide 
+  
+    
+      
+        M
+      
+    
+    
+  
+, um homomorfismo-M 
+  
+    
+      
+        f
+         
+        
+          Q
+          
+            M
+          
+        
+         
+        
+          B
+          
+            M
+          
+        
+      
+    
+    \to B_
+  
+ é um mapeamento 
+  
+    
+      
+        f
+         
+        Q
+         
+        B
+      
+    
+    
+  
+ tal como
+para todo 
+  
+    
+      
+        q
+         
+        Q
+      
+    
+    
+  
+ e 
+  
+    
+      
+        m
+         
+        M
+      
+    
+    
+  
+. O conjunto de todos os homomorfismos-M é comumente escrito como 
+  
+    
+      
+        
+          H
+          o
+          m
+        
+        
+      
+    
+     }
+  
+ ou 
+  
+    
+      
+        
+          
+            H
+            o
+            m
+          
+          
+            M
+          
+        
+        
+      
+    
+     _
+  
+.
+As ações-M e homomorfismos-M juntos formam uma categoria chamada Ação-M.
+Um semiautômato é uma tripla  
+  
+    
+      
+        
+      
+    
+    
+  
+ onde 
+  
+    
+      
+         
+      
+    
+    
+  
+ é um conjunto não vazio de um alfabeto de entrada, Q é um conjunto não vazio, chamado conjunto de estados, e T é a função de transição.
+Quando o conjunto de estados Q é um conjunto finito , um semiautômato pode ser interpretado como um autômato finito determinístico 
+  
+    
+      
+        
+      
+    
+    
+  
+, mas sem o estado inicial  
+  
+    
+      
+        
+          q
+          
+            0
+          
+        
+      
+    
+    }
+  
+ ou sem o conjunto de estados de aceitação A. . Alternativamente, isso é uma máquina de estados finitos, a qual não tem saída, e tem somente uma entrada.
+Qualquer semiautômato induz uma ação de monoide da seguinte forma.
+Faça 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+ ser um monóide livre gerado por um  alfabeto 
+  
+    
+      
+         
+      
+    
+    
+  
+ ; isso é o conjunto de todas as palavras de tamanho finito composta de letras em 
+  
+    
+      
+         
+      
+    
+    
+  
+.
+Para toda palavra w em 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+, faça 
+  
+    
+      
+        
+          T
+          
+            w
+          
+        
+         
+        Q
+         
+        Q
+      
+    
+    \colon Q\to Q}
+  
+ ser a função, definida recursivamente, como se segue, para todo q em Q:
+Seja 
+  
+    
+      
+        M
+        
+      
+    
+    
+  
+ o conjunto
+O conjunto 
+  
+    
+      
+        M
+        
+      
+    
+    
+  
+  é fechado sob composição de funções; Isto é, para todo 
+  
+    
+      
+        v
+        ,
+        w
+         
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+, tem um 
+  
+    
+      
+        
+          T
+          
+            w
+          
+        
+         
+        
+          T
+          
+            v
+          
+        
+        =
+        
+          T
+          
+            v
+            w
+          
+        
+      
+    
+    \circ T_}
+  
+. Este que também contém 
+  
+    
+      
+        
+          T
+          
+             
+          
+        
+      
+    
+    }
+  
+, que é a função identidade em Q. Uma vez que a composição de função é associativa, o conjunto  
+  
+    
+      
+        M
+        
+      
+    
+    
+  
+ é um monoide: isto é conhecido como monóide de entrada, monóide característico, semigrupo característico ou monóide de transição do semiautômato 
+  
+    
+      
+        
+      
+    
+    
+  
+.
+Se o conjunto de estados Q é finito, então as funções de transição são comumente representadas como tabelas de estados de transições. A construção de todas as possíveis transições alimentadas por palavras em um grupo livre tem uma representação gráfica como a dos grafos de De Brujin.
+O conjunto de estados Q não precisa ser finito, nem contável. Por exemplo, semiautômatos utilizam o conceito de autômato quântico finito. O conjunto de estados Q são dados pelo espaço projetivo complexo 
+  
+    
+      
+        
+          C
+        
+        
+          P
+          
+            n
+          
+        
+      
+    
+     P^
+  
+, e estados individuais são referidos como bits quânticos de n-estados. Estados de transições são dados por uma matriz unitária n×nMatriz unitária.  O alfabeto de entrada  
+  
+    
+      
+         
+      
+    
+    
+  
+ permanece finito, e outra preocupação típica de teoria dos autômatos continuam. Então, o semiautômato quântico, pode ser simplesmente definido como a tripla  
+  
+    
+      
+        
+      
+    
+    
+  
+ quando o alfabeto 
+  
+    
+      
+         
+      
+    
+    
+  
+  tem p símbolos, de modo que existe uma matriz unitária 
+  
+    
+      
+        
+          U
+          
+             
+          
+        
+      
+    
+    }
+  
+ para cada símbolo 
+  
+    
+      
+         
+         
+         
+      
+    
+    
+  
+. Visto que desta maneira, é óbvio que o semiautômato quântico tem várias generalizações geométricas. Então, por exemplo, pode se tomar um espaço simétrico de Riemannian em um espaço 
+  
+    
+      
+        
+          C
+        
+        
+          P
+          
+            n
+          
+        
+      
+    
+     P^
+  
+, e seleções destes grupos isométricos como funções de transição.
+O monóide sintático de uma linguagem formal é isomorfo ao monoide de transição de um autômato mínimo aceitando a linguagem.

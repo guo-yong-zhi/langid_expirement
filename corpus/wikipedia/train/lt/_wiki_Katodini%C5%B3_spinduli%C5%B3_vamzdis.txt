@@ -1,0 +1,11 @@
+Katodinių spindulių vamzdis  – elektroninė lempa, elektrovakuuminis prietaisas, kuriame fosforescuojančiame ekrane vaizdą kuria elektronų pluoštelis .
+Tokį vamzdį sudaro didelė vakuuminė kolba, kurios gale yra elektronų šaltinis . Kolboje sukuriami elektriniai ir magnetiniai laukai elektronus įgreitina ir sufokusuoja į pluoštelį, kuris greitai „bėga“ kitoje kolbos pusėje esančiu ekrano paviršiumi. Ekrano paviršius iš vidaus padengtas medžiaga, kuri švyti į ją atsitrenkiant pagreitintiems elektronams.
+LCD vaizduokliai, neturintys pagrindinių CRT trūkumų, palaipsniui išstumia CRT iš rinkos.
+Kadangi vaizdą formuoja bėgantis taškas, vaizdas monitoriuje šiek tiek mirga, vargindamas akis. Šis mirgėjimo efektas mažesnis esant didesniam vaizdo atnaujinimo dažniui. Pardavėjai teigia, esą 100 Hz  mirgėjimo akis jau nepastebi. Tačiau tuomet elektronų pluoštelis turi judėti labai greitai, todėl tokie monitoriai darosi sudėtingi ir brangūs. Kita išeitis – panaudoti liuminoforą, kuris švytėtų ilgiau, negu yra veikiamas elektronų pluošto. Tačiau tokiu atveju ekrane lieka judančio vaizdu šešėliai ir jis daugeliui vartotojų nepatogus.
+Į stiklą atsitrenkiantys įsibėgėję elektronai, prarasdami energiją, spinduliuoja kenksmingus rentgeno spindulius. Tobulinant CRT konstrukciją, stengiamasi spinduliavimą sumažinti, bet visgi jis nėra lygus nuliui. Daugiau spinduliuoja dideli, spalvotą vaizdą rodantys CRT, nes juose elektronus tenka labiau įgreitinti.
+Elektronų nukreipimui ir įgreitinimui naudojami galingi elektromagnetiniai laukai, kurie irgi kenkia sveikatai. Kuo didesnis ekranas, tuo šie laukai stipresni.
+CRT naudoja daug elektros energijos.
+CRT darbui reikalinga aukšta elektrinė įtampa, kuri, pažeidus monitoriaus korpusą, yra pavojinga gyvybei.
+CRT yra didelis ir gana pavojingas  prietaisas.
+Pagrindinis parametras – vaizdo atkūrimo dažnis . Jis turėtų būti ne mažesnis nei 75 Hz . Aukštesnio dažnio monitoriai vaizdą atkuria tiksliau.
+Parametras priklauso nuo to, kokia naudojama skiriamoji geba. Monitorius, gebantis palaikyti 100 Hz esant 800×600 raiškai, gali nesugebėti to padaryti esant 1024x768 raiškai.

@@ -1,0 +1,16 @@
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9 
+→
+zoznam čísel   celé čísla
+← 0 10 20 30 40 50 60 70 80 90 →
+1  je základná jednotka všetkých číselných sústav. Používa sa na označenie počtu jedinej podstaty, objektu. Je to tiež najmenšie kladné celé číslo a jediné prirodzené číslo , ktoré nie je ani prvočíslo, ani zložené číslo.
+Pre každé číslo x platí:

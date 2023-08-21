@@ -1,0 +1,5 @@
+En nitril er en organisk kemisk forbindelse, som indeholder den funktionelle gruppe nitrilgruppen. Nitrilgruppen består af et kvælstof- og et kulstofatom, som er bundet sammen med en tripelbinding. Nitrilgruppen henregnes til gruppen af syrederivater, og kan derfor hydroliseres til en carboxylsyregruppe.
+Citalopram, som er det aktive stof i antidepressive midler som f.eks. lykkepiller, er en nitril.
+Simple nitrilforbindelser navngives ved at tilføje endelsen -nitril til det systematiske navn. Mere komplekse forbindelser navngives efter den tilsvarende carboxylsyre ved at erstatte endelsen -syre med -onitril eller carboxylsyre med carbonitril. F.eks. hedder benzosyres nitril benzonitril.
+Nitriller kan fremstilles ved reaktion mellem primære alkylhalider og cyanid-anionen. Nitriller oxideres nemt til carboxylsyrer i enten sur eller basisk opløsning. Nitriller kan reduceres til aminer med LiAlH4. Nitriller kan også reagere med Grignardreagenser og danne ketoner.
+Nitriller som CH3CN synes at være tilstede i dannelsesfasen af solsystemer. 1 

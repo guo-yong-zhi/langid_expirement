@@ -1,0 +1,41 @@
+En Lógica Resolución es una regla de inferencia utilizada sobre cierto tipo de proposiciones lógicas y es especialmente utilizada para los demostradores automatizados de teoremas. Utilizando resolución se puede construir un demostrador que sea completo  y correcto  para la lógica proposicional y de primer orden supuesto que un conjunto de proposiciones son insatisfacibles. Por otro lado si el conjunto de proposiciones de hecho es satisfacible, puede o no terminar en una cantidad finita de pasos una demostración por resolución, generalmente lo que sucede es que se asigna un tiempo límite para hallar si un conjunto es insatisfacible o no. 
+Resolución solamente funciona cuando se escriben las proposiciones en términos de premisas que constan solamente de disyunciones de literales. Puesto que toda proposición lógica se puede escribir en términos de disyunciones, conjunciones y negaciones lo anterior no supone una limitación del método más allá de transformar proposiciones lógicas. Las proposiciones escritas en esta forma se les denomina cláusulas.
+La regla es bastante sencilla y un ejemplo muestra el razonamiento detrás de ella, de las siguientes dos oraciones: 'Juan va a al cine o Julia va a patinar' y 'Juan no va el cine o Jorge juega fútbol' podemos deducir la siguiente oración 'Julia va a patinar o Jorge juega fútbol' la razón es que puesto que Juan no puede al mismo tiempo ir y no ir al cine, para que las disyunciones anteriores sean ciertas se debe de cumplir alguna de las dos proposiciones: 'Julia va a patinar' o 'Jorge juega fútbol' o ambas.
+En general esta regla se escribe de la siguiente forma:
+donde:
+y 
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+      
+    
+    }
+  
+ es la negación  de 
+  
+    
+      
+        
+          q
+          
+            j
+          
+        
+      
+    
+    }
+  
+Para poder emplear esta regla tenemos que pasar todas nuestra proposiciones a la forma normal de cláusulas o forma estándar de cláusulas. Una fórmula de lógica de primer orden se puede transformar a la forma normal de cláusulas mediante los siguientes pasos:
+1. Pasar la fórmula a la forma prenexa.
+2. Pasar la matriz  a la forma conjuntiva normal.
+3. Skolemizar.
+Una vez escrita en esta forma los cuantificadores universales no se escriben.
+Para usar resolución primero procedemos a hallar el unificador más general de dos cláusulas. Y una vez hallado susitituimos tal unificador en ambas cláusulas eliminando las literales correspondientes. Hay dos asuntos a tomar en cuenta: los factores y renombrar variables.
+El poder de cómputo ha propiciado que ciertas áreas nuevas se desarrollaran en el siglo XX, la demostración automatizada de teoremas surgió de la motivación por crear programas de computadora que emularan las habilidades humanas de razonamiento. Dos caminos surgieron, el primero tratar de entender qué proceso siguen las personas cuando crean demostraciones y hacer programas que emulen este comportamiento, el segundo usar de manera sistemática el trabajo ya desarrollado por los lógicos.
+De este segundo camino se crearon los demostradores automatizados de teoremas, se hicieron y se siguen haciendo varios intentos, uno de los que han tenido más influencia es el método de resolución introducido por Robinson en 1965. Robinson encontró una sola regla de inferencia, fácil de implementar por una computadora, que era completa para la lógica de primer orden.

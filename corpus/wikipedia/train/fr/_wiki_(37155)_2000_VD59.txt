@@ -1,0 +1,5 @@
+
+modifier  2000 VD59 est un objet de la ceinture principale d'astéroïdes extérieure de 12,299 km de diamètre découvert en 2000.
+ 2000 VD59 a été découvert le 5 novembre 2000 à l'observatoire Magdalena Ridge, situé dans le comté de Socorro, au Nouveau-Mexique , par le projet Lincoln Near-Earth Asteroid Research .
+L'orbite de cet astéroïde est caractérisée par un demi-grand axe de 3,95 ua, un périhélie de 3,36 ua, une excentricité de 0,15 et une inclinaison de 7,70° par rapport à l'écliptique. Du fait de ces caractéristiques, à savoir un demi-grand axe entre 3,2 et 4,6 ua, il est classé, selon la JPL Small-Body Database, comme objet de la ceinture principale d'astéroïdes extérieure.
+ 2000 VD59 a une magnitude absolue  de 13,2 et un albédo estimé à 0,074, ce qui permet de calculer un diamètre de 12,299 km. Ces résultats ont été obtenus grâce aux observations du Wide-Field Infrared Survey Explorer , un télescope spatial américain mis en orbite en 2009 et observant l'ensemble du ciel dans l'infrarouge, et publiés en 2012 dans un article regroupant les caractéristiques de 1 023 astéroïdes du groupe de Hilda.

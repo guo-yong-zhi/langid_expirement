@@ -1,0 +1,155 @@
+Hlavní kružnice neboli ortodroma je průnik kulové plochy  a roviny, která prochází jejím geometrickým středem. Hlavní kružnice je největší kružnice, kterou lze na dané dané kouli vybrat. Průměr každé hlavní kružnice je stejný jako průměr koule a proto mají všechny hlavní kružnice stejný střed a obvod. Hlavní kružnice je speciálním případem sférické kružnice a je opakem malé kružnice, což je průnik kulové plochy s rovinou neprocházející jejím středem. Každá kružnice v eukleidovském prostoru je hlavní kružnicí právě jedné koule.
+Pro většinu dvojic různých bodů na povrchu koule existuje jednoznačná hlavní kružnice procházející oběma body. Výjimkou je libovolná dvojice opačných bodů, kterými prochází nekonečně mnoho hlavních kružnic. Kratší oblouk hlavní kružnice mezi dvěma body je nejkratší povrchovou cestou mezi nimi. V tomto smyslu je kratší oblouk obdobou „přímky“ v Eukleidovské geometrii. Délka kratšího oblouku hlavní kružnice je nejkratší vzdálenost mezi dvěma body na povrchu koule v Riemannově geometrii, kde se takové hlavní kružnice nazývají Riemannovské kružnice. Tyto hlavní kružnice jsou geodéziemi koule.
+Ve vyšších rozměrech je hlavní kružnice na n-rozměrné sféře průnikem této sféry s libovolnou  rovinou, která prochází počátkem eukleidovského prostoru Rn + 1.
+Pro důkaz, že kratší oblouk hlavní kružnice je nejkratší cestou propojující dva body na povrchu koule, můžeme použít variační počet.
+Uvažujme třídu všech regulárních cest z bodu 
+  
+    
+      
+        p
+      
+    
+    
+  
+ do jiného bodu 
+  
+    
+      
+        q
+      
+    
+    
+  
+. Zavedeme kulové souřadnice tak, aby 
+  
+    
+      
+        p
+      
+    
+    
+  
+ byl severním pólem. Jakoukoli křivku na kouli, která neprotíná žádný pól , lze parametrizovat vztahem
+za předpokladu, že umožníme, aby 
+  
+    
+      
+         
+      
+    
+    
+  
+ nabývalo libovolné reálné hodnoty. Délka infinitezimálního oblouku v těchto souřadnicích je
+Takže délka křivky 
+  
+    
+      
+         
+      
+    
+    
+  
+ z 
+  
+    
+      
+        p
+      
+    
+    
+  
+ do 
+  
+    
+      
+        q
+      
+    
+    
+  
+ je funkcionálem křivky splňujícím vztah
+Podle Eulerovy–Lagrangeovy rovnice je 
+  
+    
+      
+        S
+        
+      
+    
+    
+  
+ minimální právě tehdy když
+kde 
+  
+    
+      
+        C
+      
+    
+    
+  
+ je konstanta nezávislá na 
+  
+    
+      
+        t
+      
+    
+    
+  
+ a
+Z první z těchto rovnic lze odvodit, že
+Integrováním obou stran i uvažováním okrajových podmínek dostaneme reálné řešení 
+  
+    
+      
+        C
+        =
+        0
+      
+    
+    
+  
+. Tedy 
+  
+    
+      
+        
+           
+           
+        
+        =
+        0
+      
+    
+    
+  
+ a 
+  
+    
+      
+         
+      
+    
+    
+  
+ může být jakákoli hodnota mezi 0 a 
+  
+    
+      
+        
+           
+          
+            0
+          
+        
+      
+    
+    }
+  
+, což ukazuje, že křivka musí ležet na poledníku. V kartézských souřadnicích to je
+což je rovina procházející počátkem, tj. středem koule.
+Příklady hlavních kružnic na nebeské sféře jsou obzorník, nebeský rovník a ekliptika. Hlavní kružnice se také používají jako přesné aproximace geodézií na zemském povrchu pro leteckou nebo námořní navigaci , i na kulových nebeských tělesech.
+Rovník idealizované Země je hlavní kružnice a jakýkoli poledník s opačným poledníkem tvoří také hlavní kružnici. Existuje mnoho dalších hlavních kružnic, například ta, které dělí Zemi na polokouli země a polokouli vody. Každá hlavní kružnice rozděluje Zemi na dvě polokoule, a pokud hlavní kružnice prochází nějakým bodem, musí procházet také bodem k němu opačným.
+Funkova transformace provádí integraci dané funkce podél všech hlavních kružnic koule.
+V tomto článku byl použit překlad textu z článku Great circle na anglické Wikipedii.

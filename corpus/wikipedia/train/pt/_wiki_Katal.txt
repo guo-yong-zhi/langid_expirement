@@ -1,0 +1,22 @@
+O katal  é a unidade de medida do SI da atividade catalítica.  É uma unidade derivada do SI para quantificar a atividade catalítica de enzimas e outros catalisadores.
+Seu uso é recomendado pela Conferência Geral de Pesos e Medidas e outras organizações internacionais.
+O katal não é usado para demonstrar a taxa de reações - que é expressa em unidades de concentração por segundo . Um katal de tripsina, por exemplo, é a quantidade de tripsina que quebra  um mol de ligação peptídica por segundo, sob condições especificadas.
+O katal é expresso em moles/s.
+  
+    
+      
+        k
+        a
+        t
+        =
+        m
+        o
+        l
+        
+          /
+        
+        s
+      
+    
+    
+  

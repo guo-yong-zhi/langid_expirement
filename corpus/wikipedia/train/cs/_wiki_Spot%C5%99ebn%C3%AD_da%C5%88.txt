@@ -1,0 +1,40 @@
+Spotřební daň je nepřímá selektivní daň, kterou zavádí stát za účelem regulovat cenu určitých komodit na trhu. Účelem může být buď zvýšit příjmy státního rozpočtu, nebo snížit prodávané množství zboží, jehož spotřeba je považovaná za škodlivou pro jednotlivce a/nebo pro společnost.
+Předchůdcem spotřebních daní byl akcíz, daně, které stát vybíral při výrobě a prodeji vybraného zboží. Šlo původně o trhové poplatky, mýto apod., později transformované ve všeobecné zdanění zboží osobní spotřeby, především potravin. Na českém území byl akcíz realizován až do roku 1942 jako tzv. potravní daň na čáře, tedy zvláštní daň, která byla vybírána při dovozu potravin do tzv. uzavřených měst.
+Spotřební daň bývá využívána k politickým či finančním potřebám. Důvodem vedle naplnění státního rozpočtu je i řešení problémů ohledně zdraví a bezpečnosti společnosti, ochrany životního prostředí a v některých zemích i společenské morálky. Vyšší cenou klesá poptávka po výrobcích zasažených touto daní. Příjem putuje zpátky do systému a je využit v oblastech týkajících se stejné tematiky, například odvykací centra pro závislé, protitabákové kampaně, léčba nemocných postižených rakovinou jater, plic, vysazování nových stromů, opravy a výstavba silnic, atd.
+Spotřební daň se liší od dani z přidané hodnoty ve dvou důležitých bodech. Je zpravidla selektivní: tzn. platí na nějakou skupinu specifických výrobků, které většinou souvisí se zdravotními riziky nebo s nebezpečím pro životní prostředí. Zatímco DPH se vztahuje na většinu produktů pro spotřebitele v různých výších nebo se jedná o výjimky.
+Druhým rozdílem je, že DPH se počítá jako procentuální částka ze základu, který zahrnuje i spotřební daň. Ta je přičítána fixní částkou podle naturální jednotky zboží . Na fakturách a účtenkách pak DPH lze vidět zvlášť a snadno vyčíst hodnotu, ale u spotřební daně to není možné. 1 
+V Česku jsou předmětem daně tabák, alkohol a pohonné hmoty . Zdaňovací období pro tuto daň je jeden měsíc, pokud ale v tomto měsíci nevznikne povinnost daň přiznat, nemusí se podávat daňové přiznání. Plátci daně jsou výrobci a provozovatelé tzv. daňových skladů. Poplatníky jsou pak kupující výrobku, daň je obsažena v ceně výrobku, jako je tomu například i u DPH. 2  Daň se započítává do základu pro výpočet DPH, tedy nezvyšuje jen cenu samotného výrobku, ale i hodnotu DPH. Sazby daně jsou většinou stanoveny samostatně pro každý typ výrobku v závislosti na měrných jednotkách  a nezáleží na kvalitě surovin a výrobku takového. Od roku 2004 vykonává její správu Celní úřad, do konce roku 2003 správu vykonával Finanční úřad. Spotřební daň tvoří přibližně 14 % státního rozpočtu ČR. 3 
+Jednotlivými spotřebními daněmi dle zákona o spotřební dani jsou:
+a) daň z minerálních olejů,
+b) daň z lihu,
+c) daň z piva,
+d) daň z vína a meziproduktů,
+e) daň z tabákových výrobků,
+f) daň ze surového tabáku,
+g) daň ze zahřívaných tabákových výrobků,
+h) daň z elektřiny,
+i) daň z pevných paliv,
+j) daň ze zemního plynu a některých dalších plynů.
+Příklad: Spotřební daň z 0,5 l nápoje se 40 % obj. alkoholu činí 0,5 × 0,40 × 285 Kč = 57 Kč.
+sazba
+do 50 000
+do 100 000
+do 150 000
+do 200 000
+Malým nezávislým pivovarem je pivovar, jehož roční výroba piva nepřesahuje 200 000 hl. Nesmí být právně ani hospodářsky závislý na jiném pivovaru a také jeho prostory a objekty nejsou nijak propojeny s objekty jiného pivovaru.
+Příklad: Zdanění si vypočítáváme u půllitru Plzně při ceně 33 Kč. DPH činí 5,72 Kč . Plzeň je pro výpočet spotřební daně jedenáctkou. Spotřební daň je tedy 1,76 Kč . Při konečné ceně 33 Kč činí celková daň 7,48 Kč . Zdanění jedné Plzně při ceně 33 Kč je tedy necelých 23 % konečné ceny.
+Od platby daně jsou osvobozené fyzické osoby, které vyrábí tiché víno a za ten kalendářní rok celkové množství vyrobeného vína nepřesáhla 2 000 litrů.
+Sazby spotřební daně na tabákové výrobky stanovuje § 104 zákona 353/2003 Sb., o spotřebních daních. 7  Celkovou cenu krabičky cigaret pro koncového spotřebitele centrálně stanovuje Celní úřad pro Středočeský kraj. Níže uvedené sazby jsou platné od roku 2018.
+Od 1. 3. 2020 platí tyto sazby daně 8 
+Celkovou daň u cigaret tvoří spotřební daň a DPH. Je uvažována celková cena krabičky cigaret pro koncového spotřebitele 100 Kč. Součet pevné části 32,20 Kč  a procentní části 30,00 Kč  spotřební daně dosahuje minimální výše 58,00 Kč , použije se tedy součet procentní a pevné daně. DPH u krabičky činí 17,35 Kč  a celková daň 79,55 Kč. 9 
+Od daně jsou osvobozeny
+Vybrané výrobky, které byly uvedeny do volného daňového oběhu v jiném členském státě a které fyzické osoby nabyly v tomto členském státě pro osobní spotřebu a jsou jimi dopravované na daňové území České republiky, jsou osvobozeny od daně. 4 
+Vláda dne 26. 9. 2012 rozhodla o zvýšení spotřební daně u tabákových výrobků  v průměru o zhruba dvě koruny na krabičku, toto zvýšení má začít platit od roku 2014. Se začátkem roku 2016 došlo k dalšímu zvýšení sazeb, které zvedlo koncovou cenu krabičky cigaret o zhruba 4 koruny. 10 
+Spotřební daň se vybírá prodejem kolků pro označení lahví lihovin nebo krabiček od cigaret. Bez těchto kontrolních prvků je zakázané produkty nabízet k prodeji. Výrobce si od státu koupí větší množství tabákových nálepek nebo kontrolních pásků , které pak nalepuje na místa tak, aby při otevření produktu došlo k viditelnému poškození. Tyto kolky jsou tisknuty Státní tiskárnou cenin a obsahují mnoho bezpečnostních prvků. 4 
+Stát inkasuje celou částku spotřební daně. Ta se ale rozloží mezi spotřebitele a výrobce, neplatí tedy, že vše platí zákazník. Podrobněji na příkladu se spotřební daní u krabičky cigaret:
+Krabička cigaret stojí 37 Kč a stát chce uvalit 5 Kč/ks spotřební daň. Kdyby cena zůstala stejná, výrobce by přišel o 5 Kč ze zisku. Kdyby se cena zvýšila na 42 Kč, zákazník by zaplatil navíc 5 Kč. Ani jeden z případů se však skutečně nestane. Zdražení cigaret povede i díky substitučnímu a důchodovému efektu ke snížení poptávaného množství. Výrobce tedy musí reagovat snížením ceny k dosáhnutí rovnováhy . Krabička tedy v konečném součtu bude stát méně než 42 Kč. Podle modelového příkladu a diagramu je konečná cena 41 Kč. Stát tímto získá  3,75 miliard Kč na spotřební dani, která se na jednu krabičku rozloží mezi zákazníka  a výrobce . 12 
+Problémem spotřební daně je v některých případech dvojí zdanění. Při výrobě tabákových či alkoholových výrobků je v původní zemi uvalena spotřební daň. Pokud se tyto výrobky exportují do jiné země, musí se na hranicích zaclít dle Celního úřadu. Z pohledu vzniku výrobku zdanění proběhlo dvakrát.
+Spotřební daň na první pohled zatěžuje výrobky nepotřebné k životu , ale i minerální oleje. To zvyšuje ceny pohonných hmot a náklady v celém průmyslu, které se promítne do spotřebitelských cen normálního zboží a potravin. 13 
+U alkoholu je nekonzistence v tom, že na tiché víno se spotřební daň neuvaluje, což se opakovaně stává předmětem politických diskusí. 14  V rámci řešení konsolidace veřejných financí na jaře 2023 se zavedení daně hojně diskutovalo, součástí návrhů však její uvalení nebylo. 15  Dle ministra zemědělství Zdeňka Nekuly "Pracují na  zapálení lidé, kteří vinohrady opečovávají s láskou." 16  Ministr spravedlnosti Pavel Blažek namítal, že "de o specifický a jen účetními tabulkami nevystižitelný obor lidské činnosti" 17  Dle europoslankyně Michaely Šojdrové by zavedením daně došlo ke snížení konkurenceschopnosti, jelikož mnozí producenti tuto daň nemají . 18  Výjimečný statut obhajoval jihomoravský hejtman Jan Grolich slovy "Pro mě je víno spíš zemědělský produkt než alkohol" 19 
+Tlak vyvíjely i oborové asociace, ve spotu Národního vinařského centra varují před "vymazáním Česka z mapy vinařského světa" nebo "pohřbením našich vinařů a vinohradníků na vlastní oči" 20  Martin Chlad ze Svazu vinařů apeloval na politiky "Vinohrady jsou národním dědictvím a politici by to měli respektovat" 21 
+Vláda Petra Fialy ve finálně představeném balíčku zavedení spotřební daně nenavrhla. 22 

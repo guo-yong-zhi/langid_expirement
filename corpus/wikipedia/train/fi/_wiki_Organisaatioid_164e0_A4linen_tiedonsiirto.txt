@@ -1,0 +1,2 @@
+Organisaatioiden välinen tiedonsiirto  on standardoitu tekniikka, jota käytetään organisaatioiden välisten tietojärjestelmien kommunikointiin. Myös englanninkielistä termiä EDI  käytetään yleisesti suomenkielisessä tekstissä OVT-lyhenteen asemasta 1 .
+Organisaatioiden välistä tiedonsiirtoa on käytetty yritysten väliseen sähköiseen kaupankäyntiin 1970-luvulta alkaen. Nykyisin laajimmin käytetty EDI-standardi on YK:n EDIFACT , jonka ensimmäiset määritykset julkaistiin vuonna 1988. EDIFACT:ia kehittää YK:n Euroopan talouskomissio . 

@@ -1,0 +1,8 @@
+Gli indirizzi IPv4-mapped sono stati pensati per favorire la transizione da IPv4 a IPv6.
+Questi permettono di definire indirizzi IPv6 per nodi che supportano solo IPv4.
+I primi 80 bit sono posti a 0, i successivi 16 bit sono posti a 1  e gli ultimi 32 bit rappresentano l'indirizzo IPv4.
+L'indirizzo
+ 0:0:0:0:0:ffff:192.168.30.2 
+ ::ffff:192.168.30.2
+ ::ffff:C0A8:1E02
+</prutilizzando solamente la notazione esadecimale.

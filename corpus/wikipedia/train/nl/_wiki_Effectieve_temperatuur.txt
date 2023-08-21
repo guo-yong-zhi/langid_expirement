@@ -1,0 +1,400 @@
+De effectieve temperatuur van een object is die temperatuur die een zwarte straler zou hebben als het dezelfde totale fluxdichtheid zou uitzenden als dit object. Het is een vaak gebruikte schatting van de oppervlaktetemperatuur van sterren.
+De effectieve temperatuur kan berekend worden via de wet van Stefan-Boltzmann. Deze luidt:
+  
+    
+      
+        F
+        =
+         
+        
+          T
+          
+            e
+          
+          
+            4
+          
+        
+      
+    
+    ^
+  
+ 
+waarbij F de totale fluxdichtheid is, 
+  
+    
+      
+        
+          T
+          
+            e
+          
+        
+      
+    
+    }
+  
+ de effectieve temperatuur en 
+  
+    
+      
+         
+      
+    
+    
+  
+ de constante van Stefan-Boltzmann, 
+  
+    
+      
+         
+        =
+        5
+        ,
+        6708
+         
+        
+          10
+          
+             
+            8
+          
+        
+        W
+        
+          m
+          
+             
+            2
+          
+        
+        
+          K
+          
+             
+            4
+          
+        
+      
+    
+    Wm^}
+  
+.
+Wanneer het geval van een ster bekeken wordt, kan deze formule omgevormd worden, via: 
+  
+    
+      
+        L
+        =
+        4
+         
+        
+          R
+          
+            2
+          
+        
+        F
+      
+    
+    F}
+  
+, met L de totale  lichtkracht van de ster en R de straal van de ster. Er wordt ook gebruikgemaakt van 
+  
+    
+      
+        L
+        =
+        4
+         
+        
+          r
+          
+            2
+          
+        
+        V
+      
+    
+    V}
+  
+, met V de waargenomen fluxdichtheid, en r de afstand tot de ster.
+Het resultaat is: 
+  
+    
+      
+        V
+        =
+        
+          
+            
+              R
+              
+                2
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+         
+        
+          T
+          
+            e
+          
+          
+            4
+          
+        
+        =
+        
+          
+            2
+          
+        
+         
+        
+          T
+          
+            e
+          
+          
+            4
+          
+        
+      
+    
+    }\sigma T_=^{2}\sigma T_}
+  
+Hierbij is 
+  
+    
+      
+         
+        =
+        2
+        R
+        
+          /
+        
+        r
+      
+    
+    
+  
+ de waargenomen hoekdiameter van de ster, in radialen.
+V kan men van elke ster meten, maar 
+  
+    
+      
+         
+      
+    
+    
+  
+ is slechts bij enkele sterren met interferometrie te meten. Daarom kan men de effectieve temperatuur niet bij alle sterren direct bepalen. De zon heeft een effectieve temperatuur van 5785 K.
+Een echt object is nooit een perfecte zwarte straler, dus zal de effectieve temperatuur niet de echte temperatuur van het object zijn, maar een benadering hiervan. Omdat bij een reëel voorwerp de uitgezonden flux lager is dan bij een zwarte straler met dezelfde temperatuur, zal de echte temperatuur hoger liggen dan de effectieve. 
+Bij sterren lijkt het uitgezonden spectrum, wanneer de emissielijnen buiten beschouwing gelaten worden, meestal sterk op dat van een zwarte straler, en zal het verschil dus klein zijn.
+Wanneer de temperatuur van een planeet wordt berekend op basis van de wet van Stefan-Boltzmann, gebeurt dit met behulp van de flux die de planeet ontvangt, en niet alleen deze die ze uitzendt.
+Om de planeettemperatuur te berekenen, wordt verondersteld dat deze volledig te wijten is aan de invallende straling van de bijhorende ster. Effecten als inwendige warmte en het broeikaseffect worden verwaarloosd.
+Het albedo A van een planeet is de fractie van het ingevallen licht dat de planeet reflecteert. Het is een getal tussen 0 en 1. De afstand tussen de planeet en zijn ster is d.
+Men kan veronderstellen dat de planeet in thermisch evenwicht is, dus dat de geabsorbeerde lichtkracht gelijk is aan de uitgezonden lichtkracht. Anders zou de planeet opwarmen of afkoelen tot dit wel zo is.
+Verder wordt verondersteld dat de planeet traag draait, zodat de donkere zijde de tijd krijgt om af te koelen en zodat de thermische straling voornamelijk vanaf 1 hemisfeer uitgezonden wordt. De planeet wordt benaderd door een bol, zodat de hemisfeer een oppervlakte van 
+  
+    
+      
+        2
+         
+        
+          R
+          
+            2
+          
+        
+      
+    
+    {\displaystyle 2\pi R^{2}}
+  
+ heeft. Dan wordt de effectieve temperatuur gegeven door:
+  
+    
+      
+        
+          T
+          
+            t
+            r
+            a
+            a
+            g
+          
+        
+        =
+        
+            
+            
+              8
+               
+               
+              
+                d
+                
+                  2
+                
+              
+            
+          
+        
+        
+          )
+          
+            1
+            
+              /
+            
+            4
+          
+        
+      
+    
+    {\displaystyle T_{traag}=}{8\pi \sigma d^{2}}})^{1/4}}
+  
+Als de planeet juist snel roteert, zal de straling vanuit beide hemisferen uitgezonden worden:
+  
+    
+      
+        
+          T
+          
+            s
+            n
+            e
+            l
+          
+        
+        =
+        
+            
+            
+              16
+               
+               
+              
+                d
+                
+                  2
+                
+              
+            
+          
+        
+        
+          )
+          
+            1
+            
+              /
+            
+            4
+          
+        
+      
+    
+    {\displaystyle T_{snel}=}{16\pi \sigma d^{2}}})^{1/4}}
+  
+Voor planeten klopt de effectieve temperatuur meestal niet met de echte. Dit komt doordat de inwendige warmte en het broeikaseffect niet in rekening zijn gebracht. Op Aarde is 
+  
+    
+      
+        
+          T
+          
+            t
+            r
+            a
+            a
+            g
+          
+        
+        =
+        290
+        K
+        =
+        16
+        ,
+        
+          85
+          
+             
+          
+        
+        C
+      
+    
+    =290K=16,85^
+  
+ en 
+  
+    
+      
+        
+          T
+          
+            s
+            n
+            e
+            l
+          
+        
+        =
+        250
+        K
+        =
+         
+        23
+        ,
+        
+          15
+          
+             
+          
+        
+        C
+      
+    
+    =250K=-23,15^
+  
+. De Aarde kan eerder als snel- dan als traagdraaiend worden gezien. De effectieve temperatuur van de Aarde wordt geschat op 
+  
+    
+      
+        
+          T
+          
+            e
+          
+        
+        =
+        255
+        K
+        =
+         
+        18
+        ,
+        
+          15
+          
+             
+          
+        
+        C
+      
+    
+    =255K=-18,15^
+  
+. De werkelijke gemiddelde temperatuur van de Aarde bedraagt ongeveer 15°C.

@@ -1,0 +1,86 @@
+Cet article est une ébauche concernant l’analyse.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+L'intégrale de Cauchy est une intégrale qui fait le lien entre l'intégrale de Riemann, classique mais à variables réelles, et les variables complexes.
+Une courbe dans X est une application continue 
+  
+    
+      
+         
+        :
+        
+         
+        X
+        ,
+         
+        <
+         
+         
+        
+          R
+        
+      
+    
+     }
+  
+. On appelle 
+  
+    
+      
+        
+      
+    
+    
+  
+ l’intervalle de paramétrage de γ, et on note 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+ l’image de l’application.
+Si 
+  
+    
+      
+         
+        
+        =
+         
+        
+      
+    
+    
+  
+, la courbe est dite fermée.
+Un chemin γ est une courbe du plan complexe muni de sa topologie euclidienne, continûment dérivable par morceaux.
+Un chemin fermé est une courbe fermée qui est aussi un chemin.
+En considérant un chemin γ et 
+  
+    
+      
+        f
+        :
+        
+           
+          
+             
+          
+        
+         
+        
+          C
+        
+      
+    
+    \rightarrow \mathbb 
+  
+, une fonction continue, on définit l'intégrale de Cauchy de f sur le chemin γ comme le nombre complexe :
+Cette intégrale est bien définie au sens de Riemann.

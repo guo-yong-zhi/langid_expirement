@@ -1,0 +1,8 @@
+Eine Subdivision Surface  ist in der Computergrafik eine glatte  Fläche, die aus einem Ausgangsgitter  erzeugt wurde. Eine Subdivision Surface ist ursprünglich als der Grenzwert  eines unendlichen, rekursiven Verfeinerungsschemas definiert. Dieses Verfeinerungsschema wird auch als Subdivision Schema bezeichnet; der Grenzwert als Limesfläche.
+Das Gegenteil ist die Reduzierung der Polygonanzahl . 1 
+Verfeinerungsschemata können grob in zwei Kategorien eingeteilt werden: interpolierende und approximierende. Interpolierende Schemata werden benutzt, wenn die Limesfläche die Punkte des Ausgangsgitters interpolieren soll. Approximierende Schemata leisten dies nicht; die Limesfläche kann innerhalb oder außerhalb des Ausgangsgitters zu liegen kommen. Oft ist bei approximierenden Schemata das Ausgangsgitter die konvexe Hülle der Limesfläche.
+Generell erzeugen die meisten bekannten approximierenden Schemata ästhetisch ansprechendere Limesflächen.
+Das andere Unterscheidungskriterium, das auch Verwendung findet, ist die Kategorisierung in Schemeta, die nur auf Gittern aus Polygonen mit bestimmter Punktzahl bestehen. Einige solcher Schemata benötigen beispielsweise ein Ausgangsgitter, das nur aus Dreiecken oder Vierecken besteht.
+Viele Schemata sind auch nur auf mannigfaltigen Ausgangsgittern definiert.
+Approximierend meint, dass die Limesfläche das Ausgangsgitter approximiert  und die bei jedem Rekursionschritt neu erzeugten Punkte in der Regel nicht auf der Limesfläche liegen. Beispiele für approximierende Schemata sind:
+Interpolierend heißt, dass die Punkte des Ausgangsgitters und die durch jeden Rekursionsschritt neu erzeugten Punkte immer auf der Limesfläche liegen. Beispiele für interpolierende Schemata sind:

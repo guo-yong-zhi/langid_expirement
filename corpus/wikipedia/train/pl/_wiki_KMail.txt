@@ -1,0 +1,8 @@
+KMail jest podstawowym klientem poczty środowiska KDE.
+Ma możliwość układania e-maili w folderach, filtrowania ich, obsługuje e-maile w HTML-u. Dla poczty przychodzącej pozwala skorzystać z protokołów IMAP, POP3 oraz skrzynek lokalnych. Maile są przechowywane na dysku w formacie maildir albo mbox. Dla poczty wychodzącej wykorzystuje SMTP lub sendmaila.
+KMail wykorzystuje dwa specjalne filtry dające dostęp do e-maili programom filtrującym spam:
+Filtry te mogą być łączone ze standardowymi filtrami pozwalającymi na przykład wykryć na podstawie nagłówków e-maile oznaczone przez SpamAssassin jako spam.
+KMail ma bardzo przydatną dla użytkowników internetu dial-up funkcję antyspamową – możliwość ręcznego filtrowania wiadomości na serwerze.
+Wiadomości, które przekraczają pewną progową wielkość  nie są automatycznie ściągane na lokalny komputer ale użytkownik dostaje ich listę do wyboru – ściągnij, zostaw, usuń. Pozwala to wyeliminować 100% spamu i objętościowych przesyłek prawie bez czekania.
+KMail ma wbudowane wsparcie dla OpenPGP. Po podaniu hasła automatycznie rozszyfrowuje i sprawdza podpisy wyświetlając wiadomości w niebieskiej lub zielonej ramce, aby zaznaczyć, że były szyfrowane.
+Kiedy KMail jest uruchomiany jako część programu Kontact może współdzielić pomiędzy użytkownikami listy kontaktów, pocztę, kalendarze i notatki.

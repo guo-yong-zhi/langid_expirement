@@ -1,0 +1,3 @@
+Takmarkað fall er fall f, sem uppfyllir eftirfarandi skilyrði, fyrir einhverja rauntölu M:
+fyrir öll x í formengi fallsins f. Ef M = 0 þá er fallið f núllfallið.  
+Fall er sagt takmarkað að ofan ef til er rauntala M þ.a. f ≤ M, en takmarkað að neðan ef f ≥ M fyrir öll x. Takmarkað fall þarf því bæði að vera takmarkað að ofan og -neðan, en fall sem er það ekki kallast ótakmarkað fall.

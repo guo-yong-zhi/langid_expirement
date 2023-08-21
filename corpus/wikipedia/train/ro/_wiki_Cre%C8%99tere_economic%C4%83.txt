@@ -1,0 +1,28 @@
+Creșterea economică reprezintă variația pozitivă a producerii de bunuri și de servicii într-o economie pe o perioadă determinată, în general îndelungată. Indicatorul cel mai utilizat pentru a măsura creșterea este produsul intern brut .
+Se disting două tipuri  de creștere economică: extinsă și intensivă. În primul caz, procesul se realizează prin sporirea factorilor de creștere extinsă. În al doilea - datorită factorilor de creștere intensivă. Odată cu dezvoltarea și stăpânirea realizărilor moderne în domeniul științei și tehnologiei, factorii de creștere intensivi devin predominanți. În viața reală, nu există tipuri extinse și intensive de creștere economică în forma lor pură. Există interconectarea și interacțiunea dintre ele.
+În teoria creșterii economice moderne, există, de regulă, patru tipuri: creștere uniformă, specifică statelor sau a țărilor de frunte ; miracole de creștere , tragedia de creștere  și lipsa creșterii economice .
+Măsurarea creșterii economiei se realizează prin calcularea ratelor de creștere a PIB-urilor din țările lumii în termeni de PIB  sau a utilizării acesteia . Pentru estimări aproximative, se folosește  Regula de 72  - metoda empirică de estimare a perioadei în care valoarea se dublează pentru o creștere constantă cu un anumit procent:
+r este procentul anual de creștere, T este perioada  de dublare a sumei. 
+De exemplu, conform acestei reguli, dacă creșterea economică este de aproximativ 3,5% pe an, atunci dublarea PIB real va avea loc în 20 de ani, iar pentru 1000 de ani PIB-ul real va crește 
+  
+    
+      
+        
+          2
+          
+            50
+          
+        
+         
+        
+          10
+          
+            15
+          
+        
+      
+    
+    \approx 10^
+  
+ ori.
+    Kenneth Arrow    Gary Becker    Francis Ysidro Edgeworth    Milton Friedman    Ragnar Frisch    Friedrich Hayek    Harold Hotelling    John Maynard Keynes    Tjalling Koopmans    Paul Krugman    Robert Lucas Jr.

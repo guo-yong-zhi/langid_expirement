@@ -1,0 +1,28 @@
+• GO:0001948, GO:0016582 protein binding• nucleic acid binding• zinc ion binding• protein kinase activator activity• protein kinase binding• зв'язування з іоном металу• protein serine/threonine kinase activator activity
+• Нуклеоплазма• клітинне ядро• aggresome• внутрішньоклітинна  мембранна органела• цитоплазма• Dbf4-dependent protein kinase complex
+• positive regulation of nuclear cell cycle DNA replication• клітинний цикл• positive regulation of cell population proliferation• positive regulation of G2/M transition of mitotic cell cycle• activation of protein kinase activity• positive regulation of DNA replication• positive regulation of protein serine/threonine kinase activity• regulation of cell cycle phase transition
+DBF4B  – білок, який кодується однойменним геном, розташованим у людей на 17-й хромосомі. 2  Довжина поліпептидного ланцюга білка становить 615 амінокислот, а молекулярна маса — 67 243 3 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функцією належить до фосфопротеїнів. 
+Задіяний у таких біологічних процесах, як клітинний цикл, альтернативний сплайсинг. 
+Білок має сайт для зв'язування з іонами металів, іоном цинку. 
+Локалізований у ядрі.
+  Портал «Біологія»   Портал «Хімія»                       

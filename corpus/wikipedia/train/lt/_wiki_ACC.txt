@@ -1,0 +1,4 @@
+ACC  – spalvų kodavimo sistema. Ji buvo užpatentuota 1938 m. 1  2 
+ACC pagrindą sudaro trys parametrai:
+Šią sistemą galima suprasti naudojant trimatį cilindro modelį, kuriame atspalviai išdėstyti pagal visus tris jų parametrus.
+Sistemos privalumas yra galimybė labai paprastai rodyti ja užkoduotą spalvotą vaizdą tik pilkus atspalvius atvaizduoti sugebančiame ekrane. 1  Šviesumo signalas paliekamas „kaip yra“ – „juodai balti“ televizoriai jį tiesiogiai priima ir be jokių pakeitimų gali rodyti nespalvotą vaizdą. Spalvoti televizoriai priima ir kitus du signalus, pateikdami taip pat ir spalvas.

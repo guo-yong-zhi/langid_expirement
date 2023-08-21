@@ -1,0 +1,64 @@
+In mathematica un quasigruppo 1  es un structura algebric. Illo es un magma con un operation binari 
+  
+    
+      
+         
+        :
+        Q
+         
+        Q
+         
+        Q
+      
+    
+    
+  
+, in que pro omne 
+  
+    
+      
+        a
+      
+    
+    
+  
+ e 
+  
+    
+      
+        b
+      
+    
+    
+  
+ in 
+  
+    
+      
+        Q
+      
+    
+    
+  
+ omne de ambe equationes
+e
+ha exactemente un sol solution pro 
+  
+    
+      
+        x
+      
+    
+    
+  
+ e 
+  
+    
+      
+        y
+      
+    
+    
+  
+. Isto vole dicer que un solution existe e es univoc.
+Le ancian nomine "gruppoide" es a evitar.

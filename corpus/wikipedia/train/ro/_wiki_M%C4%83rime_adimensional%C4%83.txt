@@ -1,0 +1,2 @@
+O mărime adimensională, sau mărime fără dimensiune, este o mărime fizică pentru care toți exponenții factorilor corespunzători mărimilor fundamentale care apar în ecuația dimensională a mărimii respective sunt egali cu zero. De obicei, acestea sunt raporturi de mărimi sau logaritmii unor raporturi de mărimi.
+Mărimilor adimensionale le corespund unități adimensionale. Nu este corect să se considere că aceste mărimi se exprimă doar prin numere abstracte , au unități cu dimensiunea 1  1 .

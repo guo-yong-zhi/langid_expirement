@@ -1,0 +1,3 @@
+Cet article est une ébauche concernant l’informatique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+modifier - modifier le code - voir Wikidata  Kerkythea est un  moteur de rendu pour Windows, Linux et Mac accompagné d'une interface graphique d'édition des données qui permet de modifier très finement les paramètres de rendu. Il  fonctionne sur des algorithmes basés sur les lois physiques du transport de la lumière.

@@ -1,0 +1,3 @@
+
+Modular Audio Recognition Framework  adalah program komputer yang mencoba untuk mengartikan suara, bunyi, percakapan, tulisan dan bahasa manusia pada umumnya. Dalam MARF, ilmuwan dan pemrogram menulis algoritme menggunakan Java. MARF terdiri dari kepingan algoritme seperti-Lego yang dapat ditambah atau digantikan dengan mudah. MARF dapat digunakan untuk belajar, pendidikan, dll.
+Artikel bertopik komputer ini adalah sebuah rintisan. Anda dapat membantu Wikipedia dengan mengembangkannya.

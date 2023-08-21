@@ -1,0 +1,119 @@
+Pontosságellenőrzött
+A különbség a halmazelmélet egy kétváltozós művelete, ami két halmazból úgy képez egy új halmazt, hogy az így létrejövő halmaz az első halmaz elemei közül pontosan azokat tartalmazza, melyeket a második nem.
+Ha 
+  
+    
+      
+        A
+      
+    
+    
+  
+ és 
+  
+    
+      
+        B
+      
+    
+    
+  
+ halmazok, akkor az 
+  
+    
+      
+        A
+      
+    
+    
+  
+ és 
+  
+    
+      
+        B
+      
+    
+    
+  
+ különbségének nevezzük és 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+  módon jelöljük az 
+  
+    
+      
+        A
+      
+    
+    
+  
+ halmaz azon elemeinek összességét, melyek nem elemei 
+  
+    
+      
+        B
+      
+    
+    
+  
+-nek. Ezt szimbolikusan így írjuk:
+  
+    
+      
+        A
+         
+        B
+        =
+        
+        .
+      
+    
+    .}
+  
+Ha az 
+  
+    
+      
+        U
+      
+    
+    
+  
+ univerzumban  
+  
+    
+      
+        A
+      
+    
+    
+  
+, 
+  
+    
+      
+        B
+      
+    
+    
+  
+ és 
+  
+    
+      
+        C
+      
+    
+    
+  
+ halmazok, akkor igazak a következők:
+Továbbá

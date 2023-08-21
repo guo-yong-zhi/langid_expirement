@@ -1,0 +1,5 @@
+Veldaröð er röð þar sem breytistærðin kemur fyrir í síhækkandi jákvæðu heiltöluveldi í hverjum lið. Fáguð föll eru sett fram með samleitnum veldaröðum og því eru veldaraðir geysimikilvægar í fallafræði og tvinnfallafræði, t.d. má setja hornaföllin fram með veldaröðum. 
+þar sem stuðlarnir a og c eru óháðir breytunni z, en a, b, c og z geta verið rauntölur eða tvinntölur. Ef c = 0 kallast röðin Maclaurinröð : 
+Jafnhlutfallaröð er röð þar sem allir stuðlar eru 1:
+Vísisfallið er röð þar sem stuðlarnir eru umhverfa aðfeldis af liðvísi:
+Taylorröð er ákveðin gerð veldaraðar, sem lýsir falli í nágrenni tiltekins punkts. 

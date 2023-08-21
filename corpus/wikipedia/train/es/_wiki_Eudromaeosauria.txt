@@ -1,0 +1,39 @@
+Ver el texto.
+Los eudromeosaurios  son un subgrupo de dinosaurios terópodos dromeosáuridos terrestres. Eran carnívoros relativamente grandes, con plumas y dietas que consistían casi enteramente de otros vertebrados terrestres, que florecieron durante el periodo Cretácico. 
+Casi todos los fósiles de los eudromeosaurios han sido descubiertos en el hemisferio norte. Aparecieron por primera vez en el período Cretácico inferior  y sobrevivieron hasta el final del Cretácico . El eudromeosaurio más antiguo conocido con seguridad es el dromeosaurino Utahraptor ostrommaysorum, de la Formación Cedar Mountain en Estados Unidos, datada de hace 124 millones de años.  Sin embargo, fósiles más antiguos  como los de Nuthetes destructor y varios dientes indeterminados que datan de la época Kimmeridgiense podría corresponder a eudromeosaurios.  
+Mientras que otros dromeosáuridos ocupaban una variedad de nichos ecológicos especializados, sobre todo los de pequeños depredadores o de formas mayores que capturaban peces, los eudromeosaurios funcionaban como depredadores grandes que capturaban presas de tamaño mediano a grande. Aparte de su tamaño generalmente más grande, los eudromaeosaurios se caracterizan por varias características del pie. En primer lugar, existen diferencias en las posiciones de las ranuras que anclan los vasos sanguíneos y las fundas de queratina de las garras del dedo del pie. En los dromeosáuridos primitivos como Hesperonychus, estas ranuras corrían en paralelo entre sí a cada lado de la garra, a lo largo de su longitud. En los eudromeosaurios, las ranuras eran asimétricas, con el interior dividido en dos ranuras distintas y elevadas hacia la parte superior de la garra, mientras que la ranura exterior queda colocada en la línea media. 
+La segunda característica distintiva de los eudromaeosaurios es un talón expandido y ampliado en el último hueso del segundo dedo del pie , el cual portaba la garra agrandada en forma de hoz. Por último, el primer hueso del también poseía una expansión ampliada en la articulación, otra adaptación relacionada con la garra inusualmente ampliada, y que ayudaba a que el animal mantuviera la garra por encima del suelo, para que no se desafilara. A diferencia de sus parientes más primitivos, la garra del pie de los eudromeosaurios era más afilada y similar a una hoja de cuchillo.  En los unenlaginos y microraptorinos, la garra es más amplia en su base. 
+Eudromaeosauria fue definido por primera vez como un clado basado en nodos por Nicholas Longrich y Philip J. Currie en 2009, como el grupo natural más inclusivo que contiene a Dromaeosaurus, Velociraptor, Deinonychus y Saurornitholestes, sus ancestros comunes más recientes y todos sus otros descendientes. Las diversas "subfamilias" también se han redefinido como clados, generalmente se definen como todas las especies más cercanas a los géneros que les dan nombre a los grupos que a Dromaeosaurus o cualquier género en elq ue se basan los otros subclados. 
+Los subgrupos de los eudromeosaurios con frecuencia cambian de contenido basándose en nuevos análisis, pero por lo general consisten en los siguientes grupos. Por ejemplo, la subfamilia Velociraptorinae tradicionalmente ha incluido a Velociraptor, Deinonychus y puede que a Saurornitholestes, y si bien el descubrimiento de Tsaagan prestó apoyo a esta agrupación, la inclusión de Saurornitholestes es todavía incierta. La subfamilia Dromaeosaurinae usualmente consiste de especies de tamaño mediano a gigante, con cráneos generalmente en forma de caja . Varios eudromeosaurios no se han asignado a ninguna subfamilia en particular, porque sus restos están demasiado mal conservados como para ser colocados con seguridad en análisis filogenéticos . 
+La siguiente clasificación de los diferentes géneros de eudromaeosaurios sigue la tabla proporcionada en Holtz, 2010 a menos que se indique lo contrario: 
+Este cladograma presentado a continuación sigue el análisis de Evans et al. de 2013. Sus análisis usaron una versión actualizada del conjunto de datos compilado originalmente por Nick Longrich y Phil Currie para estudiar las relaciones de los dromeosáuridos, y encontraron que las relaciones de los eudromeosaurios se disponían de forma relativamente tradicional. 
+.mw-parser-output table.clade.mw-parser-output table.clade table.clade.mw-parser-output table.clade td.clade-label.mw-parser-output table.clade td.clade-fixed-width.mw-parser-output table.clade td.clade-fixed-width:hover.mw-parser-output table.clade td.clade-label.first.mw-parser-output table.clade td.clade-label.reverse.mw-parser-output table.clade td.clade-slabel.mw-parser-output table.clade td.clade-slabel:hover.mw-parser-output table.clade td.clade-slabel.last.mw-parser-output table.clade td.clade-slabel.reverse.mw-parser-output table.clade td.clade-bar.mw-parser-output table.clade td.clade-bar.reverse.mw-parser-output table.clade td.clade-leaf.mw-parser-output table.clade td.clade-leafR.mw-parser-output table.clade td.clade-leaf.reverse.mw-parser-output table.clade:hover span.linkA.mw-parser-output table.clade:hover span.linkB
+Bambiraptor feinbergi
+Saurornitholestes langstoni
+Atrociraptor marshalli
+Deinonychus antirrhopus
+Achillobator giganticus
+Balaur bondoc
+Dromaeosaurus albertensis
+Utahraptor ostrommaysorum
+IGN 100/23
+Acheroraptor temertyorum
+Velociraptor mongoliensis
+Adasaurus mongoliensis
+Tsaagan mangas
+Velociraptor osmolskae
+El cladograma a continuación sigue el análisis presentado en 2015 por los paleontólogos Robert DePalma, David Burnham, Larry Martin, Peter Larson y Robert Bakker, usando datos actualizados del Theropod Working Group. Este análisis concluyó que varios miembros de los subgrupos tradicionales de eudromeosaurios están en realidad por fuera de ese grupo, y que agrupaciones tradicionales como Velociraptorinae son parafiléticas. 
+Unenlagiinae
+Microraptoria
+Bambiraptor
+Tianyuraptor
+Adasaurus
+Tsaagan
+Saurornitholestes
+Velociraptor
+Deinonychus
+Atrociraptor
+Achillobator
+Utahraptor
+Dakotaraptor
+Dromaeosaurus

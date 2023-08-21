@@ -1,0 +1,3 @@
+Feynmanov diagram predstavuje grafickú reprezentáciu výpočtov daných fyzikálnych veličín  v rámci kvantovej poruchovej teórie. Sú pomenované podľa Richarda Feynmana, ktorý ich zaviedol v roku 1948, a nachádzajú široké uplatnenie v časticovej fyzike , štatistickej fyzike a mnohých ďalších oblastiach. 
+Feynamnové diagramy pozostávajú z čiar reprezentujúcich propagátory danej teórie a vertexov, kde sa tieto čiary stretávajú. Jednotlivé elementy sú dané Feynmanovými pravidlami, ktoré sú špecifické pre daný uvažovaný model. Týmto spôsobom vznikajú určité topológie príznačné pre daný fyzikálny model.
+Feynamnové diagramy kategorizujeme podľa počtu nezávislých uzavretých slučiek na stromové diagramy  neobsahujúce žiadne slučky a na diagramy jedno-, dvoj- a viacslučkové.

@@ -1,0 +1,4 @@
+SRTM  was een NASA-programma dat uitgevoerd werd tijdens de Space Shuttlemissie STS-99 met de Endeavour in het jaar 2000. De missie had tot doel om de hele wereld in een digitaal hoogtemodel te karteren op een schaal van 30 of 90 meter.
+De data werd verkregen door de shuttle Endeavour te voorzien van een lange mast en vervolgens met radarsignalen hetzelfde gebied op aarde te laten scannen. Doordat de afstand van de mast bekend is, kan er een driedimensionaal beeld van de aarde worden berekend. De meetgegevens zijn alleen voor het vaste aardoppervlak beschikbaar, niet voor zeeën en meren. 
+De SRTM-data dienen bij vele hoogtemodellen als basis voor een DTM, , oftewel het digitale hoogtemodel. Op basis van dit DTM kunnen regionale landkaarten worden gemaakt.
+https://www2.jpl.nasa.gov/srtm/

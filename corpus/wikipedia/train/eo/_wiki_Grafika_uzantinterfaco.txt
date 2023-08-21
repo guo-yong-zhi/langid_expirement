@@ -1,0 +1,4 @@
+Grafika uzantinterfaco , grafika interfaco aŭ grafika fasado estas homa-komputila interfaco, en kiu por dialoga eneligo anstataŭ vortoj estas uzataj bildoj. Origine komputilo havis nur komandlinian interfacon, ankaŭ nomitan ŝelo.
+La grafika uzantinterfaco prezentas ekranon kaj konsistas kaj el teksto kaj el grafiko, kiun la uzanto rekte povas agordi per ekzemple klavaro kaj muso. GUI-programoj kutime proponas diversajn piktogramojn, butonojn, menuojn, objektojn, kiujn la uzanto povas stiri kaj agordi.
+La GUI-programo nevideble tradukas la klavarajn tajpojn kaj musklakojn al komandoj, kiujn la operaciumo plenumas. Tiel la uzanto povas regi la tutan komputilon, se li scias kie kaj kiel agordi la eblajn opciojn.
+Mac OS, Vindozo, NEXTSTEP kaj Fenestra Sistemo X . Fenestra Sistemo X plivastiĝas per ilo-garnituroj kiel Motif , Qt , GTK+  kaj EFL .

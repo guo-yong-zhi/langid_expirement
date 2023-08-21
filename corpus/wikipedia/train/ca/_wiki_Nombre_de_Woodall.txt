@@ -1,0 +1,30 @@
+En teoria de nombres, un nombre de Woodall és qualsevol nombre natural de la forma 
+  
+    
+      
+        
+          W
+          
+            n
+          
+        
+        =
+        n
+         
+        
+          2
+          
+            n
+          
+        
+         
+        1
+      
+    
+    =n\cdot 2^
+  
+ on n és un nombre natural.
+Van ser descrits per Allan J. C. Cunningham i H. J. Woodall l'any 1971, 1  inspirats en uns estudis de James Cullen sobre uns nombres definits de manera similar anomenats nombres de Cullen.
+Els nombres de Woodall que són nombres primers s'anomenen primers de Woodall. Es creu que n'hi ha infinits, però encara no ha estat demostrat.
+L'any 1976 Christopher Hooley va demostrar que gairebé tots els primers de Cullen són nombres compostos. 2  Al 1995, Wilfred Keller va publicar un article sobre nous primers de Cullen i la factorització d'altres primers de Cullen i primers de Woodall. 3  L'article incoïa una comunicació personal a Keller de Hiromi Suyama que afirmava que el mètode de Hooley es pot reformular per mostrar que funciona per a qualsevol seqüència de nombres n · 2n + a + b, on a i b són enters, i en particular, que els nombres de Woodall són gairebé tots compostos. 4 
+Es pot definir un nombre de Woodall generalitzat en base b com a nombre en la forma n × bn − 1, on n + 2 > b. Si un nombre primer es pot escriure en aquesta forma, s'anomena un primer de Woodall generalitzat.

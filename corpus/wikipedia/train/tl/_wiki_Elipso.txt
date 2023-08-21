@@ -1,0 +1,2 @@
+Sa heometriya, ang elipso  ay isang planong kurba na nagreresulta sa interseksiyon sa isang kono ng isang plano sa paraang ito ay lumilikha ng saradong kurba. Ang mga bilog ay mga espesyal na kaso ng mga elipso na makakamit kung ang hinahating plano ay ortogonal sa aksis ng kono. Ang elipso ay ang lokus  ng lahat ng mga punto ng plano kung saan ang distansiya sa dalawang nakapirmeng mga punto ay nagdadagdag sa parehong konstante. 
+ Ang lathalaing ito na tungkol sa Heometriya ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito.

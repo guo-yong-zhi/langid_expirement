@@ -1,0 +1,240 @@
+Trong bộ môn giải tích, một nguyên hàm của một hàm số thực cho trước f là một hàm F có đạo hàm bằng f, nghĩa là, F′ = f. Quá trình tìm nguyên hàm được gọi là tích phân bất định. Tìm một biểu thức cho nguyên hàm là công việc khó hơn so với việc tìm đạo hàm, và không phải luôn luôn thực hiện được.
+Tuy nhiên, bất kỳ hàm số liên tục trên đoạn hay khoảng từ giá trị a đến b, thì đều tồn tại nguyên hàm của hàm số đó trên đoạn/khoảng từ a đến b nêu trên. 1 
+Nguyên hàm được liên hệ với tích phân thông qua định lý cơ bản của giải tích, cung cấp một phương tiện tiện lợi để tính toán tích phân của nhiều hàm số.
+Cho hàm số f xác định trên K. Hàm số F được gọi là nguyên hàm của hàm số f trên K nếu F khả vi trên K và F' = f với mọi x thuộc K. Thí dụ:
+ Hàm số f  = cos x có nguyên hàm là F  = sin x vì ' = cos x (tức F ' = f ).
+ Hàm số f  = ax có nguyên hàm là F = 
+  
+    
+      
+        
+          
+            
+              a
+              
+                x
+              
+            
+            
+              ln
+               
+              a
+            
+          
+        
+      
+    
+    }
+  
+ vì 
+  
+    
+      
+        
+          
+            
+          
+           
+        
+      
+    
+    
+  
+ = ax.
+Giả sử hàm số F là một nguyên hàm của hàm số f trên K. Khi đó: với mỗi hằng số C, hàm số y = F + C cũng là một nguyên hàm của f trên K và ngược lại với mỗi nguyên hàm G của f trên K thì tồn tại một hằng số C sao cho G = F + C với mọi x thuộc K. Do đó ta thấy nếu F là một nguyên hàm của f trên K thì mọi nguyên hàm của f trên K đều có dạng F + C với số thực C. Vậy F + C với số thực C là họ tất cả các nguyên hàm của f trên K. Kí hiệu: 
+  
+    
+      
+         
+        f
+        
+        
+        d
+        x
+        .
+      
+    
+    
+  
+Người ta chứng minh được mọi hàm số liên tục trên K đều có nguyên hàm trên K
+Nếu f và g là hai hàm số liên tục trên K thì
+Ví dụ: 
+  
+    
+      
+         
+        
+          sin
+          
+            2
+          
+        
+         
+        x
+        
+        d
+        x
+        =
+         
+        
+          
+            
+              1
+               
+              cos
+               
+              2
+              x
+            
+            2
+          
+        
+        d
+        x
+        =
+        
+          
+            1
+            2
+          
+        
+         
+        d
+        x
+         
+        
+          
+            1
+            2
+          
+        
+         
+        cos
+         
+        2
+        x
+        d
+        x
+        =
+        
+          
+            x
+            2
+          
+        
+         
+        
+          
+            
+              sin
+               
+              2
+              x
+            
+            4
+          
+        
+        +
+        C
+      
+    
+    x\,dx=\int }dx=}\int dx-}\int \cos 2xdx=}-}+C}
+  
+.
+Các nguyên hàm có ý nghĩa quan trọng vì chúng được dùng để tính toán các tích phân, sử dụng định lý cơ bản của giải tích: nếu F là một nguyên hàm của f, thì:
+Vì lý do này, tập hợp tất cả các nguyên hàm của một hàm f cho trước đôi khi được gọi là tích phân bất định của f và được ký hiệu bằng dấu tích phân, không có các cận:
+Nếu F là một nguyên hàm của f, và hàm f xác định trên một khoảng nào đó, thì mọi nguyên hàm G khác của f khác với F bởi một hằng số: tồn tại một số C sao cho G = F + C với mọi x. 
+Nếu tập xác định của F gồm hai hay nhiều khoảng, thì có thể chọn những hằng số khác nhau trên mỗi khoảng. Ví dụ
+là nguyên hàm tổng quát nhất của 
+  
+    
+      
+        f
+        
+        =
+        1
+        
+          /
+        
+        
+          x
+          
+            2
+          
+        
+      
+    
+    }
+  
+ trên tập xác định 
+  
+    
+      
+        
+         
+        
+        .
+      
+    
+    
+  
+ của nó.
+Mọi hàm liên tục f đều có nguyên hàm.
+Có nhiều hàm số có nguyên hàm nhưng không thể biểu diễn dưới dạng các hàm sơ cấp. Ví dụ:
+  
+    
+      
+         
+        
+          e
+          
+             
+            
+              x
+              
+                2
+              
+            
+          
+        
+        
+        d
+        x
+        ,
+        
+         
+        
+          
+            
+              sin
+               
+              
+            
+            x
+          
+        
+        
+        d
+        x
+        ,
+        
+         
+        
+          
+            1
+            
+              ln
+               
+              x
+            
+          
+        
+        
+        d
+        x
+        .
+      
+    
+    }\,dx,\qquad \int }\,dx,\qquad \int }\,dx.}
+  
+Nguồn: 2 

@@ -1,0 +1,16 @@
+Cyclus paschalis, vel "cyclus lunae-solaris" 1  "annus magnus" "circulus magnus paschae" 2 , magni interest ad dies festi paschalis computandos.
+Cyclus paschalis definitur temporis spatio post quod spatium festum paschale isdem diebus calendariis celebratur. In calendario Iuliano is cyclus complectitur 532 annos. Is numerus ita computatur:
+  
+    
+      
+        28
+         
+        19
+        =
+        532
+      
+    
+    
+  
+28 est numerus annorum quos cyclus solaris complectitur.
+19 est numerus annorum quos cyclus lunaris complectitur.

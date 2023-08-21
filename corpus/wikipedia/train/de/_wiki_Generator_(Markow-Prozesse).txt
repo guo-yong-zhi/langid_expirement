@@ -1,0 +1,957 @@
+Der Erzeuger, Generator, infinitesimale Erzeuger oder infinitesimale Generator der Übergangshalbgruppe eines zeithomogenen Markow-Prozesses in stetiger Zeit ist ein Operator, welcher das stochastische Verhalten des Prozesses in infinitesimaler Zeit erfasst. Aufgrund der Markow-Eigenschaft und der zeitlichen Homogenität wird der Prozess unter bestimmten Voraussetzungen durch seinen infinitesimalen Erzeuger bestimmt bzw. generiert.
+Gegeben sei ein zeithomogener Markow-Prozess 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ auf einem Zustandsraum 
+  
+    
+      
+        
+      
+    
+    
+  
+ mit Übergangshalbgruppe 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+, das heißt für alle 
+  
+    
+      
+        t
+         
+        
+          
+            R
+          
+          
+             
+            0
+          
+        
+      
+    
+     _
+  
+ ist 
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+      
+    
+    }
+  
+ der entsprechende Übergangskern.
+Ferner sei 
+  
+    X
+    X
+  
+ der Raum der beschränkten, borelmessbaren Funktionen 
+  
+    
+      
+        f
+         
+        E
+         
+        
+          R
+        
+      
+    
+     }
+  
+,
+dann kann jeder Übergangskern als Abbildung 
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+         
+        X
+         
+        X
+      
+    
+    \colon X\to X}
+  
+ aufgefasst werden.
+Der infinitesimale Erzeuger 
+  
+    A
+    A
+  
+ des Prozesses ist der Operator mit Definitionsbereich
+der für alle 
+  
+    
+      
+        f
+         
+        
+          
+            D
+          
+        
+        
+      
+    
+    }}
+  
+ gegeben ist durch
+Ausführlich bedeutet das, dass für alle 
+  
+    
+      x
+       
+      E
+    
+    x\in E
+  
+ gilt
+mit
+Dabei bezeichnet 
+  
+    
+      
+        
+          P
+          
+            x
+          
+          
+            
+              M
+              
+                t
+              
+            
+          
+        
+      
+    
+     _}}
+  
+ die Verteilung von 
+  
+    
+      M
+      
+        t
+      
+    
+    M_
+  
+ und 
+  
+    
+      
+        
+          E
+          
+            x
+          
+        
+      
+    
+     _
+  
+ den Erwartungswert bedingt auf den Startwert 
+  
+    
+      
+        
+          M
+          
+            0
+          
+        
+        =
+        x
+         
+        E
+      
+    
+    =x\in E}
+  
+.
+Sei 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ ein zeitlich homogener Markow-Prozess mit kontinuierlicher Zeit, diskretem Zustandsraum 
+  
+    E
+    E
+  
+ und Übergangshalbgruppe 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ mit Übergangsmatrix 
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+        :=
+        
+        
+          )
+          
+            
+             
+            
+              E
+              
+                2
+              
+            
+          
+        
+      
+    
+    :=)_}
+  
+ für alle 
+  
+    
+      t
+       
+      0
+    
+    t\geq 0
+  
+.
+Die Übergangsfunktion bzw. Übergangsmatrizen 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ bilden wegen der Chapman-Kolmogorow-Gleichungen eine Halbgruppe. Sie können wie oben aufgefasst werden als Abbildungen 
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+         
+        X
+         
+        X
+      
+    
+    \colon X\to X}
+  
+ wobei 
+  
+    X
+    X
+  
+ den Raum der beschränkten, borelmessbaren Funktionen 
+  
+    
+      
+        f
+        :
+        E
+         
+        
+          R
+        
+      
+    
+     }
+  
+ bezeichnet.
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ besitzt die Standard-Eigenschaft bzw. wird Standard-Übergangsfunktion genannt, wenn
+bzw. kurz
+mit der Einheitsmatrix 
+  
+    I
+    I
+  
+.
+Besitzt 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ die Standard-Eigenschaft, so gilt für alle 
+  
+    
+      
+        
+         
+        
+          E
+          
+            2
+          
+        
+      
+    
+    }
+  
+:
+Die Abbildungen 
+  
+    
+      
+        t
+         
+        
+          p
+          
+            i
+            j
+          
+        
+        
+      
+    
+    }
+  
+ sind gleichmäßig stetig, für alle 
+  
+    
+      t
+      >
+      0
+    
+    t>0
+  
+differenzierbar und besitzen im Punkt 0 die rechtsseitige Ableitung
+Kurz geschrieben, definiert man dies durch
+  
+    
+      
+        Q
+        =
+        
+          
+            i
+            j
+          
+        
+      
+    
+    }
+  
+ heißt Intensitätsmatrix oder einfach Q-Matrix.
+Für alle 
+  
+    
+      
+        i
+         
+        E
+      
+    
+    
+  
+ gilt 
+  
+    
+      
+        
+          q
+          
+            i
+            i
+          
+        
+         
+        [
+         
+         
+        ,
+        0
+        ]
+      
+    
+    \in [-\infty ,0]}
+  
+, und für alle 
+  
+    
+      
+        i
+        ,
+        j
+         
+        E
+      
+    
+    
+  
+ mit 
+  
+    
+      i
+       
+      j
+    
+    i\neq j
+  
+ gilt 
+  
+    
+      
+        
+          q
+          
+            i
+            j
+          
+        
+         
+        [
+        0
+        ,
+         
+        [
+      
+    
+    \in [0,\infty [}
+  
+.
+Ein Zustand 
+  
+    
+      
+        i
+         
+        E
+      
+    
+    
+  
+ heißt stabil, wenn 
+  
+    
+      
+        
+          q
+          
+            i
+            i
+          
+        
+        >
+         
+         
+      
+    
+    >-\infty }
+  
+, sonst augenblicklich.
+Die Übergangsfunktion 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ heißt stabil, wenn alle Zustände stabil sind; in diesem Fall sind alle Einträge der zugehörigen Intensitätsmatrix endlich.
+Ein Zustand 
+  
+    
+      
+        i
+         
+        E
+      
+    
+    
+  
+ heißt absorbierend, wenn 
+  
+    
+      
+        
+          q
+          
+            i
+            i
+          
+        
+        =
+        0
+      
+    
+    =0}
+  
+ gilt, was genau dann der Fall ist,
+wenn 
+  
+    
+      
+        
+          p
+          
+            i
+            i
+          
+        
+        
+        =
+        1
+      
+    
+    =1}
+  
+ für alle 
+  
+    
+      t
+       
+      0
+    
+    t\geq 0
+  
+ gilt.
+Die Matrix 
+  
+    Q
+    Q
+  
+ und der zugehörige Markov-Prozess werden als konservativ bezeichnet, wenn alle Zeilensummen von 
+  
+    Q
+    Q
+  
+ null sind; dies ist genau dann der Fall, wenn
+  
+    
+      
+        
+           
+          
+            i
+             
+            j
+          
+        
+        
+          q
+          
+            i
+            j
+          
+        
+        =
+         
+        
+          q
+          
+            i
+            i
+          
+        
+        <
+         
+      
+    
+    q_<\infty }
+  
+ für alle 
+  
+    
+      
+        i
+         
+        E
+      
+    
+    
+  
+ gilt.
+Ist 
+  
+    Q
+    Q
+  
+ konservativ, der Prozess stabil und divergiert die Folge der Sprungzeiten vor Erreichen eines absorbierenden Zustands fast sicher, so wird der Prozess als regulär bezeichnet.
+Die Einträge 
+  
+    
+      q
+      
+        i
+        j
+      
+    
+    q_
+  
+ lassen sich wie folgt interpretieren:
+Über diese Interpretation ist es in der Praxis oft leichter, eine geeignete Q-Matrix aus den Modellannahmen herzuleiten, als 
+  
+    
+      P
+      
+        t
+      
+    
+    P_
+  
+ direkt anzugeben, zum Beispiel bei M/M/1/∞-Systemen.
+Ist die Übergangsfunktion 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ stabil, so ist sie eine gleichmäßig stetige Halbgruppe deren infinitesimaler Erzeuger 
+  
+    Q
+    Q
+  
+ ist.
+Dann kann aus dem Verhalten in infinitesimaler Zeit 
+  
+    Q
+    Q
+  
+ das langfristige Verhalten zurückgewonnen werden:
+wobei 
+  
+    e
+    e
+  
+ das Matrixexponential bezeichnet. Dies ist zum Beispiel der Fall für endliche Zustandsräume. Die stationäre Verteilung 
+  
+     
+    \pi
+  
+ von 
+  
+    
+      
+        
+          
+            t
+             
+            0
+          
+        
+      
+    
+    }
+  
+ lässt sich dann als Lösung des folgenden Gleichungssystems
+bestimmen, wobei 
+  
+     
+    \pi
+  
+ als Zeilenvektor aufgefasst wird.
+Feller-Prozesse sind Markow-Prozesse, bei denen die Übergangswahrscheinlichkeiten 
+  
+    
+      
+        
+          P
+          
+            t
+          
+        
+        
+      
+    
+    }
+  
+ qua 
+  
+    
+      
+        
+        
+        :=
+         
+        
+          P
+          
+            t
+          
+        
+        
+        f
+        
+        =
+        
+          E
+          
+            x
+          
+        
+         
+        f
+        
+      
+    
+    f=\operatorname f}
+  
+ einer stark stetigen Halbgruppe auf dem Raum 
+  
+    
+      
+        
+          C
+          
+            0
+          
+        
+        
+      
+    
+    }
+  
+ der stetigen, im Unendlichen verschwindenden Funktionen entsprechen. In diesem Fall kann der Generator der entsprechenden Halbgruppe
+      
+    
+    {\displaystyle f\in C_{0}
+betrachtet und der Satz von Hille-Yosida angewendet werden.
+Der charakteristische Operator ist eine probabilistische Entsprechung des analytischen Generators 
+  
+    A
+    A
+  
+, mit dem oft leichter zu arbeiten ist. 1  Während in obiger Definition der Erwartungswert von 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ zu einem festen Zeitpunkt 
+  
+    t
+    t
+  
+ gebildet wird , wird hier der Erwartungswert von 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ an den unterschiedlichen  Zeitpunkten 
+  
+    
+      
+         
+        =
+         
+        
+      
+    
+    
+  
+ gebildet, zu denen der Prozess einen festgelegten räumlichen Bereich 
+  
+    B
+    B
+  
+, zum Beispiel eine Kugel 
+  
+    
+      
+        
+          B
+          
+             
+            ,
+            x
+          
+        
+      
+    
+    }
+  
+ um 
+  
+    
+      
+        x
+        =
+        
+          X
+          
+            0
+          
+        
+      
+    
+    }
+  
+ mit Radius 
+  
+     
+    \nu
+  
+, verlässt. Für nicht absorbierendes 
+  
+    x
+    x
+  
+ setzt man
+für absorbierendes 
+  
+    x
+    x
+  
+ setzt man 
+  
+    
+      
+        
+        
+        =
+        0
+      
+    
+    
+  
+. Für große Klasse von Feller-Prozessen gilt 
+  
+    
+      
+        A
+        f
+        =
+        U
+        f
+      
+    
+    
+  
+ für stetige, im Unendlichen verschwindende Funktionen 
+  
+    f
+    f
+  
+ aufgrund von Dynkins Maximum-Prinzip.
+Die Definition und der genannte Zusammenhang gehen auf eine Arbeit von E. B. Dynkin aus dem Jahr 1955 zurück. 2 

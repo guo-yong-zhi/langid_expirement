@@ -1,0 +1,12 @@
+   
+U+01c1 U+032c
+c7 81 cc ac
+   
+U+0261 U+01c1
+c9 a1 c7 81
+   
+U+1da2 U+01c1
+e1 b6 a2 c7 81
+Mlask boczny dziąsłowy dźwięczny – rodzaj dźwięku spółgłoskowego występujący w niektórych językach naturalnych. W Międzynarodowym alfabecie fonetycznym oznaczany jest symbolem ,  lub .
+W czasie artykulacji podstawowego wariantu :
+Mlask boczny dziąsłowy dźwięczny występuje m.in. w językach: naro, yeye, sandawe. W języku naro zapisywany jest dwuznakiem Dx.

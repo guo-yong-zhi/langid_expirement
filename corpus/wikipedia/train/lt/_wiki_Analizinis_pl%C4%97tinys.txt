@@ -1,0 +1,4 @@
+Analizinis plėtinys matematikoje – analizinė funkcija, gaunama pratęsus  realiosios funkcijos apibrėžimo sritį kompleksiniams skaičiams. Analizinio pratęsimo sąvoka paprastai apibūdina tokios funkcijos gavimo metodą, kuomet analizinis plėtinys išsaugo svarbiausias analizinės funkcijos savybes – diferencijuojamumą ir galimybę išskleisti funkciją Teiloro eilute bet kuriame taške.
+Šią sąvoką pirmą kartą 1842 m. įvedė vokiečių mokslininkas Karlas Vejerštrasas.
+Analizinio pratęsimo metu gali būti gaunamos nevienareikšmės funkcijos. Jų tyrimai padėjo pagrindus Rymano paviršių teorijai.
+Analizinis pratęsimas gali padėti įvertinti funkcijos vertes tokiose srityse, kur begalinės eilutės, apibrėžiančios kokią tai funkciją, diverguoja. Žinomiausi tokių plėtinių pavyzdžiai yra Gama funkcija, Rymano dzeta funkcija.

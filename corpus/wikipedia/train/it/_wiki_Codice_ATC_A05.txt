@@ -1,0 +1,4 @@
+Il codice ATC A05 "Bile e terapie del Fegato" è un sottogruppo del sistema di classificazione Anatomico Terapeutico e Chimico, un sistema di codici alfanumerici sviluppato dall'OMS per la classificazione dei farmaci e altri prodotti medici. Il sottogruppo A05 fa parte del gruppo anatomico A, farmaci per l'apparato digerente e del metabolismo. 1 
+Codici per uso veterinario  possono essere creati ponendo la lettera Q di fronte al codice ATC umano: QA05... 2  I codici ATCvet senza corrispondente codice ATC umano sono riportati nella lista seguente con la Q iniziale.
+Numeri nazionali della classificazione ATC possono includere codici aggiuntivi non presenti in questa lista, che segue la versione OMS.
+Sezione vuota

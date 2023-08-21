@@ -1,0 +1,123 @@
+Naturales 
+  
+    
+      
+        
+          N
+        
+      
+    
+     }
+  
+  sive 
+Integri 
+  
+    
+      
+        
+          Z
+        
+      
+    
+     }
+  
+ 
+Rationales 
+  
+    
+      
+        
+          Q
+        
+      
+    
+     }
+  
+Reales 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+Complexi ℂ
+Quaterni 
+  
+    
+      
+        
+          H
+        
+      
+    
+     }
+  
+Octoni 
+  
+    
+      
+        
+          O
+        
+      
+    
+     }
+  
+Infinitas 
+  
+    
+      
+         
+      
+    
+    
+  
+Algebra est disciplina mathematica quae quantitates abstractiter a perspectiva aequationes solvendi considerat. In generalizatione quadam de arithmetica coepit, qua symbola loco numerorum substituta sunt. Haec ratio repperta est ut perutilis ad problemata solvenda quibus sunt relationes inter ignotas quantitates quasdam in aequationum forma. 
+Vocabulum algebra primum Latine usurpatum est anno 1140, in translatione libri cuiusdam, cui titulus est Arabice الكتاب الجبر والمقابلة , significans Liber Compendiosus de Computando per Perfectionem Compensationemque. Liber descripsit quomodo aequationes lineares vel quadraticas simples solvere possumus operationibus symbolicis utendo. Lingua Arabica, al-jabr significat motum quantitatis ad alterum latus aequationis subtractae. Sed haec est sola una pars totius artis algebraicae.
+Algebra elementaris est congeries regularum quibus aequationes solvendae sunt.  Exempli gratia, si
+possumus de ambobus lateribus 1 subtrahere:
+Solutio huius simplicissimae aequationis est ergo 3.
+Regulae algebrae elementaris nobis dicunt licere quantitates aequales ad ambo aequationis latera addere, subtrahere, multiplicare, dividere.
+In antiquitate omnes quantitates originabant in geometria et mathematici aequationes solvebant methodis geometricis. Saeculo quarto, librum Arithmetica a Diophanto scriptum notissimum fuit tantum pro numeros considerando sine iustificatione geometrica quantum pro usu symboli permonodico ad quantitatem ignotam designandam. 1  
+Diophantus, sicut alii mathematici suae aetatis, ad aequationes solvendas solos numeros naturales intuitur. Et notationes eius erant perprimitivae. Methodos subsequenter mathematici excoluerunt. Saeculo VIII liber celeber de algebra a Machometo ibn Musa al-Kwarizmi scriptus methodos de aequationes gradus secundi solvendo simplices ostendit, systema notationis algebraicum melius monstrans. Etiam ea aetate systema decimale Arabicum magnopere progressum mathematicae adiuvit.
+Mille annis postea, ad aequationes magis intricatas solvendas, mathematicis oportuit novos numeros comperiri, sicut numeros irrationales et numeros complexos. Aequatio celeberrima, quae multos tales numeros simul proponit, est aequatio Euleri 2 
+ubi e = 2.71828... est numerus Euleri, i = 
+  
+    
+      
+        
+          
+             
+            1
+          
+        
+      
+    
+    }}
+  
+ unitas imaginaria, π = 3.14159... numerus pi, et -1 unitas negativa. Deinde anno 1806 Ioannes Robertus Argand demonstravit theorema fundamentale algebrae, quod dixit esse exactiter n solutiones distinctas cuique aequationi polynomiali gradus n
+ubi 
+  
+    
+      
+        
+          c
+          
+            k
+          
+        
+      
+    
+    }
+  
+ sunt coefficientes valoribus complexis. Independenter postea Gauss ea theorema quoque demonstravit annis 1816 et 1849.
+Saeculo undevicensimo, mathematici etiam novas structuras algebraicas e numeris factas comminiscerunt sicut quaterniones, vectores, matrices, et tensores. Tales sunt perutiles non modo ad simultanea aequationum systemata solvenda, sed hodie etiam ad computationes numericas computatris facendas.
+Postquam tanti numeri novi definiuntur, nova algebrae abstractae disciplina incepta est ut numeri suarum operationum, sicut + et *, arithmeticarum contextu abstractiter meditetur et ut condiciones determinentur quibus aequationes algebraicas solvantur. 
+Res algebrae abstractae sunt numerorum generalizationes classificatae modo axiomatico secundum earum operationes: 
+His in definitionibus, oportet greges esse clausos sub operationibus definitis, id est, si 1 est in grege quodam oportet 1 + 1 quoque esse in eodem grege, et sic itidem alia gregis membra. 
+Mathematicus Francogallicus Evaristus Galois, qui primus fuit qui nomine grex  usus est ad collectionem permutationum designandam, anno 1832 difficultatem magnam superavit, cum illas condiciones determinaret necessarias sufficientesque ad omnes aequationes polynomiales solvendas solo numeris realibus utendo. 3  Sui labores nobis dederunt fundamentum theoriae Galois, quae pars maior algebrae abstractae hodie est. Tragice Galois solos duo et viginti annos vixit, in monomachia interfectus.
+Res algebrae abstractae non sunt soli numeri et structurae numeris factae. Res quoque possumus definire e quoque collectione de qua operationes possumus definere sine contradictione. Specialiter, gregis membra possunt esse operationes logicae vel rerum symmetriae sicut circuitationes. Tales greges habent maximos usus in aliis partibus mathematicae, physicae, machinarum scientiaeque. Greges bene graves sunt ad aequationes differentiales solvendas, multas quaestiones physicales repraesentantes.

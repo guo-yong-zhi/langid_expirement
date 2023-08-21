@@ -1,0 +1,4 @@
+
+Виндберг — Алманиянең Бавария җирендә урнашкан коммуна 3 .
+Ошибка Lua в Модуль:Sources на строке 178: attempt to concatenate local 'letter' .
+Коммуна мәйданы — Ошибка Lua в Модуль:Sources на строке 178: attempt to concatenate local 'letter' .. Диңгез дәрәҗәсе өстеннән 400 метр биеклектә урнашкан.

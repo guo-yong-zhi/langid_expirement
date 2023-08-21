@@ -1,0 +1,8 @@
+aptX on Qualcommin omistama äänenpakkausmenetelmä .
+Alkuperäisen algoritmin kehitti Stephen Smyth osana väitöskirjaansa Belfastin yliopiston sähkötekniikan ja tietotekniikan laitoksella.
+Algoritmia käytettiin kaupallisesti 1990-luvun alusta, kun se toteutettiin APTX100ED-DSP-piirillä.
+aptX otettiin vaihtoehtoiseksi äänenpakkausmenetelmäksi Bluetooth-standardiin.
+CSR  osti aptX-kehittäjän 2010. 1 
+Qualcomm osti CSR:n 2,4 miljardilla dollarilla vuonna 2015. 2 
+Alkuperäinen aptX käytti 352kbps bittinopeutta, joka vastasi noin 4:1 pakkaussuhdetta audiolle.
+Alkuvuodesta 2016 julkaistiin aptX HD, joka on tarkoitettu hifi-tasoiseen äänensiirtoon ja jota valmistaja mainostaa "CD-äänenlaatua parempana." aptX HD on myös yhteensopiva vanhan aptX:n kanssa. 3  4 

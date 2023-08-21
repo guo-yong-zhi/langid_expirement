@@ -1,0 +1,3 @@
+Pirta eli kaide pitää kangaspuiden loimilangat halutulla etäisyydellä toisistaan eli pirran avulla loimeen saadaan haluttu tiheys. Pirta on luhaan kiinnitettävä  kehikko, jossa on tasavälein ohuita säleitä eli piitä. Loimilangat pujotellaan säleiden väliin.
+Pirran numero ilmaisee, kuinka monta piinrakoa on kymmenellä senttimetrillä . Jos loimen tiheydeksi halutaan esimerkiksi 4 lankaa/cm, valitaan pirta numero 40 ja pujotetaan kuhunkin rakoon yksi loimilanka. Vaihtoehtoisesti voidaan käyttää pirtaa numero 20 , pirtaa numero 80  jne. 
+Suomen kieleen on pirrasta juontunut sanonta ”sopia jonkun pirtaan”, joka tarkoittaa jonkin sopimista jollekulle. 1 

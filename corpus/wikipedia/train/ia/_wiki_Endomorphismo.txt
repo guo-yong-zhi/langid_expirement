@@ -1,0 +1,23 @@
+Un endomorphismo 1  es un homomorphismo 
+  
+    
+      
+        f
+         
+        A
+         
+        A
+      
+    
+    
+  
+ de un structura mathematic 
+  
+    
+      
+        A
+      
+    
+    
+  
+ in se mesme preservante le character del structura. Si illo additionalmente es un isomorphismo, illo es un automorphismo.

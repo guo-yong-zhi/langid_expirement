@@ -1,0 +1,4 @@
+El teorema es pot escriure com una equació que relaciona les longituds dels costats a, b, i c, sovint anomenada l'equació de Pitàgores:
+El teorema de Pitàgores en el seu enunciat habitual estableix que en un triangle rectangle la suma dels quadrats dels catets  és igual al quadrat de la hipotenusa .
+El teorema es pot escriure com una equació que relaciona les longituds dels costats a, b, i c, sovint anomenada l'equació de Pitàgores:
+on c representa la longitud de la hipotenusa, i a i b representen les longituds dels altres dos costats.

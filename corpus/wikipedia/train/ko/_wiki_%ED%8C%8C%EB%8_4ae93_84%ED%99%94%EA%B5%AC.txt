@@ -1,0 +1,4 @@
+
+.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct.mw-parser-output .longitude,.mw-parser-output .latitude
+파눔 분화구는 미국 캘리포니아주의 모노호에 붙어있는 종상 화산으로, 현재는 화산 활동을
+보이지 않는다. 그러나 이곳은 모노호 옆에서 화산 폭발이 발생하여 만들어진 것으로 추측되며, 해발 2,145m이다.

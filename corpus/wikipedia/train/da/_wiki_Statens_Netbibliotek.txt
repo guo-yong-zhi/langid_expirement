@@ -1,0 +1,3 @@
+Statens Netbibliotek er et virtuelt bibliotek med én samlet indgang til statsligt udgivne netpublikationer. Statens Netbibliotek er udviklet af Det Administrative Bibliotek i samarbejde med Det Kongelige Bibliotek og DBC. 
+Det Administrative Bibliotek sørger for høstning og permanent opbevaring af netpublikationerne, der udgives af ministerier, styrelser, direktorater og visse andre statsinstitutioner med administrative forpligtelser.
+I Statens Netbibliotek kan der søges, printes og downloades frit for alle. Publikationerne er også tilgængelige via bibliotek.dk.

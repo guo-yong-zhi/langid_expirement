@@ -1,0 +1,33 @@
+modifier - modifier le code - modifier WikidataPour les articles homonymes, voir Vinogradov.
+Ivan Matveievitch Vinogradov   est un mathématicien et un académicien russe soviétique, spécialiste de la théorie analytique des nombres.
+Fils d'un pope, il passe son enfance à Velikié Louki et s'inscrit en 1910 à l'université impériale de Saint-Pétersbourg où il a, entre autres professeurs, Andreï Markov et James Victor Uspensky ; il en sort diplômé en 1915. Il obtient une bourse de thèse pour poursuivre ses recherches sur la classification des résidus quadratiques. En 1918 il est reçu privat-docent de l'Université d'État de Perm nouvellement créée, dont il devient professeur titulaire en 1919. En 1920 il est nommé professeur à l'Institut  Polytechnique de Saint-Pétersbourg, et obtient en 1925 la direction du département de Calcul des probabilités et de théorie des nombres ; puis en 1934 Vinogradov est nommé premier directeur de l'Institut de mathématiques Steklov de Leningrad, dans la création duquel il s'était fortement impliqué. Après le transfert de l'institut à Moscou, il en a partagé la direction avec Sergueï Sobolev, mais il reprend la totalité des responsabilités en 1947.
+Vinogradov a imaginé un procédé sommatoire pour les séries trigonométriques de la forme
+où la sommation est étendue à tous les nombres premiers 
+  
+    
+      
+        p
+      
+    
+    
+  
+ inférieurs à une borne 
+  
+    
+      
+        N
+      
+    
+    
+  
+ et où 
+  
+    
+      
+         
+      
+    
+    
+  
+ est un nombre réel. Hermann Weyl s'était intéressé à ces séries dès 1916 dans le cadre de la théorie analytique des nombres, puis Hardy et Littlewood en ont fait un outil puissant de cette même branche . En 1937, Vinogradov suscite l'émotion en démontrant avec cette technique que tout entier impair suffisamment grand peut être décomposé comme somme de trois nombres premiers , étape importante dans la résolution de la conjecture  de Goldbach. Vinogradov applique sa méthode à bien d'autres questions de la théorie additive des nombres, comme le problème de Waring.
+Deux fois Héros du travail socialiste , il est académicien depuis 1929. Ses travaux sont récompensés par la médaille Lomonossov  et du prix Lomonossov . La Royal Society l'élit membre en 1942, et l'Académie Leopoldina en 1962. Il prononce  une conférence plénière au Congrès international des mathématiciens à Moscou en 1966  . Il a aussi publié Matematicheskaya entsiklopediya en 1977.

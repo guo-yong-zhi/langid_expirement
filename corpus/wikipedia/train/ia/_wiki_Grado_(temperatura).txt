@@ -1,0 +1,3 @@
+ 
+Un grado es un unitate de temperatura.
+Existe varie scalas de grados:

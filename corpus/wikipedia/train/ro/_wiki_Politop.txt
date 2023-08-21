@@ -1,0 +1,313 @@
+În geometria elementară, un politop este un obiect geometric cu fețe plane. Este o generalizare pentru oricâte dimensiuni a poliedrelor tridimensionale. Un politop poate exista în orice număr de dimensiuni n ca politop n-dimensional . Fețe plane înseamnă că fețele unui -politop sunt formate din k-politopuri care au -politopuri în comun. De exemplu, un poligon bidimensional este un 2-politop iar un poliedru tridimensional este un 3-politop.
+Unele teorii generalizează în continuare ideea de a include aici și obiecte nelimitate, apeirotopuri și teselări, descompuneri sau învelișuri ale varietăților curbate, inclusiv poliedre sferice, și politopuri abstracte teoretice.
+Politopurile în mai mult de trei dimensiuni au fost descoperite de Ludwig Schläfli. Termenul german polytop a fost inventat de matematicianul Reinhold Hoppe și a fost introdus ca atare în literatura matematică engleză de Alicia Boole Stott.
+Astăzi termenul politop este unul comun, care cuprinde o gamă largă de obiecte, iar în literatura matematică se găsesc diverse definiții. Multe dintre aceste definiții nu sunt echivalente între ele, rezultând mulțimi diferite de obiecte care ar fi politopuri. Acestea au diferite abordări, cu scopul generalizării politopurilor convexe pentru a include și alte obiecte cu proprietăți similare.
+Abordarea inițială de către Ludwig Schläfli, Thorold Gosset și alții a pornit de la extinderea în patru sau mai multe dimensiuni a relației dintre poligonul în două dimensiuni și poliedrul în trei. 1 
+Încercările de generalizare ale caracteristicii Euler ale poliedrelor la politopurile cu un număr mai mare de dimensiuni a condus la dezvoltarea topologiei și la tratarea descompunerilor sau a CW complexelor⁠ analog politopurilor. 2  În această abordare, un politop poate fi privit ca o teselare sau descompunere a unor forme date. Un exemplu de astfel de abordare definește un politop ca o mulțime de puncte care admit o descompunere simplicială. În această definiție, un politop este o reuniune a unui număr finit de simplexuri, cu proprietatea suplimentară că pentru oricare două simplexuri care au o intersecție nevidă, acestă intersecție este un vârf, latură, sau o față n-dimensională a acestora. 3  Această definiție nu acoperă politopurile stelate cu structuri interne, fiind limitativă în unele domenii ale matematicilor.
+Descoperirea poliedrelor stelate și a altor construcții neobișnuite a condus la considerarea unui poliedru ca o suprafață de delimitare, ignorând interiorul său. 4  În această interpretare, politopurile convexe în p-spațiu sunt echivalente cu pavarea suprafețelor -sferelor, iar altele pot fi pavate cu -suprafețe în alt fel de spații: plane, eliptice sau toroidale,  și poliedru toroidal). Un poliedru este văzut ca o suprafață ale cărei fețe sunt poligoane, un 4-politop ca o hipersuprafață ale cărei fețe sunt poliedre ș.a.m.d.
+Ideea de a construi un politop cu un număr de dimensiuni mai mare din cele cu un număr de dimensiuni mai mic a fost extinsă „în jos”, laturile fiind considerate drept 1-politopuri, mărginite de o pereche de puncte, iar aceste puncte  drept 0-politopuri. Această abordare este folosită, de exemplu, în teoria politopurilor abstracte⁠.
+În unele domenii ale matematicilor, termenii de "politop" și "poliedru" au alt sens: un poliedru este un obiect generic, în oricâte dimensiuni  iar sensul termenului politop este de poliedru împreună cu elementele  care îl delimitează. 5  Acestă terminologie particulară este tipică pentru politopurile și poliedrele convexe. Cu această terminologie un poliedru convex este intersecția unui număr finit de semispații⁠și este definit de fețele sale, în timp ce un politop convex este anvelopa convexă a unui număr finit de puncte și este definit de vârfurile sale.
+Politopurile cu un număr mic de dimensiuni au nume standard:
+Un politop are elemente diferit dimensionale: vârfuri, laturi, fețe, celule ș.a.m.d. Terminologia acetora nu este identică la toți autorii. De exemplu, unii autori spun față când se referă la elementele -dimensionale, în timp ce alții spun față exclusiv la elementele bidimensionale . Alți autori folosesc expresii ca j-față sau j-fațetă pentru a indica un element cu j dimensiuni . Unii spun frontiere când se referă la muchii, în timp ce H.S.M. Coxeter spune celule la elementele -dimensionale. 7 
+Termenii folosiți în acest articol sunt cei din tabelul următor:
+Un politop n-dimensional este mărginit de un număr de fațete -dimensionale. Aceste fațete sunt ele însele politopuri, care sunt mărginite de muchii -dimensionale ale politopului original. Fiecare muchie apare la intersecția a două fațete . Muchiile, și ele, sunt politopuri ale căror fațete sunt frontiere -dimensionale ale politopului original ș.a.m.d. Aceste politopuri de frontieră pot fi numite fațete, sau, mai specific, j-fețe. O față 0-dimensională este numită vârf și este formată dintr-un singur punct. O față 1-dimensională este numită „latură” și este formată dintr-un segment. O față 2-dimensională este formată dintr-un poligon și o față 3-dimensională, uneori numită celulă, este formată dintr-un poliedru.
+Un politop poate fi convex. Politopurile convexe sunt cele mai simple tipuri de politopuri și formează baza câtorva generalizări ale conceptului de politop. Un politop convex este uneori definit ca intersecția unei mulțimi de semispații. Această definiție permite unui politop să nu fie mărginit sau finit. Politopurile sunt definite în acest mod de exemplu în programarea liniară. Un politop este mărginit dacă există o sferă cu rază finită care îl înconjură . Se spune despre un politop că este ascuțit dacă are cel puțin un vârf. Orice politop mărginit și care nu este gol este ascuțit. Un exemplu de politop neascuțit este mulțimea 
+  
+    
+      
+        
+      
+    
+     ^
+  
+. Un politop este finit dacă este definit printr-un număr finit de obiecte, de exemplu drept intersecția unui număr finit de semispații.
+Se spune despre un politop că este întreg⁠ dacă toate coordonate vârfurilor sale sunt numere întregi .
+O clasă de politopuri convexe sunt politopurile reflexive. Un 
+  
+    
+      
+        d
+      
+    
+    
+  
+-politop întreg 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    }}
+  
+ este reflexiv dacă pentru unele matrice de întregi⁠ 
+  
+    
+      
+        
+          A
+        
+      
+    
+     }
+  
+, 
+  
+    
+      
+        
+          
+            P
+          
+        
+        =
+        
+      
+    
+    }=\ ^ \}}
+  
+, unde 
+  
+    
+      
+        
+          1
+        
+      
+    
+     }
+  
+ este un vector al tuturor, iar inegalitatea este adevărată pentru toate componentele. Din această definiție reiese că 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    }}
+  
+ este reflexivă dacă și numai dacă 
+  
+    
+      
+        
+        
+          
+            
+              P
+            
+          
+          
+             
+          
+        
+         
+        
+          
+            Z
+          
+          
+            d
+          
+        
+        =
+        t
+        
+          
+            P
+          
+        
+         
+        
+          
+            Z
+          
+          
+            d
+          
+        
+      
+    
+    }^ ^{d}=t\cap \mathbb }
+  
+ oentru toate 
+  
+    
+      
+        t
+         
+        
+          
+            Z
+          
+          
+             
+            0
+          
+        
+      
+    
+     _
+  
+. În alte cuvinte, o 
+  
+    
+      
+        
+      
+    
+    
+  
+-dilatare a 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    }}
+  
+ diferă, în termenii punctelor laticii de întregi, de 
+  
+    
+      
+        t
+      
+    
+    
+  
+-dilatarea 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    }}
+  
+ numai prin puncte de rețea în plus de pe frontieră. Echivalent, 
+  
+    
+      
+        
+          
+            P
+          
+        
+      
+    
+    }}
+  
+ este reflexivă dacă și numai dacă politopul său dual 
+  
+    
+      
+        
+          
+            
+              P
+            
+          
+          
+             
+          
+        
+      
+    
+    }^
+  
+ este un politop întreg. 9 
+Politopurile regulate au cel mai mare număr de simetrii dintre toate politopurile. Grupul de simetrii ale unui politop regulat este tranzitiv pentru grafurile sale, ca urmare politopul dual al unui politop regulat este și el regulat.
+Există trei clase principale de politopuri regulate care există în orice număr de dimensiuni:
+Cele două, trei și patru dimensiuni includ figuri regulate 5-simetrice, inclusiv unele stelate, care nu sunt convexe, iar în două dimensiuni există o infinitate de poligoane regulate n-simetrice, și, pentru cele cu mai mult de patru laturi, stelate. Dar pentru mai multe dimensiuni nu există alte politopuri regulate. 1 
+În trei dimensiuni există cinci poliedre regulate convexe, inclusiv dodecaedrul și icosaedrul și patru stelate  5-simetrice, în total nouă poliedre regulate.
+În patru dimensiuni 4-politopurile regulate includ un corp adițional convex 4-simetric și două 5-simetrice. Există zece 4-politopuri Schläfli-Hess stelate, toate 5-simetrice, dând un total de șaisprezece 4-politopuri regulate.
+Un politop care nu este convex se poate autointersecta; această clasă de politopuri include politopurile stelate. Unele politopuri regulate sunt stele. 1 
+Deoarece un politop convex închis  P în 
+  
+    
+      
+        d
+      
+    
+    
+  
+ dimensiuni este contractil⁠ până într-un punct, caracteristica Euler 
+  
+    
+      
+         
+      
+    
+    
+  
+ a frontierelor sale ∂P este dată de suma:
+Asta este generalizarea formulei Euler pentru poliedre. 10 
+Similar, teorema Gram–Euler generalizează suma unghiurilor interioare 
+  
+    
+      
+         
+         
+      
+    
+    
+  
+ a poliedrelor convexe la politopuri cu mai multe dimensiuni: 10 
+Nu toate formele sunt finite. Când un politop este văzut ca o teselare sau descompunere a unei forme, ideea poate fi extinsă la forme infinite. Teselări, umpleri ale spațiului cu faguri și teselările uniforme în planele hiperbolice⁠ sunt, în acest sens, politopuri, numite de obicei apeirotopuri  deoarece au un număr infinit de celule.
+Între acestea există forme regulate, ca poliedrele strâmbe regulate⁠ și serii de teselări infinite reprezentate de apeirogoane, teselări pătrate, faguri cubici etc.
+Teoria politopurilor abstracte încearcă să detașeze noțiunea de politop de cea de spațiu, ocupându-se pur de proprietățile lor combinatorice. Asta permite ca definiția termenului de „politop” să fie extinsă pentru a cuprinde obiecte, ca de exemplu 11-celule, pentru care este dificil de a defini un spațiu intuitiv care să le cuprindă.
+Un politop abstract este o mulțime parțial ordonată⁠ de elemente sau membri, care respectă nuște reguli. Este o structură pur algebrică, iar teoria a fost dezvoltată pentru a evita o serie de aspecte greu de împăcat cu diverse noțiuni geometrice într-un cadru matematic consistent. Un politop geometric este considerat o materializare în spațiul real al politopului abstract asociat. 11 
+Structuri analoage politopurilor există în |spațiul Hilbert complex 
+  
+    
+      
+        
+          
+            C
+          
+          
+            n
+          
+        
+      
+    
+     ^
+  
+, unde n dimensiuni reale sunt însoțite de n dimensiuni imaginare. Politopurile regulate complexe sunt tratate mai adecvat drept configurații⁠. 12 
+Fiecare n-politop are o structură duală, obținută prin interschimbarea vârfurilor sale cu fațetele, a laturilor sale cu muchiile și așa mai departe schimbând în general elementele sale -dimensionale cu elementele -dimensionale , conservând în același timp conectivitatea sau incidența dintre elemente.
+Pentru un politop abstract, aceasta inversează pur și simplu ordinea mulțimii. Această inversare este văzută în simbolurile Schläfli pentru politopurile regulate, unde simbolul pentru politopul dual este pur și simplu inversul originalului. De exemplu,  este dualul lui .
+În cazul unui politop geometric, este necesară o regulă geometrică pentru dualizare, a se vedea, de exemplu, regulile descrise pentru poliedrele duale. În funcție de circumstanțe, politopul dual poate fi sau nu un alt politop geometric.
+Dacă dualul este inversat, se obține politopul original. Astfel, politopurile există în perechi duale.
+Dacă un politop are același număr de vârfuri, fețe, laturi etc. și aceleași conectivități, atunci varianta duală va fi similară cu originalul iar politopul este autodual.
+Exemple de politopuri autoduale:
+Poligoanele și poliedrele au fost cunoscute din antichitate.
+O primă mențiune despre o dimensiune superioară a fost făcută în 1827, când August Ferdinand Möbius a descoperit că două corpuri în oglindă pot fi suprapuse prin rotirea unuia într-o a patra dimensiune matematică. Până în anii 1850, câțiva matematicieni, ca Arthur Cayley și Hermann Grassmann, au luat în considerare dimensiunile superioare.
+Ludwig Schläfli a fost primul care a tratat analogii acestor poligoane și poliedre în aceste hiperspații. El a descris cele șase policoruri regulate în 1852, dar lucrarea sa n-a fost publicată până în 1901, la șase ani după decesul său. Din 1854, Bernhard Riemann, în Habilitationsschrift  cu titlul Über die Hypothesen welche der Geometrie zu Grunde liegen  susținută în 1854 la Göttingen a stabilit geometria în spațiile cu dimensiuni superioare, ca urmare conceptul de politopuri n-dimensionale a devenit unul acceptabil. Politopurile Schläfli au fost redescoperite de mai multe ori în deceniile următoare, chiar în timpul vieții sale.
+În 1882 Reinhold Hoppe, scriind în limba germană, a introdus termenul de „polytop” referitor la un concept mai general asupra poligoanelor și poliedrelor. La timpul oportun, Alicia Boole Stott, fiica logicianului George Boole, a introdus termenul „polytop” în limba engleză. 1 :vi
+În 1895 Thorold Gosset nu numai că a redescoperit politopurile regulate ale lui Schläfli, ci a examinat ideea politopurilor semiregulate⁠ și teselările în dimensiuni superioare. Politopurile au început să fie studiate în spații neeuclidiene, cum ar fi spațiul hiperbolic.
+Un moment important a fost în 1948, când H.S.M. Coxeter a strâns în cartea sa, Politopuri regulate⁠, materialele anterioare, adăugând propriile sale descoperiri.
+Între timp, matematicianul francez Henri Poincaré a dezvoltat ideea topologică despe politop ca parte a unei descompuneri  a unei forme topologice. Branko Grünbaum a publicat influenta sa lucrare despre politopurile convexe în 1967.
+În 1952 Geoffrey Colin Shephard a generalizat ideea de politop complex în spațiul complex, în care fiecare dimensiune reală este însoțită de una imaginară. În continuare Coxeter a dezvoltat teoria.
+Problemele conceptuale apărute la tratarea politopurilor complexe, neconvexe, duale și a altor fenomene i-au determinat pe Grünbaum și pe alții la un studiu mai general al proprietăților abstracte combinatorice cu privire șa vârfuri, fețe, laturi etc. O idee înrudită a fost studiul conexiunilor diferitelor elemente între ele. Aceste cercetări au dus în final la teoria politopurilor abstracte drept mulțimi parțial ordonate de elemente. Peter McMullen și Egon Schulte și-au publicat cartea Abstract Regular Polytopes (română Politopuri regulate abstracte în 2002.
+Enumerarea politopurilor uniforme, convexe și neconvexe, în patru sau mai multe dimensiuni este o problemă nefinalizată.
+Actual, politopurile și noțiunile asociate lor și-au găsit aplicații în grafica digitală, optimizare, motoare de căutare, cosmologie, mecanică cuantică și numeroase alte domenii. În 2013 s-a descoperit că modelul amplituedrului⁠ simplifică unele calcule din fizica teoretică.
+În domeniul optimizării, al programării liniare, unde se  studiază maximele și minimele funcțiilor liniare, aceste maxime și minime apar la frontierele unui politop n-dimensional. În programarea liniară politopurile apar la folosirea coordonatelor baricentrice⁠ generalizate și a variabilelor slabe⁠.
+În teoria twistorilor⁠ o ramură a fizicii teoretice, amplituedrul este folosit pentru a calcula amplitudinile dispersiilor particulelor subatomice atunci când acestea se ciocnesc. Politopul este pur teoretic, fără o reprezentare fizică, dar se spune că simplifică mult unele calcule. 13 
+  Materiale media legate de politop la Wikimedia Commons

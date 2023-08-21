@@ -1,0 +1,17 @@
+Cyberpunk v3 – vaidmenų žaidimo sistema, sukurta Mike Pondsmith ir leidžiama R. Talsorian Games. Žaidimo veiksmas vyksta post-cyberpunk pasaulyje. Naudojami dešimtainiai ir šešetainiai žaidimo kauliukai.
+Tai trečioji originaliosios Cyberpunk 2013 vaidmenų žaidimo sistemos versija su visiškai perdarytu pasauliu ir dalinai pakeista žaidimo mechanika.
+Kitas pavadinimo variantas yra Cyberpunk 203X. Nenurodant tikslios datos  pabrėžiama, kad žlugus pasauliniam Tinklui niekas nebegali pasakyti tiksliai kelinti dabar metai.
+Cyberpunk v3 žaidimo pasaulis yra žlugęs ir vėl bandantis atsistoti ant kojų Cyberpunk 2020 pasaulis. 
+Genialaus hakerio Rache Bartmoss sukurto viruso sužlugdytas pasaulinis Tinklas, visiškai sujaukta istorinė informacija, ketvirtojo korporacijų karo nualinta planeta, centrinės valdžios ir korporacijų žlugimas, susiskaldžiusi žmonija – tokį pasaulį siūlo Cyberpunk v3.
+Žlugus įprastai socialinei-ekonominei santvarkai susiformavo naujos bendruomenės – Alternatyvios kultūros . Engerunner, Reef, Desnai, Rolling State, Riptide ir Cee-metal dabar kovoja tarpusavyje dėl dominavimo pasaulyje. Kiekviena jų sukūrė savitą žmogaus galimybių išplėtimo būdą, bet visi jie paremtos nanotechnologijomis.
+Dėka perėjimo nuo Cyberpunk 2020 naudotos Interlock mechanikos prie šiek tiek modifikuotos Fuzion mechanikos buvo panaikintos veikėjų profesijos. Veikėjai kuriami paskirstant taškus jų pirminėms savybėms, perkams, talentams ir sugebėjimams. Iš dešimties pirminių statistikų reikšmių paskaičiuojamos dešimties išvestinių savybių reikšmės. 
+Visų savybių reikšmės gali būti nuo 1 iki 10.
+Tai yra naudingi daiktai, privilegijos ar kontaktai, kuriuos turi veikėjas. Meistras turi įvertinti kiekvieno perko svarbą ir įtaką žaidimui ir nustatyti atitinkamą jo kainos daugiklį – x1, x2, x3 ar x4. 
+tai yra įgimti veikėjo sugebėjimai. Talentų pvz., būtų Sveikas protas, ideali atmintis, ilgaamžiškumas, naktinis matymas ir kitkas.
+Visi sugebėjimai yra susieti su kuria nors viena iš pagrindinių savybių, tačiau priešingai nei Cyberpunk 2013 ar 2020, dabar galima pasirinkti ir kitą pagrindinę savybę kai tikrinamas vienas ar kitas sugebėjimas.
+Kūrėjai įvedė į žaidimą naują sąvoką – Giri. Tai japoniškas žodis, kurį į lietuvių kalbą būtų galima grubiai išversti kaip „ranka ranką plauna“. Kiekvienas geras darbelis kuriam nors iš altkultų atneša to konkretaus altkulto giri, kurią vėliau galima paversti į paslaugas, daiktus ar technologijas. Šeši nauji kibernetikos variantai gerokai paįvairina žaidimą ir duoda didesnes galimybes kuriantis veikėją.
+Nors ir buvo pakeista žaidimo mechanika liko suderinamumas su Cyberpunk 2020 sistemoje naudotų daiktų charakteristikomis. Tai leidžia didžiąją dali senųjų knygų neišmesti, o toliau sėkmingai naudoti su nauja sistema.
+Žlugus pasauliniam Tinklui nebeliko atskiro žaidimo tinkle, nes pasaulis grįžo prie laidinių ar bevielių tinklų ir jų nulaužimas priartėjo prie mūsų dienomis įprastų metodų.
+Mirtingumas palyginus su Cyberpunk 2020 smarkiai išaugo dėl sumažėjusių gyvybės taškų ir padidėjusios žalos kritinio pataikymo atveju.
+Išvestinė savybė Žmogiškumas nėra aiškiai aprašoma ir palikta meistro nuožiūrai.
+Labai nedidelis knygų pasirinkimas  – dabar yra tik pagrindinė taisyklių knygą ir vienas papildymas skirtas gatvės gaujoms.

@@ -1,0 +1,11 @@
+• ربط أيون فلزي• ‏GO:0005097، ‏GO:0005099، ‏GO:0005100 GTPase activator activity• phospholipid binding
+• سيتوبلازم• عصارة خلوية• غشاء خلوي• intrinsic component of the cytoplasmic side of the plasma membrane• غشاء
+• ‏GO:0043087، ‏GO:0032313، ‏GO:0032319، ‏GO:0032314، ‏GO:0043088 regulation of GTPase activity• ‏GO:0007243 intracellular signal transduction• ‏GO:0072468 توصيل الإشارة• ‏GO:0032320، ‏GO:0032321، ‏GO:0032855، ‏GO:0043089، ‏GO:0032854 positive regulation of GTPase activity• negative regulation of Ras protein signal transduction• cellular response to calcium ion
+C9J798
+n/a
+‏NM_001277335، ‏XM_011515690، ‏XR_428162، ‏XR_428163، ‏XM_017011626، ‏XM_017011627، ‏XR_001744499، ‏XR_001744500، ‏NM_001367767 XR_927316، ‏NM_001277335، ‏XM_011515690، ‏XR_428162، ‏XR_428163، ‏XM_017011626، ‏XM_017011627، ‏XR_001744499، ‏XR_001744500، ‏NM_001367767
+n/a
+‏XP_011513992، ‏XP_016867115، ‏XP_016867116، ‏NP_001354696 NP_001264264، ‏XP_011513992، ‏XP_016867115، ‏XP_016867116، ‏NP_001354696
+n/a
+RASA4B‏  هوَ بروتين يُشَفر بواسطة جين RASA4B في الإنسان. 1 
+هذه بذرة مقالة عن جين على كروموسوم 7 بحاجة للتوسيع. فضلًا شارك في تحريرها.

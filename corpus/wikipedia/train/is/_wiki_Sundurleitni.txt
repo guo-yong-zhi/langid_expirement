@@ -1,0 +1,3 @@
+Sundurleitni er fall í vigurgreiningu, sem lýsir vigursviði, táknað með div. 
+Gefum okkur vigursvið F = , en sundurleitni þess reiknast þannig:
+Vigursvið með sundurleitni núll hefur enga uppsprettu.

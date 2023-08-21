@@ -1,0 +1,25 @@
+Trong vật lý và kỹ thuật, cụ thể là động lực học chất lỏng , lưu lượng thể tích  là thể tích chất lỏng trôi qua trong một đơn vị thời gian; thường nó được biểu thị bằng ký hiệu Q .Đơn vị SI là mét khối trên giây . Một đơn vị khác được sử dụng là centimet khối trên phút tiêu chuẩn .
+Trong phép đo thủy lực, nó được gọi là dòng thải .
+Trong các đơn vị đo lường và đơn vị đo lường theo thông lệ của Hoa Kỳ, tốc độ dòng chảy thể tích thường được biểu thị bằng feet khối trên giây  hoặc gallon trên phút .
+Lưu lượng thể tích không nên nhầm lẫn với thông lượng thể tích, như được định nghĩa bởi định luật Darcy và được biểu thị bằng ký hiệu q, với đơn vị là m³/. Sự tích hợp của một thông lượng trên một khu vực tạo ra lưu lượng dòng chảy.
+Lưu lượng dòng chảy Q được định nghĩa bởi giới hạn: 1 
+nghĩa là thể tích của chất lỏng V chảy qua một bề mặt trong một đơn vị thời gian t.
+Bởi vì nó chỉ làm đạo hàm của thể tích nên lưu lượng là một đại lượng vô hướng. Sự thay đổi thể tích là lượng dòng chảy qua ranh giới trong một khoảng thời gian, không đơn giản là lượng thể tích ban đầu ở ranh giới trừ lượng thể tích cuối cùng ở ranh giới, bởi vì sự thay đổi về lưu lượng chảy qua một diện tích sẽ bằng không cho dòng chảy ổn định.
+Lưu lượng dòng chảy cũng có thể được định nghĩa bằng:
+trong đó:
+Phương trình trên chỉ đúng với tiết diện dẹt, phẳng. Nói chung, khi bao gồm các bề mặt cong,  phương trình trở thành tích phân mặt:
+Đây là định nghĩa sử dụng trong thực hành. Diện tích cần để tính lưu lượng dòng chảy là thực hoặc ảo, phẳng hoặc cong, tiết diện hoặc bề mặt. Diện tích vectơ là sự kết hợp của độ lớn của diện tích mà dòng chảy qua, A, và vectơ đơn vị vuông góc với diện tích, n̂. Mối quan hệ là A = An̂.
+Lý do sử dụng tích có hướng là: thể tích dòng chảy duy nhất chảy qua tiết diện vuông góc với diện tích, nghĩa là song song với đơn vị vuông góc. Công thức là:
+trong đó θ là góc giữa đơn vị vuông góc n̂ và vectơ vận tốc v của dòng chảy. Lưu lượng chảy qua tiết diện được giảm với hệ số cos θ. Khi θ tăng lên lưu lượng chảy qua giảm. Dòng chảy mà tiếp tuyến với diện tích, nghĩa là vuông góc với đơn vị vuông góc, không chảy qua phần diện tích này. Nó xảy ra khi θ = π/2 và vì vậy lưu lượng dòng chảy bằng không:
+Những kết quả này bằng với tích có hướng giữa vận tốc và hướng vuông góc với diện tích,
+Khi lưu lượng khối được tính, và khối lượng riêng được cho làm hằng số, nó là một cách dễ dàng để có 
+  
+    
+      
+        Q
+      
+    
+    
+  
+.
+trong đó:

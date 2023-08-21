@@ -1,0 +1,5 @@
+
+Localisation dans la constellation : Andromède
+NGC 801 est une vaste galaxie spirale située dans la constellation d'Andromède. Sa vitesse par rapport au fond diffus cosmologique est de 5 527 ± 17 km/s, ce qui correspond à une distance de Hubble de 81,5 ± 5,7 Mpc . NGC 801 a été découverte par l'astronome américain Lewis Swift en 1885.
+La classe de luminosité de NGC 801 est III et elle présente une large raie HI. C'est aussi une galaxie LINER, c'est-à-dire une galaxie dont le noyau présente un spectre d'émission caractérisé par de larges raies d'atomes faiblement ionisés. Selon la base de données Simbad, NGC 801 est une galaxie à noyau actif.
+À ce jour, une douzaine de mesures non basées sur le décalage vers le rouge  donnent une distance de 58,650 ± 10,256 Mpc , ce qui est à l'extérieur des valeurs de la distance de Hubble. Notons cependant que c'est avec la valeur moyenne des mesures indépendantes, lorsqu'elles existent, que la base de données NASA/IPAC calcule le diamètre d'une galaxie et qu'en conséquence le diamètre de NGC 801 pourrait être d'environ 78,5 kpc  si on utilisait la distance de Hubble pour le calculer.

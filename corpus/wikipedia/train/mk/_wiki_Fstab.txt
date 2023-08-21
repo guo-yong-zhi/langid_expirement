@@ -1,0 +1,13 @@
+fstab е конфигурациона податотека во GNU/Linux. Преку таа податотека се дава опис за останатите датотечни системи, како на пример ЦД уредот, друг диск во компјутерот и сл. Во оваа податотека стојат информации кои на системот му кажуваат што да прави со другите уреди или виртуелни/привремени датотечни системи. Една функционална fstab податотека изгледа вака:
+  /dev/hda1        swap             swap        defaults         0   0
+ /dev/hda6        /                reiserfs    defaults         1   1
+ /dev/cdrom       /mnt/cdrom       auto        noauto,user,ro  0   0
+ /dev/fd0         /mnt/floppy      auto        noauto,user,owner     0   0
+ devpts           /dev/pts         devpts      gid=5,mode=620   0   0
+ proc             /proc            proc        defaults         0   0
+ /dev/hdb2       /mnt/ambar        reiserfs    auto,user,rw      0       0
+ /dev/hda5       /mnt/kanotix      reiserfs    auto,user,rw      0       0
+  /dev/sda1       /mnt/usbstick      vfat    noauto,user,rw      0       0
+  # mount /mnt/usbstick
+</prПристапете во /mnt/usbstick или преку конзола или преку справувач за податотеки .
+За оваа потреба може да ја прегледате посебната содржина за NFS.

@@ -1,0 +1,1 @@
+Uma isosurperfície é um análogo tridimensional de uma isolinha. É uma superfície que representa pontos de valor constante  dentro de em volume de espaço; em outras palavras, é um conjunto de nível de uma função contínua cujo domínio é um espaço 3D.

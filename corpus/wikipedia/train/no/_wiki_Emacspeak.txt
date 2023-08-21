@@ -1,0 +1,1 @@
+Emacspeak er et fritt og åpent dataprogram, talegrensesnitt, og en mottager av lyd . Programmet anvender Emacs/GNU Emacs, Emacs Lisp og Tcl. Programmet ble primært utviklet av T. V. Raman, og ble første gang lansert i april 1995. 1  Programmet er portabelt til alle POSIX-kompatible operativsystemer. 

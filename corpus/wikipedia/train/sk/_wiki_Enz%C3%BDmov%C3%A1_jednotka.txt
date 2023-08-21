@@ -1,0 +1,4 @@
+Enzýmová jednotka je  miera pre aktivitu enzýmu. 
+V súčasnosti je jednotkou, ktorú odporúčajú organizácie typu IUB, IUPAC, IFCC a podobne, a ktorá je od roku 1999 aj jednotkou SI, katal .
+V 60. a 70. rokoch 20. storočia sa používala bezmenná , ale presne definovaná, jednotka so značkou U. 
+Ešte staršie sa používali rôzne iné jednotky, napr. Wohlgemuthova jednotka, alebo prakticky odvodené jednotky, napr. mg premeny substrátu/min.

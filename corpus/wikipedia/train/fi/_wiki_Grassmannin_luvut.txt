@@ -1,0 +1,1 @@
+Grassmannin luvut tai Grassmannin muuttujat ovat luonnollisista luvuista poiketen ei-vaihdannaisia eli ei-kommutoivia lukuja. Grassmannin luvuille pätee: A×B = −B×A. Luvut on nimetty saksalaisen matemaatikon Hermann Grassmannin mukaan.

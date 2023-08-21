@@ -1,0 +1,443 @@
+La teoria del second best  studia, nell'ambito dell'economia del benessere, la seconda miglior soluzione quando l'ottimo paretiano non può esser raggiunto. È stata sviluppata da Kelvin Lancaster e Richard Lipsey.
+Un ottimo paretiano deve soddisfare ad una serie di condizioni che in pratica sono sovente difficili da ottenere. Infatti, le esigenze istituzionali, 1  il blocco di certi prezzi o il sistema di tassazione introducono delle distorsioni che impediscono l'ottenimento di un ottimo paretiano.
+Si potrebbe allora considerare una classificazione dei diversi stati dell'economia basata sulle condizioni dell'ottimo paretiano non soddisfatte. Per esempio, se il numero dei mercati dove vige la concorrenza è superiore nello stato 
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+      
+    
+    }
+  
+ che nello stato 
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+      
+    
+    }
+  
+, si potrebbe supporre che lo stato 
+  
+    
+      
+        
+          E
+          
+            1
+          
+        
+      
+    
+    }
+  
+ sia migliore dello stato 
+  
+    
+      
+        
+          E
+          
+            2
+          
+        
+      
+    
+    }
+  
+ siccome dovrebbe essere più vicino all'ottimo paretiano. Questa ipotesi non è però valida, salvo in casi particolari.
+Se l'ottimo paretiano o first best non può essere raggiunto, bisogna cercare il second best. Prendiamo il caso di un'economia con un solo consumatore e una sola funzione di produzione. Le condizioni di ottimalità sono ottenute massimizzando l'utilità del consumatore sotto i vincoli usuali. La funzione lagrangiana è:
+dove 
+  
+    
+      
+        
+          q
+          
+            j
+          
+        
+      
+    
+    }
+  
+ sono le quantità consumate e 
+  
+    
+      
+        
+          
+            
+              
+                q
+                 
+              
+            
+          
+          
+            j
+          
+        
+      
+    
+    }_
+  
+ le quantità prodotte dei beni .
+Si ottengono, tra l'altro, le condizioni seguenti:
+Il saggio marginale di sostituzione tra il bene j e il bene s deve essere uguale al saggio di trasformazione dei prodotti.
+Supponiamo ora che un'esigenza istituzionale impedisca di ottenere questa uguaglianza per il primo bene. Questa condizione può essere espressa nel seguente modo: 2   
+È allora impossibile ottenere l'ottimo paretiano. Bisogna calcolare il second best massimizzando l'utilità sotto questo vincolo supplementare. La funzione lagrangiana diventa:
+Dalle condizioni di primo ordine:
+Si ottengono le relazioni seguenti:
+Se le funzioni di utilità e di produzione sono additive, 
+  
+    
+      
+         
+        
+          u
+          
+            1
+          
+        
+        
+          /
+        
+         
+        
+          q
+          
+            j
+          
+        
+      
+    
+    /\partial q_
+  
+ e 
+  
+    
+      
+         
+        
+           
+          
+            1
+          
+        
+        
+          /
+        
+         
+        
+          
+            
+              
+                q
+                 
+              
+            
+          
+          
+            j
+          
+        
+      
+    
+    /\partial _
+  
+ sono uguali a zero per 
+  
+    
+      
+        j
+         
+        1
+      
+    
+    
+  
+. In questo caso, per i beni da 2 a m le relazioni diventano:
+e sono identiche a quelle ottenute per l'ottimo paretiano. Introdurre la concorrenza in un mercato supplementare è una politica ottimale quando le funzioni di utilità e di produzione sono additive. Infatti, si passa da un equilibrio di terzo rango ad un migliore equilibrio di secondo rango. Le politiche "parziali"  3  sono giustificate in questo caso.
+Quando le funzioni di utilità o di produzione non hanno questa forma particolare, le condizioni del second best sono differenti di quelli del first best e questo per tutti i mercati, come lo mostra l'esempio qui sopra. Introdurre la concorrenza in un ramo supplementare può condurre ad uno stato dell'economia peggiore: le politiche economiche che introducono gradualmente la concorrenza nei diversi mercati non hanno nessuna giustificazione teorica quando le funzioni di utilità e di produzione non sono additive.
+Si può conservare l'ottimo paretiano in un'economia con un settore pubblico introducendo delle imposte a forfait. Per diverse ragioni, gli Stati utilizzano altri sistemi di tassazione. In questo caso bisogna utilizzare la teoria del second best per analizzare questi sistemi. 4  La teoria della tassazione ottimale studia l'arbitraggio tra efficienza ed equità nelle imposte dirette e indirette. I risultati ottenuti dipendono sovente dal modello utilizzato. Peter Diamond e Emmanuel Saez arrivano alla conclusione che, nel caso delle imposte sul reddito, il tasso marginale deve essere crescente e variare tra il 48% e il 76%. 5 
+Esempio
+La teoria della tassazione ottimale determina nel modo seguente le tasse indirette sui beni di consumo. Supponiamo che il ricavo della fiscalità indiretta deve essere di B, per coprire i bisogni delle Stato. Siano 
+  
+    
+      
+        
+          t
+          
+            j
+          
+        
+      
+    
+    }
+  
+ le tasse  e 
+  
+    
+      
+        
+          q
+          
+            j
+          
+        
+      
+    
+    {\displaystyle q_
+  
+ i beni di consumo . Il ricavo fiscale è allora 
+  
+    
+      
+         
+        
+          t
+          
+            j
+          
+        
+        
+          q
+          
+            j
+          
+        
+      
+    
+    q_
+  
+ e deve essere uguale a B. I prezzi dei produttori  e i tassi di salario 
+  
+    
+      
+        
+          w
+          
+            i
+          
+        
+         
+        
+      
+    
+    \ }
+  
+ sono fissi. I prezzi pagati dai consumatori sono 
+  
+    
+      
+        
+          p
+          
+            j
+          
+        
+        =
+        
+          r
+          
+            j
+          
+        
+        +
+        
+          t
+          
+            j
+          
+        
+      
+    
+    =r_{j}+t_
+  
+. Il vincolo di bilancio del consumatore i è dunque:
+dove 
+  
+    
+      
+        
+          T
+          
+            i
+          
+        
+      
+    
+    }
+  
+ sono le ore di lavoro.
+Si desidera calcolare le tasse 
+  
+    
+      
+        
+          t
+          
+            j
+          
+        
+      
+    
+    }
+  
+ che massimizzano la funzione di utilità sociale 
+  
+    
+      
+        W
+        
+      
+    
+    
+  
+, dove 
+  
+    
+      
+        
+          v
+          
+            i
+          
+        
+        
+      
+    
+    }
+  
+ è la funzione di utilità indiretta del consumatore i, sotto il vincolo dato dalla somma che lo Stato deve incassare. Calcolare le tasse 
+  
+    
+      
+        
+          t
+          
+            j
+          
+        
+      
+    
+    }
+  
+ corrisponde a fissare i prezzi 
+  
+    
+      
+        
+          p
+          
+            j
+          
+        
+      
+    
+    {\displaystyle p_
+  
+ pagati dai consumatori. Prendiamo allora questa variabile, senza dimenticare che le tasse dipendono da questi prezzi. La funzione lagrangiana:
+conduce tra l'altro alle condizioni di primo ordine seguenti:
+L'identità di Roy ci permette di scrivere 
+  
+    
+      
+         
+        
+          v
+          
+            i
+          
+        
+        
+          /
+        
+         
+        
+          p
+          
+            s
+          
+        
+        =
+         
+        
+          q
+          
+            i
+            s
+          
+        
+        
+           
+          
+            i
+          
+        
+      
+    
+    /\partial p_\lambda _
+  
+ dove 
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \lambda _
+  
+ è l'utilità marginale del reddito.
+Le condizioni summenzionate diventano allora, utilizzando l'equazione di Slutsky:
+Sia
+l'utilità marginale netta della società per il reddito dell'individuo i . Si può scrivere:
+Se gli effetti incrociati sono nulli, 
+  
+    
+      
+        
+          K
+          
+            j
+            s
+          
+          
+            i
+          
+        
+        =
+        0
+      
+    
+    ^
+  
+ per 
+  
+    
+      
+        j
+         
+        s
+      
+    
+    
+  
+ e allora si vede che, fermo restando tutto il resto, la tassa sarà più debole se l'elasticità-prezzo o l'utilità marginale netta della società sono forti.

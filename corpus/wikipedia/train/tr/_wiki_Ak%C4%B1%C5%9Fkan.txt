@@ -1,0 +1,9 @@
+Akışkan, sıvıları, gazları, plazmaları ve bazı durumlarda plastik katıları  kapsayan, maddenin hallerinin bir altkümesidir.
+Akışkanlar, kayma gerilmesi altında sürekli biçim değiştirir . Akışkanlar, akma kabiliyetinin bir sonucu olarak bulundukları kapların şeklini alır.
+Bu özellikler, tipik olarak durağan denge halinde kayma gerilmesine dayanamamanın bir sonucudur. Bir katıda, gerinme, zorlanmanın fonksiyonu iken, bir akışkanda, gerinme zorlanma oranının fonksiyonudur. Yani katı cisim kayma gerilmesine maruz kaldığında şekil değişimine uğrar ve bu şekil değişimi katının elastik şekil değişimi ile sınırlıdır. Akışkan ise kayma gerilmesine uğradığı sürece şekil değişimine  devam eder.
+Bu davranışın sonucu, akışkanın durum karakteristiğinde basıncın rolünün önemini gösteren Pascal yasası’dır.
+Akışkanlar özelliklerine göre ikiye ayrılabilir:
+Akışkanların davranışı, kütlenin korunumu, çizgisel momentumun korunumu, açısal momentumun korunumu ve enerjinin korunumu yasalarına dayanan bir kısmî diferansiyel denklem sistemi olan Navier–Stokes denklemleriyle tanımlanır.
+Akışkanlar, gazlar ve sıvılar içerisinde de sınıflandırılmışlardır. Sıvılar serbest yüzey formundadır , gazlar ise değildir, tüm hacmi kaplar.
+Katılar ve akışkanlar arasındaki fark, bazen çok açık değildir. Fark maddenin viskozitesinin saptanması ile oluşur; örneğin, silikon plastik farklı zamanlarda hem katı, hem de akışkan olarak tanımlanabilir.
+Akışkanların özelliklerini inceleyen çalışmalar, akışkanlar mekaniği olarak adlandırılır. Akışkanlar mekaniği de akışkanın hareket haline bağlı olarak, akışkanlar dinamiği ve akışkanlar statiği olarak alt bölümlere ayrılır.

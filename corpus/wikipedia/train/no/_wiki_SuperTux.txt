@@ -1,0 +1,2 @@
+SuperTux er et videospill basert på det gamle plattformspillet Super Mario Bros fra Nintendo. 2  Karakteren i spillet er Tux, maskotten til Linux-bevegelsen. SuperTux kan kjøres på de fleste operativsystemer, inkludert Linux, BSD, Windows og Mac ASTE X.
+Portal: Videospill

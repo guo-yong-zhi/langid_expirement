@@ -1,0 +1,22 @@
+El paramagnetisme és la tendència dels moments magnètics lliures  a alinear-se paral·lelament a un camp magnètic. Si aquests moments magnètics estan fortament adaptats entre si, el fenomen serà ferromagnetisme o ferrimagnetisme. 1 
+Aquest alineament dels dipols magnètics atòmics amb un camp extern tendeix a enfortir-lo. Això s'explica per una permeabilitat magnètica superior a la unitat o, cosa que és el mateix, una susceptibilitat magnètica positiva . En el paramagnetisme pur, el camp actua de manera independent sobre cada moment magnètic, i no hi ha interacció entre si. En els materials ferromagnètics, aquest comportament també pot observar-se, però només quan estan sotmesos a temperatures superiors a la seva temperatura de Curie. Els materials paramagnètics pateixen el mateix tipus d'atracció i repulsió que els imants normals, quan estan sotmesos a un camp magnètic. Tanmateix, en retirar el camp magnètic, l'entropia destrueix l'alineament magnètic, que ja no està afavorit energèticament.
+Com a elements paramagnètics podem trobar: l'alumini, el bari, el calci, l'oxigen, el platí, el sodi, l'estronci, l'urani, el magnesi, el tecneci i el disprosi. També podem parlar de compostos amb propietats paramagnètiques com el sulfat de coure, el clorur de ferro i el clorur mangànic.
+En camps magnètics baixos, els materials paramagnètics exhibeixen una magnetització en la mateixa direcció del camp extern, i la magnitud de la qual es descriu per la llei de Curie:
+  
+    
+      
+        M
+        =
+        C
+        
+          
+            B
+            T
+          
+        
+      
+    
+    
+  
+En aquesta equació, M és la magnetització resultant, B és la densitat de flux magnètic del camp aplicat, T és la temperatura absoluta , i C és una constant específica de cada material . Aquesta llei indica que els materials paramagnètics tendeixen a tornar-se cada vegada més magnètics en augmentar el camp aplicat, i cada vegada menys magnètics en elevar-se la temperatura.
+La llei de Curie només és aplicable a camps baixos o temperatures elevades, ja que falla en la descripció del fenomen quan la majoria dels moments magnètics es troben alineats . En aquest punt, la resposta del camp magnètic al camp aplicat deixa de ser lineal. Arribat al punt de saturació, la magnetització és la màxima possible, i no creix més, independentment que s'augmenti el camp magnètic o es redueixi la temperatura.

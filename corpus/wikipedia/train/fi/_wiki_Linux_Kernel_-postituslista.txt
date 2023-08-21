@@ -1,0 +1,4 @@
+Linux Kernel -postituslista  eli LKML on avoimen lähdekoodin Linux-käyttöjärjestelmäytimen kehittäjien keskusteluun tarkoitettu sähköpostilista. Se on yksi tärkeimmistä Linuxin kehittäjäyhteisön kommunikaatiokanavista. 1  Sähköposti on edelleen paras tapa hallita ytimen kokoista suurta projektia. 2 
+Muutokset ytimeen on toimitettava katselmoitavaksi postituslistan kautta asiaan liittyville henkilöille, joiden hyväksyntä tarvitaan muutoksen etenemiseksi ytimeen liittämiseen. 3 
+Arkisto listan sähköposteista vuodesta 1998 eteenpäin on koottu lore.kernel.org-palveluun. 4  Web-käyttöliittymän lisäksi arkiston saa NNTP-yhteydellä. 5 
+Yksi syy sähköpostin käyttöön edelleen on sen nopeus. 2  Eräät vaihtoehdot eivät skaalaudu suuriin projekteihin tai vaativat jatkuvaa verkkoyhteyttä, joka ei ole kaikille kehittäjille mahdollisuus. 2  Sähköpostin etuihin sanotaan kuuluvan sen integroitavuus muihin järjestelmiin kuten automaattisen testaamisen järjestelmiin. 2 

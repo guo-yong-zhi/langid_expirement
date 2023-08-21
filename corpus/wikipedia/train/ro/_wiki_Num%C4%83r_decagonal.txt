@@ -1,0 +1,5 @@
+Un număr decagonal este un număr figurativ care extinde conceptele de număr triunghiular și număr pătrat până la decagon . 2  Spre deosebire de numerele triunghiulare și pătrate, modelele implicate în construcția numerelor decagonale nu sunt simetrice rotațional. Mai exact, al n-lea număr decagonal este numărul de puncte dintr-un model de n decagoane imbricate, toate având un vârf  comun, unde al i-lea decagon al modelului are laturile formate din punctele i distanțate la o unitate unul de celălalt. Numărul decagonal Dn este dat de următoarea formulă: 1 
+Al n-lea număr decagonal poate fi calculat și prin adăugarea pătratului lui n la de trei ori al -lea număr pronic.
+Primii termeni ai șirului de numere decagonale sunt:
+Numerele triunghiulare sunt generate de relația:
+Ca urmare, există relația:

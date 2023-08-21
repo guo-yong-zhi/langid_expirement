@@ -1,0 +1,145 @@
+Ang Ekwasyong Schrödinger  ay ipinormula noong 1925 at inilimbag noong 1926 ng Austrianong pisikong si Erwin Schrödinger. Ang ekwasyong ito ay isang ekwasyong parsiyal diperensiyal na naglalarawan kung paano ang estadong kwantum ng isang sistemang pisikal ay nagbabago sa panahon. Ito ay ginagamit sa sangay ng pisika na mekanikang quantum. 
+Sa mekanikang klasiko, ang ekwasyon ng mosyon ang ikalawang batas ni Newton at ang mga katumbas na pormulasyon ang mga ekwasyong Euler-Lagrange at mga ekwasyon ni Hamilton. Sa lahat ng mga pormulasyong ito, ang mga ito ay ginagamnit upang lutasin ang mosyon ng isang sistemang mekanikal at matematikong hulaan kung ano ang gagawin ng sistema sa anumang panahon na lagpas sa mga simulang kinalalagyan at konpigurasyon ng sistema. Sa mekanikang quantum, ang analogo ng batas ni Isaac Newton ang ekwasyong Schrödinger para sa isang sistemang quantum na karaniwan ay mga atomo, molekula at mga partikulong subatomiko, malaya, nakatali o lokalisado. Ito ay hindi isang simpleng ekwasyong alhebraiko ngunit sa pangkahalatan ay isang linyar na ekwasyong parsiyal diperensiyal. Ang ekwasyong diperensiyal ay naglalarawan ng alongpunsiyon ng sistema na tinatawag na estadong quantum o estadong bektor. Sa pamantayang interpretasyon ng mekanikang quantum, ang alongpunsiyon ang pinakakumpletong deskripsiyon na maibibigay sa isang sistemang pisikal. Ang mga solusyon sa isang ekwasyong Schrödinger ay hindi lamang naglalarawan sa mga sistemang molekular, atomiko at subatomiko kundi pati sa mga sistemang makroskopiko at posibleng sa buong uniberso. 1 
+Tulad ng Ikalawang batas ni Newton, ang ekwasyong  Schrödinger ay maaaring matematikong mabago sa iba pang mga pormulasyon gaya ng mekanikang matriks ni Wernerg Heisenberg at pormulasyong landas integral ni Richard Feynman. Gayundin, tulad ng ikalawang batas ni Newton, ang ekwasyong Schrödinger ay naglalarawan ng panahon sa paraang ito ay hindi konbinyente para sa mga teoriyang relatibistiko na isang problemang hindi kasing kalala sa mekanikang matriks at kumpletong hindi umiiral sa pormulang landas integral.
+Ito ang anyo ng ekwasyong Schrödinger na nakasalalay sa sitwasyong pisikal. Ang pinaka pangkalahatang anyo nito ang nakasalalay sa panahong ekwasyong Schrödinger na nagbibigay ng isang deskripsiyon ng isang sistemang nagbabago sa panahon 2  :
+  
+    
+      
+        i
+         
+        
+          
+             
+            
+               
+              t
+            
+          
+        
+         
+        =
+        
+          
+            
+              H
+               
+            
+          
+        
+         
+      
+    
+    }\Psi }
+  
+kung saan ang Ψ ang along punsiyon ng sistemang quantum, ang i ang imahirnayong  unit, ang ħ ang pinaliit na konstanteng Planck at ang  
+  
+    
+      
+        
+          
+            
+              H
+               
+            
+          
+        
+      
+    
+    }}
+  
+ ang operador na Hamiltonian na naglalarawan ng kabuuang enerhiya ng anumang ibinigay na alongpunsiyon at kumukuha ng iba't ibang mga anyo depende sa sitwasyon. 
+Ang pinakasikat na halimbawa ang hindi relatibistikong ekwasyong Schrödinger para sa isang partikulo na gumaglaw sa isang field na elektriko : 
+  
+    
+      
+        i
+         
+        
+          
+             
+            
+               
+              t
+            
+          
+        
+         
+        
+        =
+        
+          
+        
+         
+        
+      
+    
+    
+  
+kung saan ang m ang masa ng partikulo, ang V ang enerhiyang potensiyal nito, ang 2 ang Laplacian, at ang Ψ ang alongpunsiyon . Sa simpleng wika, ito ay nangangahulugang "ang kabuuang enerhiya ay katumbas ng enerhiyang kinetiko na dinadgagan ng enerhiyang potensiyal", ngunit ang mga termino ay kumukuha ng mga anyong hindi pamilyar sa mga dahilang ipinaliliwanag sa ibaba. 
+Sa ibinigay na mga partikular na operador na diperensiyal na nasasangkot, ito ay isang linyar na ekwasyong parsiyal diperensiyal. Ito ay isa ring ekwasyong dipusyon. 
+Ang terminong "ekwasyong Schrödinger" ay maaaring tumukoy sa parehong pangkalahatang ekwasyon  o sa spesipikong bersiyong hindi relatibistiko . Ang pangkahalatang ekwasyon ay medyo pangkalahatan na ginagamit sa buong mekanikang quantum para sa bawat bagay mula ekwasyong Dirac hanggang sa teoriyang quantum field sa pamamagitan ng pagpapasok ng iba't ibang mga kumplikadong ekspresyon para sa Hamiltonian. Ang spesipikong bersiyong hindi relatibistiko ay isang pinasimpleng aproksimasyon ng realidad na medyo tumpak sa maraming mga sitwasyon ngunit labis na hindi tumpak sa ibang sitwasyon.  
+Upang ilapat ang ekwasyong Schrödinger ay itinayo para sa sistema na nagpapaliwanag ng enerhiyang kinetiko at potensiyal ng mga partikulong bumubuo sa sistema at pagkatapos ay ipapasok sa ekwasyong Schrödinger. Ang nagreresultang ekwasyong parsiyal diperensiyal ay nilulutas para sa alongpunsiyon na naglalaman ng impormasyon tungkol sa sistema.
+Ang nakasalalay sa panahong ekwasyong Schrödinger ay humuhula na ang mga alongpunsiyon ay maaaring bumuo ng mga hindi gumagalaw na estado . Ang mga estadong ito ay mahalaga sa sarili nito at sa karagdagan, kung ang mga estadong hindi gumagalaw ay inuri at inunawa, kung gayon nagiging mas madali na lutasin ang nakasalalay sa panahong ekwasyong Schrödinger para sa anumang estado. Ang hindi nakasalalay sa panahong ekwasyong Schrödinger ang ekwasyon na naglalarawan ng mga hindi gumagalaw na estado.  
+  
+    
+      
+        E
+         
+        =
+        
+          
+            
+              H
+               
+            
+          
+        
+         
+      
+    
+    }\Psi }
+  
+Ang ekwasyon ay nagsasaad na:
+Sa terminolohiya ng linear algebra, ang ekwasyong ito ay isang mga eigenhalaga at mga eigenbektor. Gaya ng nakaraan, ang pinaka sikat na manipestasyon ang hindi relatibistikong ekwasyong Schrödinger para sa isang partikulong gumagalaw sa isang field na elektriko :
+  
+    
+      
+        E
+         
+        
+        =
+        
+          
+            
+               
+              
+                 
+                
+                  2
+                
+              
+            
+            
+              2
+              m
+            
+          
+        
+        
+           
+          
+            2
+          
+        
+         
+        
+        +
+        V
+        
+         
+        
+      
+    
+    }\Psi +V\Psi }
+  
+na may mga depinisyong tulad ng sa itaas.

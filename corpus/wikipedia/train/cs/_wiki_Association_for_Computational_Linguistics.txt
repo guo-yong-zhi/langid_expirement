@@ -1,0 +1,5 @@
+Association for Computational Linguistics  je mezinárodní vědecké a profesní sdružení lidí pracujících na problémech kolem přirozeného jazyka a počítačů. ACL pořádá každoroční letní konference v místech, kde se nacházejí významná výzkumná pracoviště počítačové lingvistiky. Asociace byla založena v roce 1962 pod názvem Association for Machine Translation and Computational Linguistics . V roce 1968 byla přejmenována na ACL.
+ACL má evropskou  a severoamerickou  sekci. Obě pořádají své vlastní konference v letech, kdy se hlavní setkání ACL nekoná na jejich kontinentu.
+ACL vydává odborný časopis Computational Linguistics, který je významným fórem pro prezentování výsledků výzkumu v oblasti počítačové lingvistiky a počítačového zpracování přirozeného jazyka. Od roku 1988 pro ACL jeho vydávání zajišťuje vydavatelství MIT Press.
+ACL má také svou knižní edici, Studies in Natural Language Processing, kterou pro ni vydává Cambridge University Press.
+V ACL existuje řada tzv. zvláštních zájmových skupin , které se zaměřují na konkrétní oblasti počítačového zpracování přirozeného jazyka. V současnosti jsou aktivní např. tyto skupiny:

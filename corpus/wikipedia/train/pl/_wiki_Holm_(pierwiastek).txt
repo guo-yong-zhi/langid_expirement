@@ -1,0 +1,38 @@
+holm, Ho, 67
+–, 6, f
+III
+lantanowiec
+słabo zasadowe
+164,93 ± 0,01
+stały
+8795 kg/m³
+1472 °C
+2700 °C
+7440-60-0
+23988
+177 pm158 pm
+4f116s2
+2, 8, 18, 29, 8, 2
+1,231,10
+I 580,7 kJ/molII 11139 kJ/molIII 2204 kJ/mol
+251 kJ/mol
+17,2 kJ/mol
+1,15×106 S/m
+160 J/
+14,3 W/
+heksagonalny
+2,5
+masowa podatność magnetyczna = 5490×10−9 m³ kg−1
+18,74×10−6 m³/mol
+H228
+P210
+Holm  – pierwiastek chemiczny z grupy lantanowców w układzie okresowym. Nazwa pochodzi od zlatynizowanej nazwy stolicy Szwecji – Sztokholmu , nadał ją jeden z odkrywców holmu – szwedzki uczony Per Teodor Cleve. Pierwiastek ten został niezależnie odkryty przez Cleve’a i wspólnie przez Marca Delafontaine’a i Jacques’a Louisa Soreta w 1878 r. Cleve wyodrębnił ten pierwiastek pracując nad oczyszczaniem tlenku erbu, zaś Delafontaine i Soret wykryli go metodami spektroskopowymi.
+Uzyskuje się go jako produkt uboczny podczas przerobu rud lantanowców, zwłaszcza monacytu i bastnazytu. Związki otrzymane z rudy rozdziela się i przeprowadza w halogenki. Metaliczny holm można otrzymać przez redukcję fluorku lub chlorku holmu aktywnym metalem, np. wapniem:
+Jest srebrzystym, błyszczącym metalem. Jest dość miękki – podobnie jak ołów; można go rozklepywać lub rozwalcowywać na bardzo cienką blachę. W normalnych warunkach jest dość trwały, w wysokiej temperaturze i wilgotnym powietrzu pokrywa się jednak matową, żółtawą warstewką tlenku Ho2O3.
+Jest paramagnetykiem, jego masowa podatność magnetyczna wynosi 5490×10−9 m³ kg−1.
+Holm ma niewiele zastosowań praktycznych, wykazuje jednak interesujące właściwości magnetyczne i można go stosować w elektromagnesach nadprzewodzących.
+Odkrycie w połowie XIX wieku niektórych pierwiastków ziem rzadkich skłoniło chemików do korzystania z tych samych metod i pomysłów do poszukiwania dalszych przedstawicieli tej rodziny pierwiastków. Na przykład Carl Gustaf Mosander wykazał, że rzekomo czyste próbki tlenku ceru są w rzeczywistości zanieczyszczone tlenkiem nowego pierwiastka, lantanu. Stosując analogiczne rozumowanie, udowodnił, że tlenek itru można rozdzielić na tlenki dwóch nowych pierwiastków, erbu i terbu. Zrozumiałe więc, że Per Cleve zbadał raz jeszcze czyste próbki tlenków pierwiastków ziem rzadkich.
+Zostało to uwieńczone sukcesem w 1879 roku, gdy Cleve stosując ogłoszoną rok wcześniej procedurę Maignaca, wydzielił z próbki tlenku erbu tlenki iterbu i skandu. W wyniku analizy dalszej próbki, oprócz czystego różowego tlenku erbu, otrzymał osady: brunatny i zielonkawy, którym nadał nazwy odpowiednio holmia i thulia. Były to tlenki nowych pierwiastków: holmu i tulu.
+Jacques-Louis Soret i Marc Delafontaine przeprowadzili rok wcześniej spektroskopową analizę tlenku erbu i zaobserwowali pasma absorpcyjne pierwiastka X. Nie przedstawili jednak danych potwierdzających istnienie tego pierwiastka do chwili, gdy Cleve ogłosił odkrycie holmu, zawartego w jego tlenku.
+Chemicznie czysty tlenek holmu otrzymano dopiero w 1911 roku, a czysty holm – jeszcze później.
+Holm występuje w skorupie ziemskiej w ilości 1,3 ppm. Minerałami zawierającymi holm są monacyt, gadolinit, ksenotym, euksenit, fergusonit i bastnazyt. Występuje w nich w niewielkich ilościach, np. w monacycie jest go 0,05%.

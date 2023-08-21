@@ -1,0 +1,4 @@
+Pontosságellenőrzött
+A „dequeizmus” és „queizmus”  a spanyol nyelvben a de que, illetve que igei vonzatok felcserélt használatára  utal.
+A dequeísmo vagy „dequeizmus” azt jelenti, hogy que kötőszó-vonzatú igéket helytelenül, illetve feleslegesen  de elöljárószóval kiegészítve használják, például dile de que venga ’mondd meg neki, hogy jöjjön’ a szabályos dile que venga helyett.
+A queísmo vagy „queizmus” az előzővel ellentétes jelenség, vagyis amikor a de que vonzatból elhagyják a de elöljárószót, például estoy seguro que viene ’biztos vagyok , hogy jön’ a szabályos estoy seguro de que viene helyett.

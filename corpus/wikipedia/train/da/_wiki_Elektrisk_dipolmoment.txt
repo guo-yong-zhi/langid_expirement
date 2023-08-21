@@ -1,0 +1,227 @@
+Elektrisk ladning · Statisk elektricitet · Elektrisk felt · Elektrisk leder · Elektrisk isolator · Triboelektrisk effekt · Electrostatic discharge  · Elektrostatisk induktion · Coulombs lov · Gauss' lov · Elektrisk flux · Elektrisk potentiale · Elektrisk dipolmoment · Polarisationstæthed
+Ampères lov · Curies lov · Magnet · Magnetfelt · Magnetisering · Magnetisk flux · Elektrisk strøm · Biot–Savarts lov · Magnetisk dipolmoment · Gauss' lov om magnetisme
+Vakuum · Lorentz' kraftlov · Elektromagnetisk induktion · Elektromotorisk kraft · Faradays induktionslov · Lenz' lov · Forskydningsstrøm · Maxwells ligninger · Elektromagnetisk felt · Elektromagnetisk stråling · Poynting-vektor · Maxwell tensor · Liénard–Wiechert-potentiale · Jefimenkos ligninger · Hvirvelstrøm
+Elektrisk leder · Spænding · Resistans · Ohms lov · Effektformlen · Seriekredsløb · Parallelkredsløb · Jævnstrøm · Vekselstrøm · Kapacitans · Induktans · Impedans · Resonantrum · Bølgeleder
+Elektromagnetisk tensor · Stress-energi tensor · Fire-strøm · Elektromagnetisk fire-potentiale
+Ampère · Coulomb · Faraday · Gauss · Heaviside · Henry · Hertz · Lorentz · Maxwell · Tesla · Volta · Weber · Ørsted
+Elektrisk dipolmoment er i elektromagnetisme en målestok for separationen af positive og negative ladninger i et system af elektriske ladninger. Denne separation fører til en samlet polarisation, og jo større separationen bliver, desto større bliver det elektriske dipolmoment. Dipolmomenter optræder bl.a. i polære molekyler og dielektriske stoffer der udsættes for elektriske felter. Det sidste eksempel viser, at stoffer godt kan have et dipolmoment, selv om de udadtil er neutralt ladede. Det elektriske dipolmoment bruges også som en tilnærmelse for mere komplicerede ladningsfordelinger, da det giver simplere udtryk og ofte er en god approksimation.
+I det simpleste tilfælde defineres dipolmomentet 
+  
+    
+      
+        
+          p
+        
+      
+    
+     }
+  
+ som
+  
+    
+      
+        
+          p
+        
+        =
+        q
+        
+          d
+        
+        ,
+      
+    
+     =q\mathbf 
+  
+for et system med en positiv og en negativ elektrisk ladning af størrelse 
+  
+    
+      
+         
+        q
+      
+    
+    
+  
+, hvor 
+  
+    
+      
+        
+          d
+        
+      
+    
+     }
+  
+ er en vektor der peger fra den positive til den negative ladning. Dipolmomentets størrelse er således direkte proportionelt med både ladningens størrelse og den indbyrdes afstand mellem ladningerne. Man siger, at ladningerne danner en dipol.
+For systemer bestående af flere dipoler, kan det totale dipolmoment findes ved vektoraddition:
+  
+    
+      
+        
+          
+            p
+          
+          
+            
+              t
+              o
+              t
+            
+          
+        
+        =
+        
+           
+          
+            i
+          
+        
+        
+          
+            p
+          
+          
+            i
+          
+        
+        .
+      
+    
+     _=\sum _ _
+  
+For mere generelle ladningsfordelinger, kan dipolmomentet findes ved at integrere over ladningstætheden ganget med en vektor fra observationspunktet 
+  
+    
+      
+        
+          r
+        
+      
+    
+     }
+  
+ til ladningspunktet 
+  
+    
+      
+        
+          
+            r
+          
+           
+        
+      
+    
+     '}
+  
+:
+  
+    
+      
+        
+          p
+        
+        
+        =
+        
+           
+          
+            V
+          
+        
+         
+        
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+           
+        
+        .
+      
+    
+     =\int _\mathbf 
+  
+For det simple system med to ladninger er dette udtryk ækvivalent med den forrige definition.
+En dipol, der placeres i et eksternt elektrisk felt vil mærke et kraftmoment, der forsøger at ensrette dipolens orientation med feltet. For et homogent felt 
+  
+    
+      
+        
+          E
+        
+      
+    
+     }
+  
+ er kraftmomentet
+  
+    
+      
+        
+           
+        
+        =
+        
+          p
+        
+         
+        
+          E
+        
+        .
+      
+    
+     =\mathbf  .}
+  
+At denne kraft forsøger at ensrette dipolen med feltet er et udtryk for at dette er en tilstand med lavere potentiel energi for dipolen. Den potentielle energi for dipolen er givet ved
+  
+    
+      
+        V
+        =
+         
+        
+          p
+        
+         
+        
+          E
+        
+        ,
+      
+    
+     \cdot \mathbf 
+  
+og det ses at denne energi er lavest når prikproduktet er størst; nemlig når 
+  
+    
+      
+        
+          p
+        
+      
+    
+     }
+  
+ og 
+  
+    
+      
+        
+          E
+        
+      
+    
+     }
+  
+ er parallelle.

@@ -1,0 +1,3 @@
+Splaisosoma yra didelė ir sudėtinga molekulinė mašina, randama eukariotų branduolyje. Splaisosoma yra surinkta iš snRNP ir baltymų kompleksų. Splaisosoma pašalina intronus iš nurašytos pre-mRNR. Šis procesas vadinamas splaisingu.
+Kiekviena splaisosoma yra sudaryta iš 5 mažų branduolio RNR  ir keleto baltymų. Kai mažos branduolio RNR susijungia su baltymais, jie sudaro RNR-baltymo kompleksą – snRNP.
+snRNR, kurie sudaro daugiausiai splaisosomos, vadinami U1, U2, U4, U5 ir U6 ir dalyvauja keliose RNR-RNR ir RNR-baltymo sąveikose.

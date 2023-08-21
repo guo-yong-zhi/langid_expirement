@@ -1,0 +1,76 @@
+Das Bohnenspiel ni mchezo wa mankala kutoka Ujerumani. Mchezo mwingine wa mancala unaopendwa sana na Waswahili ni Bao. 
+Wachezaji wanaanza na mbegu sita kwa shimo
+                           Mchezaji A
+          |    ::: |    ::: |    ::: |    ::: |    ::: |    ::: |          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+          |    ::: |    ::: |    ::: |    ::: |    ::: |    ::: |          |
+                          Mchezaji B
+                           Mchezaji A
+          |    :::.|    :::.|    :::.|        |    ::: |    ::: |          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+          |    :::.|    :::.|    :::.|    ::: |    ::: |    ::: |          |
+                          Mchezaji B
+                           Mchezaji A
+          |    :::.|    :::.|    ::::|    .   |    :::.|    :::.|          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+          |    :::.|    :::.|    :::.|        |    :::.|    :::.|          |
+                          Mchezaji B
+                           Mchezaji A
+          |    ::::|    ::::|        |    .   |    :::.|    :::.|          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+          |    ::::|    ::::|    ::::|     .  |    ::::|    ::::|          |
+                          Mchezaji B                           
+                          
+                           Mchezaji A
+          |    ::::|    ::::|        | :      |    ::::|    ::::|          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+          |        |   .::::|   .::::| :      |   .::::|   .::::|          |
+                          Mchezaji B
+                           Mchezaji A
+          |    ::::|    ::::|        |        |    ::::|    ::::|          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+ :        |        |   .::::|   .::::|::      |   .::::|   .::::|          |
+                          Mchezaji B
+                           Mchezaji A
+          |   .::::|   .::::|       .|      . |   .::::|        |          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+ :        |       .|   :::::|   :::::|   ::   |   .::::|   .::::|          |
+                          Mchezaji B
+                           Mchezaji A
+          |  .:::: |   .::::|       .|       .|   :::::|      . |          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+ :        |      . |   :::::|   :::::|        |   :::::|   :::::|          |
+                          Mchezaji B
+                           Mchezaji A
+          |  ::::: |        |       .|       .|   :::::|       :|          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+ :        |      : |  .:::::|  .:::::|       .|  .:::::|  .:::::|          |
+                          Mchezaji B
+                           Mchezaji A
+          |  ::::: |        |       .|       .|   :::::|        |          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+ :        |      : |  .:::::|  .:::::|       .|  .:::::|  .:::::| :        |
+                          Mchezaji B
+                          
+                           Mchezaji A
+          |  ::::: |        |       .|       .|   :::::|        |          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+ :        |      : |  .:::::|  .:::::|        |  ::::::|  .:::::| :        |
+                          Mchezaji B
+                           Mchezaji A
+          |        |        |       :|       :|  .:::::|       .|          |
+ Nyumba B |--------|--------|--------|--------|--------|--------| Nyumba A |
+ :        |      .:| .::::::| :::::::|       .| .::::::| :::::::| :        |
+                          Mchezaji B
+                           Mchezaji A
+          |        |       |       |      :| .:::::|      .|          |
+ Nyumba B |--------|-------|-------|-------|-------|-------| Nyumba A |
+ :        |      .:| ::::::| ::::::|      .|.::::::| ::::::| ::       |
+                          Mchezaji B
+                           Mchezaji A
+          |        |       |       |       | .:::::|      .|          |
+ Nyumba B |--------|-------|-------|-------|-------|-------| Nyumba A |
+ :        |      .:| ::::::| ::::::|      .|.::::::| ::::::| :::      |
+                          Mchezaji B
+</prMchezaji B anacheza sasa ....
+Mchezo unaendelea, mpaka mchezaji mmoja hawezi kucheza. Mbegu zote ziko kwa bao zinakamatwa ni mchezaji mwengine. Mshindi ni mchezaji ana mbegu mingi kwa nyumba yake.

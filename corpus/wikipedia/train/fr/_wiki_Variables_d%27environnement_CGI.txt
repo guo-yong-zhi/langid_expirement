@@ -1,0 +1,3 @@
+Les variables d'environnement CGI sont des variables transmises à un programme CGI, par le serveur Web l'invoquant, lors de son exécution.
+Elles fournissent des informations sur la requête effectuée par le client, sur le serveur et également sur le client lui-même. Par exemple, lorsqu'on effectue une recherche sur un site qui fonctionne avec des CGI, le script récupérera les termes de la recherche avec la variable d'environnement « QUERY_STRING ».
+Toutes les variables qui sont envoyées par le client sont aussi passées au script CGI, après que le serveur a rajouté le préfixe « HTTP_ ». Voici quelques exemples de variables possibles :

@@ -1,0 +1,25 @@
+Astro-H, NeXT,New X-ray Telescope
+2016-012A
+41337
+JAXA, ESA, SRON, CSA, NASA
+H-IIA
+Centrum Lotów Kosmicznych Tanegashima, Japonia
+574 km
+575 km
+96,2 min
+31°
+17 lutego 2016 08:45 UTC
+26 kwietnia 2016
+14 m dł.
+2700 kg
+Hitomi – satelita naukowo-badawczy zbudowany przez japońską agencję kosmiczną JAXA we współpracy z Europejską Agencją Kosmiczną ESA, Holenderskim Instytutem Badań Kosmicznych SRON, Kanadyjską Agencją Kosmiczną CSA, NASA oraz innymi instytucjami. Służy jako kosmiczne obserwatorium do astronomii rentgenowskiej badając promieniowanie X w paśmie 0,3 – 600 keV. Wyniesiony na niską orbitę okołoziemską 17 lutego 2016 roku, rozpoczął testy.
+Wystrzelony z Centrum Lotów Kosmicznych Tanegashima 17 lutego 2016 roku o 08:45 UTC  rakietą H-IIA w najlżejszej konfiguracji i umieszczony na orbicie na wysokości ok. 575 km i nachyleniu 31°, co zostało potwierdzone już następnego dnia. Rakieta zabrała także trzy mniejsze satelity technologiczne: pięćdziesięciokilogramowe ChubuSat 2 i ChubuSat 3 oraz Horyu-4 o masie 10 kg.
+26 marca 2016 satelita wpadł w niekontrolowany ruch obrotowy wskutek błędów w systemie kontroli położenia, co doprowadziło do zniszczenia konstrukcyjnie słabych elementów i utraty łączności.
+Nazwa oznacza Źrenicę Oka, Oko, tu także w znaczeniu z dawnej legendy ostatnia, ale najważniejsza rzecz; przed wyniesieniem nazywany był ASTRO-H oraz NeXT od New X-ray Telescope, czyli Nowy Teleskop Rentgenowski.
+Satelita będzie służył do badań Wszechświata w zakresie promieniowania rentgenowskiego, poszerzając pracę satelity ASTRO-D .
+Dzięki zaawansowanej technologii, zastosowanej w najnowszych instrumentach do badania kosmosu w paśmie rentgenowskim, naukowcy będą mieć możliwość testowania hipotez, a zarazem dokonywania nowych odkryć. Celem badań będą m.in. centra aktywnych galaktyk, okolice czarnych dziur, supernowe oraz gromady galaktyk. Astronomowie liczą również na dokładne dane o wielkoskalowej strukturze Wszechświata, czyli jak powstają i ewoluują galaktyki i gromady galaktyk oraz jaką rolę w tym procesie spełnia ciemna materia.
+Satelita przenosi 4 teleskopy i 6 detektorów:
+Satelita waży 2,7 t, a po rozłożeniu na orbicie jego długość wyniosła 14 metrów. Jest to najcięższy japoński satelita umieszczony na orbicie.
+26 Marca 2016 roku około 08:40 czasu UTC  nastąpiła utrata łączności z kosmicznym obserwatorium, o czym JAXA poinformowała 27 marca. Już około 40 minut po utracie łączności U.S. Joint Space Operations Center dostrzegło fragmentację satelity i oderwanie się od niego 5 elementów, co również ogłosiło 27 marca w serwisie Twitter. Przypuszczalnie w czasie fragmentacji nastąpiła też zmiana orbity satelity na 561,0×580,1 km. 
+Mimo to nie spisano od razu obserwatorium na straty; już po rozpadzie JAXA udało się odebrać cząstkowy sygnał z satelity i podjęto prace nad przywróceniem jego działania, choć ich wynik był niepewny.
+28 kwietnia 2016 roku naukowcy z JAXA poinformowali o zakończeniu prób nawiązania kontaktu z satelitą. Trwające od 30 dni próby nawiązania kontaktu nie przyniosły żadnego skutku. Najprawdopodobniej panele słoneczne, które miały odpowiadać za zasilanie instrumentów naukowych oderwały się od satelity.

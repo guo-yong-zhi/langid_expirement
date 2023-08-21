@@ -1,0 +1,7 @@
+Pontosságellenőrzött
+Az ajánlórendszerek speciális információszűrő rendszerek, amelyek felhasználói és termékprofilokat építenek tanuló algoritmusok segítésével, majd a modellek alapján ajánlanak olyan tartalmat  a felhasználónak, amely nagy valószínűséggel érdekes lesz neki.
+Az ajánlórendszerek alternatívát kínálnak új termékek és tartalmak felfedezésére a keresés mellett. A keresés direkt és irányított. A felhasználónak valamilyen elképzelése kell legyen arról, hogy mit szeretne. Az ajánlórendszer olyan személyre szabott érdekes tartalmakat is felkínál, amelyeket kereséssel nem érne el a felhasználó, mert kívül esik látó- és keresési körén.
+A termékpreferenciára vonatkozó felhasználói profil építésénél megkülönböztetünk közvetlen és közvetett  felhasználói visszajelzést, illetve értékelést.
+Példák termékpreferenciára utaló közvetlen adatokra:
+Példák termékpreferenciára utaló közvetett adatokra:
+Ajánlórendszer megoldást szállító cégek

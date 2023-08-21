@@ -1,0 +1,1 @@
+In mathematica un loop 1   es un structura algebric. Illo es un quasigruppo con un elemento neutre.

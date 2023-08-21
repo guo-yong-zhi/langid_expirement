@@ -1,0 +1,172 @@
+Em matemática, o número de Lelong é um invariante de um ponto de uma variedade analítica complexa que, em certo sentido, mede a densidade local naquele ponto. Foi introduzido por Lelong . Mais geralmente, uma corrente positiva fechada  u em uma variedade complexa tem um número de Lelong n para cada ponto x da variedade. Da mesma forma, uma função plurissubharmônica também possui um número de Lelong em um ponto.
+Os números de Lelong são particularmente importantes para as chamadas funções plurissubharmônicas 
+  
+    
+      
+         
+      
+    
+    
+  
+, indo como um fluxo de conjuntos 
+  
+    
+      
+         
+        =
+        
+          
+            
+              i
+               
+            
+          
+        
+         
+        
+          
+             
+             
+          
+        
+         
+      
+    
+    }\varphi }
+  
+, de modo que a curvatura da métrica singular 
+  
+    
+      
+         
+      
+    
+    
+  
+ associada a 
+  
+    
+      
+        h
+        =
+        
+          e
+          
+             
+            2
+             
+          
+        
+      
+    
+    }
+  
+ considerada.
+O número de Lelong de uma função plurissubharmônica φ em um ponto x def Cn é
+Para um ponto x de um subconjunto analítico A de dimensão k pura,o número Lelong ν é o limite da razão entre as áreas de A   B e uma bola de raio r em Ck as the radius tends to zero. (Aqui B é uma bola de raio r centrada em x.) Em outras palavras, o número de Lelong é uma espécie de medida da densidade local de A próximo a x. Se x não estiver na subvariedade A, o número de Lelong será 0, e se x for um ponto regular, o número de Lelong será 1. Pode-se provar que o número de Lelong  ν é sempre um número inteiro.
+Também se 
+  
+    
+      
+         
+      
+    
+    
+  
+ for uma corrente positiva fechada com bidimensionalidade 
+  
+    
+      
+        
+      
+    
+    
+  
+ em um ambiente coordenado 
+  
+    
+      
+         
+        =
+        
+          
+            C
+          
+          
+            n
+          
+        
+      
+    
+     ^
+  
+. Definimos o funcional
+onde 
+  
+    
+      
+         
+      
+    
+    
+  
+ denota o mínimo.
+Em seguida, define-se o número de Lelong 
+  
+    
+      
+         
+      
+    
+    
+  
+ em pontos 
+  
+    
+      
+        x
+         
+         
+      
+    
+    
+  
+ como o valor
+com 
+  
+    
+      
+        
+          E
+          
+            c
+          
+        
+        
+        :=
+        
+      
+    
+    :=\
+  
+ é o conjunto de nível de 
+  
+    
+      
+         
+      
+    
+    
+  
+ definido para o nível 
+  
+    
+      
+        c
+         
+        
+      
+    
+    
+  
+.

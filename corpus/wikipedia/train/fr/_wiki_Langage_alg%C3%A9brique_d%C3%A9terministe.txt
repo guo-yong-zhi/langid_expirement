@@ -1,0 +1,23 @@
+En informatique théorique et en théorie des langages, un langage algébrique déterministe est un langage algébrique reconnu  par un automate à pile déterministe. L'intérêt des langages déterministes est que leur analyse syntaxique se fait en temps linéaire en la longueur du mot, alors que dans un langage algébrique quelconque, la complexité est cubique, ou en tout cas se ramène à la complexité du produit matriciel, donc est en O où n est la longueur du mot par l'algorithme de Valiant. Tout langage algébrique déterministe peut être décrit par une grammaire LR et réciproquement. Cela permet de les utiliser pour des applications pratiques. Ainsi, la plupart des langages de programmation sont des langages algébriques déterministes.
+La classe des langages algébriques déterministes contient strictement la classe des langages rationnels et est strictement incluse dans celle des langages algébriques, et même des langages algébriques inambigus.
+Le contre-exemple type de langage algébrique non déterministe est l'ensemble des palindromes.
+La classe des langages algébriques déterministes est close par complémentaire. Cependant :
+Le principe de construction de ces langages est le même : l'automate à pile doit prendre une décision sans connaître la totalité de la donnée ; dans le premier exemple, il doit anticiper si le nombre de b est égal au ou le double du nombre de a, dans le deuxième exemple, il doit tester la présence de la lettre a dans la deuxième moitié sans savoir s'il est déjà dans la deuxième moitié.
+Il existe un lemme d'itération spécial pour les langages algébriques déterministes qui permet de prouver formellement qu'un langage n'est pas déterministe. L'énoncé est assez compliqué. Une variante de ce lemme, tout aussi compliquée, est donnée par Sheng Yu.
+Type-0
+Grammaire sans restriction
+Langage récursivement énumérableLangage récursif
+Machine de TuringMachine de Turing qui s'arrête toujours
+Type-1
+Grammaire contextuelleGrammaire indexéeGrammaire d'arbres adjoints
+Langage contextuelLangage indexéGrammaire d'arbres adjoints
+Automate linéairement bornéAutomate à piles emboîtées
+Automate à piles intégrées
+Type-2
+Grammaire non contextuelle ou grammaire algébriqueGrammaire non contextuelle déterministe
+Langage non contextuel ou langage algébriqueLangage algébrique déterministeLangage à pile visible
+Automate à pileAutomate à pile déterministeAutomate à pile visible
+Type-3
+Grammaire régulière ou grammaire rationnelle
+Langage rationnelLangage sans étoile
+Automate fini déterministemonoïde syntaxique apériodique

@@ -1,0 +1,46 @@
+Kaikki tarkoittaa jotain asiaa tai joukkoa kokonaisuudessaan, laajimmassa merkityksessä koko maailmankaikkeutta. 1 
+Suomen kielioissa sana kaikki on vanhastaan luokiteltu indefiniittipronominiksi. Tästä luokan nimestä on kuitenkin mm. Isossa suomen kieliopissa luovuttu; tilalle on otettu nimitys kvanttoripronomini. 2  Tätä on perusteltu sillä, että sanan merkitys ei ole mitenkään indefiniittinen eli epämääräinen vaan päinvastoin täsmällisen yleistävä. Kaikki luokitellaan tarkemmin sanoen universaaliseksi kvanttoripronominiksi. 3  Termi on lainattu nykyaikaisesta logiikasta, jossa universaalikvanttori eli kaikki-kvanttori vastaa merkitykseltään yleiskielen sanaa kaikki.
+Aristoteleen logiikassa keskeisessä asemassa olivat syllogismit. Aristoteleen syllogismioppi käsittelee sitä, mitä johtopäätöksiä voidaan tehdä kahden sellaisen lauseen perusteella, joissa esiintyy sana kaikki, jokin tai ei mikään, yleensä jonkin substantiivin edellä. 4  Tunnetuin syllogismin muoto on ns. barbara, jossa näistä esiintyy vain sana kaikki, esimerkiksi "Kaikki ihmiset ovat kuolevaisia, kaikki kreikkalaiset ovat ihmisiä, siis kaikki kreikkalaiset ovat kuolevaisia". 4 
+Nykyaikaisessa logiikassa ja matematiikassa sanaa kaikki vastaa kaikki-kvanttori eli universaalikvanttori, jonka merkki on 
+  
+    
+      
+         
+      
+    
+    
+  
+. Se ilmoittaa, että jokin lause on tosi kaikille jonkin joukon alkioille. 5  Esimerkiksi lause
+tarkoittaa, että kaikilla joukon 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+ alkiolla eli kaikilla reaaliluvuilla x on 
+  
+    
+      
+        
+          x
+          
+            2
+          
+        
+         
+        0
+      
+    
+    \geq 0}
+  
+, toisin sanoen jokaisen reaaliluvun neliö on positiivinen tai nolla.
+Maailmankaikkeus määritellään tavallisimmin kaikeksi, mikä on fysikaalisesti olemassa: siihen kuuluu aika kokonaisuudessaan, kaikki aineen, energian ja liikkeen muodot sekä niitä hallitsevat fysiikan lait ja luonnonvakiot. Joissakin yhteyksissä sanaa maailmankaikkeus kuitenkin käytetään hieman poikkeavassa mielessä, jolloin se voi merkitä samaa kuin käsite kosmos, maailma tai luonto.  Joidenkin spekulatiivisten teorioiden mukaan tuntemamme maailmankaikkeus on vain yksi monista toisistaan erillisistä "maailmankaikkeuksista", jolloin niiden yhdessä muodostamaa kokonaisuutta sanotaan multiversumiksi. Eräiden tällaisten teorioiden mukaan on olemassa äärettömän monta maailmankaikkeutta, joissa luonnonvakioilla on eri arvot. Monimaailmahypoteesin mukaan uusi maailma syntyy joka kerta kun jokin kvanttimekaaninen suure mitataan niin että tavanomaisen tulkinnan mukaan "aaltofunktio" romahtaa". Tällaisia spekulatiivisia teorioita ei toistaiseksi voida kokeellisesti varmistaa, mutta mikäli niiden olettamat muut maailmat ovat olemassa, nekin kuuluvat "kaikkeen olevaiseen" käsitteen laajimmassa mielessä.
+Teoreettisessa fysiikassa kaiken teoria  on oletettu teoria, joka täysin selittäisi ja kytkisi yhteen kaikki tunnetut fysikaaliset ilmiötä. Alun perin termi otettiin käyttöön ivallisessa mielessä, jolloin sillä tarkoitettiin erilaisia liiaksi yleistettyjä teorioita. Esimerkiksi Stanisław Lemin tieteisromaaneissa Ijon Tichyn iso-isoisä yritti kehittää "kaiken teorian". Ajan myötä termi tuli käyttöön kvanttifysiikan popularisoinneissa kuvaamaan teoriaa, joka yhdistäisi kaikkia luonnon perusvuorovaikutuksia koskevat teoriat.
+Teoreettiset fyysikot ovat 1900-luvulta lähtien laatineet useita ehdotuksia kaiken teorioiksi, mutta yhtäkään niistä ei ole voitu kokeellisesti vahvistaa. Suurin ongelma on kvanttimekaniikan ja yleisen suhteellisusuteorian yhdistämisessä. Sitä vastoin kvanttmekaniikka ja säieteoria ovat helpommin yhdistettävissä.
+Varsinkin metafysiikan yhteydessä sanalla maailma tarkoitetaan usein kaikkea, mikä muodostaa todellisuuden, koko maailmankaikkeutta. Usein sanalla kuitenkin tarkoitetaan vain Maata, joka antroposentrisesti käsitetään alueeksi, jossa kaikki ihmiset asuvat.
+Filosofisesti kaiken teoria olisi lopullinen, kaikenkattava luonnon tai todellisuuden selitys. 6  7  8   Filosofit ovat omaksuneet termin  fyysikoilta, jotka ovat yrittäneet saada aikeen kaiken teorian, keskustelleet käsitteen mielekkyydestä sekä analysoineet sen ominaisuuksia ja mitä siitä seuraisi. 6  7  8   Filosofiselta kannalta kaiken teoria olisi teoria, joka voisi vastata sellaisiinkin kysymyksiin kuin "Miksi todellisuus on ymmärrettävissä", "miksi luonnonlait ovat sellaisia kuin ne ovat" ja "miksi ylipäänsä on olemassa mitään?". 6 

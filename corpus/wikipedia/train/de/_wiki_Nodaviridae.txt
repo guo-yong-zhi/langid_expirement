@@ -1,0 +1,24 @@
+EM-Aufnahme von GNNV-Virionen nach Selbstassemblierung
+Nodaviridae ist die Bezeichnung einer Familie unbehüllter Einzelstrang-RNA-Viren von positiver Polarität. 2 
+Als natürliche Wirte dienen sowohl Wirbeltiere als auch Wirbellose.
+Zu den Krankheiten, die mit Viren dieser Familie in Verbindung gebracht werden, gehören virale Enzephalopathie und Retinopathie bei Fischen.
+Es gibt derzeit  in der Familie neun vom International Committee on Taxonomy of Viruses  bestätigte Spezies , die sich auf zwei Gattungen verteilen. 3  4 
+Der Name der Familie leitet sich ab von dem japanischen Dorf Nodamura in der Präfektur Iwate, wo das Nodamuravirus erstmals aus Mücken der Spezies Culex tritaeniorhynchus  isoliert wurde.
+Das Virus ist nicht umhüllt und hat ein ikosaedrisches Kapsid  mit einem Durchmesser von 29 bis 35 nm. Das Kapsid ist aus 32 Kapsomeren aufgebaut. 3 
+Das Genom ist segmentiert: es besteht aus zwei Segmenten, ist also bipartit. Beide Segmente sind lineare Einzelstrang-RNA positiver Polarität. Ihre Länge beträgt 3,1 kb  bei Segment RNA1 und 1,4 kb bei RNA2. Das 5'-Ende hat ein methyliertes Cap, das 3'-Ende ist nicht polyadenyliert. 3  4 
+RNA1 kodiert ein Protein, das mehrere funktionelle Domänen besitzt:
+Zusätzlich kodiert RNA1 mir ORF 1b für eine subgenomische RNA3 , die für das Protein B2, einen RNA-Silencing-Inhibitor, kodiert. 3 
+RNA2 kodiert für einen viralen Kapsidprotein-Vorläufer mit Bezeichnung Protein α. Dieser Vorläufer wird der während der Virusassemblierung an einer konservierten Asn/Ala-Stelle in zwei reife Proteine, das β-Protein  und das γ-Protein  zerschnitten . 3 
+Die Virus-Replikation erfolgt im Cytoplasma.
+Der Eintritt in die Wirtszelle erfolgt durch Penetration.
+Die Replikation folgt dem Modell der für Einzelstrang-RNA-Viren positiver Polarität. 3  4 
+Als natürliche Wirte dienen Wirbeltiere und Wirbellose.
+Die Viruspartikel werden durch Kontakt und Kontamination übertragen. 3  4 
+Zu den Anzeichen einer viralen Nervennekrose verursacht durch Viren der Gattung Bettanodavirus gehören: abnormales Verhalten wie Lethargie, Anorexie, Spiralschwimmen und Veränderung der Pigmentierung. Die Sterblichkeit der betroffenen Populationen kann bis zu 100 % betragen. 5 
+Mikroskopische Läsionen befinden sich meist im Gehirn, in der Netzhaut und im Rückenmark, wo Nekrosen der Neuronen und das Runde leere Räume, Vakuolen genannt, sind häufig mit der Krankheit assoziiert.
+Die Mitglieder der Gattung Alphanodavirus wurden ursprünglich aus Insekten isoliert,
+während die der Gattung Betanodavirus aus Fischen isoliert wurden.
+Eine kleine Anzahl von Nodoviridae scheint aber außerhalb einer dieser beiden Kladen zu liegen. 3 
+Das Flock House Virus  das inzwischen am besten untersuchte Mitglied der Familie, dennoch bleibt Nodamuravirus die Typusspezies der Gattung Alphanodavirus.
+Nach ICTV setzt sich die Familie wie folgt zusammen : 3 
+Familie: Nodaviridae

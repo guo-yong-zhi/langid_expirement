@@ -1,0 +1,12 @@
+Vkladná knižka je cenný papier, ktorý potvrdzuje existenciu vkladu a jeho výšky a zároveň vzťah medzi vkladateľom a bankou. Vkladná knižka má fyzickú podobu a jej predloženie je nevyhnutné pri výbere z vkladnej knižky (na rozdiel napríklad od termínovaného vkladu. Číslo vkladnej knižky je číslom vkladového účtu. Vkladná knižka je vedená bezplatne, na jej otvorenie sa však vyžaduje minimálny vklad. Minimálny vklad stanovuje banka a je obvykle vo výške 5 - 20 €. Peniaze na vkladnú knižku možno vkladať v hotovosti alebo bezhotovostným prevodom (z bežného účtu, zrážkou zo mzdy a pod.). 
+Vkladné knižky možno rozdeliť z viacerých hľadísk:
+1) Podľa meny, v ktorej je vkladná knižka vedená (vkladná knižka vedená v EUR, USD, CZK a pod.).
+2) Podľa dĺžky výpovednej lehoty:
+a) vkladná knižka bez výpovednej lehoty - výber z vkladnej knižky možno realizovať kedykoľvek, bez nutnosti predom ho banke ohlásiť,
+b) vkladná knižka s výpovednou lehotou - výber možno realizovať až po uplynutí výpovednej lehoty (čas od nahlásenia výberu banke po realizáciu výberu), pričom výpovedná lehota sa môže pohybovať od niekoľkých dní až do niekoľkých rokov. Obvykle je v ponuke bánk výpovedná lehota v trvaní 7 dní, 14 dní, 1, 2, 3, 6, 9, 12 a 24 mesiacov. Výpovednú lehotu si klient volí pri zriaďovaní vkladnej knižky. 
+3) Podľa dĺžky viazanosti - tzv. termínované vkladné knižky, pri ktorých si klient volí čas, počas ktorého nebude z vkladnej knižky vyberať peniaze. Tento typ vkladných knižiek je veľmi podobný termínovaným vkladom.
+4) Špeciálne typy vkladných knižiek:
+a) devízová vkladná knižka - určené pre výber a vklad prostriedkov vo voľne zameniteľných menách (CZK, USD a pod.),
+b) detská vkladná knižka - určená pre dieťa, zriadená rodičom,
+c) výherné vkladné knižky - zväčša neúročené, pričom v pravidelných intervaloch dochádza k žrebovaniu výhry, ktorá je následne vyplatená v prospech vkladnej knižky.
+Úročenie vkladných knižiek závisí od dĺžky výpovednej lehoty . Čím je výpovedná lehota vyššia, tým je úrok na vkladnej knižke vyšší. Pri nedodržaní výpovednej lehoty a predčasnom výbere z vkladnej knižky dochádza k zrážke z úroku v zmysle platného cenníka banky.

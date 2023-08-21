@@ -1,0 +1,100 @@
+Handelsbilanzausgleich  entsteht, wenn im Rahmen einer offenen Volkswirtschaft Waren mit dem Ausland gehandelt werden und die Zahlungsströme von Import und Export hier übereinstimmen. Der Zahlungseingang entspricht dem Zahlungsausgang. Der Handelsbilanzausgleich ist ein Modellfall der Außenwirtschaftstheorie. In der Realität ist eine ausgeglichene Handelsbilanz selten.
+Die Zahlungsbilanz ergibt sich aus dem Saldo der Leistungs-, Kapitalbilanz und Devisen- oder Reservebilanz. Aus dem Saldo der Dienstleistungsbilanz, Übertragungsbilanz und Handelsbilanz resultiert die Leistungsbilanz.
+Der Handelsbilanzausgleich tritt im Zusammenhang mit der IS-Kurve auf, d. h., die Produktion im Inland entspricht der Nachfrage nach inländischen Gütern. 1 
+Steigt in einer Volkswirtschaft das Einkommen bzw. die inländische Nachfrage nach Gütern  und sinkt die reale Wechselkursrate , werden mehr Güter importiert. Für den Import gilt die Variable 
+  
+    
+      
+        I
+        M
+      
+    
+    
+  
+.
+Der Export  ist abhängig von der ausländischen Gesamtnachfrage  und der realen Wechselkursrate . Wenn die weltweite Gesamtnachfrage nach Gütern und die reale Wechselkursrate steigt, nimmt der Export zu.
+Es ergibt sich für die Handelsbilanz  folglich die Formel
+Die Handelsbilanz hat bei diesen Modellannahmen eine negative Steigung in Relation zum Einkommen.
+Steigen die Importe im Inland zu gleichbleibenden Exporten aufgrund einer inländischen Nachfragesteigerung, so ergibt sich daraus ein Handelsbilanzdefizit
+Ein positiver Nettoexport führt zu einem Handelsbilanzüberschuss und resultiert aus der überproportionalen Steigung der Gesamtnachfrage nach Gütern im Ausland und einer höheren Wechselkursrate.
+Nur wenige Länder haben eine ausgeglichene Handelsbilanz. 7  Deutschland gilt als Exportweltmeister und weist demzufolge in der Regel einen Handelsbilanzüberschuss aus. Diese positive Handelsbilanz ist ein seit den 1960ern bestehender Trend. Auch China und Japan haben einen positiven Nettoexport. 8 
+Dagegen macht sich das Wachstum der Importe in den USA besonders seit 1996 in einem extremen Handelsbilanzdefizit bemerkbar. Dies führt zu einem erhöhten Kapitalbedarf.
+Werden in einer Volkswirtschaft die Staatsausgaben erhöht, um beispielsweise die Nachfrage im Inland anzukurbeln, kommt es zu einer Verschiebung der Nettoexporte. Die Erhöhung der Staatsausgaben hat zur Folge, dass mehr nachgefragt wird. Im Inland wird folglich mehr produziert um die Nachfrage zu befriedigen. Da sich mit steigender Produktion auch das Einkommen erhöht, werden nicht nur inländische, sondern auch ausländische Güter nachgefragt. Wenn die Exporte nicht steigen, die inländische Nachfrage nach ausländischen Gütern aber steigt, erwächst hieraus ein Handelsbilanzdefizit. 9  Steigt in Staaten das Produktionsniveau 
+  
+    
+      
+        Y
+      
+    
+    
+  
+ an, so kann in diesem Modell also die Handelsbilanz von einem Gleichgewicht von Import und Export 
+  
+    
+      
+        
+          Y
+          
+            H
+          
+        
+        B
+      
+    
+    B}
+  
+  unter die Nulllinie in ein Defizit absinken .
+Wenn im Ausland die Nachfrage steigt, kommt es zu einem inländischen Mehrexport von Gütern. Grund sind beispielsweise Einkommenssteigerungen im Ausland. Die Gerade der inländischen Güternachfrage 
+  
+    
+      
+        Z
+        Z
+      
+    
+    
+  
+ verschiebt sich um die Größe der Mehrexporte nach oben . Ein Anstieg der ausländischen Güternachfrage beeinflusst die inländische Güternachfrage nicht. Aufgrund der angenommenen weniger stark ansteigenden konstanten inländischen Güternachfrage 
+  
+    
+      
+        D
+        D
+      
+    
+    
+  
+  ergibt sich bei einem höheren Produktionsniveau 
+  
+    
+      
+        
+          Y
+           
+        
+      
+    
+    
+  
+ein Handelsbilanzüberschuss 
+  
+    
+      
+         
+        N
+        X
+      
+    
+    
+  
+. Steigen die Exporte, verschiebt sich ebenfalls die Handelsbilanz um diese Größe, die Gerade der Nettoexporte 
+  
+    
+      
+        N
+        X
+      
+    
+    
+  
+  verschiebt sich um die Größe der Mehrexporte nach oben , bei weiter steigender Produktion bleiben die Nettoexporte zunächst oberhalb der Nulllinie, die Handelsbilanz also positiv.

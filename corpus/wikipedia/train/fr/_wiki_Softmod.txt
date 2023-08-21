@@ -1,0 +1,6 @@
+Cet article est une ébauche concernant l’informatique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+Cet article ne cite pas suffisamment ses sources .
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+Softmod  est une méthode logicielle permettant de modifier le comportement habituel d'un dispositif comme les cartes mères, les cartes vidéo, les cartes son, ou les consoles de jeux... Elle est régulièrement appliquée dans l'overclocking des processeurs.

@@ -1,0 +1,1 @@
+Physica theoric 1  es un branca de physica que usa modellos mathematic, abstractiones de objectos physic e systemas pro rationalisar, explicar e predicer phenomenos natural. Illo contrasta con physica experimental, que usa utensiles experimental pro probar iste phenomenos.

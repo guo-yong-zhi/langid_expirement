@@ -1,0 +1,1 @@
+Alfakanava tai läpinäkyvyyskanava on tiettyjen kuvatiedostomuotojen sisältämä kanava, jolla  voidaan  digitaalisessa kuvankäsittelyssä luoda läpinäkyvyyttä kuviin ja näin mahdollistaa pehmeitä reunoja tai esimerkiksi vaikutelma lasista tai muusta läpinäkyvästä materiaalista, joka muuttaa alla olevaa kuvaa hieman omansa väriseksi.

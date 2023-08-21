@@ -1,0 +1,6 @@
+En finanzas, un precio  es pagado o recibido por la compra o venta de  opciones. Este precio se puede dividir en dos componentes.
+Estos son:
+El valor intrínseco es la diferencia entre el precio subyacente y el precio de strike, referido al grado en que esto favorece al propietario de la opción.
+La prima de la opción siempre es mayor que el valor intrínseco. Este dinero extra es para cubrir el riesgo que compromete la opción escritor/vendedor. A esto se le llama Valor temporal.
+Entre los modelos más comunes se encuentran:
+Otros enfoques incluyen:

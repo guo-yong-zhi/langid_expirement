@@ -1,0 +1,6 @@
+AkelPad is a small, expandable text editor for Microsoft Windows. 
+AkelPad is distributed as free and open-source software, hosted on SourceForge where it has been downloaded more than 3 million times. 2 
+AkelPad handles full Unicode files written in UTF-8, UTF-16 , and UTF-32 , and can auto-detect Unicode files with or without a BOM. BOMs  can also be omitted, if desired, from file writing.
+Codepages installed on the user's system can be used for reading or writing files; text can also be re-coded into other codepages. AkelPad implements an auto-detection algorithm for the detection of some common codepages used .
+AkelPad can also detect non-text  files and will issue a message. Binary files can, however, be loaded and edited  if desired.
+The program's architecture is structured to allow external plugins  for the extension of AkelPad's capabilities. At present, when?  31 plugins are implemented and available on AkelPad's homepage. Some of the more noteworthy plugins are:

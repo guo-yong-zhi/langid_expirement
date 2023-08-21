@@ -1,0 +1,4 @@
+AEX  - indeks giełdowy spółek notowanych na giełdzie w Amsterdamie - Euronext Amsterdam.
+Indeks został uruchomiony w 1983 roku pod nazwą European Option Exchange .
+W jego skład wchodzi 25 największych spółek. Aktualizacja następuje co roku 1 marca.
+Stan z 2005 roku

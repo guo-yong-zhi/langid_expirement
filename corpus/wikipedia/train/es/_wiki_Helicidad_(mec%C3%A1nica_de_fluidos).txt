@@ -1,0 +1,287 @@
+En mecánica de fluidos, la helicidad es una magnitud física asociada al flujo que mide en cada punto del mismo la proyección de la vorticidad sobre la velocidad, dado que la combinación de un giro con una traslación perpendicular a él genera una hélice de ahí proviene el nombre.
+Cuando una partícula de fluido describe un movimiento de giro alrededor de un eje dentro del fluido al mismo tiempo que la masa en conjunto de fluido se desplaza a lo largo de ese eje, entonces el fluido tendrá una helicidad no nula en numeroso puntos. Si la rotación tiene el sentido de las agujas del reloj respecto a la velocidad de la masa entonces la helicidad será positiva, y negativa si gira en sentido contrario. Formalmente la helicidad de una masa de fluido se define como el producto escalar de la velocidad y la vorticidad:
+  
+    
+      
+        H
+        =
+        
+           
+          
+            T
+          
+        
+        
+          u
+        
+         
+        
+          
+        
+        
+        
+          d
+          
+            3
+          
+        
+        
+          
+            r
+          
+        
+      
+    
+    \mathbf }
+  
+Donde T es un vórtice tubular . El interés de esta magnitud reside en que es una constante del movimiento, es decir, existe una ley de conservación asociada: la helicidad de una masa de fluido que obedece las ecuaciones de Euler, es decir, se trata de un fluido perfecto en flujo incompresible no cambia a lo largo del tiempo. Por esta razón la helicidad resulta muy úitl en las descripciones matemáticas de la turbulencia.
+Esta ley de conservación es análoga a la conservación de la helicidad magnética.
+En meteorología, la helicidad mide la transferencia de vorticidad entre masas adyacentes de aire en procesos convectivos. En meteorología, la definición usual de vorticidad se puede simplificar debido a que sólo es relevante la componente horizontal del viento y de la vorticidad:
+  
+    
+      
+        H
+        =
+         
+        
+          
+            
+              V
+            
+            
+              h
+            
+          
+        
+         
+        
+         
+        d
+        
+          
+            Z
+          
+        
+        =
+         
+        
+          V
+          
+            h
+          
+        
+        
+           
+          
+            h
+          
+        
+         
+        d
+        
+          
+            Z
+          
+        
+        
+        
+        
+          
+            {
+            
+              
+                
+                  Z
+                  =
+                  A
+                  l
+                  t
+                  u
+                  r
+                  a
+                
+              
+              
+                
+                  
+                    V
+                    
+                      h
+                    
+                  
+                  =
+                  V
+                  e
+                  l
+                  o
+                  c
+                  i
+                  d
+                  a
+                  d
+                   
+                  h
+                  o
+                  r
+                  i
+                  z
+                  o
+                  n
+                  t
+                  a
+                  l
+                
+              
+              
+                
+                  
+                     
+                    
+                      h
+                    
+                  
+                  =
+                  V
+                  o
+                  r
+                  t
+                  i
+                  c
+                  i
+                  d
+                  a
+                  d
+                   
+                  h
+                  o
+                  r
+                  i
+                  z
+                  o
+                  n
+                  t
+                  a
+                  l
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle H=\int {\mathbf {V} _{h}}\cdot \ d{\mathbf {Z} }=\int V_{h}\zeta _{h}\ d{\mathbf {Z} }\qquad \qquad {\begin{cases}Z=Altura\\V_{h}=Velocidad\ horizontal\\\zeta _{h}=Vorticidad\ horizontal\end{cases}}}
+  
+De acuerdo con esta fórmula, si la velocidad del viento no cambia de dirección con la altura, H será nula ya que el producto de 
+  
+    
+      
+        
+          
+            V
+            
+              h
+            
+          
+        
+      
+    
+    }
+  
+ y 
+  
+    
+      
+        
+           
+           
+          
+            V
+            
+              h
+            
+          
+        
+      
+    
+    {\displaystyle \scriptstyle \nabla \times V_
+  
+ es nulo. Nótese que la vorticidad tiene unidades de energía por unidad de masa y por tanto se interpreta como una medida de la transferencia de energía por efecto del sesgo del viento con la altura.
+Usualmente los valores de la helicidad se usan para predecir la posibilidad de tornados durante una tormenta. En este caso, la integración vertical estará limitada a la parte bajo las nubes  y el viento horizontal se calcula como la velocidad relativa a la velocidad de la tormenta:
+  
+    
+      
+        S
+        R
+        H
+        =
+         
+        
+          
+            
+          
+        
+         
+         
+         
+        
+          V
+          
+            h
+          
+        
+        
+        d
+        
+          
+            Z
+          
+        
+        
+        
+        
+          
+            {
+            
+              
+                
+                  C
+                  =
+                  C
+                  l
+                  o
+                  u
+                  d
+                   
+                  m
+                  o
+                  t
+                  i
+                  o
+                  n
+                   
+                  t
+                  o
+                   
+                  t
+                  h
+                  e
+                   
+                  g
+                  r
+                  o
+                  u
+                  n
+                  d
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle SRH=\int {\left}\cdot \nabla \times V_{h}\,d{\mathbf {Z} }\qquad \qquad {\begin{cases}C=Cloud\ motion\ to\ the\ ground\end{cases}}}
+  
+Los valores críticos del SRH  se han estimado de la siguiente manera: 
+Cuando se toma como altura de cálculo 1 km, se considera que el límite del SRH es 100.

@@ -1,0 +1,6 @@
+Goldšmito klasifikacija – geocheminė cheminių elementų klasifikacija pagal jų sutinkamumą gamtoje. Šią klasifikaciją pasiūlė Viktoras Goldšmitas, kuris elementus suskirstė į:
+H, N, Inertinės dujos
+Ag, As, Bi, Cd, Cu, Ga, Hg, In, Pb, S, Sb, Se, Te, Tl, Zn
+Al, B, Ba, Be, Br, Ca, Cl, Cr, Cs, F, I, Hf, K, Li, Mg, Mn, Na, Nb, O, Rb, Sc, Si, Sr, Ta, Th, Ti, U, V, Y, Zr, W, Lantanoidai
+Au, C, Co, Fe, Ge, Ir, Mo, Ni, Os, P, Pd, Pt, Re, Rh, Ru, Sn
+Kai kurie elementai priklauso kelioms grupės. Čia nurodyta vyraujanti priklausomybė
