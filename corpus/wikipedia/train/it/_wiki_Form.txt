@@ -1,0 +1,44 @@
+In informatica, il termine form  indica la parte di interfaccia utente di un'applicazione web che consente all'utente client di inserire e inviare al web server/application server uno o più dati liberamente digitati dallo stesso sulla tastiera attraverso l'uso di componenti grafici detti widget presenti sull'interfaccia stessa; per descriverlo può essere utile la metafora della "scheda da compilare" per l'inserimento di dati.  Nella maggior parte dei casi il termine è riferito a form contenuti in una pagina web: ad esempio, le caselle di testo e i menù a tendina di una pagina di registrazione o di login costituiscono un form.
+Più in particolare, l'elemento HTML <FORM> è usato per realizzare form in una pagina web. In HTML sono considerati parte del form anche i pulsanti ripristina o cancella e invia. Di solito i form vengono utilizzati per inviare dati ad un database server oppure per inviare e-mail.
+Si tratta dunque di un elemento che inserisce contenuti interattivi per l'utente nella pagina web o in un'applicazione web inserendosi nel contesto del web dinamico. Tutti i dati di un form una volta inviati dal web browser del client al web server devono essere trattati o elaborati da una pagina web dinamica lato server.
+Il termine è usato, in senso più esteso, nell'ambiente di sviluppo Visual Basic per indicare una finestra principale dell'applicazione, in cui possono essere inseriti elementi visuali come pulsanti o caselle di testo.
+Tra i sottoelementi possibili di un form abbiamo:
+HTML 5 ha introdotto nuovi elementi ai form 2 :
+L'elemento <input> ha nuovi valori per l'attributo type.
+Elemento <datalist>
+<datalist> racchiude una lista di elementi <option> da suggerire all'utente durante la compilazione di un <input>.
+Elemento <output>
+<output> rappresenta il risultato di un calcolo. Si usa l'attributo for per specificare una relazione tra un elemento <output> e altri elementi del documento .
+Attributo <placeholder>
+<placeholder> si applica agli elementi <input> e <textarea>, fornendo all'utente un suggerimento su cosa dovrebbe immettere nel campo.
+Attributo <autofocus>
+<autofocus> evidenzia un campo. Può essere assegnato ad un solo campo per ciascun form. Si applica agli elementi <input>, <button>, <select> e <textarea>.
+Al di là degli specifici impieghi descritti sopra, in informatica  per form s'intende una maschera  ovvero un'area, solitamente strutturata in righe e colonne  e con dei campi che fungono da etichette descrittive, nella quale occorre inserire informazioni  da parte dell'utilizzatore della relativa applicazione software. Le informazioni possono anche essere già precompilate e quindi l'utente deve scegliere  il valore preferito .
+Per essere precisi il form è il modulo non compilato: quando è compilato allora diventa l'informazione documentata output .
+I form vengono formattati attraverso i CSS che permettono di dare un aspetto professionale e accattivante ai moduli rispetto all' HTML puro 3  4 . Esempio:    input  ,     select  ,     textarea      
+    <  form   id  =  "send-comment"   aria-label  =  "Add a comment"  > 
+ <  label   for  =  "username"  > Username </  label  > 
+   <  input   id  =  "username"   name  =  "username"   autocomplete  =  "nickname"   autocorrect  =  "off"   type  =  "text"  > 
+   <  label   for  =  "email"  > Email </  label  > 
+   <  input   id  =  "email"   name  =  "email"   autocomplete  =  "email"   autocapitalize  =  "off"   autocorrect  =  "off"   spellcheck  =  "false"   type  =  "text"  > 
+   <  label   for  =  "comment"  > Comment </  label  > 
+   <  textarea   id  =  "comment"   name  =  "comment"  ></  textarea  > 
+   <  input   value  =  "Comment"   type  =  "submit"  > 
+ </  form  > 
+ @
+else
+    Nome: <input type="text" name="nome" value="  <?php   echo   $nome  ;  ?>  "> 
+ E-mail: <input type="text" name="email" value="  <?php   echo   $email  ;  ?>  "> 
+ Sito web: <input type="text" name="website" value="  <?php   echo   $website  ;  ?>  "> 
+ Commento: <textarea name="commento" rows="5" cols="40">  <?php   echo   $commento  ;  ?>  </textarea> 
+ Gender: 
+ <input type="radio" name="gender" 
+ <?php   if      &&   $gender  ==  "femmina"  )   echo   "checked"  ;  ?> 
+ value="femmina">femmina 
+ <input type="radio" name="gender" 
+ <?php   if      &&   $gender  ==  "maschio"  )   echo   "checked"  ;  ?> 
+ value="maschio">maschio 
+ <input type="radio" name="gender" 
+ <?php   if      &&   $gender  ==  "altro"  )   echo   "checked"  ;  ?> 
+ value="altro">altro 
+</pr

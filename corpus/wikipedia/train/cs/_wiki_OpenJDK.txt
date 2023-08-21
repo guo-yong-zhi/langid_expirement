@@ -1,0 +1,6 @@
+OpenJDK  je bezplatná a open source implementace Java Platform, Standard Edition . Projekt byl započat společnosti Sun Microsystems v roce 2006, v současnosti jej vyvíjí Oracle Corporation.
+Implementace je pod licencí GNU General Public License  s linkovací výjimkou GPL, které podléhají komponenty, které souvisejí s knihovnami Javy.
+OpenJDK je oficiální implementací od verze Java SE 7. 1 
+Projekt OpenJDK se skládá z několika částí. V zásadě se jedná o HotSpot , Java Class Library a javac .
+Plug-in do webového prohlížeče a Web Start, kteří jsou součástí Javy od Oraclu nejsou zahrnuty v OpenJDK.
+Sun již v minulosti naznačil, že se pokusí otevřít zdrojové kódy těchto součástí, ale ani Sun, ani Oracle tak nakonec neučinili. 2 

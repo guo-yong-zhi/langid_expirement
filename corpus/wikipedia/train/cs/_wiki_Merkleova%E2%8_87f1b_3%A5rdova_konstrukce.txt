@@ -1,0 +1,7 @@
+Merkleova-Damgårdova konstrukce je pojem z oboru kryptografie, kterým se označuje konkrétní způsob vytváření kryptografických hašovacích funkcí z vhodných jednosměrných kompresních funkcí. Jedná se o způsob poměrně oblíbený, kterým vznikly mimo jiné hašovací funkce MD5, SHA1 a SHA2.
+Způsob popsal Ralph Merkle ve své dizertační práci v roce 1979. Sám Ralph Merkle a nezávisle na něm Ivan Damgård dokázali, že při vhodném použití výplně a při vůči kolizím odolné jednosměrné kompresní funkci je kolizím odolná i vzniklá kryptografická hašovací funkce.
+Jednosměrná kompresní funkce má dva vstupy pevné délky a jeden výstup délky rovné jednomu ze vstupů. Na vstup o délce rovné výstupu se v prvním kroku pošle inicializační vektor , v dalších krocích výstup funkce v předchozím kroku. Do druhého výstupu se postupně posílá hašovaná zpráva a to po blocích patřičné délky. Protože její původní délka nemusí být násobkem délky bloků, je ještě předtím zpráva doplněna výplní a na závěr je připojena informace o délce výplně.
+Poslední výstup pak ještě může být upraven uzavírací funkcí, čímž je například umožněno, aby mezivýstupy byly delší než je délka požadovaného výstupu.
+   V tomto článku byl použit  překlad  textu z článku   Merkle–Damgård construction   na anglické Wikipedii.  
+ 
+ 

@@ -1,0 +1,21 @@
+The Zukertort Opening is a chess opening named after Johannes Zukertort that begins with the move:
+Sometimes the name "Réti Opening" is used for the opening move 1.Nf3, 1  although most sources define the Réti more narrowly as the sequence 1.Nf3 d5 2.c4. 2 
+A flank opening, it is the third most popular of the twenty legal opening moves White has, behind only 1.e4 and 1.d4. 3  4  5 
+The move has been described by Edmar Mednis as a "perfect and flexible opening" 6  and by others such as Aron Nimzowitsch as "certainly the most solid move, whereas moves such as 1.e4 and 1.d4 are both 'committal' and 'compromising'." 7  The game can transpose into many other openings that usually start with 1.e4, 1.d4, or 1.c4. If Black is not careful, there is the risk of running unprepared into a highly theoretical opening, e.g. after 1.Nf3 c5 White can play 2.e4 leading to the mainline Sicilian Defense. Other common transpositions are to various lines of the Queen's Gambit Declined  or the Catalan Opening . 6 
+The main independent lines which usually start with 1.Nf3 are the Réti Opening  and the King's Indian Attack . By playing 1.Nf3 White has prevented Black from playing 1...e5, and many players who want to play the English Opening but avoid the reversed Sicilian lines beginning with 1.c4 e5 opt to start the game with 1.Nf3 instead. 6 
+In the Encyclopedia of Chess Openings, Zukertort Openings are classified in the coding series A04–A09. 1...d5 is under A06–A09, 1...Nf6 is under A05, and any other Black move is under A04.
+The Black responses which are given one or more chapters in the Encyclopedia of Chess Openings are given below, ranked in order of popularity. 8 
+Like White's move, Black's move is non-committal as to opening. 2.d4 is identical to 1.d4 Nf6 2.Nf3 . 2.c4 is a common start for the English Opening or it may be brought back to the Queen's Gambit Declined 2.g3 is a common start for the King's Indian Attack.
+Black stakes a claim to the center. White has many transpositional options. 2.d4 is again the same as 1.d4 d5 2.Nf3 . 2.g3 is the King's Indian Attack. 2.c4 is the Reti Opening or English Opening.
+Black invites White to play 2.e4, transitioning into the Sicilian Defense, or 2.c4, the Symmetrical Defense of the English Opening.
+White can play 2.c4 for the English Opening, 2.e4 for the Sicilian Defense, 2.g3 for the King's Indian Attack, or 2.d4 for the King's Indian Defense.
+Like White's move, Black's move is non-committal as to opening. White can play 2.c4 for the English Opening or 2.e4 for the French Defense  or the Sicilian Defense . Another non-committal move for White is 2.d4, which can lead to the Sicilian Defense, the Queen's Gambit Declined, the Dutch Defense, the Indian Defenses, the King's Indian Attack, or the London System, depending on Black's reply.
+After 1...f5, 2.d4 is the Dutch Defense. 2.e4 borrows ideas from the Staunton Gambit.
+1.Na3: Durkin  1.a3: Anderssen
+1.b3:  Larsen
+1.Nc3: Dunst  1.c3: Saragossa
+1.d3:  Mieses
+1.e3:  Van 't Kruijs
+1.Nf3: Zukertort  1.f3: Barnes
+1.g3:  Benko
+1.Nh3: Amar  1.h3: Clemenz

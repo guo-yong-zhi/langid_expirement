@@ -1,0 +1,64 @@
+In mathematica e logica un variabile 1  es un character alphabetic que representa un numero arbitrari, le plus sovente isto es 
+  
+    
+      
+        x
+      
+    
+    
+  
+, 
+  
+    
+      
+        y
+      
+    
+    
+  
+, 
+  
+    
+      
+        a
+      
+    
+    
+  
+, 
+  
+    
+      
+        b
+      
+    
+    
+  
+, 
+  
+    
+      
+        c
+      
+    
+    
+  
+, 
+  
+    
+      
+        i
+      
+    
+    
+  
+ o 
+  
+    
+      
+        n
+      
+    
+    
+  
+. Illo es comparabile con un sede reservate.

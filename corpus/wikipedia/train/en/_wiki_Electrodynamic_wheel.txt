@@ -1,0 +1,6 @@
+An electrodynamic wheel is a type of wheel proposed for use in electrodynamic levitation of the maglev train transport system. 1  2  3 
+Unlike a conventional wheel, an electrodynamic wheel has a rim studded with magnets of alternating poles. As the wheel spins, which is done at a rate so that there is slip between the rim and the guideway's surface, magnetic fields are induced in the conductive guideway, which repels the wheel.
+Depending on the spin, electrodynamic wheels can provide propulsion, braking, control, and lift.
+The mechanical rotation of a radially positioned permanent-magnet Halbach array above a conducting, nonmagnetic track induces eddy currents in the track that can inductively create suspension and propulsion forces simultaneously. The parameters that affect the performance of this electrodynamic wheel are studied using a 2-D steady-state finite-element method.
+The Hendo hoverboard uses electrodynamic wheels to levitate itself over a conductive surface. 4 
+This electromagnetism-related article is a stub. You can help Wikipedia by expanding it.

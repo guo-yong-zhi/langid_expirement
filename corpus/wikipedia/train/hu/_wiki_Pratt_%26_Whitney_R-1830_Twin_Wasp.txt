@@ -1,0 +1,10 @@
+Pontosságellenőrzött
+A Pratt & Whitney R-1830 Twin Wasp egy 14 hengeres, léghűtéses csillagmotor volt, amit az Egyesült Államokban fejlesztettek ki a két világháború között. A típus igen nagy számban és sok változatban került gyártásba. Emellett számos külföldi motortípus is a típus licencén alapult.
+A típus hengereinek a lökethossza és a furata is 139,7 mm volt, vagyis a hengerek "négyzetesek" voltak. A 14 henger összesített lökettérfogata így 30 liter lett. A korai verziók 800 lóerőt adtak le 2450/perc fordulatszámon.
+A típus tömegének az alacsonyan tartásához széles körben használtak alumínium és magnézium szerkezeti elemeket.
+A típus jellegzetessége volt, hogy ez volt az első olyan repülőgépmotor-típus, ami kétfokozatú feltöltést valósított meg. Ez elsősorban a magassági teljesítményt növelte. Erről az újításról a Rolls-Royce Merlin lett nevezetes, pedig az R-1830 előbb megvalósította.
+A feltöltés fejlesztése nagyon sok erőforrásba és időbe került, évekig elhúzódott. A kétfokozatú feltöltés kifejlesztésébe 1935-ben kezdtek bele. 1939-re jutottak a fejlesztéssel megfelelő eredményre. Ekkor a kétfokozatú feltöltéssel már 1050 lóerőt értek el 17 500 láb magasságban.
+Az 1942-es évben a csendes-óceáni hadszíntéren a típusnak nagy szerepe volt a japán repülőgépek elleni harcban. A típus egyik fő alkalmazása ekkoriban a Grumman F4F-3 Wildcat haditengerészeti vadászrepülőgép volt. Egy másik jelentős alkalmazás ekkoriban az SBD-4 Dauntless zuhanó-bombázógép volt.
+A típust később is nagy számban alkalmazták. Többek között ez volt a DC–3 szállító-repülőgépek motorja, ami miatt a háború után is széles körű alkalmazásban maradt.
+Az R-1830-ból kiindulva létrehoztak egy nagyobb lökettérfogatú verziót, az R-2000-et. Ennek a típusnak azért volt nagyobb a teljesítménye, mert a lökettérfogatot megnövelték. Ehhez a furatot növelték meg 146 mm-re, ami révén a lökettérfogat 32,84 literre nőtt.
+A R-2000 kétsebességes mechanikus feltöltővel rendelkezett, és a teljesítménye 1350 lóerő volt 2700/perc fordulatszámon.

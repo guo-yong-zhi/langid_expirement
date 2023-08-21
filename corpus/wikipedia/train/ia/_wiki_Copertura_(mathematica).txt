@@ -1,0 +1,236 @@
+In mathematica, un copertura 1  de un insimul 
+  
+    
+      
+        X
+      
+    
+    
+  
+ es un collection 
+  
+    
+      
+        C
+      
+    
+    
+  
+ de subinsimules de 
+  
+    
+      
+        X
+      
+    
+    
+  
+ de qui le union es 
+  
+    
+      
+        X
+      
+    
+    
+  
+. In symbolos, si 
+  
+    
+      
+        C
+        =
+        
+      
+    
+    :\alpha \in A\}}
+  
+ es un familia 
+  
+    
+      
+        U
+      
+    
+    
+  
+ de subinsimules de 
+  
+    
+      
+        X
+      
+    
+    
+  
+, tunc 
+  
+    
+      
+        C
+      
+    
+    
+  
+ es un copertura, si:
+Plus generalmente, si 
+  
+    
+      
+        Y
+      
+    
+    
+  
+ es un subinsimul de 
+  
+    
+      
+        X
+      
+    
+    
+  
+, e 
+  
+    
+      
+        C
+      
+    
+    
+  
+ es un collection de subinsimules 
+  
+    
+      
+        
+          U
+          
+             
+          
+        
+      
+    
+    }
+  
+ de 
+  
+    
+      
+        X
+      
+    
+    
+  
+, de qui le union contine 
+  
+    
+      
+        Y
+      
+    
+    
+  
+, ergo 
+  
+    
+      
+        C
+      
+    
+    
+  
+ es un copertura de 
+  
+    
+      
+        Y
+      
+    
+    
+  
+. Ergo, 
+  
+    
+      
+        C
+      
+    
+    
+  
+ es un copertura de 
+  
+    
+      
+        Y
+      
+    
+    
+  
+ si:
+Coperturas es communmente usate in le contexto de topologia. Si le insimul 
+  
+    
+      
+        X
+      
+    
+    
+  
+ es un spatio topologic, on dice que 
+  
+    
+      
+        C
+      
+    
+    
+  
+ es un copertura aperte si cata uno de su membros es un insimul aperte .
+Si 
+  
+    
+      
+        C
+      
+    
+    
+  
+ es un copertura de 
+  
+    
+      
+        X
+      
+    
+    
+  
+, tunc un subcopertura de 
+  
+    
+      
+        C
+      
+    
+    
+  
+ es un subinsimul de 
+  
+    
+      
+        C
+      
+    
+    
+  
+ que totevia coperi 
+  
+    
+      
+        X
+      
+    
+    
+  
+.

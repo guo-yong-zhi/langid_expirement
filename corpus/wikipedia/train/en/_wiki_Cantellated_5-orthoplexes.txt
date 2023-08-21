@@ -1,0 +1,6 @@
+In five-dimensional geometry, a cantellated 5-orthoplex is a convex uniform 5-polytope, being a cantellation of the regular 5-orthoplex.
+There are 6 cantellation for the 5-orthoplex, including truncations. Some of them are more easily constructed from the dual 5-cube.
+The vertices of the can be made in 5-space, as permutations and sign combinations of:
+The cantellated 5-orthoplex is constructed by a cantellation operation applied to the 5-orthoplex.
+Cartesian coordinates for the vertices of a cantitruncated 5-orthoplex, centered at the origin, are all sign and coordinate permutations of
+These polytopes are from a set of 31 uniform 5-polytopes generated from the regular 5-cube or 5-orthoplex.

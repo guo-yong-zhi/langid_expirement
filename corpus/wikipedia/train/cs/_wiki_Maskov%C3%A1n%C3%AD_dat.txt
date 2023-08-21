@@ -1,0 +1,5 @@
+Technologie maskování dat, v porovnání s šifrováním dat nebo jinými klasickými technikami zabezpečení dat, představuje zcela jiný přístup k problematice ochrany dat. Zamaskovaná  data, jsou umělá, avšak reálně vyhlížející data, která mají stejný statistický charakter jako původní provozní data, včetně zachované integrity dat a vazeb mezi objekty a aplikacemi. Těmito daty lze plnohodnotně nahradit provozní „ostrá“ data pro účely výzkumu, vývoje a testování, při současné eliminaci rizika úniku citlivých dat. Zamaskovaná data nejsou pro hackery zajímavá, protože již neobsahují citlivé údaje a nelze z nich zpětně odvodit původní data – pokud je proces maskování proveden kvalitně.
+Význam maskování dat
+ Maskování dat neřeší problém jak  znemožnit krádež   dat , ale jak  znemožnit využití  ukradených  dat .
+ 
+ 

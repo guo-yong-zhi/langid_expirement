@@ -1,0 +1,94 @@
+Pontosságellenőrzött
+A szén-trioxid  egy instabil szén-oxid. Elméleti módszerekkel főleg három izomerjét – Cs, D3h és C2v – tanulmányozták, és kimutatták, hogy a C2v a molekula alapállapota. 1  2 
+A szén-trioxid nem keverendő össze a karbonátionnal .
+Szén-trioxid előállítható például úgy, hogy negatív koronakisülésben reagáltatnak szén-dioxidot  és molekuláris oxigénből a plazma szabad elektronjai hatására keletkező atomos oxigént : 3 
+CO2 + O = CO3  
+Másik módszer az előállítására a folyékony szén-dioxidban vagy szén-dioxid és kén-hexafluorid keverékében oldott ózon  253,7 nm-es fény hatására végbemenő fotolízise. A szén-trioxid kevesebb mint egy percig létezik, szén-dioxidra és oxigénre  bomlik: 4 
+  
+    
+      
+        
+          6
+          
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            O
+            
+              3
+            
+            
+              
+            
+          
+          
+            
+              
+                
+                  
+                    
+                       
+                    
+                    
+                    
+                    
+                       
+                    
+                  
+                
+              
+              
+                
+                  
+                    
+                       
+                    
+                    
+                    
+                    
+                       
+                    
+                  
+                
+              
+            
+          
+          6
+          
+          
+            CO
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    }}
+  
+A szén-trioxidot elő lehet állítani ózon és szárazjég  reakciójával, de létezését kimutatták szén-monoxid és molekuláris oxigén  reakciójában is.
+A c2v izomer szén-monoxid és oxigén egyesülésével is keletkezhet:
+CO + O2 = CO3
+Ez a szócikk részben vagy egészben  a   Carbon trioxide című angol Wikipédia-szócikk ezen változatának fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel. Ez a jelzés csupán a megfogalmazás eredetét és a szerzői jogokat jelzi, nem szolgál a cikkben szereplő információk forrásmegjelöléseként.
+szén-monoxid  ·  szén-dioxid  ·  szén-trioxid  ·  szén-tetraoxid  ·  szén-pentaoxid  ·  szén-hexaoxid 
+diszén-monoxid (C2O) ·  diszén-dioxid (C2O2) ·  oxálsav-anhidrid (C2O3) ·  1,2-Dioxetán-dion (C2O4) ·  1,3-Dioxetán-dion (C2O4
+szén-szuboxid  ·  ciklopropán-trion  ·  1,3,5-Trioxántrion 
+tetraszén-dioxid  ·  ciklobután-tetraon   ·  dioxán-tetraketon 
+pentaszén-dioxid 
+ciklohexánhexon  ·  etiléntetrakarbonsav-dianhidrid 
+benzolhexol-triszkarbonát 
+benzokinon-tetrakarbonsav-dianhidrid  ·  1,4-Benzokinontetrol-bisz 
+hexaoxotriciklobutabenzol  ·  mellitsav-anhidrid  ·  benzolhexol-triszoxalát 

@@ -1,0 +1,5 @@
+Í tölvuforritun, er Switch-setning skilyrðissetning notuð í flestum nútíma forritunarmálum . Tilgangur hennar er að leyfa gildi breytu eða segð að stjórna inningarröð forrita. Til eru setningar í öðrum forritunarmálum sem eru setningafræðilega öðruvísi en þjóna sama tilgangi hugtakslega og kallast þær case-setning eða select-setning.
+Eftirfarandi eru dæmi um notkun Switch-setningunar. Ekki má gleyma að hafa break þegar brjótast á út úr setningunni. Ef ekkert af case-setningunum tekur við skilyrðunum í switch þá tekur default skilyrðið við, ef það er til staðar í forritinu, en því má þó sleppa.
+ switch 
+ switch 
+</pr

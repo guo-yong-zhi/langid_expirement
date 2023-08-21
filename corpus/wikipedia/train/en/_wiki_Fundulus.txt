@@ -1,0 +1,8 @@
+
+See text
+Fundulus is a genus of ray-finned fishes in the superfamily Funduloidea, family Fundulidae . It belongs to the order of toothcarps , and therein the large suborder Cyprinodontoidei. Most of its closest living relatives are egg-laying, with the notable exception of the splitfin livebearers .
+They are usually smallish; most species reaching a length of at most 4 in  when fully grown. However, a few larger species exist, with the giant killifish  and the northern studfish  growing to twice the genus' average size.
+Many of the 40-odd species are commonly known by the highly ambiguous name "killifish" , or the somewhat less ambiguous "topminnow" . "Studfish" is a quite unequivocal vernacular name applied to some other Fundulus species; it is not usually used to refer to the genus as a whole.
+Fundulus have evolved to occupy a wide range of aquatic ecosystems, including marine, estuarine, and freshwater, making it a good comparative model system for studying evolutionary divergence between marine and freshwater environments. 2  To assist with this research, Oxford Nanopore long-read reference genomes have been sequenced for F. xenicus, F. catenatus, F. nottii, and F. olivaceus 3 .
+There are currently 39 recognized species in this genus: 4 
+Formerly placed in Fundulus were the closely related diamond killifish  and the somewhat more distantly related Cuban killifish .

@@ -1,0 +1,8 @@
+Pontosságellenőrzött
+ A hidegujj egy laboratóriumi üvegeszköz, amelyet helyi hűtésre használnak például szublimáció kivitelezésénél. Nevét onnan kapta, hogy használatakor a hűtendő közegbe mint egy „ujjat” belemártjuk. A hidegujj külső felületén kondenzálnak le a gőzök.
+A hidegujjat főleg szublimációs készülékekben, illetve kis mennyiségű anyag átdesztillálásakor használják mint hűtőt.
+A hidegujjnak a bemenete és a kimenete csatlakozik a testhez, melybe a leggyakrabban vezetett hűtőközeg a hideg csapvíz, mely folyamatosan áramlik a rendszeren keresztül. Ezen kívül hűtőközegként használható még szilárd anyag is, mint a jég vagy a szárazjég. Ilyen esetben azonban a hűtőközeg csak addig használható, amíg teljesen fel nem olvad vagy el nem szublimál, ugyanis itt csak egyszeri hűtőközeg-beadagolás van .
+Hidegujj vákuum csatlakozással ellátva.
+Szublimációs készülékben használt hidegujj.
+Általános
+Laboratóriumi üvegedények
