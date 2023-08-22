@@ -50,7 +50,7 @@ function build_all_ngrams_profiles(langs, path; ngram=7, ratio=0.9, minfreq=10, 
     mkpath(path)
     for lang in langs
         @time D, h = build_ngrams_profile(lang, ngram=ngram, ratio=ratio, minfreq=minfreq, maxsize=maxsize)
-        dump_ngrams(D, joinpath(path, "$lang.txt"), head=h)
+        dump_ngram_table(D, joinpath(path, "$lang.txt"), head=h)
         flush(stdout)
     end
 end

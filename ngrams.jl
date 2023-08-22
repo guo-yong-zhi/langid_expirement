@@ -52,7 +52,7 @@ end
 function lcs(s1::AbstractString, s2::AbstractString)
     m, n = length(s1), length(s2)
     len, pos1, pos2 = 0, 0, 0
-    dp = zeros(Int, m+1, n+1)
+    dp = zeros(Int, m + 1, n + 1)
     for i in 1:m
         for j in 1:n
             if s1[i] == s2[j]
@@ -65,16 +65,17 @@ function lcs(s1::AbstractString, s2::AbstractString)
             end
         end
     end
-    return pos1 - len + 1:pos1, pos2 - len + 1:pos2
+    return pos1-len+1:pos1, pos2-len+1:pos2
 end
-function lcs_zip(str, refer)
+function lcs_zip(str, refer) # `str` and `refer` must not contain any uppercase letters
     rg1, rg2 = lcs(refer, str)
     if length(rg1) > 2
         b1, e1 = first(rg1), last(rg1)
         b2, e2 = first(rg2), last(rg2)
         l1 = e1 - b1 + 1
-        if b1 < 26 && l1 < 26
+        if b1 <= 26 && l1 <= 26
             bc = Char(Int('A') + b1 - 1)
+            bc = bc == 'A' ? "" : bc
             lc = Char(Int('A') + l1 - 1)
             str = string(str[1:b2-1], bc, lc, str[e2+1:end])
         end
@@ -85,16 +86,22 @@ function lcs_unzip(str, refer)
     b2 = findfirst(r"[A-Z]", str)
     if b2 !== nothing
         b2 = first(b2)
-        e2 = b2 + 1
         b1 = Int(str[b2]) - Int('A') + 1
-        l1 = Int(str[e2]) - Int('A') + 1
+        e2 = b2 + 1
+        if e2 > length(str) || !('A' <= str[e2] <= 'Z')
+            e2 = b2
+            l1 = b1
+            b1 = 1
+        else
+            l1 = Int(str[e2]) - Int('A') + 1
+        end
         e1 = b1 + l1 - 1
         str = string(str[1:b2-1], refer[b1:e1], str[e2+1:end])
     end
     str
 end
 
-function dump_ngrams(D, filename; head=nothing)
+function dump_ngram_table(D, filename; head=nothing)
     open(filename, "w") do f
         if head !== nothing
             write(f, "total:")
@@ -124,14 +131,14 @@ function dump_ngrams(D, filename; head=nothing)
     end
 end
 
-function load_ngrams(filename; head=true)
+function load_ngram_table(filename; head=true)
     open(filename) do f
         el = eachline(f)
         if head
             l1 = first(el)
             hd = parse.(Float64, split(split(l1, ":")[end], ","))
         end
-        D = Vector{Pair{Vector{UInt8}, Float64}}()
+        D = Vector{Pair{Vector{UInt8},Float64}}()
         last_k = "###"
         last_v = 0.0
         last_vstr = string(last_v)
