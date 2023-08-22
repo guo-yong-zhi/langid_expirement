@@ -1,0 +1,1 @@
+Trav er en totaktig gangart for en hest. De diagonale benpar sættes ned og løftes op på samme tid. Mellem hvert diagonale benpars nedsætning svæver hesten kortvarigt. Det giver travet fire elementer. Det vigtigste krav til travet er, at de diagonale benflytninger er regelmæssige og lige.

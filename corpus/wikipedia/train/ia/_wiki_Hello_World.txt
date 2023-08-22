@@ -1,0 +1,290 @@
+ 
+Un programma "Hello, world!"  frequentemente es utilisate pro facer un demonstration rapide de un linguage de programmation, per exemplo, in capitulos introductori de manuales e cursos. Iste typo de programma es multo simple, e solmente exhibi le message "Hello, world!" super le schermo del usator. Pro le majoritate de linguages, un programma "Hello World" es un del plus simple programmas possibile, ben que alcun exemplos es multo complexe, in particular illos que debe exhibir le message in un ambiente graphic .
+Un programma "hello, world" pote esser un prova utile pro indicar que le compilator, ambiente de disveloppamento, e ambiente de tempore de execution  es installate correctemente. Quando on vole provar un nove collection de utensiles pro programmation, frequentemente il es melior provar con un programma simplissime .
+Ben que parve programmas de prova ha existite ab le invention de computatores programmabile, le tradition de usar le phrase "Hello, world!" como le indication de successo esseva establite per un programma exemplari in le libro The C Programming Language  per Brian Kernighan e Dennis Ritchie. Le programma exemplari de iste libro imprime "hello, world".
+Un collection de programmas "hello, world" scribite in varie linguages de programmation pote servir como un "Petra de Rosetta" pro adjutar in apprender e comparar le linguages.
+Ecce alcun exemplos de varie linguages:
+    with Ada.Text_Io; use Ada.Text_Io;
+   procedure Hello is
+   begin
+      Put_Line ;
+   end Hello;
+    MODEL SMALL
+   IDEAL
+   STACK 100H
+    DATASEG
+       HW      DB      'Hello, world!$'
+    CODESEG
+       MOV AX, @data
+       MOV DS, AX
+       MOV DX, OFFSET HW
+       MOV AH, 09H
+       INT 21H
+       MOV AX, 4C00H
+       INT 21H
+   END
+    BEGIN 
+     Traditional - BASIC non structurate 
+   10 PRINT "Hello, world!"
+   20 END
+     Versiones plus moderne - BASIC structurate 
+   print "Hello, world!"
+    GET "LIBHDR"
+   LET START  BE
+   $
+   $)
+    #include <stdio.h>
+    
+   int main
+   
+    #include <iostream>
+    
+   int main
+   
+    class AppHalloMundo 
+   }
+    module hallo
+    Start :: String
+   Start = "Hello, world"
+    IDENTIFICATION DIVISION.
+   PROGRAM-ID.     HALLO-MUNDO.
+    ENVIRONMENT DIVISION.
+    DATA DIVISION.
+    PROCEDURE DIVISION.
+   DISPLAY "Hello, world!".
+   STOP RUN.
+    
+    class HALLO_MUNDO
+    creation
+       make
+   feature
+       make is
+       local
+               io:BASIC_IO
+       do
+               !!io
+               io.put_string
+       end -- make
+   end -- class HALLO_MUNDO
+        -module.
+       -export.
+        hallo_mundo -> io:fwrite.
+    ." Hello, world!" CR
+       PROGRAM HALLO
+      WRITE
+   10 FORMAT
+      STOP
+      END
+    module HalloMundo  where
+    main = putStrLn "Hello World"
+    ON ENTER 
+    public class Hello 
+   }
+    print "Hello, world!"
+     TERM    EQU    19          numero del "MIX console device"
+            ORIG   1000        adresse initial
+    START   OUT    MSG   expelle datos al adresse MSG
+            HLT                stoppa execution
+    MSG     ALF    "MIXAL"
+            ALF    " HELL"
+            ALF    "O WOR"
+            ALF    "LD   "
+            END    START       fin del programma
+    @echo off
+   echo Hello, world!
+    let _ =
+      print_endline "Hello world!";;
+    PROC hallo:
+     PRINT "Hello, World"
+   ENDP
+    program Hallo;
+   begin
+       writeln
+   end.
+    print "Hello, world!\n";
+    <?php
+       print;
+   ?>
+    #!/usr/local/bin/pike
+   int main 
+    Prova: procedure options;
+      declare Mi_Vector char varying initialize;
+      put skip list;
+   end Prova;
+    print "Hello, world!"
+    say "Hello, world!"
+    print "Hello, world!\n"
+    K) PROGRAM DRUKUJE NAPIS HELLO WORLD
+       LINIA
+       TEKST:
+       HELLO WORLD
+       KONIEC
+    
+   
+    sed -ne '1s/.*/Hello, world!/p'
+    $ include "seed7_05.s7i";
+   const proc: main is func
+     begin
+       writeln;
+     end func;
+    Transcript show: 'Hello, world!'
+    print "Hello, world!\n";
+        OUTPUT = "Hello, world!"
+   END
+    create table HALLO );
+   insert into HALLO  values ;
+   select TEXTO from HALLO;
+   drop table HALLO;
+    sub main
+   print "Hello, World"
+   end sub
+    puts "Hello, world!"
+    :Disp "Hello, world!"
+    put "Hello, world!"
+    echo 'Hello, world!'
+    Algorithmo Hallo es:
+       sia s:="Hello, world";
+       imprime s;
+   fin-Hallo
+    MsgBox "Hello, world!"
+    #include <iostream>
+   #include <gtkmm/main.h>
+   #include <gtkmm/button.h>
+   #include <gtkmm/window.h>
+   using namespace std;
+    class HalloMundo : public Gtk::Window ;
+    HalloMundo::HalloMundo
+   : m_button 
+    HalloMundo::~HalloMundo 
+    void HalloMundo::on_button_clicked 
+    int main  
+    #include <qapplication.h>
+   #include <qpushbutton.h>
+   #include <qwidget.h>
+   #include <iostream>
+    class HalloMundo : public QWidget
+   {
+       Q_OBJECT
+    public:
+       HalloMundo;
+       virtual ~HalloMundo;
+   public slots:
+       void handleButtonClicked;
+       QPushButton *mPushButton;
+   };
+    HalloMundo::HalloMundo :
+       QWidget,
+       mPushButton)
+   
+    HalloMundo::~HalloMundo 
+    void HalloMundo::handleButtonClicked
+   
+    int main
+   
+    #include <windows.h>
+    LRESULT CALLBACK WindowProcedure;
+    char szClassName = "MainWnd";
+   HINSTANCE hInstance;
+    int WINAPI WinMain
+   {
+     HWND hwnd;
+     MSG msg;
+     WNDCLASSEX wincl;
+      hInstance = hInst;
+     wincl.cbSize = sizeof;
+     wincl.cbClsExtra = 0;
+     wincl.cbWndExtra = 0;
+     wincl.style = 0;
+     wincl.hInstance = hInstance;
+     wincl.lpszClassName = szClassName;
+     wincl.lpszMenuName = NULL; //No menu
+     wincl.lpfnWndProc = WindowProcedure;
+     wincl.hbrBackground = ; //Color of the window
+     wincl.hIcon = LoadIcon; //EXE icon
+     wincl.hIconSm = LoadIcon; //Small program icon
+     wincl.hCursor = LoadCursor; //Cursor
+     if )
+           return 0;
+      hwnd = CreateWindowEx;
+      //Make the window visible on the screen
+     ShowWindow;
+     //Run the message loop
+     while )
+     {
+           TranslateMessage;
+           DispatchMessage;
+     }
+     return msg.wParam;
+   }
+    LRESULT CALLBACK WindowProcedure
+   
+     return 0;
+   }
+    import java.awt.*;
+   import java.awt.event.*;
+    public class QuadroDeSalutation extends Frame {
+     QuadroDeSalutation {
+       super;
+     }
+     public void paint {
+       super.paint;
+       java.awt.Insets ins = this.getInsets;
+       g.drawString;
+     }
+     public static void main
+     {
+       QuadroDeSalutation qua = new QuadroDeSalutation;
+        qua.addWindowListener {
+           public void windowClosing;
+           }
+         }
+       );
+       qua.setResizable;
+       qua.setSize;
+       qua.setVisible;
+     }
+   }
+    <html>
+   <head>
+   <title>Hallo Mundo</title>
+   </head>
+   <body>
+    <applet code="HalloMundo.class" width="600" height="100">
+   </applet>
+   </body>
+   </html>
+    import java.applet.*;
+   import java.awt.*;
+    public class HalloMundo extends Applet 
+   }
+     <script language="javascript">
+    function halloMundo
+    
+    </script>
+     <a href="javascript:this.location"
+     onclick="javascript:halloMundo;">Programma "hello world"</a>
+     <a href="#" onclick="alert">Programma "hello world"</a>
+     javascript:alert
+    <window xmlns=" http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul ">
+   <box align="center">
+   <label value="Hello, world!" />
+   </box>
+   </window>
+     48 65 6C 6C 6F 2C 20 77 6F 72 6C 64 21 0D 0A
+    <html>
+   <head>
+   <title>Hallo, Mundo!</title>
+   </head>
+   <body>
+   <p>Hello, world!</p>
+   </body>
+   </html>
+    /font /Courier findfont 24 scalefont
+   font setfont
+   100 100 moveto
+    show
+   showpage
+    \font\HW=cmr10 scaled 3000
+   \leftline
+   \bye
+</pr

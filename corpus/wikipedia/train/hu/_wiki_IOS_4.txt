@@ -1,0 +1,11 @@
+Pontosságellenőrzött
+Az iOS 4 az Apple Inc. iOS operációs rendszerének negyedik tagja, amelyet iPhone, iPod touch és iPad készülékek használnak. 2010. június 21-én jelent meg. Ez volt az első olyan iPhone operációs rendszer, amely egyszerű iOS nevet kapott. Ez volt az első olyan főbb iOS kiadás, amely egyes készülékeket már nem támogatott, és az első olyan, amelyért az iPod Touch felhasználóknak nem kellett fizetniük.
+Az iPhone 3G és a második generációs iPod touch készülékekből hiányoztak a multitasking és a háttérkép beállítás funkciók, míg az iPhone 3GS, iPhone 4 és a harmadik és negyedik generációs iPod Touch-ban helyet kaptak. Az első generációs iPhone és iPod Touch készülékeken nem használható az iOS 4 és későbbi iOS verziók.
+Az iOS 4.1 volt az első olyan iOS verzió, amely elérhető volt az Apple TV-n , tartalmazza az Apple TV Software 4.0.-t. 2 
+Darwin ·  macOS  ·  iOS 
+iCloud ·  iLife  ·  iWork ·  Keynote ·  Pages ·  Numbers ·  iBooks Author
+Aperture ·  FileMaker Pro ·  Final Cut Studio  ·  Logic Studio ·  Logic Pro ·  Mainstage ·  Soundtrack Pro
+iTunes  ·  Mail ·  Messages ·  Photo Booth ·  QuickTime ·  Safari  ·  TextEdit
+Apple Remote Desktop ·  OS X Server ·  WebObjects ·  Xsan
+Dashcode ·  Instruments ·  Interface Builder ·  Quartz Composer ·  Xcode ·  Apple iAd Producer
+.Mac ·  AppleWorks ·  Final Cut Express ·  Front Row ·  HyperCard ·  iChat ·  Mac OS  ·  MacDraw ·  MacPaint ·  MacProject ·  MacTerminal ·  MacWrite ·  MobileMe ·  ResEdit ·  Shake ·  iWork.com ·  Logic Express

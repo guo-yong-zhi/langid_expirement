@@ -1,0 +1,5 @@
+En geometrio, la granda dekduedro estas unu el pluredroj de Keplero-Poinsot. Ĝi estas unu el kvar nekonveksaj regulaj pluredroj. Ĝi estas komponita de 12 kvinlateraj edroj, kaj kvin edroj kuniĝas je ĉiu vertico, sekcante unu la alian simile al lateroj de stelokvinlatero.
+Ĝi komunigas la saman situon de lateroj kun la konveksa regula dudekedro.
+Forigo de la konkavaj partaj rezultas je dekduedro.
+Granda dekduedro estas la dua el tri steligoj de la dekduedro.
+La granda dekduedro estis la bazo por la enigmo Aleksandra Stelo, simila al Kubo de Rubik .

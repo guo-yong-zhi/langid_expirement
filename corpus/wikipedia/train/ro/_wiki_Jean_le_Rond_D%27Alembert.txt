@@ -1,0 +1,137 @@
+Jean le Rond D’Alembert a  8  sau Jean Le Rond d’Alembert 9  10   a fost un matematician, fizician, filozof și enciclopedist francez. Rezultatele sale din domeniul matematicii, în particular cele legate de rezolvarea ecuațiilor diferențiale și de derivatele parțiale, au găsit aplicații imediate în fizică și astronomie.
+Mai multe noțiuni din matematică și fizică au primit numele său: metoda lui d'Alembert pentru rezolvarea ecuației undelor și formula lui d'Alembert care exprimă soluția acestei ecuații, principiul lui d'Alembert privitor la forțele și accelerațiile unui sistem de particule, teorema lui d'Alembert legată de numărul rădăcinilor unui polinom în mulțimea numerelor complexe, criteriul lui d'Alembert de convergență a unor serii etc.
+D'Alembert a fost, alături de Denis Diderot, inițiator și editor al Enciclopediei , care conține idei progresiste, fiind unul din factorii pregătitori ai Revoluției franceze.
+D'Alembert s-a născut la Paris, pe data de 16 noiembrie 1717. Era fiul nelegitim al scriitoarei Claudine Guérin de Tencin și al cavalerului Louis-Camus Destouches, ofițer de artilerie. 
+La câteva zile după naștere, a fost abandonat de către mama sa, o servitoare a acesteia depunându-l pe scările capelei Saint Jean le Rond . După obiceiul timpului, a fost botezat cu numele sfântului protector al acelei capele - Jean le Rond.
+A fost plasat la „așezământul copiilor găsiți”, dar tatăl său  l-a luat de acolo și l-a încredințat spre adopție unei familii modeste din Paris. Cu toate că nu l-a recunoscut niciodată oficial, cavalerul Destouches a vegheat la educația copilului, i-a acordat o pensie viageră și l-a vizitat din când în când.
+La vârsta de doisprezece ani, D'Alembert a fost admis să urmeze cursurile „Colegiului celor patru națiuni” . A fost un elev eminent, obținând bacalaureatul în arte. A urmat apoi cursurile „Școlii de Drept”, unde s-a înscris sub numele de Daremberg, pe care l-a schimbat apoi în D’Alembert, nume pe care îl va păstra pentru tot restul vieții sale.
+În 1739, D'Alembert a prezentat la Academia Franceză de Științe, prima sa lucrare științifică în domeniul matematicilor, cu privire la erorile pe care le descoperise în „l’Analyse démontrée”, publicată în 1708 de către Charles-René Reynaud .
+În 1742, la vârsta de 24 de ani, a fost numit asistent la secția de astronomie a Academiei de Științe . În 1743 a publicat faimosul său „Traité de Dynamique” , acesta fiind considerat de către specialiști treapta din istoria mecanicii ce face legătura între contribuțiile lui Newton și cele ale lui Lagrange.
+La 28 de ani  a fost ales ca membru al Academiei de științe din Berlin 11 , iar în 1748 membru al Royal Society 12 .
+Prieten cu Voltaire și implicându-se constant în pasionatele controverse ale perioadei iluminismului, D'Alembert frecventa în mod regulat și principalele saloane pariziene, ca cele ale Mariei-Therese Geoffrin, Marie du Deffand, Julie de Lespinasse. Acolo l-a cunoscut pe Denis Diderot, în 1746. În anul următor, ei au pus bazele proiectului Enciclopediei. În 1751, după cinci ani de muncă, la care au participat mai mult de două sute de contribuitori voluntari, a apărut primul volum al Enciclopediei, prefața acesteia  fiind scrisă de către D'Alembert.
+În 1754, D'Alembert a fost ca membru al Academiei franceze, al cărei secretar permanent a devenit la 9 aprilie 1772.
+A continuat să scrie numeroase lucrări științifice și filosofice până la moartea sa, survenită la 29 octombrie 1783. În discursul funebru ținut cu această ocazie la Academia Franceză, noul secretar al acestei prestigioase instituții, Marchizul de Condorcet, a elogiat întreaga activitate a lui D'Alembert, subliniind îndeosebi contribuțiile sale la dezvoltarea științelor exacte.
+Împreună cu Denis Diderot, D'Alembert a fost inițiatorul și editorul principal al Enciclopediei.
+În 1745, D’Alembert, care era deja membru al Academiei de științe, a fost însărcinat să traducă din limba engleză în franceză Cyclopaedia lui Ephraïm Chambers. Pornind de la o simplă traducere, acest proiect s-a transformat în redactarea unei opere originale și unice pentru acea perioadă: Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers.
+D’Alembert a scris celebrul Discours préliminaire , precum și cea mai mare parte a articolelor având subiecte științifice  - circa 1700 articole, semnate cu pseudonimul „O”. 13  Nivelul său de participare la dezvoltarea Enciclopediei a scăzut însă după anul 1762.
+Una dintre cele mai remarcabile contribuții ale lui D'Alembert în algebră este Teorema lui D'Alembert , publicată în tratatul său „Traité de dynamique”. Această teoremă 
+afirmă că orice polinom de grad n cu coeficienți numere complexe are exact n rădăcini în corpul numerelor complexe 
+  
+    
+      
+        
+          C
+        
+      
+    
+     }
+  
+ . Această teoremă a fost complet demonstrată abia în secolul al XIX-lea de către Carl Friedrich Gauss, care a identificat unele erori în demonstrația originală dată de d'Alembert.
+În 1750, a adus o contribuție esențială în noțiunea generală a numerelor iraționale.
+O altă contribuție importantă, în analiza matematică, o constituie crearea, în 1768, a teoriei seriilor divergente, completată și dezvoltată ulterior de alți matematicieni.
+În acest sens, „Criteriul raportului ” pentru convergența seriilor numerice se enunță astfel:
+Fie 
+  
+    
+      
+         
+        
+          u
+          
+            n
+          
+        
+      
+    
+    }
+  
+ o seriie numerică cu termeni strict pozitivi pentru care raportul 
+  
+    
+      
+        
+          
+            
+              u
+              
+                n
+                +
+                1
+              
+            
+            
+              u
+              
+                n
+              
+            
+          
+        
+      
+    
+    }{u_}}
+  
+ tinde către limita 
+  
+    
+      
+        L
+         
+        0
+      
+    
+    
+  
+. Atunci:
+D'Alembert s-a ocupat și de rezolvarea sistemelor de ecuații diferențiale și a dat pentru prima dată demonstrația existenței factorului integrant, a redus rezolvarea ecuației diferențiale liniare neomogene de ordinul n cu coeficienți constanți la rezolvarea a n ecuații diferențiale simultane.
+A avut o contribuție importantă în trigonometria sferică și în teoria probabilităților.
+D'Alembert a studiat „problema celor trei corpuri” și a echinocțiilor, într-un memoriu referitor la precesia echinocțiilor, publicat în 1749. Acest fenomen astronomic, a cărui perioadă este de aproximativ 26000 de ani , fusese observat și descris de către marele astronom al antichității Hiparh, dar o explicație științifică nu fusese încă găsită. Newton sugerase că o cauză a acestui fenomen constă în acțiunea forțelor de gravitație asupra corpurilor care nu sunt perfect sferice . D'Alembert a reușit să efectueze calculele necesare și să obțină rezultate numerice în concordanță cu observațiile astronomice.
+Tot D'Alembert este și cel care a făcut să progreseze dificila problemă astronomică referitoare la
+explicația mișcării lunii. În acest sens, el este un precursor al Mecanicii celeste a lui Laplace.
+De asemenea, D'Alembert a lucrat la problema de aberațiilor cromatice, care limitau acuratețea lunetelor astronomice, problemă abordată la concurență cu Alexis Clairaut și Leonhard Euler. El a propus suprapunerea mai multor lentile, având forme diverse și coeficienți de refracție diferiți. A obținut, de asemenea, și rezultate în cazul problemei aberațiilor de sfericitate. 14 
+Prin studiul ecuațiilor diferențiale ale dinamicii, D'Alembert a creat edificiul monumental al mecanicii clasice.
+De asemenea, utilizând mecanica newtoniană, a pus bazele mecanicii cerești.
+În 1743 D'Alembert a publicat celebrul său „Tratat de dinamică” , în care, printre altele, a enunțat principiul cantității de mișcare, cunoscut și sub numele de „principiul lui D'Alembert”. Acest principiu, utilizat mai apoi de către Joseph-Louis Lagrange în dezvoltarea mecanicii analitice, se poate formula astfel: „cantitatea de mișcare a unui sistem izolat de puncte materiale se conservă”. 15  16 
+Fie P un sistem finit de puncte materiale, supus unor forțe externe, dar neglijându-se forțele de frecare.
+Se definește ca deplasare virtuală 
+  
+    
+      
+         
+        
+          
+            
+              r
+               
+            
+          
+        
+      
+    
+    }}
+  
+ a sistemului, o deplasare  instantanee și infinitesimală a punctelor din sistemul P sub acțiunea forțelor externe.
+Principiul lui D'Alembert afirmă că ansamblul forțelor externe aplicate sistemului conservă energia sistemului, rezultând numai deplasări virtuale:
+În lucrarea sa Recherches sur les cordes vibrantes , d'Alembert a dat prima formulare matematică a ecuației undelor ce se propagă într-un mediu omogen și izotrop, numită și în prezent „ecuația lui d'Alembert”, ca soluție a problemei coardei vibrante.
+Cea mai simplă formă a ecuației undelor poate fi scrisă astfel:
+unde 
+  
+    
+      
+         
+      
+    
+    
+  
+ este o mărime scalară sau vectorială, funcție de spațiu x și de timpul t, Δ fiind operatorul laplacian, iar c o mărime scalară pozitivă numită viteză de propagare sau celeritatea undei.
+D'Alembert poate fi considerat creatorul hidrodinamicii.
+A demonstrat paradoxul care îi poartă numele : în cazul unui fluid ideal , soluțiile ecuațiilor de mișcare indică faptul că acest fluid nu exercită nicio forță de rezistență asupra unui corp solid aflat în mișcare în interiorul fluidului . Dar acest rezultat este contrar celor observate experimental sau în natură. Abia după apariția teoriei fluidelor reale a fost rezolvat acest paradox, soluțiile ecuațiilor Navier–Stokes facilitând înțelegerea fenomenelor de viscozitate și de turbulență, care provoacă apariția forțelor de rezistență.
+D'Alembert a fost atras de filosofie încă din timpul studiilor sale de la „Colegiul celor patru națiuni” (Le Collège des Quatre-Nations) din Paris, unde exista o influență jansenistă. El era, de asemenea, interesat de studiul limbilor antice și de teologie (printre altele, el a scris un comentariu la Epistola lui Pavel către romani.
+După terminarea studiilor de la acest colegiu, el lasă în urmă preocupările teologice și se dedică preocupărilor din domeniul dreptului și din cel al matematicii. Totuși, din studiile sale timpurii, va păstra o tradiție carteziană care, integrată conceptelor filosofice newtoniene, va deschide calea pentru raționalismul științific modern.
+Proiectul Enciclopediei, la care a colaborat cu Denis Diderot și alți gânditori din acea vremea, i-a dat posibilitatea de a formaliza gândirea sa filosofică. Discursul preliminar la Enciclopedie , inspirat de filosofia empirică a lui John Locke, este adesea considerat ca un veritabil manifest al iluminismului. Acest manifest afirmă existența unei legături directe între progresul cunoașterii și a progresul social.
+D'Alembert a fost un filozof idealist și a criticat filozofia carteziană și societatea feudală, în special în ceea ce privește repartiția inechitabilă a bogăției în cadrul societății.
+Contemporan al „secolului luminilor”, determinist și ateu , D'Alembert, împreună cu  prietenul său Voltaire, a fost unul dintre protagoniștii luptei împotriva absolutismului religios și politic, pe care el l-a denunțat în numeroasele articole din domeniul filosofiei scrise pentru Enciclopedie.
+În lucrarea sa Philosophie expérimentale , D'Alembert definește filosofia astfel: „Filosofia nu este altceva decât aplicarea rațiunii la diversele obiecte asupra cărora ea poate fi exercitată”.
+Pe baza materialismului științific, a încercat să elaboreze principiile clasificării științelor și de a ajuta științele naturii  să sistematizeze și să generalizeze materialul pe care în acumulează.
+ • Descriptio antiqui et hodierni status Moldaviae — Descrierea stării de odinioară și de astăzi a Moldovei (Dimitrie Cantemir, scrisă între 1714 - 1716) • Historia moldo-vlachica — Istoria moldo-valahă, operă de erudiție despre originile românilor din Moldova, Muntenia și Transilvania, scrisă între 1714 și 1716, de Dimitrie Cantemir • Historia Incrementorum atque Decrementorum Aulae Othomanicae — Istoria creșterii și descreșterii Imperiului Otoman - (Dimitrie Cantemir, scrisă între 1714 - 1716, dar publicată prima dată la Londra, 1734 - 1735, în engleză) • Elementa linguae daco romanae sive valachicae (Samuil Micu-Klein și Gheorghe Șincai, 1780) • Istoria pentru începuturile românilor în Dacia — (Petru Maior, 1812, Budapesta) • Țiganiada sau Tabăra țiganilor (ediție definitivă de Jacques Byck, 1800-1812, prima epopee în limba română, Ioan Budai-Deleanu • De originibus populorum Transylvaniae — Despre originea popoarelor din Transilvania (Ioan Budai-Deleanu) • De unione trium nationum Transylvaniae — Despre unirea celor trei neamuri ale Transilvaniei (Ioan Budai-Deleanu) • 
+Iluminism •

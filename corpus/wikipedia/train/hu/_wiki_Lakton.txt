@@ -1,0 +1,13 @@
+Pontosságellenőrzött
+A laktonok gyűrűs  észterek. Jellemző csoportjuk az észterekével azonos: –O–CO–, amely a laktonok esetén a gyűrű része.
+Hidroxikarbonsavból származtathatók, és a gyakorlatban is előállíthatók így. A karboxilcsoport a lánc egyik végén, a hidroxilcsoport általában a lánc másik végéhez közel van. A két hidroxilcsoportból kilép egy vízmolekula, a maradék szén és oxigén összekapcsolódva zárja a gyűrűt.
+A nyílt láncú hidroxikarbonsavakból képzett laktonok szisztematikus neve
+A gyűrűzáródás helyét számmal vagy görög betűvel tüntetik fel. A karbonilcsoport szénatomja az 1-es, a szomszédos a 2-es vagy α, az azt követő a 3-as vagy β.
+A gyűrűs vegyületek között általában az 5 és 6 atomosak a legstabilabbak, vagyis a γ- és δ-laktonok.
+Az α-laktonok csak tömegspektrométeres kísérletekben, átmeneti vegyületként mutathatók ki.
+β-laktonok léteznek, de csak speciális módszerekkel állíthatók elő.
+A γ-laktonok annyira stabilak, hogy γ-hidroxi-karbonsavakból nyomban, spontán keletkeznek .
+Lúgos közegben , melegítés hatására a lakton visszaalakul az eredeti, nyílt láncú vegyületté. A folyamat megfordítható, és dinamikus egyensúly alakul ki. A nyílt láncú észterektől eltérően azonban az egyensúly itt a laktonképződés felé tolódik, ugyanis a laktonképződés molekulaszám-növekedéssel, és ennek következtében entrópianövekedéssel jár.
+A lakton lítium-alumínium-hidriddel  száraz éterben diollá  redukálható. Először az észterkötés bomlik fel, aztán a karboxilcsoport  redukálódik hidroxilcsoporttá .
+A legegyszerűbb hidroxi-karbonsav a tejsav. Hevítés és megfelelő katalizátor hatására dehidratálódik , és gyűrűs észter, dilaktid keletkezik belőle . E vegyületről nevezték el a gyűrűs észtereket laktonnak, bár a dilaktid két tejsavmolekulából keletkezik, a laktonok viszont egy hidroxi-karbonsavból.
+Ez a szócikk részben vagy egészben  a   Lactone című angol Wikipédia-szócikk fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel. Ez a jelzés csupán a megfogalmazás eredetét és a szerzői jogokat jelzi, nem szolgál a cikkben szereplő információk forrásmegjelöléseként.

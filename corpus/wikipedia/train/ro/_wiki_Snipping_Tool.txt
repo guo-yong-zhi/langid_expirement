@@ -1,0 +1,3 @@
+Snipping Tool este un software integrat in sistemul de operare Windows pentru capturare de screenshot. 
+Instrumentul a fost lansat pentru prima dată în 2002 ca PowerToy în Windows XP Tablet PC Edition.  3  Înainte de a deveni un tool standard la Windows Vista, acesta a fost din 2005 inclus în Experience Pack al Windows XP Tablet PC Edition. 
+Începând cu Windows 10, există o funcție suplimentară de "întârziere", care permite capturarea temporizată a capturilor de ecran. 4   5   

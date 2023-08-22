@@ -1,0 +1,12 @@
+Das Verfahren von Odlyzko und Schönhage liefert einen effizienten Algorithmus zur simultanen Berechnung von mehreren Werten der Riemannschen Zetafunktion. Dies ist besonders für die Berechnung der Nullstellen der Riemannschen Zetafunktion, aber auch für die Berechnung von 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+, der Anzahl der Primzahlen kleiner als n, von Bedeutung.
+Das Verfahren wurde 1988 von A. M. Odlyzko und A. Schönhage veröffentlicht und basiert auf der Riemann-Siegel-Formel von Riemann und Siegel und der Verwendung der schnellen Fourier-Transformation .

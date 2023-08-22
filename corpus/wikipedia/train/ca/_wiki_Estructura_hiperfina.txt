@@ -1,0 +1,136 @@
+L'estructura hiperfina és la divisió d’una línia espectral d'un àtom en diferents línies a causa de la interacció entre l'espín de l'electró i l'espín del nucli atòmic i només observable amb interferòmetres.
+La divisió no es pot observar en un espectroscopi normal sense l'ajut d'un dispositiu òptic anomenat interferòmetre. En l'estructura fina, la divisió de línia és el resultat dels canvis d’energia produïts per l’acoblament d’espín-òrbita d’electrons ; però en l'estructura hiperfina, la divisió de línies s'atribueix al fet que, a més del gir de l'electró en un àtom, el mateix nucli atòmic gira al voltant del seu propi eix. Els estats energètics de l’àtom es dividiran en nivells corresponents a energies lleugerament diferents. A cadascun d’aquests nivells d’energia se li pot assignar un nombre quàntic i, a continuació, s’anomenen nivells quantitzats. Així, quan els àtoms d’un element irradien energia, es fan transicions entre aquests nivells d’energia quantificats, donant lloc a una estructura hiperfina. 1 
+El nombre quàntic d'espín nuclear és zero per als nuclis de nombre atòmic parell i nombre màssic parell  i, per tant, no es troba l'estructura hiperfina a les seves línies espectrals. Protons i neutrons tenen espín ±1/2 i si un nombre parell de cadascun s'anul·len perquè formen parelles +1/2 i –1/2. Si el nombre màssic és imparell resulta un espín nuclear semienter, i si el nombre màssic és parell l'espín nuclear és sencer. 2  Els espectres de núclids que no tenen parells el nombre atòmic i el nombre màssic presenten una estructura hiperfina . 1 
+Observant l'estructura hiperfina, és possible calcular l'espín nuclear. Un efecte similar de la divisió de línies és causat per les diferències de massa  dels àtoms d’un element i s’anomena estructura d’isòtops o desplaçament d’isòtops. Aquestes línies espectrals de vegades es coneixen com a estructura hiperfina, però es poden detectar en un element amb isòtops d'espín zero . Poques vegades es veu l'estructura dels isòtops sense que l’acompanyi l'estructura hiperfina veritable. 1 
+L'estructura òptica hiperfina fou observada per primera vegada el 1882 pel físic estatunidenc Albert Abraham Michelson , a la Universitat de Clark a Worcester, Massachusetts, amb l'interferòmetre que havia dissenyat, estudiant la línia de longitud d'ona 535,1 nm, verda, del tal·li, que presenta dos isòtops naturals, el tal·li 203 i el tal·li 205. 3 
+Tot i això, no es pogué explicar en termes de la mecànica quàntica fins al 1924, quan el físic austríac Wolfgang Pauli  proposà l'existència d’un petit moment magnètic nuclear. 4  5  Aquesta proposta tenia l'objectiu d’explicar l’observació, uns mesos abans, de l'estructura hiperfina del mercuri i del bismut per part dels físics japonesos Hantarō Nagaoka , Y. Sugiura i T. Mishima. 6  El 1927, el físic neerlandès Samuel Goudsmit  i Ernst Back  realitzaren un estudi detallat de l'estructura hiperfina del bismut. 7  Aquesta proposta de Pauli possibilità comprendre l'estructura dels espectres de ressonància nuclear sobre la base de la teoria de la interacció dels petits moments multipolars nuclears amb els camps magnètics i elèctrics generats internament. 3 
+El 1935, Hermann Schüler  i Theodor Schmidt  proposaren l'existència d'un moment quadripolar nuclear per explicar les anomalies observades a l'estructura hiperfina. 8 
+L'estat fonamental de l'hidrogen l'1s, es troba lleugerament escindit en dos subnivells per la interacció entre l'espín de l'electró i l'espín nuclear. A causa de les propietats quàntiques de la radiació, l'hidrogen en el seu estat inferior absorbeix 1420 MHz i l'observació de 1420 MHz en emissió implica una prèvia excitació a l'estat superior. Aquestes freqüències corresponen a fotons de longitud d'ona de 21,106 cm. 9 
+Aquesta escissió de l'estat fonamental de l'hidrogen és extremadament petita, 5,9 × 10–6 eV o 5,9 μeV, en comparació amb l'energia de l'estat fonamental de –13,6 eV. Els dos estats provenen del fet que tant l'espín de l'electró com l'espín nuclear valen ±1/2, de manera que hi ha dos estats possibles, un amb els espins paral·lels  i l'altre amb els espins antiparal·lels . L'estat amb els espins paral·lels és lleugerament més elevat en energia . 9 
+En visualitzar la transició com una inversió d'espín, cal tenir en compte que la propietat quàntica anomenada «espín» no és literalment una esfera de càrrega elèctrica clàssica girant. És una descripció del comportament del moment angular quàntic i no té una analogia clàssica definitiva. 9 
+Per a àtoms diferents de l’hidrogen, l'espín nuclear 
+  
+    
+      
+        
+          
+            
+              I
+               
+            
+          
+        
+      
+    
+    }}
+  
+ i el moment angular electrònic total 
+  
+    
+      
+        
+          
+            
+              J
+               
+            
+          
+        
+        =
+        
+          
+            
+              L
+               
+            
+          
+        
+        +
+        
+          
+            
+              S
+               
+            
+          
+        
+      
+    
+    }=+}
+  
+  s’acoblen, donant lloc al moment angular total 
+  
+    
+      
+        
+          
+            
+              F
+               
+            
+          
+        
+        =
+        
+          
+            
+              J
+               
+            
+          
+        
+        +
+        
+          
+            
+              I
+               
+            
+          
+        
+      
+    
+    }=+}
+  
+. 10 
+Com que la divisió hiperfina és molt petita, les freqüències de transició no solen ser òptiques, sinó en el rang de freqüències de ràdio o microones. L'estructura hiperfina dona la línia de longitud d'ona 21 cm, freqüència 1420 MHz, observada a la regió H I en el medi interestel·lar. L'observació de la línia de 21 cm de l'hidrogen marcà el naixement de la radioastronomia de línies espectrals. Fou estudiada per primera vegada el 1951 pels físics estatunidencs Harold I. Ewen  i Edward M. Purcell  de la Universitat Harvard, seguits ben aviat per observadors dels Països Baixos i d'Austràlia. La predicció que la línia de 21 cm hauria de ser observable en emissió la fe el 1944 l'astrònom neerlandès Hendrik C. van de Hulst . 11 En radioastronomia, els receptors superheterodins s’empren àmpliament en la detecció dels senyals electromagnètics d’objectes celestes. Les separacions entre diversos components d'una estructura hiperfina solen ser prou petites per encabir-les a la banda de freqüència intermèdia del receptor. Com que la profunditat òptica varia amb la freqüència, les relacions de força entre els components hiperfins difereixen de la de les seves intensitats intrínseques. D’aquí podem derivar els paràmetres físics de l’objecte. 10 
+Els astrònoms estatunidencs Carl Sagan  i Frank Drake  consideraren que la transició hiperfina de l’hidrogen era un fenomen prou universal per poder ser utilitzat com a unitat base de temps i longitud a la placa de les Pioneer, les sondes Pioneer 10 i Pioneer 11, llançades el 1972 i 1973 respectivament, per enviar un missatge a possibles civilitzacions extraterrestres que trobassin aquestes sondes. Posteriorment, també es gravà al disc d'or de les Voyager, llançades el 1977 . 10 
+El procés AVLIS, acrònim de l'anglès Atomic Vapor Laser Isotope Separation  fa servir la divisió hiperfina entre transicions òptiques en urani 235 i urani 238 per fotoionitzar selectivament només els àtoms d’urani 235 i després separar les partícules ionitzades de les no ionitzades. Els làsers de tint sintonitzats precisament s’usen com a fonts de la radiació de longitud d’ona exacta necessària. 10 
+La transició d’estructura hiperfina es pot fer servir per fabricar rellotges atòmics molt precisos. Normalment, la freqüència de transició de l'estructura hiperfina d’un determinat isòtop d’àtoms de cesi o rubidi s’empra com a base d’aquests rellotges. L'isòtop més emprat és el cesi 133 i s'empra l'estructura hiperfina del darrer electró, el que ocupa l'orbital 6s. En aquest àtom l'espín nuclear val 7/2, i la transició emet o absorbeix un fotó de 3,26 cm de longitud d'ona, en la regió de les microones. 12 
+A causa de la precisió dels rellotges atòmics basats en la transició d’estructures hiperfines, ara es fan servir com a base per a la definició del segon. Ara es defineix que un segon a partir de la freqüència de transició de l'estructura hiperfina dels àtoms de cesi 133, que val exactament ΔfCs = 9 192 631 770 Hz . El segon es defineix com: 13 
+  
+    
+      
+        1
+        s
+        =
+        
+          
+            
+              9
+              
+              192
+              
+              631
+              
+              770
+            
+            
+               
+              
+                f
+                
+                  C
+                  s
+                
+              
+            
+          
+        
+      
+    
+    }
+  
+Des del 1983, el metre es defineix basant-se en el valor exacte la velocitat de la llum en el buit el qual valor és exactament de 299 792 458 m/s. Així: El metre és la longitud del recorregut de la llum al buit durant un interval de temps d'1/299 792 458 s. 14 
+La divisió hiperfina en l'hidrogen i en el muó s’ha utilitzat per mesurar el valor de la constant d’estructura fina α. La comparació amb mesures d'α en altres sistemes físics proporciona una prova estricta de l'electrodinàmica quàntica, la teoria quàntica del camp electromagnètic, part de la teoria quàntica de camps. 10 
+Els estats hiperfins d’un ió atrapat s’usen habitualment per emmagatzemar qbits en ordinadors quàntics d’ions atrapats. Tenen l'avantatge de tenir una vida molt llarga, que supera experimentalment ~ 10 min . La freqüència associada a la separació d'energia dels estats es troba a la regió de microones, cosa que permet conduir transicions hiperfines mitjançant la radiació de microones. No obstant això, actualment no hi ha cap emissor disponible que pugui enfocar-se per dirigir un ió concret d'una seqüència. En canvi, es poden utilitzar un parell de polsos làser per impulsar la transició, tenint la seva diferència de freqüència  igual a la freqüència de transició requerida. Aquesta és essencialment una transició Raman estimulada. 10 

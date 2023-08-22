@@ -1,0 +1,5 @@
+Delta Disk je disketová jednotka pro počítač Sinclair ZX Spectrum vyráběná v Česku. Objevila se v roce 2000. 1  Na rozdíl od disketového řadiče MB02 je Delta Disk včetně dvou disketových mechanik a napájecího zdroje umístěný v jedné jednotce. 2  3 
+K počítači se disketová jednotka připojuje prostřednictvím interface, který obsahuje průchozí sběrnici. Operační systém je obsažen v 32 KiB ROM. Disketová jednotka používá svoji vlastní paměť RAM, takže pro svoje potřeby nevyužívá žádnou část paměti počítače. Velikost paměti RAM je 8 KiB, disketová jednotka z ní využívá asi 1 KiB, zbývající část může využít uživatel pro své programy. 4 
+Disketová jednotka se z Basicu ovládá pomocí následujících příkazů: 5 
+Charakteristiky disketové jednotky jsou: 4 
+Pro stránkování paměti disketová jednotka používá port 247. 5 

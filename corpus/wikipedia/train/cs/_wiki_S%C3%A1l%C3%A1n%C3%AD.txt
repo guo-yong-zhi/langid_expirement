@@ -1,0 +1,5 @@
+Sálání  je fyzikální proces, při kterém látka emituje do prostoru energii ve formě elektromagnetického záření. Na rozdíl od přenosu tepla vedením nebo prouděním se může prostřednictvím sálání teplo přenášet i ve vakuu, tzn. bez zprostředkování přenosu látkovým prostředím.
+Energie, která je sáláním vyzařována, závisí na několika faktorech:
+Teoreticky se sáláním zabývá termodynamika záření a statistická fyzika fotonového plynu. Důležitými zákony jsou zejména:
+Tepelné záření v obecném smyslu je totožné se sáláním, tedy vyzařováním celého elektromagnetického spektra. Z termodynamického hlediska jde o tepelný přenos při jakékoli vlnové délce.
+V užším smyslu se tím rozumí infračervené záření, nebo záření trochu užšího intervalu vlnových délek 0,7–10 μm, které odpovídají maximům elektromagnetického vyzařování teplých těles a je i smyslově pociťované jako teplé. Naopak, někdy se v zobecněném smyslu používá pojem tepelné záření i pro vyzařování hmotných částic , např. v astrofyzice pro kvantové vyzařování černých děr.

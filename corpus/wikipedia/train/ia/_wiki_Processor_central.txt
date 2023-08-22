@@ -1,0 +1,4 @@
+ 
+Un processor central, o unitate processante central , es le "cerebro" de un computator o altere apparato electronic qui functiona a base de technologia informatic; iste mechanismo executa serialmente le instructiones de un programma, obtenente los del memoria operative.
+Le processatores central se divide in classes indicate per numero de bits; iste numero indica le largor del parola, i.e. le quantitate de datos processabile con un singule cyclo del processor.
+Actualmente existe duo "familias" principal de processores:

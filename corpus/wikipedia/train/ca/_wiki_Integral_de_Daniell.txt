@@ -1,0 +1,527 @@
+Una de les principals dificultats que té la definició de la integral de Lebesgue és que, abans que es pugui obtenir cap resultat útil amb la integral, cal haver desenvolupat tota una teoria de la mesura. Ara bé, hi ha disponible un enfocament alternatiu, desenvolupat per en Percy Daniell en el seu article de 1918 "A general form of integral"   que no pateix aquesta deficiència, i té alguns avantatges significatius sobre la formulació tradicional, especialment quan la integral es generalitza a espais de més dimensions i altres generalitzacions com ara la integral de Stieltjes. La idea bàsica implica l'axiomatització de la integral.
+Per axiomatitzar la integral, es comença per triar una família 
+  
+    
+      
+        H
+      
+    
+    
+  
+ de funcions reals fitades  definides sobre algun conjunt 
+  
+    
+      
+        X
+      
+    
+    
+  
+, que satisfà aquests dos axiomes:
+1. 
+  
+    
+      
+        H
+      
+    
+    
+  
+ és un espai lineal amb les operacions usuals de suma i producte per un escalar.
+2. Si una funció 
+  
+    
+      
+        h
+        
+      
+    
+    
+  
+ pertany a 
+  
+    
+      
+        H
+      
+    
+    
+  
+, també hi pertany el seu valor absolut 
+  
+    
+      
+        
+          |
+        
+        h
+        
+        
+          |
+        
+      
+    
+    
+  
+.
+Addicionalment, a cada funció h de H se li assigna un nombre real 
+  
+    
+      
+        I
+        h
+      
+    
+    
+  
+, que es diu la integral elemental de h, i que ha de satisfer aquest tres axiomes:
+1. Linealitat. Si h i k pertanyen les dues a H, i 
+  
+    
+      
+         
+      
+    
+    
+  
+ i 
+  
+    
+      
+         
+      
+    
+    
+  
+ són dos nombres reals, llavors 
+  
+    
+      
+        I
+        
+        =
+         
+        I
+        h
+        +
+         
+        I
+        k
+      
+    
+    
+  
+.
+2. No negativitat. Si 
+  
+    
+      
+        h
+        
+         
+        0
+      
+    
+    
+  
+, llavors 
+  
+    
+      
+        I
+        h
+         
+        0
+      
+    
+    
+  
+.
+3. Continuïtat. Si 
+  
+    
+      
+        
+          h
+          
+            n
+          
+        
+        
+      
+    
+    }
+  
+ és una successió no creixent  de funcions de 
+  
+    
+      
+        H
+      
+    
+    
+  
+ que convergeix a 0 per a tot 
+  
+    
+      
+        x
+      
+    
+    
+  
+ de 
+  
+    
+      
+        X
+      
+    
+    
+  
+, llavors 
+  
+    
+      
+        I
+        
+          h
+          
+            n
+          
+        
+         
+        0
+      
+    
+    \to 0}
+  
+.
+ amb les que normalment es diu funcions elementals que designen aquelles funcions que es poden construir a partir d'exponencials, logaritmes, constants, arrels i funcions trigonomètriques, combinades entre elles amb la composició de funcions i les operacions de suma i multiplicació)
+Això és, es defineix un funcional lineal continu definit positiu 
+  
+    
+      
+        I
+      
+    
+    
+  
+ sobre l'espai de les funcions elementals.
+Aquestes funcions elementals i les seves integrals elementals, poden ser qualsevol conjunt de funcions i definicions d'integrals sobre aquestes funcions, que satisfacin aquests axiomes. La família de les funcions esglaonades evidentment satisfà els axiomes de funcions elementals. Definint la integral elemental de la família de funcions esglaonades com l'àrea  davall de la funció esglaonada, evidentment se satisfan els axiomes d'integral elemental. Llavors si s'aplica la construcció de la integral de Daniell tal com es descriurà més avall s'obté una definició de la integral que és equivalent a la integral de Lebesgue. També és possible fer servir la família de totes les funcions contínues com a funcions elementals i la integral de Riemann tradicional com a integral elemental, ara bé, això porta a una integral que també és equivalent a la definició de Lebesgue. Si es fa el mateix, però emprant la integral de Riemann-Stieltjes, conjuntament amb una funció adequada de variació fitada, s'obté una definició de la integral equivalent a la integral de Lebesgue-Stieltjes.
+Es poden definir conjunts de mesura zero en termes de funcions elementals tal com segueix. Un conjunt 
+  
+    
+      
+        Z
+      
+    
+    
+  
+ que és un subconjunt de 
+  
+    
+      
+        X
+      
+    
+    
+  
+ és un conjunt de mesura zero si per qualsevol 
+  
+    
+      
+         
+        >
+        0
+      
+    
+    
+  
+, existeix una successió no decreixent de funcions elementals no negatives 
+  
+    
+      
+        
+          h
+          
+            p
+          
+        
+        
+      
+    
+    }
+  
+ de H tal que 
+  
+    
+      
+        I
+        
+          h
+          
+            p
+          
+        
+        <
+         
+      
+    
+    <\epsilon }
+  
+ i 
+  
+    
+      
+        
+          sup
+          
+            p
+          
+        
+        
+          h
+          
+            p
+          
+        
+        
+         
+        1
+      
+    
+    h_
+  
+ en 
+  
+    
+      
+        Z
+      
+    
+    
+  
+.
+Es diu que un conjunt A és de mesura completa si el seu complementari, respecte de 
+  
+    
+      
+        X
+      
+    
+    
+  
+, és un conjunt de mesura zero. Es diu que si una propietat es compleix a tots els punts d'un conjunt de mesura completa , llavors es diu que la propietat es compleix quasi per a tot.
+A partir d'aquí es pot passar a definir una classe més ampla de funcions, basada en les funcions elementals que s'han triat, la classe 
+  
+    
+      
+        
+          L
+          
+            +
+          
+        
+      
+    
+    }
+  
+, que és la família de totes les funcions que són el límit de successions no decreixents 
+  
+    
+      
+        
+          h
+          
+            n
+          
+        
+      
+    
+    }
+  
+ de funcions elementals quasi per a tot, de forma que el conjunt d'integrals 
+  
+    
+      
+        I
+        
+          h
+          
+            n
+          
+        
+      
+    
+    {\displaystyle Ih_
+  
+ és fitat. La integral d'una funció 
+  
+    
+      
+        f
+      
+    
+    
+  
+ de 
+  
+    
+      
+        
+          L
+          
+            +
+          
+        
+      
+    
+    }
+  
+ es defineix com:
+Es pot demostrar que aquesta definició de la integral és ben definida, és a dir no depèn de la tria de la successió 
+  
+    
+      
+        
+          h
+          
+            n
+          
+        
+      
+    
+    }
+  
+.
+Ara bé, la classe 
+  
+    
+      
+        
+          L
+          
+            +
+          
+        
+      
+    
+    }
+  
+ en general no és tancada sota la subtracció i la multiplicació escalar per nombres negatius, però després es pot estendre a base de definir una classe més ampla de funcions 
+  
+    
+      
+        L
+      
+    
+    
+  
+ tals que cada funció 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ es pot representar en un conjunt de mesura completa com la diferència 
+  
+    
+      
+         
+        =
+        f
+         
+        g
+      
+    
+    
+  
+, per unes funcions 
+  
+    
+      
+        f
+      
+    
+    
+  
+ i 
+  
+    
+      
+        g
+      
+    
+    
+  
+ triades adequadament, de la classe 
+  
+    
+      
+        
+          L
+          
+            +
+          
+        
+      
+    
+    }
+  
+. Llavors la integral d'una funció 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ es pot definir com:
+Altre cop, es pot demostrar que la integral està ben definida, és a dir, no depèn de la descomposició de 
+  
+    
+      
+         
+      
+    
+    
+  
+ en 
+  
+    
+      
+        f
+      
+    
+    
+  
+ i 
+  
+    
+      
+        g
+      
+    
+    
+  
+. Aquesta és la construcció definitiva de la integral de Daniell.
+Pràcticament tots els teoremes importants de la teoria tradicional de la integral de Lebesgue, com ara el teorema de la convergència dominant de Lebesgue, el teorema de Riesz-Fischer, el lemma de Fatou, i el teorema de Fubini també es poden demostrar emprant aquesta construcció. Les seves propietats són idèntiques a les de la integral de Lebesgue tradicional.
+Degut a la correspondència natural entre conjunts i funcions, és possible utilitzar la integral de Daniell per a construir una teoria de la mesura. Si s'agafa la funció característica 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ d'un conjunt donat, llavors la seva integral es pot agafar com la mesura del conjunt. Es pot demostrar que aquesta definició de la mesura basada en la integral de Daniell és equivalent a la tradicional mesura de Lebesgue.
+Aquest mètode de construir la integral general, té uns quants avantatges sobre el mètode tradicional de Lebesgue, en particular en el camp de l'anàlisi funcional. Les integrals de Lebesgue i de Daniell són equivalents, tal com s'ha senyalat més amunt, si es fan servir com a funcions elementals funcions esglaonades ordinàries amb valors finits. Ara bé, quant es prova d'estendre la definició d'integral a dominis més complexes (per exemple en intentar definir la integral d'un funcional lineal)), es cau en dificultats pràctiques en emprar la definició de Lebesgue que queden alleujades amb l'enfocament de Daniell.

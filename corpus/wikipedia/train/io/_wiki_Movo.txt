@@ -1,0 +1,1 @@
+Movo esas fizikala vario di la pozeso di ula objekto dum la tempo. Movo ordinare deskriptesas segun rapideso, acelero, diplaso e tempo. 1  Movo observesas da ligita referopunto a korpo e mezuranta la chanjo di lua pozeso relate altra referopunto.

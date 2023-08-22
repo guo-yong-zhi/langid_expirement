@@ -1,0 +1,10 @@
+Autodesk Tinkercad je bezplatný online 3D modelovací program, který běží ve webovém prohlížeči. 1  Od roku 2011, kdy byl zveřejněn, se stal oblíbenou platformou pro vytváření modelů pro 3D tisk a také základním programem pro modelování geometrických těles ve školách. V Tinkercadu můžete začít modelovat bez toho, abyste měli nějaké předchozí zkušenosti s profesionálními CAD softwary pro inženýry. Pro vyučující nabízí Tinkercad správu školních tříd, výukové materiály a ukázkové modely. 2 
+Autory původního Tinkercadu byli Kai Backman a Mikko Mononen. Aplikace byla představena v roce 2011 a podporovala tehdy nově uváděné web prohlížeče podporující WebGL. V roce 2013 byl Tinkercad odkoupen společností Autodesk. Ta do něj postupně migrovala uživatele a funkce svých obdobných nástrojů 123D  a 123D Circuits .
+V současné době využívá Tinkercad již přes 50 milionů uživatelů, kteří vytvořili přes 400 milionů návrhů.
+Tinkercad především nabízí funkce pro 3D modelování - vkládání přednastavených tvarů, import vlastních modelů , jejich následné editace, kombinace, zadávání přesných rozměrů, apod. Obsahuje rozsáhlou knihovnu modelů a elektronických součástí.
+V modulu Circuits (Obvody) můžete navrhovat elektronické obvody, včetně zapojení konkrétních součástek (od baterií, nebo třeba citronu, až po LEDky, tranzistory, integrované obvody nebo Arduino. Můžete ale i simulovat chování těchto obvodů a programovat je.
+Základy psaní programového kódu si lze osvojit také v modulu vizuálního programovacího prostředí CodeBlocks, nebo pomocí generátoru tvarů v jazyce JavaScript.
+Modul Sim Lab je jednoduchý fyzikální simulátor – např. simulátor gravitace využívající vlastnosti různých materiálů. 3 
+LEGO režim Bricks v Tinkercadu je nástroj, kterým převedete váš 3D návrh na model jakoby sestavený z kostiček LEGA. 4 
+3D modely z TinkerCADu lze přenášet do profesionální CAD/CAM aplikace Autodesk Fusion 360. Pomocí aplikace Tinkercad na iPadu můžete snadno převádět vaše návrhy do prostředí rozšířené reality .
+V tomto článku byl použit překlad textu z článku Tinkercad na anglické Wikipedii.

@@ -1,0 +1,42 @@
+ 
+Un algorithmo de recerca es un algorithmo que es designate pro localisar un elemento con certe proprietates intra un structura de datos; per exemplo, trovar le registro correspondente a certe persona in un base de datos, o le melior movimento in un partita de chacos.
+Le variante plus simple del problema es le recerca de un numero in un vector.
+On lo utilisa quando le vector non se trova ordinate o non pote esser ordinate previemente. Illo consiste in cercar le elemento comparante lo sequentialmente  con cata elemento del arrangiamento usque trovar lo, o usque que illo arriva al fin. On pote fixar le existentia quando le elemento es localisate, sed nos non pote fixar le non existentia sin haber analysate tote le elementos del arrangiamento. Infra es monstrate le pseudocodice del algorithmo:
+  Datos de entrata: 
+  vec: vector in que on vole cercar le dato  
+  tam: mesura del vector. Le subindices valide va de 0 usque tam-1 inclusive.
+  dato: elemento que on vole cercar.
+ Variabiles 
+  pos: position actual in le arrangiamento
+pos = 0
+durante_que pos < tam:
+ Si vec == dato retornar  ver  e/o  pos , alteremente:
+ pos = pos + 1
+Fin 
+Retornar  false ,
+  Datos de entrata: 
+  vec: vector in le qual on vole cercar le dato
+  tam: mesura del vector. Le subindices valide va de 0 usque tam-1 inclusive.
+  dato: elemento que on vole cercar.
+ Variabiles 
+  centro: subindice central del intervallo
+  inf: limite inferior del intervallo
+  sup: limite superior del intervallo
+inf = 0
+sup = tam-1
+ durante_que inf <= sup:
+  centro =  / 2) + inf // Division integre: se trunca le fraction
+  Si vec == dato retornar  ver  e/o  pos , alteremente:
+   Si dato < vec alora:
+    sup = centro - 1
+   In caso contrari:
+    inf = centro + 1
+Fin 
+Retornar  false 
+ #include <iostream>
+#include <vector>
+ bool recerca_dychotomicelse res = false;
+    return res;
+}
+/**/
+</pr

@@ -1,0 +1,650 @@
+Der Unicodeblock Lateinisch, erweitert-E  enthält lateinische Schriftzeichen, die unter anderem in der deutschen Dialektologie verwendet werden.
+Alle Zeichen haben die bidirektionale Klasse „Links nach rechts“.
+Basis-Lateinisch •
+Lateinisch-1, Ergänzung •
+Lateinisch, erw.-A •
+Lateinisch, erw.-B •
+IPA-Erweiterungen •
+Spacing Modifier Letters •
+Kombinierende diakritische Zeichen •
+Griechisch und Koptisch •
+Kyrillisch •
+Kyrillisch, Ergänzung •
+Armenisch •
+Hebräisch •
+Arabisch •
+Syrisch •
+Arabisch, Ergänzung •
+Thaana •
+N’Ko •
+Samaritanisch •
+Mandäisch •
+Syrisch, Ergänzung •
+Arabisch, erw.-B •
+Arabisch, erw.-A •
+Devanagari •
+Bengalisch •
+Gurmukhi •
+Gujarati •
+Oriya •
+Tamilisch •
+Telugu •
+Kannada •
+Malayalam •
+Singhalesisch •
+Thailändisch •
+Laotisch •
+Tibetisch •
+Birmanisch •
+Georgisch •
+Hangeul-Jamo •
+Äthiopisch •
+Äthiopisch, Zusatz •
+Cherokee •
+Vereinh. Silbenz. kanad. Ureinw. •
+Ogam •
+Runen •
+Tagalog •
+Hanunóo •
+Buid •
+Tagbanuwa •
+Khmer •
+Mongolisch •
+Vereinh. Silbenz. kanad. Ureinw., erw. •
+Limbu •
+Tai Le •
+Neu-Tai-Lue •
+Khmer-Symbole •
+Buginesisch •
+Lanna •
+Kombinierende diakritische Zeichen, erw. •
+Balinesisch •
+Sundanesisch •
+Batak •
+Lepcha •
+Ol Chiki •
+Kyrillisch, erw.-C •
+Georgisch, erweitert •
+Sundanesisch, Ergänzung •
+Vedische Erweiterungen •
+Phonetische Erweiterungen •
+Phonetische Erweiterungen, Ergänzung •
+Kombinierende diakritische Zeichen, Ergänzung •
+Lateinisch, weiterer Zusatz •
+Griechisch, Zusatz •
+Allgemeine Interpunktion •
+Hoch- und tiefgestellte Zeichen •
+Währungszeichen •
+Kombinierende diakritische Zeichen für Symbole •
+Buchstabenähnliche Symbole •
+Zahlzeichen •
+Pfeile •
+Mathematische Operatoren •
+Verschiedene technische Zeichen •
+Symbole für Steuerzeichen •
+Optische Zeichenerkennung •
+Umschlossene alphanum. Zeichen •
+Rahmenzeichnung •
+Blockelemente •
+Geometrische Formen •
+Verschiedene Symbole •
+Dingbats •
+Verschiedene mathem. Symbole-A •
+Zusätzliche Pfeile-A •
+Braille-Zeichen •
+Zusätzliche Pfeile-B •
+Verschiedene mathem. Symbole-B •
+Zusätzliche mathem. Operatoren •
+Verschiedene Symbole und Pfeile •
+Glagolitisch •
+Lateinisch, erw.-C •
+Koptisch •
+Georgisch, Ergänzung •
+Tifinagh •
+Äthiopisch, erweitert •
+Kyrillisch, erw.-A •
+Zusätzliche Interpunktion •
+CJK-Radikale, Ergänzung •
+Kangxi-Radikale •
+Ideographische Beschreibungszeichen •
+CJK-Symbole und -Interpunktion •
+Hiragana •
+Katakana •
+Bopomofo •
+Hangeul-Jamo, Kompatibilität •
+Kanbun •
+Bopomofo, erweitert •
+CJK-Striche •
+Katakana, Phonetische Erweiterungen •
+Umschlossene CJK-Zeichen und -Monate •
+CJK-Kompatibilität •
+Vereinh. CJK-Ideogramme, Erw. A •
+I-Ging-Hexagramme •
+Vereinh. CJK-Ideogramme •
+Yi-Silbenzeichen •
+Yi-Radikale •
+Lisu •
+Vai •
+Kyrillisch, erw.-B •
+Bamum •
+Modifizierende Tonzeichen •
+Lateinisch, erw.-D •
+Syloti Nagri •
+Allgemeine indische Ziffern •
+Phagspa •
+Saurashtra •
+Devanagari, erw. •
+Kayah Li •
+Rejang •
+Hangeul-Jamo, erw.-A •
+Javanisch •
+Birmanisch, erw.-B •
+Cham •
+Birmanisch, erw.-A •
+Tai Viet •
+Meitei-Mayek, Erw. •
+Äthiopisch, erw.-A •
+Lateinisch, erw.-E •
+Cherokee, Zusatz •
+Meitei-Mayek •
+Hangeul-Silbenzeichen •
+Hangeul-Jamo, erw.-B •
+Private Use Zone •
+CJK-Ideogramme, Kompatibilität •
+Alphabetische Präsentationsformen •
+Arabische Präsentationsformen-A •
+Variantenselektoren •
+Vertikale Formen •
+Kombinierende halbe diakritische Zeichen •
+CJK-Kompatibilitätsformen •
+Kleine Formvarianten •
+Arabische Präsentationsformen-B •
+Halbbreite und vollbreite Formen •
+Spezielles
+Linear-B-Silbenzeichen •
+Linear-B-Ideogramme •
+Ägäische Zahlzeichen •
+Altgriechische Zahlzeichen •
+Alte Symbole •
+Diskos von Phaistos •
+Lykisch •
+Karisch •
+Koptische Zahlzeichen •
+Altitalisch •
+Gotisch •
+Altpermisch •
+Ugaritisch •
+Altpersisch •
+Mormonen-Alphabet •
+Shaw-Alphabet •
+Osmaniya •
+Osage •
+Albanisch •
+Alwanisch •
+Vithkuq-Alphabet •
+Linear A •
+Lateinisch, erw.-F •
+Kyprisch •
+Aramäisch •
+Palmyrenisch •
+Nabatäisch •
+Hatra-Schrift •
+Phönizisch •
+Lydisch •
+Meroitische Hieroglyphen •
+Meroitisch-demotisch •
+Kharoshthi •
+Altsüdarabisch •
+Altnordarabisch •
+Manichäisch •
+Avestisch •
+Parthisch •
+Inschriften-Pahlavi •
+Psalter-Pahlavi •
+Alttürkisch •
+Altungarisch •
+Hanifi Rohingya •
+Rumi-Ziffern •
+Jesidisch •
+Arabisch, erw.-C •
+Altsogdisch •
+Sogdisch •
+Altuigurisch •
+Choresmisch •
+Elymäisch •
+Brahmi •
+Kaithi •
+Sorang-Sompeng •
+Chakma •
+Mahajani •
+Sharada •
+Singhalesische Zahlzeichen •
+Khojki •
+Multanisch •
+Khudabadi •
+Grantha •
+Newa •
+Tirhuta •
+Siddham •
+Modi •
+Mongolisch, Ergänzung •
+Takri •
+Ahom •
+Dogra •
+Varang Kshiti •
+Dives Akuru •
+Nandinagari •
+Dsanabadsar-Quadratschrift •
+Sojombo •
+Vereinh. Silbenz. kanad. Ureinw., erw.-A •
+Pau Cin Hau •
+Devanagari, erw.-A •
+Bhaiksuki •
+Marchen •
+Masaram Gondi •
+Gunjala Gondi •
+Makassar •
+Kawi •
+Lisu, Ergänzung •
+Tamilisch, Ergänzung •
+Keilschrift •
+Keilschrift-Zahlzeichen und -Interpunktion •
+Frühe Keilschrift •
+Kypro-minoisch •
+Ägyptische Hieroglyphen •
+Ägypt. Hieroglyphen-Steuerzeichen •
+Anatolische Hieroglyphen •
+Bamum, Ergänzung •
+Mro •
+Tangsa •
+Bassa Vah •
+Pahawh Hmong •
+Medefaidrin •
+Pollard-Schrift •
+Ideographische Symbole und Interpunktion •
+Xixia •
+Xixia-Komponenten •
+Kleine Kitan-Schrift •
+Xixia, Ergänzung •
+Kana, erw.-B •
+Kana, Ergänzung •
+Kana, erw.-A •
+Kleine Kana, erweitert •
+Frauenschrift •
+Duployé-Kurzschrift •
+Kurzschrift-Steuerzeichen •
+Snamennyj-Notenschrift •
+Byzantinische Noten •
+Notenschrift •
+Altgriechische Noten •
+Kaktovik-Zahlzeichen •
+Maya-Zahlzeichen •
+Tai-Xuan-Jing-Symbole •
+Zählstabziffern •
+Mathem. alphanum. Symbole •
+SignWriting •
+Lateinisch, erw.-G •
+Glagolitisch, Ergänzung •
+Kyrillisch, erw.-D •
+Nyiakeng Puachue Hmong •
+Toto •
+Wancho •
+Nag Mundari •
+Äthiopisch, erw.-B •
+Mende-Schrift •
+Adlam •
+Indische Siyaq-Zahlzeichen •
+Osmanische Siyaq-Zahlzeichen •
+Arab. mathem. alphanum. Symbole •
+Mahjonggsteine •
+Dominosteine •
+Spielkarten •
+Zusätzliche umschlossene alphanum. Zeichen •
+Zusätzliche umschlossene CJK-Zeichen •
+Verschiedene piktografische Symbole •
+Smileys •
+Ziersymbole •
+Verkehrs- und Kartensymbole •
+Alchemistische Symbole •
+Geometrische Formen, erw. •
+Zusätzliche Pfeile-C •
+Zusätzliche piktografische Symbole •
+Schachsymbole •
+Piktografische Symbole, erw.-A •
+Symbole für Retrocomputer
+Vereinh. CJK-Ideogramme, Erw. B •
+Vereinh. CJK-Ideogramme, Erw. C •
+Vereinh. CJK-Ideogramme, Erw. D •
+Vereinh. CJK-Ideogramme, Erw. E •
+Vereinh. CJK-Ideogramme, Erw. F •
+CJK-Ideogramme, Kompatibilität, Ergänzung •
+Vereinh. CJK-Ideogramme, Erw. G •
+Vereinh. CJK-Ideogramme, Erw. H
+Tags •
+Variantenselektoren, Ergänzung •
+Zusätzlicher Privatnutzungsbereich–A •
+Zusätzlicher Privatnutzungsbereich–B
+Adlam •
+Ägäische Zahlzeichen •
+Ägyptische Hieroglyphen •
+Ägypt. Hieroglyphen-Steuerzeichen •
+Ahom •
+Albanisch •
+Alchemistische Symbole •
+Allgemeine indische Ziffern •
+Allgemeine Interpunktion •
+Alphabetische Präsentationsformen •
+Alte Symbole •
+Altgriechische Noten •
+Altgriechische Zahlzeichen •
+Altitalisch •
+Altnordarabisch •
+Altpermisch •
+Altpersisch •
+Altsogdisch •
+Altsüdarabisch •
+Alttürkisch •
+Altuigurisch •
+Altungarisch •
+Alwanisch •
+Anatolische Hieroglyphen •
+Arabisch •
+Arabisch, Ergänzung •
+Arabisch, erw.-A •
+Arabisch, erw.-B •
+Arabisch, erw.-C •
+Arab. mathem. alphanum. Symbole •
+Arabische Präsentationsformen-A •
+Arabische Präsentationsformen-B •
+Aramäisch •
+Armenisch •
+Äthiopisch •
+Äthiopisch, erweitert •
+Äthiopisch, erw.-A •
+Äthiopisch, erw.-B •
+Äthiopisch, Zusatz •
+Avestisch •
+Balinesisch •
+Bamum •
+Bamum, Ergänzung •
+Basis-Lateinisch •
+Bassa Vah •
+Batak •
+Bengalisch •
+Bhaiksuki •
+Birmanisch •
+Birmanisch, erw.-A •
+Birmanisch, erw.-B •
+Blockelemente •
+Bopomofo •
+Bopomofo, erweitert •
+Brahmi •
+Braille-Zeichen •
+Buchstabenähnliche Symbole •
+Buginesisch •
+Buid •
+Byzantinische Noten •
+Chakma •
+Cham •
+Cherokee •
+Cherokee, Zusatz •
+Choresmisch •
+CJK-Ideogramme, Kompatibilität •
+CJK-Ideogramme, Kompatibilität, Ergänzung •
+CJK-Kompatibilität •
+CJK-Kompatibilitätsformen •
+CJK-Radikale, Ergänzung •
+CJK-Striche •
+CJK-Symbole und -Interpunktion •
+Devanagari •
+Devanagari, erw. •
+Devanagari, erw.-A •
+Dingbats •
+Diskos von Phaistos •
+Dives Akuru •
+Dogra •
+Dominosteine •
+Dsanabadsar-Quadratschrift •
+Duployé-Kurzschrift •
+Elymäisch •
+Frauenschrift •
+Frühe Keilschrift •
+Geometrische Formen •
+Geometrische Formen, erw. •
+Georgisch •
+Georgisch, Ergänzung •
+Georgisch, erweitert •
+Glagolitisch •
+Glagolitisch, Ergänzung •
+Gotisch •
+Grantha •
+Griechisch und Koptisch •
+Griechisch, Zusatz •
+Gujarati •
+Gunjala Gondi •
+Gurmukhi •
+Halbbreite und vollbreite Formen •
+Hangeul-Jamo •
+Hangeul-Jamo, erw.-A •
+Hangeul-Jamo, erw.-B •
+Hangeul-Jamo, Kompatibilität •
+Hangeul-Silbenzeichen •
+Hanifi Rohingya •
+Hanunóo •
+Hatra-Schrift •
+Hebräisch •
+Hiragana •
+Hoch- und tiefgestellte Zeichen •
+Ideographische Beschreibungszeichen •
+Ideographische Symbole und Interpunktion •
+I-Ging-Hexagramme •
+Indische Siyaq-Zahlzeichen •
+Inschriften-Pahlavi •
+IPA-Erweiterungen •
+Javanisch •
+Jesidisch •
+Kaithi •
+Kaktovik-Zahlzeichen •
+Kana, Ergänzung •
+Kana, erw.-A •
+Kana, erw.-B •
+Kanbun •
+Kangxi-Radikale •
+Kannada •
+Karisch •
+Katakana •
+Katakana, Phonetische Erweiterungen •
+Kawi •
+Kayah Li •
+Keilschrift •
+Keilschrift-Zahlzeichen und -Interpunktion •
+Kharoshthi •
+Khmer •
+Khmer-Symbole •
+Khojki •
+Khudabadi •
+Kleine Formvarianten •
+Kleine Kana, erweitert •
+Kleine Kitan-Schrift •
+Kombinierende diakritische Zeichen für Symbole •
+Kombinierende diakritische Zeichen •
+Kombinierende diakritische Zeichen, Ergänzung •
+Kombinierende diakritische Zeichen, erw. •
+Kombinierende halbe diakritische Zeichen •
+Koptisch •
+Koptische Zahlzeichen •
+Kurzschrift-Steuerzeichen •
+Kyprisch •
+Kypro-minoisch •
+Kyrillisch •
+Kyrillisch, Ergänzung •
+Kyrillisch, erw.-A •
+Kyrillisch, erw.-B •
+Kyrillisch, erw.-C •
+Kyrillisch, erw.-D •
+Lanna •
+Laotisch •
+Lateinisch, erw.-A •
+Lateinisch, erw.-B •
+Lateinisch, erw.-C •
+Lateinisch, erw.-D •
+Lateinisch, erw.-E •
+Lateinisch, erw.-F •
+Lateinisch, erw.-G •
+Lateinisch, weiterer Zusatz •
+Lateinisch-1, Ergänzung •
+Lepcha •
+Limbu •
+Linear A •
+Linear-B-Ideogramme •
+Linear-B-Silbenzeichen •
+Lisu •
+Lisu, Ergänzung •
+Lydisch •
+Lykisch •
+Mahajani •
+Mahjonggsteine •
+Makassar •
+Malayalam •
+Mandäisch •
+Manichäisch •
+Marchen •
+Masaram Gondi •
+Mathem. alphanum. Symbole •
+Mathematische Operatoren •
+Maya-Zahlzeichen •
+Medefaidrin •
+Meitei-Mayek •
+Meitei-Mayek, Erw. •
+Mende-Schrift •
+Meroitisch-demotisch •
+Meroitische Hieroglyphen •
+Modi •
+Modifizierende Tonzeichen •
+Mongolisch •
+Mongolisch, Ergänzung •
+Mormonen-Alphabet •
+Mro •
+Multanisch •
+Nabatäisch •
+Nag Mundari •
+Nandinagari •
+Neu-Tai-Lue •
+Newa •
+N’Ko •
+Notenschrift •
+Nyiakeng Puachue Hmong •
+Ogam •
+Ol Chiki •
+Optische Zeichenerkennung •
+Oriya •
+Osage •
+Osmanische Siyaq-Zahlzeichen •
+Osmaniya •
+Pahawh Hmong •
+Palmyrenisch •
+Parthisch •
+Pau Cin Hau •
+Pfeile •
+Phagspa •
+Phonetische Erweiterungen •
+Phonetische Erweiterungen, Ergänzung •
+Phönizisch •
+Piktografische Symbole, erw.-A •
+Pollard-Schrift •
+Privatnutzungsbereich •
+Zusätzlicher Privatnutzungsbereich-A •
+Zusätzlicher Privatnutzungsbereich-B •
+Psalter-Pahlavi •
+Rahmenzeichnung •
+Rejang •
+Rumi-Ziffern •
+Runen •
+Samaritanisch •
+Saurashtra •
+Schachsymbole •
+Sharada •
+Shaw-Alphabet •
+Siddham •
+Singhalesisch •
+Singhalesische Zahlzeichen •
+Smileys •
+Snamennyj-Notenschrift •
+Sogdisch •
+Sojombo •
+Sorang-Sompeng •
+Spacing Modifier Letters •
+Spezielles •
+Spielkarten •
+Sundanesisch •
+Sundanesisch, Ergänzung •
+SignWriting •
+Syloti Nagri •
+Symbole für Retrocomputer •
+Symbole für Steuerzeichen •
+Syrisch •
+Syrisch, Ergänzung •
+Tagalog •
+Tagbanuwa •
+Tags •
+Tai Le •
+Tai Viet •
+Tai-Xuan-Jing-Symbole •
+Takri •
+Tamilisch •
+Tamilisch, Ergänzung •
+Tangsa •
+Telugu •
+Thaana •
+Thailändisch •
+Tibetisch •
+Tifinagh •
+Tirhuta •
+Toto •
+Ugaritisch •
+Umschlossene alphanum. Zeichen •
+Umschlossene CJK-Zeichen und -Monate •
+Vai •
+Varang Kshiti •
+Variantenselektoren •
+Variantenselektoren, Ergänzung •
+Vedische Erweiterungen •
+Vereinh. CJK-Ideogramme •
+Vereinh. CJK-Ideogramme, Erw. A •
+Vereinh. CJK-Ideogramme, Erw. B •
+Vereinh. CJK-Ideogramme, Erw. C •
+Vereinh. CJK-Ideogramme, Erw. D •
+Vereinh. CJK-Ideogramme, Erw. E •
+Vereinh. CJK-Ideogramme, Erw. F •
+Vereinh. CJK-Ideogramme, Erw. G •
+Vereinh. CJK-Ideogramme, Erw. H •
+Vereinh. Silbenz. kanad. Ureinw. •
+Vereinh. Silbenz. kanad. Ureinw., erw. •
+Vereinh. Silbenz. kanad. Ureinw., erw.-A •
+Verkehrs- und Kartensymbole •
+Verschiedene mathem. Symbole-A •
+Verschiedene mathem. Symbole-B •
+Verschiedene piktografische Symbole •
+Verschiedene Symbole und Pfeile •
+Verschiedene Symbole •
+Verschiedene technische Zeichen •
+Vertikale Formen •
+Vithkuq-Alphabet •
+Währungszeichen •
+Wancho •
+Xixia •
+Xixia, Ergänzung •
+Xixia-Komponenten •
+Yi-Radikale •
+Yi-Silbenzeichen •
+Zählstabziffern •
+Zahlzeichen •
+Ziersymbole •
+Zusätzliche Interpunktion •
+Zusätzliche mathem. Operatoren •
+Zusätzliche Pfeile-A •
+Zusätzliche Pfeile-B •
+Zusätzliche Pfeile-C •
+Zusätzliche piktografische Symbole •
+Zusätzliche umschlossene alphanum. Zeichen •
+Zusätzliche umschlossene CJK-Zeichen

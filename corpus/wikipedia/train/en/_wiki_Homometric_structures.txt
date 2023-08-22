@@ -1,0 +1,4 @@
+In chemistry and crystallography, crystal structures that have the same set of interatomic distances are called homometric structures. 1  Homometric structures need not be congruent . Homometric crystal structures produce identical diffraction patterns; therefore, they cannot be distinguished by a diffraction experiment.
+Recently, a Monte Carlo algorithm was proposed to calculate the number of homometric structures corresponding to any given set of interatomic distances. 2 
+Example of two homometric structures  formed by the convolution between two non-centrosymmetric structures  with different orientations.
+This stereochemistry article is a stub. You can help Wikipedia by expanding it.This crystallography-related article is a stub. You can help Wikipedia by expanding it.

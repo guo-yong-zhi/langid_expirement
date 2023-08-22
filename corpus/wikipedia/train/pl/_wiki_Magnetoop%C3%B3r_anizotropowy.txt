@@ -1,0 +1,114 @@
+Magnetoopór anizotropowy , zwany także anomalią zjawiska magnetorezystancyjnego – zjawisko występujące w metalach i stopach ferromagnetycznych, objawiające się zmianą oporności pod wpływem zmiany orientacji namagnesowania materiału względem kierunku płynącego przez niego prądu. Zjawisko to charakteryzuje się tym, że zmiany oporu elektrycznego zachodzą w znacznie mniejszych natężeniach pola magnetycznego, niż ma to miejsce w przypadku zwyczajnego magnetooporu. Największe obserwowane amplitudy efektu AMR sięgają 50% w niskich temperaturach. W głowicach odczytu informacji wykonywanych z najczęściej stosowanego materiału, tj. permaloju  efekt AMR w temperaturze pokojowej osiąga wartości zbliżone do 4%. Mechanizm zjawiska AMR w metalach ferromagnetycznych wyjaśnia się współudziałem w przewodnictwie elektronów pasma 3d . Na rys. 1 przedstawiono gęstość stanów dla metalu ferromagnetycznego.
+Pasmo 3d w metalach przejściowych nie jest całkowicie zapełnione, a gęstość stanów jest duża. Dzięki temu istnieje znaczne prawdopodobieństwo rozpraszania elektronów z pasma 4s do pasma 3d. Pasmo 3d jest rozszczepione na dwa podpasma o spinach równoległych  i antyrównoległych  do kierunku magnetyzacji. W wyniku rozszczepienia pasma 3d gęstości stanów na poziomie Fermiego DF są różne dla elektronów ze spinem w górę i w dół. W konsekwencji prawdopodobieństwo rozpraszania elektronów 4s do stanu 3d jest również różne dla elektronów ze spinem skierowanym w górę i spinem skierowanym w dół. Można wykazać, że prawdopodobieństwo rozpraszania s – d jest większe w przypadku elektronów poruszających się wzdłuż kierunku namagnesowania. Dlatego, ρII > ρ┴, gdzie ρII oznacza opór właściwy dla prądu płynącego zgodnie z kierunkiem namagnesowania, a ρ┴ opór właściwy dla kierunku prądu prostopadłego do kierunku namagnesowania.
+Dla określonego materiału zmiany oporu elektrycznego w funkcji pola magnetycznego przy dominacji efektu AMR zależą od kierunku spontanicznego namagnesowania, podczas gdy dla zwykłego magnetooporu zależą tylko od wartości natężenia zewnętrznego pola magnetycznego. Pole elektryczne wywołane efektem AMR jest dane równaniem:
+Ostatni człon w powyższym równaniu oznacza pole elektryczne pochodzące od anizotropowego efektu Halla. W stanie rozmagnesowania w zerowym polu magnetycznym opór właściwy przyjmuje wartość ρ0, w przybliżeniu równą wartości ρav
+Różnica między ρ0 i ρav jest niewielka i można ich używać zamiennie.
+Magnetoopór może być zdefiniowany jako względna zmiana oporu właściwego pomiędzy pełnym namagnesowaniem próbki w określonym kierunku względem kierunku prądu  i stanem nienamagnesowanym :
+W celu wyznaczenia 
+  
+    
+      
+        
+          
+            
+               
+              
+                 
+                
+                   
+                
+              
+            
+            
+               
+              
+                a
+                v
+              
+            
+          
+        
+      
+    
+    }}
+  
+ lub 
+  
+    
+      
+        
+          
+            
+               
+              
+                 
+                
+                  I
+                  I
+                
+              
+            
+            
+               
+              
+                a
+                v
+              
+            
+          
+        
+      
+    
+    }}
+  
+ wystarczy określić ρav oraz jeden z dwóch oporów właściwych ρII lub ρ┴. Ze względu na to, że w eksperymencie wyznaczamy ρ0, a nie ρav korzystniej jest zdefiniować magnetoopór poprzez wyrażenie uwzględniające jedynie oporności właściwe ρ┴ i ρII:
+Gdy namagnesowanie tworzy kąt ξ z gęstością prądu , to opór właściwy można wyznaczyć z zależności:
+Przedstawione powyżej wzory określają zależność oporu właściwego ferromagnetyka w funkcji kąta ξ. Z wielu względów, a w szczególności z punktu widzenia wykorzystania efektu AMR, ważniejsze jest określenie zależności oporu od natężenia pola magnetycznego ρ. W tym celu niezbędne jest wyznaczenie położenia wektora namagnesowania względem kierunku prądu . W próbce nie wykazującej żadnej anizotropii w obecności pola magnetycznego kierunek momentu magnetycznego będzie zawsze równoległy do wektora natężenia pola magnetycznego H. Mimo że możliwe jest wykonanie warstw nie wykazujących anizotropii w płaszczyźnie, to jednak zastosowanie warstw anizotropowych w sensorach AMR stwarza większe możliwości uzyskania optymalnych  zależności oporu od natężenia pola magnetycznego R. Dlatego dalej omówiony zostanie jedynie efekt AMR w warstwach , tj. stopu o dużej względnej zmianie oporu , bliskiej zera stałej magnetostrykcji) z anizotropią jednoosiową w płaszczyźnie warstwy. Anizotropia jednoosiowa w cienkich warstwach permaloju może być indukowana polem magnetycznym w procesie osadzania lub wygrzewania. Proces przemagnesowania takich warstw dla natężenia pola magnetycznego równoległego i prostopadłego do osi łatwej EA  przedstawiono odpowiednio na rys. 2.3, a i b. Dla pola magnetycznego równoległego do osi łatwej namagnesowanie jest cały czas równoległe do EA , a jedynie w polu H = HC  zachodzi skokowa zmiana zwrotu wektora magnetyzacji , w efekcie pętla histerezy jest prostokątna . Dla H prostopadłego do osi łatwej  zależność momentu magnetycznego od natężenia pola magnetycznego M nie wykazuje histerezy i jest liniowa aż do nasycenia  jest liniową funkcją H). Nasycenie osiągane jest w polu anizotropii HK, które określane jest wartościami stałej anizotropii K i namagnesowaniem nasycenia MS
+Z przedstawionych powyżej dwóch skrajnych przypadków procesu przemagnesowania wynika, że dla pola magnetycznego równoległego do osi łatwej skokowa zmiana kąta ξ o 180° nie wywołuje zmiany oporu, czyli efekt AMR nie będzie występował. Natomiast ważnym z punktu widzenia zastosowania efektu AMR jest przypadek przemagnesowania w kierunku trudnym . Dlatego dalej rozważona zostanie ta konfiguracja pola magnetycznego względem osi łatwej warstwy ferromagnetycznej  o długości l, szerokości w, grubości t  pokazanej na rysunku 4., w której oś łatwa jest równoległa do dłuższej krawędzi próbki i pokrywa się z kierunkiem prądu . Dla natężenia pola magnetycznego równego zero  domeny magnetyczne zorientowane są w jednym z dwóch kierunków wzdłuż osi łatwej. Kiedy zostanie przyłożone zewnętrzne pole magnetyczne wzdłuż osi trudnej  namagnesowanie cienkiej warstwy zmieniać się będzie zgodnie z rysunkiem 3 i spełniona będzie zależność:
+Opór magnetorezystora z rysunku 4 zgodnie wynosi:
+ponieważ 
+  
+    
+      
+        
+          cos
+          
+            2
+          
+        
+         
+         
+        =
+        1
+         
+        
+          sin
+          
+            2
+          
+        
+         
+         
+        =
+        1
+         
+        
+          
+            2
+          
+        
+        ,
+      
+    
+    \xi =1-\sin ^,}
+  
+ to:
+Z powyższego wyrażenia wynika, że dla warstwy ferromagnetyka, w której ε = 0 i Θ = 90° magnetoopór jest kwadratową funkcją pola magnetycznego w zakresie pól –HK ≤ H ≤HK. W formie graficznej zależność tą przedstawiono na rys. 5.
+Rysunek 6 przedstawia względną zmianę oporu ΔR/Rmin  w funkcji przyłożonego pola magnetycznego dla różnych wartości kąta ε . Warto zauważyć, że zmieniając kąt ε można uzyskać różne charakterystyki magnetooporowe. Przykładowo dla ε = 0 i 90° zmiany oporu są kwadratową funkcją pola magnetycznego, natomiast dla ε = ±45° i H << HK zmiana oporu jest liniową funkcją pola magnetycznego H. Zmiana wartości ε o 90° pozwala na zmianę znaku charakterystyk.
+Typowymi zastosowaniami czujników AMR jest ich wykorzystanie do pomiarów ziemskiego pola magnetycznego, konstrukcji kompasów elektronicznych lub magnetycznej detekcji pojazdów. Do takich zastosowań konieczna jest analiza pól z rozdzielczością 1 μT lub lepszą. Cienkowarstwowe czujniki magnetorezystancyjne, znajdują również zastosowanie w miernictwie elektrycznym. Najważniejsze z tych zastosowań to:
+Najważniejszym zastosowaniem cienkich warstw ferromagnetycznych wykazujących AMR są głowice odczytu informacji, które zastąpiły wcześniej stosowane głowice indukcyjne. W stosunku do tradycyjnych głowic indukcyjnych głowice magnetorezystancyjne posiadają szereg zalet:
+Wadą głowic magnetorezystancyjnych, w porównaniu z głowicami indukcyjnymi jest to, że nie mogą one jednocześnie pełnić roli głowicy zapisującej.
+Czujniki magnetorezystancyjne są stosowane także do pomiaru wielkości mechanicznych, do których należą:
+Cienkowarstwowe czujniki magnetorezystancyjne wykorzystuje się także do badań materiałowych, pozwalają one na badanie nieniszczące materiałów ferromagnetycznych.
+Czujniki AMR dzięki licznym zastosowaniom w informatyce, automatyce i miernictwie utorowały drogę do zastosowań innych, odkrytych później efektów magnetooporowych charakteryzujących się wyższymi wartościami ΔR/R lub wyższymi czułościami polowymi tego efektu .
+Oznaczenia:

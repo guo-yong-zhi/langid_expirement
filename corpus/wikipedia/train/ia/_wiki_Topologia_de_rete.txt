@@ -1,0 +1,31 @@
+ 
+In telecommunication, topologia de rete es le arrangiamento physic  o logic  del elementos de un rete.
+   x  x       
+   \ |       
+    \|       
+     O---x   
+    /|\      
+   / | \     
+  x  x  x    
+    x---x      
+  /     \     
+ x---x   \    
+      \   x   
+       \ /    
+        x     
+    x    x       
+   |    |       
+   |    |       
+  -+-+--+-+-    
+     |    |     
+     |    |     
+     x    x     
+   x-----x------x  
+   \   / \     |  
+    \ /   \    |  
+     x-----x---x  
+      \     \ /   
+   x---x-----x    
+</prx = equipamento terminal 
+- | \ / + = interconnexion
+O = distributor 

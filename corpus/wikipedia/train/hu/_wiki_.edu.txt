@@ -1,0 +1,11 @@
+Pontosságellenőrzött
+Az .edu egy internetes legfelső szintű tartomány kód, melyet 1985-ben hoztak létre. Az .edu oktatási intézmények számára készült.
+Habár eredetileg az .edu kódot a világ oktatási intézményeinek használták, de főleg csak amerikai iskolák jegyezték be címüket ez alá a tartománykód alá.
+.biz  .com  .edu  .gov  .info  .int  .mil  .name  .net  .org  .eu
+.aero  .asia  .bzh  .cat  .coop  .dev  .gal  .jobs  .mobi  .museum  .pro  .scot  .tel  .travel  .xxx  .google
+.arpa
+.bank  .berlin   .catholic   .cym   .geo  .kid  .kids  .lat  .mail  .nyc  .post  .quebec   .sic  .web
+.nato
+.example  .invalid  .localhost  .test
+.bitnet  .csnet  .ip  .local  .onion  .root  .uucp
+Alternatív DNS-gyökerek

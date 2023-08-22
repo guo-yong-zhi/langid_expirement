@@ -1,0 +1,282 @@
+Leges motus sunt tria axiomata legis scientificae ab Isaaco Newtono proposita in Philosophiae Naturalis Principia Mathematica, opere magno anni 1687 scripta, quae mechanicam Newtonianam fundaverunt. Ea axiomata motum corporum massam continentum explicant. In tertio textus volumine, Newtonus leges motus, cum theoria sua gravitatis universalis, leges Kepleri planetarum motus explicare monstravit.
+Inde breviter leges sequuntur:
+"Corpus omne perseverare in statu suo quiescendi vel movendi uniformiter in directum, nisi quatenus a viribus impressis cogitur statum illum mutare."—Newtonus.
+Lex prima, a Galileo Galilei anno 1638 primum descripta, etiam legem inertiae nominatur.
+"Mutationem motus proportionalem esse vi motrici impressae, et fieri secundum lineam rectam qua vis illa imprimitur.
+Hanc legem in forma mathematica expressare possumus:
+ubi, si 
+  
+    
+      
+        
+          
+            
+              x
+               
+            
+          
+        
+      
+    
+    }}
+  
+ significat positionem particulae et 
+  
+    
+      
+        
+          
+            
+              v
+               
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    x
+                     
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    }={\frac {d}
+  
+ suam velocitatem, tunc 
+  
+    
+      
+        
+          
+            
+              a
+               
+            
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                     
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    }={\frac {d}
+  
+ significat suam accelerationem et 
+  
+    
+      
+        
+          
+            
+              F
+               
+            
+          
+        
+      
+    
+    }}
+  
+ totam vim impressam.
+Et si massam m introducimus, sicut constantem proportionalitatis inter accelerationem et vim, legem in forma moderna expressare possumus:
+Et si Newtonum sequentes  quantitatem motus particulae 
+  
+    
+      
+        
+          
+            
+              p
+               
+            
+          
+        
+        =
+        m
+        
+          
+            
+              v
+               
+            
+          
+        
+      
+    
+    }=m}
+  
+ definimus, tunc legem expressare possumus:
+"Actioni contrariam semper et aequalem esse reactionem: sive corporum duorum actiones in se mutuo semper esse aequales et in partes contrarias dirigi.
+Haec lex dicit actionem aequare reactionem. In forma mathematica:
+ubi 
+  
+    
+      
+        
+          
+            
+              
+                F
+                 
+              
+            
+          
+          
+            A
+             
+            B
+          
+        
+      
+    
+    }_
+  
+ significat vim  ab A in B impressam et 
+  
+    
+      
+        
+          
+            
+              
+                F
+                 
+              
+            
+          
+          
+            B
+             
+            A
+          
+        
+      
+    
+    }_
+  
+ vim ab B in A impressam. 
+Et si per legem secundam expressamus 
+  
+    
+      
+        
+          
+            
+              
+                F
+                 
+              
+            
+          
+          
+            A
+             
+            B
+          
+        
+        =
+        
+          
+            
+              d
+              
+                
+                  
+                    
+                      p
+                      
+                        B
+                      
+                    
+                     
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    }_}}}
+  
+, legem tertiam expressare posummus sic:
+Hic aequatio differentialis expressat principium motus conservandi, quod motus totus 
+  
+    
+      
+        
+          
+            
+              p
+               
+            
+          
+        
+        =
+        
+          
+            
+              
+                p
+                
+                  A
+                
+              
+               
+            
+          
+        
+        +
+        
+          
+            
+              
+                p
+                
+                  B
+                
+              
+               
+            
+          
+        
+      
+    
+    }=}+}}
+  
+ numquam mutatur.

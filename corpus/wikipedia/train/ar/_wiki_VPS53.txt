@@ -1,0 +1,11 @@
+• ‏GO:0001948، ‏GO:0016582 ربط بروتيني
+• perinuclear region of cytoplasm• recycling endosome• EARP complex• جسيم داخلي• جهاز غولجي• endosome membrane• GARP complex• غشاء• trans-Golgi network• trans-Golgi network membrane• عصارة خلوية
+• protein transport• endocytic recycling• lysosomal transport• retrograde transport, endosome to Golgi
+Q5VIR6
+Q8CCB4
+‏NM_001128159، ‏NM_018289، ‏XR_934061، ‏XM_017024817، ‏XM_017024818، ‏XR_001752553، ‏NM_001366253، ‏NM_001366254 XR_934062، ‏NM_001128159، ‏NM_018289، ‏XR_934061، ‏XM_017024817، ‏XM_017024818، ‏XR_001752553، ‏NM_001366253، ‏NM_001366254
+‏NM_001364738، ‏NR_157296 NM_026664، ‏NM_001364738، ‏NR_157296
+‏NP_060759، ‏XP_016880306، ‏XP_016880307، ‏NP_001353182، ‏NP_001353183 NP_001121631، ‏NP_060759، ‏XP_016880306، ‏XP_016880307، ‏NP_001353182، ‏NP_001353183
+‏NP_001351667 NP_080940، ‏NP_001351667
+VPS53‏  هوَ بروتين يُشَفر بواسطة جين VPS53 في الإنسان. 1 
+هذه بذرة مقالة عن بروتين بحاجة للتوسيع. فضلًا شارك في تحريرها.

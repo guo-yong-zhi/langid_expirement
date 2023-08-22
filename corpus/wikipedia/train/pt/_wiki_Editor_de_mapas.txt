@@ -1,0 +1,1 @@
+Editor de mapas  é um software aplicativo usado para desenvolver mapas, níveis ou campanhas para um jogo eletrônico. Em alguns casos o criador do jogo disponibiliza um editor oficial para seu jogo, mas outras vezes a comunidade de fãs organiza-se para desenvolver tal aplicação.

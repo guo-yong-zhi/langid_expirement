@@ -1,0 +1,4 @@
+IEC 60906-1 estas la ĝis nun ne uzata internacia normo por kontaktiloj de 230-volta alterna kurento.
+La nomo estis publikigita en 1986 de la International Electrotechnical Commission. Brazilo decidis enkonduki tiun normon ekde 2010.
+Rilate al la germana Schuko-sistemo tiu internacia sistemo havas la avantaĝon estis pli malgranda kaj sekura.
+La unua parto de la IEC-normo priskribas la normojn por kontaktiloj ĝis 250 V kaj 16 A.

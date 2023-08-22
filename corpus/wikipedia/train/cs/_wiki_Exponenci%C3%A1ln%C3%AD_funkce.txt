@@ -1,0 +1,283 @@
+Exponenciální funkce je matematická funkce ve tvaru
+kde 
+  
+    
+      
+        a
+      
+    
+    
+  
+ je kladná reálná konstanta různá od 
+  
+    
+      
+        1
+      
+    
+    
+  
+, která se nazývá základ. Exponent 
+  
+    
+      
+        x
+      
+    
+    
+  
+ je reálná nezávisle proměnná , definici lze ovšem rozšířit na komplexní argumenty i na složitější objekty, zejména lineární operátory.
+V oboru reálných čísel je pro 
+  
+    
+      
+        a
+        >
+        1
+      
+    
+    
+  
+ exponenciální funkce  rostoucí, pro 
+  
+    
+      
+        a
+        <
+        1
+      
+    
+    
+  
+  klesající.
+Inverzní funkcí k exponenciální funkci je funkce logaritmus:
+Pro exponenciální funkci platí exponenciální identita:
+díky které je možné definovat hodnoty exponenciální funkce i pro jiné než celočíselné argumenty .
+Křivku, která je grafem exponenciální funkce, nazýváme exponenciála a často tak nazýváme i samu exponenciální funkci.
+Derivací exponenciální funkce je opět exponenciální funkce vynásobená přirozeným logaritmem základu:
+Významnou roli má exponenciální funkce s takovým základem, že je přesně rovna své derivaci. Tímto základem je Eulerovo číslo 
+  
+    
+      
+        e
+         
+        2
+        ,
+        718281828459
+      
+    
+    
+  
+ a exponenciální funkci s tímto základem zapisujeme také jako exp x, což umožňuje zápis v jednom řádku bez exponentů:
+Exponenciální funkci s obecným základem lze převést na základ 
+  
+    
+      
+        e
+      
+    
+    
+  
+ pomocí vzorce 
+  
+    
+      
+        
+          a
+          
+            x
+          
+        
+        =
+        exp
+         
+        
+        =
+        
+          e
+          
+            
+          
+        
+      
+    
+    =\exp=e^
+  
+.
+Exponenciální funkce ex může být charakterizována různými ekvivalentními způsoby. Zejména může být definována následující mocninnou řadou:
+Méně často je ex definováno jako řešení y rovnice
+Lze ji definovat také následující limitou:
+V oboru reálných čísel pro každou exponenciální funkci 
+  
+    
+      
+        y
+        =
+        
+          a
+          
+            x
+          
+        
+      
+    
+    }
+  
+  platí:
+Často používaný základ exponenciální funkce je Eulerovo číslo 
+  
+    
+      
+        e
+      
+    
+    
+  
+. Funkce 
+  
+    
+      
+        f
+        
+        =
+        
+          e
+          
+            x
+          
+        
+      
+    
+    }
+  
+ je až na násobek jediné řešení diferenciální rovnice
+Funkce 
+  
+    
+      
+        
+          e
+          
+            x
+          
+        
+      
+    
+    }
+  
+ se obvykle definuje mocninnou řadou
+která konverguje pro každé reálné i komplexní 
+  
+    
+      
+        x
+      
+    
+    
+  
+. Obecná exponenciální funkce se pak dá definovat jako
+kde 
+  
+    
+      
+        ln
+        
+        a
+      
+    
+    
+  
+ je přirozený logaritmus čísla 
+  
+    
+      
+        a
+      
+    
+    
+  
+.
+Dosazením čistě imaginárního čísla 
+  
+    
+      
+        i
+        x
+      
+    
+    
+  
+ do definice exponenciály dostáváme vztah
+  
+    
+      
+        
+          e
+          
+            i
+            x
+          
+        
+        =
+        cos
+         
+        x
+        +
+        i
+        sin
+         
+        x
+      
+    
+    =\cos x+i\sin x}
+  
+.
+Důležitost exponenciální funkce v matematice a přírodních vědách pramení hlavně z vlastností její derivace, zejména:
+Důkaz:
+To znamená, že ex je svou vlastní derivací a tedy je jednoduchým příkladem pfaffovské funkce. Funkce tvaru cex  jsou jediné funkce s touto vlastností .
+Tato vlastnost se dá vyjádřit i následujícími způsoby:
+Krom toho u diferencovatelné funkce f používáme řetízkové pravidlo:
+Exponenciální a logaritmická funkce jsou navzájem inverzní, tedy platí:
+Grafy těchto funkcí jsou osově souměrné podle přímky 
+  
+    
+      
+        y
+        =
+        x
+      
+    
+    
+  
+.
+Řetězový zlomek pro ex lze získat prostřednictvím Eulerovy rovnosti:
+Následující celkový řetězový zlomek pro ez konverguje mnohem rychleji:
+nebo použitím substituce 
+  
+    
+      
+        z
+        =
+        
+          
+        
+      
+    
+    
+  
+:
+zvláštní případ pro z = 2:
+Tento vzorec také konverguje, ale pomaleji, protože z > 2. Například:
+Mocninná řada v definici exponenciály umožňuje definovat exponenciálu i mnohem komplikovanějších objektů, než jsou komplexní čísla, zejména matic a operátorů. Mocniny a součty operátorů, respektive matic, jsou dobře definované a příslušná řada konverguje.
+Stejně jako v reálném případě, exponenciální funkce může být definována na komplexní rovině několika ekvivalentními formami. Jedna taková definice je ekvivalentní definicí mocninnou řadou, kde je reálná proměnná nahrazena komplexní:
+Exponenciální funkce je periodická s imaginární periodou 2πi a může být psána jako
+kde a a b jsou reálné hodnoty a kde na pravé straně se vyskytují reálné funkce, pokud je tento předpis použit jako definice . Tento vzorec propojuje exponenciální funkci s goniometrickými a hyperbolickými funkcemi.
+Uvažujeme-li funkci definovanou na komplexní rovině, pak exponenciální funkce zachovává tyto vlastnosti:
+pro všechny z a w.
+Exponenciální funkce je celá funkce neboť je holomorfní na celé komplexní rovině. Každé komplexní číslo kromě 0 má při exponenciální funkci svůj vzor; to znamená, že 0 je lacunární hodnota exponenciální funkce. Ilustruje tedy malou Picardovu větu, že jakákoli nekonstantní celá funkce má ve svém obrazu až na jeden bod celou komplexní rovinu.
+Rozšířením přirozeného logaritmu do komplexních čísel získáme komplexní logaritmus log z, což je vícehodnotová funkce.
+Pak můžeme definovat obecnou mocninu:
+pro všechna komplexní čísla z a w. To je také vícehodnotová funkce, a to i když z je reálné. Tento fakt je poněkud problematický, neboť vícehodnotové funkce log z a zw lze lehce zaměnit s jejich jednohodnotovými ekvivalenty dosazením reálného čísla za z. Pravidlo o násobení exponentů v případě pozitivních reálných čísel musí být upraveno pro vícehodnotový kontext:
+Exponenciální funkce zobrazuje každou přímku v komplexní rovině na logaritmické spirály v komplexní rovině se středem v počátku. Existují dva zvláštní případy: když původní přímka je rovnoběžná s reálnou osou, výsledná spirála se nikdy neuzavírá do sebe; a když původní přímka je rovnoběžná s imaginární osou, výsledná spirála je kruh o nějakém poloměru.
+z = Re
+z = Im

@@ -1,0 +1,10 @@
+Pour les articles homonymes, voir Cathedral .
+modifier Cathedral est un jeu de société combinatoire abstrait au tour par tour, créé par Robert Peter Moore, édité pour la première fois en 1978 et réédité par la suite en version plastique par Mattel, en bois ou en pierre reconstituée par divers éditeurs.
+Deux joueurs s'opposent dans une lutte territoriale pour prendre la majorité du terrain dans une cité médiévale en construction.
+Cathedral a été inventé entre 1962 et 1978 by Robert Peter Moore  qui était pilote dans la Royal New Zealand Air Force. Le jeu lui aurait été inspiré par la Cathédrale de Christchurch et son environnement en Nouvelle-Zélande. Moore était fasciné par la vue qu'il avait du ciel de cette cathédrale et des bâtiments environnants qui semblaient imbriqués comme des pièces d'un puzzle. Il a alors conçu un jeu où les joueurs rivalisaient pour placer leurs bâtiments autour de la cathédrale.
+Les joueurs posent tour à tour des bâtiments de leur couleur, en essayant de fermer des territoires où ils seront les seuls à pouvoir ensuite construire. Dans son principe, le jeu semble donc se rapprocher du jeu de go.
+Posséder en fin de partie le moins de bâtiments possible, donc en placer un maximum sur le plan de jeu.
+Au départ, le plan de jeu est vide. L'un des joueurs y place la cathédrale, l'autre commence à jouer.
+À tour de rôle, les joueurs posent une de leurs pièces sur des cases libres. Si un joueur parvient à créer une zone entièrement vide ne contenant au plus qu'une seule pièce adverse ou la cathédrale, cette zone devient sienne : la pièce est retirée du tablier, lui-seul pourra construire par la suite dans la zone délimitée, ce qui lui procure un net avantage.
+Lorsque les joueurs ne peuvent plus poser de pièce, on compte le nombre de cases des pièces non posées et le vainqueur est celui qui en possède le moins.
+À chaque partie, les joueurs changent de couleur, et on additionne les points négatifs.

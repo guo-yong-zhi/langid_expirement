@@ -1,0 +1,4 @@
+Kaustika je optický jev.
+Kaustika je obálka světelných paprsků odražených nebo zlomených nějakou zakřivenou plochou nebo předmětem. Slovo kaustika také označuje obraz této obálky paprsků na jiném povrchu.
+Běžným příkladem kaustiky je sklenice s vodou, na kterou svítí slunce. Sklenice vrhá stín a zároveň vytváří zakřivenou oblast velice jasného světla.
+Většina moderních programů pro 3D grafiky a renderovacích systémů běžně pracuje s kaustikou. Některé z nich podporují i objemovou kaustiku.

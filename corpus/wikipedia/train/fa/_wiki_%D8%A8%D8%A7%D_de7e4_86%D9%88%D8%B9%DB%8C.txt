@@ -1,0 +1,12 @@
+زمینه‌های بازاریابی و هوش مصنوعی در سیستم‌هایی که در زمینه‌هایی مانند پیش‌بینی بازار، ماشینی شدن فرایندها و تصمیم‌گیری، همراه با افزایش بازده وظایفی که معمولاً توسط انسان انجام می‌شود، به یکدیگر کمک می‌کنند. علم پشت این سیستم‌ها را می‌توان از طریق شبکه‌های عصبی و سیستم‌های خبره، برنامه‌های رایانه ای که پردازش ورودی را بر عهده دارند و خروجی ارزشمندی را برای بازاریابان فراهم می‌کنند، توضیح داد.
+سیستم‌های هوش مصنوعی برگرفته شده از فناوری محاسبهٔ اجتماعی می‌توانند در فهم شبکه‌های اجتماعی در وب، استفاده شوند. از روش‌های داده کاوی می‌توان برای برای تحلیل انواع مختلف شبکه‌های اجتماعی استفاده شود. این تجزیه و تحلیل به یک بازاریاب کمک می‌کند تا بازیگران یا گره‌های شبکه‌ها را شناسایی کند، و این‌ها اطلاعاتی هستند که می‌توانند در روش بازاریابی اجتماعی استفاده بشوند.
+شبکه عصبی مصنوعی، نوعی برنامه کامپیوتری است که از مغز و سیستم عصبی انسان الگو گرفته‌است.
+۱.Whitby, B. . A beginner's guide: Artificial Intelligence. Oxford, England: Oneworld Publications.
+2.Tedesco, B. G. , Neural Analysis: Artificial Intelligence Neural Networks Applied to Single Source and Geodemographic Data. Chicage, IL: Grey Associates.
+3.Tedesco, B. G. . Neural Marketing: Artificial Intelligence Neural Networks In Measuring Consumer Expectations. Chicago, IL: Grey Associates.
+4.Bloom, J. . Market Segmentation: A Neural Network Application. Annals of Tourism Research, 32, 93–111.
+۵.Schwartz, E. I. . Smart Programs Go To Work. Retrieved from Business Week: http://www.businessweek.com/archives/1992/b325470.arc.htm
+۶. Hall, O. P. . Artificial Intelligence Techniques Enhance Business Forecasts: Computer-Based Analysis Increases Accuracy. Graziado Business Review, 5. Retrieved from http://gbr.pepperdine.edu/2010/08/artificial-intelligence-techniques-enhance-business-forecasts/
+۷.Hall, C. . Neural Net Technology- Ready for Prime-Time. IEEE Expert, 7, 2-4.
+۸.Woelfel, J. . Artificial Neural Networks for Advertising and Marketing Research: A Current Assessment. University at Buffalo.
+این یک مقالهٔ خرد  هوش مصنوعی است. می‌توانید با گسترش آن به ویکی‌پدیا کمک کنید.

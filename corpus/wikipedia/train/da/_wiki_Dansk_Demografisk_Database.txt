@@ -1,0 +1,2 @@
+Dansk Demografisk Database  er en online database, der stilles til rådighed af Dansk Data Arkiv, der er en del af Statens Arkiver. 
+Databasen anvendes især indenfor slægtsforskning, og  kan man søge efter personer i historiske kilder som f.eks. folketællinger og politiets udvandringsprotokoller. Kilderne er indtastet af både frivillige og professionelle og der tilføjes hele tiden flere data.

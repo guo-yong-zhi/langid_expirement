@@ -1,0 +1,11 @@
+• structural molecule activity• identical protein binding• ‏GO:0001948، ‏GO:0016582 ربط بروتيني• virus receptor activity
+• bicellular tight junction• موصل خلوي• غشاء• apicolateral plasma membrane• مكون تكاملي للغشاء• غشاء خلوي
+• cell-cell junction organization• ‏GO:0022415 viral process• calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules• دخول الفيروس
+P56747
+Q9Z262
+NM_021195
+‏XM_006524641 NM_018777، ‏XM_006524641
+NP_067018
+‏XP_006524704 NP_061247، ‏XP_006524704
+CLDN6‏  هوَ بروتين يُشَفر بواسطة جين CLDN6 في الإنسان. 1  2  3 
+هذه بذرة مقالة عن بروتين بحاجة للتوسيع. فضلًا شارك في تحريرها.

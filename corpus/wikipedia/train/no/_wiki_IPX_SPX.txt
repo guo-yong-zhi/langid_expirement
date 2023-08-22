@@ -1,0 +1,1 @@
+IPX/SPX  er en nettverksprotokoll som ble utviklet av Novell for selskapets NetWare-baserte operativsystemer. 1  Det var i vanlig bruk fra 1980-tallet til ca. midt på 1990-tallet. Systemet støttet MS-DOS, Windows og OS/2. Det er siden i all hovedsak blitt erstattet av TCP/IP. 2 

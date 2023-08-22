@@ -1,0 +1,2 @@
+Sulfotransferaze EC 2.8.2.- su transferazni enzimi koji katalizuju transfer sulfo grupe sa donorskog molekula na akceptorski alkohol ili amin. 1  Najčešći donor sulfo grupe je 3'-fosfoadenozin-5'-fosfosulfat . U slučaju alkohola kao akceptora, produkt je sulfat , do amin dovodi do formiranja sulfamata . Obe reaktivne grupe za sulfonaciju pomoću sulfotransferaze mogu da budu deo proteina, lipida, ugljenog hidrata ili steroida. 2 
+The following are examples of sulfotransferases:

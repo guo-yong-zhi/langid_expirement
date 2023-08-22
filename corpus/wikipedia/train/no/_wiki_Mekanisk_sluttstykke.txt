@@ -1,0 +1,3 @@
+Et mekanisk sluttstykke  er et beslag som monteres i dørens karm for å danne et solid forankringspunkt som dørbladet kan låses mot. I sluttstykket er det hull som falle eller reile fra dørens låskasse kan treffe. De fleste sluttstykker har en avrundet vinkel forat det skal være enklere å lukke en dør med falle uten å måtte dreie dørhåndtaket.
+Standardene for mål på mekaniske sluttstykker følger normalt standardene for låskasser, og mange sluttstykker har en symmetrisk form slik at de kan brukes i begge slagretninger.
+Et elektrisk sluttstykke fyller samme funksjon som et mekanisk sluttstykke, men har i tillegg mulighet til å åpne å lukke for falle eller reile.

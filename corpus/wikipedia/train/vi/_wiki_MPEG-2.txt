@@ -1,0 +1,5 @@
+MPEG-2 là một tiêu chuẩn mã hóa néntrong bộ tiêu chuẩn MPEG dùng để mã hóa luồng dữ liệu hình có kết hợp với các thông tin về âm thanh. Đây là một phương thức mã hóa dữ liệu có tổn hao cho phép lưu trữ và truyền phim ảnh trên nền hệ thống và băng thông hiện thời.
+Phiên bản trước của MPEG-2 là MPEG-1. MPEG-1 được thiết kế để truyền và lưu trữ các nội dung phim ảnh có độ phân giải trung bình .
+Khi các mạng truyền hình số mặt đất, cáp, số vệ tinh phát triển thì cần một chuẩn nén mới. Sau đây là danh sách các khu vực sử dụng MPEG-2:
+MPEG-2 hỗ trợ mã nén luồng âm thanh 4 kênh  mà chuẩn MPEG-1 không có.
+MPEG-2 mã hóa video với tốc độ dày ken  với hơn 4 triệu bit/giây. MPEG-2 cho video có độ phân giải 720x480 pixel và 1280x720 pixel với tốc độ 60fps và âm thanh đạt chất lượng AudioCD. Chuẩn này có thể nén một bộ phim dài 2 giờ thành một file có dung lượng vài GB. 

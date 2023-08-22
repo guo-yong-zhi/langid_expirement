@@ -1,0 +1,944 @@
+Kvadrika alebo kvadratická plocha je plocha 2. stupňa v trojrozmernom priestore. Teda ide o plochy, ktoré v pravouhlej súradnicovej sústave 
+  
+    
+      
+        
+      
+    
+    }
+  
+ môžeme zapísať v tvare 
+  
+    
+      
+        a
+        
+          x
+          
+            2
+          
+        
+        +
+        b
+        
+          y
+          
+            2
+          
+        
+        +
+        c
+        
+          z
+          
+            2
+          
+        
+        +
+        d
+        x
+        y
+        +
+        e
+        z
+        y
+        +
+        f
+        x
+        z
+        +
+        g
+        x
+        +
+        h
+        y
+        +
+        i
+        z
+        +
+        j
+        =
+        0
+      
+    
+    +by^+dxy+ezy+fxz+gx+hy+iz+j=0}
+  
+V priestore majme danú rovinu 
+  
+    
+      
+        k
+      
+    
+    
+  
+, v nej kužeľosečku 
+  
+    
+      
+        K
+      
+    
+    
+  
+ a bod 
+  
+    
+      
+        V
+      
+    
+    
+  
+ mimo nej. Množina bodov všetkých priamok 
+  
+    
+      
+        V
+        ,
+        X
+      
+    
+    
+  
+, kde 
+  
+    
+      
+        X
+         
+        K
+      
+    
+    
+  
+, sa nazýva kvadratická kužeľová plocha. Voľme súradnicový systém tak, aby 
+  
+    
+      
+        V
+        =
+        
+      
+    
+    
+  
+ a 
+  
+    
+      
+        K
+        :
+        z
+        =
+        c
+      
+    
+    
+  
+, kde 
+  
+    
+      
+        c
+         
+        0
+      
+    
+    
+  
+. Potom rovnice kvadratických kužeľových plôch budú:
+  
+    
+      
+        
+          
+            
+              
+                
+                  2
+                
+              
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                
+                  2
+                
+              
+            
+            
+              b
+              
+                2
+              
+            
+          
+        
+         
+        
+          
+            
+              z
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        0
+      
+    
+    }+-=0}
+  
+ ... eliptická kužeľová plocha,
+  
+    
+      
+        
+          
+            
+              
+                
+                  2
+                
+              
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+         
+        
+          
+            
+              
+                
+                  2
+                
+              
+            
+            
+              b
+              
+                2
+              
+            
+          
+        
+         
+        
+          
+            
+              z
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        0
+      
+    
+    }--=0}
+  
+ ... hyperbolická kužeľová plocha,
+  
+    
+      
+        c
+        
+          
+            2
+          
+        
+         
+        2
+        p
+        
+        z
+        =
+        0
+      
+    
+    -2pz=0}
+  
+ ... parabolická kužeľová plocha.
+V priestore majme danú rovinu 
+  
+    
+      
+        k
+      
+    
+    
+  
+, v nej kužeľosečku 
+  
+    
+      
+        K
+      
+    
+    
+  
+ a priamku 
+  
+    
+      
+        p
+      
+    
+    
+  
+ rôznobežnú s rovinou 
+  
+    
+      
+        k
+      
+    
+    
+  
+ mimo nej. Množina bodov všetkých priamok, ktoré sú rovnobežné s 
+  
+    
+      
+        p
+      
+    
+    
+  
+ a pretínajú 
+  
+    
+      
+        K
+      
+    
+    
+  
+ sa nazýva kvadratická valcová plocha. Voľme súradnicový systém tak, aby 
+  
+    
+      
+        p
+         
+        
+          P
+          ;
+          
+            
+              
+                v
+                 
+              
+            
+          
+          =
+          
+        
+      
+    
+    }=}}
+  
+. Potom rovnice kvadratických valcových plôch budú:
+  
+    
+      
+        
+          
+            
+              
+                
+                  2
+                
+              
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                
+                  2
+                
+              
+            
+            
+              b
+              
+                2
+              
+            
+          
+        
+        =
+        1
+      
+    
+    }+=1}
+  
+ ... eliptická valcová plocha,
+  
+    
+      
+        
+          
+            
+              
+                
+                  2
+                
+              
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+         
+        
+          
+            
+              
+                
+                  2
+                
+              
+            
+            
+              b
+              
+                2
+              
+            
+          
+        
+        =
+        1
+      
+    
+    }-=1}
+  
+ ... hyperbolická valcová plocha,
+  
+    
+      
+        
+          
+            2
+          
+        
+         
+        2
+        p
+        
+        =
+        0
+      
+    
+    -2p=0}
+  
+ ... parabolická valcová plocha.
+Elipsoid je stredová kvadrika s tromi rovinami súmernosti, ktoré pretínajú plochu v elipsách. Kanonické rovnice elipsoidu sú 
+  
+    
+      
+        
+          
+            
+              x
+              
+                2
+              
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              y
+              
+                2
+              
+            
+            
+              b
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              z
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        1
+      
+    
+    }++=1}
+  
+ 
+Ak 
+  
+    
+      
+        a
+        =
+        b
+      
+    
+    
+  
+, tak daný elipsoid je rotačný. V prípade 
+  
+    
+      
+        a
+        =
+        b
+        =
+        c
+      
+    
+    
+  
+ je daný elipsoid guľovou plochou.
+Kanonické rovnice hyperboloidu sú 
+  
+    
+      
+        
+          
+            
+              x
+              
+                2
+              
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              y
+              
+                2
+              
+            
+            
+              b
+              
+                2
+              
+            
+          
+        
+         
+        
+          
+            
+              z
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        1
+      
+    
+    }+-=1}
+  
+ ... jednodielny hyperboloid,
+  
+    
+      
+         
+        
+          
+            
+              x
+              
+                2
+              
+            
+            
+              a
+              
+                2
+              
+            
+          
+        
+         
+        
+          
+            
+              y
+              
+                2
+              
+            
+            
+              b
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            
+              z
+              
+                2
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+        =
+        1
+      
+    
+    }-+=1}
+  
+ ... dvojdielny hyperboloid.
+Jednodielny resp. dvojdielny hyperboloid sú stredové kvadriky s tromi rovinami súmernosti, pričom roviny 
+  
+    
+      
+        x
+        =
+        0
+      
+    
+    
+  
+ a 
+  
+    
+      
+        y
+        =
+        0
+      
+    
+    
+  
+ pretínajú plochu v hyperbolách a rovina 
+  
+    
+      
+        z
+        =
+        0
+      
+    
+    
+  
+ v elipse resp. nemá s plochou žiaden spoločný bod. Hyperboloidy, pre ktoré platí 
+  
+    
+      
+        a
+        =
+        b
+      
+    
+    
+  
+, sú rotačné hyperboloidy.
+Paraboloid je nestredová kvadrika s dvomi rovinami súmernosti, ktoré pretínajú plochu v parabolách. Kanonické rovnice paraboloidu sú 
+  
+    
+      
+        
+          
+            
+              x
+              
+                2
+              
+            
+            p
+          
+        
+        +
+        
+          
+            
+              y
+              
+                2
+              
+            
+            q
+          
+        
+        =
+        2
+        z
+      
+    
+    }}
+  
+ ... eliptický paraboloid,
+  
+    
+      
+        
+          
+            
+              x
+              
+                2
+              
+            
+            p
+          
+        
+         
+        
+          
+            
+              y
+              
+                2
+              
+            
+            q
+          
+        
+        =
+        2
+        z
+      
+    
+    }}
+  
+ ... hyperbolický paraboloid,
+kde 
+  
+    
+      
+        p
+        ,
+        q
+      
+    
+    
+  
+ sú kladné čísla. Dotyková rovina kvadrickej plochy 
+  
+    
+      
+        a
+        
+          
+            2
+          
+        
+        +
+        b
+        
+          
+            2
+          
+        
+        +
+        c
+        
+          
+            2
+          
+        
+        +
+        d
+        =
+        0
+      
+    
+    +b^+d=0}
+  
+ v dotykovom bode 
+  
+    
+      
+        M
+        =
+        
+      
+    
+    
+  
+ má rovnicu 
+  
+    
+      
+        a
+        
+        
+        +
+        b
+        
+        
+        +
+        c
+        
+        
+        +
+        d
+        =
+        0
+      
+    
+    
+  
+. 
+Dotyková rovina kvadrickej plochy 
+  
+    
+      
+        a
+        
+          
+            2
+          
+        
+        +
+        b
+        
+          
+            2
+          
+        
+         
+        c
+        
+          
+            2
+          
+        
+        =
+        0
+      
+    
+    +b^=0}
+  
+ v dotykovom bode 
+  
+    
+      
+        M
+        =
+        
+      
+    
+    
+  
+ má rovnicu 
+  
+    
+      
+        a
+        
+        
+        +
+        b
+        
+        
+        +
+        c
+        
+        =
+        0
+      
+    
+    
+  

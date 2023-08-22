@@ -1,0 +1,2 @@
+ISO 8859 er en standard som definerer flere tegnsett beregnet på datamaskiner. Standarden er delt opp i flere deler slik som ISO 8859-1, ISO 8859-2 osv, som hver for seg også refereres til som standarder.
+ISO 8859 er delt inn i følgende deler:

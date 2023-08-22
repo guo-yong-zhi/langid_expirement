@@ -1,0 +1,11 @@
+Metorð, myndvídd, tign eða stétt 1   fylkis í línulegri algebru segir til um það hver vídd grunnsins er; og jafngildir línuvíddinni og líka dálkvíddinni þar sem dálkvíddin og línuvíddin hafa alltaf sama gildi. Metorð fylkisins A er oft táknað með rithættinum rk eða rank A. 
+Línuvídd  fylkisins A er hlutrúmið sem línuvigrar fylkisins A spanna, og dálkvídd  fylkisins A er hlutrúmið sem dálkvigrar fylkisins A spanna.
+Auðveldasta leiðin til að reikna metorð fylkis A er með því að nota Gauss-eyðingu. Stallað form fylkisins A er jafnt metorði fylkisins A, og hægt er að reikna út metorðið með því að telja hve margar línur á stallaða forminu innihalda aðrar tölur en núll.
+Hér er 4×3 fylki tekið fyrir:
+Eftir að þetta fylki hefur verið sett á stallað form með Gauß-eyðingunni þá fæst út:
+sem hefur þrjár raðir sem eru ekki núll. Af því sést að metorð þess er jafnt og 3.
+Hér er 4×4 fylki tekið fyrir:
+Eftir að þetta fylki hefur verið sett á stallað form með Gauß-eyðingunni þá fæst út:
+sem hefur tvær raðir sem eru ekki núll. Af því sést að metorð þess er jafnt og 2.
+Eftir að þetta fylki hefur verið sett á stallað form með Gauß-eyðingunni þá fæst út:
+sem hefur tvær raðir sem eru ekki núll. Af því sést að metorð þess er jafnt og 2.

@@ -1,0 +1,154 @@
+Sa matematika, ang makatwirang bilang o numerong rasyonal  ay isang bilang na maisusulat bilang isang praksiyon . Lahat ng rasyonal na bilang ay tunay na bilang, at maaaring positibong bilang o negatibo. Ang isang bilang na hindi makatwiran o rasyonal ay tinatawag na numerong irasyonal o di-makatwirang bilang. Karamihan sa mga bilang na kinakaharap ng mga tao sa pang-araw-araw na buhay ay rasyonal. Kasama rito ang mga praksiyon at mga intedyer o buumbilang.
+Lahat ng mga makakatwirang bilang ay maisusulat bilang isang praksiyon. Gawing halimbawa ang 1.5. Maaari itong isulat na 
+  
+    
+      
+        1
+        
+          
+            1
+            2
+          
+        
+      
+    
+    
+  
+, 
+  
+    
+      
+        
+          
+            3
+            2
+          
+        
+      
+    
+    
+  
+, o 
+  
+    
+      
+        3
+        
+          /
+        
+        2
+      
+    
+    
+  
+.
+Kasama sa marami pang mga halimbawa ng mga praksiyon na makakatwirang bilang ang 
+  
+    
+      
+        
+          
+            1
+            7
+          
+        
+      
+    
+    
+  
+, 
+  
+    
+      
+        
+          
+            
+               
+              8
+            
+            9
+          
+        
+      
+    
+    
+  
+, at 
+  
+    
+      
+        
+          
+            2
+            5
+          
+        
+      
+    
+    
+  
+.
+Ang nagwawakas, nagtatapos, tumitigil, o humihintong desimal ay isang desimal na may partikular na bilang ng mga tambilang  sa kanan ng tuldok na desimal. Halimbawa ng mga ito ang 3.2, 4.075, at -300.12002. Lahat ng mga ito ay makatwiran.
+Ang isang desimal na paulit-ulit ay isang desimal na kung saan may mga walang katapusang maraming mga tambilang sa kanan ng tuldok na desimal, subalit sumusunod sila sa isang paulit-ulit na pasimundan o padron. Isang halimbawa nito ay ang 
+  
+    
+      
+        
+          
+            1
+            3
+          
+        
+      
+    
+    
+  
+. Bilang isang desimal, isinusulat ito na 0.3333333333... Ang mga tuldok o elipsis ay nagsasabi na ang bilang na 3 ay umuulit.
+Kung minsan, isang pangkat ng mga tambilang ang umuulit. Isang halimbawa ang 
+  
+    
+      
+        
+          
+            1
+            11
+          
+        
+      
+    
+    
+  
+. Bilang isang desimal, isinusulat ito na 0.09090909... Sa ganitong halimbawa, ang pangkat ng mga tambilang na 09 ang paulit-ulit.
+Gayundin, kung minsan ang mga tambilang ay umuulit pagkaraan ng ibang pangkat ng mga tambilang. Isang halimbawa ang 
+  
+    
+      
+        
+          
+            1
+            6
+          
+        
+      
+    
+    
+  
+. Isinusulat ito na 0.16666666... Sa ganitong halimbawa, ang tambilang na 6 ang nauulit, kasunod ng tambilang na 1.
+Kapag sinubukan ito sa kalkulador, paminsan-minsan itong maaaring gumawa ng isang kamalian sa pagbubuo o kamalian sa pag-ra-round off sa hulihan. Halimbawa, maaaring ipakita ng kalkulador na ang 
+  
+    
+      
+        
+          
+            2
+            3
+          
+        
+        =
+        0.6666667
+      
+    
+    
+  
+, kahit na walang 7. Binubuo nito ang 6 sa hulihan magpahanggang 7.
+Ang mga tambilang pagkaraan ng tuldok na desimal sa loob ng isang irasyonal o di-makatwirang bilang ay hindi umuulit. Halimbawa, ang unang mangilan-ngilang mga tambilang ng π  ay 3.1415926535... Hindi umuulit ang mga tambilang, at hindi uulit kaylanman, gaano mang kalayo ang marating sa kanan ng tuldok ng desimal.

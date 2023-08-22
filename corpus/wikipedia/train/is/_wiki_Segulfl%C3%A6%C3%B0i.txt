@@ -1,0 +1,6 @@
+Segulflæði er mælikvarði á flæði segulsviðs, oftast táknað með gríska bókstafnum   . SI-mælieining er veber, táknuð með Wb. 
+Segulflæði, sem fer gegnum flöt A, er skilgreint með eftirfarandi heildi:
+þar sem
+og heildað er yfir flötinn A. Ef flöturinn A er lokaður og afmarkar rýmið V fæst, skv. jöfnum Maxwells, með því að beita setningu Gauss:
+sem segir að jafn mikið segulflæði fer inn um flötinn og út úr honum, þ.a.seguleinskaut finnast ekki.
+Span er segulflæði gegnum spanspólu, deilt með rafstrauminn, sem um spóluna fer.

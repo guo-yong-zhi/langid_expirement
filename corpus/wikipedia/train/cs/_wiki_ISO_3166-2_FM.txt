@@ -1,0 +1,6 @@
+Kódy ISO 3166-2 pro Federativní státy Mikronésie identifikují 4 státy . První část  je mezinárodní kód pro Mikronésii, druhá část sestává ze tří písmen identifikujících stát.
+ FM-KSA Kosrae 
+FM-PNI Pohnpei 
+FM-TRK Chuuk 
+FM-YAP Yap 
+</pr

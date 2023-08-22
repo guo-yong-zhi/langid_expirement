@@ -1,0 +1,24 @@
+La aizoacoj 2   estas planta familio el la dukotiledonaj angiospermoj. Tiu familio apartenas al la ordo kariofilaloj . Ĝi enhavas ĉirkaŭ 150 genrojn kaj pli ol 2270 speciojn 1 , 3 . Ĝia tipa genro estas aizoo 2 .
+La disvastiga centro estas suda Afriko . Ankaŭ en Aŭstralio hejmiĝas multajn speciojn.
+Kelkaj specioj kaj kultivvarioj estas tutmonde uzataj kiel ornamplanto.
+Multaj plantoj nomiĝas en naciaj lingvoj, „tagmeza floro“ aŭ „vivantaj ŝtonoj“.
+Ili estas unujaraj aŭ multjaraj plantoj. Povas esti herbaj plantoj, duonarbustoj aŭ arbustoj. Plej oftas sukulentaj plantoj. Ili estas 
+  
+    
+      
+        
+          C
+          
+            4
+          
+        
+      
+    
+    }
+  
+ aŭ KAM-plantoj. La foliojplej ofte estas sukulentaj, sed ekzistas ankaŭ nesukulentaj specioj.
+La radisimetriaj floroj estas plej ofte duseksaj .Plej ofte ekzistas kvin  sepaloj. La floroj enhavas multajn  stamenoj .Ofte nefekundaj stamenoj aspektas petalsimile ; Plej ofte mankas veraj petaloj. La floroj enhavas du ĝis kvin  karpelojn. La polenigado okazas per insektoj .
+Plej ofte formiĝas kapsulfruktoj aŭ kelkfoje beroj, kiuj enhavas multajn  semojn.
+La familio de la Aizoacoj estas dividita en kvar subfamilioj  4  kun jenaj genroj: 5 
+Sinonimoj de la familio estas Ficoidaceae Juss., Mesembryanthemaceae Fenzl , Sesuviaceae Horan. kaj Tetragoniaceae Link . 6 
+Laŭ World Flora Online kaj The Plant List  1 , 3 , jen ĉi-sube la listo de la akceptitaj taksonoj, kaj ties Esperantaj nomoj 7 :

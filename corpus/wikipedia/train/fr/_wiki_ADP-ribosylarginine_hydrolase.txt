@@ -1,0 +1,2 @@
+modifier L'ADP-ribosylarginine hydrolase est une hydrolase qui catalyse les réactions :
+Cette enzyme annule l'effet des mono des protéines, du type de celles réalisées par la NAD+-protéine-arginine ADP-ribosyltransférase ; elle ne réalise cependant pas la réaction inverse de cette dernière, car elle ne régénère par le NAD.

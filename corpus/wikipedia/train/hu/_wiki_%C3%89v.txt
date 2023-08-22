@@ -1,0 +1,22 @@
+Pontosságellenőrzött
+Az év vagy esztendő időszámításunk egyik meghatározó egysége, bizonyos egységül felvett időköz. Leginkább az az idő, melyre a Földnek szüksége van ahhoz, hogy a Napot körbejárja, és mely alatt az évszakok ugyanazon sorban ismétlődnek.
+Létezik csillagászati és naptári év. Csillagászati év alatt az év valóságos  időtartamát értjük, naptári éven pedig a csillagászati évben foglalt teljes napok számát. Az év jelölése a természettudományokban: a , melyet SI-prefixummal láthatunk el.
+Általánosan és leggyakrabban a naptári évet használjuk éveink meghatározásához. A naptári évet a Gergely-naptár szerint feloszthatjuk:
+Nem szokás, de lehetséges tovább osztani az évet:
+A Gergely-naptár szerint az év első napja január 1., az év közepe július 1-jére esik, míg az utolsó nap december 31.
+Az évek számozását a Gergely-naptár Jézus születésének évével kezdi, azaz 1. január 1-jével .
+Más naptárak, évszámozások is léteznek vagy léteztek, amelyekben az időszámítás kezdetét más időpontra tették :
+Csillagászati éven a Föld Nap körüli útjának egyszeri megtételét értjük. A csillagászati év időtartama többféleképpen is megadható; az alábbiakban négy változat leírását ismertetjük.
+A sziderikus év az az időtartam, ami alatt a Föld az állócsillagokhoz képest megkerüli a Napot.
+A tropikus év az az időtartam, mely a Fiktív egyenlítői középnap két egymást követő tavaszpont-áthaladása között eltelik.
+A tropikus év hossza nem állandó: értéke a  T. évben: t = 365,242189669781 – 6,161870·10−6·T – 6,44·10−10·T², ahol T=/36525  1 
+A képlettel számított hossz eltérése a távcsöves megfigyelésektől 
+Figyelembe véve az ókori csillagászati eseményeket, a hibaérték növekszik
+/a két hibaérték között i. e. 45-re ΔTSM=12330 s és ΔTMB=46222 s különbség adódik/
+Az anomalisztikus év az az időtartam, ami alatt a Föld napközelből újra napközelbe kerül, másképpen perihéliumtól perihéliumig tart.
+Mivel a Föld precessziója miatt a tavaszpont vándorol az égbolton, és a perihéliumpont pedig más okok  miatt, ezért ezeknek az éveknek a hossza eltér.
+A drakonikus év: a Napnak a Hold felszálló csomópontján való két egymást követő áthaladása közötti időtartam.
+A tanév egy két éven átívelő periódus, mely az északi féltekén általában szeptember elejétől június közepéig tart. A nyári szünetet a megelőző tanévhez tartozónak tekintjük.
+A tanévhez hasonló módon alkalmazzák.
+A multinacionális cégeknek nemzetközi összehasonlíthatósági szempontból lehetőségük van a naptári évtől eltérő adóévet létrehozni, így adóügyi beszámolóikat bizonyos esetekben ennek megfelelően készítik el.
+A standard Julián-nap /JD/ hossza:

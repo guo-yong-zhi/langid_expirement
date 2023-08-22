@@ -1,0 +1,3 @@
+シクロヘキサノンデヒドロゲナーゼは、次の化学反応を触媒する酸化還元酵素である。
+反応式の通り、この酵素の基質はシクロヘキサノンと受容体、生成物は2-シクロヘキセノンと還元型受容体である。
+組織名はcyclohexanone:acceptor 2-oxidoreductaseで、別名にcyclohexanone: 2-oxidoreductaseがある。

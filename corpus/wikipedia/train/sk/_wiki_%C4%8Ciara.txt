@@ -1,0 +1,2 @@
+Čiara je nepretržitý, súvislý rad  bodov. Geometria charakterizuje čiaru ako jednorozmerný útvar, ktorý vzniká pohybom bodu alebo ako priesečník dvoch rovín, alebo ako priesečník roviny a obrysu priestorového objektu. Čiara má len jeden rozmer – dĺžku. Názov čiara je spoločný pre priamky a krivky.
+Čiara v technickom kreslení je nakreslená linka slúžiaca na zobrazenie technickej súčiastky, alebo komponentu na technickom výkrese. 

@@ -1,0 +1,3 @@
+Piston kolu ya da piston çubuğu, pistonlu bir motorda, pistondan aldığı hareketi krank miline ya da  tahrik tekerleklerini hareket ettiren bağlantı çubuğuna ileten parçadır.
+İçten yanmalı motorlar ve özellikle mevcut tüm otomobil motorları, genellikle piston kollarına sahip değildir. Bunun yerine, piston ve piston başının birleştirildiği gövde pistonları kullanırlar ve bu nedenle aralarında bir bağlantı çubuğuna ihtiyaç duymazlar.  Piston çubuğu terimi, bu motorlar bağlamında 'bağlantı çubuğu' ile eşanlamlı olarak kullanılmıştır.
+Piston başına sahip motorlarda, piston çubukları vardır. Bunlara çoğu buharlı lokomotif ve bazı büyük deniz dizel motorları da dahildir.

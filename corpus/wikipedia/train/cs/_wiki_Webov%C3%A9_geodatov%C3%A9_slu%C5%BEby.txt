@@ -1,0 +1,1 @@
+Webové geodatové služby  jsou nástrojem pro přístup k geodatům  prostřednictvím internetu . Služby umožňují přístup k celku, ale i částem geodat. Často využívají mnoho informačních technologií a standardů, např. HTTP, XML, URL, DTD, XSD, SOAP, webový server, aj.

@@ -1,0 +1,42 @@
+La posició de Lucena és una de les més famoses i rellevants posicions de la teoria de finals en escacs, en què un bàndol té torre i peó, mentre que el defensor té una torre. És fonamental pel final de torre i peó contra torre. Si el bàndol amb el peó pot assolir aquesta mena de posició, pot forçar la victòria. La majoria de finals de torre i peó contra torre acaben arribant o bé a la posició de Lucena o bé a la posició de Philidor si són jugats de manera acurada . El bàndol amb el peó ha de mirar d'assolir la posició de Lucena per guanyar, mentre que el defensor ha de mirar d'assolir la posició de Philidor per entaular.
+La posició rep el nom  de l'escaquista castellà Luis Ramírez de Lucena .
+   L'així anomenada posició de Lucena rep el seu nom del castellà Luis Ramírez de Lucena, tot i que es tracta d'un nom mal posat, ja que la posició no apareix pas al seu llibre d'escacs, Repetición de Amores e Arte de Axedrez . Apareix, en canvi, a l'obra d'Alessandro Salvio Il Puttino , una novel·la sobre la carrera de l'escaquista Leonardo da Cutri . 1  Salvio l'atribueix a Scipione Genovino .
+La posició es mostra més amunt i més avall . L'objectiu de les blanques és o bé promocionar el seu peó, o bé obligar les negres a donar la torre a canvi; qualsevol de les dues opcions donaria a les blanques una aclaparadora superioritat material i per tant una victòria senzilla. Les blanques han aconseguit d'avançar el seu peó fins a la setena fila, però no el poden coronar perquè el seu propi rei destorba. Les blanques haurien d'apartar el rei i promocionar el peó, però no poden fer-ho a la columna-a perquè hi ha la torre negra, ni a la columna-c perquè ho impedeix el rei negre.
+Les característiques essencials de la posició són:
+Si es donen aquestes condicions, el bàndol que té el peó pot forçar-ne la promoció.
+Una manera òbvia de continuar per les blanques , com ara 
+no duu enlloc, perquè les negres poden simplement molestar el rei blanc amb xecs, i les blanques no podrien progressar: 
+A la posició de Lucena, el bàndol amb el peó disposa d'un mètode guanyador que funciona per qualsevol peó llevat del peó de torre. En algunes circumstàncies, funciona també pel peó de torre.
+En aquesta posició, les blanques guanyen amb
+Ara, si les negres fan una jugada d'espera, com ara 
+esperant molestar el rei blanc amb xecs altre cop com a la variant anterior, les blanques continuen
+La torre negra no pot fer més xecs, i per tant les negres no poden evitar que el peó coroni . La protecció del rei i el peó amb la torre d'aquesta manera va ser descrita com a "bastint un pont" per Aron Nimzowitsch .
+És important que la torre blanca vagi d'entrada a la quarta fila i les negres empren la seva defensa més activa: fer xecs repetidament sobre el rei blanc. Si les negres abandonen aquesta defensa, la torre blanca bastirà el pont a la cinquena fila. A la línia anterior, després de 
+si les negres fan
+hi ha una trampa per les blanques: si 6.Td5??  llavors 6...Txb7! entaula. De tota manera, si
+ 8.Te5 també rutlla.) 
+i les blanques poden bastir el pont a la cinquena fila tot portant la torre a b5, i el rei a b6, i llavors el peó podrà promocionar  :
+i les blanques guanyen.
+Si la torre defensora és a la fila que impediria que l'altra torre assoleixi la fila crucial , vegeu final de torre i peó contra torre#La torre defensora impedeix el pont.
+Si és el torn de les negres a la posició del diagrama, poden evitar que la torre blanca vagi a la quarta fila, però tot i així, les blanques guanyarien:
+ Ara les blanques guanyen bloquejant els xecs amb
+seguit de
+També es pot bastir el pont a la cinquena fila . La línia principal continua:
+Amenaçant de promocionar el peó, les blanques només ho poden endarrerir amb xecs.
+i el peó promocionarà. O bé
+És millor 2.Tf8 Rg7 3.Tf4!, tornant al camí de bastir el pont a la quarta.
+i les blanques tenen un final guanyador  de dama contra torre  .
+Aproximacions alternatives no són millors per les negres. Després de 1.Td1+ Re7 2.Td4 a dalt, després de
+per exemple, les blanques encara poden dur a terme el seu pla com abans, o bé guanyar amb la simple
+que allunya el rei negre i permet que el peó promocioni. 
+El mètode de Lucena també funciona amb un peó de torre si la torre blanca ja és a la quarta fila, la torre negra no és a la columna adjacent al peó, i és el torn de les blanques. En cas contrari, el rei defensor hauria d'estar tallat a quatre columnes del peó, com al diagrama. Aquesta no és una vertadera posició de Lucena, ja que el rei és tallat per més d'una columna. Les blanques guanyen:
+i les blanques tenen un final guanyador de dama contra torre – un que és més fàcil de guanyar que d'altres en què la torre és tocant el seu rei .
+No totes les posicions similars es guanyen. En aquesta posició, les negres entaulen perquè poden fer xecs segurs des de la banda. Per tal que aquesta defensa rutlli, hi ha d'haver com a mínim tres columnes entre la torre defensora i el rei fort, i el rei defensor ha d'estar situat en algun lloc on no pugui interferir en els xecs, és a dir, el rei defensor ha de ser a la "banda curta" del peó  . 
+En aquesta partida de l'any 2000 entre Rice i Ian Snape, les negres varen fer servir el procediment de més amunt:
+Aquí les blanques es desvien:
+Les blanques abandonen, però l'alternativa és:
+i les negres guanyen .
+En aquesta posició, d'una partida de 1999 entre Ulf Andersson i Ralf Åkesson, les blanques canvien peons per tal d'assolir la posició de Lucena. 3 
+i les negres abandonaren. Les blanques assoliran la posició de Lucena: 81...Tg1+ 82.Rf7 Tf1 83.f6 Tf2 84.Rg7 Tg2+ 85.Rf8 Tf2 86.f7 Tg2  87.Td4+ Rc7  88.Re7 Te2+ 89. Rf6 Tf2+ 90.Re6 Te2+ 91.Rf5 Tf2+ 92.Tf4 i les blanques guanyen .
+Els finals de torre i peó ocorren bastant sovint en escacs, aproximadament entre un vuit i un deu per cent de les partides , . Aquesta posició és molt important, ja que molts finals se simplifiquen fins a arribar-hi. En tant que és una posició de victòria forçada, els finals sovint es juguen amb el jugador del peó intentant arribar a la posició de Lucena, i el rival intentant d'evitar-ho.
+Hi ha un mètode alternatiu per guanyar aquesta mena de posicions, que funciona només en cas de peons entre la columna-c i la columna-f .

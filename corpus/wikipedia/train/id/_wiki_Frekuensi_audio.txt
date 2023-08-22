@@ -1,0 +1,2 @@
+Frekuensi suara, frekuensi audio atau audiosonik yaitu getaran frekuensi yang terdengar oleh manusia dengan standard antara 20 hertz sampai dengan 20.000 hertz.
+Menurut sistem pendengaran manusia di bagi menjadi tiga kelompok, yaitu frekuensi infrasonik, dengan rentang 0-20 Hz, frekuensi audible, 20-20.000 Hz, dan frekuensi ultrasonik, dengan rentang > 20.000 Hz

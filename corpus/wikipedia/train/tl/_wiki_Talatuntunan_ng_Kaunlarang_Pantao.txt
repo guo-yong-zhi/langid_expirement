@@ -1,0 +1,196 @@
+Ang Talatuntunan ng Kaunlarang Pantao 1  2   sa Ingles ay isang talatuntunan o indeks na ginagamit upang sukatin o iranggo ang mga bansa ayon sa antas ng kaunlarang panlipunan at ekonomiya ng isang bansa at karaniwang nagpapahiwatig  kung ang isang bansa ay maunlad, umuunlad, o kulang sa pag-unlad.
+Upang mabago ang hilaw na Bariabelo sabihing ang 
+  
+    
+      
+        x
+      
+    
+    
+  
+ sa isang unit-free index sa pagitan ng 0 at 1 , ang sumusunod na formula ang ginamit:
+kung saan 
+  
+    
+      
+        min
+        
+          
+        
+      
+    
+    
+  
+ at 
+  
+    
+      
+        max
+        
+          
+        
+      
+    
+    
+  
+ ang mga pinakamababa at pinakamataas na balyu, ang bariabelo 
+  
+    
+      
+        x
+      
+    
+    
+  
+ ang maaaring mag-attain.
+Ang HDI ay binubuo ng:
+Ang 2011 ng HDI ay nagsasama ng tatlong mga dimensiyon:
+Sa 2010 Human Development Report, ang UNDP ay nagsimulang gumamit ng bagong paraan sa pagkakalkula ng HDI at binubuo ng tatlong mga indeks: 
+1. Indeks ng inaasahang panahon ng buhay  
+  
+    
+      
+        =
+        
+          
+            
+              
+                
+                  LE
+                
+              
+               
+              20
+            
+            
+              82.3
+               
+              20
+            
+          
+        
+      
+    
+    }-20}
+  
+2. Indeks ng edukasyon  
+  
+    
+      
+        =
+        
+          
+            
+              
+                
+                  MYSI
+                
+              
+               
+              
+                
+                  EYSI
+                
+              
+            
+            0.951
+          
+        
+      
+    
+    }\cdot }}
+  
+3. Indeks ng sahod  
+  
+    
+      
+        =
+        
+          
+            
+              ln
+               
+              
+               
+              ln
+               
+              
+            
+            
+              ln
+               
+              
+               
+              ln
+               
+              
+            
+          
+        
+      
+    
+    
+  
+Ang HDI ang mean na heometriko ng nakaraang mga tatlong normalisadong indeks:
+  
+    
+      
+        
+          
+            HDI
+          
+        
+        =
+        
+          
+            
+              
+                
+                  LEI
+                
+              
+               
+              
+                
+                  EI
+                
+              
+               
+              
+                
+                  II
+                
+              
+            
+            
+              3
+            
+          
+        
+        .
+      
+    
+    }=\cdot }}.}
+  
+LE: Inaasahang panahon ng buhay sa kapanganakan
+MYS: Mean na mga taon ng pag-eeskwela  
+EYS: Inaasahang mga taon ng pag-eeskwela
+GNIpc: Gross na pambansang sahod sa paridad na kapangyarihang bumili kada capita
+|}
+Ang mga bansa na may pinakamataas na pag-unlad na pantao: 6 
+Note: Ang mga beredeng palaso , mga pulang palaso  at mga dash na asul  ay kumakatawan sa mga pagbabago sa ranggo kapag inihambing sa bagong data na 2011 ng HDI para sa 2010.
+ 
+ 
+ 
+Ang mga sumusunod na bansa ang nakasama sa Top 38.
+ 
+ 
+Ang mga bansang hindi nakasali sa Talaan ng 2009 sa kadahilanan ng kakulangan sa istatistika , kawalan ng kaayusan at hindi miyembro ng UN
+Africa
+ 
+Asia
+ 
+Europe
+ 
+Oceania
+ 

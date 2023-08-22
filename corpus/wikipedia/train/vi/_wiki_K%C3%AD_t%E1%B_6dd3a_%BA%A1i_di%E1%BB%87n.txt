@@ -1,0 +1,9 @@
+Ký tự đại diện có nhiều loại.
+Trong lĩnh vựctruyền thông, ký tự đại diện là ký tự  được quy ước là sự thay thế cho một hoặc nhiều ký tự khác.
+Trong công nghệ phần mềm máy tính, ký tự đại diện có thể thay thế cho 1 hoặc nhiều ký tự trong chuỗi ký tự.
+Khi đặc tả tên tập tin  trong CP/M, DOS, Microsoft Windows, và hệ điều hành dựa Unix, ký tự hoa thị đại diện cho 0 hay nhiều hơn 1 ký tự.
+Ở hệ điều hành tựa Unix và DOS, dấu hỏi ? đại diện cho đúng 1 ký tự; trong DOS, nếu dấu hỏi đặt ở cuối từ nó có thể đại diện cho ký tự cuối không tồn tại. Ví dụ, trong DOS, bản mẫu 123??? có thể là 1234 hay 12345, nhưng không được là 1234567.
+Trong Unix shell và Windows PowerShell, miền ký tự trong dấu ngoặc vuông  trùng khớp với 1 ký tự trong miền giá trị; như,  đại diện cho bất kỳ 1 ký tự viết thường hoặc viết hoa. Unix shells cho phép thể hiện phép phủ định giá trị bằng dấu than  ! . Dấu ^ ở trước cũng có thể thay cho ! để phủ định miền giá trị.
+Hệ điều hành hỗ trợ bản mẫu ký tự đại diện cho nhiều tập tin và đường dẫn được xem là globbing trong tiếng Anh.
+Trong SQL, ký tự đại diện có thể dùng trong biểu thức cơ sở dữ liệu tựa SQL; ký tự phần trăm % thay cho 0 hay nhiều hơn 1 ký tự, và gạch dưới _ là 1 ký tự. Giao tác trong SQL cũng hỗ trợ , dấu mũ ^ ở phía trước thay cho 1 ký tự khác với miền đặc tả. Trong Microsoft Access, ký tự đại diện có thể dùng trong biểu thức LIKE.
+Trong Biểu thức chính quy, dấu chấm (. thay cho 1 ký tự, kết hợp với dấu hoa thị .* thay cho bất kỳ chuỗi ký tự nào.

@@ -1,0 +1,5 @@
+Notepad++ er et åpent, fritt og gratis tekstredigeringsverktøy.
+Brukerrettighetene er definert av GNU General Public License.
+Programmet bygger på Scintilla og har funksjoner som autofullføring, syntaksmerking, regulære uttrykk. Filer for grensesnitt og stavekontroll på ulike språk kan lastes ned separat, blant annet på bokmål og nynorsk. Det er støtte for Unicode, redigering av TeX-dokumenter og binærfiler og en rekke andre formater. Brukergrensesnittet benytter arkfaner. Notepad++ støtter makroer og *nix skallskript, og har en innebygd FTP-klient, men støtter ikke den sikre SSH-protokollen.
+Notepad++ støtter blant annet assembler, programmeringsspråkene Ada, C, C#, C++, Fortran, Java, Lisp, Pascal, Ruby og Visual Basic, samt skriptspråkene AutoIt, ASP, JavaScript, Lua, MATLAB, Perl, PHP, Python og VBScript.
+For nettstedutvikling er det støtte for HTML, CSS, XML og databasespråket SQL .

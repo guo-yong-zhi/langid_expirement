@@ -1,0 +1,3 @@
+Wifislax er en LiveDistro  Linuxdistribusjon fra Spania som er basert på Slackware. Distribusjonen inneholder forskjellige verktøy for sikkerhet og kriminalteknikk. Wifislax integrerer forskjellige uoffisielle nettverksdrivere i Linuxkjernen for å sørge for ut.av-boksen støtte for et stort antall nettverkskort for trådløse nett såvel som nettverk med kabel.
+Wifislax støtter plattformen i486. Distribusjonen støtter  skrivebordsmiljøene MATE) og Xfce
+Versjon 3.1 ble lansert 9. oktober 2003. Versjon 4.12 ble lansert 6. august 2016.

@@ -1,0 +1,9 @@
+ 
+Un transformator es un apparato que transfere energia electric ab un circuito a un altere per conductores accopulate inductivemente — le bobinas del transformator.  
+Un currente variante in le prime o primari bobina crea un fluxo magnetic variante in le corde del transformator e assi un campo magnetic variante per le bobina secundari. Iste campo magnetic variante induce un fortia electromotive variante, o "voltage", in le bobina secundari. Iste effecto es appellate induction mutual.
+Si un cargamento es connectite al bobina secundari, un currente electric affluera in le bobina secundari e energia electric essera transferite ab le circuito primari trans le transformator al cargamento. In un transformator ideal, le voltage inducite in le bobinar secundari 
+ es in proportion al voltage primari , e illo es date per le ration del numero de tornos in le bobina secundari  
+al numero de tornos in le bobina primari  como:
+Per le selection correcte del ration de tornos, un transformator permitte un voltage de currente alternate de esser augmentate 
+per facer Ns plus grande que Np, o reducite per facer Ns minus grande que Np.
+In le majoritate large de transformatores, le bobinas es girate circa un nucleo ferromagnetic; transformatores con nucleos aeree es un exception notabile.

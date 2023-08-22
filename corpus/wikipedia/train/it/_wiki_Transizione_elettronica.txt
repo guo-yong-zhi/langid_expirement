@@ -1,0 +1,29 @@
+La transizione elettronica è quel fenomeno fisico, su scala atomica, che comporta la transizione di un elettrone da uno stato stazionario a un altro. Il passaggio tra due stati comporta fenomeni di irraggiamento in cui la natura della radiazione elettromagnetica è legata al dislivello di energia tra i due stati.
+Il modello atomico di Bohr introdusse la prima descrizione esaustiva della struttura di un atomo superando le difficoltà della teoria elettromagnetica sulla quale si basavano i precedenti modelli teorici, compreso quello di Ernest Rutherford .
+Concetti di base della teoria di Niels Bohr:
+La differenza di energia tra i due livelli orbitali può essere emessa sotto forma di radiazione elettromagnetica e misurabile attraverso l'analisi dei cosiddetti spettri atomici. Questa radiazione ha una frequenza data dalla equazione per la condizione di risonanza di Bohr:
+con 
+  
+    
+      
+        
+          E
+          
+            i
+          
+        
+        >
+        
+          E
+          
+            f
+          
+        
+      
+    
+    >E_
+  
+ e h è la costante di Planck
+In modo semplificato, e basato su una rappresentazione classica, un atomo può essere descritto come composto di un nucleo carico positivamente  circondato da strati di elettroni con carica negativa che orbitano attorno al nucleo. Gli strati sono indicati con le lettere K, L, M, N .
+Ogni elettrone è caratterizzato da diversi numeri quantici che lo distinguono in modo univoco e ne specificano lo strato di appartenenza.
+Il principio di esclusione di Pauli stabilisce quanti elettroni possono stare in uno strato: esso, infatti afferma che due elettroni non possono avere tutti i numeri quantici uguali, ma devono differenziarsi per almeno uno di essi.

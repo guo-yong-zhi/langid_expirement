@@ -1,0 +1,27 @@
+
+.bi ist die länderspezifische Top-Level-Domain  von Burundi. Sie existiert seit dem 21. Oktober 1996 und wird vom Burundi National Center of Information Technology  verwaltet. 2 
+Zwar existieren einige Second-Level-Domains, jedoch werden .bi-Adressen fast ausschließlich auf zweiter Ebene angemeldet. Jede natürliche oder juristische Person darf eine Domain unter .bi registrieren, ein Wohnsitz oder eine Niederlassung in Burundi sind nicht notwendig. 3  Insgesamt darf eine .bi-Domain zwischen drei und 63 Zeichen lang sein, internationalisierte Domainnamen werden nicht unterstützt. Die Vergabestelle verbietet Domains mit solchen Begriffen, die gegen die allgemeinen Moralvorstellungen des Landes verstoßen und beispielsweise pornografischer Natur sind. 4 
+A .ac · .ad · .ae · .af · .ag · .ai · .al · .am · .ao · .aq · .ar · .as · .at · .au · .aw · .ax · .az  B .ba · .bb · .bd · .be · .bf · .bg · .bh · .bi · .bj · .bm · .bn · .bo · .br · .bs · .bt · .bw · .by · .bz  C .ca · .cc · .cd · .cf · .cg · .ch · .ci · .ck · .cl · .cm · .cn · .co · .cr · .cu · .cv · .cw · .cx · .cy · .cz  D .de · .dj · .dk · .dm · .do · .dz  E .ec · .ee · .eg · .er · .es · .et · .eu  F .fi · .fj · .fk · .fm · .fo · .fr  G .ga · .gd · .ge · .gf · .gg · .gh · .gi · .gl · .gm · .gn · .gp · .gq · .gr · .gs · .gt · .gu · .gw · .gy  H .hk · .hm · .hn · .hr · .ht · .hu  I .id · .ie · .il · .im · .in · .io · .iq · .ir · .is · .it  J .je · .jm · .jo · .jp  K .ke · .kg · .kh · .ki · .km · .kn · .kp · .kr · .kw · .ky · .kz  L .la · .lb · .lc · .li · .lk · .lr · .ls · .lt · .lu · .lv · .ly  M .ma · .mc · .md · .me · .mg · .mh · .mk · .ml · .mm · .mn · .mo · .mp · .mq · .mr · .ms · .mt · .mu · .mv · .mw · .mx · .my · .mz  N .na · .nc · .ne · .nf · .ng · .ni · .nl · .no · .np · .nr · .nu · .nz  O .om  P .pa · .pe · .pf · .pg · .ph · .pk · .pl · .pm · .pn · .pr · .ps · .pt · .pw · .py  Q .qa  R .re · .ro · .rs · .ru · .rw  S .sa · .sb · .sc · .sd · .se · .sg · .sh · .si · .sk · .sl · .sm · .sn · .so · .sr · .ss · .st · .su · .sv · .sx · .sy · .sz  T .tc · .td · .tf · .tg · .th · .tj · .tk · .tl · .tm · .tn · .to · .tr · .tt · .tv · .tw · .tz  U .ua · .ug · .uk · .us · .uy · .uz  V .va · .vc · .ve · .vg · .vi · .vn · .vu  W .wf · .ws  Y .ye · .yt  Z .za · .zm · .zw
+Internationalisierte  ccTLD:
+.mw-parser-output .Hans.中国 und .mw-parser-output .Hant.中國  ·
+.مصر  ·
+.한국  ·
+.mw-parser-output .Hani.香港  ·
+.ایران  ·
+.الاردن  ·
+.فلسطين  ·
+.рф  ·
+.السعودية  ·
+.mw-parser-output .Sinh.ලංකා  und .இலங்கை , Sri Lanka ·
+.台灣 und .台湾  ·
+.mw-parser-output .Thai.ไทย  ·
+.تونس  ·
+.امارات 
+vorgeschlagene IDN-ccTLDs:
+.бг  ·
+.mw-parser-output .Hebr.ישראל  ·
+.قطر  ·
+.سوريا  ·
+.срб  ·
+.укр 
+reserviert: .bl · .bq · .eh · .mf   ungenutzt: .bv · .gb · .sj  auslaufend: .su  gelöscht: .an · .cs · .dd · .tp · .um · .yu · .zr

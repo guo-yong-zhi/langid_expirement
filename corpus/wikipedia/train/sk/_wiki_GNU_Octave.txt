@@ -1,0 +1,5 @@
+
+Octave je program na prevádzanie  číselných výpočtov, voľne šíritelný za podmienok licencie GPL. Octave je do určitej miery kompatibilný s programom  MATLAB.
+Octave obsahuje rozsiahly súbor nástrojov pre numerické riešenie problémov lineárnej algebry, hľadanie riešenia nelineárnych rovníc, integrovania funkcií, práce s  polynómami a integrovanie diferenciálnych rovníc.
+Projekt Octave vznikol v roku 1988; spočiatku bol zamýšľaný ako pomôcka k prednáškam o chemických reakciách. Skutočný  vývoj programu nastal až v roku 1992, o čo sa pričinil John W. Eaton. Verzia 1.0 bola uvoľnená v roku 1994; súčasná stabilná verzia je  4.2.1.
+Základná štruktúra v  v Octave je matica, sú podporované aj  riedke matice. Pre zobrazovanie výsledkov používa Octave program Gnuplot.

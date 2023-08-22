@@ -1,0 +1,31 @@
+
+Localisation dans la constellation : Paon
+NGC 6752, surnommé Étoile de Mer ou Moulin à Vent, est un amas globulaire situé dans la constellation du Paon à environ 13 050 a.l.  du Soleil et à 16 960 a.l.  du centre de la Voie lactée. Il a été découvert par l'astronome écossais James Dunlop en 1826.
+La découverte de NGC 6752 est attribuée à James Dunlop qui l'a catalogué sous la désignation Dunlop 295. Il l'a décrit comme un « amas globulaire très large, irrégulièrement rond, bien résolu, clairement constitué d'étoiles de magnitude 11 à 16 ».
+John Herschel a observé l'amas le 12 juillet 1834 et il l'a inscrit dans son catalogue sous la désignation GC 4467
+Avec une magnitude visuelle apparente de 5,4, cet amas est visible à l'œil nu dans des conditions idéales et sans pollution lumineuse. Il est visible dans des jumelles. L'étoile la plus brillante près de l'amas est Omega Pavonis située à environ 1,5 au sud-ouest de celui-ci. L'amas est pasablement loin d'Alpha Pavonis , l'étoile la plus brillante du Paon, à environ 10 degrés au nord-est de celle-ci.
+La classe de concentration Shapley-Sawyer de NGC 6752 est VI,, ce qui signifie que la concentration intermédiaire est plus pauvre .
+La base de données Simbad indique quatre mesures récentes très semblables de la vitesse. La moyenne de ces valeurs est égale −25,8 ± 0,8 km/s. La valeur indiquée par Harris et par le site SEDDS, soit −26,7 ± 0,2 km/s,, est presque la même que cette moyenne. Notons que la plus récente publication citée par Simbad date de 2019 alors que la mise à jour des données utilisées par Harris a été faite en 2003.
+Selon une étude publiée en 2011 par J. Boyles et ses collègues, la métallicité  de l'amas globulaire NGC 6752 est égale à -1,60 et sa masse est égale à 317 000 
+  
+    
+      
+        
+          M
+          
+             
+          
+        
+      
+    
+    }
+  
+. Dans cette même étude, la distance de l'amas est aussi estimée à environ 4,0 kpc . L'étude publiée par Forbes et Bridges indique une métallicité de -1,24. Simbad indique 13 valeurs de la métallicité comprise entre -1,45 et -1,80 avec une moyenne égale à 1,562 ± 0,095. Une métallicité comprise entre -1,80 et -1,66  signifie que le pourcentage en éléments lourds  varie de 1,6%  à 3,5%  comparé à celui du Soleil.
+Après le Big Bang, l'Univers étant surtout composé d'hydrogène et d'hélium, la métallicité était pratiquement nulle. L'univers s'est progressivement enrichi en métaux  grâce à la synthèse de ceux-ci dans le cœur des étoiles. La métallicité des amas du halo de la Voie lactée varie d'un centième à un dixième de la métallicité solaire, ce qui signifie que ces amas se décomposent en deux sous-groupes, les relativement jeunes et les vieux. Selon sa métallicité, NGC 6752 serait donc un amas très âgé et pauvre en métaux. Son âge est estimée à 11,78 milliards d'années par Forbes, ce qui semble contradictoire. Cependant Forbe indique une métallicité plus grande égale à -1,21, équivalent à un pourcentage en éléments lourds égal à 6,2% de celui du Soleil. Dans une publication parue en 2003, son âge est estimé à 13,8 ± 1,1 milliards d'années, ce qui correspond mieux à sa métallicité.
+Cinq pulsars millisecondes, dont trois situés près du cœur de l'amas, ont été découverts dans NGC 6752. Les propriétés de ces derniers suggèrent qu'il pourrait se trouver un trou noir stellaire dans la zone centrale de l'amas.
+Six sources de rayonnement X ont aussi été détectées dans l'amas grâce aux observations du satellite Chandra. L'identification optique de plusieurs sources X de faible intensité suggèrent la présence de plusieurs étoiles variables cataclysmiques.
+La galaxie surnommée Bedin 1 se cache derrière les étoiles brillantes de NGC 6752 .
+NGC 6752 dans le domaine de l'infrarouge par le relevé 2MASS.
+Autre image de NGC 6752 dans l'infrarouge par le télescope spatial WISE.
+NGC 6752 en lumière visible par le relevé Digitized Sky Survey.
+NGC 6752 en lumière ultraviolette par le télescope UIT Ultraviolet Imaging Telescope.

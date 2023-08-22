@@ -1,0 +1,3 @@
+Databázový sirotek je nežádoucí stav narušené databázové integrity, kdy v nějaké tabulce existují záznamy, které odkazují „nikam“. Jedná se o situaci, kdy příslušný záznam v tzv. rodičovské tabulce neexistuje.
+Tato chyba referenční integrity může nastat ze dvou základních příčin:
+Logickým protikladem je pak situace, kdy záznam existuje v rodičovské tabulce, ale neexistují k němu žádné záznamy, které by na něj odkazovaly z tabulek dceřiných, nicméně tato situace nemusí vždy nutně znamenat chybu, respektive narušení databázové integrity.
