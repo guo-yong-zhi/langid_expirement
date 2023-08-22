@@ -3,14 +3,14 @@ include("ngrams.jl")
 
 function cutoff_at_ratio(D, r)
     cs = cumsum(last.(D))
-    findfirst(x->x>r*cs[end], cs)
+    findfirst(x -> x > r * cs[end], cs)
 end
 function count_ngrams(D)
     counter = Float64[]
     for (k, v) in D
         n = length(k)
         while length(counter) < n
-            push!(counter, 0.)
+            push!(counter, 0.0)
         end
         counter[n] += v
     end
@@ -21,7 +21,7 @@ function norm_ngrams_dict(Ds, ratio, minfreq, maxsize)
     tokens_list = []
     vocab_list = []
     for D in Ds
-        tokens = sum(v for (k,v) in D if length(k) == 1)
+        tokens = sum(v for (k, v) in D if length(k) == 1)
         push!(tokens_list, tokens)
         push!(vocab_list, length(D))
         sc = log(tokens) / tokens
@@ -30,9 +30,9 @@ function norm_ngrams_dict(Ds, ratio, minfreq, maxsize)
         end
     end
     G = mergewith(+, Ds...)
-    sG = sort(collect(G), by=i->(-last(i), length(first(i)), first(i)))
+    sG = sort(collect(G), by=i -> (-last(i), length(first(i)), first(i)))
     cp1 = cutoff_at_ratio(sG, ratio)
-    cp2 = findfirst(k->S[k]<minfreq, first.(sG)) - 1
+    cp2 = findfirst(k -> S[k] < minfreq, first.(sG)) - 1
     cp = min(cp1, cp2, maxsize)
     println("total vocab: $(length(S)/1000)k; tokens: $(sum(vocab_list)/1e6)M; dataset ratio: $(vocab_list[1:end]/sum(vocab_list))(vocab) $(tokens_list/sum(tokens_list))(token)")
     println("Profile size: $(cp/1000)k($(round(cp/length(sG)*100))%) @freq=$(S[sG[cp][1]]); [min($cp1, $cp2)]")

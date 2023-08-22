@@ -12,7 +12,7 @@ function norm_table!(t)
     end
 end
 function likelihood(t, logt, default_logp=DEFAULT_LOGP)
-    sc = 0.
+    sc = 0.0
     for (code, p) in t
         logq = get(logt, code, default_logp)
         sc += p * logq
@@ -27,4 +27,4 @@ end
 
 norm_table!.(G);
 const LOG_T = last.(G);
-const DEFAULT_LOGP = (minimum.(values.(last.((G))))|>minimum)
+const DEFAULT_LOGP = (minimum.(values.(last.((G)))) |> minimum)

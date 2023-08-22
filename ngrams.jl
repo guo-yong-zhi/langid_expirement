@@ -9,21 +9,21 @@ function normalize_text(text; blacklist=["wikipedia", "tatoeba"])
     end
     text = replace(text, r"\s\s+" => " ")
 end
-function ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8}, Float64}())
-	text = transcode(UInt8, string(text))
-	for i in 1:length(text)-n+1
+function ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8},Float64}())
+    text = transcode(UInt8, string(text))
+    for i in 1:length(text)-n+1
         p = text[i:i+n-1]
-        counter[p] = get(counter, p, 0.) + 1.
-	end
+        counter[p] = get(counter, p, 0.0) + 1.0
+    end
     counter
 end
-function merged_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8}, Float64}())
+function merged_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8},Float64}())
     text = normalize_text(text)
-	text = transcode(UInt8, string(text))
+    text = transcode(UInt8, string(text))
     for k in 1:n
         for i in 1:length(text)-k+1
             p = text[i:i+k-1]
-            counter[p] = get(counter, p, 0.) + 1.
+            counter[p] = get(counter, p, 0.0) + 1.0
         end
     end
     counter
@@ -31,8 +31,8 @@ end
 
 
 function dataset_ngrams(dataset, n)
-    counters = [Dict{Vector{UInt8}, Float64}() for i in 1:n]
-    for (text,lang) in dataset
+    counters = [Dict{Vector{UInt8},Float64}() for i in 1:n]
+    for (text, lang) in dataset
         text = normalize_text(text)
         for i in 1:n
             ngrams(text, i, counters[i])
@@ -42,19 +42,11 @@ function dataset_ngrams(dataset, n)
 end
 
 function merged_dataset_ngrams(dataset, n)
-    counter = Dict{Vector{UInt8}, Float64}()
-    for (text,lang) in dataset
+    counter = Dict{Vector{UInt8},Float64}()
+    for (text, lang) in dataset
         merged_ngrams(text, n, counter)
     end
     counter
-end
-
-function Base.:*(n::Number, d::Dict)
-    return typeof(d)((k, v*n) for (k, v) in d)
-end
-
-function Base.:+(d1::Dict, d2::Dict)
-    mergewith(+, d1, d2)
 end
 
 function dump_ngrams(D, filename; head=nothing)
@@ -90,24 +82,5 @@ function load_ngrams(filename; head=true)
         end
         D = Dict(D)
         head ? (D, hd) : D
-    end
-end
-function dump_vocab(V, filename)
-    open(filename, "w") do f
-        for k in V
-            @assert k isa Vector{UInt8}
-            write(f, join(string.(k, base=16), ""))
-            write(f, "\n")
-        end
-    end
-end
-function load_vocab(filename)
-    open(filename) do f
-        V = []
-        for line in eachline(f)
-            c = parse.(UInt8, Iterators.partition(string(line), 2), base=16)
-            push!(V, c)
-        end
-        V
     end
 end
