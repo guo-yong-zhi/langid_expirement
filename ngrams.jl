@@ -57,8 +57,13 @@ function Base.:+(d1::Dict, d2::Dict)
     mergewith(+, d1, d2)
 end
 
-function dump_ngrams(D, filename)
+function dump_ngrams(D, filename; head=nothing)
     open(filename, "w") do f
+        if head !== nothing
+            write(f, "total:")
+            write(f, join(head, ","))
+            write(f, "\n")
+        end
         for (k, v) in D
             @assert k isa Vector{UInt8}
             write(f, join(string.(k, base=16), ""))
@@ -69,16 +74,22 @@ function dump_ngrams(D, filename)
     end
 end
 
-function load_ngrams(filename)
+function load_ngrams(filename; head=true)
     open(filename) do f
+        el = eachline(f)
+        if head
+            l1 = first(el)
+            hd = parse.(Float64, split(split(l1, ":")[end], ","))
+        end
         D = []
-        for line in eachline(f)
+        for line in el
             k, v = split(line, ",")
             @assert iseven(length(k))
             k = parse.(UInt8, Iterators.partition(string(k), 2), base=16)
             push!(D, k => parse(Float64, v))
         end
-        Dict(D)
+        D = Dict(D)
+        head ? (D, hd) : D
     end
 end
 function dump_vocab(V, filename)
