@@ -56,11 +56,19 @@ function dump_ngrams(D, filename; head=nothing)
             write(f, join(head, ","))
             write(f, "\n")
         end
+        last_k = "###"
+        last_v = 0.0
         for (k, v) in D
             @assert k isa Vector{UInt8}
-            write(f, join(string.(k, base=16), ""))
-            write(f, ",")
-            write(f, string(v))
+            k = join(string.(k, base=16), "")
+            kz = replace(k, last_k => "+")
+            last_k = k
+            write(f, kz)
+            if last_v != v
+                last_v = v
+                write(f, ",")
+                write(f, string(v))
+            end
             write(f, "\n")
         end
     end
@@ -73,14 +81,24 @@ function load_ngrams(filename; head=true)
             l1 = first(el)
             hd = parse.(Float64, split(split(l1, ":")[end], ","))
         end
-        D = []
+        D = Vector{Pair{Vector{UInt8}, Float64}}()
+        last_k = "###"
+        last_v = 0.0
         for line in el
-            k, v = split(line, ",")
+            kz_v = split(line, ",")
+            if length(kz_v) == 1
+                kz, v = kz_v[1], last_v
+            else
+                kz, v = kz_v
+                v = parse(Float64, v)
+                last_v = v
+            end
+            k = replace(kz, "+" => last_k)
+            last_k = k
             @assert iseven(length(k))
             k = parse.(UInt8, Iterators.partition(string(k), 2), base=16)
-            push!(D, k => parse(Float64, v))
+            push!(D, k => v)
         end
-        D = Dict(D)
         head ? (D, hd) : D
     end
 end

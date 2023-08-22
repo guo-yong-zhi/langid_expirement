@@ -44,7 +44,6 @@ function build_ngrams_profile(lang; ngram=7, ratio=0.9, minfreq=10, maxsize=1000
     D2 = WikiDataSet("corpus/wikipedia/train", langs=[lang])
     println("# ", lang)
     norm_ngrams_dict(merged_dataset_ngrams.([D1, D2], ngram), ratio, minfreq, maxsize)
-    println()
 end
 
 function build_all_ngrams_profiles(langs, path; ngram=7, ratio=0.9, minfreq=10, maxsize=100000)
