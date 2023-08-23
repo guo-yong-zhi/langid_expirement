@@ -1,0 +1,23 @@
+En mathématiques, la fonction de Spence, ou dilogarithme, notée Li2, est un cas particulier de polylogarithme. Deux fonctions spéciales sont appelées fonction de Spence :
+Pour 
+  
+    
+      
+        
+          |
+        
+        z
+        
+          |
+        
+        <
+        1
+      
+    
+    
+  
+, une définition à l'aide d'une série est également possible  :
+William Spence , dont on a donné le nom à cette fonction, est un mathématicien écossais. Il a été condisciple de John Galt, qui a par la suite écrit un essai biographique sur Spence.
+Plusieurs égalités sur la fonction dilogarithme reposent sur des propriétés de symétrie,:
+On rencontre couramment la fonction de Spence en physique des particules, dans le calcul des corrections radiatives. Dans ce contexte, la fonction est souvent définie avec une valeur absolue à l'intérieur du logarithme :
+ « Dilogarithms », sur NIST Digital Library of Mathematical Functions

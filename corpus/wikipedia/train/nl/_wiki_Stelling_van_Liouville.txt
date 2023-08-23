@@ -1,0 +1,327 @@
+Volgens de stelling van Liouville is elke begrensde complexe analytische functie constant. Dit betekent: Als voor een holomorfe functie 
+  
+    
+      
+        f
+      
+    
+    
+  
+ een reëel getal 
+  
+    
+      
+        M
+      
+    
+    
+  
+ bestaat zo dat 
+  
+    
+      
+        
+          |
+        
+        f
+        
+        
+          |
+        
+         
+        M
+      
+    
+    
+  
+ voor elke 
+  
+    
+      
+        z
+         
+        
+          C
+        
+      
+    
+     }
+  
+, dan is 
+  
+    
+      
+        f
+      
+    
+    
+  
+ een constante functie.
+De stelling van Liouville laat zien wat een sterke eigenschap holomorfe differentieerbaarheid voor een complexe functie is. De stelling kan onder andere in het bewijs van de hoofdstelling van de algebra worden gebruikt. De stelling is naar de Franse wiskundige Joseph Liouville  genoemd.
+De functie 
+  
+    
+      
+        f
+      
+    
+    
+  
+ kan worden ontwikkeld in een taylorreeks:
+De coëfficiënten 
+  
+    
+      
+        
+          a
+          
+            k
+          
+        
+      
+    
+    }
+  
+ zijn te vinden met een kringintegraal:
+Hier is 
+  
+    
+      
+        
+          C
+          
+            r
+          
+        
+      
+    
+    }
+  
+ de cirkel rond 0 met straal 
+  
+    
+      
+        r
+      
+    
+    
+  
+. De absolute waarde van de coëfficiënten kunnen worden afgeschat door:
+Omdat 
+  
+    
+      
+        f
+      
+    
+    
+  
+ is begrensd: 
+  
+    
+      
+        
+          |
+        
+        f
+        
+        
+          |
+        
+         
+        M
+      
+    
+    
+  
+ voor elke 
+  
+    
+      
+        z
+      
+    
+    
+  
+, en 
+  
+    
+      
+        
+          |
+        
+        z
+        
+          |
+        
+        =
+        r
+      
+    
+    
+  
+ op 
+  
+    
+      
+        
+          C
+          
+            r
+          
+        
+      
+    
+    }
+  
+, volgt:
+Zij 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ een gehele functie waarvoor geldt dat er een 
+  
+    
+      
+        C
+        >
+        0
+      
+    
+    
+  
+ en 
+  
+    
+      
+        R
+        >
+        0
+      
+    
+    
+  
+ bestaan waarvoor geldt dat 
+  
+    
+      
+        
+          |
+        
+        f
+        
+        
+          |
+        
+        <
+        C
+        
+          |
+        
+        z
+        
+          
+            |
+          
+          
+            p
+          
+        
+      
+    
+    }
+  
+ als 
+  
+    
+      
+        
+          |
+        
+        z
+        
+          |
+        
+        >
+        R
+      
+    
+    
+  
+, dan volgt daaruit op dezelfde manier als voorgaande stelling dat:
+Zij nu 
+  
+    
+      
+        n
+        >
+        p
+      
+    
+    
+  
+ en laat men 
+  
+    
+      
+        R
+         
+         
+      
+    
+    
+  
+ dan is 
+  
+    
+      
+        
+          f
+          
+            
+          
+        
+        
+        =
+        0
+      
+    
+    =0}
+  
+. Waaruit volgt dat de taylorexpansie van 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ gelijk is aan: 
+Met andere woorden de functie 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ is een polynoom van de graad 
+  
+    
+      
+        p
+      
+    
+    
+  
+.

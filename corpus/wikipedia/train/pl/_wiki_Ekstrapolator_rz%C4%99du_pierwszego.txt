@@ -1,0 +1,187 @@
+Ekstrapolator rzędu pierwszego  – matematyczny model praktycznej rekonstrukcji sygnałów spróbkowanych, która może być wykonana za pomocą konwencjonalnego przetwornika analogowo-cyfrowego i obwodu analogowego zwanego układem całkującym.
+W przypadku ekstrapolatora rzędu pierwszego sygnał jest rekonstruowany jako przedziałami liniowa aproksymacja oryginalnego sygnału, który poddany został próbkowaniu. Model matematyczny taki, jak ekstrapolator rzędu pierwszego  jest niezbędny ponieważ w twierdzeniu o próbkowaniu i rekonstrukcji sygnału, sekwencja impulsów Diraca, 
+  
+    
+      
+        
+          x
+          
+            s
+          
+        
+        
+        ,
+      
+    
+    ,}
+  
+ reprezentująca próbki sygnału dyskretnego, 
+  
+    
+      
+        x
+        
+        ,
+      
+    
+    
+  
+ jest filtrowana filtrem dolnoprzepustowym w celu przywrócenia sygnału źródłowego 
+  
+    
+      
+        x
+        
+        ,
+      
+    
+    
+  
+ który został spróbkowany. Jednakże sekwencja impulsów Diraca pojawiająca się na wyjściu układu jest bardzo niepraktyczna. Urządzenie można zaimplementować, z użyciem konwencjonalnego przetwornika analogowo-cyfrowego i pewnego analogowego układu liniowego, tak by rekonstruowało ono przedziałami liniowe wyjście predykcyjnego lub opóźnionego ekstrapolatora rzędu pierwszego.
+Co prawda fizycznie się tego nie wykonuje, ale identyczny sygnał wyjściowy można wygenerować poprzez zastosowane hipotetycznej sekwencji impulsów Diraca, 
+  
+    
+      
+        
+          x
+          
+            s
+          
+        
+        
+        ,
+      
+    
+    ,}
+  
+ do liniowego układu stacjonarnego, znanego jako filtr liniowy z takimi charakterystykami  tak, że każdy impuls na wejściu daje na wyjściu poprawną funkcję przedziałami liniową.
+Ekstrapolator rzędu pierwszego to hipotetyczny filtr lub stacjonarny układ liniowy, który dokonuje konwersji idealnie spróbkowanego sygnału:
+na sygnał przedziałami liniowy
+dający w efekcie odpowiedź impulsową:
+Otrzymywana charakterystyka częstotliwościowa jest  transformatą Fouriera odpowiedzi impulsowej:
+transmitancję ekstrapolatora rzędu pierwszego można uzyskać poprzez podstawienie 
+  
+    
+      
+        s
+        =
+        i
+        2
+         
+        f
+        
+          :
+        
+      
+    
+    }
+  
+Jest to układ nieprzyczynowy – liniowa funkcja interpolacji przebiega w kierunku wartości następnej próbki zanim taka próbka zostanie zastosowana do hipotetycznego filtru . Nieprzyczynowość odzwierciedla także odpowiedź impulsowa filtru  – odpowiedź ta zaczyna się zanim podany zostanie impuls.
+Opóźniony ekstrapolator rzędu pierwszego, czasami nazywany też przyczynowym ekstrapolatorem rzędu pierwszego, jest niemal identyczny z powyżej przedstawionym filtrem w postaci podstawowej z wyjątkiem tego, że sygnał na jego wyjściu opóźniony jest o jeden okres próbkowania, co daje na wyjściu sygnał opóźniony przedziałami liniowy
+co daje w efekcie odpowiedź impulsową opisaną wzorem:
+Efektywna charakterystyka częstotliwościowa to  transformata Fouriera odpowiedzi impulsowej:
+Transmitancję opóźnionego filtru pierwszego rzędu można uzyskać przez podstawienie 
+  
+    
+      
+        s
+        =
+        i
+        2
+         
+        f
+        
+          :
+        
+      
+    
+    }
+  
+Z uwagi na opóźnienie sygnału na wyjściu rozważany układ jest układem przyczynowym. Odpowiedź impulsowa opóźnionego ekstrapolatora rzędu pierwszego nie pojawia się zanim nie poda się impulsu na wejście układu.
+Taką opóźnioną, przedziałami liniową rekonstrukcję można zrealizować fizycznie poprzez implementację filtru cyfrowego z wzmocnieniem 
+  
+    
+      
+        H
+        
+        =
+        1
+         
+        
+          z
+          
+             
+            1
+          
+        
+        ,
+      
+    
+    ,}
+  
+ podając wyjście takiego filtru cyfrowego  na wejście idealnego konwencjonalnego przetwornika cyfrowo-analogowego  i całkując 
+        =
+        1
+        
+          /
+        
+        =1/ wyjście przetwornika analogowo-cyfrowego.
+Predykcyjny ekstrapolator rzędu pierwszego jest zupełnie inny niż formy podane wcześniej. Ma on charakter przyczynowego hipotetycznego stacjonarnego układu liniowego albo filtru, który konwertuje idealnie spróbkowany sygnał
+do sygnału wyjściowego przedziałami liniowego w ten sposób, że próbka bieżąca i próbka bezpośrednio wcześniejsza wykorzystywane są do liniowej ekstrapolacji do następnego wystąpienia próbki. Wyjście takiego filtru dane byłoby:
+dając w efekcie odpowiedź impulsową:
+Wynikowa charakterystyka częstotliwościowa jest  transformatą Fouriera odpowiedzi impulsowej:
+Transmitancję predykcyjnego filtru pierwszego rzędu można uzyskać przez podstawienie 
+  
+    
+      
+        s
+        =
+        i
+        2
+         
+        f
+        
+          :
+        
+      
+    
+    }
+  
+Jest to układ przyczynowy. Odpowiedź impulsowa predykcyjnego filtru pierwszego rzędu nie pojawia się zanim nie podany zostanie impuls na wejście układu.
+Taką przedziałami liniową rekonstrukcję można zrealizować fizycznie poprzez implementację filtru cyfrowego z wzmocnieniem 
+  
+    
+      
+        H
+        
+        =
+        1
+         
+        
+          z
+          
+             
+            1
+          
+        
+      
+    
+    }
+  
+ podając wyjście takiego filtru cyfrowego  na wejście idealnego konwecjonalnego przetwornika cyfrowo-analogowego , a następnie wyjście tego przetwornika na wejście filtru analogowego o transmitancji 
+  
+    
+      
+        H
+        
+        =
+        
+        
+          /
+        
+        
+        .
+      
+    
+    
+  

@@ -1,0 +1,87 @@
+Tetiva je úsečka spájajúca dva body na kružnici.
+Tetiva prechádzajúca stredom je zo všetkých možných tetív najdlhšia a nazýva sa priemerom kružnice. Tetiva delí kruh na dva kruhové odseky. Je príslušná konvexnému stredovému uhlu α.
+Dĺžka tetivy je 
+  
+    
+      
+        2
+        r
+         
+        sin
+         
+        
+          
+        
+      
+    
+    
+  
+ kde r je polomer kružnice
+resp.
+  
+    
+      
+        2
+         
+        
+          
+            
+              r
+              
+                2
+              
+            
+             
+            
+              
+                2
+              
+            
+          
+        
+        =
+        2
+         
+        
+          
+            
+              r
+              
+                2
+              
+            
+             
+            
+          
+        
+        =
+        2
+         
+        
+          
+            2
+            r
+            D
+             
+            
+              D
+              
+                2
+              
+            
+          
+        
+        =
+        2
+         
+        
+          
+            D
+             
+            
+          
+        
+      
+    
+    -^-}}=2\cdot }=2\cdot }
+  

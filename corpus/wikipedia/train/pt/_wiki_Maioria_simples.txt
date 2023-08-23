@@ -1,0 +1,21 @@
+Maioria relativa ou maioria simples são as denominações que recebe a proporção matemática da situação na qual o total de votos é maior que a metade do total de votos dos presentes. Neste caso, se prende ao número dos presentes, não se trata de um número fixo, pois varia de acordo com o número de indivíduos presentes, isto é, a superioridade numérica simples de votos. Por exemplo, caso o quórum máximo seja de 100 pessoas e haja apenas 60, na maioria simples exige-se que se obtenha, de votos, o primeiro número inteiro superior à metade dos presentes, ou seja, 31. Difere da maioria absoluta por essa exigir a metade do quórum máximo, ou seja, 51. Em casos em que a escolha se der entre três ou mais opções, será considerada maioria simples o primeiro valor inteiro superior a fração proporcional ao número de opções.
+São termos utilizados como regra geral para a tomada das deliberações. E nesses termos, aprovações por maioria simples exigem o número de votos favoráveis superior aos votos contrários dos votantes presentes.
+Art. 60 — A constituição poderá ser emendada mediante proposta:
+   Constituição Federal de 1988No Brasil, a maioria simples corresponde à maioria de votos, desde que presente a maioria absoluta dos membros de um determinado colegiado.
+É o quórum exigido constitucional e regimentalmente para as deliberações em geral de cada Casa do Congresso Nacional e de suas comissões. Assim, seja em Plenário ou nas comissões da Câmara dos Deputados, exigir-se-á sempre a presença da maioria absoluta do colegiado respectivo para a realização válida das votações .
+Dessa forma, há dois requisitos indispensáveis para que se proceda à votação por maioria simples:
+1) presença da maioria absoluta do colegiado;
+2) maioria dos votos.
+O art. 182 do Regimento Interno da Câmara dos Deputados dispõe que “terminada a apuração, o presidente proclamará o resultado da votação, especificando os votos favoráveis, contrários, em branco e nulos”. O § 2º do art. 183 do RICD prevê que “os votos em branco que ocorrerem nas votações por meio de cédulas e as abstenções verificadas pelo sistema eletrônico só serão computados para efeito de quórum”. Nesse sentido, o resultado das deliberações da Câmara dos Deputados tem sido proclamado com base apenas nos votos “sim” e nos votos “não”, independentemente do número de abstenções – conforme pensamento da primeira corrente apresentada.
+Como ilustração:
+1) a matéria seria aprovada por maioria simples se obtivesse:
+125 votos favoráveis;
+102 votos contrários;
+30 abstenções;
+257 presentes no total.
+2) a matéria ainda seria aprovada por maioria simples se obtivesse:
+97 votos favoráveis;
+96 votos contrários;
+98 abstenções;
+291 presentes no total.
+Em Portugal vem consagrada esta votação quando se fala no processo de feitura dos atos legislativos na Assembleia da República, na Constituição da República Portuguesa no artigo 116.º, n.º 3.

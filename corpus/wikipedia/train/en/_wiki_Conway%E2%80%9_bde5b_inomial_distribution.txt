@@ -1,0 +1,761 @@
+In probability theory and statistics, the Conway–Maxwell–binomial  distribution is a three parameter discrete probability distribution that generalises the binomial distribution in an analogous manner to the way that the Conway–Maxwell–Poisson distribution generalises the Poisson distribution.  The CMB distribution can be used to model both positive and negative association among the Bernoulli summands,. 1  2 
+The distribution was introduced by Shumeli et al. , 1  and the name Conway–Maxwell–binomial distribution was introduced independently by Kadane   2  and Daly and Gaunt . 3 
+The Conway–Maxwell–binomial  distribution has probability mass function
+where 
+  
+    
+      
+        n
+         
+        
+          N
+        
+        =
+        
+      
+    
+     =\
+  
+, 
+  
+    
+      
+        0
+         
+        p
+         
+        1
+      
+    
+    
+  
+ and 
+  
+    
+      
+         
+         
+        <
+         
+        <
+         
+      
+    
+    
+  
+.  The normalizing constant 
+  
+    
+      
+        
+          C
+          
+            n
+            ,
+            p
+            ,
+             
+          
+        
+      
+    
+    }
+  
+ is defined by
+If a random variable 
+  
+    
+      
+        Y
+      
+    
+    
+  
+ has the above mass function, then we write 
+  
+    
+      
+        Y
+         
+        CMB
+         
+        
+      
+    
+     }
+  
+.
+The case 
+  
+    
+      
+         
+        =
+        1
+      
+    
+    
+  
+ is the usual binomial distribution 
+  
+    
+      
+        Y
+         
+        Bin
+         
+        
+      
+    
+     }
+  
+.
+The following relationship between Conway–Maxwell–Poisson  and CMB random variables  1  generalises a well-known result concerning Poisson and binomial random variables.  If 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+         
+        CMP
+         
+        
+      
+    
+    \sim \operatorname 
+  
+ and 
+  
+    
+      
+        
+          X
+          
+            2
+          
+        
+         
+        CMP
+         
+        
+      
+    
+    \sim \operatorname 
+  
+ are independent, then 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        
+        
+          |
+        
+        
+        
+          X
+          
+            1
+          
+        
+        +
+        
+          X
+          
+            2
+          
+        
+        =
+        n
+         
+        CMB
+         
+        
+        ,
+         
+        )
+      
+    
+    \,|\,X_=n\sim \operatorname 
+  
+.
+The random variable 
+  
+    
+      
+        Y
+         
+        CMB
+         
+        
+      
+    
+     }
+  
+ may be written  1  as a sum of exchangeable Bernoulli random variables 
+  
+    
+      
+        
+          Z
+          
+            1
+          
+        
+        ,
+         
+        ,
+        
+          Z
+          
+            n
+          
+        
+      
+    
+    ,\ldots ,Z_
+  
+ satisfying
+where 
+  
+    
+      
+        k
+        =
+        
+          z
+          
+            1
+          
+        
+        +
+         
+        +
+        
+          z
+          
+            n
+          
+        
+      
+    
+    +\cdots +z_
+  
+.  Note that 
+  
+    
+      
+        E
+         
+        
+          Z
+          
+            1
+          
+        
+         
+        p
+      
+    
+     Z_
+  
+ in general, unless 
+  
+    
+      
+         
+        =
+        1
+      
+    
+    
+  
+.
+Let
+Then, the probability generating function, moment generating function and characteristic function are given, respectively, by: 2 
+For general 
+  
+    
+      
+         
+      
+    
+    
+  
+, there do not exist closed form expressions for the moments of the CMB distribution.  The following neat formula is available, however. 3   Let 
+  
+    
+      
+        
+          
+            r
+          
+        
+        =
+        j
+        
+         
+        
+      
+    
+    =j\cdots }
+  
+ denote the falling factorial.  Let 
+  
+    
+      
+        Y
+         
+        CMB
+         
+        
+      
+    
+     }
+  
+, where 
+  
+    
+      
+         
+        >
+        0
+      
+    
+    
+  
+.  Then
+for 
+  
+    
+      
+        r
+        =
+        1
+        ,
+         
+        ,
+        n
+         
+        1
+      
+    
+    
+  
+.
+Let 
+  
+    
+      
+        Y
+         
+        CMB
+         
+        
+      
+    
+     }
+  
+ and define
+Then the mode of 
+  
+    
+      
+        Y
+      
+    
+    
+  
+ is 
+  
+    
+      
+         
+        a
+         
+      
+    
+    
+  
+ if 
+  
+    
+      
+        a
+      
+    
+    
+  
+ is not an integer.  Otherwise, the modes of 
+  
+    
+      
+        Y
+      
+    
+    
+  
+ are 
+  
+    
+      
+        a
+      
+    
+    
+  
+ and 
+  
+    
+      
+        a
+         
+        1
+      
+    
+    
+  
+. 3 
+Let 
+  
+    
+      
+        Y
+         
+        CMB
+         
+        
+      
+    
+     }
+  
+,  and suppose that 
+  
+    
+      
+        f
+        :
+        
+          
+            Z
+          
+          
+            +
+          
+        
+         
+        
+          R
+        
+      
+    
+     ^ }
+  
+ is such that 
+  
+    
+      
+        E
+         
+        
+          |
+        
+        f
+        
+        
+          |
+        
+        <
+         
+      
+    
+     |f|<\infty }
+  
+ and 
+  
+    
+      
+        E
+         
+        
+          |
+        
+        
+          Y
+          
+             
+          
+        
+        f
+        
+        
+          |
+        
+        <
+         
+      
+    
+     |Y^
+  
+.  Then  3 
+Fix 
+  
+    
+      
+         
+        >
+        0
+      
+    
+    
+  
+ and 
+  
+    
+      
+         
+        >
+        0
+      
+    
+    
+  
+ and let 
+  
+    
+      
+        
+          Y
+          
+            n
+          
+        
+         
+        
+          C
+          M
+          B
+        
+        
+      
+    
+    \sim \mathrm 
+  
+  Then 
+  
+    
+      
+        
+          Y
+          
+            n
+          
+        
+      
+    
+    }
+  
+ converges in distribution to the 
+  
+    
+      
+        
+          C
+          M
+          P
+        
+        
+      
+    
+     }
+  
+ distribution as 
+  
+    
+      
+        n
+         
+         
+      
+    
+    
+  
+. 3   This result generalises the classical Poisson approximation of the binomial distribution.
+Let 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ,
+         
+        ,
+        
+          X
+          
+            n
+          
+        
+      
+    
+    ,\ldots ,X_
+  
+ be Bernoulli random variables with joint distribution given by
+where 
+  
+    
+      
+        k
+        =
+        
+          x
+          
+            1
+          
+        
+        +
+         
+        +
+        
+          x
+          
+            n
+          
+        
+      
+    
+    +\cdots +x_
+  
+ and the normalizing constant 
+  
+    
+      
+        
+          C
+          
+            n
+          
+          
+             
+          
+        
+      
+    
+    ^
+  
+ is given by
+where
+Let 
+  
+    
+      
+        W
+        =
+        
+          X
+          
+            1
+          
+        
+        +
+         
+        +
+        
+          X
+          
+            n
+          
+        
+      
+    
+    +\cdots +X_
+  
+.  Then 
+  
+    
+      
+        W
+      
+    
+    
+  
+ has mass function
+for 
+  
+    
+      
+        k
+        =
+        0
+        ,
+        1
+        ,
+         
+        ,
+        n
+      
+    
+    
+  
+.  This distribution generalises the Poisson binomial distribution in a way analogous to the CMP and CMB generalisations of the Poisson and binomial distributions.   Such a random variable is therefore said  3  to follow the Conway–Maxwell–Poisson binomial  distribution.  This should not be confused with the rather unfortunate terminology Conway–Maxwell–Poisson–binomial that was used by  1  for the CMB distribution.
+The case 
+  
+    
+      
+         
+        =
+        1
+      
+    
+    
+  
+ is the usual Poisson binomial distribution and the case 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+        =
+         
+        =
+        
+          p
+          
+            n
+          
+        
+        =
+        p
+      
+    
+    =\cdots =p_
+  
+ is the 
+  
+    
+      
+        CMB
+         
+        
+      
+    
+     }
+  
+ distribution.

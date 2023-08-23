@@ -1,0 +1,5 @@
+La internacia skalo por nukleaj eventoj estas rimedo por klasi nenormalajn eventojn, kiuj koncernas nuklean radiadon. Ĝi estis evoluigita ekde 1989 de la Internacia Atomenergia Organizo . Ĝia celo estas unueca kaj klara komunikado pri la graveco kaj la eblaj sekvoj de tiaj eventoj.
+Foje la skalo estas nomata per sia anglalingva mallongigo "INES" .
+La skalo enhavas ok nivelojn, numeritajn de 0 al 7. Niveloj 4 ĝis 7 estas nomataj "akcidentoj", niveloj de 1 al 3 "incidentoj". La bazo de la skalo estas la konsidero, ke ĉiu pli alta nivelo signifas 10-oblon de damaĝo. La skalo do estas logaritma. Tiu ĉi regulo tamen lasas spacon por interpretado, male al, ekzemple, tertremoj, mezurataj laŭ sia energio per la skalo de Richter aŭ la momant-magnituda skalo.
+La nivelojn de la skalo oni foje prezentas en piramido laŭ la sekva bildo:
+Nivelo 7 signifas konsiderindan eligon de radioaktiva materialo kun grandarea efiko al sano kaj vivmedio, kiu necesigas grandajn kontraŭpaŝojn. Ĝi estis unuafoje deklarita pri la nuklea akcidento de Ĉernobilo en 1986, duafoje pri la akcidento en la nuklea centralo Fukuŝima 1 en 2011.

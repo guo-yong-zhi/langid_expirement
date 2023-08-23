@@ -1,0 +1,10 @@
+Pontosságellenőrzött
+A Szojuz–37  szovjet háromszemélyes, kétszemélyessé átalakított szkafanderes személyszállító, szabványos rendszerben épített Szojuz űrhajó.  Az űrhajó vitte a hatodik Interkozmosz  legénységet a Szaljut–6 űrállomásra. Fedélzetén tartózkodott az első vietnámi űrhajós, Phạm Tuân  alezredes.
+Feladata a vietnámi–szovjet kutatási program végrehajtása az űrállomáson, valamint bekapcsolódni az előírt navigációs, csillagászati, műszaki, légkörkutatási, földfotózási, földmegfigyelési, orvosi és biológiai kutatási program folytatása. Kötelességük volt az állandó személyzet pihenését biztosítani.
+Központi tervező iroda CKBEM <= Центральное конструкторское бюро экспериментального машиностроения > . Az űrhajót kis átalakítással emberes programra, teherszállításra és mentésre  tervezték.
+1980. július 23-án a Bajkonuri űrrepülőtér indítóállomásról egy Szojuz hordozórakéta  juttatta Föld körüli, közeli körpályára. Az orbitális egység pályája 88.8 perces, 51.6 fokos hajlásszögű, elliptikus pálya-perigeuma 198 kilométer, apogeuma 351 kilométer volt. Hasznos tömege 6800 kilogramm. Szerkezeti felépítését tekintve a Szojuz űrhajó napelemtáblák nélküli változatával megegyező. Akkumulátorait az űrállomás napelemtáblái által előállított energiával tartották üzemkész állapotban. Összesen 79 napot, 15 órát, 16 percet és 54 másodpercet töltött a világűrben. Összesen 1256 alkalommal kerülte meg a Földet.
+A technológiai programban a szovjet–keletnémet–vietnámi fejlesztésű Imitátor–1 illetve Imitátor–2 nevű készülékekkel az űrállomás Krisztál kemencéjének hőmérsékleti profilját mérték meg. A Halong kísérletben bizmut-antimon-tellúr keveréket és gallium-foszfid félvezető kristályokat állítottak elő. A biológiai programban egy vietnámi vízinövény  és a gyökereiben levő mikroorganizmus viselkedését figyelték meg.
+Október 11-én belépett a légkörbe, a visszatérés hagyományos módon – ejtőernyős leereszkedés – történt, Zsezkazgantól 180 kilométerre délkeletre értek Földet.
+Elődje:Szojuz T–2
+Szojuz-program1967–1981 
+Utódja:Szojuz–38

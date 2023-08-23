@@ -1,0 +1,1 @@
+Rademacherin lause on matematiikassa Lipschitz-funktioihin liittyvä tulos. Sen mukaan jos A on avoin Rn:n osajoukko ja f:A →Rm on Lipschitz, on f derivoituva melkein kaikissa A:n pisteissä.

@@ -1,0 +1,19 @@
+In de getaltheorie, een deelgebied van de wiskunde, zegt de stelling van Green-Tao, in 2004 bewezen door Ben Green en Terence Tao 1  dat in de opeenvolging van priemgetalen willekeurig lange rekenkundige rijen voorkomen. Met andere woorden voor elk natuurlijk getal 
+  
+    
+      
+        k
+      
+    
+    
+  
+ bestaan er rekenkundige rijen van priemgetallen van lengte 
+  
+    
+      
+        k
+      
+    
+    
+  
+. Het bewijs is een uitbreiding van de stelling van Szemerédi.

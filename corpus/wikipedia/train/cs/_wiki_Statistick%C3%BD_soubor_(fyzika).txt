@@ -1,0 +1,643 @@
+Statistický soubor ve fyzice je soubor makroskopických soustav, které mají stejný počet částic, stejné chemické složení, stejný počet stupňů volnosti a nacházejí se ve stejných vnějších podmínkách; tyto podmínky jsou tedy charakterizovány týmiž vnějšími parametry, jejichž hodnoty jsou stejné pro všechny soustavy téhož statistického souboru.
+Soustavu s proměnným počtem částic  reprezentujeme množinou statistických souborů s různými počty částic jednotlivých složek a fází.
+Z makroskopického hlediska jsou všechny soustavy patřící do téhož statistického souboru ve stejném termodynamickém stavu zvaném makrostav.
+Je-li tento stav rovnovážným termodynamickým stavem, nazývá se statistický soubor rovnovážným statistickým souborem, krátce rovnovážný soubor. Každý makrostav lze však realizovat mnoha různými způsoby.
+Týž makrostav zahrnuje tedy množinu mikrofyzikálních stavů zvaných mikrostavy. Makroskopické soustavy patřící do téhož statistického souboru jsou proto v různých mikrostavech, odpovídajících témuž makrostavu.
+Statistické soubory se rozlišují podle toho, jakými pohybovými zákony se řídí pohyb částic, a to na klasické statistické soubory a kvantové statistické soubory.
+Vyšetřují-li se stavy soustav statistického souboru a pobíhající procesy v nich, avšak neurčují se pohybové stavy všech jejich jednotlivých částic v každém okamžiku, nýbrž jen pravděpodobnosti příslušející různým mikrostavům a z nich se pak vypočítávají střední hodnoty popř. rozptyly různých veličin. Za tímto účelem využíváme metod z teorie pravděpodobnosti a matematické statistiky.
+Statistické soubory jsou myšlené soubory, které jsou vykonstruovány vždy na základě vhodných předpokladů; pomocí těchto předpokladů také určujeme zmíněné pravděpodobnosti.
+Jsou to takové systémy, ve kterých se částice řídí zákony klasické mechaniky.
+Předpokládáme-li částice systému jako bodové , stačí tedy k jejich popisu zadat polohu, 
+  
+    
+      
+        
+          r
+        
+      
+    
+     }
+  
+, a hybnost 
+  
+    
+      
+        
+          p
+        
+      
+    
+     }
+  
+; pokud se jedná o obecný případ pak k poloze přibude ještě orientace částice, druh částice, vnitřní stupně volnosti apod. Vektor 
+  
+    
+      
+        
+          r
+        
+      
+    
+     }
+  
+ je zadán v kartézských souřadnicích a 
+  
+    
+      
+        
+          p
+        
+      
+    
+     }
+  
+ je kanonicky sdružená hybnost.
+Vektorem 
+  
+    
+      
+        
+          
+        
+         
+        
+          
+        
+      
+    
+    
+  
+ je popsán okamžitý stav systému, pak fázovým prostorem je prostor všech těchto vektorů.
+Omezíme-li se jen na polohu bez hybností jedná se o konfigurační prostor složen z vektorů 
+  
+    
+      
+        
+          
+        
+         
+        
+          
+        
+      
+    
+    
+  
+.
+Pohyb částic soustavy se pak řídí Hamiltonovými pohybovými rovnicemi a ve fázovém prostoru je zobrazen fázovou trajektorií.
+Použijeme-li předpokladu, že potenciální  energie je nezávislá na hybnostech, můžeme pak hamiltonián 
+  
+    
+      
+        
+          
+            H
+          
+        
+      
+    
+    }}
+  
+ psát ve tvaru:
+kde 
+  
+    
+      
+        T
+      
+    
+    
+  
+ je celková kinetická energie systému,
+  
+    
+      
+        
+          m
+          
+            i
+          
+        
+      
+    
+    }
+  
+ je hmotnost částice 
+  
+    
+      
+        i
+      
+    
+    
+  
+ a 
+  
+    
+      
+        U
+      
+    
+    
+  
+ je celková potenciální  energie systému.
+Podle zadání termodynamického systému mají statistické soubory konstantní hodnoty, podle kterých se dělí na:
+Jedná se o soubor definovaný konstantním počtem částic 
+  
+    
+      
+        N
+      
+    
+    
+  
+, objemem 
+  
+    
+      
+        V
+      
+    
+    
+  
+ a energií 
+  
+    
+      
+        E
+      
+    
+    
+  
+ a označovaný tedy jako 
+  
+    
+      
+        N
+        V
+        E
+      
+    
+    
+  
+. Jelikož energie 
+  
+    
+      
+        E
+      
+    
+    
+  
+ je konstantní, tak všechny konfigurace  mají stejnou hustotu pravděpodobnosti výskytu 
+  
+    
+      
+         
+      
+    
+    
+  
+ kde 
+  
+    
+      
+         
+      
+    
+    
+  
+ je Diracova delta funkce a konstanta zaručuje normalizaci.
+Tento soubor je určen konstantním počtem částic 
+  
+    
+      
+        N
+      
+    
+    
+  
+, objemem 
+  
+    
+      
+        V
+      
+    
+    
+  
+ a teplotou 
+  
+    
+      
+        T
+      
+    
+    
+  
+, značení je pak 
+  
+    
+      
+        N
+        V
+        T
+      
+    
+    
+  
+. Pravděpodobnostní rozložení v případě proměnných 
+  
+    
+      
+        N
+        ,
+        V
+        ,
+        T
+      
+    
+    
+  
+ u spojitého systému je
+kde 
+  
+    
+      
+         
+        =
+        
+          
+            
+              1
+              
+                
+                  k
+                  
+                    B
+                  
+                
+                T
+              
+            
+          
+        
+      
+    
+    }
+  
+, 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+      
+    
+    }
+  
+ je Boltzmannova konstanta. Integrál v tomto vztahu zajišťuje normování hustoty pravděpodobnosti, 
+  
+    
+      
+         
+         
+         
+        
+          d
+        
+        
+          
+            r
+          
+          
+            N
+          
+        
+        
+          d
+        
+        
+          
+            p
+          
+          
+            N
+          
+        
+        =
+        1
+      
+    
+     \mathbf \mathrm  ^
+  
+, takže pro kanonickou střední hodnotu libovolné veličiny 
+  
+    
+      
+        X
+      
+    
+    
+  
+ platí
+Například využijeme-li předchozího vztahu pro vyjádření Helmholtzovy funkce  
+  
+    
+      
+        F
+      
+    
+    
+  
+, pak pro čistou látku s 
+  
+    
+      
+        N
+      
+    
+    
+  
+ identickými částicemi dostáváme
+kde 
+  
+    
+      
+        
+          Z
+          
+            N
+            V
+            T
+          
+        
+      
+    
+    }
+  
+ je kanonická partiční funkce ve tvaru
+v tomto vztahu 
+  
+    
+      
+         
+      
+    
+    
+  
+ je redukovaná Planckova konstanta a 
+  
+    
+      
+        
+          
+            3
+            N
+          
+        
+      
+    
+    }
+  
+ je element fázového objemu podle Bohrova principu korespondence.
+Pro zjednodušení uvažujme systémy s částicemi jednoho druhu ale jejichž počet je proměnný, pak dále je tento soubor určen konstantními proměnnými, které jsou chemický potenciál 
+  
+    
+      
+         
+      
+    
+    
+  
+, objem 
+  
+    
+      
+        V
+      
+    
+    
+  
+ a teplota 
+  
+    
+      
+        T
+      
+    
+    
+  
+, značíme tento soubor jako 
+  
+    
+      
+         
+        V
+        T
+      
+    
+    
+  
+. Hustota pravděpodobnosti nalezení systému v konfiguraci 
+  
+    
+      
+        
+      
+    
+    
+  
+ je
+kde
+je grandkanonická partiční funkce.
+Jelikož laboratorní experimenty často neprobíhají při konstantním objemu, ale při konstantním tlaku 
+  
+    
+      
+        P
+      
+    
+    
+  
+. Přejdeme-li tedy od objemu k tlaku při konstantním počtu částic a teplotě, pak dostáváme soubor 
+  
+    
+      
+        N
+        P
+        T
+      
+    
+    
+  
+ a jeho rozložení pravděpodobnosti je
+K popisu kvantových systémů využíváme kvantových statistických souborů, což jsou statistické soubory, které jsou tvořeny makroskopickými soustavami, jejichž částice se řídí zákony kvantové mechaniky.
+Mějme kvantový systém s Hamiltonovým operátorem 
+  
+    
+      
+        
+          
+            H
+          
+        
+      
+    
+    }}
+  
+, který působí na určitém Hilbertově prostoru stavů 
+  
+    
+      
+        
+          
+            
+              C
+            
+          
+          
+            
+              H
+            
+          
+        
+      
+    
+    }^}
+  
+.
+Řeší-li se úlohy pro kvantové systémy, například kvantovými simulacemi, tak ne nutně se musí jednat o výpočet termodynamických  vlastností, ale jen nalezení vlastních stavů 
+  
+    
+      
+         
+      
+    
+    
+  
+ a vlastních energií 
+  
+    
+      
+        E
+      
+    
+    
+  
+, takže hledá se řešení stacionární Schrodingerovy rovnice
+V takovémto případě ale nepracujeme v žádném z výše uvedených termodynamických  souborů, ale musí se použít jiných postupů, např. variační kvantové Monte Carlo. U takovýchto postupů nás obvykle zajímá střední hodnota operátoru
+  
+    
+      
+        
+           
+          X
+           
+        
+        =
+         
+         
+        |
+        
+          
+            
+              X
+               
+            
+          
+        
+        |
+         
+         
+      
+    
+    }\vert \Psi \rangle }
+  
+.
+Pokud nás ale zajímají termodynamické vlastnosti, pak se nejčastěji počítá v kanonickém, resp. grandkanonickém souboru.
+Změnou oproti klasickým systémům je, že zavádíme operátor 
+  
+    
+      
+        
+          
+            
+               
+               
+            
+          
+        
+      
+    
+    }}
+  
+.
+Pro kanonické rozdělení platí
+Partiční funkce  je
+kde 
+  
+    
+      
+        
+          T
+          r
+        
+      
+    
+     }
+  
+ značí stopu operátoru a 
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+      
+    
+    }
+  
+ tvoří úplnou ortonormální množinu stavů.
+Přejdeme-li ke grandkanonickému souboru máme pak:
+kde 
+  
+    
+      
+        
+          
+            
+              n
+               
+            
+          
+        
+      
+    
+    }}
+  
+ je operátor počtu částic a stopa se uvažuje přes všechny podprostory s různým počtem částic.
+Pro libovolnou veličinu je pak její střední hodnota dána operátorem 
+  
+    
+      
+        
+          
+            
+              X
+               
+            
+          
+        
+      
+    
+    }}
+  
+ se vztahem

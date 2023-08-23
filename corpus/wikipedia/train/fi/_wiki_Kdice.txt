@@ -1,0 +1,1 @@
+Kdice on Internet-selaimessa pelattava strategiamoninpeli, jonka säännöt muistuttavat Risk-lautapelin vastaavia. Peli sai ideansa Dice Wars-yksinpeliversiosta, jossa pelaaja haastaa tietokoneohjatut vastustajat. Pelin ranking-järjestelmä perustuu ELO-järjestelmään, joka suunniteltiin alun perin shakkia varten.

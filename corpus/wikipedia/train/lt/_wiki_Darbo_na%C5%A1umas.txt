@@ -1,0 +1,4 @@
+Darbo našumas, darbo efektyvumas – atlikto naudingo darbo kiekis per laiko vienetą arba naudingo darbo ir sunaudotos energijos kiekio santykis.
+Darbo našumas apskaičiuojamas darbo laiku produkto  vienetui, produkcijos  kiekiui per laiko vienetą. Produkcijos kiekis gali būti išreikštas natūriniais arba piniginiais vienetais.
+Įvairių įtaisų našumas gali būti išreiškiamas naudingo darbo ir sunaudotos energijos kiekio santykiu, arba maksimaliu galimu naudingo darbo kiekiu per laiko vienetą.
+Išsivysčiusioms valstybėms būdingas nuolatinis darbo našumo didėjimas. Darbo našumas didėja tobulėjant žmogaus darbo įgūdžiams ir naudojant geresnius įrankius bei mašinas. Žemės ūkyje jis priklauso ir nuo žemės derlingumo bei meteorologinių sąlygų. Darbo našumo lygis ne visada turi būti siejamas su savikainos mažėjimu. Būna ir atvirkštinių procesų. Taip atsitinka, kai nesaikingai didinamas darbo užmokestis arba mažas naujų mašinų našumas.

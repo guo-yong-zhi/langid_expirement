@@ -1,0 +1,15 @@
+Cet article ne cite pas suffisamment ses sources .
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+Un réseau local, en anglais Local Area Network ou LAN, est un réseau informatique où les terminaux qui y participent  s'envoient des trames au niveau de la couche de liaison sans utiliser l’accès à internet. 
+On définit aussi le réseau local par le domaine de diffusion, c'est-à-dire l'ensemble des stations qui reçoivent une même trame de diffusion . Au niveau de l'adressage IP, un réseau local correspond généralement à un sous-réseau IP . On interconnecte les réseaux locaux au moyen de routeurs.
+Une autre approche consiste à définir le réseau local par sa taille physique. C'est généralement un réseau à une échelle géographique relativement restreinte, par exemple une salle informatique, une habitation particulière, un bâtiment ou un site d'entreprise.
+Dans le cas d'un réseau d'entreprise, on utilise aussi le sigle RLE pour réseau local d'entreprise.
+Le pionnier dans ce domaine est le réseau Ethernet conçu au centre Xerox PARC dans les années 1970, puis IBM a lancé son propre système, l'anneau à jeton, ou token ring, dans les années 1980 réf. nécessaire .
+Les réseaux locaux Ethernet sont les plus courants, grâce à la simplicité de leur mise en œuvre et à l'augmentation progressive des débits de connexion, passés de 10 Mbit/s, puis 100 Mbit/s, pour atteindre 1 Gbit/s puis 10 Gbit/s au XXIe siècle. La norme Ethernet est référencée par la série des normes 802.3 de l'IEEE qui régissent le monde Ethernet.
+À l'origine, les réseaux locaux étaient limités aux commutateurs interconnectés. Le concept de réseau local virtuel  permet de créer des réseaux locaux logiquement distincts à l'intérieur d'un même commutateur, comme s'il s'agissait de réseaux physiques distincts.
+Les protocoles IEEE 802.1Q et ISL permettent d'étendre des VLAN entre commutateurs.
+L'interconnexion entre les nœuds du réseau local était initialement réalisée par des câbles en cuivre  ; on trouve aussi maintenant des liens en fibre optique et des réseaux locaux sans fil, tels les réseaux Wi-Fi.
+Ethernet fait également référence au niveau 2 du modèle OSI . On utilise les adresses MAC qui sont inscrites par défaut dans le matériel des cartes réseaux pour identifier chaque nœud sur le réseau. Bien que par le passé plusieurs protocoles de niveau 3 aient été utilisés comme AppleTalk et IPX, le protocole IP règne désormais en maître tant sur les réseaux locaux que dans les réseaux étendus.
+Il existe toutes sortes d'utilitaires permettant à l'administrateur réseau de détecter plus facilement des problèmes dans son réseau local.
+Sur les autres projets Wikimedia :

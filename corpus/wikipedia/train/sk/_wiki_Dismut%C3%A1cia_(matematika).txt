@@ -1,0 +1,77 @@
+Dismutácia je matematický pojem, ktorý modeluje intuitívnu predstavu takého preusporiadania súboru vecí, po ktorom neostane ani jedna vec na svojom pôvodnom mieste. Formálne je dismutácia množiny 
+  
+    
+      
+        A
+      
+    
+    
+  
+ definovaná ako taká jej permutácia, ktorá nemá pevný bod.
+Napríklad, existuje 6 rôznych permutácií trojprvkovej množiny . Sú to
+Ale iba 2 z nich sú dismutácie. Konkrétne
+Podobne ako v prípade permutácii, aj počet rôznych dismutácií danej množiny závisí iba od počtu jej prvkov. Napríklad:
+Vo všeobecnosti možno počet dismutácií 
+  
+    
+      
+        !
+        n
+      
+    
+    
+  
+ ľubovoľnej 
+  
+    
+      
+        n
+      
+    
+    
+  
+-prvkovej množiny vypočítať pomocou rekurentného vzťahu
+s počiatočnou podmienkou 
+  
+    
+      
+        !
+        0
+        =
+        1
+      
+    
+    
+  
+ a 
+  
+    
+      
+        !
+        1
+        =
+        0
+      
+    
+    
+  
+. Číslo 
+  
+    
+      
+        !
+        n
+      
+    
+    
+  
+ sa nazýva subfaktoriál čísla 
+  
+    
+      
+        n
+      
+    
+    
+  
+. Subfaktoriály celých čísel od 0 po 13 tvoria postupnosť

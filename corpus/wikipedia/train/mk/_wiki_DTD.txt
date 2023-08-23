@@ -1,0 +1,33 @@
+Document Type Definition  - претставува мета-јазик со множество на декларации кои ни овозможуваат да дефинираме определен XML јазик. DTD е предвесник на XML Schema и имаат слична функција. DTD користи формална синтакса односно список на правила кои ги дефинираат елементите и атрибутите, односно укажува на тоа кои елементи се дозволени, ограничувања за дозволените елементи, редоследот на појавување на елементите ,кои атрибути може определен елемент да ги содржи и ограничувања за вредностите на елемнтите и атрибутите. DTD може да биде вклучен во самиот XML документ, или да биде поврзан со него надворешно. Document Type Declarations се јавува во синтаксички фрагмент doctypedecl уште во почетокот на XML документот. 1 
+Ако DTD е дефиниран во внатрешноста на XML податотеката, таа треба да се дефинира со DOCTYPE,и со следнава синтакса: 
+  <!DOCTYPE root-element >
+  <?xml version="1.0"?>
+ <!DOCTYPE note >
+ <note>
+ <to>Tove</to>
+ <from>Jani</from>
+ <heading>Reminder</heading>
+ <body>Don't forget me this weekend</body>
+ </note>
+  <!DOCTYPE root-element SYSTEM "filename">
+  <?xml version="1.0"?>
+ <!DOCTYPE note SYSTEM "note.dtd">
+ <note>
+ <to>Tove</to>
+ <from>Jani</from>
+ <heading>Reminder</heading>
+ <body>Don't forget me this weekend!</body>
+    <!ELEMENT <name> >
+  <!ELEMENT elementName >
+ <!ATTLIST elementName +>
+  <!ATTLIST img
+  src    CDATA          #REQUIRED
+  id     ID             #IMPLIED
+  sort   CDATA          #FIXED "true"
+  print   "yes"
+ >
+  <!ENTITY name “replacement text”>
+  <!ENTITY name SYSTEM “URI”>
+  <!DOCTYPE sgml >
+   <sgml>&question;&signature;</sgml>
+</prЗабележете дека внатрешните ентитети може да се дефинираат во било кој редослед, сè додека тие не се наведени и разложени во DTD или во телото на документот.

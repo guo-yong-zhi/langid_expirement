@@ -1,0 +1,3 @@
+En elektrisk solenoide er af en oprullet elektrisk ledning  og en massiv magnetisk fjederbelastet cylinder. Når spolen gennemløbes af primært jævnstrøm, virker spolen som en elektromagnet. cylinderen bliver som resultat trukket ind i spolen. En elektrisk solenoide anvendes f.eks. i relæer og magnetventiler.
+Der findes også hydrauliske solenoider.
+En solenoides formål er at kunne virke som en slags lineær mekanisk motor med kort vandring, men med relativt stor kraft. Den drives f.eks. af elektricitet, hydraulik eller trykluft.

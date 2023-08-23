@@ -1,0 +1,4 @@
+UNIX System V, kurz System V , mitunter auch SysV,  von AT&T ist eine Ausgabe des UNIX-Betriebssystems und wurde erstmals 1983 als Nachfolger von System III veröffentlicht. Seit 1992 liegt es in der Version System V Release 4.2 vor.
+Mit UNIX System V wurde ein neues init-System eingeführt, das den Namen SysVinit trägt und in vielen weiteren Unix-artigen Betriebssystemen genutzt wird oder wurde.
+Obwohl System V auch ein bestimmtes Unix-Derivat bezeichnet, wird es heute üblicherweise als Bezeichnung für eine ganze Klasse von Unix-Derivaten benutzt, die von der AT&T-UNIX-Linie abstammen . Die eigentlichen technischen Unterschiede zwischen System V und BSD verschwimmen zusehends, zum einen, da jede Linie viele Neuerungen aus der Konkurrenzlinie übernimmt, zum anderen auch aufgrund des immer höheren Verbreitungsgrades der grundlegenderen GNU-Hilfsprogramme  anstelle der BSD-/System-V-Programme.
+Zu den größten Unterschieden zählten ursprünglich :

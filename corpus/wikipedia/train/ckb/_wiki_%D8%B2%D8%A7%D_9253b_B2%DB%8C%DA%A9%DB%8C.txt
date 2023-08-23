@@ -1,0 +1,2 @@
+زانستی فیزیکی زاراوەیەکە بۆ ئاماژە بە ئەو لقانە لە زانستی سروشتی و زانست کە بە پێچەوانەی زانستەکانی زیندەورناسییەوە لە سیستمە بێگیانەکان دەکۆڵنەوە.
+ھەڵەی ژێدەرەکان: <ref> tags exist for a group named "kurdish-alpha", but no corresponding <references group="kurdish-alpha"/> tag was found

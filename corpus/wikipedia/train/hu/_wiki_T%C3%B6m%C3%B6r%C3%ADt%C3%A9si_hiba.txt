@@ -1,0 +1,5 @@
+Pontosságellenőrzött
+Tömörítési hibának ebben a cikkben a képek, hangok, videók veszteséges tömörítése során fellépő észrevehető minőségromlást nevezzük.
+Technikailag a tömörítési hiba általában a veszteséges tömörítés kvantálási lépése során fellépő probléma. Transzformációs kodekeknél általában a kódoló transzformációs terének bázisára jellemző a hiba.
+A tömörítési hiba számos elterjedt multimédiás formátumnál jelentkezik, mint például a DVD filmek, JPEG, MP3 és MPEG fájlok, vagy a Sony ATRAC hangformátuma. Tömörítetlen formátumoknál, mint a lézerlemez, audio CD vagy WAV fájlok,  illetve veszteségmentesen tömörített multimédiánál mint a FLAC vagy PNG értelemszerűen nem jelentkeznek ezek a hibák.
+A blokk-alapú DCT transzformáció során, amit például az elterjedt JPEG tömörítés használ, többfajta tömörítési hiba szokott előfordulni. Ezek közé tartozik az elmosódott területen kontúrosodás megjelenése, a görbe vonalak mentén lépcsőzetes zaj megjelentése, „légypiszkok” a szélek mentén, sakktáblaszerű hiba  a kép „mozgalmas” részein.

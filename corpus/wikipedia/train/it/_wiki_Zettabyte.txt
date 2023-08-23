@@ -1,0 +1,8 @@
+Lo zettabyte è un'unità di misura dell'informazione o della quantità di dati, il termine deriva dalla unione del prefisso SI zetta con byte ed ha per simbolo ZB.
+Il prefisso zetta deriva dal termine greco sept a indicare la settima potenza di 1000.
+A causa dell'uso improprio dei prefissi binari nel definire e usare il kilobyte, il valore dello zettabyte nella pratica comune ha potuto assumere i seguenti significati:
+Lo zebibyte, che pure non è ancora uno standard definito dalla Commissione elettrotecnica internazionale , esprime 1180591620717411303424 B senza nessuna incertezza e dovrebbe quindi essere utilizzato al posto del più diffuso zettabyte  per esprimere tale quantità.
+Per avere un'idea pratica della quantità di dati che 1 zettabyte esprime basti pensare che questo corrisponde a circa 180 milioni di volte le documentazioni conservate nella Biblioteca del Congresso di Washington.
+L'8 settembre 2010 il Product Manager di Google, Jonathan Effrat, durante l'annuncio di Google Instant, ha dichiarato che nel web la misura di contenuti digitali nel mondo è ormai vicina allo zettabyte e le informazioni reperibili sul web sono pari a circa un milione di volte quelle contenute in tutte le biblioteche degli Stati Uniti d'America.
+Grazie ad uno studio IDC del 2014 1  possiamo stimare in 4.4 Zettabyte il volume dei dati attualmente impegnati nel mondo ogni anno , con una rapidissima crescita stimata fino a 40 ZB annuali nel 2020, soprattutto dovuta alla rapida diffusione e crescita dell'Internet of Things.
+Altri progetti

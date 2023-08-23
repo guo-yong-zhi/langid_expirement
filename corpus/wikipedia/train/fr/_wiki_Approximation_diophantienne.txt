@@ -1,0 +1,187 @@
+Cet article est une ébauche concernant les mathématiques.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+En théorie des nombres, l'approximation diophantienne, qui porte le nom de Diophante d'Alexandrie, traite de l'approximation des nombres réels par des nombres rationnels.
+Il est possible d'approcher tout nombre réel par un rationnel avec une précision arbitrairement grande . La valeur absolue de la différence entre le nombre réel à approcher et le nombre rationnel qui l'approche fournit une mesure brute de la précision de l'approximation.
+Une mesure plus subtile tient compte de la taille du dénominateur.
+Du fait de la densité de 
+  
+    
+      
+        
+          Q
+        
+      
+    
+     }
+  
+  dans 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+ , tout réel peut être approché par des rationnels aussi près qu'on le souhaite au sens où :
+Toute la subtilité de la démarche réside alors dans l'idée qu’il ne s’agit pas seulement d’effleurer au plus près la valeur d’un réel donné α par une fraction p/q sans aucune autre considération, mais bien d'obtenir un compromis, le meilleur qui soit, entre :
+Afin de conserver un certain contrôle sur l’approximation, il semble en effet naturel d’affirmer qu’un réel est bien approché par la fraction p/q, si l’écart entre ce réel et p/q est petit sans que q ne soit trop grand : ce qui revient à chercher, en usant des termes précédemment employés, le meilleur « rapport qualité / prix » possible. Il paraît alors raisonnable d'essayer de majorer la distance de p/q à α par une fraction dont le dénominateur est une puissance de q, c'est-à-dire de la forme : C/qs. On voit ici apparaître deux paramètres : une constante C, dite constante d'approximation, et une puissance s, appelée ordre d'approximation, que la théorie de l'approximation diophantienne a cherché à optimiser au cours des siècles.
+On dit qu'un réel α est rationnellement approchable à l'ordre s > 0 s'il existe K > 0 tel que l'inéquation : 
+  
+    
+      
+        
+          |
+          
+             
+             
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        <
+        
+          
+            K
+            
+              q
+              
+                s
+              
+            
+          
+        
+      
+    
+    }
+  
+ ait une infinité de solutions.
+On définit alors la mesure d'irrationalité μ d'un irrationnel α comme la valeur optimale de l'ordre d'approximation de α :
+Pour un irrationnel arbitraire α, un théorème de Dirichlet fournit un ordre d'approximation minimal s = 2. Autrement dit, il affirme que la mesure d'irrationalité d'un irrationnel quelconque est supérieure ou égale à 2.
+En divisant les irrationnels en plusieurs catégories, il est possible d'affiner grandement ce résultat. On peut par exemple distinguer les nombres bien approchés, appelés nombres transcendants, dont les nombres de Liouville, des nombres mal approchés, ou nombres diophantiens, comprenant les nombres algébriques. Cette distinction est rendue pertinente par le théorème de Liouville  qui affirme qu'un nombre algébrique de degré d n'est approchable qu'à un ordre inférieur ou égal à d, limitant ainsi la précision des approximations rationnelles  ≤ d).
+Celui-ci reçut au cours des décennies qui suivirent plusieurs améliorations successives sous forme de diminution de l’exposant s, c.-à-d. des améliorations qui conduisirent à un encadrement toujours plus fin de la mesure d'irrationalité des nombres algébriques. Axel Thue   ≤ 1 + d/2), Carl Ludwig Siegel   ≤ 2 d), Freeman Dyson   ≤  2d) apportèrent ainsi chacun leur pierre à l'édifice, jusqu'au résultat final qui valut à Klaus Roth la médaille Fields en 1958, et qui fournit d'ailleurs un bon critère de transcendance : tout irrationnel algébrique α n'est approchable qu'à l'ordre 2  = 2). 
+Pour tout irrationnel α, on appelle constante d'approximation de α l'élément γ positif de 
+  
+    
+      
+        
+          R
+        
+         
+        
+          
+        
+      
+    
+     \cup }
+  
+ défini par :
+Un premier résultat valable pour des irrationnels x et y quelconques, assure l'égalité des constantes d'approximation lorsque x et y sont équivalents au sens de la relation d'équivalence suivante :
+On a également le théorème suivant, que l'on doit à Adolf Hurwitz :
+Pour tout irrationnel α l'inégalité : 
+  
+    
+      
+        
+          |
+          
+             
+             
+            
+              
+                p
+                q
+              
+            
+          
+          |
+        
+        <
+        
+          
+            1
+            
+              
+                
+                  5
+                
+              
+               
+              
+                q
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    }}}
+  
+ admet une infinité de solutions, et le nombre  5 est optimal, au sens où le théorème n'est plus vrai si n'importe quel nombre strictement plus grand lui est substitué.
+Cependant, Andreï Markov a démontré que ce résultat pouvait être amélioré. En effet, la théorie classique permet de calculer à l'aide de l'équation diophantienne de Markov
+et de la relation d'équivalence définie précédemment, une majoration optimale de la valeur γ selon l'irrationnel α — voire une égalité dans certains cas — sous la forme : 
+  
+    
+      
+        
+          
+            9
+             
+            
+              
+                4
+                
+                  m
+                  
+                    2
+                  
+                
+              
+            
+          
+        
+      
+    
+    }
+  
+ où m est solution de . Ces constantes sont appelées nombres de Lagrange.
+Les fractions continues sont reconnues comme étant les meilleures approximations rationnelles de réels, au sens suivant :
+une fraction p/q est dite de « meilleure approximation » du réel α si 
+  
+    
+      
+         
+        
+         
+        
+          Z
+        
+         
+        
+          
+            N
+            
+               
+            
+          
+        
+        
+        
+          
+        
+      
+    
+     \times \mathbb  \quad \left}
+  
+.
+L'algorithme de Stern-Brocot, qui s'appuie sur un calcul successif des médiantes de Farey, est cependant plus intéressant en termes de commodité calculatoire. On retrouve par ailleurs les réduites du développement en fraction continue d'un réel dans l'arbre de Stern-Brocot qui lui est associé.

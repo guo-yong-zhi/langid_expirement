@@ -1,0 +1,146 @@
+Mikhail Vassiliovich Ostrogradski   foi um matemático ucraniano.
+Estudou física e matemática na Universidade Nacional da Carcóvia, de 1816 a 1820. Em 1820 foi afastado dos estudos por motivos religiosos e impedido de obter o doutoramento.
+Estudou na Sorbonne e no Collège de France, de 1822 a 1826. Foi aluno de Pierre Simon Laplace, Jean-Baptiste Joseph Fourier, Adrien-Marie Legendre, Siméon Denis Poisson, Jacques Philippe Marie Binet e Augustin-Louis Cauchy.
+Em 1828 regressou a São Petersburgo, sendo eleito membro da Academia de Ciências da Rússia. Demonstrou em 1831 o teorema de Gauß-Ostrogradski.
+Trabalhou principalmente nas áreas matemáticas de cálculo de variações, integração de funções algébricas, teoria dos números, álgebra, geometria, teoria da probabilidade e nas áreas de matemática aplicada, física matemática e mecânica clássica. Neste último, suas principais contribuições estão no movimento de um corpo elástico e no desenvolvimento de métodos de integração das equações de dinâmica e potência dos fluidos, dando continuidade aos trabalhos de Euler, Joseph Louis Lagrange, Siméon Denis Poisson e Augustin Louis Cauchy.
+Na Rússia, seu trabalho nesses campos foi continuado por Nikolay Dmitrievich Brashman , August Yulevich Davidov  e especialmente por Nikolai Yegorovich Zhukovsky .
+Ostrogradsky não gostou do trabalho sobre geometria não euclidiana de Nikolai Lobachevsky de 1823 e o rejeitou, quando foi submetido para publicação na Academia de Ciências de São Petersburgo.
+Em 1826, Ostrogradsky deu a primeira prova geral do teorema da divergência, que foi descoberto por Lagrange em 1762. Este teorema pode ser expresso usando a equação de Ostrogradsky:
+onde P, Q e R são funções diferenciáveis ​​de x, y e z definidas na região compacta V limitada por uma superfície lisa fechada Σ; λ, μ e ν são os ângulos que a normal externa a Σ faz com os eixos x, y e z positivos, respectivamente; e d Σ é o elemento da área de superfície em Σ.
+Seu método de integração de funções racionais é bem conhecido. Primeiro, separamos a parte racional da integral de uma função racional fracionária, a soma da parte racional  e a parte transcendental . Em segundo lugar, determinamos a parte racional sem integrá-la e atribuímos uma dada integral na forma de Ostrogradsky:
+Onde 
+  
+    
+      
+        P
+        
+        ,
+        
+        S
+        
+        ,
+        
+        Y
+        
+      
+    
+    
+  
+ são polinômios conhecidos de graus p, s, y respectivamente, 
+  
+    
+      
+        R
+        
+      
+    
+    
+  
+ é um polinômio conhecido de grau não maior que 
+  
+    
+      
+        p
+         
+        1
+      
+    
+    
+  
+, e 
+  
+    
+      
+        T
+        
+        ,
+        
+        X
+        
+      
+    
+    
+  
+ são polinômios desconhecidos de graus não maiores que 
+  
+    
+      
+        s
+         
+        1
+      
+    
+    
+  
+ e 
+  
+    
+      
+        y
+         
+        1
+      
+    
+    
+  
+ respectivamente.
+Terceiro, 
+  
+    
+      
+        S
+        
+      
+    
+    
+  
+ é o maior divisor comum de 
+  
+    
+      
+        P
+        
+      
+    
+    
+  
+ e 
+  
+    
+      
+        
+          P
+           
+        
+        
+      
+    
+    
+  
+. Quarto, o denominador da integral restante 
+  
+    
+      
+        Y
+        
+      
+    
+    
+  
+ pode ser calculado a partir da equação 
+  
+    
+      
+        P
+        
+        =
+        S
+        
+        
+        Y
+        
+      
+    
+    
+  
+.

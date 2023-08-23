@@ -1,0 +1,5 @@
+Cet article utilise la notation algébrique pour décrire des coups du jeu d'échecs.
+L'ouverture Djin, ainsi baptisée par Eric Schiller, est constituée par les coups 1. d4 Cf6 2. c4 e6 3. Cf3 a6.
+Elle est aussi appelée Dzindzi-indienne,, même si Roman Dzindzichashvili veut que son nom soit donné à la variante de la défense moderne 1. d4 g6 2. c4 Fg7 3. Cc3 c5 4. d5 Fxc3+ 5. bxc3 f5,.
+1. d4 Cf6 2. c4 e6 3. Cf3 a6 4. Cc3 c5 5. d5 b5 6. Fg5 b4 7. Ce4 d6 8. Da4+ Dd7 9. Dc2 Cxe4 10. Dxe4 f6 11. dxe6 Dc6 12. Df5 fxg5 13. Cxg5 Ta7 14. Cf7 Txf7 15. Dxf7+ Rd8 16. e3 Dc7 17. Df5 De7 18. 0-0-0 Rc7 19. Fe2 Dxe6 20. Dc2 Fb7 21. Ff3 Fxf3 22. gxf3 Cd7 23. De4 Dxe4 24. fxe4 Ce5 25. b3 Cc6 26. Td5 Fe7 27. Tf5 0-1.
+Comme le montre la partie ci-dessus, l'idée est de jouer les plans avec un ...c5 précoce du gambit Blumenfeld et de la défense Benoni, mais en ayant déjà protégé le pion qui viendra en b5. 

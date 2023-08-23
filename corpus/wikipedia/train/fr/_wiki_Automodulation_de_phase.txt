@@ -1,0 +1,60 @@
+Cet article est une ébauche concernant l’optique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+Consultez la liste des tâches à accomplir en page de discussion.
+L'automodulation de phase  est un effet optique non linéaire d'interaction lumière-matière . Une impulsion ultra-courte, lorsqu'elle voyage dans un milieu matériel, induit une variation de l'indice de réfraction de ce milieu par effet Kerr. Cette variation induit à son tour un décalage de phase dans l'impulsion, ce qui conduit à une modification du spectre en fréquence de l'impulsion.
+L'automodulation de phase est un effet important dans les systèmes optiques qui utilisent des impulsions brèves et intenses, tels que les lasers et les réseaux de communications par fibre optique.
+Considérons une impulsion ultra-courte dont l'intensité au temps t est donnée par I. Si l'impulsion se propage dans un milieu matériel, l'effet Kerr optique induit un changement de l'indice de réfraction en fonction de l'intensité :
+où n0 est l'indice de réfraction linéaire et n2 l'indice de réfraction non linéaire de second ordre du milieu. Nous considérons dans toute la suite de cet article une nonlinéarité n2 positive , mais il est également possible d'avoir un coefficient n2 négatif .
+Lors de la propagation, l'intensité à chaque point du milieu traversé augmente, puis diminue au passage de l'impulsion. D'où la variation de l'indice de réfraction :
+Cette variation provoque un décalage de la phase instantanée de l'impulsion :
+où 
+  
+    
+      
+        
+           
+          
+            0
+          
+        
+      
+    
+    }
+  
+ et 
+  
+    
+      
+        
+           
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \lambda _
+  
+ sont respectivement la fréquence de la porteuse et la longueur d'onde  de l'impulsion, 
+  
+    
+      
+        L
+      
+    
+    
+  
+ la distance sur laquelle l'impulsion s'est propagée.
+Le décalage de phase induit un décalage en fréquence de l'impulsion. La fréquence instantanée ω est donnée par
+Tracer ω montre la variation en fréquence de part et d'autre de l'impulsion. Le front de l'impulsion est décalé vers les basses fréquences , la traîne est décalée vers les hautes fréquences , et le sommet du pic n'est pas décalé en phase.
+Dans le cas d'une impulsion symétrique , il est clair que les fréquences supplémentaires générées par automodulation de phase élargissent le spectre en fréquence symétriquement. Dans le domaine temporel, l'impulsion ne varie pas, néanmoins dans tout milieu réel, les effets de la dispersion agiront également sur l'impulsion ,. Dans le cas d'une dispersion normale, les plus basses fréquences  se propagent plus rapidement que les hautes fréquences, donc le front de l'impulsion  se déplace plus vite que la queue , ce qui élargit l'impulsion également temporellement. En revanche, dans des zones à dispersion anormale, c'est l'inverse qui se produit : l'impulsion est alors comprimée temporellement, elle devient plus courte. Cet effet peut être exploité pour produire des impulsions ultra-courtes.
+Illustrons le cas général en considérant une impulsion gaussienne ultra-courte de phase constante, l'intensité au temps t est donnée par I:
+où I0 est l'intensité maximale et τ la demi-largeur de l'impulsion.
+D'où la variation de l'indice de réfraction :
+La fréquence instantanée ω est alors donnée par
+Pour la portion centrale de l'impulsion gaussienne , il y a une variation à peu près linéaire de la fréquence , approximée par
+où α vaut
+Une analyse similaire peut être faite pour toutes les formes d'impulsion, telles que la sécante hyperbolique carrée  générée par la plupart des lasers à impulsions courtes. Toutefois, l'approximation du chirp linéaire au milieu de l'impulsion n'est valable que pour les gaussiennes. Lorsque le front de l'impulsion est plus aigu , la variation de fréquence peut être plus prononcée. Dans le cas d'une super-gaussienne, par exemble, le chirp est presque trois plus fort aux bords de l'impulsion que pour une gaussienne, et nul  au centre de l'impulsion.
+Si l'impulsion est suffisamment intense, l'élargissement spectral dû à l'automodulation de phase peut compenser exactement la compression temporelle due à la dispersion anormale. L'impulsion se propage alors de manière auto-similaire : on parle de soliton optique. C'est un cas asymptotique : si une impulsion gaussienne d'intensité suffisante est injectée dans la fibre optique non linéaire, sa forme tend vers la sécante hyperbolique correspondant à l'équilibre entre l'effet non linéaire d'automodulation de phase  et l'effet de la dispersion anormale de la vitesse de groupe .
+Pour une impulsion de profil d'intensité parabolique, la dérive de fréquence introduite sera parfaitement linéaire. Pour une impulsion triangulaire, elle sera constante par morceau.
+Le phénomène d'automodulation de phase a été mis à profit dans un grand nombre d'applications :

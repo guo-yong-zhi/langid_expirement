@@ -1,0 +1,8 @@
+Automator è un'applicazione, sviluppata da Apple e distribuita per la prima volta il 29 aprile 2005, che permette di utilizzare il linguaggio di scripting AppleScript senza scrivere il codice, ma creando un diagramma di flusso  scegliendo le varie azioni da fare eseguire allo script, ad esempio ruotare un'immagine o salvare un file.
+AppleScript permette di scrivere programmi che dicono ad altre applicazioni di eseguire delle azioni.
+Automator è facile da usare  perché permette di scrivere un programma trascinando delle azioni una dopo l'altra .
+Automator funziona con svariati programmi di Apple  ma anche con programmi di terze parti, come ad esempio Microsoft Office oppure Adobe Photoshop.
+Automator assomiglia alle pipeline UNIX: un'azione può passare degli argomenti all'azione successiva, che a sua volta li può passare alla seguente e così via.
+Automator arriva con una raccolta di azioni e ognuna di esse rappresenta una "casella" sul diagramma di flusso.
+Una volta creato il diagramma di flusso, si può salvarlo in modo da poterlo poi utilizzare in seguito. È possibile salvarlo come appunto diagramma di flusso, come un elemento del menu contestuale o come un'applicazione.
+È possibile specificare un'azione come codice AppleScript o come comandi UNIX. È inoltre possibile utilizzare Automator solo con le applicazioni dette scriptabili, ovvero quelle che supportano AppleScript.

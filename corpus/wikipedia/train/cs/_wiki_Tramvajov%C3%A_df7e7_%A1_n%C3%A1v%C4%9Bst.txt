@@ -1,0 +1,64 @@
+Traťová návěstidla pro tramvajový a trolejbusový provoz jsou obdobou dopravních značek pro silniční provoz a traťových návěstidel pro železniční dopravu. Návěstidla se zpravidla umisťují na trolejové vedení, někdy též na sloupy podél trati  nebo na samostatné vlastní sloupky nebo jiné objekty. Značky se i použí na troleje postaveného na výšku. Návěstidla se použití na tramvajové doprava a MHD.
+Základní návěsti a návěstidla stanoví v České republice příloha č. 1 vyhlášky č. 173/1995 Sb., kterou se vydává Dopravní řád drah. Provozovatel dráhy může stanovit i další návěsti. Traťové značky, které nejsou návěstidly, jsou stanoveny v § 20, 37 a 59 vyhlášky č. 177/1995 Sb., kterou se vydává Stavební a technický řád drah.
+Úsekový izolátor označený značkou.
+Značka Úsek častých nehod .
+Zajišťovací výhybka a konec omezené rychlosti
+Značka Stůj na troleji i na stojanu
+Značky na slupi, tramvajové provedení
+Původní značky "Omezení rychlosti" a "Konec zákaz mijení protijedoucí tramvají
+Pro tramvajový i trolejbusový provoz stanoví Dopravní řád drah v Česku tato návěstidla:
+Stáhni sběrač: zelená černě a bíle orámovaná tabulka tvaru čtverce postaveného na hrotu. Návěstním znakem je písmeno V. 
+Zvedni sběrač: tabulka shodného provedení jako Stáhni sběrač, písmeno V je však uvedeno vrcholem vzhůru. 
+Úsekový dělič: značka je obdobného provedení jako Stáhni sběrač, odrazová skla však tvoří vodorovnou úsečku v úhlopříčce značky. Při průjezdu sběrače tímto místem nesmí tramvaj odebírat trakční proud a je-li to možné, má mít vypnutou rekuperaci.
+Vypínací bod je bílá tabulka tvaru obdélníku postaveného na výšku, na které je černé písmeno V. Návěstidlo označuje místo, od kterého řidič může využívat setrvačnosti vlaku k jízdě v traťovém úseku. 
+Bezpečnostní zastavení: bílá tabulka se zeleným orámováním a zeleným úhlopříčným pruhem z levého horního do pravého dolního rohu, ve tvaru obdélníku postaveného na výšku. Před touto návěstí musí každý vlak zastavit.  Značka může být umístěna i na zastávkovém sloupku.
+Přednost v jízdě před protijedoucí tramvají. Tabulka s levou polovinou červenou a pravou zelenou, ve tvaru obdélníku postaveného na výšku. Na značce nebo dodatkové tabulce může být upřesněno, na které typy tramvají nebo na který směr jízdy se zákaz míjení protijedoucích tramvají vztahuje.
+Dej přednost v jízdě protijedoucí tramvaji. Značka je obdobná jako „přednost v jízdě před protijedoucí tramvají“, avšak pravá polovina značky je červená a levá zelená.
+Konec úseku přednosti v jízdě před protijedoucí tramvají má shodné provedení jako značka označující začátek úseku, navíc je doplněná černým pruhem z levého spodního rohu značky do pravého horního.
+Konec úseku dej přednost v jízdě protijedoucí tramvaji má shodné provedení jako značka označující začátek úseku, navíc je doplněná černým pruhem z levého spodního rohu značky do pravého horního. 
+Zúžený průjezdný průřez je šikmé žlutočerné šrafování. Význam a provedení návěstidla jsou obdobné silničnímu dopravnímu zařízení č. Z 9 podle vyhláškou 30/2001 Sb. „Žluté a černé pruhy“.
+Námezník je bílý trámec nebo bílý pás. Vyznačuje místo, kam až může bezpečně zajet čelo vozu, aniž by byl ohrožen průjezd jiného vlaku po výhybce.
+Přejezd s předností v jízdě tramvaje: zelená bíle orámovaná tabulka tvaru obdélníku postaveného na výšku. Označuje přejezd, kde má tramvaj přednost zajištěnou dopravními značkami.
+Přejezd nezabezpečený: červenobíle pruhovaný sloupek. 
+Přejezd zabezpečený světelným signalizačním zařízením. Návěstidlo je tvořeno trojúhelníkovou deskou, jejíž podoba je shodná se silniční dopravní značkou č. A 10 „Světelné signály“, umístěnou na červenobíle pruhovaný sloupek stejný, jaký označuje nezabezpečený přejezd. 
+Předvěst je obdobná signalizačnímu zařízení pro tramvaje pro signály S 15a až S 15g podle vyhlášky č. 30/2001 Sb., pod deskou s návěstními světly je však žlutá bíle orámovaná tabulka tvaru obdélníku postaveného na výšku s černým písmenem P.
+ Předvěst Očekávej stůj je obdobná světelnému signálu pro tramvaje S15a Stůj 
+ Předvěst  je obdobná světelnému signálu pro tramvaje S15b Jízda přímo Omezení rychlosti je žlutá bíle orámovaná tabulka tvaru obdélníku postaveného na výšku, na níž je černě uvedeno číslo udávající nejvyšší povolenou rychlost v km·h−1.
+Pomalu: má stejnou podobu jako značka Omezení rychlosti, avšak není v ní uvedeno žádné číslo. Znamená omezení rychlosti na 10 km·h−1.
+Ukončení omezené rychlosti je obdobná značce Omezení rychlosti, místo černého čísla je však na značce černý pruh vedený z levého spodního do pravého horního rohu značky.
+Stůj: červená bíle orámovaná tabulka tvaru obdélníku postaveného na výšku, na níž má obdobná značku jako Pomalu, avšak s červeným pokladem.
+Označení pracovního trolejového kontaktu elektricky ovládané výhybky : bílá čtvercová tabulka s černým rovnostranným trojúhelníkem, uvnitř kterého je oranžový čtverec.
+ Návěst Přijímač rádiového signálu u EOV, které se přestavují rádiovým signálem. Bílá čtvercová tabulka s černě vyobrazeným znakem rádiového signálu.
+Směrové návěstidlo EOV, jsou-li dvě výhybky za sebou. Černá tabulka ve tvaru obdélníku postaveného na výšku, ve které je bílé písmeno P nebo L, označující, zda jde o výhybku do pravého nebo levého oblouku, případně je označeno pořadí výhybek ve směru jízdy čísly 1 a 2, směřují-li obě výhybky do stejného směru. Směrové návěstidlo se umisťuje jednak u pracovního trolejového kontaktu, jednak u světelného návěstidla výhybky.
+Elektricky ovládaná výhybka mimo provoz: návěst tvoří světelné návěstidlo překryté bílým křížem.
+Pracovní trolejový kontakt mimo provoz: návěst tvoří označení pracovního trolejového kontaktu překryté černou tabulkou, na které je vyznačen žlutý kříž.
+Manipulační výhybka: tabulka obdobného provedení jako návěst „Pomalu“, na ní je uvedeno červené písmeno V. Návěstidlo označuje výhybku, která je pojížděna pravidelně jen do jednoho směru jízdy, není-li výhybka označena jiným návěstidlem. 
+Zajišťovací výhybka: tabulka obdobného provedení jako návěst „Pomalu“, na ní je uvedeno červené písmeno Z. Označuje zajišťovací (vratnou) nebo zaklínovanou výhybku. Na takové výhybce zejména není přípustné couvat, pokud vlak přijel po hrotech ze směru, do nějž výhybka není nastavena, dokud ji nepřejel i poslední nápravou.)
+Uzamykatelná výhybka tabulka obdobného provedení jako návěst „Pomalu“, na ní je uvedeno červené písmeno U. Označuje uzamykatelnou výhybku, která není číselně rozlišena. 
+Zóna s omezením rychlosti: bílá tabulka o rozměrech minimálně 500×300 mm, na níž je v horní části napsáno „ZÓNA“, popř. v jakém časovém období zónové omezení rychlosti jízdy platí . Černé číslo na žlutém podkladu v dolní části určuje výši omezení rychlosti.
+Konec zóny s omezením rychlosti má obdobné provedení jako značka pro začátek zóny, číslo v dolní části však není na žlutém podkladu a tabulka je doplněna černým pruhem z levého spodního do pravého horního rohu.Oblouk o malém poloměru: tabulka obdobného provedení jako návěst „Pomalu“, na ní je uvedeno malé černé písmeno r a pod ním šipka směru oblouku. Návěstidlo označuje traťové oblouky o poloměru menším než 25 m. Rychlost jízdy v takovém oblouku nesmí být vyšší než 15 km/h.
+Značky upravující přednost  protijedoucích tramvají jsou doplněny písmeny KT, týkají-li se pouze vzájemného míjení kloubových vozů KT8D5.
+Značky upravující přednost  protijedoucích tramvají jsou doplněny písmeny T-KT, týkají-li se pouze míjení tramvaje jakéhokoliv typu s kloubovým vozem KT8D5.
+Šipka upřesňuje, pro který oblouk  zákaz míjení platí.
+Úsek častých nehod: tabulka o rozměrech minimálně 500 x 300 mm s modrým podkladem, v níž jsou pod sebou dva bílé obdélníčky. V horním obdélníčku jsou tři červené vykřičníky, v dolním číslo černé barvy označující délku úseku v metrech.
+světelná signalizace
+světelná signalizace s detekcí
+nebezpečný sklon
+strmé stoupání
+kolizní doprava
+omezení rychlosti 
+konec omezení rychlosti
+zablokovaná výhybka
+stůj – jednosměrná výhybka
+úsekový izolátor
+hranice napájení
+elektrická výhybka levá
+elektrická výhybka pravá
+Záhřeb: 
+Omezená rychlost
+Konec omezení rychlosti
+Předvěst výhybky
+Výhybkový kontakt
+Úsekový izolátor 
+Pružný spínač 
+Povinné brzdění motorem 

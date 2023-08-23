@@ -1,0 +1,8 @@
+Julia er afkastamikið æðra  forritunarmál, sem er líka ætlað að vera auðvelt , upphaflega gert með forritun fyrir  vísindi í huga , en er almennt mál líkt og t.d. Python, er hægt að nota fyrir verkefni frá t.d. vefþróun upp í að byggja gervigreind.
+Að skrifa forrit í Julia tekur styttri tíma en á sumum öðrum málum, og er kóðinn styttri, svipaður að lengd og Python kóði, en getur verið jafn hraður og C eða C++ . 
+Framúrskarandi  hugbúnaður hefur þegar verið skrifaður á Júlíu, því það er talið auðveldara í Julia en í öðrum málum, s.s. C++. 
+Julia var hönnuð til að óvenju auðvelt væri að vinna með öðrum forritunarmálum, þ.e. njóta góðs af kóða sem þegar er skrifaður á öðrum málum, eða "endurnýta"  kóðann sem þegar hefur verið skrifaður í t.d. C. Mjög auðvelt er að endurnýta Python kóða, og kalla á . Líka auðvelt að kalla á R og Java eða t.d. Scala.
+Eins er hægt að nota mörg mál, t.d. Python, R  og kalla yfir í Julia, til að endurnýta Julia forritasöfn .
+Julia sótti innblástur frá öðrum forritunarmálum eins og Python, MATLAB, R, Ruby, Perl, Mathematica, Lisp og C.
+Julia er að fullu studd á Windows, macOS og Linux. Keyrir líka á FreeBSD og Raspberry Pi tölvunni, þ.e. Julia er studd í Raspbian.
+Julia styður að kalla á forritasöfn skrifuð í C  án límkóða , þ.e. með lykilorðinu  ccall. En líka er hægt án mikillar fyrirhafnar að kalla á til t.d. C++, Python, Java, MATLAB og R með hjálp viðeigandi Julia forritasafna, og líka er hægt að nota þau mál og kalla yfir í Julia, til að endurnýta Julia forritasöfn.

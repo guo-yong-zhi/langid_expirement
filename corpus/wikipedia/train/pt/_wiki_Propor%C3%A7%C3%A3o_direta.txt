@@ -1,0 +1,333 @@
+Proporção direta, em matemática, é a relação entre duas grandezas ou variáveis que crescem ou decrescem juntas sempre mediante um fator comum. É o caso mais simples de relação entre duas grandezas ou variáveis.
+Matematicamente, se duas grandezas X e Y encontram-se relacionadas e são diretamente proporcionais, observa-se que: dobrando-se o valor de uma das grandezas, o valor da grandeza correspondente também dobra; triplicando-se o valor de uma das grandezas, o correspondente valor da outra também triplica, e assim por diante. De forma geral, multiplicando-se uma das grandezas por um certo fator real r, a outra terá seu valor também multiplicado pelo mesmo fator r.
+Em matemática o símbolo utilizado para representar uma relação de proporção direta é a letra grega alfa , de forma que se as grandezas X e Y guardam relação direta uma com a outra, esta pode ser assim representada:
+  
+    
+      
+        Y
+         
+        X
+      
+    
+    
+  
+Tal relação é geralmente lida como: "Y é diretamente proporcional a X", ou simplesmente, "Y é proporcional a X".
+Uma propriedade importante da proporção direta é que os valores de uma das grandezas  e os correspondentes valores da outra grandeza , em vista da definição, guardam sempre a mesma razão, quaisquer que sejam os pares  escolhidos. Sendo x1 e x2 dois valores distintos da grandeza X e y1 e y2 os corespondentes valores de Y, tem-se que:
+  
+    
+      
+        
+          
+            
+              y
+              
+                2
+              
+            
+            
+              x
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              y
+              
+                1
+              
+            
+            
+              x
+              
+                1
+              
+            
+          
+        
+      
+    
+    }=}
+  
+A constância da razão é a demonstrável mediante a consideração de que o valor x2 pode ser obtido multiplicando o valor x1 por um certo fator r adequado . Para que Y e X guardem proporção direta, ao multiplicar-se x1 por um fator r qualquer a fim de obter-se um novo valor x2, deve-se também multiplicar o valor y1 associado a x1 pelo mesmo fator r a fim de obter-se o novo valor y2 associado à x2. Logo conclui-se que a definição implica que y2 deva ser igual a r vezes y1 para que se tenha uma proporção direta. Tem-se pois que, se x2 = r x1 então y2 = r y1 necessariamente. Logo a razão entre y2 e x2 vale:
+  
+    
+      
+        
+          
+            
+              y
+              
+                2
+              
+            
+            
+              x
+              
+                2
+              
+            
+          
+        
+        =
+        
+          
+            
+              r
+              
+                y
+                
+                  1
+                
+              
+            
+            
+              r
+              
+                x
+                
+                  1
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              y
+              
+                1
+              
+            
+            
+              x
+              
+                1
+              
+            
+          
+        
+        =
+        C
+      
+    
+    }===C}
+  
+quaisquer que sejam os valores x2 e y2 .
+A constante C é denominada constante de proporcionalidade entre as grandezas Y e X e pode de forma geral ser assim calculada:
+  
+    
+      
+        C
+        =
+        
+          
+            y
+            x
+          
+        
+      
+    
+    
+  
+sendo x o valor da grandeza independente X e y o respectivo valor da grandeza dependente Y. Decorre imediatamente que, se:
+então, de forma geral para qualquer proporção direta:
+Repare o sinal 
+  
+    
+      
+         
+      
+    
+    
+  
+ de diretamente proporcional foi "trocado" por um sinal de igual e uma constante C adequada. Tal procedimento é "padrão" e pode ser adotado sempre que necessário.
+Tal afirmação pode ser confirmada ao comparar-se a equação obtida para a proporção direta com a equação de uma reta no plano em sua forma reduzida:
+Y = a.X + b , onde a e b representam constantes. Vê-se de imediato que a correspondência: a = C e b = 0 nos leva à equação geral da proporção direta. O valor de b corresponde ao valor em que a reta intercepta o eixo vertical no gráfico. Sendo zero para uma proporção direta, a reta necessariamente passa pela ogirem .
+  
+    
+      
+        
+          
+            
+              X
+              
+                2
+              
+            
+            
+              X
+              
+                1
+              
+            
+          
+        
+        =
+        
+          
+            
+              Y
+              
+                2
+              
+            
+            
+              Y
+              
+                1
+              
+            
+          
+        
+      
+    
+    }=}
+  
+ou seja, em uma tabela encerrando em uma coluna os valores da grandeza Y e em outra os respectivos valores da grandeza X as "linhas" guardam razão entre si . Esta é a ideia central por trás da regra de três.
+  
+    
+      
+        y
+        =
+        C
+        .
+        x
+      
+    
+    
+  
+Já comentado. Implica que, em uma tabela encerrando em uma coluna os valores da grandeza Y e em outra os respectivos valores da grandeza, uma coluna é um múltiplo da outra mediante um fator fixo para toda a tabela, qualquer que seja a linha escolhida.
+A constante de proporcionalidade também exerce o papel de manter a equação dimensionalmente correta, e seu valor depende das unidades em uso. Assim, tendo-se em vista como exemplo a Lei de Coulomb, que afirma: "a força elétrica entre duas cargas puntuais é diretamente proporcional ao produto das cargas e diretamente proporcional ao inverso do quadrado da distância que as separa", e lembrando-se que  no Sistema Internacional de Unidades a unidade de distância é o metro, a unidade de força é o newton e a unidade de carga é o coulomb, a constante de proporcionalidade, na eletrostática chamada de constante de Coulomb k, deve ter dimensão de newton metro quadrado por coulomb quadrado a fim de que tudo se "encaixe".
+Traduzindo, com o colchetes  representando "a unidade de", tem-se que:
+  
+    
+      
+        F
+        =
+        k
+        
+          
+            
+              
+                q
+                
+                  1
+                
+              
+              
+                q
+                
+                  2
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    q_}}
+  
+   
+ = coulomb 
+ = metro 
+ = newton 
+então necessariamente:
+  
+    
+      
+        
+        =
+        
+          
+            
+              N
+              
+                m
+                
+                  2
+                
+              
+            
+            
+              C
+              
+                2
+              
+            
+          
+        
+      
+    
+    }}
+  
+Contudo se o conjunto de unidades em uso fosse outro, a exemplo se a carga fosse medida em franklin, a distância em centímetros e a força em dinas, embora o problema e as grandezas permaneçam essencialmente os mesmos, o valor numérico da constante bem como sua unidade seriam certamente diferentes dos anteriormente considerados.
+Em suma, as constantes de proporcionalidade "ajustam" e "informam" as unidades a serem utilizadas nas expressões matemáticas que expressam as relações entre grandezas físicas. Várias são experimentalmente determinadas e então tabeladas, dando origem ao que usualmente se denomina por "tabela de constantes físicas".
+Bom exercício quanto à compreensão da proporção direta é identificar a equação da Lei de Coulomb a partir de seu enunciado, e vice-versa.
+A proporção direta corresponde à mais simples relação que pode existir entre duas grandezas ou variáveis, sendo seguida pela variação linear. Certamente há um número enorme de relações que não se enquadram nos casos acima, mas por serem estes facilmente acessível à nossa cognição, e comum descreverem-se relações mais complexas com o mesmo raciocínio sempre que possível. O cálculo integral e diferencial provê ferramentas para reduzir qualquer relação "bem comportada" mais complexa à relação de variação linear , se não em toda a extensão de seu domínio pelo menos localmente .
+Contudo há casos em que as relações mais complexas podem ser reduzidas à proporcionalidade de forma bem mais simples, bastando para tal uma ou mais trocas de variáveis. A exemplo, considere uma relação estabelecida pela regra Y = 5X² . Certamente os valores de y e x não guardam proporção direta, algo facilmente verificável na tabela que se segue ao ter-se em vista as propriedades características de uma proporção direta: uma coluna é um múltiplo da outra, e duas linhas guardam razão entre si.
+Contudo, construíndo-se uma terceira coluna onde figuram agora não os valores de X mas sim os valores x² de uma nova variável nomeada Z, ver-se-á facilmente que os valores de Y são agora diretamente proporcionais aos valores de Z mediante constante de proporcionalidade igual a 5. Isto possibilita dizer com segurança que "Y é diretamente proporcional a Z". Como Z foi definido como o quadrado de X, tem-se:
+"Y é diretamente proporcional ao quadrado de X"
+, onde subentende-se que  o quadrado de x funciona como uma variável única.
+Com a troca de variáveis foi possível reduzir-se a função parabólica dada  à condição de uma proporção direta . Embora este processo não seja aplicável a qualquer função parabólica, ele o é sempre que figuar apenas o termo ax², o que nos leva à variação com o quadrado, e é também aplicável a vários outros casos, como na relação inversa  e na variação com o inverso do quadrado .
+O processo de troca de variáveis mostra-se muito útil principalmente em problemas ligados às ciências naturais. Na Lei de Coulomb, a força elétrica F entre duas cargas puntuais é diretamente proporcional ao inverso do quadrado da distância r entre as cargas, mostrando que a troca de variáveis Z=1/r² leva a 
+  
+    
+      
+        F
+         
+        Z
+      
+    
+    
+  
+.
+Muitas vezes há a necessidade de duas trocas de variáveis. A terceira lei de Kepler sobre o movimento planetário estabelece que "Os quadrados dos períodos de translação T dos planetas são proporcionais aos cubos dos eixos maiores D de suas órbitas". Neste caso tem-se que fazer W=T² e Z =D³  para se obter a proporção direta 
+  
+    
+      
+        W
+         
+        Z
+      
+    
+    
+  
+. Nestes termos o  quadrado do período e o cubo do comprimento do eixo maior funcionam como variáveis, e não o período e o comprimento do eixo propriamente ditos.
+Há diversos outros casos em que este processo se aplica. É comum o seu uso para linearizar relações exponenciais e logaritmas - comuns também em ciências naturais. Há de se ressaltar contudo que em todos os casos, incluso todos os anteriormente relatados, considerações a respeito do domínio e imagem das relações envolvidas podem se fazer necessárias.
+Uma outra forma de se transformar uma "curva" em uma reta em um gráfico é mudar a escala do eixo mantendo-se contudo a grandeza original no eixo horizontal. Assim, uma função exponencial 
+  
+    
+      
+        Y
+        =
+        c
+        
+          a
+          
+            b
+            X
+          
+        
+      
+    
+    }
+  
+ terá seu gráfico com a aparência de uma reta caso o eixo vertical Y em um gráfico Y x X esteja com seus valores dispostos em escala logaritma.
+A proporção direta é o suporte central à operação matemática conhecida como "regra de três", contudo nela pode ainda figurar uma outra relação entre grandezas, a proporção inversa. Identificar se duas grandezas são ou não diretamente proporcionais bem como se estas são ou não inversamente proporcionais constitui-se em uma habilidade importante para solucionarem-se problemas envolvendo "regra de três". Em tais situações é usual representar-se que duas grandezas Y e X são diretamente proporcionais da seguinte forma:
+Já a proporção inversa é assim representada:
+Há situações em que, havendo mais de duas grandezas envolvidas, observa-se entre estas grandezas, quando tomadas duas a duas, tanto as relações de proporção direta quanto inversa:
+Tem-se acima que x é inversamente proporcional à y e que y é inversamente porcional a z, o que implica x diretamente proporcional a z.
+Vale a pena ressaltar que nem sempre a simples observação de que uma grandeza aumenta quando outra aumenta é suficiente para afirmar-se que as mesmas guardam relação de proporção direta. Há diversas outras relações que implicam a mesma observação, das quais duas muito frequentes em fenômenos naturais são a "variação com o quadrado" e a "variação com o cubo".

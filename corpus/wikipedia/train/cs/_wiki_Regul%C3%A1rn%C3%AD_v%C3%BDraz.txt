@@ -1,0 +1,16 @@
+Regulární výraz  je textový řetězec, který slouží jako vzor pro vyhledávání textu. Regulární výraz tvoří soubor dvou typů znaků – literálů, které musí hledaný řetězec obsahovat, a pomocných znaků, které umožňují pokročilé možnosti vyhledávání. Například pokud chce uživatel v textu vyhledat  řetězec, který nezná přesně nebo který může mít více variant, umožňuje mu použití regulárního výrazu popsat podmínky vyhledávání , které musí hledaný řetězec splňovat. Regulární výraz se zapisuje regulárním jazykem, který zavedl americký matematik Stephen Cole Kleene. 1 
+Regulární výrazy jsou dostupné v mnoha skriptovacích jazycích, internetových vyhledávačích, textových editorech nebo souborových manažerech, nejčastěji formou externí knihovny  nebo sady funkcí .
+Nejčastější využití je:
+Formálně je regulární výraz definován následujícím způsobem:
+Tato definice dostačuje pro popis libovolného regulárního jazyka.
+V praxi se používají obvykle rozšířené definice regulárních jazyků, které umožňují běžné konstrukce zapsat jednodušším způsobem . V běžných syntaxích se zpravidla objevují následující konstrukce:
+Varianty
+Seskupování
+Libovolný znak
+Počet opakování
+Začátek a konec
+Speciální znaky
+Specifické dle jazyka
+Mezi nejznámější používané syntaxe zápisu regulárních výrazů patří POSIX Regular Expressions a Perl Compatible Regular Expressions , odvozená z definice jazyka Perl. Syntaxe PCRE  se používá mimo jiné v PHP  funkce ereg), Pythonu či JavaScriptu.
+V mnoha dnešních nástrojích obsahuje syntaxe „regulárních výrazů“ prostředky, kterými lze popsat jazyky silnější než regulární. Např. prostřednictvím tzv. zpětných odkazů v PCRE lze zapsat výraz \1, který označuje dvojí opakování libovolného textu . Jazyk všech takových opakování však není regulární, není dokonce ani bezkontextový; běžné nástroje tak umožňují zapsat NP-těžké jazyky .
+To vede k jistému zmatení pojmů, neboť „regulární výraz“ v běžném použití označuje obecnější pojem než „regulární výraz“ ve smyslu teorie formálních jazyků. Pro jednoznačnost se někdy tyto „rozšířené regulární výrazy“ označují jinak, např. výhradně výrazem „regex“. 2  3 

@@ -1,0 +1,8 @@
+Asterisk, yıldız imi veya yıldız işareti, tipografik bir sembol veya gliftir. İsmini yıldız biçimine olan benzerliğinden alır. Asterisk ismi de geç Latince asteriscus yani "küçük yıldız"dan gelir. Bunun kökeni ise aynı anlama gelen Yunanca asteriskos sözcüğüdür. Bilgisayar bilimleriyle uğraşanlar genellikle işareti İngilizce yıldız anlamına gelen star sözcüğü ile anarlar. Zaman zaman yanlış biçimde asteriks  olarak anılır.
+İlk kullanımı doğum tarihlerini belirtmek içindir. Orijinal şekilde altı kollu idi ve her kol bir damla şeklindeydi. Daktilolarda bu şekilde yer almıştır. Bununla beraber bazı daktiloların her kolu ayrı bir şekilde basmakta güçlük çekmiştir. Ayrıca Arap-İsrail ihtilafı nedeniyle birçok Arap, altı kollu sembolü barındıran daktiloları almayı tercih etmemiştir. Bunun sebebi, altı kollu sembolü İsrail bayrağında bulunan Davud Yıldızı'na benzetmeleriydi. Bu nedenle Arap yıldızı olarak anılan beş köşeli bir yıldız ayrı bir sembol olarak birçok sistemde kullanılmıştır. Bununla birlikte bazı fontlarda  Arap yıldızı sekiz köşelidir. İki sembolü aşağıda görebilirsiniz:
+Örnek: *Bugünkü Bolu, eski "Klaudiopolis" adının kısaltılmış halidir.
+Örnek:
+* I. Ahmet
+* I. Mehmet
+* IV. Murat
+* II. Selim

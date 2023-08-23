@@ -1,0 +1,4 @@
+Nmap – nemokamas, GPL licencijos tinklų skenavimo ir saugumo audito įrankis. Taip pat šį įrankį galima naudoti tinklo inventorizavimui, servisų atnaujinimo valdymu, stebėti servisų arba atskirų įrenginių veikimo laiką ir pan. NMAP naujoviškai naudoja IP paketus, kad nustatytų kokie kompiuteriai šiuo metu yra tinkle, kokius servisus  pas juos galima pasiekti, kokias jie naudoja operacines sistemas,  ugniasienes ir pan. Šis įrankis buvo sukurtas greitam didelių tinklų skanavimui, bet puikiai tinka ir pavieniams kompiuteriams. NMAP yra komandinės eilutės įrankis, tačiau turi ir grafinę vartotojo sąsają „ZENMAP“.
+Nmap veikia šiose OS:
+Nmap nufilmuotas filmuose The Matrix ir The Matrix Reloaded,
+taip pat mažiau žinomuose Battle Royale ir Haxxxor.

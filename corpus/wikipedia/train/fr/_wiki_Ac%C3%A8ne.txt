@@ -1,0 +1,8 @@
+Les acènes ou polyacènes sont une classe d'hydrocarbures aromatiques polycycliques obtenus en fusionnant linéairement des noyaux de benzène.
+Les plus grands représentants ont un intérêt potentiel pour les applications optoélectroniques et sont activement recherchés en chimie et en génie électrique . Le pentacène a été incorporé dans des transistors à effet de champ organique , atteignant des mobilités de porteurs de charge pouvant atteindre 5 cm2 V−1 s−1.
+Les 5 premiers membres non substitués sont répertoriés dans le tableau suivant:
+Les six premiers membres non substitués de ce groupe se retrouvent dans la table 1.
+Les derniers membres, l'hexacène et l'heptacène, sont très réactifs et n'ont été isolés que dans une matrice. Cependant, des versions bis  de l'hexacène et de l'heptacène ont été isolées sous forme de solides cristallins.
+En raison de leur longueur de conjugaison accrue, les plus grands acènes sont également étudiés. Ils sont également des éléments constitutifs des nanotubes et du graphène. De l'octacène nonsubstitué  et du nonacène  ont été détectés en isolement matriciel. Un nonacène substitué stable a également été rapporté. En raison de sa gamme de substituants, le composé n'est pas un  diradical mais un composé à enveloppe fermée avec le plus faible espace HOMO-LUMO signalé pour tout acène.
+Un groupe apparenté de composés avec des anneaux fusionnés 1,2 et avec des structures hélicoïdales non linéaires sont les hélicènes.
+Les polyquinanes et les quinènes sont des anneaux cyclopentanes fusionnés.

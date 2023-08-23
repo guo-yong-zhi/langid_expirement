@@ -1,0 +1,3 @@
+アロゲン酸デヒドロゲナーゼ （arogenate dehydrogenase ）は、次の化学反応を触媒する酸化還元酵素である。
+反応式の通り、この酵素の基質はL-アロゲン酸とNADP+、生成物はL-チロシンとNADPHと二酸化炭素である。
+組織名はL-arogenate:NADP+ oxidoreductase で、別名にarogenic dehydrogenase , pretyrosine dehydrogenase , TyrAAT1, TyrAAT2, TyrAaがある。

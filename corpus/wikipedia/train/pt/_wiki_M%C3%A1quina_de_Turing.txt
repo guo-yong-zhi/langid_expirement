@@ -1,0 +1,168 @@
+A Máquina de Turing é um dispositivo teórico conhecido como máquina universal, que foi concebido pelo matemático britânico Alan Turing , muitos anos antes de existirem os modernos computadores digitais .
+Num sentido preciso, é um modelo abstrato de um computador, que se restringe apenas aos aspectos lógicos do seu funcionamento , e não a sua implementação física. Numa máquina de Turing pode-se modelar qualquer computador digital.
+Turing também se envolveu na construção de máquinas físicas para quebrar os códigos secretos das comunicações alemãs durante a Segunda Guerra Mundial, tendo utilizado alguns dos conceitos teóricos desenvolvidos para o seu modelo de computador universal.
+Uma máquina de Turing consiste em:
+Note que cada parte da máquina é finita e sua quantidade de fita potencialmente ilimitada dá uma quantidade ilimitada de espaço de memória.
+Mais formalmente, uma máquina de Turing  é perfeitamente definida como uma 7-upla 
+  
+    
+      
+        M
+        =
+        
+      
+    
+    
+  
+, onde
+Definições na literatura às vezes diferem um pouco, para tornar argumentos ou provas mais fáceis ou mais claras, mas isto é sempre feito de maneira que a máquina resultante tem o mesmo poder computacional. Por exemplo, mudar o conjunto 
+  
+    
+      
+        
+      
+    
+    }
+  
+ para 
+  
+    
+      
+        
+      
+    
+    }
+  
+, onde P permite ao cabeçote permanecer na mesma célula da fita em vez de mover-se para a esquerda ou direita, não aumenta o poder computacional da máquina, pois é possível simular o movimento P com o movimento sequenciado de 
+  
+    
+      
+         
+      
+    
+    
+  
+ e 
+  
+    
+      
+         
+      
+    
+    
+  
+ o que  mantém o cabeçote no mesmo lugar.
+Uma máquina de Turing com k fitas também pode ser descrita como uma 7-upla 
+  
+    
+      
+        M
+        =
+        
+      
+    
+    
+  
+, onde
+Observe que uma máquina de Turing com "k" fitas também não é mais poderosa que uma máquina de Turing tradicional de uma única fita, pois podemos organizar linearmente as "k" fitas e em uma única fita com um único cabeçote e registrar a posição dos "cabeçotes virtuais" por algum símbolo ou marcação nessa fita única, assim como funciona os ponteiros em uma memória linear.
+Nas palavras de Van Emde Boas  p. 6: "O objeto do conjunto teórico  fornece apenas informação parcial sobre como a máquina agirá e com o que suas computações se parecerão."
+Por exemplo,
+Para tornar as provas e argumentos mais fáceis ou mais claras, encontramos na literatura definições levemente diferentes, mas isso sempre é feito de tal maneira que a máquina resultante tenha o mesmo poder computacional. Por exemplo, modificando o conjunto 
+  
+    
+      
+        
+      
+    
+    }
+  
+ para 
+  
+    
+      
+        
+      
+    
+    }
+  
+, onde N  permitiria a máquina  ficar sobre a mesma célula da fita em vez de mover para a esquerda ou para direita, não aumenta o poder computacional das máquinas.
+A convenção mais comum representa cada "instrução de Turing" na "tabela de Turing" por uma de nove 5-uplas, pela convenção de Turing/Davis  em Undecidable, p. 126-127 e Davis :
+Outros autores  p. 119, Hopcroft e Ullman  p. 9) adotam uma convenção diferente, com um novo estado qm listado imediatamente depois do símbolo escaneado Sj:
+Para o restante  desse artigo a "definição 1"  será utilizada.
+Na tabela seguinte, o modelo original de Turing permitiu apenas as primeiras três linhas, que ele chamou N1, N2, N3 . Ele permitiu a rasura do "quadrado escaneado" nomeando o 0th símbolo S0 = "apagar" ou "branco", etc. Entretanto, ele não permitiu a não impressão, então toda linha de instrução inclui "símbolo de impressão Sk" ou "apagar" , Undecidable p. 300). As abreviações são de Turing. Posteriormente ao paper original de Turing em 1936–1937, os modelos de máquina têm permitido todos os nove tipos possíveis de 5-tuplas:
+Qualquer tabela de Turing  pode ser construída a partir das nove 5-tuplas acima. Por razões técnicas, as três não-impressão ou instruções "N"   pode geralmente ser dispensadas. Para exemplos, veja exemplos de máquina de Turing.
+Menos frequentemente, o uso de 4-tuplas são encontrados: estes representam uma outra atomização das instruções de Turing , Boolos & Jeffrey ); também veja mais em Máquina de Post–Turing.
+A palavra "estado" utilizada em contexto de máquinas de Turing pode ser uma fonte de confusão, como isso pode significar duas coisas. A maioria dos comentaristas depois de Turing utilizaram "estado" para denotar o nome/designador da instrução atual para ser realizada — i.e. , os conteúdos do registro de estado. Mas Turing  fez uma distinção forte entre um registro do que ele chamou de m-configuração da máquina,  e o "estado de progresso"  da máquina  através da computação - o estado atual  do sistema total. O que Turing chamou "a fórmula do estado" inclui ambos a instrução atual e todos os símbolos sobre a fita:
+Anteriormente em seu paper, Turing estendeu isto ainda mais: ele dá um exemplo onde ele posicionou um símbolo da configuração atual m —o rótulo da instrução— abaixo do quadrado escaneado, juntamente com todos os símbolos sobre a fita ; Isto ele chama "a configuração completa" . Para imprimir a "configuração completa" sobre uma linha, ele posiciona o estado-rótulo/m-configuração para a esquerda do símbolo escaneado.
+Uma variante disto é vista em Kleene , onde Kleene mostra como escrever o número de Gödel de uma "situação" da máquina: ele posiciona o símbolo da "m-configuração" q4 sobre o quadrado escaneado em grosseiramente o centro dos 6 quadrados não-brancos sobre a fita  e coloca isso para a direita do quadrado escaneado. Mas Kleene refere-se ao próprio "q4" como "o estado da máquina" . Hopcroft e Ullman chamam este composto a "descrição instantânea"  e segue a convenção de Turing de colocar o "estado atual"  para a esquerda do símbolo escaneado .
+Exemplo: estado total do problema do castor ocupado de 3 estados e 2 símbolos após 3 "movimentos" :
+Isso significa: após três movimentos, a fita tem ... 000110000 ... sobre esta, a cabeça está escaneando o 1 mais a direita, e o estado é A. Brancos  pode ser parte do estado total como mostrado aqui: B01; a fita possui um único 1 sobre esta, mas a cabeça está escaneando o 0  para sua esquerda e o estado é B.
+"Estado" no contexto de máquinas de Turing devem ser esclarecidas quanto ao que está sendo descrito:  a instrução atual, ou  a lista de símbolos sobre a fita juntamente com a instrução atual, ou  a lista de símbolos sobre a fita juntamente com a instrução atual posicionada pela esquerda do símbolo escaneado ou pela direita do símbolo escaneado.
+O biógrafo de Turing, Andrew Hodges , tem notado e discutido esta confusão.
+A máquina de Turing a seguir tem um alfabeto , onde ¬ representa o símbolo branco. Ela espera uma série de 1's na fita, com o cabeçote inicialmente no 1 mais à esquerda, e duplica os 1's com um ¬ no meio. Por exemplo, "111" torna-se "111¬111".
+O conjunto dos estados é  e o estado inicial é s1.
+A tabela de ação é dada a seguir.
+  Est.  Símb.  Símb.       Est.
+ Act.  Lido   Escr.  Mv.  Novo
+ ----  -----  -----  ---  ----
+ s1    1      ¬      →    s2
+ s2    1      1      →    s2
+ s2    ¬      ¬      →    s3
+ s3    ¬      1      ←    s4
+ s3    1      1      →    s3
+ s4    1      1      ←    s4
+ s4    ¬      ¬      ←    s5
+ s5    1      1      ←    s5
+ s5    ¬      1      →    s1
+  Passo  Estado  Fita
+ -----  ------  ----------
+ 1      s1       1 1
+ 2      s2      ¬ 1 
+ 3      s2      ¬1 ¬ 
+ 4      s3      ¬1¬ ¬ 
+ 5      s4      ¬1 ¬ 1
+ 6      s5      ¬ 1 ¬1
+ 7      s5       ¬ 1¬1
+ 8      s1      1 1 ¬1
+ 9      s2      1¬ ¬ 1
+ 10     s3      1¬¬ 1 
+ 11     s3      1¬¬1 ¬ 
+ 12     s4      1¬¬ 1 1
+ 13     s4      1¬ ¬ 11
+ 14     s5      1 ¬ ¬11
+ 15     s1      11 ¬ 11
+</prO comportamento desta máquina pode ser descrito como um laço : Ele inicia em s1, substitui o primeiro 1 com um ¬, então usa o s2 para mover para a direita, passando pelos 1's e pelo primeiro ¬ encontrado. S3 então passa pela próxima sequência de 1's  e substitui o primeiro ¬ que encontra por um 1. S4 move de volta para a esquerda, passando pelos 1's até encontrar um ¬ e vai para o estado s5. S5 então move para a esquerda, passando pelos 1's até achar o ¬ que foi originalmente escrito por s1. Ele substitui o ¬ por 1, move uma posição para a direita e entra no estado s1 novamente para outra execução do laço. Isso continua até s1 achar um ¬ , situação na qual a máquina pára.
+Se a tabela de ação tem no máximo uma entrada para cada combinação de símbolo e estado então a máquina é uma máquina de Turing determinística . Se a tabela de ação contém múltiplas entradas para uma combinação de símbolo e estado então a máquina é uma máquina de Turing não-determinística .
+Toda máquina de Turing computa uma certa função computável parcial a partir da cadeia dada formada pelos símbolos do alfabeto. Neste sentido ela comporta-se como um computador com um programa fixo. No entanto, como Alan Turing descreveu, podemos codificar a tabela de ação de qualquer máquina de Turing em uma cadeia de símbolos. Portanto podemos tentar construir uma máquina de Turing que espera em sua fita uma cadeia descrevendo a tabela de ação seguida por uma cadeia descrevendo a fita de entrada, e então computa a fita que a máquina de Turing codificada teria computado.
+Frequentemente diz-se que as máquinas de Turing, ao contrário de autômatos mais simples, são tão poderosas quanto máquinas reais, e são capazes de executar qualquer operação que um programa real executa. O que está faltando neste enunciado é que praticamente qualquer programa particular executando em uma máquina particular e dada uma entrada finita é, na verdade, nada além de um autômato finito determinístico, já que a máquina em que executa pode estar apenas em uma quantidade finita de configurações. Máquinas de Turing poderiam de fato ser equivalentes a uma máquina que tenha uma quantidade ilimitada de espaço de armazenamento. Podemos questionar então por que as máquinas de Turing são modelos úteis de computadores reais. Há várias maneiras de responder a isto:
+Uma maneira em que máquinas de Turing são pobres modelos para programas é que muitos programas reais, tais como sistemas operacionais e processadores de texto, são escritos para receber entradas irrestritas através da execução, e portanto não param. Máquinas de Turing não modelam bem tal "computação contínua" .
+Outra limitação de máquinas de Turing é que elas não modelam a organização estrita de um problema específico. Por exemplo, computadores modernos são na verdade instâncias de uma forma mais específica de máquina de computação, conhecido como máquina de acesso aleatório. A principal diferença entre esta máquina e a máquina de Turing é que esta utiliza uma fita infinita, enquanto a máquina de acesso aleatório utiliza uma sequência indexada numericamente . O resultado desta distinção é que há otimizações computacionais que podem ser executadas baseadas nos índices em memória, o que não é possível numa máquina de Turing geral. Assim, quando máquinas de Turing são utilizadas como base para tempo de execuções restritos, um "falso limite inferior" pode ser provado em determinados tempos de execução de algoritmos . Um exemplo disto é uma "ordenação por contagem", o que aparentemente viola o limite inferior 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ em algoritmos de ordenação.
+Não é difícil simular uma máquina de Turing num computador moderno . O site de busca Google, em comemoração aos 100 anos de Alan Turing, publicou um doodle dia 23 de junho de 2012, em forma de uma máquina de Turing.
+É possível construir uma máquina de Turing com base puramente mecânica. O matemático Karl Scherer construiu essa máquina em 1986, usando conjuntos de construção de metal, plástico e alguma madeira. A máquina, com 1,5 m de altura, usa puxões de fios para ler, movimentar e escrever informação, a qual é, por sua vez, representada por rolamentos. A máquina encontra-se atualmente em exibição na entrada do Departamento de Ciência de Computadores da Universidade de Heidelberg, na Alemanha.
+O conceito de máquina de Turing foi usado como ferramenta educativa na obra de ficção científica The Diamond Age , escrita por Neal Stephenson. A personagem principal, Nell, possui um livro interactivo que a ensina a pensar criativa e logicamente apresentando-lhe puzzles numa história, os quais, sendo máquinas de Turing, se tornam cada vez mais complexos à medida que a narrativa se desenvolve. Estes puzzles começam por ser simples aparelhos mecânicos e evoluem para processos econômicos abstractos, atingindo um ponto em que se assiste à interação entre completos reinos ficcionais.
+Robin Gandy , um estudante de Alan Turing  e seu amigo ao longo da vida, traça a linhagem da noção de "máquina de calcular" até a Babbage  e, na verdade, propõe a "Tese de Babbage":
+A análise de Gandy da Máquina Analítica de Babbage descreve as seguintes cinco operações :
+Gandy afirma que "as funções que podem ser calculadas por , , e  são precisamente as que são Turing computáveis." . Ele cita outras propostas de "máquinas de calcular universais" incluídas as de Percy Ludgate , Leonardo Torres y Quevedo , Maurice d'Ocagne , Louis Couffignal , Vannevar Bush , Howard Aiken . No entanto:
+Com relação aos problemas de Hilbert propostos pelo famoso matemático David Hilbert em 1900, um aspecto do problema #10 tinha ficado flutuando por quase 30 anos antes de ser enquadrado com precisão. A expressão original de Hilbert para o 10º problema é a seguinte:
+Em 1922, essa noção de " Entscheidungsproblem "desenvolveu-se um pouco, e H. Behmann afirmou que
+Até o Congresso Internacional de Matemáticos em 1928, Hilbert "fez suas perguntas bastante precisas. Primeiro, a matemática é completa ... Segundo, a matemática é consistente ... E terceiro, a matemática é decidível ? " . As duas primeiras questões foram respondidas em 1930 por Kurt Gödel na mesma reunião onde Hilbert fez seu discurso de aposentadoria ; o terceiro- o Entscheidungsproblem teve que esperar até meados de 1930.
+O problema era que uma resposta primeiro exigia uma definição precisa de "prescrição definitiva geral aplicável", que o professor de Princeton Alonzo Church viria a chamar de " método efetivo ", que podemos chamar ainda de Algoritmo, e que em 1928 não existia tal definição. Mas ao longo dos próximos 6-7 anos Emil Post desenvolveu sua definição de um trabalhador passando de um cômodo para um outro cômodo escrevendo e apagando marcas em uma lista de instruções , assim como Church e os seus dois alunos Stephen Kleene e J. B. Rosser pelo uso do lambda-cálculo de Church e a teoria da recursão de Gödel . O artigo de Church  mostrou que o Entscheidungsproblem era de fato "indecidível" e superou Turing por quase um ano . Nesse meio tempo, Emil Post apresentou um breve artigo no outono de 1936, Turing, pelo menos, tinha prioridade sobre Post. Enquanto Church arbitrou o artigo de Turing, Turing teve tempo para estudar o artigo de Church e adicionar um Apêndice onde ele provava que o lambda-cálculo de Church e suas máquinas calculariam as mesmas funções.
+E Post só havia proposto uma definição de calculabilidade e criticou a "definição" de Church, mas não tinha provado nada.
+Na primavera de 1935, Turing como aluno de mestrado em Kings College Cambridge, Reino Unido, aceitou o desafio; ele tinha sido estimulado pelas palestras do lógico M. H. A. Newman "e aprendeu com elas do trabalho de Gödel e o Entscheidungsproblem ... Newman usou a palavra "mecânico" ... Em seu obituário de Turing em 1955 Newman escreveu:
+Gandy afirma que:
+Enquanto Gandy acredita que a declaração de Newman acima era "enganosa", esta opinião não era compartilhada por todos. Turing tinha um interesse ao longo da vida por máquinas: "Alan tinha sonhado de inventar máquinas de escrever quando menino;  Sra. Turing teve uma máquina de escrever, e ele poderia muito bem ter começado perguntando a si mesmo o que significava chamar uma máquina de escrever 'mecânica'" . Enquanto em Princeton em busca de seu PhD, Turing construiu um multiplicador com lógica booleana . Sua tese de doutorado, intitulada "Sistemas de Lógica Baseado em ordinais", contém a seguinte definição de "uma função computável":
+Quando Turing retornou ao Reino Unido, ele acabou se tornando juntamente responsável por quebrar os códigos secretos alemães criados por máquinas de criptografia chamadas de "O Enigma", ele também se envolveu no projeto da ACE , "a proposta ACE  foi efetivamente independente, e as suas raízes não estava no EDVAC , mas em sua própria máquina universal ". Argumentos continuam sobre a origem e a natureza do que tem sido chamado por Kleene  Tese de Turing. Mas o que Turing provou com seu modelo de máquina-computacional aparece em seu artigo On Computable Numbers, With an Application to the Entscheidungsproblem :
+De Turing exemplo : Se alguém perguntar por um procedimento geral para nos dizer: "Será que esta máquina imprime 0", a pergunta é "indecidível".
+Em 1937, enquanto em Princeton trabalhando em sua tese de doutorado, Turing construiu um multiplicador  digital do nada, fazendo seus próprios relés eletromecânicos . "A tarefa de Alan foi para encarnar o projeto lógico de uma máquina de Turing em uma rede de relé-operacinados interruptores ..." . Embora Turing pudesse estar inicialmente curioso e experimentando, trabalhos muito sérios, no mesmo sentido, estavam sendo desenvolvidos na Alemanha ), e nos Estados Unidos  e George Stibitz ; os frutos do seus trabalhos foram usados ​​pelos militares do Eixo e dos Aliados na Segunda Guerra Mundial .No início e meados da década de 1950, Hao Wang e Marvin Minsky reduziram a máquina de Turing a uma forma mais simples ; simultaneamente pesquisadores europeus estavam reduzindo o novíssimo computador eletrônico a um computador como objeto teórico equivalente ao que estava sendo chamado de "máquina de Turing". No final dos anos 1950 e início dos anos 1960, os desenvolvimentos, coincidentemente paralelamente, Melzak e Lambek , Minsky , e Shepherdson e Sturgis  continuaram o trabalho europeu e reduziram a máquina de Turing para uma máquina mais amigável, como um computador de modelo abstrato chamado de counter machine ; Elgot e Robinson , Hartmanis , Cook e Reckhow  levaram este trabalho ainda mais com a máquina de registo e de acesso aleatório máquina modelos, mas basicamente todos são apenas máquinas multi-fita de Turing com um conjunto de instruções aritméticas.
+Hoje, o contador, registrador e máquinas de acesso aleatório e seu pai a máquina de Turing continuam a ser os modelos de escolha para os teóricos que investigam questões da teoria da computação. Em particular, a teoria da complexidade computacional faz uso da máquina de Turing;
+Dependendo dos objetos um gosta de manipular os cálculos , dois modelos têm obtido uma posição dominante na teoria da complexidade baseada em máquina:

@@ -1,0 +1,21 @@
+ Polska
+Hańsk, Parafia Św. Rajmunda
+siedlecka
+ks. Ryszard Kozieł
+12 980
+1111
+10
+Dekanat Hańsk – jeden z 25  dekanatów w rzymskokatolickiej diecezji siedleckiej.
+W skład dekanatu wchodzi 10  parafii.
+Według danych zgromadzonych przez Kurię Diecezji Siedleckiej dekanat liczy 12 980 wiernych.
+Nie można skompilować wejścia EasyTimeline:
+Timeline generation failed: 3 errors found
+Line 26:  bar:Stary Brus text:Stary Brus
+- Invalid attribute 'Brus' ignored.
+  Specify attributes as 'name:value' pairs. 
+  Specify attributes as 'name:value' pairs. 
+  Specify attributes as 'name:value' pairs. 
+</pr
+    Liczba wiernych zamieszkujących poszczególne parafie dekanatu
+    
+Chełm – Wschód , Chełm – Zachód , Łęczna , Parczew, Siedliszcze , Włodawa

@@ -1,0 +1,99 @@
+En estadística se denomina prueba F de Snedecor a cualquier prueba en la que el estadístico utilizado sigue una distribución F si la hipótesis nula no puede ser rechazada. El nombre fue acuñado en honor a Ronald Fisher.
+En muchos casos, el test F puede resolverse mediante un proceso directo. Se requieren dos modelos de regresión, uno de los cuales restringe uno o más de los coeficientes de regresión conforme a la hipótesis nula. El test entonces se basa en un cociente modificado de la suma de cuadrados de residuos de los dos modelos como sigue:
+El estadístico F puede calcularse como
+Donde: 
+  
+    
+      
+        R
+        S
+        
+          S
+          
+            0
+          
+        
+      
+    
+    }
+  
+ se refiere al coeficiente de determinación del modelo sin restringir 
+  
+    
+      
+        R
+        S
+        
+          S
+          
+            1
+          
+        
+      
+    
+    }
+  
+ se refiere al coeficiente de determinación del modelo restringido 
+  
+    
+      
+        m
+      
+    
+    
+  
+ se refiere al número de restricciones impuestas a los coeficientes estimados .
+  
+    
+      
+        k
+      
+    
+    
+  
+ se refiere al número de coeficientes estimados en el modelo sin restricciones.
+  
+    
+      
+        n
+      
+    
+    
+  
+ se refiere al número de observaciones del modelo.
+El valor resultante debe entonces compararse con el valor  correspondiente de la tabla de valores críticos.
+Si 
+  
+    
+      
+        
+          F
+          
+            c
+            a
+            l
+            c
+            u
+            l
+            a
+            d
+            o
+          
+        
+        >
+        
+          F
+          
+            t
+            a
+            b
+            l
+            a
+            s
+          
+        
+      
+    
+    >F_
+  
+; rechazo el modelo restringido. 

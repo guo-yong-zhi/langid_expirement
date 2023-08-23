@@ -1,0 +1,26 @@
+En càlcul, la integral de Darboux és una de les possibles definicions d'integral d'una funció. Les integrals de Darboux són equivalents a les integrals de Riemann, això significa que una funció és Darboux-integrable si i només si és Riemann-integrable, i els valors de les dues integrals, si existeixen, són iguals. Les integrals de Darboux tenen l'avantatge de què són més senzilles de definir que les de Riemann però tenen l'inconvenient de què no són tan fàcils d'aplicar a la integració numèrica. Les integrals de Darboux reben el nom en honor del seu descobridor, Gaston Darboux.
+Una partició d'un interval  és una successió finita de valors xi tal que
+Cada interval  es diu que és un subinterval de la partició. Un afinament de la partició 
+És una partició 
+Tal que per a cada i amb 
+Hi ha un enter r tal que 
+En altres paraules, per a fer un afinament, es tallen els subintervals en bocins més petits i no s'elimina cap bocí.
+Sia  :→R una funció afitada, i sia 
+Una partició de . Sia
+El sumatori de Darboux superior de   respecte de P és 
+El sumatori de Darboux inferior de   respecte de P és 
+La integral de Darboux superior de   és 
+La integral de Darboux inferior de   és 
+Si U  = L , llavors es diu que   és Darboux-integrable i s'estableix
+El valor comú de les integrals superior i inferior de Darboux.
+Si 
+És un afinament de 
+llavors 
+i 
+Si P1, P₂ són dues particions del mateix interval , llavors 
+D'aquí en resulta que
+Els sumatoris de Riemann queden sempre entremig dels corresponents sumatoris superior i inferior de Darboux. Formalment, si 
+i 
+Són els valors arbitraris dins de cada subinterval
+, i si el sumatori de Riemann de   que correspon a P i T és R, llavors 
+A partir d'aquest fet, es pot afirmar que les integrals de Riemann són pel capdavall tan fortes com les integrals de Darboux: Si la integral de Darboux existeix, llavors els sumatoris de Darboux superior i inferior corresponents a una partició prou fina quedaran a prop del valor de la integral, per tant qualsevol sumatori de Riemann sobre la mateixa partició també estarà proper al valor de la integral. No és difícil de veure que hi ha una partició amb valors intermedis que es fa arbitràriament propera al valor de la integral de Darboux superior o inferior, i en conseqüència, si la integral de Riemann existeix, llavors la integral de Darboux també ha d'existir.

@@ -1,0 +1,15 @@
+Mimoúrovňová križovatka  je križovatka, kde sa jednotlivé pruhy krížia v rôznych úrovniach a znižuje sa počet kolíznych bodov.
+MÚK zaisťujú všetky kríženia na rýchlostných cestách a diaľniciach.
+Taktiež sa stavajú v miestach, kde je veľká intenzita dopravy, prípadne v miestach s priaznivými výškovými pomermi.
+Na cestách s obmedzeným prístupom  sa MÚK obvykle stavajú vo vzdialenostiach 5 – 15 km.
+Spojnice jednotlivých smerov v mimoúrovňových križovatkách sa nazývajú rampy, ktoré môžu byť
+Deltovitá križovatka
+Kosodĺžniková križovatka
+Srdcovitá križovatka
+Štvorlístková križovatka
+Trúbkovitá križovatka
+Združená trúbkovitá
+Rozštepová križovatka
+Špirálovitá križovatka
+Turbínová križovatka
+Hviezdicovitá križovatka

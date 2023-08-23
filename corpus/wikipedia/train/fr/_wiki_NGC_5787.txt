@@ -1,0 +1,7 @@
+
+Localisation dans la constellation : Bouvier
+NGC 5787 est une galaxie lenticulaire située dans la constellation du Bouvier. Sa vitesse par rapport au fond diffus cosmologique est de 5 610 ± 9 km/s, ce qui correspond à une distance de Hubble de 82,7 ± 5,8 Mpc . NGC 5787 a été découverte par l'astronome britannique William Herschel en 1787.
+On ne voit pas vraiment de bras spiral sur l'image obtenue des données du relevé SDSS, aussi la classification de galaxie lenticulaire barrée  par la base de données hyperleda semble mieux décrire cette galaxie.
+Selon la base de données Simbad, NGC 5787 est une galaxie LINER, c'est-à-dire une galaxie dont le noyau présente un spectre d'émission caractérisé par de larges raies d'atomes faiblement ionisés.
+Selon Abraham Mahtessian, NGC 5787 fait partie du groupe de NGC 5739, la galaxie la plus brillante de ce groupe.  Ce groupe de galaxies compte au moins sept membres. Les six autres galaxies du groupe sont NGC 5598, NGC 5603, NGC 5696, NGC 5739, NGC 5784 et NGC 5860.
+À ces six galaxies, il faut ajouter la galaxie PGC 51372, car elle forme un couple de galaxies avec NGC 5603.

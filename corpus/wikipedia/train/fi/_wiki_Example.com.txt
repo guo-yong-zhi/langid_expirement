@@ -1,0 +1,3 @@
+example.com, example.net ja example.org  ovat IANA:n RFC 2606:ssa dokumentoinnin kirjoittamiseen ja esimerkkeihin varaamia verkkotunnuksia, eikä niitä voi rekisteröidä.
+Domainin sisältö muuttui tammikuun lopussa 2011, jolloin siitä tuli redirect IANA:n palvelimelle, jossa selitetään domain-nimien merkitys. 1 
+Tätä ennen nimellä vastasi ICANN:in hallinnoima palvelin, jossa oli yksinkertaisen viestin välittävä WWW-palvelin.

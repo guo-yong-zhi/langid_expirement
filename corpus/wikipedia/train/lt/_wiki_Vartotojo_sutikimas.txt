@@ -1,0 +1,6 @@
+Vartotojo sutikimas arba licencinė programinės įrangos sutartis (angl. end-user license agreement (sutr. EULA)), liet. galutinio vartotojo licencinis sutikimas) – sutartis tarp kompiuterinės programos kūrėjo/savininko ir jos kopijos naudotojo. 1 
+Dažniausiai naudojama komercinių programų plėtotojų  arba laisvosios programinės įrangos su komerciniais elementais.
+Sutartis  sudaroma įdiegus programinę įrangą ir prieš pradedant ja naudotis. Sudarymas realizuojamas susipažinimui pateikiama programos licencija ir žymimuoju langeliu šalia. Jo pažymėjimas reiškia, kad vartotojas susipažino su licencija, sutinka su visomis joje išdėstytomis sąlygomis ir garantuoja jų laikytis. Tai ne vienintelis variantas, kartais pasitaiko ir kitokia vartotojo sutikimo išraiška. 2 
+Nepažymėjus žymimojo langelio , dažniausiai, neįmanoma pradėti naudotis programine įranga, net jeigu ji jau parsisiųsta ar net nusipirkta/išsinuomota. EULA sudarymas yra privalomas, programos kūrėjų reikalaujamas kiekvieno programos vartotojo žingsnis.
+Vartotojo sutikimas turi sutartinę galią 3  tarp programinės įrangos kūrėjo/savininko ir jos vartotojo, t. y. jį sudarant programos licencija  tampa privaloma.
+Vartotojo sutikimas neapsaugo programinės įrangos vartotojo, o yra skirtas apibrėžti intelektinės nuosavybės savininkų teises, visų pirma nuo neteisėto naudojimo . 5 

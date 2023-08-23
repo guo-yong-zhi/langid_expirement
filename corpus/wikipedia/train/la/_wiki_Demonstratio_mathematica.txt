@@ -1,0 +1,219 @@
+Demonstratio mathematica est series argumentorum deductivorum quibus propositum coniecturae mathematicum demonstratur necessario verum esse. Necesse est demonstrare rem verum esse omnibus in casis datis, sine exceptione possibili. Mathematici eo consilio regulas et modos logicae deductivae, nec quidem inductivae aut empiricae sequuntur. Demonstratio est species verificationis.
+Consuetudo mathematica est propositum, antequam probatur, appellare coniecturam, et postquam probatur, theorema. Theorema minus vel quod solo eo consilio ad alia theoremata probanda demonstratur, appellatur lemma. At propositio vel thesis vera sine probando vel demonstratione putatur, appellatur axioma. 
+Demonstratio per inductionem mathematicam sita est in axiomatibus Peanensis ab Iosepho Peano. Formulis vel theorematibus adhibetur, quae ad numeros naturales spectant. Formula posito numero principali demonstrata  quibuslibet numeris demonstranda est .
+Demonstranda sit formula: 
+  
+    
+      
+        
+           
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        k
+        =
+        
+          
+            
+              n
+               
+              
+            
+            2
+          
+        
+      
+    
+    ^
+  
+.
+Demonstratio:
+Initium inductionis: 
+  
+    
+      
+        n
+        =
+        1
+      
+    
+    
+  
+  
+    
+      
+        
+           
+          
+            k
+            =
+            1
+          
+          
+            1
+          
+        
+        k
+        =
+        1
+        =
+        
+          
+            
+              1
+               
+              
+            
+            2
+          
+        
+      
+    
+    ^
+  
+.
+Gradus inductionis: Sit formula numero n recta. Demonstranda est numero n + 1:
+  
+    
+      
+        
+           
+          
+            k
+            =
+            1
+          
+          
+            n
+            +
+            1
+          
+        
+        k
+        =
+        
+           
+          
+            k
+            =
+            1
+          
+          
+            n
+          
+        
+        k
+        +
+        
+        
+          
+            
+              
+                =
+              
+              
+                
+                  s
+                  u
+                  m
+                  p
+                  t
+                  i
+                  o
+                  n
+                  e
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              n
+               
+              
+            
+            2
+          
+        
+        +
+        
+        =
+        
+          
+            
+              n
+               
+              
+              +
+              2
+               
+              
+            
+            2
+          
+        
+      
+    
+    ^^ }
+  
+  
+    
+      
+        =
+        
+          
+            
+              (
+              n
+              +
+              1
+              )
+               
+              (
+              n
+              +
+              2
+              )
+            
+            2
+          
+        
+        =
+        
+          
+            
+              (
+              n
+              +
+              1
+              )
+               
+              (
+              (
+              n
+              +
+              1
+              )
+              +
+              1
+              )
+              )
+            
+            2
+          
+        
+      
+    
+    
+  
+Per contradictionem demonstrationis fundamentum est reductionis ad absurdum principium, quod statuit, si propositio, una cum aliis certissime veris propositionibus, contradictionem implicet, illam propositionem falsam esse.
+Quod saepe sic exercitur, ut, si quamlibet propositionem demonstrare velimus, eam negemus et e eius negatione contradictionem implicare conemur; contradictione inventa, negationem demonstrandis propositionis falsam esse scire licet. Ergo, propositio ipsa vera est.

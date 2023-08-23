@@ -1,0 +1,5 @@
+La domanda walrasiana, dal nome dell'economista Léon Walras, chiamata anche domanda marshalliana, dall'economista Alfred Marshall, in microeconomia è definibile come quella funzione  che associa ad ogni insieme di prezzi dei beni  e patrimonio individuale w il paniere di consumo che massimizza l'utilità del consumatore sotto il vincolo di bilancio, il vincolo costituito dal reddito a disposizione del consumatore.
+In termini formali si ha:
+dove xi è appunto la domanda del bene i e U è la funzione di utilità.
+La domanda walrasiana è dunque il massimizzatore nel problema di massimizzazione dell'utilità individuale, problema di massimo vincolato che rappresenta il duale di quello di minimizzazione della spesa dato il vincolo costituito dall'utilità minima ottenibile, il cui minimizzatore è la domanda hicksiana.
+Data una funzione di utilità continua che rappresenta un sistema di preferenze localmente non soddisfatte, la domanda walrasiana soddisfa le seguenti proprietà:

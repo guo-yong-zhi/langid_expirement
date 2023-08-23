@@ -1,0 +1,218 @@
+In de abstracte algebra, een onderdeel van de wiskunde, is de tensoralgebra  een wiskundige structuur die een gegeven vectorruimte zodanig uitbreidt, dat de resulterende verzameling gesloten is onder het tensorproduct.
+Zij 
+  
+    
+      
+        V
+      
+    
+    
+  
+ een vectorruimte over een lichaam/veld 
+  
+    
+      
+        K
+      
+    
+    
+  
+. De tensoralgebra over 
+  
+    
+      
+        V
+      
+    
+    
+  
+ is de vectorruimte over 
+  
+    
+      
+        K
+      
+    
+    
+  
+ gedefinieerd door de oneindige directe som van vectorruimten
+waarin 
+  
+    
+      
+        
+          V
+          
+             
+            n
+          
+        
+      
+    
+    }
+  
+ het 
+  
+    
+      
+        n
+      
+    
+    
+  
+-voudige tensorproduct van 
+  
+    
+      
+        V
+      
+    
+    
+  
+ met zichzelf is . Op de tensoralgebra bestaat een unieke bilineaire afbeelding
+die associatief is en die voor gewone vectoren samenvalt met het bekende tensorproduct.
+Deze definitie kan zonder meer worden veralgemeend tot de situatie waarbij 
+  
+    
+      
+        K
+      
+    
+    
+  
+ slechts een commutatieve ring is , en 
+  
+    
+      
+        V
+      
+    
+    
+  
+ een 
+  
+    
+      
+        K
+      
+    
+    
+  
+-moduul.
+  
+    
+      
+        T
+        
+      
+    
+    
+  
+ is een associatieve algebra. Hij is niet noodzakelijk commutatief. Als de ring 
+  
+    
+      
+        K
+      
+    
+    
+  
+ een eenheidselement heeft , dan heeft 
+  
+    
+      
+        T
+        
+      
+    
+    
+  
+ een eenheidselement.
+De uitwendige algebra over 
+  
+    
+      
+        V
+      
+    
+    
+  
+ is de oneindige directe som van alle antisymmetrische tensorproducten van 
+  
+    
+      
+        V
+      
+    
+    
+  
+ met zichzelf. Hij kan worden opgevat als de quotiëntalgebra van 
+  
+    
+      
+        T
+        
+      
+    
+    
+  
+ over het  ideaal dat wordt voortgebracht door elementen van de vorm 
+  
+    
+      
+        u
+         
+        v
+        +
+        v
+         
+        u
+      
+    
+    
+  
+.
+De symmetrische algebra over 
+  
+    
+      
+        V
+      
+    
+    
+  
+ is de oneindige directe som van alle symmetrische tensorproducten van 
+  
+    
+      
+        V
+      
+    
+    
+  
+ met zichzelf. Hij kan worden opgevat als de quotiëntalgebra van 
+  
+    
+      
+        T
+        
+      
+    
+    
+  
+ over het ideaal dat wordt voortgebracht door elementen van de vorm 
+  
+    
+      
+        u
+         
+        v
+         
+        v
+         
+        u
+      
+    
+    
+  
+.

@@ -1,0 +1,19 @@
+Olasılık teorisinde, tümleyen olay', bir A olayının gerçekleşmeme durumudur. 1    Bir A olayının tümleyeni A , Ac, 
+  
+    
+      
+         
+      
+    
+    
+  
+A ya da A şeklinde gösterilebilir. A olayı ve onun tümleyeni 
+  
+    
+      
+         
+      
+    
+    
+  
+A karşılıklı dışarlayan ve kapsayıcıdır. Genellikle bu iki özelliği birden sağlayan yalnızca bir B olayı vardır, bu olay Anın tümleyenidir. Bir olay ve onun tümleyeni Bernoulli denemesini tanımlar; yani olay ya 'gerçekleşir' ya da 'gerçekleşmez'.

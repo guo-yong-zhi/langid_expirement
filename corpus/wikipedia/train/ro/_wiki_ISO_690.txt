@@ -1,0 +1,6 @@
+ISO 690 este un standard internațional elaborat de Organizația Internațională de Standardizare  referitor la modul de prezentare a referințelor bibliografice în documente de orice fel, inclusiv documentele electronice. Standardul precizează elementele care trebuie incluse în referințele bibliografice și ordinea în care trebuie prezentate aceste elemente. ISO 690 a fost elaborat de comitetul tehnic ISO/TC 46 , subcomitetul SC9.  1 
+ISO 690 se referă la toate materialele publicate, indiferent dacă sunt tipărite sau prezentate în altă formă. Standardul nu se referă la materiale nepublicate sau la manuscrise.
+Standardul a fost descris în două documente:
+ISO 690:1987 - Documentare - Referințe bibliografice - conținut, forma și structură - privind documentele în general
+ISO 690-2:1997 - Informatică și documentare - Referințe bibliografice - Partea 2: Documente electronice sau părți ale acestora - privind în special documentele electronice.
+Informațiile care trebuie introduse în referințele privitoare la cărți  sunt:

@@ -1,0 +1,169 @@
+Pontosságellenőrzött
+Az assembly  a gépi kódhoz  legközelebb álló, és így helykihasználás és futási idő szempontjából a leghatékonyabb általános célú programozási nyelv.
+Habár az egyes architektúrák assembly nyelvei hasonlóak, mégis különböznek annyira, hogy az assembly kód ne legyen hordozható. Az assembly kódot az assembler fordító alakítja gépi kóddá.
+Az assembly nyelv nem keverendő össze a gépi kóddal: egy assembly nyelvű program végrehajtható utasításai általában egy gépi kódú utasításnak felelnek meg, tehát az assembly egy programozási nyelv, a gépi kód az a tárgykód, amit csaknem minden programozási nyelv előállít végeredményként. Szimbolikus gépi kódnak is nevezik.
+Az utasítások mellett még regisztereket, flageket és memóriacímeket is tartalmaz, egyes kódszakaszok címkézhetők az ugró utasítások számára. A legtöbb assemblyben kifejezések írhatók elnevezett konstansokkal és számokkal. Ezeket memóriacímzésre is fel lehet használni. Sok assembly további eszközöket tartalmaz a fejlesztés megkönnyítésére.
+Commodore gépcsaládon vagy Sinclair gépeken három módszerrel lehetett programozni: interpretált BASIC - hátránya: a program futása lassú volt - továbbá gépi kód, illetve assembly. Nem létezett külön tárgykód, a program közvetlenül a memóriába lett fordítva. A gépek memóriamérete, illetve a háttértárak korlátozottsága nem is tette volna lehetővé C nyelv és standard C könyvtár használatát. A Commodore-16 16 KB memóriával rendelkezett, 32 KB ROM-ja - melynek kb. felét a BASIC-interpreter tette ki - tartalmazta az „operációs rendszerét”. Háttértárként egyoldalas floppyt - kétoldalas floppy használatához meg kellett fordítani a lemezt a meghajtóban - vagy magnókazettát használtak.
+Régebben szélesebb körben használták, de hatékonysága miatt az assembly megmaradt az operációs rendszerek, illesztőprogramok és hasonlók programozásában.
+Az első számítógépek programozása úgy történt, hogy a számításokat végző elemek huzalozását változtatták meg.
+A számítógépeket a kezdetekben a processzorok utasításaihoz rendelt számok bevitelével  lehetett programozni, melyek ábrázolása eleinte bináris, majd később oktális  vagy hexadecimális  számrendszerben  történt.
+Az assembly kódhoz tartozó fordítóprogramot assemblernek nevezik. Ez készít a szöveges forrásprogramból egy olyan állományt, amely csaknem teljes egészében megfelel annak a memória képnek, amelyet a processzor végrehajtható programként értelmezni fog.
+Az assembler "párja" a disassembler, ami a lefordított bináris kódot értelmezi és assembly forráskódú listává alakítja.
+Az alacsony szintű programozás további kellékei:
+Az assembly nyelvű kód fordítóját assemblernek nevezik. A magas szintű nyelvek fordítója is tartalmaz assemblert. Ez hozza létre a végleges bináris kódot, lefordítva a mnenonikonokat, a műveleti szintaxist és a címzéseket bináris megfelelőjükre. Ebben a reprezentációban jelen vannak a műveleti kódok , más vezérlőbitek és adatok. Az assembler kiszámítja a konstans kifejezéseket, feloldja a szimbolikus neveket. 1  A szimbolikus hivatkozások kulcsfontosságúak az assembler programozásban, megkímélik a programok íróit a hosszas számításoktól és attól, hogy mindig hozzá kelljen igazítani a címeket a program módosításaihoz. A legtöbb assembler makrókat is kezel, ami a C prekompilerjéhez hasonlóan szöveges helyettesítést tesz lehetővé. A hívott szubrutinok helyett a makrók helyben  fejtődnek ki.
+Egyes assemblerek még optimalizálni is tudnak. Erre konkrét példa több terjesztő mindenütt jelenlevő x86-assemblerjei. A legtöbbjük át tudja alakítani az ugró utasításokat; kérésre például helyettesítenek egy hosszú ugrás valahány kisebb ugrással. Mások átrendezik az utasításokat, vagy beszúrnak, törölnek, összevonnak, mint például a RISC architektúrák assemblerjei, amelyek érzékenyen ütemeznek is, hogy a program még hatékonyabb legyen.
+Az assemblerek voltak az első, valóban használt programozási nyelvek, mivel könnyebb hozzájuk fordítót készíteni, mint a magasabb szintű nyelvekhez, hiszen a kód összes eleme viszonylag egyszerűen továbbalakítható bináris kóddá, és nem igényel alaposabb elemzést. Több fordító és félautomata kódgenerátor létezik, amelyek mind az assemblyre, mind a magasabb szintű nyelvekre hasonlítanak. Ezek közül egy jó példa a speedcode.
+A különböző architektúrák assemblerjei hasonlóak, de szintaxisukban különböznek. Például ha az utasításban a memóriában tárolt értéket hozzá kell adni egy regiszter értékéhez, akkor az az x86-os Intel processzorcsaládnál add eax,. A Gnu Assembler AT&T szintaxisában ez addl ,%eax. Különbségeik ellenére általában ugyanazt a gépi kódot generálják. Az assemblernek több különböző módja lehet a különféle szintaxisok támogatására.
+Az assemblert meneteinek száma jellemzi, vagyis azt, hogy hányszor olvassa végig a lefordítandó kódot.
+Az assemblernek ki kell számítania a memóriacímeket is; ehhez a különböző utasítások méreteivel is számolnia kell, mert nem ugyanakkorák. Ha az utasítás mérete függ az operandusok típusától, akkor pesszimista becslést készít. Szükség esetén a fölös helyet kitölti, vagy tár optimalizáció esetén újraszámolja a címeket.
+Az egymenetes assembler a korai időkben gyorsabb volt, mivel a kódot mágnesszalag vagy lyukkártyák okozták, és a visszacsévélés vagy a visszalapozás jelentősen több időt igényelt. Ma már ez nem probléma; sőt, most már a többmenetes assemblerek vannak előnyben, mivel gyorsabbá teszik a linkelést vagy a betöltést. 2 
+Példa: A következő kódban az egymenetes assembler meg tudja határozni a BKWD referenciát, amikor az S2 utasítást dolgozza fel. Viszont nem tudja az FWD címét, amikor az S1 utasítással foglalkozik, így a FWD felkerül a listájára. A kétmenetes assembler az első menetben meghatározza a címeket, tehát ezek ismeretében generál kódot a második olvasásra.
+ S1   B    FWD
+  ...
+FWD   EQU *
+  ...
+BKWD  EQU *
+  ...
+S2   B    BKWD 10110000 01100001 B0 61    MOV     AL  ,     61h           ; Az AL regiszterbe a 97 decimális számot tölti  
+    MOV     AL  ,     1h            ; Az AL regiszterbe az 1 betöltése 
+ MOV     CL  ,     2h            ; A CL regiszterbe a 2 betöltése 
+ MOV     DL  ,     3h            ; A DL regiszterbe a 3 betöltése 
+    MOV     EAX  ,       	    ; Az EBX tartalma által meghatározott memóriacímről 4 bájtot mozgat az EAX regiszterbe 
+ MOV     ,     CL     ; A CL tartalmát az ESI+EAX által meghatározott memóriacím 1 bájtjára másolja 
+ PRINT ON           ; /360
+ LOAD cím           ; Z80: program  címe
+ORG cím            ; Z80: program  címe
+SEGMENT AT cím     ; x86: memóriaterület címe
+END címke          ; Program vége, egyben belépési pont megadása
+ snév SEGMENT CODE  ; x86:  kódszegmens
+snév DSECT         ; /360: 'dummy' adatszegmens
+snév CSECT READ    ; /360: kódszegmens, írásvédett
+snév AMODE 31      ; /370: csak 31 bites módban futtatható
+ ASSUME CS:code,DS:data,ES:video ; 8086: definíció
+ASSUME ES:nothing               ; 8086: visszavonás
+USING code,R12                  ; /360: definíció
+DROP R12                        ; /360: visszavonás
+ ENTRY rutin   ; /360
+EXTRN valtozo ; /360
+ var EQU érték ; általános
+var = érték   ; /8086
+ foo: macro a
+load a*b
+    include     \  masm32  \  include  \  masm32rt.inc  	  ; use the Masm32 library 
+ .code 
+ demomain: 
+     REPEAT     20 
+ 	  switch     rv    	  ; generate a number between 0 and 8 
+ 	  mov     ecx  ,     7 
+ 	  case     0 
+ 		  print     "  case     0  " 
+ 	  case     ecx  				  ; in contrast to most other programming languages, 
+ 		  print     "  case     7  "  		  ; the Masm32 switch allows "variable cases" 
+ 	  case     1     ..     3 
+ 		  .if     eax  ==  1 
+ 			  print     "  case     1  " 
+ 		  .elseif     eax  ==  2 
+ 			  print     "  case     2  " 
+ 		  .else 
+ 			  print     "  cases     1     to     3  :     other  " 
+ 		  .endif 
+ 	  case     4  ,     6  ,     8 
+ 		  print     "  cases     4  ,     6     or     8  " 
+ 	  default 
+ 		  mov     ebx  ,     19  		       ; print 20 stars 
+ 		  .Repeat 
+ 			  print     "  *  " 
+ 			  dec     ebx 
+ 		  .Until     Sign  ?  		   ; loop until the sign flag is set 
+ 	  endsw 
+ 	  print     chr$   
+     ENDM 
+     exit 
+ end     demomain 
+ MOV  EDX,
+MOV  EAX,
+MOV  ,EAX
+ mov    -16,%edx
+mov    -20,%eax
+mov    %eax,
+       8080                Z80 
+    -----               ----- 
+    MOV      A  ,  B            LD       A  ,  B 
+    MOV      A  ,  M            LD       A  , 
+    MOV      M  ,  A            LD       ,  A 
+    LDAX     B              LD       A  , 
+    STAX     B              LD       ,  A 
+    MVI      A  ,  n            LD       A  ,  n 
+    LXI      H  ,  nn           LD       HL  ,  nn 
+    LHLD     cím            LD       HL  , 
+    RUTIN     STM       R14  ,  R12  ,  12       ; regiszterek mentése a hívó 
+                               ; regisztermentési területére 
+         BASR      R12  ,  R0              ; bázisregiszter beállítása 
+         USING     *,  R12               ; assembly direktíva: 
+                               ; használd a bázisregisztert 
+         LA        R14  ,  SAVEA           ; saját mentési területünk 
+         ST        R13  ,  4            ; elmentjük a hívóét 
+         LR        R13  ,  R14             ; használjuk a sajátunkat 
+         … 
+ KILÉP     L         R15  ,  visszatérési_érték 
+         L         R13  ,  4            ; vissza a hívó mentési területére 
+         L         R14  ,  12           ; visszatérési cím 
+         LM        R0  ,  R12  ,  20        ; hívó regisztereinek visszatöltése 
+                               ; kivéve az R15-öt 
+         BR        R14                 ; visszatérés 
+ SAVEA     DS        18  F                 ; regisztermentési terület: 72 byte 
+         … 
+ HÍVÁS     L         R15  ,  =  A         ; rutin címe R15-be 
+         LA        R1  ,  paraméterek_címe 
+         BASR      R14  ,  R15             ; ugrás R15-re, 
+                               ; visszatérési cím R14-be 
+ UTÁNA     LTR       R15  ,  R15             ; visszaadott érték vizsgálata 
+         BZ        SIKER               ; tipikusan 0=siker 
+         ld    hl, 16384      ; a hl regiszterpárba a videomemória első bájtjának címe kerül
+        ld    bc, 6912       ; a bc regiszterpárba kerül az átmozgatott blokk hossza  bájtban
+        ld    de, 40000      ; a de regiszterpárba a forráscím
+ loop   ld    a,         ; az a regiszterbe a forrás értéke kerül
+        ld    , a        ; a hl regiszterpár értékének a címére a kiolvasott érték kerül
+        inc   hl             ; célcím növelése eggyel
+        inc   de             ; forráscím növelése eggyel
+        dec   bc             ; a hátralévő hossz csökkentése
+        ld    a, b           ; ez és a következő sor a vizsgálja, hogy a bc regiszterpár
+        or    c              ; értéke 0
+        jr    nz, loop       ; ha nem, ugrás vissza 
+        ret                  ; visszatérés         ld    bc,6912     ;bc-ben a hossz bájtokban
+        ld    de,40000    ;de-ben a forrásterület címe
+        ld    hl,16384    ;hl-ben a célterület címe
+        ldir              ;blokkmozgató utasítás automata ismétléssel 
+        ret         ld    b,0         ;számláló 
+        ld    de,40000
+        ld    hl,16384
+ loop   ldi               ;blokkmozgató utasítás, nem ismétel 
+        ldi
+        .
+        .
+        .
+        ldi               ;összesen 27 db ldi utasítás egymás után 
+        djnz  loop        ;b-t csökkenti és visszaugrik, ha b<>0 
+        ret   ORG  100H             ; ez minden COM allomany elejen jelen kell legyen egy
+                        ; COM allomany maximum 64 KB meretu, es egyetlen 64 KB-os
+                        ; teruleten van jelen az adat, kod es verem szegmens is;
+                        ; az elso 256 byte  a DOS szamara van fenntartva;
+                        ; mind a negy szegmensregiszter erteke azonos, így nem
+                        ; kell ezeket a legtobb esetben valtoztatnunk
+start:
+  mov  dx, uzenet       ; DS:DX-be helyezzuk a kiirando uzenet kezdocimet; a
+                        ; DS-t mar nem kell beallitani, mert COM allomanyban vagyunk
+                        ; az uzenet DOS-os formatumu, azaz $ jellel vegzodik 
+                        ; NASM-ban egy valtozo cimere a nevevel  hivatkozunk
+                        ; a cimen levo ertekre pedig a   hivatkozunk
+  mov  ah, 09h          ; DOS 21h / 09h - DOS-os string kiirasa
+  int  21h
+  xor  ah, ah           ; egy BIOS megszakitas hivasa: varakozas egy billentyu lenyomasara
+  int  16h              ; leirasert lasd Tech Help! 6.0
+  int  20h              ; a COM programok vegen a 0x20 megszakitas meghivasaval fejezzuk
+                        ; be a program futasat es adjuk vissza a vezerlest az operacios
+                        ; rendszernek
+  
+adatok:
+  
+  uzenet db "Hello, World!", 0x0D, 0x0A, "$"</prEz a szócikk részben vagy egészben  az   Assembly language című angol Wikipédia-szócikk fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel. Ez a jelzés csupán a megfogalmazás eredetét és a szerzői jogokat jelzi, nem szolgál a cikkben szereplő információk forrásmegjelöléseként.

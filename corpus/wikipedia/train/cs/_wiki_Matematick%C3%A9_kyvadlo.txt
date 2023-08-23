@@ -1,0 +1,345 @@
+Matematické kyvadlo je nejjednodušším matematickým modelem kyvadla. Matematické kyvadlo je hmotný bod zavěšený na tenkém nepružném dokonale ohebném vlákně zanedbatelné hmotnosti, zanedbává se odpor vzduchu při pohybu kyvadla i tření v závěsu a tíhové pole se považuje za homogenní. Pohyb se navíc děje v jedné rovině a lze jej tak popsat jednou souřadnicí, většinou úhlem výchylky z rovnovážné polohy. Matematické kyvadlo je netlumený mechanický oscilátor, tedy soustava, která po dodání počáteční energie periodicky kmitá. Je to nelineární systém, ale při malých výchylkách  je průběh tohoto kmitání přibližně harmonický, lze jej tedy vyjádřit např. pomocí funkce sinus.
+Na hmotný bod působí jen tíhová síla a tahová síla vlákna, která ho udržuje stále ve stejné vzdálenosti od závěsu. Tečná složka síly je
+kde 
+  
+    
+      
+        g
+      
+    
+    
+  
+ je tíhové zrychlení a φ je úhel, o který je vlákno vychýleno z rovnovážné polohy.
+Pro tečné zrychlení platí:
+  
+    
+      
+        
+          a
+          
+            t
+          
+        
+        =
+        
+          v
+           
+        
+        
+        =
+        
+           
+        
+        =
+        l
+        
+           
+           
+        
+        
+        .
+      
+    
+    =v'='=l\varphi ''.}
+  
+Diferenciální rovnice pohybu kyvadla je z 2. Newtonova pohybového zákona tedy
+kde 
+  
+    
+      
+        l
+      
+    
+    
+  
+ je délka vlákna.
+Pokud je maximální výchylka z rovnovážné polohy 
+  
+    
+      
+        
+           
+          
+            
+              m
+              a
+              x
+            
+          
+        
+      
+    
+    }}
+  
+ malá , lze funkci sinus nahradit lineární funkcí - přímo úhlem 
+Diferenciální rovnice má proto podstatně jednodušší tvar 
+Tato rovnice má partikulární řešení pro počáteční úhlovou výchylku 
+  
+    
+      
+        
+           
+          
+            m
+          
+        
+      
+    
+    }
+  
+  a nulovou počáteční rychlost
+kde 
+  
+    
+      
+        t
+      
+    
+    
+  
+ je čas, což je pohybová rovnice lineárního harmonického oscilátoru s kruhovou frekvencí ω a periodou T
+Je vidět, že periodu ovlivňuje pouze délka kyvadla a  tíhové zrychlení, hmotnost závaží na ni samozřejmě nemá vliv. Matematické kyvadlo lze tedy použít k měření místního tíhového zrychlení.
+Neuvažujeme-li pouze malé výchylky kyvadla jako v předchozím případě, je mnohem náročnější pohybovou diferenciální rovnici vyřešit. K jejímu řešení je potřeba vyšší transcendentní funkce úplný eliptický integrál I. druhu
+pomocí nějž lze vyjádřit přesný vzorec pro periodu v závislosti na úhlovém rozkmitu 
+  
+    
+      
+        
+           
+          
+            m
+          
+        
+         
+        (
+        0
+        ;
+        
+          
+             
+            2
+          
+        
+         
+      
+    
+    \in (0;}\rangle }
+  
+Kyvadlo už v tomto případě není harmonický oscilátor. Periodu kmitání kyvadla lze vyjádřit pomocí řady
+Pokud uvažujeme nenulové tření při pohybu kyvadla přímo úměrné rychlosti, klesá maximální výchylka při kmitání exponenciálně v závislosti na čase.
+Délka 
+  
+    
+      
+        l
+      
+    
+    
+  
+ matematického kyvadla, které se kývá stejně  jako fyzické kyvadlo, se nazývá redukovaná délka fyzického kyvadla. Mají-li být periody stejné pak platí
+kde 
+  
+    
+      
+        
+          l
+          
+             
+          
+        
+      
+    
+    }
+  
+ představuje redukovanou délku kyvadla, 
+  
+    
+      
+        m
+      
+    
+    
+  
+ je hmotnost tělesa, 
+  
+    
+      
+        l
+      
+    
+    
+  
+ je vzdálenost závěsu od těžiště a 
+  
+    
+      
+        J
+      
+    
+    
+  
+ je moment setrvačnosti tělesa vzhledem k ose rotace.
+Pokud naneseme na přímku, která je kolmá k ose otáčení 
+  
+    
+      
+        O
+      
+    
+    
+  
+ a současně prochází těžištěm tělesa, redukovanou délku kyvadla, dostaneme bod 
+  
+    
+      
+        
+          O
+          
+             
+          
+        
+      
+    
+    }
+  
+. Tento bod se nazývá střed kyvu a má tu vlastnost, že těleso, zavěšené na ose procházející bodem 
+  
+    
+      
+        
+          O
+          
+             
+          
+        
+      
+    
+    }
+  
+ má stejnou periodu, jako těleso zavěšené v bodě 
+  
+    
+      
+        O
+      
+    
+    
+  
+.
+Je-li totiž moment setrvačnosti tělesa k ose jdoucí těžištěm 
+  
+    
+      
+        
+          J
+          
+            0
+          
+        
+      
+    
+    }
+  
+ a jeho moment setrvačnosti kolem rovnoběžné osy kyvu 
+  
+    
+      
+        J
+      
+    
+    
+  
+, pak redukovaná délka je
+kde 
+  
+    
+      
+        a
+      
+    
+    
+  
+ označuje vzdálenost těžiště od bodu 
+  
+    
+      
+        O
+      
+    
+    
+  
+.
+Kýve-li se těleso kolem středu kyvu 
+  
+    
+      
+        
+          O
+          
+             
+          
+        
+      
+    
+    }
+  
+, platí podle Steinerovy věty
+Pro redukovanou délku dostaneme
+Z předchozích vztahů pak plyne
+Redukovaná délka pro osu 
+  
+    
+      
+        
+          O
+          
+             
+          
+        
+      
+    
+    }
+  
+ je tedy stejná jako pro původní osu 
+  
+    
+      
+        O
+      
+    
+    
+  
+.
+Pokud je těleso zavěšeno v bodě 
+  
+    
+      
+        
+          O
+          
+             
+          
+        
+      
+    
+    }
+  
+, který je od bodu 
+  
+    
+      
+        O
+      
+    
+    
+  
+ vzdálen o redukovanou délku 
+  
+    
+      
+        l
+      
+    
+    
+  
+, dostaneme tzv. reverzní  kyvadlo. Perioda převratného kyvadla je opět dána vztahem

@@ -1,0 +1,2 @@
+.nz es el dominio de nivel superior geográfico  para Nueva Zelanda. Todos los dominios .nz son de tercer nivel sobre uno de los siguientes dominios de segundo nivel:
+Nota: Debido a que solo cri.nz , govt.nz , iwi.nz y mil.nz tienen su registro controlado, es frecuente que los registros se produzcan para áreas diferentes a las propuestas.

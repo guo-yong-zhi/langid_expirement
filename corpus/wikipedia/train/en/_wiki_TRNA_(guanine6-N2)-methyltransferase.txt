@@ -1,0 +1,2 @@
+TRNA -methyltransferase  is an enzyme with systematic name S-adenosyl-L-methionine:tRNA -methyltransferase. 1  This enzyme catalyses the following chemical reaction
+The enzyme specifically methylates guanine6 at N2 in tRNA.

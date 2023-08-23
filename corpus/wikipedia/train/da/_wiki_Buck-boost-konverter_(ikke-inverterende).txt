@@ -1,0 +1,1 @@
+En ikke-inverterende buck-boost-konverter er en Buck  konverter fulgt af en Boost  konverter – output-spændingen er af samme polaritet som input-spændingen, og kan være mindre og større end input-spændingen. Sådan en ikke-inverterende buck-boost-konverter kan anvende én enkelt spole som kan anvendes til både buck-spolen og boost-spolen. 1 

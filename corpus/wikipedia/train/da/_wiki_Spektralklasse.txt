@@ -1,0 +1,86 @@
+Spektralklasser er en inddeling af stjernespektre i et antal grupper efter adskillige forskellige systemer, hvoraf dog kun det ene benyttes af fagastronomer i dag. Spektralklassifikation består derfor i at systematisere spektre efter deres forskellige karakteristika.
+En stjernes spektralklasse er element i en kategorisering af bestemte spektre, som hvert er karakteristisk for en bestemt type stjerne med dens specifikke kemiske og fysiske egenskaber
+En af den engelske fysiker og matematiker Isaac Newtons mange videnskabelige opdagelser var hans påvisning af – på et tidspunkt i perioden 1670 til 1672 – at Solens tilsyneladende ensfarvede lys, ved hjælp af et trekantet prisme, kunne spaltes i de farver, det er sammensat af.
+Den franske filosof Auguste Comte skrev i sit værk Cours de philosophie positive  om stjernerne: Vi véd, at vi kan finde deres form, afstand, masse og bevægelser, men vi kan aldrig få noget at vide om deres kemiske eller mineralogiske struktur.
+Uden at Comte havde nogen anelse om rækkevidden deraf, eller blot den fjerneste viden derom, havde den engelske kemiker William Hyde Wollaston imidlertid allerede i 1802 ved hjælp af et "improved spectrometer" opdaget, at Solens spektrum indeholdt et stort antal mørke linjer – absorptionslinjer.
+I tiden op til 1814 havde Joseph von Fraunhofer optegnet ca. 570 af disse absorptionslinjer, som er opkaldt efter ham – Fraunhoferlinjer.
+Under arbejdet med at opmåle spektrallinjers bølgelængder lykkedes det Fraunhofer, da han foretog laboratorieforsøg for at måle linjer fra afbrænding af en række forskellige kemikalier, at opdage, at et bestemt grundstof udsendte lys i bestemte spektrallinjer, idet han identificerede en af linjerne i Solens spektrum med dén linje, som dannedes, når man drysser almindeligt kogsalt  – til daglig kaldet køkken- og bordsalt – ind i en ren flamme.
+Fraunhofers resultater medførte, at astronomer begyndte at tage, hvad der tidligere blev betragtet som smukke, morsomme og uforklarlige spektre alvorligt som et redskab til at fremskaffe flere oplysninger om fjerne himmellegemers kemiske sammensætning.
+Spektroskopi som hjælpevidenskab for astronomi og astrofysik var kommet til verden, for efterhånden at blive et af de vigtigste værktøjer til at forstå universets fysik.
+Efterhånden som flere og flere stjerners spektre blev undersøgt, stod det klart, at der fandtes en form for system i de forskellige ligheder og forskelle i spektrene.
+Efter flere forsøg udført af forskellige forskere, blev den katolske pater og astronom Angelo Secchi den første, som skabte et brugbart klassifikationssystem i løbet af 1860'erne og 1870'erne.
+Secchi opdelte alle stjerner med kendt spektrum i 5 klasser, nummererede med romertal.
+Draper -klassifikationen, som blev offentliggjort i 1890, opdelte spektrene i klasser med bogstavbetegnelser fra A via B til P og Q.
+I 1897 udviklede Antonia Maury et helt nyt klassifikationssystem, det første forsøg på en todimensional klassifikation efter 2 forskellige kriterier. Systemet blev offentliggjort i Spectra of Bright Stars Photographed with the 11-inch Draper Telescope as part of the Henry Draper Memorial, Annals of Harvard College Observatory, vol. 28, pp. 1-128.
+Maurys system placerede stjernerne i 22 klasser betegnet med romertallene I-XXII  og opdelte dem desuden i underklasser med betegnelserne
+a , b  og c .
+Selvom Maurys spektralklassesystem fik en meget kort levetid , fik det meget stor betydning for vor forståelse af stjerners egenskaber.
+Maury selv opdagede, at Draperklasse B skulle komme før Draperklasse A, og ikke mellem A og F, hvor den tidligere var placeret.
+Desuden foreslog hun, at hendes sidste klasse XXII  skulle være den første i klassesekvensen og måske var forbindelsesled til tåger med emissionslinier.
+Langt mere vidtrækkende betydning fik det, at Ejnar Hertzsprung i 1907 opdagede, at næsten alle stjerner i underklasse c havde betydelig mindre vinkel-egenbevægelser end næsten alle stjernerne i underklasserne a og b. De mindre egenbevægelser måtte betyde, at stjerner i underklasse c var længere væk end stjerner i de to andre klasser.
+Da disse c-stjerner desuden næsten alle var blandt de apparent  mest lysstærke, kunne han sammenfattende konkludere, at de måtte have større lysstyrke, dvs. absolut størrelsesklasse og derfor måtte være større end gennemsnitlige stjerner.
+Denne opdagelse blev ophav til Hertzsprungs opdeling i "dværgstjerner" og "kæmpestjerner", en opdeling som stadig benyttes.
+Oprindelig offentliggjort i 1943 under navnet Morgan-Keenan-Kellmann-spektralklassifikationen  og senere navngivet Morgan-Keenan , fordi Kellmanns bidrag alene bestod i at redigere og offentliggøre klassifikationen, er MK-spektralklasseinddeling den klassifikation, som stadig benyttes af alle astronomer.
+Klassebetegnelserne er : W, O, B, A, F, G, K, M, R, N, S, C og D + forvent flere i fremtiden.
+Den moderne MK-spektralklasseinddeling er i 3 dimensioner.
+Denne spektralklassificering for stjerner er den mest almindeligt anvendte. Klasserne er normalt listet fra højeste til laveste overfladetemperatur.
+Første dimension i Morgan-Keenan-spektralklasserne består af et uddrag af den ældre Draper -klassifikation, som blev offentliggjort i 1890, og som opdelte spektrene fra A via B til P og Q.
+Efterfølgende blev rækkefølgen af bogstaverne byttet om til O, B, A, F, G ,K og M, da man blev klar over, at spektrene var styret af stjernernes overfladetemperaturer.
+Første dimension i Morgan-Keenan spektralklasser udgøres af et uddrag og en omgruppering af Draper-klassifikationen.
+Bogstavbetegnelserne fra Draper-klassifikationen blev reduceret og flyttet om, for at afspejle ny viden om stjernerne fysiske karakteristika og deres spektre, til O, B, A, F, G ,K og M, i særdeleshed fordi astronomerne havde opdaget, at spektrene er styret af stjernernes overfladetemperaturer.
+Temperaturerne er opgivet i K .
+En helt speciel gruppe er D , de hvide dværge, hvor D'et står for Degenereret. Denne gruppe kaldes også ofte wd som forkortelse for 'white dwarf'.
+"Hvide" dværge er af vidt forskellig temperatur og farve , afhængig af, hvor lang tid der er gået, siden de blev hvide dværge. Navnet har de fået, fordi den første observerede hvide dværg, Sirius B, var hvid.
+En anden meget speciel gruppe er W , som er underopdelt i WN ) og WC ). En W-R stjerne er i starten af sin tilværelse ekstremt massiv, men senere afkaster den store dele af sin ydre kappe og fremviser nu de meget varme lag, som ligger umiddelbart omkring kernen.
+Mellem W og O finder man et meget lille antal stjerner, hvis karakteristika tilsyneladende er en blanding af disse to hovedklasser.
+De har normale absorptionsspektra som klasse O, men har usædvanligt mange C-linjer  eller N-linjer  og betegnes derfor ofte som OC hhv. ON.
+En tredje speciel gruppe er T. T-stjerner er ikke en traditionel spektralklasse, men er betegnelsen for helt nydannede stjerner af typen T-Tauri.
+Oprindelig lærte man at huske rækkefølgen ved hjælp af denne remse: »Oh! Be A Fine Girl, Kiss Me« 1 .
+Efter protester fra et stigende antal kvindelige astronomer, blev den ændret til: »Oh! Be A Fine Guy/Girl, Kiss Me«
+Efterhånden som man har opdaget nye stjernetyper, er nye klasser indført i MK-klassifikationen, nemlig W, R, N, S og C.
+For de oftest forekommende spektralklasser lyder huskeremsen for tiden: »Wow, Oh Be A Fine Guy/Girl, Kiss Me Right Now, Sweet Charlie« – "Charlie" er et kælenavn for både Charles og Charlotte.
+I MK-klassificeringen benyttes, ud over bogstaverne, både gradueringer indenfor hver førstedimension-spektralklasse , og en indikation af stjernens fysiske masse og type, angivet med et romertal.
+Desuden kan en særlig bogstavkode angive særprægede afvigelser fra "standard"stjerner af samme spektralklasse.
+Anden dimension stammer også oprindelig fra Draper-klassifikationen, hvor den blev indført sent i 1930'erne, og den består af efterstillede tal fra 0 til 9, som giver en mere glidende overgang mellem førstedimensionerne.
+0 angiver, at spektret er tæt på foregående, 9 at det er tæt på den efterfølgende bogstavklasse.
+A3 eller F8 eller G5
+Ikke alle tallene 0-9 er i brug for alle bogstavklasser.
+Lige for tiden benyttes følgende:
+For Wolf-Rayet-stjerner:
+For hovedseriestjerner  og superkæmper  benyttes
+For kæmpestjerner  benyttes de samme som for hovedseriestjerner, med nedenstående forskel i klasse M:
+I visse tilfælde skelnes endnu finere – man kan til tider se fx B0.5 eller M8.5.
+Denne underopdeling af anden dimension er hovedsagelig nødvendig, fordi specielt hovedklasse B spænder meget bredt og er udvidet til andre hovedklasser, når man nu engang havde startet underopdelingen.
+En B9 stjerne har en effektiv temperatur  på ca. 9.500 K og er på ca. 3 solmasser, mens en B0 er ca. 30.000 K og 20 solmasser. Dette burde egentlig medføre en opdeling af klasse B , men eftersom MK-klasserne er så indarbejdede, at konsekvensen af en egentlig opsplitning bliver nærmest uoverskuelig, benytter man i stedet decimalopdeling af anden dimension.
+Også hovedklasse M spænder bredt og dens underopdeling af 2. dimension har lignende årsager som for B.
+Tredje dimension er en betegnelse for forskellige karakteristika som masse og Luminositet  som blev indført i 1943. .
+Eksempler: A3VI eller F8V eller G5II
+D  er såkaldte hvide dværge , ægte ministjerner, de fleste med en diameter mindre end Jordens, men med masser indtil 1,44 gange Solens.
+I 1920'erne  blev de særlige bogstavkoder for særprægede afvigelser indført i Draper-klassifikationen, hvorfra de er overgået i MK-klassifikationen. Koderne har følgende værdier:
+Foranstillet
+Efterstillet
+De hvide dværge har en særlig underopdeling:
+DA udgør ca. 80% og DB ca. 20 % af alle hvide dværge.
+W-stjerner er ekstremt massive )), som har afkastet deres ydre atmosfærelag.
+Eksempler: HD 192103, HD 192163
+O-stjerner er meget massive, hvide til blålige med overfladetemperatur på 40.000°K 
+Eksempler: HD 98129A, ζ Puppis
+B-stjerner er massive, hvide til blålige med overfladetemperatur på 25.000°K 
+Eksempler: Regulus , β Canis Majoris 
+A-stjerner er hvide med overfladetemperatur på 11.000°K 
+Eksempler: Sirius A , Vega 
+F-stjerner er hvid-gule med overfladetemperatur på 7.000°K 
+Eksempler: Canopus , Procyon A 
+G-stjerner er gule med overfladetemperatur på 6.000°K 
+Eksempler: Solen , Capella 
+K-stjerner er orange med overfladetemperatur på 4.000°K  til 4.900°K 
+Eksempler: Pollux , Aldebaran 
+M-stjerner er rødorange til røde med overfladetemperatur på 3.000°K for kæmper til 3.400°K for dværge
+Eksempler: Betelgeuse , Mira 
+D-stjerner er de såkaldte "hvide dværge", med overfladetemperaturer fra ca. 100.000°K for de nyeste til under 3.000°K for gamle, afkølede eksemplarer.
+Eksempler: Sirius B , Procyon B 
+De fleste stjerner falder indenfor klasserne fra A til M, hvor A-stjernerne har højeste og M-stjernerne laveste overfladetemperatur.Jo højere temperatur, des færre stjerner i klassen, fordi overfladetemperaturen  og D  afhænger af stjernens masse – jo større masse, des varmere stjerne – dog med undtagelse af de røde superkæmper, som har stor masse og lav effektiv temperatur.
+Omtrentlig antalsmæssig fordeling af stjerner efter spektralklasse.
+Ud af 1 million  stjerner er ca.:
+Kaler, James B.: "Stars and their spectra", Cambridge University Press, 1997, ISBN 0-521-30494-6 , ISBN 0-521-58570-8 
+Carroll, Bradley W. & Ostlie, Dale A.: "Modern Astrophysics", Pearson Education Inc., 2006/2007, ISBN 0-321-44284-9 

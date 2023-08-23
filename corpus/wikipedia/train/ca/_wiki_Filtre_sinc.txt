@@ -1,0 +1,236 @@
+En el processament del senyal, un filtre sinc és un filtre idealitzat que elimina tots els components de freqüència per sobre d'una freqüència de tall determinada, sense afectar les freqüències més baixes, i té una resposta de fase lineal. La resposta d'impuls del filtre és una funció sinc en el domini del temps 
+  
+    
+      
+        
+          
+                
+                
+                   
+                  t
+                
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle \left}{\pi t}}\right),}
+  
+ i la seva resposta en freqüència és una funció rectangular. És un filtre de pas baix "ideal" en el sentit de la freqüència, passant perfectament les freqüències baixes, tallant perfectament les freqüències altes; i per tant es pot considerar com un filtre de resposta ideal. 1 
+Els filtres en temps real només poden aproximar aquest ideal, ja que un filtre sinc ideal  no és causal i té un retard infinit, però es troba habitualment en demostracions o demostracions conceptuals, com ara el teorema de mostreig i el Whittaker– Fórmula d'interpolació de Shannon. 2 
+En termes matemàtics, la resposta en freqüència desitjada és la funció rectangular:
+  
+    
+      
+        H
+        
+        =
+        rect
+         
+        
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  
+                    |
+                  
+                  f
+                  
+                    |
+                  
+                  >
+                  B
+                  ,
+                
+              
+              
+                
+                  
+                    
+                      1
+                      2
+                    
+                  
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  
+                    |
+                  
+                  f
+                  
+                    |
+                  
+                  =
+                  B
+                  ,
+                
+              
+              
+                
+                  1
+                  ,
+                
+                
+                  
+                    if 
+                  
+                  
+                    |
+                  
+                  f
+                  
+                    |
+                  
+                  <
+                  B
+                  ,
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle H=\operatorname {rect} \left={\begin{cases}0,&{\text{if }}|f|>B,\\{\frac {1}{2}},&{\text{if }}|f|=B,\\1,&{\text{if }}|f|<B,\end{cases}}}
+  
+on B és una freqüència de tall arbitrària . La resposta d'impuls d'aquest filtre ve donada per la transformada de Fourier inversa de la resposta en freqüència:  3 
+  
+    
+      
+        
+          
+            
+              
+                h
+                
+                =
+                
+                  
+                    
+                      F
+                    
+                  
+                  
+                     
+                    1
+                  
+                
+                
+              
+              
+                
+                =
+                
+                   
+                  
+                     
+                    B
+                  
+                  
+                    B
+                  
+                
+                exp
+                 
+                
+                
+                d
+                f
+              
+            
+            
+              
+              
+                
+                =
+                2
+                B
+                sinc
+                 
+                
+              
+            
+          
+        
+      
+    
+    h=\\exp\,df\\&=2B\operatorname }
+  
+on sinc és la funció sinc normalitzada.
+Com que el filtre sinc té una resposta d'impuls infinita tant en direccions de temps positives com negatives, s'ha d'aproximar per a aplicacions del món real ; Sovint s'utilitza un filtre sinc amb finestra. La finestra i el truncat d'un nucli de filtre sinc per utilitzar-lo en qualsevol conjunt de dades pràctics del món real redueix les seves propietats ideals.
+Un filtre electrònic idealitzat amb transmissió completa a la banda de pas, atenuació completa a la banda de parada i transicions abruptes es coneix col·loquialment com a "filtre ideal" . El filtre sinc és un filtre de pas baix de paret de maó, a partir del qual es construeixen fàcilment filtres de pas de banda de resposta ideal i filtres de pas alt.
+El filtre de pas baix amb tall de paret de maó a la freqüència BL té una funció de resposta i transferència d'impuls donada per:
+  
+    
+      
+        
+          h
+          
+            L
+            P
+            F
+          
+        
+        
+        =
+        2
+        
+          B
+          
+            L
+          
+        
+        sinc
+         
+        
+          
+        
+      
+    
+    =2B_ \left}
+  
+  
+    
+      
+        
+          H
+          
+            L
+            P
+            F
+          
+        
+        
+        =
+        rect
+         
+        
+          
+        
+        .
+      
+    
+    =\operatorname 
+  
+Els filtres ideals que s'executen en temps real no són físicament realitzables, ja que tenen una latència infinita  i un ordre infinit , però de vegades s'utilitzen implementacions aproximades i sovint s'anomenen filtres ideals.

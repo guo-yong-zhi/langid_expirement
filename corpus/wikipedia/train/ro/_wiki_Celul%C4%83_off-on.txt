@@ -1,0 +1,2 @@
+Celula off-on, este o celulă nervoasă din analizatorul vizual cu următoarea proprietate:
+Dacă ambele regiuni sunt stimulate de lumină, neuronul nu descarcă, datorită inhibiției laterale. Aceste celule sunt tipice pentru ganglionii vizuali și corpii geniculați laterali.

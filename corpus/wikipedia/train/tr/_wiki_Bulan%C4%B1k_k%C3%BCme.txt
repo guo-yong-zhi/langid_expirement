@@ -1,0 +1,914 @@
+Bulanık küme  kavramı, küme kavramının eleman olmanın derecelendirilmesine dayanan bir genelleştirilmesidir. Bulanık kümeler belirtisiz mantığın doğal bir genişlemesi olarak 1965 yılında Lütfi Aliaskerzade tarafından tanımlanmıştır. Bir nesne bir kümenin ya elemanı ya da elemanı değilken, bir bulanık kümenin belirli bir oranda kısmen elemanı olabilir.
+  
+    
+      
+        X
+      
+    
+    
+  
+ boştan farklı bir evrensel küme olarak seçilsin. Bir 
+  
+    
+      
+        A
+        :
+        X
+         
+        
+      
+    
+    
+  
+ fonksiyonuna 
+  
+    
+      
+        X
+      
+    
+    
+  
+ üzerinde bir bulanık küme adı verilir.
+Bulanık küme farklı şekillerde de tanımlanabilir ancak kümenin her nokta için 
+  
+    
+      
+        
+      
+    
+    
+  
+ kapalı aralığında bulunan bir üyelik değerine sahip olmasını anlatması bakımından bu tanımların hepsi birbirine denktir.
+Bir 
+  
+    
+      
+        x
+      
+    
+    
+  
+∈
+  
+    
+      
+        X
+      
+    
+    
+  
+ elemanı için 
+  
+    
+      
+        A
+        
+      
+    
+    
+  
+ değerine 
+  
+    
+      
+        x
+      
+    
+    
+  
+'in A'daki elemanlık derecesi denir. Bu değer kimi zaman 
+  
+    
+      
+        
+           
+          
+            A
+          
+        
+        
+      
+    
+    }
+  
+ ile de gösterilir. 
+  
+    
+      
+        A
+        
+        =
+        1
+      
+    
+    
+  
+ olması klasik küme anlamında 
+  
+    
+      
+        x
+      
+    
+    
+  
+ 'in 
+  
+    
+      
+        A
+      
+    
+    
+  
+ 'nın elemanı olması, 
+  
+    
+      
+        A
+        
+        =
+        0
+      
+    
+    
+  
+ olması ise klasik kümelerdeki 
+  
+    
+      
+        x
+      
+    
+    
+  
+ 'in 
+  
+    
+      
+        A
+      
+    
+    
+  
+ 'nın elemanı olmaması durumuna denk gelir.
+Eğer bir 
+  
+    
+      
+        x
+      
+    
+    
+  
+ için 
+  
+    
+      
+        A
+        
+        =
+         
+      
+    
+    
+  
+ ise 
+  
+    
+      
+        x
+      
+    
+    
+  
+∈α
+  
+    
+      
+        A
+      
+    
+    
+  
+ yazılır ve 
+  
+    
+      
+        x
+      
+    
+    
+  
+ 'in 
+  
+    
+      
+        A
+      
+    
+    
+  
+ bulanık kümesinin 
+  
+    
+      
+         
+      
+    
+    
+  
+ derecesinde elemanı olduğu söylenir.
+Örneğin 
+  
+    
+      
+        A
+        
+        =
+        0
+        ,
+        5
+      
+    
+    
+  
+ yani 
+  
+    
+      
+        x
+      
+    
+    
+  
+∈0,5
+  
+    
+      
+        A
+      
+    
+    
+  
+ olması 
+  
+    
+      
+        x
+      
+    
+    
+  
+ 'in 
+  
+    
+      
+        A
+      
+    
+    
+  
+ 'nın yarı yarıya elemanı olması şeklinde yorumlanır. ∈1 klasik ∈, ∈0 klasik ∉ sembolüne karşılık gelir.
+  
+    
+      
+        A
+      
+    
+    
+  
+ ve 
+  
+    
+      
+        B
+      
+    
+    
+  
+ boş olmayan bir 
+  
+    
+      
+        X
+      
+    
+    
+  
+ kümesi üzerinde iki bulanık küme olsun. Her 
+  
+    
+      
+        x
+         
+        X
+      
+    
+    
+  
+ için 
+  
+    
+      
+        A
+        
+         
+        B
+        
+      
+    
+    
+  
+ oluyorsa 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+ veya 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+ yazılır ve 
+  
+    
+      
+        A
+      
+    
+    
+  
+ 'nın 
+  
+    
+      
+        B
+      
+    
+    
+  
+ 'nin bir bulanık alt kümesi olduğu söylenir.
+  
+    
+      
+        A
+      
+    
+    
+  
+ ve 
+  
+    
+      
+        B
+      
+    
+    
+  
+ bulanık kümelerinin eşitliği, her 
+  
+    
+      
+        x
+      
+    
+    
+  
+ ∈ 
+  
+    
+      
+        X
+      
+    
+    
+  
+ için 
+  
+    
+      
+        A
+        
+        =
+        B
+        
+      
+    
+    
+  
+ olmasıyla tanımlanır. Buna göre 
+  
+    
+      
+        A
+      
+    
+    
+  
+'nın 
+  
+    
+      
+        B
+      
+    
+    
+  
+'ye eşit olması aynı zamanda hem 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+ hem de 
+  
+    
+      
+        B
+         
+        A
+      
+    
+    
+  
+ olması demektir.
+  
+    
+      
+        X
+      
+    
+    
+  
+ üzerindeki bütün bulanık kümeler her 
+  
+    
+      
+        x
+      
+    
+    
+  
+∈
+  
+    
+      
+        X
+      
+    
+    
+  
+ için 
+  
+    
+      
+        X
+        
+        =
+        1
+      
+    
+    
+  
+ ile tanımlanan 
+  
+    
+      
+        X
+      
+    
+    
+  
+ bulanık kümesinin alt kümesiyken, her 
+  
+    
+      
+        x
+      
+    
+    
+  
+∈
+  
+    
+      
+        X
+      
+    
+    
+  
+ için 
+  
+    
+      
+         
+        
+        =
+        0
+      
+    
+    
+  
+ ile tanımlanan 
+  
+    
+      
+         
+      
+    
+    
+  
+ bulanık kümesi 
+  
+    
+      
+        X
+      
+    
+    
+  
+'teki bütün bulanık kümelerin alt kümesidir. Bazen 
+  
+    
+      
+        X
+      
+    
+    
+  
+ ve 
+  
+    
+      
+         
+      
+    
+    
+  
+ sembolleri yerine sırasıyla 
+  
+    
+      
+        
+          1
+          
+            X
+          
+        
+      
+    
+    }
+  
+ ve 
+  
+    
+      
+        
+          0
+          
+            X
+          
+        
+      
+    
+    {\displaystyle 0_
+  
+ veya kısaca 
+  
+    
+      
+        1
+      
+    
+    
+  
+ ve 
+  
+    
+      
+        0
+      
+    
+    
+  
+ kullanılır.
+Kümeler için tanımlı olan birleşim, kesişim, tümleme, kartezyen çarpım gibi işlemlerin tümü bulanık kümeler üzerine de taşınabilir.
+İki bulanık kümenin birleşimi 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+ veya 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+ ile gösterilir ve bu kümeye eleman olma derecesi her 
+  
+    
+      
+        x
+      
+    
+    
+  
+∈
+  
+    
+      
+        X
+      
+    
+    
+  
+ için
+  
+    
+      
+        
+        
+        =
+        m
+        a
+        k
+        s
+        
+      
+    
+    }
+  
+ olarak tanımlanır.
+İki bulanık kümenin kesişimi ise 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+ veya 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+ ile gösterilir ve bu kümeye eleman olma derecesi her 
+  
+    
+      
+        x
+      
+    
+    
+  
+∈
+  
+    
+      
+        X
+      
+    
+    
+  
+ için
+  
+    
+      
+        
+        
+        =
+        m
+        i
+        n
+        
+      
+    
+    }
+  
+ olarak tanımlanır.
+  
+    
+      
+        A
+      
+    
+    
+  
+ ve 
+  
+    
+      
+        B
+      
+    
+    
+  
+ sırasıyla 
+  
+    
+      
+        X
+      
+    
+    
+  
+ ve 
+  
+    
+      
+        Y
+      
+    
+    
+  
+ kümeleri üzerinde bulanık kümeler ise 
+  
+    
+      
+        A
+         
+        B
+      
+    
+    
+  
+ de 
+  
+    
+      
+        X
+         
+        Y
+      
+    
+    
+  
+ üzerinde bir bulanık kümedir ve her 
+  
+    
+      
+        
+         
+        X
+         
+        Y
+      
+    
+    
+  
+ için 
+  
+    
+      
+        
+        
+        =
+        m
+        i
+        n
+        
+      
+    
+    }
+  
+ şeklinde tanımlanır.
+İki küme için tanımlanan bu işlemler maksimum ve minimum yerine sırasıyla supremum ve infimum alınarak herhangi sayıdaki bulanık kümeler ailesine genişletilebilir.
+  
+    
+      
+        A
+      
+    
+    
+  
+ bulanık kümesinin tümleyeni 
+  
+    
+      
+        
+          A
+          
+            c
+          
+        
+      
+    
+    }
+  
+ veya 
+  
+    
+      
+        
+          A
+           
+        
+      
+    
+    
+  
+ ile gösterilir ve her 
+  
+    
+      
+        x
+      
+    
+    
+  
+∈
+  
+    
+      
+        A
+      
+    
+    
+  
+ için 
+  
+    
+      
+        
+          A
+          
+            c
+          
+        
+        
+        =
+        1
+         
+        A
+        
+      
+    
+    =1-A}
+  
+ formülüyle belirlenir. Klasik kümelerden farklı olarak bir 
+  
+    
+      
+        A
+      
+    
+    
+  
+ bulanık kümesi için 
+  
+    
+      
+        A
+         
+        
+          A
+          
+            c
+          
+        
+         
+         
+      
+    
+    \not =\varnothing }
+  
+ olması mümkündür.

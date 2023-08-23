@@ -1,0 +1,54 @@
+Wassily Leontief  esis Rusa-Usan ekonomikisto, qua recevis Nobel-premio pri ekonomiko en 1973.
+1969: Frisch, Tinbergen 
+70: Samuelson 
+71: Kuznets 
+72: Hicks, Arrow 
+73: Leontief 
+74: Myrdal, Hayek 
+75: Kantorovich, Koopmans 
+76: Friedman 
+77: Ohlin, Meade 
+78: Simon 
+79: Schultz, Lewis 
+80: Klein 
+81: Tobin 
+82: Stigler 
+83: Debreu 
+84: Stone 
+85: Modigliani 
+86: Buchanan 
+87: Solow 
+88: Allais 
+89: Haavelmo 
+90: Markowitz, Miller, Sharpe 
+91: Coase 
+92: Becker 
+93: Fogel, North 
+94: Harsanyi, Nash, Selten 
+95: Lucas 
+96: Mirrlees, Vickrey 
+97: Merton, Scholes 
+98: Sen 
+99: Mundell 
+2000: Heckman, McFadden 
+01: Akerlof, Spence, Stiglitz 
+02: Kahneman, Smith 
+03: Engle, Granger 
+04: Kydland, Prescott 
+05: Aumann, Schelling
+06: Phelps
+07: Hurwicz, Maskin, Myerson
+08: Krugman
+09: Ostrom, Williamson
+10: Diamond, Mortensen, Pisarides
+11: Sargent, Sims
+12: Roth, Shapley
+13: Fama, Hansen, Shiller
+14: Tirole
+15: Deaton
+16: Holmström, Hart
+17: Thaler
+18: Nordhaus, Romer
+19: Banerjee, Duflo, Kremer
+20: Milgrom, Wilson Jr.
+21: Card, Angrist, Imbens

@@ -1,0 +1,170 @@
+Závislostní typ je v teorii typů typ závisející na konkrétní hodnotě. Obecně se rozlišuje mezi závislostními typy součinovými a součtovými.
+Je-li 
+  
+    
+      
+        A
+         
+        
+          
+            U
+          
+        
+      
+    
+    }}
+  
+ nějaký typ z univerza typů, pak 
+  
+    
+      
+        
+           
+          
+            
+          
+        
+        B
+        
+      
+    
+    B}
+  
+ je součinový závislostní typ,
+přičemž 
+  
+    
+      
+        B
+      
+    
+    
+  
+ je typ závisející na hodnotě 
+  
+    
+      
+        a
+        :
+        A
+      
+    
+    
+  
+.
+Naopak 
+  
+    
+      
+        
+           
+          
+            
+          
+        
+        B
+        
+      
+    
+    {\displaystyle \sum _
+  
+ je součtový závislostní typ. Na 
+  
+    
+      
+        B
+      
+    
+    
+  
+ lze nahlížet jako na funkci přiřazující hodnotám  typy . Je-li 
+  
+    
+      
+        B
+      
+    
+    
+  
+ konstantní, odpovídají součinové typy
+funkčním typům (
+  
+    
+      
+        
+           
+          
+            
+          
+        
+        B
+         
+        A
+         
+        B
+      
+    
+    B\equiv A\rightarrow B}
+  
+) a součtové typy kartézskému součinu
+(
+  
+    
+      
+        
+           
+          
+            
+          
+        
+        B
+         
+        A
+         
+        B
+      
+    
+    B\equiv A\times B}
+  
+).
+Závislostní typy byly zavedeny do teorie typů za účelem rozšíření Curry-Howardova isomorfismu z logiky výrokové na predikátovou, odpovídají totiž kvantifikátorům logiky prvního řádu. Používají se v některých programovacích jazycích pro silnou typovou kontrolu, zejména v kritických aplikacích, kde je kladen velký důraz na bezpečnost a korektnost programu.
+V jazycích se závislostními typy je možné používat funkce v signaturách funkcí, například v jazyce Idris: 1 
+    getType     :     Bool     ->     Type 
+getType    True     =     String 
+getType    False     =     Nat 
+ getValue     :          ->    getType   b
+getValue    True     =     "abcd" 
+getValue    False     =     1234 
+</prRovnost dvou objektů lze vyjádřit typem 
+  
+    
+      
+        a
+        
+          =
+          
+            A
+          
+        
+        b
+      
+    
+    b}
+  
+. Tento typ má nejvýše jeden konstruktor , který se značí Refl.
+Negace typu je operátor 
+  
+    
+      
+        Not
+         
+        
+         
+        T
+         
+         
+      
+    
+     \equiv T\supset \bot }
+  
+. Dokazatelnost se v teorii typů řídí intuicionistickou logikou, proto zde neplatí zákon o vyloučení třetího.

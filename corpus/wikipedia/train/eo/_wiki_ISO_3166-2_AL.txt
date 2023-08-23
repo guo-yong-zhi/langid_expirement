@@ -1,0 +1,53 @@
+
+ISO 3166-2:AL estas subaro de la normo ISO 3166-2 rilate Albanion. Ĉiu kodo konsistas el du partoj, apartigitaj per streketo. La unua estas AL, la ISO 3166-1 dulitera  kodo de Albanio. La dua parto estas du ciferoj por la 12 provincoj ) kaj du literoj por la 36 distriktoj.
+En la dua novaĵletero de la Internacia Organizaĵo por Normigado de la 21-a de majo 2002 pri la normo ISO 3166-2  la provincoj unuafoje ricevis kodojn. La duliteraj distrikto-kodoj ankaŭ uzatas por la regionaj aŭtokodoj de Albanio.
+ 1   2 
+Interkrampe menciiĝas la cifera kodo de la koncerna provinco.
+Berat · 
+Dibër · 
+Durrës · 
+Elbasan · 
+Fier · 
+Gjirokastër · 
+Korçë · 
+Kukës · 
+Lezhë · 
+Shkodër · 
+Tirano · 
+Vlorë 
+Berat   
+Bulqizë   
+Delvinë   
+Devoll   
+Dibër   
+Durrës   
+Elbasan   
+Fier   
+Gjirokastër   
+Gramsh   
+Has   
+Kavajë   
+Kolonjë   
+Korçë   
+Krujë   
+Kuçovë   
+Kukës   
+Kurbin   
+Lezhë   
+Librazhd   
+Lushnjë   
+Malësi e Madhe   
+Mallakastër   
+Mat   
+Mirditë   
+Peqin   
+Përmet   
+Pogradec   
+Pukë   
+Sarandë   
+Shkodër   
+Skrapar   
+Tepelenë   
+Tirano   
+Tropojë   
+Vlorë

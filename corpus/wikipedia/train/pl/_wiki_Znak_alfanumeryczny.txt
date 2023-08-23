@@ -1,0 +1,2 @@
+Znak alfanumeryczny  – znak graficzny, glif, używany w technice cyfrowej, np. do zapisu kodów alfanumerycznych.
+Standardowo wyróżnia się 36 znaków alfanumerycznych tj. cyfry arabskie oraz litery alfabetu łacińskiego , lub 62 znaki . Niekiedy uwzględniane są jako znaki alfanumeryczne również znaki diakrytyczne.

@@ -1,0 +1,4 @@
+Flattr és un sistema de micropagaments via web creat per Peter Sunde 1  i posat en marxa en agost del 2010. 2  El sistema consisteix en el fet que els usuaris paguen una quantitat fixa que es dividida al final de mes entre els llocs web als quals l'usuari ha seleccionat com a receptors. 3  Els receptors tenen com a requeriment que donen 2 euros al mes com a mínim per a poder rebre ells. 4 
+Els seus competidors són Rewrdr i Kachingle. 2 
+Al principi solament es posà en marxa com a beta tancada. 5 
+El 2016 col·laborà amb AdBlock per tirar endavant un sistema que permetera i facilitara el micropagament per part dels usuaris cap als creadors de contingut en línia anomenat Flattr Plus. 6 

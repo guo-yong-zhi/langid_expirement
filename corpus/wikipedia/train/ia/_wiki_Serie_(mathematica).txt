@@ -1,0 +1,299 @@
+ 
+In mathematica, plus precisemente in analyse mathematic, un serie es un sequentia consistente de summas ininterrupte, per exemplo 
+  
+    
+      
+        1
+        +
+        
+          
+            1
+            2
+          
+        
+        +
+        
+          
+            1
+            3
+          
+        
+        +
+        
+          
+            1
+            4
+          
+        
+        +
+        
+          
+            1
+            5
+          
+        
+        +
+        
+          
+            1
+            6
+          
+        
+        +
+         
+      
+    
+    
+  
+ da como resultato le serie 
+  
+    
+      
+        
+      
+    
+    
+  
+.
+Sia 
+  
+    
+      
+        
+          
+            
+          
+          
+            i
+             
+            
+              N
+            
+          
+        
+      
+    
+     }}
+  
+ un sequentia. Tunc le serie es le sequentia 
+  
+    
+      
+        
+          
+            
+          
+          
+            i
+             
+            
+              N
+            
+          
+        
+      
+    
+     }}
+  
+ del summas partial:
+le 
+  
+    
+      
+        n
+      
+    
+    
+  
+-me summa partial es le summa del prime elementos 
+  
+    
+      
+        n
+        +
+        1
+      
+    
+    
+  
+ del sequentia date 
+  
+    
+      
+        
+          
+            
+          
+          
+            i
+             
+            
+              N
+            
+          
+        
+      
+    
+     }}
+  
+: 
+  
+    
+      
+        
+          s
+          
+            0
+          
+        
+        =
+        
+          a
+          
+            0
+          
+        
+      
+    
+    =a_
+  
+, 
+  
+    
+      
+        
+          s
+          
+            1
+          
+        
+        =
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+      
+    
+    =a_}
+  
+, 
+  
+    
+      
+        
+          s
+          
+            2
+          
+        
+        =
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+      
+    
+    =a_+a_
+  
+, ..., 
+  
+    
+      
+        
+          s
+          
+            n
+          
+        
+        =
+        
+          a
+          
+            0
+          
+        
+        +
+        
+          a
+          
+            1
+          
+        
+        +
+        
+          a
+          
+            2
+          
+        
+        +
+         
+        +
+        
+          a
+          
+            n
+          
+        
+      
+    
+    =a_+a_}
+  
+, alora 
+  
+    
+      
+        
+          s
+          
+            n
+          
+        
+        =
+        
+           
+          
+            i
+            =
+            0
+          
+          
+            n
+          
+        
+        
+          a
+          
+            i
+          
+        
+      
+    
+    =\sum _a_
+  
+.

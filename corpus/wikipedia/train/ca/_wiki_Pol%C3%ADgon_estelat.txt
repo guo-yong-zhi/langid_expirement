@@ -1,0 +1,52 @@
+En geometria, un polígon estelat  és un polígon còncau anomenat així per la seva semblança a una estrella. Només s'han estudiat amb certa profunditat aquells que són regulars, ja que els polígons estrellats en general no han estat definits formalment. També se'ls anomena simplement estrella i no s'han de confondre amb els dominis estrellats.
+En geometria, un polígon estelat regular  és un polígon amb angles iguals i costats iguals que es tallen entre ells mateixos. Es pot crear unint un vèrtex d'un polígon regular simple de p costats amb un altre vèrtex no adjacent del qual dista q vèrtexs, i repetint el procés fins que es retorna al vèrtex inicial. 2  També es pot considerar que, per dos nombres enters p i q, es construeix unint cada q-èsim punt d'entre p punts equidistants en una circumferència. 3  Per exemple, en un pentàgon regular, una estel de cinc puntes es pot obtenir dibuixant una línia del primer al tercer vèrtex, del tercer al cinquè, del cinquè al segon, del segon al quart i del quart al primer una altra vegada. La notació per a aquests polígons, segons el símbol de Schläfli, és , que és el mateix que . Els polígons estelats regulars soriginen quan p i q són coprimers. Els polígons regulars estelats van ser estudiats sistemàticament per Thomas Bradwardine.
+Exemples d'estrelles geomètriques ordenades segons el símbol de Schläfli:
+Si el nombre de costats p és divisible per q, la figura estelada resultant serà un polígon regular de p/q costats. Una nova figura s'obté fent rodar aquests p/q-àgons regulars d'un vèrtex en un vèrtex en el polígon original fins que el nombre del vèrtexs girats sigui igual a p/q menys u, i combinant aquests polígons. Un cas extrem seria quan p/q és 2, que origina una figura que consisteix en p/2 segments rectes.
+En altres casos on p i q tenen un factor comú, s'obté un polígon estelat corresponent a una p més baixa, i es poden combinar versions amb una rotació diferent. Aquestes figures s'anomenen figures estelades, polígons estelats inapropiats o bé polígons combinats. Sovint s'empra la mateixa notació , tot i que autoritats com Grünbaum  argumenten que la forma k és més correcta, on normalment k=q.
+Una altra complicació és la combinació de dos o més polígons estelats, com per exemple dos pentacles inscrits en un decàgon, amb una rotació de diferència entre ells de 36°. Això s'escriu correctament en la forma k, com a 2, millor que la més utilitzada .
+Els polígons estelats regulars i les figures estelades poden ser concebuts com un diagrama de classes laterals dels subgrups 
+  
+    
+      
+        x
+        
+          
+            Z
+          
+          
+            n
+          
+        
+      
+    
+     _
+  
+ del grup finit 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb }
+  
+.
+El grup de simetria de  és el grup diedral Dp d'ordre 2p, independent de k.
+Un polígon estrellat no ha de ser necessàriament regular. Hi ha polígons cíclics estrellats irregulars que es construeixen com a figures de vèrtex dels políedres uniformes, definits per la seqüència de cares al voltant de cada vèrtex, cosa que permet múltiples girs i direccions retrògrades. 4 
+L'hexagrama unicursal és un altre exemple de polígon cíclic estelat irregular, que conté només D2h simetries diedrals.
+Els polígons estelats deixen una ambigüitat respecte a la interpretació dels seus interiors. Aquest diagrama mostra tres interpretacions d'un pentacle.
+Hi ha dues possibilitats d'interior:
+Cada cas porta a una interpretació diferent de l'àrea d'un polígon.
+Prisma heptagràmic :
+El prisma heptagràmic anterior mostra que diferents interpretacions poden crear aparences molt diferents.
+Els constructors de models de políedres, com en Magnus Wenninger, solen representar les cares dels polígons estelats de forma còcava, sense els costats interiors mostrats.
+Els polígons estelats han tingut un paper important en l'art i la cultura arreu del món. Aquest polígons no són sempre regulars però sempre tenen molta simetria.
+Alguns exemples en són els següents:
+Alguns símbols basats en polígons estelats s'han entrellaçat, amb petits buits, i / o, en el cas d'una figura estelada, fent servir diferents colors.

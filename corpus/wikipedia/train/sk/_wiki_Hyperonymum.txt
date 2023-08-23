@@ -1,0 +1,7 @@
+Hyperonymum je nadradený pojem.
+K slovu jablko sú hyperonymy napríklad slová ovocie, predmet alebo potravina.
+K slovu láska môžu byť hyperonymá slová cit alebo vzťah, teda ku každému z významov alebo významových odtieňov slova môže byť iné hyperonymum .
+Opakom hyperonyma je hyponymum. Hyponymum je podradený pojem k inému pojmu. Podradeným pojmom k rastline je napríklad ovocie, k ovociu napríklad jablko.
+Hyperonymia a hyponymia majú veľký význam napríklad v biologickej taxonómii, nozológii a vôbec v akejkoľvek systematike a katalogizácii. Ich uplatnením sú i kategórie ako pomocný nástroj vo Wikipédii.
+Tieto vzťahy možno okrem lingvistických pojmov popisovať i pojmami z oblasti teórie množín  alebo logiky .
+Stupňovitá systematika je sociomorfným obrazom hierarchického usporiadania ľudskej spoločnosti. Protipólom hierarchickej systematiky sú sieťové systémy , v ktorých hierarchický systém býva pre praktické účely buď sčasti implantovaný, alebo nahradzovaný abecedným radením, číslovaním alebo podobnými spôsobmi.

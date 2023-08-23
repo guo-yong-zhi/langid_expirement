@@ -1,0 +1,29 @@
+3PLS, 4FWW, 4QT8
+• transferase activity• nucleotide binding• protein kinase activity• macrophage colony-stimulating factor receptor activity• kinase activity• GO:0001948, GO:0016582 protein binding• enzyme binding• transmembrane receptor protein tyrosine kinase activity• protein tyrosine kinase activity• ATP binding• Wnt-protein binding
+• integral component of membrane• мембрана• integral component of plasma membrane• stress fiber• cell surface• вакуоля• клітинна мембрана• receptor complex
+• defense response• positive regulation of protein kinase B signaling• positive regulation of MAP kinase activity• фосфорилювання• transmembrane receptor protein tyrosine kinase signaling pathway• immune system process• single fertilization• protein phosphorylation• positive regulation of cell population proliferation• peptidyl-tyrosine phosphorylation• Вроджений імунітет• GO:0072468 Сигнальна трансдукція• macrophage colony-stimulating factor signaling pathway• hepatocyte growth factor receptor signaling pathway• response to virus• Wnt signaling pathway
+MST1R  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 3-ї хромосоми.  4  Довжина поліпептидного ланцюга білка становить 1 400 амінокислот, а молекулярна маса — 152 271 5 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функціями належить до трансфераз, кіназ, рецепторів, тирозинових протеїнкіназ, фосфопротеїнів. 
+Задіяний у таких біологічних процесах як імунітет, вроджений імунітет, поліморфізм, альтернативний сплайсинг. 
+Білок має сайт для зв'язування з АТФ, нуклеотидами. 
+Локалізований у мембрані.
+  Портал «Біологія»   Портал «Хімія»                       

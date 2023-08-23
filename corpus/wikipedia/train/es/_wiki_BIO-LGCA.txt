@@ -1,0 +1,1900 @@
+En biología computacional y matemática, un autómata celular biológico de gas en red  es un modelo discreto de agentes biológicos móviles e interactuantes, un subtipo de autómata celular. Los BIO-LGCAs están basados en el autómata celular de gas en red , modelo utilizado en dinámica de fluidos. Un modelo BIO-LGCA describe células y otros agentes biológicos móviles como partículas puntuales que se mueven en una red, interactuando con otras partículas cercanas. A diferencia de los modelos de autómatas celulares clásicos, las partículas en BIO-LGCA están caracterizadas por su posición y velocidad. Esto permite modelar y analizar el comportamiento de fluidos activos y de la migración colectiva producido principalmente a través de cambios de momento, más que a través de gradientes de densidad. Las aplicaciones de los BIO-LGCA  incluyen invasión y progresión de cáncer.  
+Como todo modelo de autómatas celulares, un modelo BIO-LGCA está definido por una red 
+  
+    
+      
+        
+          
+            L
+          
+        
+      
+    
+    }}
+  
+, un espacio de estados 
+  
+    
+      
+        
+          
+            E
+          
+        
+      
+    
+    }}
+  
+, una vecindad 
+  
+    
+      
+        
+          
+            N
+          
+        
+      
+    
+    }}
+  
+, y una regla 
+  
+    
+      
+        
+          
+            R
+          
+        
+      
+    
+    }}
+  
+. 
+Para modelar las velocidades de las partículas explícitamente, se presupone que los sitios de la red tienen una subestructura específica. Cada sitio de la red 
+  
+    
+      
+        
+          r
+        
+         
+        
+          
+            L
+          
+        
+      
+    
+     \in }
+  
+ está conectado a sus vecinos a través de vectores llamados "canales de velocidad", 
+  
+    
+      
+        
+          
+            c
+          
+          
+            i
+          
+        
+      
+    
+     _
+  
+, 
+  
+    
+      
+        i
+         
+        
+      
+    
+    }
+  
+, donde el número de canales de velocidad 
+  
+    
+      
+        b
+      
+    
+    
+  
+ es igual al número de vecinos más cercanos, y por lo tanto depende de la geometría de la red . En dos dimensiones, los canales de velocidad están definidos como 
+  
+    
+      
+        
+          
+            c
+          
+          
+            i
+          
+        
+        =
+        
+          
+        
+      
+    
+     _
+  
+. Además, se puede definir un número arbitrario 
+  
+    
+      
+        a
+      
+    
+    
+  
+ de canales llamados "de descanso", tales que 
+  
+    
+      
+        
+          
+            c
+          
+          
+            i
+          
+        
+        =
+        
+      
+    
+     _
+  
+, 
+  
+    
+      
+        i
+         
+        
+      
+    
+    }
+  
+. Se dice que un canal está ocupado si  hay una partícula en el sitio de la red con una velocidad igual al canal de velocidad. La ocupación del canal 
+  
+    
+      
+        
+          
+            c
+          
+          
+            i
+          
+        
+      
+    
+     _
+  
+ es indicada por el número de ocupación 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+      
+    
+    {\displaystyle s_
+  
+. Típicamente, se presupone que las partículas obedecen un principio de exclusión, tal que a lo más una partícula puede ocupar un canal de velocidad en un sitio de la red simultáneamente. En este caso, los números de ocupación son variables Booleanas, i.e. 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+         
+        
+          
+            S
+          
+        
+        =
+        
+      
+    
+    \in =\
+  
+, por lo que cada sitio tiene una capacidad de carga máxima 
+  
+    
+      
+        K
+        =
+        a
+        +
+        b
+      
+    
+    
+  
+. Dado que el conjunto de todos números de ocupación de todos los canales definen el número de partículas y sus velocidades en cada sitio de la red, el vector 
+  
+    
+      
+        
+          s
+        
+        =
+        
+          
+        
+      
+    
+     =\left}
+  
+describe el estado de un sitio de la red, y el espacio de estados está dado por 
+  
+    
+      
+        
+          
+            E
+          
+        
+        =
+        
+          
+            
+              S
+            
+          
+          
+            K
+          
+        
+      
+    
+    }=^
+  
+.
+Los estados de cada sitio en la red se actualizan simultáneamente en pasos de tiempo discretos para simular la dinámica del modelo. La regla está dividida en dos pasos. El paso de interacción probabilista simula interacciones entre partículas, mientras que el paso de transporte determinista simula el movimiento de partículas.
+Según la aplicación concreta, el paso de interacción puede estar compuesto de operadores de reacción y/o reorientación.
+El operador de reacción 
+  
+    
+      
+        
+          
+            A
+          
+        
+      
+    
+    }}
+  
+ reemplaza el estado 
+  
+    
+      
+        
+          s
+        
+      
+    
+     }
+  
+ de un sitio con un nuevo estado 
+  
+    
+      
+        
+          
+            s
+          
+          
+            
+              A
+            
+          
+        
+      
+    
+     ^}
+  
+ de acuerdo a una probabilidad de transición 
+  
+    
+      
+        P
+        
+          
+        
+      
+    
+    
+  
+, la cual depende del estado de sitios vecinos de la red 
+  
+    
+      
+        
+          
+            s
+          
+          
+            
+              N
+            
+          
+        
+      
+    
+     _}
+  
+, para simular la influencia de partículas cercanas en el proceso reactivo. El operador de reacción no conserva el número de partículas, permitiendo simular nacimiento y muerte de los individuos. La probabilidad de transición del operador de reacción es definida normalmente ad hoc a partir de observaciones fenomenológicas.
+El operador de reorientación 
+  
+    
+      
+        
+          
+            O
+          
+        
+      
+    
+    }}
+  
+ también reemplaza un estado 
+  
+    
+      
+        
+          s
+        
+      
+    
+     }
+  
+ con un estado nuevo 
+  
+    
+      
+        
+          
+            s
+          
+          
+            
+              O
+            
+          
+        
+      
+    
+     ^}
+  
+ con probabilidad 
+  
+    
+      
+        P
+        
+          
+        
+      
+    
+    
+  
+. Sin embargo, este operador conserva el número de partículas y, por lo tanto, sólo modela cambios en la velocidad de las partículas redistribuyéndolas entre los canales de velocidad. La probabilidad de transición de este operador puede ser determinada a partir de observaciones estadísticas  o de dinámicas individuales conocidas , y típicamente toma la forma   
+  
+    
+      
+        P
+        
+          
+        
+        =
+        
+          
+            1
+            Z
+          
+        
+        
+          e
+          
+             
+             
+            H
+            
+              
+            
+          
+        
+        
+           
+          
+            n
+            
+              
+            
+            ,
+            n
+            
+              
+            
+          
+        
+      
+    
+    \delta _
+  
+donde 
+  
+    
+      
+        Z
+      
+    
+    
+  
+ es una constante de normalización , 
+  
+    
+      
+        H
+        
+          
+        
+      
+    
+    
+  
+ es una función análoga a una energía, la cual será minimizada con alta probabilidad por las partículas al cambiar su dirección de movimiento, 
+  
+    
+      
+         
+      
+    
+    
+  
+ es un parámetro libre inversamente proporcional a la aleatoreidad de las partículas al reorientarse , y 
+  
+    
+      
+        
+           
+          
+            n
+            
+              
+            
+            ,
+            n
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle \delta _
+  
+ es una delta de Kronecker que asegura que el número de partículas 
+  
+    
+      
+        n
+        
+          
+        
+      
+    
+    
+  
+ antes y después de la reorientación 
+  
+    
+      
+        n
+        
+          
+        
+      
+    
+    
+  
+ no cambien.
+Al estado después de aplicar los operadores de reacción y reorientación 
+  
+    
+      
+        
+          
+            s
+          
+          
+            
+              
+                O
+              
+            
+             
+            
+              
+                A
+              
+            
+          
+        
+      
+    
+     ^\circ }
+  
+ se denomina como la configuración post-interacción y se denota por 
+  
+    
+      
+        
+          
+            s
+          
+          
+            
+              I
+            
+          
+        
+        :=
+        
+          
+            s
+          
+          
+            
+              
+                O
+              
+            
+             
+            
+              
+                A
+              
+            
+          
+        
+      
+    
+     ^:=\mathbf }\circ }
+  
+.
+Después del paso de interacción, el paso de transporte determinista se aplica simultáneamente a todos sitios de la red. El paso de transporte simula el movimiento de agentes de acuerdo a su velocidad, debido a la autopropulsión de organismos vivientes.
+Durante este paso, los números de ocupación de los estados post-interacción serán definidos como los nuevos estados de ocupación del mismo canal en el sitio vecino en la dirección del canal de velocidad, i.e. 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+        
+        =
+        
+          s
+          
+            i
+          
+          
+            
+              I
+            
+          
+        
+        
+      
+    
+    =s_}}
+  
+.
+Un nuevo paso de tiempo comienza cuando han ocurrido ambos pasos de interacción y de transporte. Por lo tanto, la dinámica del BIO-LGCA puede ser resumida en la ecuación en diferencias finitas estocástica microdinámica 
+  
+    
+      
+        
+          s
+          
+            i
+          
+        
+        
+        =
+        
+          s
+          
+            i
+          
+          
+            
+              I
+            
+          
+        
+        
+      
+    
+    =s_}}
+  
+La probabilidad de transición de los operadores de reacción y/o reorientación deben ser definidas de tal forma que simulen el sistema a modelar apropiadamente. Algunas  interacciones elementales y sus probabilidades de transición correspondientes están listadas debajo.
+En la ausencia de todo estímulo externo o interno, las células pueden moverse aleatoriamente sin preferencia direccional. En este caso, el operador de reorientación puede ser definido a través de una probabilidad de transición
+  
+    
+      
+        P
+        
+          
+        
+        =
+        
+          
+            
+               
+              
+                n
+                
+                ,
+                n
+                
+                  
+                
+              
+            
+            Z
+          
+        
+      
+    
+    }
+  
+donde 
+  
+    
+      
+        Z
+        =
+        
+           
+          
+            
+              
+                s
+              
+              
+                
+                  O
+                
+              
+            
+          
+        
+        
+           
+          
+            n
+            
+              
+            
+            ,
+            n
+            
+              
+            
+          
+        
+      
+    
+     ^\delta _
+  
+. Esta probabilidad de transición sólo permite configuraciones post-interacción 
+  
+    
+      
+        
+          
+            s
+          
+          
+            
+              O
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf }
+  
+con el mismo número de partículas que la configuración pre-interacción 
+  
+    
+      
+        
+          s
+        
+      
+    
+     }
+  
+, elegidas uniformemente.
+Si los organismos se reproducen y mueren independientemente de otros individuos , entonces un proceso sencillo de nacimiento y muerte puede ser simulado con una probabilidad de transición dada por 
+  
+    
+      
+        P
+        
+          
+        
+        =
+        
+          
+        
+         
+        
+          
+        
+         
+        
+          
+        
+      
+    
+    
+  
+donde , 
+  
+    
+      
+        
+          r
+          
+            b
+          
+        
+        ,
+        
+          r
+          
+            d
+          
+        
+         
+        
+      
+    
+    ,r_
+  
+, 
+  
+    
+      
+        
+          r
+          
+            b
+          
+        
+        +
+        
+          r
+          
+            d
+          
+        
+         
+        1
+      
+    
+    +r_
+  
+ son las probabilidades constantes de nacimiento y muerte, respectivamente, 
+  
+    
+      
+        
+           
+          
+            i
+            ,
+            j
+          
+        
+      
+    
+    }
+  
+ es la delta de Kronecker que permite un solo evento de  muerte o nacimiento cada paso de tiempo, y es 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ es la función de Heaviside, la cual garantiza que el número de partículas sea positivo y acotado por la capacidad de carga 
+  
+    
+      
+        K
+      
+    
+    
+  
+.
+Las células pueden adherirse una a otra a través de moléculas de cadherina en la superficie celular. Las interacciones mediadas por cadherina provocan la formación de agregados celulares. La formación de agregados celulares mediante biomoléculas adhesivas puede ser modeleda por un operador de reorientación con probabilidades de transición definidas como 
+  
+    
+      
+        P
+        
+          
+        
+        =
+        
+          
+            1
+            Z
+          
+        
+        exp
+         
+        
+          
+        
+      
+    
+    
+  
+donde 
+  
+    
+      
+        
+          G
+        
+        
+          
+        
+      
+    
+     \left}
+  
+ es un vector que apunta en la dirección de la densidad celular máxima, definida como 
+  
+    
+      
+        
+          G
+        
+        
+          
+        
+        =
+        
+           
+          
+            
+              
+                r
+              
+               
+            
+             
+            
+              
+                N
+              
+            
+          
+        
+        
+          
+        
+        n
+        
+          
+        
+      
+    
+     \left=\sum _}}\leftn\left}
+  
+, donde 
+  
+    
+      
+        
+          
+            s
+          
+          
+            
+              N
+            
+          
+          
+            
+              
+                r
+              
+               
+            
+          
+        
+      
+    
+     _^}
+  
+ es la configuración del sitio de la red 
+  
+    
+      
+        
+          
+            r
+          
+           
+        
+      
+    
+     '}
+  
+ dentro de la vecindad 
+  
+    
+      
+        
+          
+            N
+          
+        
+      
+    
+    {\displaystyle 
+  
+, y 
+  
+    
+      
+        
+          J
+        
+        
+          
+        
+      
+    
+     \left}
+  
+ es el momento lineal de la configuración post-reorientación, definido como 
+  
+    
+      
+        
+          J
+        
+        
+          
+        
+        =
+        
+           
+          
+            j
+            =
+            1
+          
+          
+            b
+          
+        
+        
+          s
+          
+            j
+          
+          
+            
+              O
+            
+          
+        
+        
+          
+            c
+          
+          
+            j
+          
+        
+      
+    
+     \left=\sum _s_}\mathbf }
+  
+ . Esta probabilidad de transición favorece las configuraciones post-reorientación con células moviéndose en dirección del gradiente de densidad celular.
+Dado que un análisis exacto de un modelo estocástico basado en agentes se vuelve rápidamente imposible debido a las correlaciones de alto orden entre todos los agentes,  el método general para analizar un modelo BIO-LGCA es convertirlo en una ecuación en diferencias finitas  determinista aproximada, que describa la dinámica promedio de la población, y posteriormente realizando el análisis matemático de este modelo aproximado y comparando los resultados con el modelo BIO-LGCA original.
+Para empezar, el valor esperado de la ecuación microdinámica 
+  
+    
+      
+        
+          s
+          
+            m
+          
+        
+        
+        =
+        
+          s
+          
+            m
+          
+          
+            
+              I
+            
+          
+        
+        
+      
+    
+    =s_}}
+  
+ se obtiene
+  
+    
+      
+        
+          f
+          
+            m
+          
+        
+        
+          
+        
+        =
+        
+           
+          
+            
+              s
+              
+                m
+              
+              
+                
+                  I
+                
+              
+            
+            
+              
+            
+          
+           
+        
+      
+    
+    \left=\left\langle s_}\left\right\rangle }
+  
+donde 
+  
+    
+      
+         
+         
+         
+      
+    
+    
+  
+ denota el valor esperado, y 
+  
+    
+      
+        
+          f
+          
+            m
+          
+        
+        
+          
+        
+        :=
+        
+           
+          
+            
+              s
+              
+                m
+              
+            
+            
+              
+            
+          
+           
+        
+      
+    
+    \left:=\left\langle s_
+  
+ es el valor esperado del número de ocupación 
+  
+    
+      
+        m
+      
+    
+    
+  
+ -ésimo del sitio 
+  
+    
+      
+        
+          r
+        
+      
+    
+     }
+  
+  de la red en el paso del tiempo 
+  
+    
+      
+        k
+      
+    
+    
+  
+ . Sin embargo, el término de la derecha, 
+  
+    
+      
+        
+           
+          
+            
+              s
+              
+                m
+              
+              
+                
+                  I
+                
+              
+            
+            
+              
+            
+          
+           
+        
+      
+    
+    {\displaystyle \left\langle s_}\left\right\rangle }
+  
+ es altamente no lineal en los números de ocupación tanto del sitio 
+  
+    
+      
+        
+          r
+        
+      
+    
+     }
+  
+ como de los sitios de la red en la vecindad de interacción 
+  
+    
+      
+        
+          
+            N
+          
+        
+      
+    
+    }}
+  
+, debido a la forma de la probabilidad de transición 
+  
+    
+      
+        P
+        
+          
+        
+      
+    
+    
+  
+ y la estadística ocupación de partículas dentro de los canales de velocidad . Esta no linealidad daría lugar a correlaciones y momentos de alto orden entre todos los números de ocupación de canales involucrados. En su lugar, se suele suponer una aproximación de campo medio, en la cual se desprecian todas las correlaciones y momentos de alto orden, de modo que las interacciones directas partícula-partícula son sustituidas por interacciones con los valores esperados respectivos. En otras palabras, si 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+         
+        ,
+        
+          X
+          
+            n
+          
+        
+      
+    
+    ,X_}
+  
+ son variables aleatorias, y 
+  
+    
+      
+        F
+        :
+        
+          
+            R
+          
+          
+            n
+          
+        
+         
+        
+          R
+        
+      
+    
+     ^ }
+  
+ es una función, entonces 
+  
+    
+      
+        
+           
+          
+            F
+            
+              
+            
+          
+           
+        
+         
+        F
+        
+          
+        
+      
+    
+    
+  
+ bajo esta aproximación. Por lo tanto, podemos simplificar la ecuación a
+  
+    
+      
+        
+          f
+          
+            m
+          
+        
+        
+          
+        
+        =
+        
+          
+            C
+          
+        
+        
+          (
+          
+            
+              f
+            
+            
+              
+            
+            ,
+            
+              
+                f
+              
+              
+                
+                  N
+                
+              
+            
+            
+              
+            
+          
+          )
+        
+      
+    
+    \left=\left(\mathbf  _\left\right)}
+  
+donde 
+  
+    
+      
+        
+          
+            C
+          
+        
+        
+          (
+          
+            
+              f
+            
+            
+              
+            
+            ,
+            
+              
+                f
+              
+              
+                
+                  N
+                
+              
+            
+            
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left(\mathbf  _\left\right)}
+  
+ es una función no lineal de la configuración esperada 
+  
+    
+      
+        
+          f
+        
+        
+          
+        
+      
+    
+     \left}
+  
+ del sitio de la red y la configuración esperada 
+  
+    
+      
+        
+          
+            f
+          
+          
+            
+              N
+            
+          
+        
+        
+          
+        
+      
+    
+     _\left}
+  
+ de la vecindad, que depende de las probabilidades de transición y la estadística de las partículas en el nodo. A partir de esta EDF no lineal, se pueden identificar varios estados estacionarios homogéneos, o constantes 
+  
+    
+      
+        
+          
+            
+              
+                f
+                 
+              
+            
+          
+          
+            m
+          
+        
+      
+    
+    }_
+  
+ independientes de 
+  
+    
+      
+        
+          r
+        
+      
+    
+     }
+  
+ y 
+  
+    
+      
+        k
+      
+    
+    
+  
+ que son soluciones de la EDF. Para estudiar las condiciones de estabilidad de estos estados estacionarios y el potencial de formación de patrones del modelo, se puede realizar un análisis de estabilidad lineal. Para hacerlo, la EDF no lineal se linealiza como
+  
+    
+      
+        
+          f
+          
+            m
+          
+        
+        
+          
+        
+        =
+        
+           
+          
+            j
+            =
+            1
+          
+          
+            K
+          
+        
+        
+          
+            
+            
+              
+                
+                   
+                  
+                    
+                      C
+                    
+                  
+                
+                
+                   
+                  
+                    f
+                    
+                      j
+                    
+                  
+                  
+                    
+                  
+                
+              
+            
+            |
+          
+          
+            
+              s
+              s
+            
+          
+        
+        
+          f
+          
+            j
+          
+        
+        
+          
+        
+        +
+        
+           
+          
+            j
+            =
+            1
+          
+          
+            K
+          
+        
+        
+           
+          
+            p
+            =
+            1
+          
+          
+            K
+          
+        
+        
+          
+            
+            
+              
+                
+                   
+                  
+                    
+                      C
+                    
+                  
+                
+                
+                   
+                  
+                    f
+                    
+                      j
+                    
+                  
+                  
+                    
+                  
+                
+              
+            
+            |
+          
+          
+            
+              s
+              s
+            
+          
+        
+        
+          f
+          
+            j
+          
+        
+        
+          
+        
+      
+    
+    \left=\sum _\left.{\frac {\partial }\right|_f_{j}\left+\sum _\sum _\left.{\frac {\partial }\right|_f_
+  
+donde 
+  
+    
+      
+        
+          s
+          s
+        
+      
+    
+     }
+  
+ denota el estado estacionario homogéneo 
+  
+    
+      
+        
+          f
+          
+            m
+          
+        
+        
+          
+        
+        =
+        
+          
+            
+              
+                f
+                 
+              
+            
+          
+          
+            m
+          
+        
+        ,
+        m
+         
+        
+      
+    
+    \left=_}
+  
+, suponiendo una vecindad de von Neumann . Para convertirla en una ecuación en diferencias finitas más familiar con incrementos temporales únicamente, se puede aplicar una transformada discreta de Fourier de ambos lados de la ecuación. Después de aplicar el teorema del desplazamiento y aislar el término con incremento temporal a la izquierda, se obtiene la ecuación de red-Boltzmann  
+  
+    
+      
+        
+          
+            
+              
+                f
+                 
+              
+            
+          
+          
+            m
+          
+        
+        
+          
+        
+        =
+        
+          e
+          
+             
+            
+              
+                
+                  2
+                   
+                  i
+                
+                L
+              
+            
+            
+              q
+            
+             
+            
+              
+                c
+              
+              
+                m
+              
+            
+          
+        
+        
+          
+        
+      
+    
+    {\displaystyle {\hat \left=e^}\mathbf {q} \cdot \mathbf {c} _\left\{\sum _\left_
+  
+donde 
+  
+    
+      
+        i
+        =
+        
+          
+             
+            1
+          
+        
+      
+    
+    }}
+  
+ es la unidad imaginaria, 
+  
+    
+      
+        L
+      
+    
+    
+  
+ es el tamaño de la red a lo largo de una dimensión, 
+  
+    
+      
+        
+          q
+        
+         
+        
+          
+            d
+          
+        
+      
+    
+     \in \}
+  
+ es el número de onda de Fourier, y 
+  
+    
+      
+        
+          
+            
+               
+               
+            
+          
+        
+        =
+        
+          
+            F
+          
+        
+        
+      
+    
+    }=\
+  
+ denota la transformada discreta de Fourier. En notación matricial, esta ecuación se simplifica a 
+  
+    
+      
+        
+          
+            
+              
+                f
+              
+               
+            
+          
+        
+        
+          
+        
+        =
+         
+        
+          
+            
+              
+                f
+              
+               
+            
+          
+        
+        
+          
+        
+      
+    
+     }}\left=\Gamma }\left}
+  
+, donde la matriz 
+  
+    
+      
+         
+      
+    
+    
+  
+ se llama propagador de Boltzmann y se define como
+  
+    
+      
+        
+           
+          
+            m
+            ,
+            j
+          
+        
+        =
+        
+          e
+          
+             
+            
+              
+                
+                  2
+                   
+                  i
+                
+                L
+              
+            
+            
+              q
+            
+             
+            
+              
+                c
+              
+              
+                m
+              
+            
+          
+        
+        
+          
+        
+        .
+      
+    
+    =e^}\mathbf {q} \cdot \mathbf {c} _\left.}
+  
+Los eigenvalores 
+  
+    
+      
+         
+        
+          
+        
+      
+    
+    
+  
+ del propagador de Boltzmann dictan las propiedades de estabilidad del estado estacionario:  
+La construcción de un BIO-LGCA para el estudio de fenómenos biológicos implica, principalmente, definir probabilidades de transición apropiadas para el operador de interacción, aunque definiciones precisas del espacio de estados , condiciones de frontera , vecindad  y capacidad de carga  pueden ser importantes para aplicaciones específicas. Si bien la distribución del operador de reorientación se puede obtener a través de los métodos estadísticos y biofísicos antes mencionados, la distribución de los operadores de reacción se pueden estimar a partir de caracterizaciones estadísticas de experimentos in vitro, por ejemplo. 
+Los modelos BIO-LGCA se han utilizado para estudiar varios fenómenos celulares, biofísicos y médicos. Algunos ejemplos incluyen:

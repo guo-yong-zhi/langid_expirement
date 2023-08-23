@@ -1,0 +1,7 @@
+Similis portae NON-ET, porta NON-AUT est "porta universalis" quod portas NON-ET aut NON-AUT creare portas omnes alias posse significat. 1  Per exemplum, anno 1966 Apollo Guidance Computer solum ex portis NON-AUT factum est. 2 .
+Inductis portae NON-AUT iugando facta est. Quia porta NON-AUT est par portae NON post portam AUT, porta AUT deletur, et porta NON solum stat.
+Porta AUT est porta NON-AUT ante portam NON.
+Secundum legem De Morgan, porta ET est porta NON-AUT cum uterque inductis invertis.
+Porta NON-ET est porta ET ante portam NON.
+Porta XAUT aequatione logici  NON-AUT  sequando facta est.
+Porta NON-XAUT aequatione logici  NON-AUT  sequando facta est, ubi N = A NON-AUT B.

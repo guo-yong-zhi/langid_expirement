@@ -1,0 +1,110 @@
+Aldehydit muodostavat orgaanisen yhdisteryhmän, jonka funktionaalinen ryhmä eli toiminnallinen ryhmä on terminaalinen karbonyyliryhmä -CHO, jota voidaan kutsua myös aldehydiryhmäksi. 1 
+Aldehydit nimetään IUPAC:n sääntöjen mukaan lisäämällä alkaaniin -aali-pääte, esimerkiksi etaani : etanaali. Jos yhdisteessä on kaksi aldehydiryhmää, saa yhdiste päätteen -diaali, esimerkiksi butaanidiaali. 1  Alifaattiset eli avoketjuiset aldehydit nimetään pisimmän hiiliketjun mukaan. Aldehydeistä käytetään myös paljon niiden triviaalinimiä; esimerkiksi metanaali on formaldehydi ja etanaali asetaldehydi.
+Suoraketjuiset aldehydit eli n-aldehydit nimetään niiden sisältämien hiiliatomien mukaan seuraavasti:
+Aldehydejä valmistetaan primäärisiä alkoholeja hapettamalla:
+  
+    
+      
+        R
+         
+        C
+        
+          H
+          
+            2
+          
+        
+        O
+        H
+        +
+        O
+         
+        R
+         
+        C
+        H
+        O
+      
+    
+    OH+O\rightarrow R-CHO}
+  
+Hapettumisen jatkuessa syntyy vastaava karboksyylihappo:
+  
+    
+      
+        R
+         
+        C
+        H
+        O
+        +
+        O
+         
+        R
+         
+        C
+        O
+        O
+        H
+      
+    
+    
+  
+Ihmisen nauttima alkoholi  muodostaa elimistössä hitaasti aldehydejä, jotka aiheuttavat runsaan alkoholin käytön seurauksena epämiellyttävän tuoksun uloshengitysilmaan useita tunteja myöhemmin.
+Koska aldehydien sisältämä karbonyyliryhmä on poolinen  vetää sidoselektroneja puoleensa, jolloin happi saa osittaisen negatiivisen varauksen ja hiili positiivisen), siihen liittyy herkästi atomeja ja ioneja.
+Aldehydit hapettuvat herkästi vastaavaksi karboksyylihapoksi.
+  
+    
+      
+        R
+         
+        C
+        H
+        O
+        +
+        O
+         
+        R
+         
+        C
+        O
+        O
+        H
+      
+    
+    
+  
+Hydrauksessa aldehydit pelkistyvät vastaavaksi primääriseksi alkoholiksi:
+  
+    
+      
+        R
+         
+        C
+        H
+        O
+        +
+        
+          H
+          
+            2
+          
+        
+         
+        R
+         
+        C
+        
+          H
+          
+            2
+          
+        
+        O
+        H
+      
+    
+    \rightarrow R-CH_
+  
+Vesikin voi vesiliuoksessa liittyä aldehydin karbonyyliryhmään, mutta tällöin on kyseessä tasapainoreaktio. Tässä reaktiossa syntyvässä aldehydin hydraatissa on samaan hiiliatomiin sitoutuneena kaksi hydroksyyliryhmää , esimerkiksi asetaldehydin hydraatissa: CH3  CH2. Tällaisesta hydraatista vesi lohkeaa myös esimerkiksi tislattaessa. 2   Koska vesi irtoaa hydraatista helposti ja liuos sisältää aina myös vapaata aldehydiä, nämä hydraatit reagoivat aldehydien tavoin, minkä vuoksi niitä ei niissä esiintyvistä hydroksyyliryhmistä huolimatta pidetä alkoholeina. 2 
+Jos kuitenkin aldehydin  -hiileen liittyvät vetyatomit on korvattu jollakin voimakkaasti elektroneja vetävällä substituutilla, aldehydin hydraatti on kestävä. Sellainen on esimerkiksi kloraalihydraatti CCl3   CH2. Siitä vesi ei lohkea spontaanisti, mutta se voidaan irrottaa ja aldehydi, kloraali, vapauttaa esimerkiksi väkevän rikkihapon avulla. 2 

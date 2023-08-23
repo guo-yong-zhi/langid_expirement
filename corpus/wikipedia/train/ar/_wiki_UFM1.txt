@@ -1,0 +1,12 @@
+1WXS, 5HKH
+• ‏GO:0001948، ‏GO:0016582 ربط بروتيني
+• سيتوبلازم• نواة• شبكة إندوبلازمية
+• regulation of intracellular estrogen receptor signaling pathway• protein K69-linked ufmylation• response to endoplasmic reticulum stress• protein ufmylation• negative regulation of apoptotic process• brain development
+P61960H0Y614
+P61961
+‏NM_001286703، ‏NM_001286704، ‏NM_001286705، ‏NM_001286706، ‏NM_016617، ‏NR_104584 NR_104585، ‏NM_001286703، ‏NM_001286704، ‏NM_001286705، ‏NM_001286706، ‏NM_016617، ‏NR_104584
+NM_026435
+‏NP_001273633، ‏NP_001273634، ‏NP_001273635، ‏NP_057701 NP_001273632، ‏NP_001273633، ‏NP_001273634، ‏NP_001273635، ‏NP_057701
+NP_080711
+UFM1‏  هوَ بروتين يُشَفر بواسطة جين UFM1 في الإنسان. 1  2  2 
+هذه بذرة مقالة عن جين على كروموسوم 13 بحاجة للتوسيع. فضلًا شارك في تحريرها.

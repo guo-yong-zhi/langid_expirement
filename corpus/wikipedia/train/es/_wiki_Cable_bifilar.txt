@@ -1,0 +1,14 @@
+
+Un cable bifilar es una línea de transmisión en la cual la distancia entre dos conductores paralelos es mantenida constante gracias a un material dieléctrico. El mismo material que mantiene el espaciado y el paralelismo entre los conductores sirve también de vaina.
+La impedancia característica del cable bifilar depende exclusivamente del dieléctrico, del diámetro de los conductores y de la distancia entre ellos. La impedancia es mayor cuanto más aumenta la distancia entre conductores.
+Los cables bifilares tienen un coeficientes de velocidad que depende del dieléctrico de la cinta. 
+Otro parámetro importante de una línea bifilar es la constante de atenuación, expresada en dB/m, que describe la pérdida de potencia transmitida por metro lineal de cable.
+Los cables bifilares perfectos no irradian, ya que los campos magnéticos de los conductores paralelos son de sentido opuesto; al cancelarse, no emiten radiación electromagnética.
+La fórmula para calcular la impedancia de cables desnudos :
+La fórmula para calcular la distancia entre conductores de una línea escalera es:
+Donde:
+La relación entre S y d es un número adimensional, por lo tanto, sus unidades deben ser las mismas.
+Los cables bifilares son utilizados como líneas de transmisión simétricas entre una antena, y un transmisor o receptor. Su principal ventaja reside en que las líneas de transmisión simétricas tienen pérdidas un orden de magnitud menores que las líneas de transmisión coaxiales. 
+Los cables bifilares a dieléctrico sólido sufren cambios en su impedancia cuando se deposita hielo o lluvia sobre ellos. Para evitar la influencia de estos cambios meteorológicos, algunos modelos presentan agujeros en el dieléctrico, lo que equivale a reemplazarlo por aire como dieléctrico. Esto aumenta el coeficiente de velocidad, y disminuye la sensibilidad a los cambios de impedancia; se las llama "líneas escalera".
+Los cables bifilares no son líneas paralelas perfectas. Por esa razón, los objetos vecinos influyen en la propagación de la señal en la línea.
+El dieléctrico sólido tiene pérdidas, que se agregan a la resistencia óhmica de los conductores y a las pérdidas por radiación.

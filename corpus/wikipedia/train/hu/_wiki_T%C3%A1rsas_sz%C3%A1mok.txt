@@ -1,0 +1,80 @@
+Pontosságellenőrzött
+A társas számok vagy társasági számok  olyan pozitív egész számok, melyek osztóösszeg-sorozatában osztóösszeg-kör található; tehát az elejétől kezdve állandóan egy periódus ismétlődik. A társas számok a tökéletes számok és barátságos számok általánosításának tekinthetők. Az első két társasszám-láncot 1918-ban Paul Poulet belga matematikus találta meg és nevezte el. Társas számok adott láncolatában minden szám előáll az előző szám valódi osztóinak összegeként. Ahhoz, hogy a szám társas legyen, a sorozatnak az elejétől kezdve ciklikusnak kell lennie, tehát vissza kell térnie a kiindulópontjához.
+A sorozat periódusa vagy a társas számok halmazának rendje a ciklusban található különböző számok száma.
+Ha a sorozat periódusa 1, 1 rendű társas számról vagy tökéletes számról beszélünk – például a 6 valódi osztói 1, 2 és 3, melyek összege 6-ot eredményez. A barátságos számpárok esetében a társas számok halmazának a rendje 2. Nem ismertek 3-adrendű társas számok.
+Nyitott kérdés, hogy vajon minden szám osztóösszeg-sorozata egy társas szám alkotta körben vagy egy prímszámban  végződik, vagy léteznek olyan számok, melyek sorozata soha nem áll meg és nem is periodikus .
+Példa egy 4 periódusú társas számra:
+A következő táblázat összefoglalja a 2015 novemberében ismert társas számokat osztóösszeg-körük hossza alapján:
+hossza
+száma
+Az osztóösszeg-sorozat megjeleníthető irányított gráfként. Tartozzon az 
+  
+    
+      
+        n
+      
+    
+    
+  
+ egész számhoz 
+  
+    
+      
+        
+          G
+          
+            n
+            ,
+            s
+          
+        
+      
+    
+    }
+  
+ irányított gráf, ahol 
+  
+    
+      
+        s
+        
+      
+    
+    
+  
+ jelöli 
+  
+    
+      
+        k
+      
+    
+    
+  
+ valódi osztóinak összegét. 2 
+Ekkor a 
+  
+    
+      
+        
+          G
+          
+            n
+            ,
+            s
+          
+        
+      
+    
+    }
+  
+ gráfban található körök asz 
+  
+    
+      
+        
+      
+    
+    
+  
+ intervallumban található társas számokat jelölik. A hurkok tökéletes számokat jelölnek, a kettő hosszúságú körök pedig barátságos számokat.

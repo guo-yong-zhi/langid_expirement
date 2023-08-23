@@ -1,0 +1,2 @@
+Spójna składowa grafu nieskierowanego G – spójny podgraf grafu G nie zawarty w większym podgrafie spójnym grafu G.
+Innymi słowy spójna składowa grafu jest to taki podgraf, który można ‘wydzielić’ z całego grafu bez usuwania krawędzi. Graf spójny ma jedną spójna składową. Dla przykładu, w lesie spójnymi składowymi są drzewa.

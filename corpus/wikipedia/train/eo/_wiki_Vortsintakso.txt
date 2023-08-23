@@ -1,0 +1,9 @@
+Lingvo - Lingvistiko - Gramatiko - Sintakso
+	:Adjektiva epiteto 
+	:Apozicio
+		:Ekvivalento
+		:Nominacio 
+	:Suplemento 
+		:Suplemento de aĵ-substantivo 
+		:Suplemento de ad-substantivo
+Se vi korektis unu el la menciitaj mankoj, bonvolu forigi la koncernan parametron de la ŝablono }. Detaloj estas en la dokumentado.

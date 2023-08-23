@@ -1,0 +1,79 @@
+Levi-Civita-symbolet er et matematisk objekt som ofte opptrer i sammenheng med determinanter og antisymmetriske tensorer. Det omtales også som permutasjonssymbolet og angir fortegnet til en permutasjon av de naturlige tallene 1,2,3, ..., N. For hver verdi av N finnes et slikt symbol. Navnet er forbundet med den italienske matematiker Tullio Levi-Civita som var en av grunnleggerne av tensoranalysen.
+Levi-Civita-symbolet kan defineres som en tensor   av rang n som er antisymmetrisk i alle sine indekser. Dets komponenter kan derfor skrives som  i1i2 ... in og oppfyller betingelsen
+for hvert ombytte av to vilkårlige indekser. 1  Hvis to eller flere av dem er like, har derfor symbolet verdien null. Antall komponenter som er forskjellig fra null, vil da være n!. De kan alle finnes fra
+hvor p kalles «pariteten» til permutasjonen av indeksene og  p er dens fortegn. Den absolutte verdien av symbolet er dermed gitt ved ε12…n  som vanligvis velges å ha verdien +1. Med dette valget vil
+når man benytter Einsteins summekonvensjon og summerer over alle par med like indekser.
+En determinant er antisymmetrisk i ethvert ombytte av to rader eller to kolonner. Determinanten til en n   n matrise A med elementer Aij kan derfor skrives på en kompakt form ved bruk av Levi-Civita-symbolet. 2  Da er den gitt som
+eller kan finnes fra den ekvivalente formen
+når man igjen summerer over alle par med like indekser.
+Betegnelsen «det n-dimensjonale Levi-Civita-symbolet» refererer til antall indekser som symbolet har. Den definerer samtidig dimensjonen til vektorromet eller mangfoldigheten hvor symbolet benyttes. Dets detaljerte egenskaper avhenger av denne dimensjonen.
+Når antall dimensjoner er n = 2, har symbolet bare to komponenter ε12 = 1 og ε21 = -1 som er forskjellig fra null. Det kan derfor representeres ved  matrisen
+Komponentene oppfyller nå den viktige likheten
+hvor Kronecker-symbolet  ij opptrer på høyre side.  Den får bare bidrag når i ≠ j and m ≠ n og må være antisymmetrisk i disse to indeksparene. Setter man m = i, blir dermed εij εin =  jn. Dermed er εij εij  =  jj = 2 som forventet i n = 2 dimensjoner.
+Resultatet for produktet av to Levi-Civita-symbol kan skrives på den ekvivalente formen
+På denne formen kan resultatet generaliseres til å gjelde for et vilkårlig antall indekser.
+Levi-Civita-symbolet i to dimensjoner benyttes spesielt i forbindelse med Weyl-spinorer som har to komponenter. De spiller en fundamental rolle i moderne teorier med supersymmetri. 3  Tidligere ble slike spinorer benyttet til å beskrive masseløse nøytrinoer.
+Med tre indekser har symbolet 3! = 6 komponenter som er forskjellig fra null. De kan alle finnes fra  123 = 1. Ved ombytte av indekser finner man da   213 = -1 og  231 = 1. De tre like komponentene  123 =  231 =  312 = 1 fremkommer ved syklisk ombytte av indeksene  i positiv retning, mens de tre odde komponentene  132 =  321 =  213 = -1 finnes  ved det tilsvarende ombytte i motsatt retning.
+Levi-Civita-symbolet i tre dimensjoner kan brukes til å forenkle mange beregninger i vektoranalysen. 2  Kryssproduktet av to vektorer u =  og  v =  er antisymmetrisk og kan nå skrives på den kompakte formen
+ved bruk av Einsteins summekonvensjon. Det skalare trippelproduktet mellom tre vektorer u, v and w blir dermed
+Mer kompliserte vektorprodukt kan forenkles ved å bruke at
+som følger fra det generelle produktet
+For eksempel, det  vektorielle trippelproduktet reduseres til
+Resultatet er antisymmetrisk i vektorene v og w som det skal være.
+På samme måte finner man for vektorproduktet av fire vektorer,
+når man benytter at ei el =  il  og summerer over alle like par med indekser. Tilsvarende forenklinger kan gjøres i vektoranalysen som involverer nabla-operatoren.
+I et firedimensjonalt, euklidsk rom har Levi-Civita-symbolet 4! = 24 komponenter som ikke er null. De kan alle bestemmes fra konvensjonen  1234 = 1. Men i dette tilfellet er ikke verdien uforandret under syklisk ombytte. For eksempel blir  4321 = -  3214 =  -  2134 =   1234 = 1, mens  4123 = -  1234 = - 1.
+Symbolet benyttes også i relativistisk fysikk som finner sted i et firedimensjonalt Minkowski-rom med koordinater x  =  hvor c er lyshastigheten og en diagonal metrikk med komponentene   00 = +1 og   11 =  22 =  33 = - 1. Sammen med de kontravariante komponentene     =  kan den benyttes til å heve og senke indekser. Hvis man i dette Minkowski-rommet nå definerer  0123 = + 1, vil dette Levi-Civitas-symbolet ha de kontravariante komponentene
+som gir  0123 = - 1 og på samme måte for alle andre komponenter med hevete indekser.
+Herav kan man så utlede nyttige identiteter mellom produkter av symbolet. Av størst viktighet er
+som ved kontraksjon mellom indeksene   og   gir
+En videre kontraksjon mellom   og   gir da som forventet
+da  
+  
+    
+      
+        
+           
+          
+            
+             
+          
+          
+             
+          
+        
+        =
+        4
+      
+    
+    ^
+  
+ i fire dimensjoner.
+Dette Levi-Civita-symbolet opptrer også i relativistisk kvantemekanikk når man foretar beregninger som involverer Dirac-matrisene 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+      
+    
+    }
+  
+ og
+Når man regner ut trasen  til et produkt av slike matriser, kan man da benytte at
+Slike utregninger opptrer spesielt når partiklene som Dirac-ligningen beskriver, har retning på spinnet som er kjent eller skal måles. 4 
+Determinanten til en N   N matrise A =  kan uttrykkes ved hjelp av Levi-Civita symbolet. Det betyr at man i alminnelighet har
+Hvis man i et N-dimensjonalt euklidsk rom med kartesiske koordinater xm  innfører krumlinjete koordinater ved koordinattransformasjonen xm = xm, er elementene til transformasjonsmatrisen A
+Levi-Civita-symbolet i dette mer mer generelle koordinatsystemet vil da måtte oppfylle ligningen 1 
+Den viser at det transformerer som en fullstendig antisymmetrisk tensor av rang N under et slikt skifte av koordinater når man ser bort fra determinanten det til transformasjonsmatrisen. Men den kan beregnes fra den nye metrikken
+hvor metrikken i det kartesiske koordinatsystemet er gitt ved Kronecker-delta som gmn =  mn. Herav følger derfor at determinanten g = det  er gitt som kvadratet av det. Definerer man derfor størrelsen
+vil den transformere som en vanlig tensor. Dette er Levi-Civita-tensoren som er fullstendig antisymmetrisk i alle indeksene og med den spesielle verdien
+i et generelt koordinatsystem hvor g er determinanten til metrikken for disse koordinatene.
+Fra disse antisymmetriske tensorkomponentene kan man konstruere en differensiell N-form
+som ofte blir omtalt som volumformen 5 . Det kan man se når man for eksempel benytter kulekoordinater i tre dimensjoner
+Da blir denne 3-formen
+og har størrelsen dV = r 2 sin  dr d  d   som er det vanlige volumelementet i dette koordinatsystemet.

@@ -1,0 +1,2 @@
+Miðflóttaafl eða miðflóttakraftur kallast gagnkraftur miðsóknarkrafts, sem saman halda hlutum á hringhreyfingu. Í jafnri hringhreyfingu eru þessir tveir kraftar alltaf jafn stórir, en með gagnstæðar stefnur. 
+Í hnitakerfum, sem ekki eru tregðukerfi, birtist miðflóttaafl gjarnan sem gervikraftur.

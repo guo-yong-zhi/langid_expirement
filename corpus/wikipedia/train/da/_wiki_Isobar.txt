@@ -1,0 +1,5 @@
+En isobar er en linje  gennem de steder, hvor der hersker samme lufttryk.
+Det vil sige at under Idealgasligning, er p  konstant, og derved kan man udlede at et udført arbejde  er givet ved
+Desuden er Energien Q givet ved:
+eller omskrevet:
+hvor at n er gasmængden målet i si-enheden mol, Cmp er den specifikke molære varmekapacitet ved konstant tryk.

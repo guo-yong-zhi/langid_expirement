@@ -1,0 +1,61 @@
+Hiukkashorisontti tarkoittaa kosmologiassa rajaa, jota kauempaa havaitsija ei ole voinut havaita kaikkeuden olemassaolon aikana. Nimi tulee siitä, että se määritellään sen mukaan, mikä on pisin etäisyys, mistä  hiukkanen on voinut matkata havaitsijan havaittavaksi.
+Mukana liikkuvan etäisyyden mukaan hiukkashorisontti on aika 
+  
+    
+      
+        
+           
+          
+            0
+          
+        
+      
+    
+    }
+  
+, joka on kulunut alkuräjähdyksestä, kertaa valonnopeus 
+  
+    
+      
+        c
+      
+    
+    
+  
+.  
+  
+    
+      
+        
+           
+          
+            0
+          
+        
+      
+    
+    }
+  
+ on
+missä 
+  
+    
+      
+        a
+        
+      
+    
+    
+  
+ on skaalatekijä Fridmanin–Lemaîtren–Robertsonin–Walkerin metriikassa ja alkuräjähdys tapahtui hetkellä 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    
+  
+.  

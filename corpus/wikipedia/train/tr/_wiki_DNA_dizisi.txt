@@ -1,0 +1,18 @@
+DNA dizisi veya genetik dizi, gerçek veya hayalî bir DNA molekülü veya ipliğinin birincil yapısına karşılık gelen harfler dizisidir.
+Bu dizide bulunan harfler A, C, G, ve T 'dir, bunlar DNA ipliğinde bulunan adenin, sitozin, guanin, ve timin adlı dört bazı temsil eder. Tipik olarak bu diziyi oluşturan harfler birbirine bitişik olarak, aralarda boşluk olmaksızın yazılır, örneğin AAAGTCTGAC gibi; bu dizinin soldan sağa okunuşu 5'-3' doğrultusuna karşılık gelir.
+Fonksiyona göre bir DNA dizisine anlamlı veya anti-anlamlı ve kodlayan veya kodlamayan olarak değinilebilir.
+Bir DNA molekülünün baz dizisinin okunmasına DNA dizilemesi denir.
+Özel durumlarda bir dizide A, T, C ve G dışında harfler bulunabilir. Bu harfler dizide belirsizlik olduğunu belirtmek için kullanılır. Saf ve Uygulamalı Kimya Uluslararası Birliği 'nin bu amaç için belirlemiş olduğu sembollerin anlamları  şöyledir: 1 
+Yukarıda belirtilen belirsizlik sembolleri başlıca iki durumda kullanılır:
+DNA dizilerinin biyoenformatik programları tarafından okunması için belli standart formatlar oluşmuştur. Örneğin bunların en yaygını olan FASTA formatında birinci satır bir ">" sembolünü takibeden bir başlık içerir, onu izleyen satırlarda ise DNA dizisi yer alır. 2  Örneğin:
+ >gi|14456711|ref|NM_000558.3| Homo sapiens hemoglobin, alpha 1 , mRNA
+ACTCTTCTGGTCCCCACAGACTCAGAGAGAACCCACCATGGTGCTGTCTCCTGCCGACAAGACCAACGTC
+AAGGCCGCCTGGGGTAAGGTCGGCGCGCACGCTGGCGAGTATGGTGCGGAGGCCCTGGAGAGGATGTTCC
+TGTCCTTCCCCACCACCAAGACCTACTTCCCGCACTTCGACCTGAGCCACGGCTCTGCCCAGGTTAAGGG
+CCACGGCAAGAAGGTGGCCGACGCGCTGACCAACGCCGTGGCGCACGTGGACGACATGCCCAACGCGCTG
+TCCGCCCTGAGCGACCTGCACGCGCACAAGCTTCGGGTGGACCCGGTCAACTTCAAGCTCCTAAGCCACT
+GCCTGCTGGTGACCCTGGCCGCCCACCTCCCCGCCGAGTTCACCCCTGCGGTGCACGCCTCCCTGGACAA
+GTTCCTGGCTTCTGTGAGCACCGTGCTGACCTCCAAATACCGTTAAGCTGGAGCCTCGGTGGCCATGCTT
+CTTGCCCCTTGGGCCTCCCCCCAGCCCCTCCTCCCCTTCCTGCACCCGTACCCCCGTGGTCTTTGAATAA
+AGTCTGAGTGGGCGGC
+</pr

@@ -1,0 +1,6 @@
+Kombinatoriko esas brancho di pura matematiko qua studias la figurizi di finita kolekti di objekti o la kombini di finita ensembli, e la kontado.
+En partikulara c interas su ad metodi permizinta kontar l'elementi en finita ensembli  ed ad la sercho di optima en la figurizi tale lua existo .
+Kombinatoriko komencas dum 17ma yarcento, dume probableso-kalkulo. Origine ta parto di matematiko pri la solvuro di kontado-problemi, de la studio di hazardo-ludo. Pose ulo ligis su ad nombri-teorio e grafi.
+Yen kelka exempli di situesi pri kombinatoriko:
+Terminas per questiono. Quanta posibla ordinadi de 52 lud-karti?
+Ti nombro esas egala ye 52! , proxim 8,065817517094 .10 67.

@@ -1,0 +1,2 @@
+Línurit  er myndræn framsetning tölulegra gagna. Sýna má feril falls, eða ofanvarpið, á tvívíða sléttu, en einnig má sýna tölfræðigögn í línuriti. Línurit er oftast teiknað í kartesísku  hnitakerfi fyrir tiltekið bil og sýnir í reynd tvenndirnar , þar sem x er stak í formengi falls f, en y = f er tilsvarandi stak í varpmenginu.
+Sýna má feril falls í línuriti.

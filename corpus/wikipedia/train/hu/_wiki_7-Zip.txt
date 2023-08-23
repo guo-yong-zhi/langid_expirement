@@ -1,0 +1,12 @@
+Pontosságellenőrzött
+➔ Vissza a 7-Zip szócikkhez
+A 7-Zip egy fájltömörítő és -archiváló program Microsoft Windows operációs rendszerhez. Létezik hozzá parancssoros és grafikus felhasználói felület is. Képes beépülni a Windows Intézőbe. A 7-Zip ingyenes program, LGPL licenccel. Fő versenytársai a piacvezető WinZip és WinRAR programok, mindkettő zárt forráskódú alkalmazás. Létezik 32 és 64 bites verziója is. A p7zip egy Unix-szerű rendszereken  futó portja.
+A projekt 1999-ben kezdődött, a legutolsó stabil verzió a 19.00, amit 2019-02-21 adtak ki. Gyakran tesznek elérhetővé bétaverziókat a programból. A program fájlkezelőként is használható.
+A 7-Zip program vezette be a 7z fájlformátumot, de jó néhány más formátumot is támogat.
+Alapértelmezésben a program 7z archívumokat készít, .7z kiterjesztéssel, amiben az LZMA algoritmust használja tömörítésre. Ez a viszonylag új fájlformátum nagy tömörítési arányt képes elérni, hasonlóan más népszerű, ám nem csak szabadon használható algoritmusokra épülő formátumokhoz, mint például a  RAR.
+A 7z fájlok MIME-típusa: application/x-7z-compressed.
+A 7-Zip program támogat a 7z-n kívül számos más archív formátumot, köztük a ZIP, Microsoft cabinet  fájlok, RAR, ARJ, gzip, bzip2, LHA, tar, CPIO, RPM és Debian deb fájlokat. A 4.42-es verzióban a 7-Zip már támogatja a CD/DVD ISO képfájlokat is.
+A 7-Zip meg tud nyitni más formátumokat is, ha azok olyan tömörítési metódust használnak, amit a szoftver egyébként támogat. Például képes megnyitni MSI fájlokat, amik az MSI által telepítendő fájlokat tartalmazzák . Így a 7-Zip akkor is jó szolgálatot tehet, ha meg szeretnénk vizsgálni, egy fájl vajon archívum-e.
+A ZIP és gzip tömörítés során a 7-Zip a DEFLATE algoritmus egy módosított változatát használja, ami a jobb tömörítésre van kihegyezve a sebesség rovására. Ezt az implementációt használja az AdvanceCOMP eszközkészlet is.
+A natív 7z fájlformátum egy nyílt, moduláris architektúra, ami lehetővé teszi akár fájlonként különböző tömörítési algoritmusok használatát. A fájlneveket Unicode kódolással tárolja.
+A 7-Zip számos funkciót tartalmaz, melyek közül nem mindegyik található meg a népszerű kereskedelmi archiváló programokban.

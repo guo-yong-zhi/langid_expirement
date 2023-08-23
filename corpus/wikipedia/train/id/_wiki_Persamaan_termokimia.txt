@@ -1,0 +1,6 @@
+
+Persamaan termokimia — Pada suhu 0 °C dan tekanan 1 atm,es meleleh membentuk air yang mencair. hasil pengukuran menunjukkan bahwa untuk setiap mol es yang diubah menjadi cair pada keadaan ini,sejumlah 6,01 kilojoule  energi diserap oleh sistem . karena ΔH bernilai positif,perubahan ini merupakan proses endotermik,seperti yang diharapkan untuk pelelehan es yang menyerap energi. persamaan untuk perubahan fisika ini adalah
+H2O  →H2O ΔH = 6,01 kJ
+sebagai contoh lain, perhatikan pembakaran metana ,komponen utama gas
+CH4 + 2O2 →CO2 + 2H2O ΔH = -890,4 kJ
+berdasarkan pengamatan diatas bahwa pembakaran gas alam melepaskan kalor ke lingkungannya,sehingga prosesnya eksotermik dan ΔH harus bernilai negatif. persamaan untuk pelelehan es dam pembakaran metana adalah contoh-contoh persamaan termokimia ,yang menunjukkan perubahan entalphi sekaligus hubungan massa. 1 

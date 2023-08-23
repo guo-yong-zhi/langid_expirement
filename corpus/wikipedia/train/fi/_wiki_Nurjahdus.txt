@@ -1,0 +1,14 @@
+Nurjahdus on rakenteen huomattavan suuri poikittaisliike kuormituksen  suuntaan nähden. 1 
+Lyhyillä puristussauvoilla nurjahdusongelma on vähäinen mutta nurjahdus tulee ottaa huomioon pitkillä sauvoilla. Silloin sauvan geometria sekä materiaalin elastisuus tulevat merkittäviksi tekijöiksi ja nurjahdus voi tapahtua materiaalin myötörajaa alemmassa jännityksessä. Painamalla sormin tavallista luottokorttia sen päistä, voi nähdä miten luottokortti nurjahtaa. 2  Rakenne on nurjahduksen suhteen stabiili, kun sitä kuormittava voima on pienempi kuin nurjahdusvoima. Rakenne on nurjahduksen suhteen epästabiili, kun kuormittava voima on suurempi kuin nurjahdusvoima. Ohuet palkit saatetaan joutua mitoittamaan nurjahduksen perusteella paksummiksi kuin materiaalin jännityksiin tai muodonmuutoksiin perustuva mitoitus muuten määräisi.
+Keksijänsä, Leonhard Eulerin mukaisesti nimettyjä nurjahdustapauksia on neljä erilaista. Niistä kuhunkin liittyy eri suuruinen nurjahduskerroin µ  ja nurjahduspituus Ln :
+missä 
+  
+    L
+    L
+  
+ = sauvan geometrinen pituus
+Nurjahdusvoima voidaan kullekin tapaukselle laskea kaavasta: 3 
+tai
+missä
+Nurjahdusjännitys voidaan laskea kaavasta:
+missä

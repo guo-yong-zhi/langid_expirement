@@ -1,0 +1,15 @@
+Teriflunomid  je aktivni metabolit leflunomida. 1  Kao leflunomid, on se koristi za reumatoidni artritis. 2  3  Teriflunomid se ispituje u Fazi III kliničkih ispitivanja TEMSO kao medikacija za multiplu sklerozu . Studija se očekuje da traje do Oktobra 2010. 4 
+Teriflunomid je imunomodulatorni lek koji inhibira pirimidin de novo sintezu putem blokiranja enzima dihidroorotat dehidrogenaze. Nije poznato da li to objašnjava njegov efekat na MS ozlede. 5 
+Teriflunomid inhibira brzu deobu ćelija, uključujući aktivirane T ćelije, za koje se misli da rukovode procesom MS bolesti. Teriflunomid maže umanjiti rizik od infekcija u poređenju sa hemoterapijskim lekovima, zato što su njegovi efekti ograničeni na imuni system. 6 
+Ustanovljeno je da teriflunomid blokira transkripcioni faktor NF-κB. On isto tako inhibira tirozin kinaza enzime, ali samo u visokim dozama koje nisu u kliničkoj upotrebi. 7 
+→↔
+Struktura koja je rezultat otvaranja prstena se može prelaziti između E i Z enolne forme , od kojih je Z enol stabilniji, i zato je to predominantna forma.
+inhibitor sinteze pirimidina: Leflunomid    Teriflunomid
+Interferon 
+IL-6 
+BLyS      CTLA-4     CAT     Integrin     Interleukin-6 receptor     LFA-1 
+IL-2 receptor/CD25 
+M: LMC
+ćelije/fis/auag/auab
+imdf/ipig/hyps/tumr
+proc, lek 

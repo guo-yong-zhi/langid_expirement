@@ -1,0 +1,5 @@
+
+Panicovirus is a genus of viruses, in the family Tombusviridae. Panicae serve as natural hosts. There are three species in this genus. Diseases associated with this genus include: systemic mosaic. 1  2 
+The genus contains the following species: 2 
+Viruses in Panicovirus are non-enveloped, with icosahedral and  Spherical geometries, and T=3 symmetry. The diameter is around 28-34 nm. Genomes are linear, around 4-5.4kb in length. 1 
+Viral replication is cytoplasmic. Entry into the host cell is achieved by penetration into the host cell. Replication follows the positive stranded RNA virus replication model. Positive stranded RNA virus transcription, using the premature termination model of subgenomic RNA transcription is the method of transcription. Translation takes place by suppression of termination. The virus exits the host cell by tubule-guided viral movement. Panicae serve as the natural host. Transmission routes are mechanical, seed borne, and contact. 1 

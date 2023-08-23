@@ -1,0 +1,14 @@
+Drużyna pociągowa – zespół pracowników obsługujących pociąg .
+Drużyna pociągowa może obejmować drużyny trakcyjną i konduktorską lub tylko samą drużynę trakcyjną.
+Zgodnie z instrukcją ruchu Ir-1 , regulującą prowadzenie ruchu pociągów na sieci kolejowej zarządzanej przez PKP Polskie Linie Kolejowe:
+Pociągi pasażerskie powinny mieć obsadę konduktorską składającą się co najmniej z kierownika pociągu, o ile jego zadania ruchowe nie są wykonywane przez innego pracownika lub przez urządzenia wyposażenia technicznego. Pociągi pasażerskie mogą jeździć bez kierownika pociągu, jeżeli zamykanie drzwi pojazdu kolejowego przy wymianie podróżnych jest zapewnione, a zamknięcie drzwi jest sygnalizowane kierującemu pojazdem kolejowym z napędem za pomocą urządzeń technicznych.
+Drużyna bez kierownika pociągu podporządkowana jest poleceniom maszynisty oraz dyspozytora. W sytuacji takiej, funkcje ruchowe kierownika pociągu przejmuje maszynista, natomiast zadania handlowe przejmują najczęściej automaty i/lub bramki  biletowe oraz wyrywkowa kontrola biletów prowadzona podobnie jak w komunikacji komunalnej.
+O ile istnieje, w skład drużyny konduktorskiej odpowiadającej za obowiązki handlowo-przewozowe  wchodzą:
+Kierownik pociągu w czasie jazdy pociągu powinien przebywać w wagonie lub przedziale służbowym, który przeważnie znajduje się w pierwszym wagonie klasy drugiej licząc od czoła pociągu. Jeżeli nie ma przedziału służbowego , kierownik pociągu zajmuje pierwsze miejsce za aktualnie czynną kabiną maszynisty. W trakcie wykonywania obowiązków służbowych , kierownik pociągu może chwilowo znajdować się w dowolnym miejscu składu. 
+Konduktorzy powinni znajdować się w wagonach  przydzielonych do obsługi przez kierownika pociągu. W czasie postoju pociągu konduktorzy znajdują się przy przydzielonych wagonach.
+W zależności od pociągu, w skład jego drużyny mogą wchodzić też inne osoby takie jak obsługa wagonu restauracyjnego lub pracownicy odpowiadający za bieżące utrzymanie czystości w pociągu.
+W skład drużyny trakcyjnej odpowiadającej za obowiązki techniczno-ruchowe wchodzi:
+Drużyna trakcyjna obejmuje pracowników stanowiących obsadę pojazdu trakcyjnego .
+W zależności od prędkości jazdy i wyposażenia pojazdu trakcyjnego w urządzenia kontrolujące czujność maszynisty oraz urządzenia radiołączności pociągowej drużyna trakcyjna może być jednoosobowa  lub dwuosobowa .
+Zagadnienia z zakresu techniczno-eksploatacyjnej obsługi pociągów oraz organizacji pracy, które nie są zawarte w innych instrukcjach właściwych dla danego rodzaju zagadnień, bądź przepisach ogólnych  regulują wewnętrzne instrukcje ustalane przez przewoźników.
+W przedsiębiorstwie PKP obowiązki drużyny pociągowej regulowała instrukcja H-21.

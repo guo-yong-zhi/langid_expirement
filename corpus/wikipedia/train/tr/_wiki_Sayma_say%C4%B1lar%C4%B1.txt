@@ -1,0 +1,21 @@
+Sayma sayıları, 1'den başlayarak sonsuza kadar olan tam sayılar kümesine verilen isimdir. Başka bir deyişle pozitif  doğal sayılar kümesi olarak da tanımlanabilir. Bu tanım, sıfır doğal sayı olarak kabul edildiğinde doğal sayılar kümesinden farklılık gösterir. Bu sayıları bazı nesneleri saymak ve sayısını belirlemek için kullanırız. . Sayma sayıları 
+  
+    
+      
+        
+          
+            N
+          
+          
+            +
+          
+        
+        =
+        
+          
+        
+      
+    
+     ^}
+  
+ şeklinde tanımlıdır ve sonsuza kadar devam eder.

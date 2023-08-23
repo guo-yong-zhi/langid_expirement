@@ -1,0 +1,30 @@
+Blockchain • Registru distribuit •
+Contract smart • Schimb atomic •
+Funcție hash criptografică •
+Fork •  Graf aciclic orientat • 
+• Proof-of-work • Proof-of-stake • Proof-of-space • Proof-of-authority • Mining pool 
+• Bitcoin
+• Ethereum
+• Tether
+• Cardano
+• Binance Coin
+• Ripple
+• Solana
+• USD Coin
+• Polkadot
+• Dogecoin
+• Initial coin offering • Monedă digitală 
+• Problema dublei cheltuieli • Guvernare electronică •
+Impermanent Loss • Bribe markets
+Optimistic rollups • Zero-Knowledge rollups • Sidechains • Validiums • Arbitrum • zkSync
+Finanțe descentralizate • Exchange descentralizat • Curve  • Lido • Aave • MakerDAO • Uniswap • Balancer • Convex • Frax •   Aura • Synthetix
+CoinMarketCap  • CoinGecko  • Defi-Llama  • Dune Dashboards
+Istoria monedei bitcoin 
+Legalitatea monedei bitcoin după țară sau teritoriu 
+Organizație Autonomă Descentralizată
+Registrul distribuit, în limba engleză  shared ledger sau distributed ledger technology  , este un tip de contabilitate digitală distribuită în care conturile financiare sunt înregistrate în mai multe registre în locuri diferite în același timp. Registrul distribuit este partajat de către mai mulți participanți la rețea  în așa fel încât să asigure siguranța registrului, protecția împotriva accesului neautorizat și sincronizarea stării actuale a registrului între toate nodurile. Copii ale registrului sunt stocate în rețea și actualizate în permanență pentru a fi identice. În acest fel, tranzacțiile pot fi verificate de orice membru al rețelei. DLT funcționează în rețeaua peer-to-peer, precum și algoritmi de consens pentru a asigura replicarea între noduri. 1 
+Înregistrarea este generată separat de fiecare nod din rețeaua distribuită. Distribuirea înregistrărilor pe rețea este unică, deoarece fiecare înregistrare din registre este generată autonom și salvată de fiecare nod fără instrucțiunile nodului principal.
+Registrele distribuite permit trimiterea digitală a activelor evaluate, fără o autoritate centrală, un intermediar sau orice terță parte implicată, deoarece utilizatorii sunt cei care țin evidența și confirmă valabilitatea înregistrării.  2  3 
+Unele dintre cele mai populare protocoale de registru distribuit sunt Ethereum, Hyperledger Fabric, IOTA, R3 Corda, Hedera și Quorum. 4 
+Baza de date a registrului distribuit este răspândită în mai multe noduri dintr-o rețea peer-to-peer, unde fiecare replică își salvează o copie identică a registrului și se actualizează independent. Avantajul principal este lipsa autorității centrale. Când are loc o actualizare a registrului, fiecare nod construiește noua tranzacție, iar apoi nodurile votează prin algoritm de consens. Un DLT poate obține un consens fără a fi necesar să se valideze întregul blockchain. Odată ce s-a stabilit un consens, toate celelalte noduri se actualizează cu noua copie corectă a registrului. Securitatea se realizează prin chei și semnături criptografice. 
+Există câteva tipuri diferite de tehnologii de registru distribuit:

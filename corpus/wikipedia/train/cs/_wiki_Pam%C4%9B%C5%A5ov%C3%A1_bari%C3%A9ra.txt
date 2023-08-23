@@ -1,0 +1,13 @@
+Paměťová bariéra  je označení strojové instrukce procesoru realizující synchronizační bariéru. Její použití zaručuje, že instrukce pracující s pamětí uvedené před ní budou provedeny všechny dříve, než začne provádění instrukcí pracujících s pamětí, které jsou uvedeny za ní. V širším významu může paměťová bariéra znamenat i zvláštní příkaz pro překladač, aby patřičným způsobem zrealizoval překlad.
+Motivací pro vznik této instrukce jsou jednak překladače a procesory umožňující přerovnání instrukcí za účelem efektivnějšího využití superskalárních procesorů, jednak souběžné programování, kdy se například dělí o přístup ke stejným datům několik vláken.
+Následující příklad představuje provázaný kód běžící na dvou procesorech se společnou pamětí, kde na počátku obsahují proměnné f i x hodnotu 0.
+Procesor #1:
+       while     ; 
+    // zde musí být paměťová bariéra 
+    print     x  ; 
+       x     =     23  ; 
+    // zde musí být paměťová bariéra 
+    f     =     1  ; 
+</prTeoreticky by se zdálo, že výsledkem může být pouze vypsání hodnoty 23, neboť dokud není do x dosazeno 23, není ani změněna hodnota f a tedy vlákno na procesoru #1 čeká. V případě procesoru nebo překladače přerovnavajícího instrukce, který „nevidí“ vztahy mezi oběma vlákny, může být nejdřív provedeno dosazení do f a až poté do x, nebo může být pro potřeby výpisu zjišťována hodnota x ještě před koncem čekání na změnu f, tedy následně vypsána hodnota stará.
+Na architektuře x86 je paměťová bariéra realizována instrukcí nazývanou v jazyce symbolických adres MFENCE s opkódem 0F AE F0, která je součástí dodatečné sady instrukcí SSE2 poprvé realizované v procesorech Pentium 4 v roce 2000.
+V tomto článku byl použit překlad textu z článku Memory barrier na anglické Wikipedii.

@@ -1,0 +1,194 @@
+Die Legierungsverbreiterung  bezeichnet eine durch die statistische Verteilung der Legierungspartner hervorgerufene Verbreiterung von Lumineszenzlinien von Legierungen. 1 
+Die Legierungsverbreiterung ist eine der Linienverbreiterungen. Die statistische Verteilung der Legierungspartner führt lokal zu einer unterschiedlichen Materialzusammensetzung, was bei Halbleitermaterialien und Isolatoren eine lokale Variation der Bandlücke zur Folge hat. Aus diesem Grund führt die Exzitonenrekombination, je nachdem in welcher Materialumgebung sie stattfindet, zur Aussendung von Photonen mit unterschiedlicher Energie. Die Legierungsverbreiterung gehört daher zu den inhomogenen Linienverbreiterungen, was bedeutet, dass die Linienverbreiterung gaußförmig ist. Die Verbreiterung ist unabhängig vom Anregungsmechanismus.
+Diese Linienverbreiterung tritt nur bei Legierungen auf und ist in der Größenordnung von wenigen meV. In Festkörpern treten eine Vielzahl von Linienverbreiterungen auf. Bei hohen Temperaturen, dies können je nach Material schon Temperaturen um 20 K sein, wird die Legierungsverbreiterung von anderen Linienverbreiterungen überdeckt und spielt bei Raumtemperatur keinerlei Rolle.
+Die Legierungsverbreiterung wurde zum Beispiel bei der zweiatomigen Legierung 
+  
+    
+      
+        
+          
+            Si
+            
+              1
+              
+              
+                 
+              
+              x
+            
+            
+              
+            
+          
+          
+            Ge
+            
+              x
+            
+            
+              
+            
+          
+        
+      
+    
+    Ge_
+  
+ experimentell nachgewiesen. 2  Bei einer zweiatomigen Legierung vom Typ 
+  
+    
+      
+        
+          
+            Si
+            
+              1
+              
+              
+                 
+              
+              x
+            
+            
+              
+            
+          
+          
+            Ge
+            
+              x
+            
+            
+              
+            
+          
+        
+      
+    
+    Ge_
+  
+, befinden sich im Volumen 
+  
+    
+      
+        V
+      
+    
+    
+  
+ im Schnitt 
+  
+    
+      
+        x
+         
+        V
+         
+        n
+      
+    
+    
+  
+ Ge-Atome und 
+  
+    
+      
+        
+         
+        V
+         
+        n
+      
+    
+    
+  
+ Si-Atome. Dabei ist 
+  
+    
+      
+        n
+      
+    
+    
+  
+ die Teilchendichte, also die Anzahl der Atome pro Volumen. Die Wahrscheinlichkeit, im Volumen 
+  
+    
+      
+        V
+      
+    
+    
+  
+ genau 
+  
+    
+      
+        k
+      
+    
+    
+  
+ Ge-Atome zu zählen, ist durch die Binomialverteilung gegeben. Die Standardabweichung der Binomialverteilung ist
+wobei 
+  
+    
+      
+        N
+      
+    
+    
+  
+ die Gesamtzahl der Atome im Volumen 
+  
+    
+      
+        V
+      
+    
+    
+  
+ ist. Um die Änderung der Bandlückenenergie zu berechnen, ist man allerdings an 
+  
+    
+      
+         
+        x
+      
+    
+    
+  
+ interessiert. Es gilt
+Daraus folgt, dass
+ist. Für die Variation der Bandlückenenergie gilt daher:
+Da die Lumineszenz bei der Exzitonenrekombination auftritt, muss für 
+  
+    
+      
+        V
+      
+    
+    
+  
+ das Volumen eines Exzitons verwendet werden.
+Die Legierungsverbreiterung folgt einer Gaußverteilung, kann also mittels
+beschrieben werden, wobei 
+  
+    
+      
+        I
+        
+      
+    
+    
+  
+ die rein durch die Legierungsverbreiterung verbreiterte Lumineszenzintensität als Funktion der Lichtenergie 
+  
+    
+      
+        E
+      
+    
+    
+  
+ ist. Um die Legierungsverbreiterung zu untersuchen, muss das untersuchte Materialsystem bei tiefen Temperaturen  und geringen Ladungsträgerdichten untersucht werden.

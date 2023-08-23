@@ -1,0 +1,2 @@
+Intel 8020 je osembitový jednočipový mikropočítač firmy Intel patriaci do rodiny MCS-48. Obsahoval 24-bitový paralelný I/O port, 4 kB PROM programovej pamäte a 1 kB RAM dátovej pamäte. Jednu dobu bol súčasťou počítačov Vector .
+Tento článok je čiastočný alebo úplný preklad článku Intel 8020 na českej Wikipédii.

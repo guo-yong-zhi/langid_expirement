@@ -1,0 +1,17 @@
+SQL příkaz UPDATE upravuje data  v relační databázi. Může být upraven jediný záznam, nebo i více záznamů najednou. Upravené záznamy musí odpovídat definované podmínce.
+UPDATE má následující syntaxi:
+       UPDATE     <  tabulka  >    
+    SET     <  nazev_sloupecku  >     =     <  hodnota  >      
+      
+      
+       UPDATE     T     SET     C1     =     1     WHERE     C2     =      a  
+       UPDATE     T     SET     C1     =     C1     +     1     WHERE     C2     =      a  
+       UPDATE     T     SET     C3     =     CONCAT       WHERE     C2     =      a  
+    UPDATE     produkty     SET     cena_s_DPH     =     cena_bez_DPH     *     1  .  20  ; 
+    UPDATE     tabulka     SET     flags  =  flags  |  0  x80  ,     flags  =  flags  &~  0  x40  ,     cislo  =  flags  +  1     WHERE     id  =  123  ; 
+</prPokud je v daném záznamu tabulky je hodnota číselného sloupce flags rovna např. 127 , pak první přiřazení u něj nastaví bit č. 8 , druhá část příkazu vynuluje bit č. 6  a třetí část přiřadí sloupci cislo hodnotu tohoto již dvakrát změněného sloupce flags, navýšenou o jedničku .
+Pokud by například v poslední části příkazu byla syntaktická nebo jiná chyba , pak se příkaz UPDATE nespustí jako celek. Z tohoto úhlu pohledu je UPDATE atomická operace. To neplatí pro změnu více záznamů – pokud by například měnil data u 1000 záznamů a po 500. z nich by došlo k nějaké fatální chybě , prvních 500 záznamů by zůstalo změněných a druhá polovina nikoli.
+Většina databázových systémů umožňuje nastavit hodnotu určeného sloupce na výchozí hodnotu použitím klíčového slova DEFAULT. To reprezentuje jakoukoli výchozí hodnotu, která byla u daného sloupce nadefinována. Pokud definována nebyla, SŘBD se buď pokusí přiřadit prázdné řetězce pro textové sloupce a nuly pro sloupce číselné, nebo příkaz skončí chybovou hláškou ke změně hodnoty buňky vůbec nedojde. Hodnotu DEFAULT většina databázových systémů umožňuje použít i ve výrazu, většinou pro to ale nemá využití.
+U příkaz UPDATE může být elegantně omezen maximálním počtem záznamů, které mohou být příkazem změněny. Omezení se provede klíčovým slovem LIMIT. Po dosažení tohoto počtu změněných záznamů se příkaz ukončí. Pro jistotu, že nezměníme více než jeden záznam, můžeme za příkaz vložit LIMIT 1;. Pokud je záznam, který se má měnit, identifikován klausulí WHERE pomocí hodnoty primárního klíče , je automaticky zajištěno, že záznam bude změněn maximálně jeden, protože více záznamů se stejnou hodnotou klíče v tabulce existovat nemůže.
+Příkaz UPDATE může být též použit jako klausule u složené konstrukce INSERT…ON DUPLICATE KEY UPDATE…. V ní se v první řadě SŘBD snaží data vložit jako nový záznam, teprve v případě, že tento záznam existuje  provede nad tímto záznamem příkaz UPDATE.
+Příkaz UPDATE aktivuje před svým vykonáním trigger  definovaný s BEFORE UPDATE a po vykonání trigger s AFTER UPDATE. Toto samozřejmě platí, jsou-li příslušné spouště definovány.

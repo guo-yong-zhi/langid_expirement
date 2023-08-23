@@ -1,0 +1,7 @@
+JavaFX es una familia de productos y tecnologías de Oracle Corporation , para la creación de Rich Internet Applications , esto es, aplicaciones web que tienen las características y capacidades de aplicaciones de escritorio, incluyendo aplicaciones multimedia interactivas. Las tecnologías incluidas bajo la denominación JavaFX son JavaFX Script y JavaFX Mobile, aunque hay más productos JavaFX planeados.
+Las aplicaciones JavaFX pueden ser ejecutadas en una amplia variedad de dispositivos. En su versión  permite crear aplicaciones de escritorio, para celulares, la Web, TV, consolas de videojuegos, reproductores Blu-ray, entre otras plataformas planeadas. En octubre de 2011 fue lanzada la versión 2.0.
+Para el desarrollo de aplicaciones JavaFX un lenguaje declarativo, tipado llamado JavaFX Script, además puede integrarse código Java en programas JavaFX.
+JavaFX es compilado a código Java, por lo que las aplicaciones JavaFX pueden ser ejecutadas en computadores con la máquina virtual de Java instalada , o celulares corriendo Java ME.
+JavaFX fue anunciado en la de desarrolladores JavaOne en mayo de 2007 y liberado en diciembre de 2008. 
+La intención de Sun Microsystems respecto de JavaFX era competir en el espacio que ya ocupan Flash de Adobe, y Silverlight de Microsoft.
+En palabras de James Gosling "La mayoría de los lenguajes de script están orientados a las páginas web; éste está orientado a las interfaces que son altamente animadas". 

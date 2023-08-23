@@ -1,0 +1,26 @@
+
+Η sstream είναι μια πρότυπη βιβλιοθήκη της C++ η οποία ορίζει ροές αλφαριθμητικών δεδομένων στην μνήμη. Η βιβλιοθήκη αυτή διαβάζει χαρακτήρες από ένα αντικείμενο αλφαριθμητικών δεδομένων  και δημιουργεί μα ροή αλφαριθμητικών μέσα στην μνήμη όπου ο προγραμματιστής μπορεί να διαβάσει και να γράψει αλφαριθμητικά. Για να χρησιμοποιήσει ο προγραμματιστής την βιβλιοθήκη αυτή θα πρέπει να βάλει το αρχείο επικεφαλίδας <sstream> μέσα στο κώδικα. 1  2 .
+Στο παρακάτω πρόγραμμα η συνάρτηση file_to_str διαβάζει το εξωτερικό αρχείο που περνάει με παράμετρο μέσα σε ένα αντικείμενο-κλάση ροής δεδομένων εξόδου τύπου ostringstream. Καλώντας την μέθοδο str του ostringstream επιστρέφουμε ένα αντικείμενο αλφαριθμητικού τύπου string  5 :
+    #include     <string> 
+ #include     <fstream> 
+ #include     <sstream> 
+ #include     <iostream> 
+ using     namespace     std  ; 
+ string     file_to_str        
+      ostringstream     buf  ; 
+      char     ch  ; 
+      while     ) 
+          buf  .  put  ; 
+      return     buf  .  str  ; 
+ } 
+ int     main        
+    #include     <iostream> 
+ #include     <sstream> 
+   
+ using     namespace     std  ; 
+   
+ int     main        
+    #include     <sstream> 
+ using     namespace     std  ; 
+ int     main        
+</pr
