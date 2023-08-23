@@ -9,7 +9,7 @@ function normalize_text(text; blacklist=["wikipedia", "tatoeba"])
     end
     text = replace(text, r"\s\s+" => " ")
 end
-function ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8},Float64}())
+function ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8},Float32}())
     text = transcode(UInt8, string(text))
     for i in 1:length(text)-n+1
         p = text[i:i+n-1]
@@ -17,7 +17,7 @@ function ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8},Float64}())
     end
     counter
 end
-function merged_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8},Float64}())
+function merged_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8},Float32}())
     text = normalize_text(text)
     text = transcode(UInt8, string(text))
     for k in 1:n
@@ -31,7 +31,7 @@ end
 
 
 function dataset_ngrams(dataset, n)
-    counters = [Dict{Vector{UInt8},Float64}() for i in 1:n]
+    counters = [Dict{Vector{UInt8},Float32}() for i in 1:n]
     for (text, lang) in dataset
         text = normalize_text(text)
         for i in 1:n
@@ -42,7 +42,7 @@ function dataset_ngrams(dataset, n)
 end
 
 function merged_dataset_ngrams(dataset, n)
-    counter = Dict{Vector{UInt8},Float64}()
+    counter = Dict{Vector{UInt8},Float32}()
     for (text, lang) in dataset
         merged_ngrams(text, n, counter)
     end
@@ -69,14 +69,13 @@ function lcs(s1::AbstractString, s2::AbstractString)
 end
 function lcs_zip(str, refer) # `str` and `refer` must not contain any uppercase letters
     rg1, rg2 = lcs(refer, str)
-    if length(rg1) > 2
+    if length(rg1) > 2 || (length(rg1) == 2 && rg1[1] == 1)
         b1, e1 = first(rg1), last(rg1)
         b2, e2 = first(rg2), last(rg2)
         l1 = e1 - b1 + 1
         if b1 <= 26 && l1 <= 26
-            bc = Char(Int('A') + b1 - 1)
-            bc = bc == 'A' ? "" : bc
-            lc = Char(Int('A') + l1 - 1)
+            bc = b1 == 1 ? "" : 'A' + (b1 - 1)
+            lc = 'A' + (l1 - 1)
             str = string(str[1:b2-1], bc, lc, str[e2+1:end])
         end
     end
@@ -86,14 +85,14 @@ function lcs_unzip(str, refer)
     b2 = findfirst(r"[A-Z]", str)
     if b2 !== nothing
         b2 = first(b2)
-        b1 = Int(str[b2]) - Int('A') + 1
+        b1 = str[b2] - 'A' + 1
         e2 = b2 + 1
         if e2 > length(str) || !('A' <= str[e2] <= 'Z')
             e2 = b2
             l1 = b1
             b1 = 1
         else
-            l1 = Int(str[e2]) - Int('A') + 1
+            l1 = str[e2] - 'A' + 1
         end
         e1 = b1 + l1 - 1
         str = string(str[1:b2-1], refer[b1:e1], str[e2+1:end])
@@ -114,8 +113,7 @@ function dump_ngram_table(D, filename; head=nothing)
         for (k, v) in D
             @assert k isa Vector{UInt8}
             k = join(string.(k, base=16), "")
-            kz = replace(k, last_k => "+")
-            kz = lcs_zip(kz, last_k)
+            kz = lcs_zip(k, last_k)
             last_k = k
             write(f, kz)
             if last_v != v
@@ -136,9 +134,9 @@ function load_ngram_table(filename; head=true)
         el = eachline(f)
         if head
             l1 = first(el)
-            hd = parse.(Float64, split(split(l1, ":")[end], ","))
+            hd = parse.(Float32, split(split(l1, ":")[end], ","))
         end
-        D = Vector{Pair{Vector{UInt8},Float64}}()
+        D = Vector{Pair{Vector{UInt8},Float32}}()
         last_k = "###"
         last_v = 0.0
         last_vstr = string(last_v)
@@ -150,11 +148,10 @@ function load_ngram_table(filename; head=true)
                 kz, vstrz = kz_v
                 vstr = lcs_unzip(vstrz, last_vstr)
                 last_vstr = vstr
-                v = parse(Float64, vstr)
+                v = parse(Float32, vstr)
                 last_v = v
             end
-            k = replace(kz, "+" => last_k)
-            k = lcs_unzip(k, last_k)
+            k = lcs_unzip(kz, last_k)
             last_k = k
             @assert iseven(length(k))
             k = parse.(UInt8, Iterators.partition(string(k), 2), base=16)

@@ -6,7 +6,7 @@ function cutoff_at_ratio(D, r)
     findfirst(x -> x > r * cs[end], cs)
 end
 function count_ngrams(D)
-    counter = Float64[]
+    counter = Float32[]
     for (k, v) in D
         n = length(k)
         while length(counter) < n
