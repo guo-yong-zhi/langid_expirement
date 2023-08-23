@@ -100,14 +100,12 @@ function lcs_unzip(str, refer)
     str
 end
 
-function dump_ngram_table(D, filename; head=nothing)
+function dump_ngram_table(head::Vector{Float32}, D, filename)
     open(filename, "w") do f
-        if head !== nothing
-            write(f, "total:")
-            write(f, join(head, ","))
-            write(f, "\n")
-        end
-        last_k = "###"
+        write(f, "total:")
+        write(f, join(head, ","))
+        write(f, "\n")
+        last_k = ""
         last_v = 0.0
         last_vstr = string(last_v)
         for (k, v) in D
@@ -129,15 +127,12 @@ function dump_ngram_table(D, filename; head=nothing)
     end
 end
 
-function load_ngram_table(filename; head=true)
-    open(filename) do f
-        el = eachline(f)
-        if head
-            l1 = first(el)
-            hd = parse.(Float32, split(split(l1, ":")[end], ","))
-        end
-        D = Vector{Pair{Vector{UInt8},Float32}}()
-        last_k = "###"
+function ngram_table(filename)
+    el = eachline(filename)
+    l1 = first(el)
+    hd = parse.(Float32, split(split(l1, ":")[end], ",", keepempty=false))
+    function producer(c::Channel)
+        last_k = ""
         last_v = 0.0
         last_vstr = string(last_v)
         for line in el
@@ -155,8 +150,13 @@ function load_ngram_table(filename; head=true)
             last_k = k
             @assert iseven(length(k))
             k = parse.(UInt8, Iterators.partition(string(k), 2), base=16)
-            push!(D, k => v)
+            put!(c, k => v)
         end
-        head ? (D, hd) : D
     end
+    hd,  Channel(producer)
+end
+
+function load_ngram_table(filename)
+    hd, tb = ngram_table(filename)
+    hd, collect(tb)
 end

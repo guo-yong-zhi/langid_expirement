@@ -36,7 +36,7 @@ function norm_ngrams_dict(Ds, ratio, minfreq, maxsize)
     cp = min(cp1, cp2, maxsize)
     println("total vocab: $(length(S)/1000)k; tokens: $(sum(vocab_list)/1e6)M; dataset ratio: $(vocab_list[1:end]/sum(vocab_list))(vocab) $(tokens_list/sum(tokens_list))(token)")
     println("Profile size: $(cp/1000)k($(round(cp/length(sG)*100))%) @freq=$(S[sG[cp][1]]); [min($cp1, $cp2)]")
-    sG[1:cp], count_ngrams(sG)
+    count_ngrams(sG), sG[1:cp]
 end
 
 function build_ngrams_profile(lang; ngram=7, ratio=0.9, minfreq=10, maxsize=100000)
@@ -49,8 +49,8 @@ end
 function build_all_ngrams_profiles(langs, path; ngram=7, ratio=0.9, minfreq=10, maxsize=100000)
     mkpath(path)
     for lang in langs
-        @time D, h = build_ngrams_profile(lang, ngram=ngram, ratio=ratio, minfreq=minfreq, maxsize=maxsize)
-        dump_ngram_table(D, joinpath(path, "$lang.txt"), head=h)
+        @time h, D = build_ngrams_profile(lang, ngram=ngram, ratio=ratio, minfreq=minfreq, maxsize=maxsize)
+        dump_ngram_table(h, D, joinpath(path, "$lang.txt"))
         flush(stdout)
     end
 end
