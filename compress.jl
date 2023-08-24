@@ -3,7 +3,8 @@ mutable struct RLCS
     pool::Vector{String}
     counter::Int
 end
-function RLCS(rank::Int=26)
+function RLCS(rank::Int=36)
+    @assert 0 <= rank <= 36
     return RLCS(rank, fill("", rank), 0)
 end
 
@@ -42,6 +43,7 @@ function lcs_zip(str, refer) # `str` and `refer` must not contain any uppercase 
     return 0, str, "", ""
 end
 function rlcs_zip(Z, str)
+    ec(i) = i <= 10 ? ('0' + i - 1) : ('a' + i - 11)
     best = 0, str, "", ""
     for rk in 1:min(Z.rank, Z.counter)
         refer = Z.pool[(Z.counter - rk + 1) % Z.rank + 1]
@@ -50,7 +52,7 @@ function rlcs_zip(Z, str)
         rk > 1 && (l -= 2)
         # @show l
         if l > best[1]
-            s = rk == 1 ? "" : 'A' * ('a' + rk - 1)
+            s = rk == 1 ? "" : 'A' * ec(rk)
             best = l, h, s * c, t
             # @show s
         end
@@ -60,11 +62,12 @@ function rlcs_zip(Z, str)
     end
     Z.counter += 1
     zip_str = string(best[2], best[3], best[4])
-    Z.pool[Z.counter % Z.rank + 1] = str
+    Z.rank > 0 && (Z.pool[Z.counter % Z.rank + 1] = str)
     return zip_str
 end
 
 function rlcs_unzip(Z, str)
+    dc(c) = c <= '9' ? c - '0' + 1 : c - 'a' + 11
     _b2 = findfirst(r"[A-Z]", str)
     if _b2 !== nothing
         _b2 = first(_b2)
@@ -73,7 +76,7 @@ function rlcs_unzip(Z, str)
             rk = 1
         else
             b2 = first(findnext(r"[A-Z]", str, _b2 + 2))
-            rk = str[_b2 + 1] - 'a' + 1
+            rk = dc(str[_b2 + 1])
         end
         refer = Z.pool[(Z.counter - rk + 1) % Z.rank + 1]
         b1 = str[b2] - 'A' + 1
@@ -89,6 +92,6 @@ function rlcs_unzip(Z, str)
         str = string(str[1:_b2-1], refer[b1:e1], str[e2+1:end])
     end
     Z.counter += 1
-    Z.pool[Z.counter % Z.rank + 1] = str
+    Z.rank > 0 && (Z.pool[Z.counter % Z.rank + 1] = str)
     return str
 end

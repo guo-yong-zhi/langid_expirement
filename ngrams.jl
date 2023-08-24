@@ -51,8 +51,8 @@ function merged_dataset_ngrams(dataset, n)
     counter
 end
 
-function dump_ngram_table(head::Vector{Float32}, D, filename)
-    Z1, Z2 = RLCS(), RLCS()
+function dump_ngram_table(head::Vector{Float32}, D, filename; compress_level=36)
+    Z1, Z2 = RLCS(compress_level), RLCS(compress_level)
     open(filename, "w") do f
         write(f, "total:")
         write(f, join(head, ","))
