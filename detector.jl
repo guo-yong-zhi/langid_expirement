@@ -56,19 +56,34 @@ function loglikelihood(t, logt, default_logp=DEFAULT_LOGP)
     sc
 end
 
-function langid(text; ngram=NGRAM, languages=LANGUAGES, profiles=PROFILES)
+function langid(text::AbstractString, languages::Vector{String}, profiles::Vector{Dict{Vector{UInt8}, Float32}}; ngram=NGRAM)
     p = count_one_to_ngrams(text, ngram)
     lls = loglikelihood.(Ref(p), profiles)
     languages[argmax(lls)]
 end
+function langid(text::AbstractString, languages::Vector{String}; ngram=NGRAM)
+    inds = [findfirst(isequal(l), LANGUAGES) for l in languages]
+    langid(text, languages, PROFILES[inds]; ngram=ngram)
+end
+function langid(text::AbstractString; ngram=NGRAM)
+    langid(text, LANGUAGES, PROFILES; ngram=ngram)
+end
 
-function langprob(text; candidates=5, ngram=NGRAM, languages=LANGUAGES, profiles=PROFILES)
+
+function langprob(text::AbstractString, languages::Vector{String}, profiles::Vector{Dict{Vector{UInt8}, Float32}}; candidates=5, ngram=NGRAM)
     p = count_one_to_ngrams(text, ngram)
     vs = sum(values(p))
     map!(v -> v / vs, values(p))
     lls = loglikelihood.(Ref(p), profiles)
     ls = exp.(lls)
     ls = ls ./ sum(ls)
-    si = sortperm(ls, rev=true)[1:candidates]
+    si = sortperm(ls, rev=true)[1:min(end, candidates)]
     [k => v for (k, v) in zip(languages[si], ls[si])]
+end
+function langprob(text::AbstractString, languages::Vector{String}; candidates=5, ngram=NGRAM)
+    inds = [findfirst(isequal(l), LANGUAGES) for l in languages]
+    langprob(text, languages, PROFILES[inds]; candidates=candidates, ngram=ngram)
+end
+function langprob(text::AbstractString; candidates=5, ngram=NGRAM)
+    langprob(text, LANGUAGES, PROFILES; candidates=candidates, ngram=ngram)
 end
