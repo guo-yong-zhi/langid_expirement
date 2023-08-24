@@ -52,7 +52,7 @@ function merged_dataset_ngrams(dataset, n)
 end
 
 function dump_ngram_table(head::Vector{Float32}, D, filename)
-    Z1, Z2 = RLCS(1), RLCS(1)
+    Z1, Z2 = RLCS(), RLCS()
     open(filename, "w") do f
         write(f, "total:")
         write(f, join(head, ","))
@@ -80,7 +80,7 @@ function ngram_table(filename)
     l1 = first(el)
     hd = parse.(Float32, split(split(l1, ":")[end], ",", keepempty=false))
     function producer(c::Channel)
-        Z1, Z2 = RLCS(1), RLCS(1)
+        Z1, Z2 = RLCS(), RLCS()
         last_v = 0.0
         for line in el
             kz_v = split(line, ",")

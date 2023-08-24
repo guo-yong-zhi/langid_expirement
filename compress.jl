@@ -3,7 +3,7 @@ mutable struct RLCS
     pool::Vector{String}
     counter::Int
 end
-function RLCS(rank::Int=9)
+function RLCS(rank::Int=26)
     return RLCS(rank, fill("", rank), 0)
 end
 
@@ -50,7 +50,7 @@ function rlcs_zip(Z, str)
         rk > 1 && (l -= 2)
         # @show l
         if l > best[1]
-            s = rk == 1 ? "" : 'A' * ('1' + rk - 1)
+            s = rk == 1 ? "" : 'A' * ('a' + rk - 1)
             best = l, h, s * c, t
             # @show s
         end
@@ -68,13 +68,12 @@ function rlcs_unzip(Z, str)
     _b2 = findfirst(r"[A-Z]", str)
     if _b2 !== nothing
         _b2 = first(_b2)
-        rk = str[_b2] != 'A' ? 1 : str[_b2 + 1] - '1' + 1
         if str[_b2] != 'A'
             b2 = _b2
             rk = 1
         else
             b2 = first(findnext(r"[A-Z]", str, _b2 + 2))
-            rk = str[_b2 + 1] - '1' + 1
+            rk = str[_b2 + 1] - 'a' + 1
         end
         refer = Z.pool[(Z.counter - rk + 1) % Z.rank + 1]
         b1 = str[b2] - 'A' + 1
