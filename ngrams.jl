@@ -1,6 +1,6 @@
 include("compress.jl")
 
-function normalize_text(text; blacklist=["wikipedia", "tatoeba"])
+function normalize_text(text; blacklist=String[])
     text = replace(text, r"https?://[-_.?&~;+=/#0-9A-Za-z]{1,2076}" => " ")
     text = replace(text, r"[-_.0-9A-Za-z]{1,64}@[-_0-9A-Za-z]{1,255}[-_.0-9A-Za-z]{1,255}" => " ")
     text = replace(text, r"[^\p{L}]" => " ")
@@ -11,7 +11,7 @@ function normalize_text(text; blacklist=["wikipedia", "tatoeba"])
     end
     text = replace(text, r"\s\s+" => " ")
 end
-function ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8},Float32}())
+function count_ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8},Float32}())
     text = transcode(UInt8, string(text))
     for i in 1:length(text)-n+1
         p = text[i:i+n-1]
@@ -19,8 +19,8 @@ function ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8},Float32}())
     end
     counter
 end
-function merged_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8},Float32}())
-    text = normalize_text(text)
+function count_one_to_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8},Float32}(); kwargs...)
+    text = normalize_text(text; kwargs...)
     text = transcode(UInt8, string(text))
     for k in 1:n
         for i in 1:length(text)-k+1
@@ -32,21 +32,21 @@ function merged_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8},Flo
 end
 
 
-function dataset_ngrams(dataset, n)
+function count_dataset_ngrams(dataset, n; kwargs...)
     counters = [Dict{Vector{UInt8},Float32}() for i in 1:n]
     for (text, lang) in dataset
-        text = normalize_text(text)
+        text = normalize_text(text; kwargs...)
         for i in 1:n
-            ngrams(text, i, counters[i])
+            count_ngrams(text, i, counters[i])
         end
     end
     counters
 end
 
-function merged_dataset_ngrams(dataset, n)
+function count_dataset_one_to_ngrams(dataset, n; kwargs...)
     counter = Dict{Vector{UInt8},Float32}()
     for (text, lang) in dataset
-        merged_ngrams(text, n, counter)
+        count_one_to_ngrams(text, n, counter; kwargs...)
     end
     counter
 end
@@ -98,7 +98,7 @@ function ngram_table(filename)
             put!(c, k => v)
         end
     end
-    hd,  Channel(producer)
+    hd, Channel(producer)
 end
 
 function load_ngram_table(filename)

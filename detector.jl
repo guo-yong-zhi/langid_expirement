@@ -25,18 +25,19 @@ end
 function load_profile(lang, ngram, cutoff)
     hd, rows = ngram_table(joinpath(PACKAGE_PATH, "ngrams", lang * ".txt"))
     total = sum(hd[1:ngram])
+    threshold = cutoff * total
     cums = 0.0
     P = Pair{Vector{UInt8}, Float32}[]
     for (k, v) in rows
         if length(k) <= ngram
             cums += v
             push!(P, k => v)
-            if cums / total >= cutoff
+            if cums >= threshold
                 break
             end
         end
     end
-    cums / total >= cutoff || @info "$lang: cutoff($cutoff) not reached. current: $(cums / total). size: $(length(P))"
+    cums >= threshold || @info "$lang: cutoff($cutoff) not reached. current: $(cums / total). vocab size: $(length(P))"
     normalize_profile!(Dict(P))
 end
 
@@ -56,13 +57,13 @@ function loglikelihood(t, logt, default_logp=DEFAULT_LOGP)
 end
 
 function langid(text; ngram=NGRAM, languages=LANGUAGES, profiles=PROFILES)
-    p = merged_ngrams(text, ngram)
+    p = count_one_to_ngrams(text, ngram)
     lls = loglikelihood.(Ref(p), profiles)
     languages[argmax(lls)]
 end
 
 function langprob(text; candidates=5, ngram=NGRAM, languages=LANGUAGES, profiles=PROFILES)
-    p = merged_ngrams(text, ngram)
+    p = count_one_to_ngrams(text, ngram)
     vs = sum(values(p))
     map!(v -> v / vs, values(p))
     lls = loglikelihood.(Ref(p), profiles)
