@@ -1,0 +1,4 @@
+Enkooderi on laite, ohjelma tai niiden yhdistelmä, joka pakkaa, salaa, kätkee, yhdistää tai muuttaa informaatiota jonkin algoritmin mukaisesti, jolloin informaatio voidaan tallentaa tai siirtää helpommin, nopeammin ja turvallisemmin. 
+Digitaalitekniikassa enkooderilla eli kooderilla tarkoitetaan kombinaatiopiiriä, joka muuntaa yksikäsitteistä binäärikoodia yksikäsitteiseksi binääriluvuksi.
+Kooderin sisääntulossa on m kappaletta ottosignaaleja, jotka koodataan n kappaleeksi antosignaaleja.  1 
+Enkooderin vastakohta on dekooderi, joka tekee päinvastaisen muunnoksen kuin enkooderi, eli muuttaa informaation jälleen alkuperäiseen tai lähellä alkuperäistä olevaan muotoon, mikäli enkooderi käyttää häviöllistä algoritmia.

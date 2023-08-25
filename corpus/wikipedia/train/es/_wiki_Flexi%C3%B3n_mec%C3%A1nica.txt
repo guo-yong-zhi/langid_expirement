@@ -1,0 +1,680 @@
+En ingeniería se denomina flexión al tipo de deformación que presenta un elemento estructural alargado en una dirección perpendicular a su eje longitudinal. El término "alargado" se aplica cuando una dimensión es dominante frente a las otras. Un caso típico son las vigas, las que están diseñadas para trabajar, principalmente, a flexión. Igualmente, el concepto de flexión se extiende a elementos estructurales superficiales como placas o láminas. 
+El rasgo más destacado es que un objeto sometido a flexión presenta una superficie de puntos llamada fibra neutra tal que la distancia a lo largo de cualquier curva contenida en ella no varía con respecto al valor antes de la deformación. El esfuerzo que provoca la flexión se denomina momento flector.
+Las vigas o arcos son elementos estructurales pensados para trabajar predominantemente en flexión. Geométricamente son prismas mecánicos cuya rigidez depende, entre otras cosas, del momento de inercia de la sección transversal de las vigas. Existen dos hipótesis cinemáticas comunes para representar la flexión de vigas y arcos:
+La teoría de Euler-Bernoulli para el cálculo de vigas es la que se deriva de la hipótesis cinemática de Euler-Bernouilli, y puede emplearse para calcular tensiones y desplazamientos sobre una viga o arco de longitud de eje grande comparada con el canto máximo o altura de la sección transversal.
+Para escribir las fórmulas de la teoría de Euler-Bernouilli conviene tomar un sistema de coordenadas adecuado para describir la geometría, una viga es de hecho un prisma mecánico sobre el que se pueden considerar las coordenadas  con s la distancia a lo largo del eje de la viga e  las coordenadas sobre la sección transversal. Para el caso de arcos este sistema de coordenas es curvilíneo, aunque para vigas de eje recto puede tomarse como cartesiano . Para una viga de sección recta la tensión el caso de flexión compuesta esviada la tensión viene dada por la fórmula de Navier:
+  
+    
+      
+         
+        
+        =
+        
+          
+            
+              
+                N
+                
+                  x
+                
+              
+              
+            
+            A
+          
+        
+        +
+        
+          
+            
+              z
+              
+                I
+                
+                  z
+                
+              
+               
+              y
+              
+                I
+                
+                  y
+                  z
+                
+              
+            
+            
+              
+                I
+                
+                  z
+                
+              
+              
+                I
+                
+                  y
+                
+              
+               
+              
+                I
+                
+                  y
+                  z
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+          M
+          
+            y
+          
+        
+        
+         
+        
+          
+            
+              y
+              
+                I
+                
+                  y
+                
+              
+               
+              z
+              
+                I
+                
+                  y
+                  z
+                
+              
+            
+            
+              
+                I
+                
+                  z
+                
+              
+              
+                I
+                
+                  y
+                
+              
+               
+              
+                I
+                
+                  y
+                  z
+                
+                
+                  2
+                
+              
+            
+          
+        
+        
+          M
+          
+            z
+          
+        
+        
+      
+    
+    }-yI_-I_M_-zI_-I_M_
+  
+Donde:
+Si la dirección de los ejes de coordenadas  se toman coincidentes con las  direcciones principales de inercia entonces los productos de inercia se anulan y la ecuación anterior se simplifica notablemente. Además si se considera el caso de flexión simple no-desviada las tensiones según el eje son simplemente:
+  
+    
+      
+         
+        
+        =
+         
+        
+          
+            
+              y
+              
+                M
+                
+                  z
+                
+              
+              
+            
+            
+              I
+              
+                z
+              
+            
+          
+        
+      
+    
+    }}
+  
+Por otro lado, en este mismo caso de flexión simple no esviada, el campo de desplazamientos, en la hipótesis de Bernoulli, viene dada por la ecuación de la curva elástica:
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              w
+              
+            
+            
+              d
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                M
+                
+                  z
+                
+              
+              
+            
+            
+              E
+              
+                I
+                
+                  z
+                
+              
+            
+          
+        
+        
+         
+        
+        
+          
+            
+              
+                d
+                
+                  4
+                
+              
+              w
+              
+            
+            
+              d
+              
+                x
+                
+                  4
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                q
+                
+                  L
+                
+              
+              
+            
+            
+              E
+              
+                I
+                
+                  z
+                
+              
+            
+          
+        
+      
+    
+    w}=\qquad \Rightarrow \qquad =}
+  
+Donde:
+La diferencia fundamental entre la teoría de Euler-Bernouilli y la teoría de Timoshenko es que en la primera el giro relativo de la sección se aproxima mediante la derivada del desplazamiento vertical, esto constituye una aproximación válida sólo para piezas largas en relación con las dimensiones de la sección transversal, y entonces sucede que las deformaciones debidas al esfuerzo cortante son despreciables frente a las deformaciones ocasionadas por el momento flector. En la teoría de Timoshenko, donde no se desprecian las deformaciones debidas al cortante y por tanto es válida también para vigas cortas, la ecuación de la curva elástica viene dada por el sistema de ecuaciones más complejo:
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  G
+                  
+                    
+                  
+                  =
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              V
+                              
+                                y
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            A
+                          
+                        
+                      
+                    
+                  
+                
+              
+              
+                
+                  E
+                  
+                    
+                  
+                  =
+                  
+                    
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              M
+                              
+                                z
+                              
+                            
+                          
+                        
+                      
+                      
+                        
+                          
+                        
+                        
+                          
+                            
+                              I
+                              
+                                z
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}G\left={\cfrac {V_{y}}{A}}\\E\left={\cfrac {M_{z}}{I_{z}}}\end{cases}}}
+  
+Derivando la primera de las dos ecuaciones anteriores y substituyendo en ella la segunda llegamos a la ecuación de la curva elástica incluyendo el efecto del esfuerzo cortante:
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              w
+            
+            
+              d
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              G
+              A
+            
+          
+        
+        
+          
+            
+              d
+              
+                V
+                
+                  y
+                
+              
+            
+            
+              d
+              x
+            
+          
+        
+        +
+        
+          
+            
+              M
+              
+                z
+              
+            
+            
+              E
+              
+                I
+                
+                  z
+                
+              
+            
+          
+        
+      
+    
+    w}=}}}
+  
+Una placa es un elemento estructural que puede presentar flexión en dos direcciones perpendiculares. Existen dos hipótesis cinemáticas comunes para representar la flexión de placas y láminas:
+Siendo la primera el análogo para placas de la hipótesis de Navier-Bernouilli y el segundo el análogo de la hipótesis de Timoshenko.
+La teoría de placas de Love-Kirchhoff es la que se deriva de la hipótesis cinemática de Love-Kirchhoff para las mismas y es análoga a la hipótesis de Navier-Bernouilli  para vigas y por tanto tiene limitaciones similares, y es adecuada sólo cuando el espesor de la placa es suficientemente pequeño en relación con su largo y ancho.
+Para una placa de espesor constante h emplearemos un sistema de coordenadas cartesianas con  según el plano que contiene a la placa, y el eje z se tomará según la dirección perpendicular a la placa . Con esos ejes de coordenadas las tensiones según las dos direcciones perpendiculares de la placa son:
+  
+    
+      
+        
+           
+          
+            x
+          
+        
+        
+        =
+        
+          
+            
+              
+                m
+                
+                  x
+                
+              
+              z
+            
+            
+              I
+              
+                b
+              
+            
+          
+        
+        
+        
+           
+          
+            y
+          
+        
+        
+        =
+        
+          
+            
+              
+                m
+                
+                  y
+                
+              
+              z
+            
+            
+              I
+              
+                b
+              
+            
+          
+        
+      
+    
+    =\qquad \sigma _z}}
+  
+Donde:
+  
+    
+      
+        
+          m
+          
+            x
+          
+        
+        =
+         
+        D
+        
+          
+        
+        
+        
+          m
+          
+            y
+          
+        
+        =
+         
+        D
+        
+          
+        
+      
+    
+    =-D\left\qquad m_
+  
+Para encontrar la flecha que aparece en la ecuación anterior es necesario resolver una ecuación en derivadas parciales que es el análogo bidimensional a la ecuación de la curva elástica:
+  
+    
+      
+        
+          
+            
+              
+                 
+                
+                  4
+                
+              
+              w
+              
+            
+            
+               
+              
+                x
+                
+                  4
+                
+              
+            
+          
+        
+        +
+        2
+        
+          
+            
+              
+                 
+                
+                  4
+                
+              
+              w
+              
+            
+            
+               
+              
+                x
+                
+                  2
+                
+              
+               
+              
+                y
+                
+                  2
+                
+              
+            
+          
+        
+        +
+        
+          
+            
+              
+                 
+                
+                  4
+                
+              
+              w
+              
+            
+            
+               
+              
+                y
+                
+                  4
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                q
+                
+                  S
+                
+              
+              
+            
+            D
+          
+        
+      
+    
+    w}+2}+=
+  
+El factor:
+  
+    
+      
+        D
+        =
+        
+          
+            
+              E
+              
+                h
+                
+                  3
+                
+              
+            
+            
+              12
+              
+            
+          
+        
+      
+    
+    }
+  
+se llama rigidez flexional de placas donde:
+La teoría de Reissner-Mindlin es el análogo para placas de la teoría de Timoshenko para vigas. Así en esta teoría, a diferencia de la teoría más aproximada de Love-Kirchhoff, el vector normal al plano medio de la placa una vez deformada la placa no tiene por qué coincidir con el vector normal a la superficie media deformada.

@@ -1,0 +1,6 @@
+Vstrekovacie zariadenie je zariadenie, ktoré slúži na dopravu a rozprašovanie paliva do spaľovacieho priestoru motora. Jeho úlohou je zabezpečiť opakovane v presnom čase dodávku presného množstva dostatočne atomizovaného paliva s požadovaným časovým priebehom , podľa aktálnych požiadaviek na výkon motora a jeho aktuálneho režimu.
+V závislosti od koncepcie vstrekovania a typu motora nemusia byť vždy prítomné všetky nižšie uvedené časti:
+Nemusí byť vždy prítomné. U historických zariadení bolo nahradené výškovým usporiadaním palivového okruhu tak, aby nádrž bola vyššie ako vstrekovacie čerpadlo a palivo ho zaplavovalo pôsobením gravitačnej sily.
+Boli prítomné len v súčasnosti prekonanom systéme pneumatického vstrekovania pre vznetový motor. 
+Je prítomný pri koncepcii hydraulického akumulátorového vstrekovania, ktorého súčasným reprezentantom je systém common rail.
+Palivo sa dopravuje palivovým čerpadlom z nádrže cez hrubý čistič a neskôr cez jemný čistič k vstrekovaciemu čerpadlu alebo do tlakového zásobníka. Odtiaľ je vedené do vstrekovačov, ktoré palivo vstrekujú do spaľovacieho priestoru. Dávku paliva určuje riadiaca jednotka, alebo regulátor.

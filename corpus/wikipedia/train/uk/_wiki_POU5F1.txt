@@ -1,0 +1,29 @@
+1OCP, 3L1P
+• DNA binding• sequence-specific DNA binding• miRNA binding• GO:0001131, GO:0001151, GO:0001130, GO:0001204 DNA-binding transcription factor activity• transcription factor binding• GO:0000975 transcription cis-regulatory region binding• GO:0001948, GO:0016582 protein binding• GO:0001078, GO:0001214, GO:0001206 DNA-binding transcription repressor activity, RNA polymerase II-specific• GO:0001200, GO:0001133, GO:0001201 DNA-binding transcription factor activity, RNA polymerase II-specific• ubiquitin protein ligase binding• RNA binding
+• цитоплазма• гіалоплазма• transcription regulator complex• Нуклеоплазма• клітинне ядро• мітохондрія
+• GO:0009373 regulation of transcription, DNA-templated• somatic stem cell population maintenance• GO:1905617 negative regulation of gene silencing by miRNA• cell fate commitment involved in formation of primary germ layer• endodermal cell fate specification• anatomical structure morphogenesis• mRNA transcription by RNA polymerase II• regulation of asymmetric cell division• GO:1901227 negative regulation of transcription by RNA polymerase II• transcription by RNA polymerase II• transcription, DNA-templated• regulation of DNA methylation-dependent heterochromatin assembly• multicellular organism development• cardiac cell fate determination• response to wounding• BMP signaling pathway involved in heart induction• Регуляція експресії генів• regulation of heart induction by regulation of canonical Wnt signaling pathway• blastocyst development• GO:0003257, GO:0010735, GO:1901228, GO:1900622, GO:1904488 positive regulation of transcription by RNA polymerase II• positive regulation of SMAD protein signal transduction
+POU5F1 , більш відомий як Oct-4  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 6-ї хромосоми. 4  Довжина поліпептидного ланцюга білка становить 360 амінокислот, а молекулярна маса — 38 571 5 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функціями належить до білків розвитку, фосфопротеїнів. 
+Задіяний у таких біологічних процесах, як транскрипція, регуляція транскрипції, альтернативний сплайсинг. 
+Білок має сайт для зв'язування з ДНК. 
+Локалізований у цитоплазмі, ядрі.
+  Портал «Біологія»   Портал «Хімія»                       

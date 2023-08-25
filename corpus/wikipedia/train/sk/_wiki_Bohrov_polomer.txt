@@ -1,0 +1,4 @@
+Bohrov polomer  je fyzikálna konštanta približne rovná vzdialenosti elektrónu a protónu v atóme vodíka v základnom stave. Pomenovaná je po dánskom fyzikovi Nielsovi Bohrovi, nakoľko sa používa v ním navrhnutom modeli atómu.
+Definovaný je ako:
+kde:
+Jeho hodnota je:

@@ -1,0 +1,3 @@
+Algebroje dvinaris – polinomas, kurį sudaro sudaro du vienanariai. Pavyzdžiui, x + 3 yra dvinaris, kurio pirmasis narys yra x o antrasis narys yra 3. Atliekant veiksmus su dvinariais, jie dažnai yra apskliaudžiami. 
+Pirmąjį dvinario narį pažymėjus raide a, o antrąjį - raide b, galima naudoti šias formules:
+Tai yra binomo formulė ir antros formulės apibendrinimas. Taip pat galima pasinaudoti Paskalio trikampiu .

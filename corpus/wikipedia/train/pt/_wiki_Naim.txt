@@ -1,0 +1,2 @@
+O naim é um programa minimalista de mensagens instantâneas e de chat escrito por Daniel Reed que suporta os protocolos AIM, ICQ, IRC e lily CMC. Ao contrário da maioria dos clientes de mensagens, não é gráfico. Corre a partir da consola, usando a biblioteca ncurses. O naim é software livre, com licença GNU GPL.
+O naim é um programa multiplataforma. Apesar de ser dirigido primariamente a sistemas semelhantes ao Unix , pode ser posto a trabalhar numa grande variedade de sistemas, incluindo o Microsoft Windows, através do projecto cygwin.

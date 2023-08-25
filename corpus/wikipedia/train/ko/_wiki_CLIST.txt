@@ -1,0 +1,25 @@
+
+CLIST는 MVS 시스템의 TSO를 위한 절차적 프로그래밍 언어이다. OS/360 릴리스 20에서 기원하였으며 TSO/E 버전 2에서 REXX를 사용할 수 있게 된 뒤로 2차적 역할을 맡고 있다. CLIST라는 용어는 넷뷰 사용자들이 작성한 명령어 목록을 위해 사용되기도 한다. 1 
+기본 형태로 CLIST 프로그램는 순차적으로 실행할 명령어의 단순 목록 형태를 취할 수 있다.  그러나 CLIST는 또한 If-Then-Else 로직과 루프 구성체를 지원한다.
+CLIST는 인터프리트 언어이다. 즉, 컴퓨터는 프로그램이 실행될 때마다 CLIST를 번역해야 한다. 그러므로 CLIST는 코볼, 포트란, PL/1과 같은 컴파일 언어로 작성된 프로그램 보다 속도가 더 느린 경향이 있다. 
+CLIST는 MVS 파일을 읽고 쓸 수 있으며, TSO 터미널을 경유하여 읽고 쓸 수 있다. 호출자로부터 매개변수를 읽을 수 있으며, 전역 변수를 보유하다가 CLIST들 간에 이들을 전달하는 기능도 제공한다. 또, CLIST는  MVS 응용 프로그램을 호출할 수도 있다. CLIST는  백그라운드에서 실행이 가능하다. ISPF 다이얼로그 서비스들을 사용하는 TSO 입출력 화면과 메뉴는 CLIST를 통해 표시할 수 있다.
+ PROC 0
+WRITE HELLO WORLD!
+           /********************************************************************/ 
+        /*  MULTI-LINGUAL "HELLO WORLD" PROGRAM.                            */ 
+        /*                                                                  */ 
+        /*  THIS CLIST, STORED AS USERID.TSO.CLIST, CAN BE INVOKED    */ 
+        /*  FROM THE ISPF COMMAND LINE AS SHOWN IN THE FOLLOWING EXAMPLE:   */ 
+        /*                                                                  */ 
+        /*     COMMAND ===> TSO TEST SPANISH                                */ 
+        /*                                                                  */ 
+        /********************************************************************/ 
+        PROC    1    LANGUAGE
+           IF     & LANGUAGE    =    SPANISH    THEN     + 
+            WRITE   HOLA ,    MUNDO
+          ELSE     IF     & LANGUAGE    =    FRENCH    THEN     + 
+            WRITE   BONJOUR ,    MONDE
+          ELSE     + 
+            WRITE   HELLO ,    WORLD
+        EXIT 
+</pr

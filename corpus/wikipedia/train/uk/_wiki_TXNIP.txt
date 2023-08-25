@@ -1,0 +1,27 @@
+4GEI, 4GEJ, 4GFX, 4LL1, 4LL4, 4ROF, 4ROJ, 5CQ2, 5DF6, 5DWS, 5DZD
+• GO:0048551 enzyme inhibitor activity• GO:0001948, GO:0016582 protein binding• ubiquitin protein ligase binding
+• цитоплазма• гіалоплазма• мітохондріальний міжмембранний простір• клітинне ядро
+• cellular response to tumor cell• response to estradiol• GO:0048553 negative regulation of catalytic activity• GO:0009373 regulation of transcription, DNA-templated• protein import into nucleus• response to progesterone• response to mechanical stimulus• GO:1901227 negative regulation of transcription by RNA polymerase II• response to glucose• GO:0001306 response to oxidative stress• transcription, DNA-templated• keratinocyte differentiation• response to calcium ion• negative regulation of cell division• regulation of cell population proliferation• positive regulation of apoptotic process• клітинний цикл• platelet-derived growth factor receptor signaling pathway• response to hydrogen peroxide• GO:0072468 Сигнальна трансдукція
+TXNIP  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 1-ї хромосоми. 3  Довжина поліпептидного ланцюга білка становить 391 амінокислот, а молекулярна маса — 43 661 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Задіяний у таких біологічних процесах як транскрипція, регуляція транскрипції, клітинний цикл. 
+Локалізований у цитоплазмі.
+  Портал «Біологія»   Портал «Хімія»                       

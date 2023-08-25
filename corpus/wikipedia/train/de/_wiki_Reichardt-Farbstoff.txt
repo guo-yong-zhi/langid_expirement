@@ -1,0 +1,93 @@
+kristallin Farbe: dunkelviolett 1 
+fest
+Keine Daten verfügbar 1 
+271–275 °C 1 
+Reichardt-Farbstoff  phenolat), ist ein organischer Farbstoff aus der Gruppe der Azomerocyaninbetaine. Er ist bemerkenswert durch seine solvatochrome Eigenschaft. Das bedeutet, dass er seine Farbe mit dem Lösemittel ändern kann, in dem er gelöst ist. Er hat einen der größten bekannten solvatochromen Effekte 3  mit Farben, die das komplette sichtbare Spektrum abdecken. 4  Diese große Farbverschiebung wurde genutzt, um eine Skala, die 
+  
+    
+      
+        
+          E
+          
+             
+          
+        
+        
+      
+    
+    }
+  
+-Skala zu erstellen. Sie wurde durch spektroskopische Daten abgeleitet, dabei wird sie als Übergangsenergie der längstwelligen Vis/NIR-Absorptionsbande von Reichardt-Farbstoff bei Normalbedingungen in kcal·mol−1 definiert. Definiert man die Polarität von Tetramethylsilan auf 0 und die von Wasser auf 1, so erhält man die normalisierten 
+  
+    
+      
+        
+          E
+          
+             
+          
+        
+        
+      
+    
+    }
+  
+-Werte, die 
+  
+    
+      
+        
+          E
+          
+             
+          
+          
+            N
+          
+        
+      
+    
+    ^
+  
+-Werte. 5 
+Der Reichardt-Farbstoff ist nach Christian Reichardt benannt, der ihn während seiner Doktorarbeit unter Karl Dimroth synthetisierte und seine Eigenschaften entdeckte. In einigen Quellen wird der Farbstoff daher auch als Dimroth-Reichardt-Farbstoff bezeichnet. In einigen Fällen werden auch Derivate so genannt, speziell solche, die tert-Butylgruppen in para-Stellung besitzen. 6 
+Der Reichardt-Farbstoff hat keine natürlichen Vorkommen und kann nur synthetisch hergestellt werden.
+Eine neuere Synthese ist folgende: 7 
+2,6-Diphenylphenol wird mit verdünnter HNO3 in 4-Stellung nitriert und anschließend mit Natriumdithionit zum Amin reduziert. Dieses Amin wird mit 2,4,6-Triphenylpyryliumhydrogensulfat in Gegenwart von Natriumacetat zum Hydrogensulfat des Farbstoffs umgesetzt, aus dem mit NaOH die Betainform des Reichardt-Farbstoff hergestellt wird.
+Der Reichardt-Farbstoff ist ein dunkelvioletter kristalliner Feststoff. Neben der Solvatochromie hat er die Eigenschaften der Thermochromie , 8  Piezochromie und Halochromie. 9 
+Bedingt durch seine Solvatochromie kann man mit dem Reichardt-Farbstoff die Polarität von Lösemitteln abschätzen, indem man dessen Absorptionsspektrum in den jeweiligen Lösemitteln vermisst, so beträgt die Wellenlänge der maximalen Absorptionsbanden in Wasser  und in Diphenylether . 10  Mithilfe folgender Formel kann dann anhand der Wellenlänge  der 
+  
+    
+      
+        
+          E
+          
+             
+          
+        
+        
+      
+    
+    }
+  
+-Wert für das jeweilige Lösungsmittel berechnet werden. Dieser entspricht der molaren elektronischen Anregungsenergie: 11 
+mit
+Der 
+  
+    
+      
+        
+          E
+          
+             
+          
+          
+            N
+          
+        
+      
+    
+    ^
+  
+-Wert ist der auf die Polaritätsextrema Tetramethylsilan  und Wasser  normalisierte ET-Wert.
+Alternativ kann Brookers Merocyanin verwendet werden.

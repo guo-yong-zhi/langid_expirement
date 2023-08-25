@@ -1,0 +1,3 @@
+Odborná zkouška výtahu je dle ČSN 27 4007 1  zkouška výtahu prováděná v pravidelných intervalech k ověření funkce a způsobilosti k dalšímu provozu zahrnující i prověření elektrického zařízení výtahu a zjištění nebezpečí či nebezpečných situací.
+Odbornou zkoušku provádí zkušební technik servisní firmy.
+Lhůta pro první odbornou zkoušku se odvozuje od data provedení výtahu do provozu nebo od data poslední odborné zkoušky provedené podle ČSN 27 4007.

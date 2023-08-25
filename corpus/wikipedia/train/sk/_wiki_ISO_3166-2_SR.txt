@@ -1,0 +1,12 @@
+Kódy ISO 3166-2 pre Surinam identifikujú 10 dištriktov. Prvá časť  je medzinárodný kód pre Surinam, druhá časť pozostáva z dvoch písmen identifikujúcich dištrikt.
+ SR-BR Brokopondo 
+SR-CM Commewijne 
+SR-CR Coronie 
+SR-MA Marowijne 
+SR-NI Nickerie 
+SR-PM Paramaribo 
+SR-PR Para 
+SR-SA Saramacca 
+SR-SI Sipaliwini 
+SR-WA Wanica 
+</pr

@@ -1,0 +1,1718 @@
+L'équation de Langevin  est une équation stochastique pour le mouvement brownien.
+Dans l'approche théorique de Langevin, une grosse particule brownienne de masse m, supposée animée à l'instant t d'une vitesse  
+  
+    
+      
+        
+          
+            
+              v
+               
+            
+          
+        
+        
+      
+    
+    }}
+  
+, est soumise à deux forces bien distinctes :
+On applique le principe fondamental de la dynamique de Newton, ce qui conduit à l'équation stochastique de Langevin :
+  
+    
+      
+        m
+        
+        
+          
+            
+              d
+              
+                
+                  
+                    v
+                     
+                  
+                
+              
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        =
+         
+         
+        
+        k
+        
+        
+          
+            
+              v
+               
+            
+          
+        
+        
+         
+        +
+         
+        
+          
+            
+               
+               
+            
+          
+        
+        
+      
+    
+    }}}\ +\ }
+  
+Prenons le produit scalaire de cette équation avec le vecteur position 
+  
+    
+      
+        
+          
+            
+              r
+               
+            
+          
+        
+        
+      
+    
+    }}
+  
+  :
+  
+    
+      
+        m
+         
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+         
+        =
+         
+         
+        
+        k
+         
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+              d
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        +
+         
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+               
+               
+            
+          
+        
+      
+    
+    }\cdot {\frac {d^{2}}\ =\ -\,k\ \cdot {\frac {d}{dt}}\ +\ \cdot }
+  
+Remarquons alors d'une part que :
+  
+    
+      
+        
+          
+            
+              d
+              
+                |
+              
+              
+                |
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+              
+                |
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        =
+         
+        
+          
+            
+              d
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        =
+         
+        2
+         
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+              d
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    }||^\ =\ }\ =\ 2\ \cdot {\frac {d}
+  
+  
+    
+      
+         
+        
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+              d
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        =
+         
+        
+          
+            1
+            2
+          
+        
+         
+        
+          
+            
+              d
+              
+                |
+              
+              
+                |
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+              
+                |
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    }\cdot {\frac {d}{2}}\ {\frac {d||||^}
+  
+et d'autre part que :
+  
+    
+      
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                |
+              
+              
+                |
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+              
+                |
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+         
+        =
+         
+        
+          
+            
+              d
+               
+            
+            
+              d
+              t
+            
+          
+        
+         
+        
+          
+        
+         
+        =
+         
+        
+          
+            
+              d
+               
+            
+            
+              d
+              t
+            
+          
+        
+         
+        
+          
+        
+         
+        =
+         
+        2
+        
+        
+          |
+        
+        
+          |
+        
+        
+          
+            
+              v
+               
+            
+          
+        
+        
+          |
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+         
+        +
+         
+        2
+         
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    ||\ =\ }\ \left\ =\ }\ \left\ =\ 2\,||||^}\cdot {\frac {d^{2}}}
+  
+  
+    
+      
+         
+        
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+         
+        =
+         
+        
+          
+            1
+            2
+          
+        
+         
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                |
+              
+              
+                |
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+              
+                |
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+         
+         
+         
+        
+          |
+        
+        
+          |
+        
+        
+          
+            
+              v
+               
+            
+          
+        
+        
+          |
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+      
+    
+    }\cdot {\frac {d^\ =\ }\ {\frac {d^{2}||||^\ -\ ||||^
+  
+En substituant ces expressions dans le produit scalaire obtenu à partir de l'équation de Langevin, on obtient une nouvelle forme de l'équation différentielle :
+  
+    
+      
+        m
+         
+        
+          
+            
+              
+                d
+                
+                  2
+                
+              
+              
+                |
+              
+              
+                |
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+              
+                |
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+            
+              d
+              
+                t
+                
+                  2
+                
+              
+            
+          
+        
+         
+        =
+         
+         
+        
+        k
+         
+        
+          
+            
+              d
+              
+                |
+              
+              
+                |
+              
+              
+                
+                  
+                    r
+                     
+                  
+                
+              
+              
+                |
+              
+              
+                
+                  |
+                
+                
+                  2
+                
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        +
+         
+        2
+        
+        m
+         
+        
+          |
+        
+        
+          |
+        
+        
+          
+            
+              v
+               
+            
+          
+        
+        
+          |
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+         
+        +
+         
+        2
+        
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+               
+               
+            
+          
+        
+      
+    
+    ||\ =\ -\,k\ {\frac {d||}||^}\cdot }
+  
+On prend alors la moyenne de l'équation précédente sur toutes les réalisations possibles du bruit blanc gaussien. Il vient :
+On fait l'hypothèse avec Langevin que la valeur moyenne du terme de bruit est nulle :
+Par ailleurs, le processus de moyenne sur le bruit commute avec la dérivation temporelle :
+ce qui conduit à l'équation différentielle pour les moyennes :
+On pose alors :
+de telle sorte que l'équation différentielle se réécrive sous la forme simple :
+On obtient une estimation du dernier terme de vitesse quadratique moyenne en utilisant le théorème d'équipartition de l'énergie de la physique statistique classique. Pour le mouvement d'une particule dans un espace à d dimensions, on obtient :
+  
+    
+      
+        
+          
+            1
+            2
+          
+        
+         
+        m
+         
+         
+         
+        
+          |
+        
+        
+          |
+        
+        
+          
+            
+              v
+               
+            
+          
+        
+        
+          |
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+         
+         
+         
+        =
+         
+        
+          
+            d
+            2
+          
+        
+         
+        
+          k
+          
+            B
+          
+        
+         
+        T
+      
+    
+    }||^\ T}
+  
+où 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+      
+    
+    }
+  
+ est la constante de Boltzmann, et 
+  
+    
+      
+        T
+      
+    
+    
+  
+ la
+température absolue en kelvins. L'énergie thermique moyenne 
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+        T
+      
+    
+    T}
+  
+ par particule peut se réécrire :
+  
+    
+      
+        
+          k
+          
+            B
+          
+        
+         
+        T
+         
+        =
+         
+        
+          
+            
+              R
+              
+              T
+            
+            
+              
+                
+                  N
+                
+              
+              
+                A
+              
+            
+          
+        
+      
+    
+    \ T\ =\ }_
+  
+où 
+  
+    
+      
+        R
+      
+    
+    
+  
+ est la constante des gaz parfaits, et 
+  
+    
+      
+        
+          
+            
+              N
+            
+          
+          
+            A
+          
+        
+      
+    
+    }_
+  
+ le nombre d'Avogadro. L'équation différentielle se met donc finalement sous la forme :
+  
+    
+      
+        m
+         
+        
+          
+            
+              d
+              u
+              
+            
+            
+              d
+              t
+            
+          
+        
+         
+        +
+         
+        k
+         
+        u
+        
+         
+        =
+         
+        
+          
+            
+              d
+              
+              R
+              T
+            
+            
+              
+                
+                  N
+                
+              
+              
+                A
+              
+            
+          
+        
+      
+    
+    }}}
+  
+Cette équation différentielle linéaire du premier ordre à coefficients constants avec second membre admet la solution exacte :
+  
+    
+      
+        u
+        
+         
+        =
+         
+        
+          
+            
+              d
+              
+              R
+              T
+            
+            
+              k
+              
+              
+                
+                  
+                    N
+                  
+                
+                
+                  A
+                
+              
+            
+          
+        
+         
+        +
+         
+         
+         
+        
+          
+            e
+          
+          
+             
+            
+            t
+            
+              /
+            
+             
+          
+        
+      
+    
+    }}\ +\ \lambda \ \mathrm }
+  
+où 
+  
+    
+      
+         
+      
+    
+    
+  
+ est une constante, et 
+  
+    
+      
+         
+      
+    
+    
+  
+ le temps caractéristique de relaxation, qui vaut :
+  
+    
+      
+         
+         
+        =
+         
+        
+          
+            m
+            k
+          
+        
+         
+        =
+         
+        
+          
+            m
+            
+              6
+               
+               
+              a
+            
+          
+        
+         
+         
+      
+    
+    
+  
+ 10-8 secondes
+dans les conditions d'observations expérimentales usuelles du mouvement brownien.
+Dans les conditions expérimentales usuelles, on est toujours dans
+le régime où : 
+  
+    
+      
+        t
+         
+         
+      
+    
+    
+  
+, et on observe alors :
+  
+    
+      
+        u
+        
+         
+         
+         
+        
+          
+            
+              d
+              
+              R
+              T
+            
+            
+              k
+              
+              
+                
+                  
+                    N
+                  
+                
+                
+                  A
+                
+              
+            
+          
+        
+         
+        =
+         
+        
+          
+            
+              d
+              
+              R
+              T
+            
+            
+              6
+               
+               
+              a
+              
+              
+                
+                  
+                    N
+                  
+                
+                
+                  A
+                
+              
+            
+          
+        
+      
+    
+    }}\ =\ {\frac {d\,RT}{6\pi \eta a\,}}
+  
+Compte tenu de la définition de 
+  
+    
+      
+        u
+        
+      
+    
+    
+  
+, on a :
+  
+    
+      
+        u
+        
+         
+        =
+         
+        
+          
+            1
+            2
+          
+        
+         
+        
+          
+            
+              d
+               
+            
+            
+              d
+              t
+            
+          
+        
+         
+         
+         
+        
+          |
+        
+        
+          |
+        
+        
+          
+            
+              r
+               
+            
+          
+        
+        
+        
+          |
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+         
+         
+         
+         
+         
+        
+          
+            
+              d
+              
+              R
+              T
+            
+            
+              6
+               
+               
+              a
+              
+              
+                
+                  
+                    N
+                  
+                
+                
+                  A
+                
+              
+            
+          
+        
+      
+    
+    }||^}}}
+  
+ce qui donne par intégration par rapport au temps t la loi de la diffusion classique :
+  
+    
+      
+         
+         
+        
+          |
+        
+        
+          |
+        
+        
+          
+            
+              r
+               
+            
+          
+        
+        
+        
+          |
+        
+        
+          
+            |
+          
+          
+            2
+          
+        
+         
+         
+         
+         
+         
+        
+          
+            
+              2
+              d
+              
+              R
+              T
+            
+            
+              6
+               
+               
+              a
+              
+              
+                
+                  
+                    N
+                  
+                
+                
+                  A
+                
+              
+            
+          
+        
+         
+        t
+         
+        =
+         
+        2
+        d
+         
+        D
+         
+        t
+      
+    
+    }||^}}\ t\ =\ 2d\ D\ t}
+  
+où le coefficient de diffusion 
+  
+    
+      
+        D
+      
+    
+    
+  
+ s'écrit explicitement :
+  
+    
+      
+        D
+         
+        =
+         
+        
+          
+            
+              R
+              T
+            
+            
+              6
+               
+               
+              a
+              
+              
+                
+                  
+                    N
+                  
+                
+                
+                  A
+                
+              
+            
+          
+        
+      
+    
+    }}}
+  
+On retrouve bien le résultat d'Einstein .
+Un élément intéressant de l'équation de Langevin est qu'elle permet de faire le lien entre le bruit thermique d'une particule amortie dans un potentiel et la statistique de Boltzmann.
+Prenons le cas simple d'une particule se déplaçant en une dimension avec la trajectoire 
+  
+    
+      
+        x
+        
+      
+    
+    
+  
+ dans le potentiel 
+  
+    
+      
+        V
+        
+      
+    
+    
+  
+. Le mouvement est alors régi par l'équation de Langevin:
+où 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ est un bruit blanc thermique caractérisé par 
+  
+    
+      
+         
+         
+        
+         
+        
+         
+        =
+        2
+         
+        k
+        T
+         
+        
+      
+    
+    
+  
+ et 
+  
+    
+      
+         
+      
+    
+    
+  
+ est la constante d'amortissement. Nous aimerions déterminer la distribution de la position de la particule pour le régime stationnaire 
+  
+    
+      
+        p
+        
+        =
+        
+          lim
+          
+            t
+             
+             
+          
+        
+        p
+        
+      
+    
+    p}
+  
+ où 
+  
+    
+      
+        p
+        
+      
+    
+    
+  
+ indique la probabilité de trouver la particule en 
+  
+    
+      
+        x
+      
+    
+    
+  
+ au temps 
+  
+    
+      
+        t
+      
+    
+    
+  
+. Pour obtenir cette distribution, nous allons introduire une fonction test quelconque 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ et nous intéresser à la moyenne de cette fonction sur les différentes réalisation de la trajectoire dans le régime stationnaire, c'est-à-dire la valeur finale de : 
+  
+    
+      
+         
+        f
+        
+         
+        
+        =
+         
+        f
+        
+        p
+        
+        
+        
+          d
+        
+        x
+      
+    
+     x}
+  
+.
+En dérivant par rapport au temps, on obtient:
+Évidemment, dans le régime stationnaire, la dérivée temporelle est nulle. De plus, on peut utiliser la règle de Stratonovitch pour faire disparaître la dépendance en 
+  
+    
+      
+         
+      
+    
+    
+  
+ dans le dernier terme. On obtient ainsi :
+On utilise alors la définition de la moyenne sur les différentes réalisation pour faire apparaître la distribution 
+  
+    
+      
+        p
+        
+      
+    
+    
+  
+ qui nous intéresse
+où nous avons utilisé une intégration par parties. Comme cette formule est vraie pour 
+  
+    
+      
+        f
+      
+    
+    
+  
+ quelconque, on doit avoir :
+Ce qui nous permet de retrouver la distribution de Boltzmann : 
+  
+    
+      
+        p
+        
+         
+        exp
+         
+        
+           
+          
+            
+              
+                V
+                
+              
+              
+                k
+                T
+              
+            
+          
+        
+        .
+      
+    
+    
+  
+« La valeur moyenne du terme 
+  
+    
+      
+        
+          
+            
+              r
+               
+            
+          
+        
+         
+        
+          
+            
+               
+               
+            
+          
+        
+      
+    
+    }\cdot }
+  
+ est  évidemment nulle à cause des irrégularités des actions complémentaires 
+  
+    
+      
+        
+          
+            
+               
+               
+            
+          
+        
+      
+    
+    {\displaystyle }
+  
+. »
+Ce n'est en réalité pas si évident que cela ; lire par exemple l'article de Bertrand Duplantier, page 176, note 52. Cet auteur donne un peu plus loin dans le même article la dérivation moderne de la solution de l'équation stochastique de Langevin . Voir aussi K. Razi Naqvi, "The origin of the langevin equation and the calculation of the mean squared displacement: Let’s set the record straight." ArXiv:physics/0502141,
+February 2005.

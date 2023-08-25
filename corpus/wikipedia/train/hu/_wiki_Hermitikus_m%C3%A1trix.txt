@@ -1,0 +1,117 @@
+Pontosságellenőrzött
+A lineáris algebrában a hermitikus mátrix, Hermite-mátrix vagy ritkábban ermitikus mátrix 1  olyan komplex négyzetes mátrix, amely egyenlő konjugált transzponált mátrixával, vagyis minden i és j index esetén igaz, hogy az i-edik sorban és j-edik oszlopban lévő elem egyenlő a j-ik sorban és i-edik oszlopban lévő elem komplex konjugáltjával, azaz 
+  
+    
+      
+        
+          a
+          
+            i
+            ,
+            j
+          
+        
+        =
+        
+          
+            
+              a
+              
+                j
+                ,
+                i
+              
+            
+             
+          
+        
+        ,
+         
+        
+        i
+        ,
+        j
+         
+        
+          
+        
+      
+    
+    =},\forall \,i,j\in \left}
+  
+; vagy az A* konjugált transzponálttal jelölve: 
+  
+    
+      
+        A
+        =
+        
+          A
+          
+             
+          
+        
+      
+    
+    }
+  
+.
+Egy Hermite-mátrix például: 
+  
+    
+      
+        
+          
+            
+          
+        
+      
+    
+    3&2+i\\2-i&1\end
+  
+.
+A főátló elemei szükségszerűen valós számok. A valós szimmetrikus mátrix a Hermite-mátrix speciális esete.
+A hermitikus mátrixok normális mátrixok, azaz teljesül rájuk az 
+  
+    
+      
+        
+          A
+          
+             
+          
+        
+        A
+        =
+        A
+        
+          A
+          
+             
+          
+        
+      
+    
+    A=AA^
+  
+ összefüggés. A véges dimenziós spektrálelmélet szerint ezért diagonális mátrixszá transzformálhatók: 
+  
+    
+      
+        D
+        =
+        
+          U
+          
+             
+          
+        
+        A
+        U
+      
+    
+    AU}
+  
+, ahol U unitér. Az így kapott D átlós mátrixok valósak – ez azt jelenti, hogy sajátértékeik valós számok, és sajátvektoraik valós vektorok. Sőt, ha A hermitikus, akkor a különböző sajátértékeihez tartozó sajátvektorai ortogonálisak: van egy ortonormált bázis A sajátvektoraiból.
+Két Hermite-mátrix összege is Hermite-mátrix, és egy invertálható Hermite-mátrix inverze is hermitikus. A szorzatuk viszont csak akkor lesz hermitikus, ha felcserélhetők; ezért An hermitikus, ha A is az, és n pozitív egész. Az nxn-es hermitikus mátrixok vektorteret alkotnak a valós számok fölött, de a komplex számok fölött nem. E vektortér dimenziója n2 .
+Ha egy hermitikus mátrix sajátértékei mind pozitívak, akkor a mátrix pozitív definit; ha nemnegatívak, akkor pozitív szemidefinit . Hasonlóan definiálják a negatív definit és negatív szemidefinit mátrixokat. Ha pozitív és negatív sajátértékei egyaránt vannak, akkor azt mondjuk, hogy a mátrix indefinit.

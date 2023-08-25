@@ -1,0 +1,76 @@
+Pontosságellenőrzött
+  
+    
+      
+         
+      
+    
+    
+  
+ 
+  
+    
+      
+         
+      
+    
+    
+  
+  
+    
+      
+         
+      
+    
+    
+  
+Az akkor és csak akkor kifejezés egy természetes nyelvi, logikai természetű viszony , elnevezése a logikai grammatikában bikondicionális. Arra való, hogy két tagmondat felhasználásával olyan összetett mondatot képezzünk, mely szándékaink szerint azt fejezi ki, hogy mindkét tagmondat ugyanazon körülmények között tekinthető igaznak és hamisnak. Például:
+A bikondicionális elnevezés abból származik, hogy kifejezhető két implikáció kapcsolataként. Például az „akkor és csak akkor P, ha Q” azt jelenti, hogy a „ha P, akkor Q” és a „ha Q, akkor P” is igaz.
+A kifejezés használata ritka  a mindennapi nyelvben, de a tudományos nyelvben, főleg a matematika és a filozófia területén igen sokszor előfordul. Ezekből a szaknyelvekből, a német „dann und nur dann” kifejezés tükörfordításaként került a magyarba. Szinonimája a
+fordulat, de használják helyette az
+kifejezéseket is. Hosszúságára való tekintettel néha rövidítik, pl.:
+vagy újabban, az angol „if and only if” kifejezés ottani rövidítését átvéve
+Bármilyen logikát is tekintünk érvényesnek, az
+nem más, mint a
+Ez attól függően más és más, hogy a „… ha akkor …” kondicionálison mit értünk. Ha A 
+  
+    
+      
+         
+      
+    
+    
+  
+ B a Philon nevéhez fűződő, illetve a Russell által materiális kondicionálisnak nevezett konnektívum, akkor a bikondicionális igazságtáblázata:
+Ez az eredmény produkálható XNOR kapuval, tagadása XOR kapuval. 2 
+Szokásos jelölése "↔", "
+  
+    
+      
+         
+      
+    
+    
+  
+", "≡", néha "iff", különösen angol szövegekben. Mindezeket ekvivalensnek tekintik. Az elsőrendű logikában azonban megkülönböztetik a logikai képletekben használt ↔, és a logikai képletek közötti összefüggést jelölő ⇔ jelet. Łukasiewicz lengyelformájában jele 'E'. 3 
+TeXben az \iff utasítás hosszú kettős nyilat produkál: 
+  
+    
+      
+        
+         
+        
+      
+    
+    
+  
+. 4 
+A definíciók általában akkor és csak akkor kijelentések, így a szigorú logikai pontosság Kelley szerint megköveteli ennek megfogalmazását. Angol szövegekben
+ez "if and only if" vagy iff, ahogy az a General Topologyban is olvasható. Azonban ezt nem követi a legtöbb matematikai szöveg, és egyszerű implikációt használ, amit ebben a speciális szövegkörnyezetben ekvivalenciaként kell értelmezni. Ez látható a Wikipédiában is. 5 
+A legtöbb logikai rendszerben egy ekvivalencia bizonyítható vagy úgy, hogy „ha P, akkor Q” és „ha Q, akkor P”, vagy „ha P, akkor Q” és „ha nem P, akkor nem Q”. 6  A két állítás bizonyítása gyakran természetesebb, mivel sokkal nehezebb azt észrevenni, hogyan lehet egyből az ekvivalenciát belátni. Egy további alternatíva a „ vagy ” bizonyítása, a diszjunkció tagjain keresztül.
+Az iff rövidítés először John L. Kelley 1955-ös  General Topology című könyvében jelent meg. 7  A jelölés kitalálását Halmos Pálnak tulajdonítják. Ő is úgy gondolta, hogy ő vezette be, de nem volt biztos abban, hogy nem használta előtte más. 8 
+Az iff rövidítést szóban általában feloldják, azt mondják, hogy "if and only if". Azonban Kelley és Halmos Pál a jó hangzás kedvéért nem oldották fel, hanem hosszan ejtették az f-et, hogy megkülönböztessék az egyszerű iftől. Ugyanezt javasolják egy diszkrét matematika könyv szerzői, IPA jelekkel is leírva: . 9 
+A valódi részhalmaza B-nek. Egy szám csak akkor van A-ban, ha B-beli; egy B-beli szám lehet, hogy nem A-beli.
+C részhalmaza B-nek, de nem valódi része. Egy szám B-beli akkor és csak akkor, ha C-beli, és egy szám C-beli akkor és csak akkor, ha B-beli.
+Az Euler-diagramok a halmazelméleti Venn-diagramokra hasonlítanak, de logikai kapcsolatokat fejeznek ki. A bikondicionális két implikációra bontható. Halmazelméleti kapcsolatokkal kifejezve ez azt jelenti, hogy, ha "P→Q", akkor a P tulajdonságú elemek bírnak a Q tulajdonsággal is; tehát a P tulajdonságú elemek a Q tulajdonságúak részhalmazát alkotják. A fordított irányú implikációból következik, hogy a Q tulajdonság feltételezi a P tulajdonságot, azaz minden Q tulajdonságú elem P tulajdonságú is; tehát a Q tulajdonságú elemek a P tulajdonságúak részhalmazát alkotják. Mivel Q része P-nek, és P része Q-nak, azért a P és a Q halmazok megegyeznek.
+Ez a szócikk részben vagy egészben  az   If and only if című angol Wikipédia-szócikk fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel. Ez a jelzés csupán a megfogalmazás eredetét és a szerzői jogokat jelzi, nem szolgál a cikkben szereplő információk forrásmegjelöléseként.

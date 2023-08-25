@@ -1,0 +1,17 @@
+Una interfície  en programació orientada a objectes, i més concretament, en llenguatge Java, és un tipus abstracte útil per definir el conjunt d'operacions i dades realitzable i accessibles sobre un objecte.
+Quan es defineix una interfície se solen especificar només les funcions sobre l'objecte, sense implementar-ne la lògica. És quan es creen classes que es poden implementar les operacions definides en interfícies. Aquesta pràctica és útil quan es vol focalitzar unes funcionalitats/característiques que són comunes entre diferents classes però que, en canvi, no estan relacionades jeràrquicament.
+L'objecte de classe "Ocell" i el de classe "Avió" no tenen de cap manera cap relació jeràrquica. El primer pertany al regne animal i el segon és una màquina artificial. Però els dos tenen la capacitat de volar. En java, aquesta realitat es definiria de la següent manera:
+       public     interface   Volar      
+       public     class   Ocell     extends     Animal     implements     Volar      
+  	 
+  	  public     aterrar       ; 
+  	  public     dormir        
+       public     class   Avio     extends     Maquina     implements     Volar      
+  	  public     aterrar       ; 
+  	  public     aturar        
+       Volar     objecteVolador1     =     new     Avio  ; 
+    Volar     objecteVolador2     =     new     Ocell  ; 
+    objecteVolador1  .  enlairarse  ; 
+    objecteVolador2  .  enlairarse  ; 
+       public     class   Persona     extends     Animal     implements     Enraonar  ,     Caminar  ,     Escriure     ; 
+</pr

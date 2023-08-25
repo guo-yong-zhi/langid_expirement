@@ -1,0 +1,4 @@
+Things es un gestor de tareas para macOS, iPadOS, iOS, watchOS y visionOS creada por Cultured Code, una startup de software con sede en Stuttgart, Alemania. Se basa en la filosofía GTD .  
+Primero se lanzó para Mac como una alfa que salió a finales de 2007 para 12,000 personas. En julio siguiente, cuando se lanzó la App Store, estuvo disponible para iPhone. Luego se lanzó junto con el iPad en 2010 y se convirtió en una de las primeras aplicaciones para Apple Watch en 2015. 
+Actualmente el programa se encuentra en su versión 3.17.
+En un futuro se prevé también su integración con el servicio de apple "Mobile Me".

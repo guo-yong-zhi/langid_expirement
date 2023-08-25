@@ -1,0 +1,7 @@
+FIFA memberikan sebuah kode tiga-huruf  untuk setiap negara anggota dan non-anggotanya. Berikut adalah kode resmi yang digunakan oleh FIFA dan konfederasi-konfederasi benuanya  sebagai singkatan nama dari negara dan wilayah dependensi bersangkutan, dalam kompetisi resmi.
+Saat ini ada 211 anggota FIFA, masing-masing diberikan kode negara.
+Kode berikut merujuk kepada negara atau wilayah dependensi yang saat ini tidak berafiliasi ke FIFA, tetapi kodenya muncul di dalam database hasil pertandingan FIFA, ataupun sering dipergunakan oleh situs web konfederasi.
+Kode berikut merujuk kepada negara atau wilayah dependensi yang saat ini tidak berafiliasi ke FIFA. Walaupun mereka merupakan anggota konfederasi regionalnya masing-masing, kodenya jarang dipergunakan dalam komunikasi FIFA.
+Kode berikut tidak dipergunakan lagi karena negara yang bersangkutan sudah tidak ada, mengganti namanya, mengganti kodenya, atau menjadi bagian dari negara lain.
+Walaupun sebagian besar kode FIFA sama dengan kode IOC yang dipergunakan dalam Olimpiade, tetapi masih terdapat beberapa perbedaan. Perbedaan itu salah satunya disebabkan karena ada beberapa negara atau wilayah yang berafiliasi ke FIFA tetapi bukan anggota IOC, demikian juga sebaliknya.
+Selain itu, perbedaan yang lebih banyak lagi terdapat antara kode FIFA dengan kode ISO 3166-1 alpha-3.

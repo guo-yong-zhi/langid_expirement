@@ -1,0 +1,123 @@
+Cet article ne cite pas suffisamment ses sources .
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+En mathématiques, un ensemble ordonné filtrant est un ensemble ordonné  tel que pour toute paire d'éléments, il existe un élément qui est plus grand que chaque élément de la paire. Cela sous-entend en premier lieu que ce troisième élément peut être comparé aux deux premiers, ce qui n'est pas automatique dans un ensemble ordonné .
+En topologie, cette notion est utilisée pour définir les suites généralisées où au lieu d'être indexées par 
+  
+    
+      
+        
+          N
+        
+      
+    
+     }
+  
+, elles sont indexées par un ensemble ordonné filtrant. L'idée étant que pour exprimer que quelque chose « tend vers l'infini » il n'est pas nécessaire d'avoir un ordre total comme sur 
+  
+    
+      
+        
+          N
+        
+      
+    
+     }
+  
+ mais simplement que pour tout sous-ensemble fini, on puisse dire qu'il y a un élément plus grand que tous.
+Un ensemble ordonné   est dit :
+On peut généraliser les définitions ci-dessus aux relations de préordre.
+Soit 
+  
+    
+      
+        
+      
+    
+    
+  
+ un ensemble ordonné filtrant à gauche. L'ensemble
+Lorsque I admet un plus grand élément 
+  
+    
+      
+         
+      
+    
+    
+  
+, ce filtre est le filtre principal 
+  
+    
+      
+        
+          
+            
+              F
+            
+          
+          
+             
+          
+        
+      
+    
+    }_
+  
+.
+Soit 
+  
+    
+      
+        
+      
+    
+    
+  
+ un ensemble ordonné  et J une partie de I. On dit que J est cofinale  si 
+  
+    
+      
+         
+        x
+         
+        I
+        ,
+         
+         
+        y
+         
+        J
+        ,
+         
+        x
+         
+        y
+      
+    
+    
+  
+ .
+Dans les différentes définitions de la limite, la limite en analyse ou la limite inductive ou projective en algèbre, on ne change pas la  limite en remplaçant un système filtrant par une partie cofinale.
+On dit que J est une suite cofinale si 
+  
+    
+      
+        
+      
+    
+    
+  
+ est isomorphe à 
+  
+    
+      
+        
+      
+    
+    
+  
+. L'avantage d'une suite cofinale est de revenir à une définition fondamentale de la limite. réf. nécessaire 
+Tout ensemble ordonné filtrant qui admet une partie cofinale dénombrable admet une suite cofinale. En particulier, dans un espace topologique, si tout point admet une base de voisinages dénombrable, alors c'est un espace séquentiel, c'est-à-dire qu'on peut décrire complètement la topologie avec des suites.
+Idéal 
+Nawfal El Hage Hassan, Topologie générale et espaces normés, présentation en ligne

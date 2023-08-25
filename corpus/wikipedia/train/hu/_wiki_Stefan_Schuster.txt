@@ -1,0 +1,10 @@
+Pontosságellenőrzött
+Stefan Schuster  német tudós. A berlini Humboldt Egyetemen tanult biofizikát 1981 és 1986 között. A doktori értekezését  ugyanazon az egyetemen védte meg 1988-ban. Posztdoktorként kutatási munkáját Berlinben, Bordeaux-ban , Amszterdamban és Mariborban folytatta. 2003-tól vezeti a Bioinformatikai Tanszéket a jénai Friedrich Schiller Egyetemen. Kutatási témái főleg az elméleti biológia tárgykörébe tartoznak:
+Egy előző módszer alapján  3  kifejlesztette az elementáris módok módszerét, amita biotechnológiában sokféleképpen alkalmaznak.
+Sebastian Bonhoeffer-rel és Thomas Pfeiffer-rel együtt úttörő munkát végzettezen elmélet felhasználását tekintve a biokémiában. 5 
+Stefan Schuster kritizálta a Flux Egyensúly analízisét  azonérvek alapján, hogy az analízis nem elégségesen indokolt optimalitásfeltételein alapszik. 6 
+Schuster, S., Dandekar, T., Fell, D.A. : Detection of elementary flux modes in biochemical networks: A promising tool for pathway analysis and metabolic engineering. Trends in Biotechnology 17, pp. 53–60.
+Pfeiffer, T., Sánchez-Valdenebro, I., Nuño, J.C., Montero, F., Schuster, S. : METATOOL: For studying metabolic networks. Bioinformatics 15, pp. 251–257.
+Schuster, S., Fell, D.A., Dandekar, T. : A general definition of metabolic pathways useful for systematic organization and analysis of complex metabolic networks. Nature Biotechnology 18, pp. 326–332.
+Pfeiffer, T., Schuster, S., Bonhoeffer, S. : Cooperation and competition in the evolution of ATP-producing pathways. Science 292, pp. 504–507.
+Schuster, S., Pfeiffer, T., Moldenhauer, F., Koch, I., Dandekar, T. : Exploring the pathway structure of metabolism: Decomposition into subnetworks and application to Mycoplasma pneumoniae. Bioinformatics 18, pp. 351–361

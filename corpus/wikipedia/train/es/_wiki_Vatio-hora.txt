@@ -1,0 +1,101 @@
+El vatio-hora, simbolizado Wh , es una unidad de energía expresada en forma de unidades de potencia por tiempo, con lo que se da a entender que la cantidad de energía de la que se habla es capaz de producir y sustentar una cierta potencia durante un determinado tiempo. Así, un vatio-hora es la energía necesaria para mantener una potencia constante de un vatio  durante una hora, y equivale a 3600 julios. Es una unidad que no pertenece al Sistema Internacional de Unidades.
+El kilovatio-hora , equivalente a mil vatios-hora, se usa generalmente para la facturación del consumo eléctrico domiciliario. El megavatio-hora, igual a un millón de Wh, suele emplearse para medir el consumo de grandes plantas industriales o de conglomerados urbanos. La CIE recomienda usar el julio o sus múltiplos   para estos usos, aunque también permite el vatio-hora y sus múltiplos. El NIST solo permite el julio. 
+Múltiplos aún más grandes como el gigavatio-hora , el teravatio-hora  o el kilovatio-año, son utilizados para referirse a las energías producidas por las centrales eléctricas durante un cierto período. Por otra parte, el vatio-segundo , que no es otra cosa más que una forma alternativa de llamar al propio julio, es una unidad habitual para referir las energías involucradas en fenómenos de corta duración como los destellos de un flash fotográfico.
+La expresión «kilovatios por hora» y su interpretación en forma de cociente  son incorrectas, pues entonces no se trataría de unidades de energía.
+Cuando una cierta cantidad de energía se expresa mediante la combinación de una unidad de potencia y una de tiempo, puede ser interpretada conceptualmente de dos formas diferentes, aunque cuantitativamente equivalentes. Por ejemplo, si hablamos de «100 vatios-hora» podemos entender indistintamente que se trata de la energía necesaria para mantener encendida una bombilla de 100 W durante una hora, o bien una pequeña luz de apenas 1 W durante 100 horas.
+En otras palabras, el saber que se dispone de una energía de 100 Wh no nos dice nada acerca de en cuánto tiempo ha de ser consumida esa energía. Podríamos usarla tanto para encender la lámpara de 100 W durante una hora como para hacer funcionar una poderosa máquina de cientos de kW durante unos pocos segundos, producir una violenta descarga de varios millones de vatios durante unos milisegundos, o mantener activo por años un microcircuito cuyo consumo sea de apenas unos microvatios.
+El vatio —o watt— es una magnitud intensiva: mide la potencia de consumo instantánea. El vatio-hora es una magnitud extensiva: mide la cantidad de trabajo realizada durante un tiempo determinado.
+Por ejemplo, si tenemos un artefacto de 100 W de potencia y lo tenemos encendido durante 1 hora, habrá consumido 100 Wh. Si ese mismo artefacto estuviere encendido durante 2 horas, habrá consumido 200 Wh, en cambio si el artefacto es 200 W y este estuviera encendido durante una hora, el consumo sería de 200 Wh.
+El consumo eléctrico facturado se mide normalmente en kilovatios-hora.
+Un vatio es igual a un julio por segundo , un kW es igual a 1000 W y una hora es igual a 3600 segundos; entonces, el kilovatio-hora será:
+  
+    
+      
+        
+          
+            1 kWh
+          
+        
+        =
+        
+          
+            
+              1000 J
+            
+            
+              1 s 
+            
+          
+        
+         
+        
+          
+            3600 s 
+          
+        
+        =
+        
+          
+            3 600 000 J = 3.6 MJ
+          
+        
+      
+    
+    }=\times =}
+  
+Además:
+  
+    
+      
+        
+          
+            1 kWh
+          
+        
+        =
+        
+          
+            
+              238,8459 cal
+            
+            
+              1 s 
+            
+          
+        
+         
+        
+          
+            3600 s 
+          
+        
+        =
+        
+          
+            859 845,2 cal
+          
+        
+        =
+        
+          
+            859,8452 Kcal
+          
+        
+      
+    
+    }=\times ==}
+  
+Algunos múltiplos son: 
+1 kWh ≈ 3412 BTU ≈ a la energía térmica producida por 0,1 Nm³  de gas natural .
+Otras equivalencias energéticas son:
+ Media de referencia: 32,35 °API y densidad relativa 0,8636
+Los aparatos eléctricos cuando están funcionando generan un consumo de energía eléctrica en función de la potencia que tengan y del tiempo que estén en funcionamiento. En España, el consumo de energía eléctrica se contabiliza mediante un dispositivo precintado que se instala en los accesos a la vivienda, denominado «contador», y que periódicamente revisa un empleado de la compañía suministradora de la electricidad anotando el consumo realizado en ese período, aunque con la adopción por parte de las mismas de los contadores digitales, que envían la medida a través de las propias líneas eléctricas, esta actividad ha caído en desuso.
+El cálculo del consumo eléctrico en kWh del contador, se realiza mediante una sencilla multiplicación de la potencia utilizada por las horas de funcionamiento.
+Todos los sufijos de SI se pueden aplicar al vatio-hora. un kilovatio-hora  son 1000 Wh; un megavatio-hora  es 1 millón de Wh; un millivatio-hora  es 1/1000 Wh y así sucesivamente.
+Esta sección muestra ejemplos de la energía en vatios-hora utilizada en distintos ámbitos.
+Un milivatio-hora  es equivalente a una milésima de vatio-hora. Es el orden de magnitud de la energía almacenada en una batería recargable tipo AAA.
+Es el orden de magnitud de la energía contenida en la batería de una computadora portátil.
+El kilovatio-hora , igual a mil vatios-hora . El kilovatio-hora se suele utilizar para facturar la energía eléctrica por las compañías eléctricas. Pues el consumo de un usuario doméstico residencial típico, es de unos cientos de kilovatios-hora mensuales.
+El megavatio-hora  es igual a un millón de vatios-hora . Se emplea para medir niveles de energías grandes como el consumo de grandes industrias o conglomerados urbanos y para dar a conocer el índice de producción de una central eléctrica. 
+Un gigavatio-hora  es una unidad de energía equivalente a mil millones de vatios-hora .  El gigavatio-hora se utiliza para medir consumos de conglomerados industriales de carácter multinacional y que sean grandes consumidores de energía eléctrica, tales como siderurgias o cementeras.
+Un teravatio-hora  es una unidad de energía equivalente a un billón de vatios-hora . El teravatio-hora se utiliza para conocer el índice de producción de energía eléctrica de un país importante.

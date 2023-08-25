@@ -1,0 +1,4 @@
+Rietveld is a web-based collaborative code review tool for Subversion written by Guido van Rossum to run on Google's cloud service. Van Rossum based Rietveld on the experience he had writing Mondrian. Mondrian was a proprietary application used internally by Google to review their code.
+Gerrit is a fork of Rietveld started because ACL patches would not get integrated into Rietveld.
+Rietveld was named by its author Guido van Rossum after Gerrit Rietveld, who was  "one of  favorite Dutch architects and the designer of the Zig-Zag chair." 1 
+This free and open-source software article is a stub. You can help Wikipedia by expanding it.

@@ -1,0 +1,1 @@
+digiKam je slobodný softvér, aplikácia pre KDE na správu albumov a kolekcií digitálnych obrázkov. Pomocou KIPI rozhrania ponúka tiež nástroje na ich úpravu.

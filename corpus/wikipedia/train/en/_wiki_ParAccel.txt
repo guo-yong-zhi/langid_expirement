@@ -1,0 +1,25 @@
+ParAccel, Inc. was a California-based software company.
+It provided a database management system designed to provide advanced analytics for business intelligence. ParAccel was acquired by Actian in April 2013. 1 
+ParAccel was a venture-backed company focused on developing software for data analysis.
+It acquired some intellectual property from the company XPrime, which ended operations in 2005. 2  3 
+It was officially incorporated in February 2006, founded by Barry Zane who became chief technology officer, Tom Clancey as interim-CEO, and was first funded by angel investors.
+In August 2006 the first series of venture capital came from  Mohr Davidow Ventures, Bay Partners and Tao Venture Partners.
+In 2007 the company was based in San Diego, California, with an office in Ann Arbor, Michigan. David J. Ehrlich was chief executive, and Bruce Scott, vice president of engineering. 4 
+In November 2007, a second round of $20 million included previous investors and was led by Walden Ventures. 5 
+In December the company opened an office in Cupertino, California . 6 
+A third round of $22 million in June 2009 was led by Menlo Ventures. In January 2010 Mark Lockareff replaced Ehrlich as interim chief executive. 7 
+In March 2010 the Wall Street Journal listed ParAccel in a list of 50 top venture backed companies. 8 
+A result from the TPC-H benchmark from the Transaction Processing Performance Council in April 2010 had record performance at 1 TB data size using VMware. 9  10  Charles W. Berger was appointed chairman and CEO in September 2010. 7 
+By early 2011 many of its competitors had been acquired. 11 
+During its July 2011 funding round, existing investors were led by Amazon.com. 12 
+In December 2012, the Amazon Redshift database service was announced  using ParAccel technology. 13  14 
+ParAccel was based in California with offices in Campbell and San Diego.
+Competitors included Greenplum , EXASOL, Vertica , Netezza , Oracle Corporation, and Teradata . 15  12 
+ParAccel was acquired by Actian in April 2013. 1  16 
+Berger left at that time to become CEO of Extreme Networks. 17 
+In 2006  ParAccel offered two different products: Amigo and Maverick. 18   Amigo was designed to accelerate queries directed at an existing data warehouse while leaving the data warehouse as the database of record.  In contrast Maverick was designed as a stand-alone data store. 18  19 
+ParAccel discontinued Amigo in favor of the stand-alone offering which evolved into the ParAccel Analytic Database . when? 
+The ParAccel Analytic Database was a parallel relational database system using a shared-nothing architecture with a columnar orientation, adaptive compression, memory-centric design. 20 
+ParAccel's DBMS engine is built for analytics, initially based on PostgreSQL.  ParAccel began phasing in a new optimizer  in release 2.0 and made significant changes to Omne in subsequent releases .
+ParAccel implements compiled queries, and a proprietary interconnect protocol for inter-node communications.
+ParAccel offered on-demand integration  modules for analytics and data outside of the ParAccel Analytic Platform.

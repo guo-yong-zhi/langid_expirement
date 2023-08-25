@@ -1,0 +1,2 @@
+Mobilusis elektroninis parašas yra saugaus skaitmeninio parašo rūšis, kai pasirašymas  įvyksta mobiliojo ryšio SIM kortelėje:
+Lietuvoje šiuo metu kuriamas bendras pasirašytų elektroninių dokumentų formatas, kuriam reikalavimus 1  nustato LR Archyvų departamentas.

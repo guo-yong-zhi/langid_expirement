@@ -1,0 +1,33 @@
+Il Setsuban kanri  è una metodologia di gestione della produzione per aziende che lavorano a commessa. Più precisamente designa un “sistema di gestione a blocchi sincronizzati di processo” originariamente definito ed impiegato come modello di gestione per il controllo di avanzamento delle commesse in aziende caratterizzate da prodotti fortemente personalizzati sulle richieste del cliente. Esso è specifico per le organizzazioni il cui modello produttivo sia di tipo DTO , ETO , ATO  o MTO .
+Originariamente le prime applicazioni di questo modello si devono alle ferrovie e all'industria aeronautica nipponica, che nella gestione operativa delle attività faceva riferimento ad una gestione dei processi/reparti secondo un sistema di avanzamento per blocchi .
+Da quest'ultimo ebbero origine la gestione cosiddetta oiban kanri per le produzioni in serie, seiban kanri per le produzioni discontinue e setsuban kanri per le produzioni a commessa. Lo studio e la formalizzazione di questo duplice approccio furono in seguito condotti da Japan Management Association  che, basandosi sulle esperienze industriali più significative  lo arricchì con strumenti di supporto specifici e contribuì in modo rilevante alla definizione della metodologia che denominò appunto setsuban kanri dal significato degli ideogrammi 節  e 番  + 管理 .
+Impiegato fino agli anni settanta in molte aziende operanti a commessa in Giappone, per alcuni decenni se ne è persa la conoscenza. Dal 2006, grazie in particolare alle esperienze dirette dell'ingegnere Akira Kōdate, che lo ha segnalato e riproposto in Italia, il termine è tornato in auge ed è oggi un marchio registrato 1  dalla società JMAC Europe.
+I principi base del setsuban kanri sono:
+1.	La gestione dei due assi 
+Le aziende che operano a commessa devono presidiare due “assi” in maniera integrata e bilanciata:
+a.	Asse X: asse di commessa, in cui si devono presidiare i temi di qualità, costo, tempo e soddisfazione del cliente di una singola commessa lungo tutte le fasi da ricevimento ordine a consegna al cliente
+b.	Asse Y: asse di reparto/funzione, in cui si devono presidiare carico/capacità, competenze e priorità rispetto a tutte le commesse che attraversano un unico reparto/funzione.
+Il rispetto degli obiettivi di singola commessa è raggiungibile solo gestendo contemporaneamente entrambi gli assi secondo un piano di produzione che sincronizzi tra loro le varie commesse. Le normali pratiche di Project Management risultano infatti generalmente troppo sbilanciate sull'asse X; le normali pratiche di gestione della produzione si limitano, al contrario, al presidio pressoché esclusivo dell'asse Y.
+2.	La sincronizzazione:
+Così come nel sistema ferroviario giapponese l'arrivo del treno in orario non è garantito solo controllando il singolo treno, ma sincronizzando gli orari di ingresso e uscita di tutti i treni in ogni stazione con quella successiva e quella precedente, così la commessa può essere gestita solo sincronizzando l'intero sistema e verificando la coerenza tra il piano di realizzazione dei disegni, il piano di approvvigionamento e il piano di produzione.
+3.	Pianificazione a ritroso a partire dal punto zero:
+Ogni singola commessa va pianificata a ritroso a partire da un punto zero . Si identificano le unità di tempo di riferimento sul calendario chiamate Setsuban  e si scandisce la durata delle varie fasi utilizzando indicatori chiamati teban.
+4.	I quattro piani multilivello. Il sistema di pianificazione prevede 4 tipi di piano:
+a.	Piano di livello 0 o di portafoglio: tutte le commesse su tutti i reparti/funzioni
+b.	Piano di livello 1 o di commessa: ciascuna commessa lungo tutti i reparti
+c.	Piano di livello 2 o di reparto: tutte le commesse su un unico reparto/funzioni
+d.	Piano di livello 3 o di blocco: piano di blocco cioè insieme delle attività relative ad un'unica commessa che si effettuano all'interno di un unico reparto/funzione.
+Blocco di avanzamento :
+insieme di attività svolte per una commessa all'interno di un reparto o ufficio di cui è chiaramente identificato un responsabile per il corretto espletamento in termini di qualità e rispetto del piano di produzione.
+Unità di tempo di riferimento :
+è l'unità in cui viene diviso il tempo disponibile e su cui viene costruita la pianificazione, per semplicità generalmente coincide con la settimana .
+Il turno di consegna :
+è il numero che indica il momento temporale in cui l'oggetto della pianificazione deve raggiungere o uscire da un determinato reparto o ufficio. .
+L’assistente all’avanzamento :
+è il responsabile del corretto avanzamento da parte del blocco del reparto in cui si trova. Non necessariamente è un ruolo dedicato, ma può essere svolto da capiturno, capireparto, singoli operatori o addirittura dalla logistica interna .
+Il sistema di gestione :
+è il vero nome del sistema organizzativo e gestionale da cui deriva il “setsuban kanri” per le aziende a commessa. Il termine si riferisce all'insieme dei processi, ruoli, meccanismi di coordinamento e strumenti visuali di supporto che permette la gestione dei processi/ reparti per "blocchi di avanzamento".
+Uno dei principi fondanti del setsuban kanri è che il controllo avanzamento può avvenire solo abbinando a strumenti elettronici, alcuni strumenti visuali utilizzati quanto più vicini al luogo fisico in cui avvengono le cose . In tal senso vengono introdotti strumenti di quattro tipi:
+Il metodo ha molti aspetti comuni con le tecniche di Lean Thinking, nate ispirandosi al Toyota Production System  e ne facilita l'applicazione alle aziende a commessa, superandone alcuni limiti grazie all'utilizzo di approcci che rispondono alle esigenze di discontinuità produttiva, alta personalizzazione di prodotto e stretta interrelazione tra fase commerciale, fase di progettazione e fase di produzione.
+In lingua italiana:
+In lingua giapponese:

@@ -1,0 +1,165 @@
+Ett gaussiskt heltal 
+  
+    
+      
+        z
+      
+    
+    
+  
+ är ett gaussiskt primtal, om det endast har triviala faktoriseringar, alltså sådana där en av faktorerna är någon av "enheterna" 1, -1, den imaginära enheten 
+  
+    
+      
+        i
+      
+    
+    
+  
+ eller 
+  
+    
+      
+         
+        i
+      
+    
+    
+  
+, men 
+  
+    
+      
+        z
+      
+    
+    
+  
+ självt inte är en enhet.
+Ett vanligt primtal 
+  
+    
+      
+        p
+         
+        
+          
+            Z
+          
+          
+            +
+          
+        
+      
+    
+     ^
+  
+ är ett gaussiskt primtal om och endast om 
+  
+    
+      
+        p
+        =
+        4
+        n
+        +
+        3
+      
+    
+    
+  
+ för något naturligt tal 
+  
+    
+      
+        n
+      
+    
+    
+  
+. 
+Om 
+  
+    
+      
+        p
+        =
+        2
+      
+    
+    
+  
+ är 
+  
+    
+      
+        p
+        =
+         
+        i
+        
+          
+            2
+          
+        
+        =
+        i
+        
+          
+            2
+          
+        
+      
+    
+    =i^
+  
+, alltså är 2 inte ett gaussiskt primtal. Om 
+  
+    
+      
+        p
+        =
+        4
+        n
+        +
+        1
+      
+    
+    
+  
+, så har 
+  
+    
+      
+        p
+      
+    
+    
+  
+ en icke-trivial faktorisering i ringen av gaussiska heltal och är därmed inte heller ett gaussiskt primtal.  Exempelvis är 
+  
+    
+      
+        5
+        =
+        
+        
+        
+      
+    
+    
+  
+ och 
+  
+    
+      
+        13
+        =
+        
+        
+        
+      
+    
+    
+  
+, så 5 och 13 är primtal i vanlig mening men inte gaussiska primtal.

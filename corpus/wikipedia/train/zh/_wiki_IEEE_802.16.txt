@@ -1,0 +1,6 @@
+IEEE 802.16，是由電機電子工程師學會（IEEE）所通過的無線寬頻標準。現行的標準為IEEE 802.16-2009，由IEEE 802.16j-2009所修訂完成。現行的WiMAX技術即是基於此項標準而實作的。
+802.16 標準的制定，起源於1999年IEEE的工作小組。
+移動WiMAX標準，是一項對於固定式WiMax標準的改良，特別是在調變（modulation schemes）的部分。
+這項標準經由OFDMA允許固定式與移動式的Non Line of Sight 應用。
+許多人認為，經由新的調變方式--Scalable OFDMA ，802.16-2005將會使得舊式802.16-2004使用的OFDM-256顯得過時並失效。
+IEEE 802.16m被认为是准4G标准，又稱Mobile WiMAX Release 2 或 WirelessMAN-Advanced。能提供100Mbps以上的下行带宽。

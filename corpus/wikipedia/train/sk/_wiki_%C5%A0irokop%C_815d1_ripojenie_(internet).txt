@@ -1,0 +1,4 @@
+Širokopásmové pripojenie  je vysokorýchlostný prístup na internet. Často býva dávaný do kontrastu s tzv. dial-up pripojením  prostredníctvom modemu. Dial-up modemy vo všeobecnosti nedosiahnu rýchlosť vyššiu ako 56 kbit/s  a vyžadujú plné využitie telefónnej linky.
+Naproti tomu broadbandové technológie zaručujú vyššie prenosové rýchlosti s tým, že nezablokujú telefónnu linku .
+Prenosové rýchlosti širokopásmového pripojenia kolíšu v rozmedzí 256 kbit/s až 1 Mbit/s alebo vyššie. Preto sa broadband zvykne nazývať aj vysokorýchlostným pripojením .
+Štandardnými širokopásmovými technológiami sú DSL, ISDN,  káblové pripojenie , pripojenie pomocou pasívnej optickej siete, satelitné pripojenie a bezdrôtové Wi-Fi/WiMAX.

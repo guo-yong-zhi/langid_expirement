@@ -1,0 +1,8 @@
+Ang pangunahing bilang o numerong primo  ay isang positibong buong bilang na may talagang dalawang mga buong bilang na naghahati na walang natitira. Ang mga dibisor na ito ay ang mismong bilang at 1.
+Halimbawa, ang 7 ay isang pangunahing bilang, dahil ang tanging mga bilang na naghahati rito ng pantay ay 1 at 7. Ang 91 ay hindi isang pangunahing bilang dahil mahahati ito ng 1, 7, 13, at 91. Ang 1 ay hindi isang pangunahing bilang, dahil may isang bilang lamang na makapaghahati rito na walang matitira.
+Lahat ng mga positibong bilan na hindi pangunahin o primo ay tinatawag na mga bilang na komposito.
+Walang pinakamalaking pangunahing balang, kaya't walang hangganan ang pagkakaroon ng pangunahing mga bilang. Ang paraan ng pagkakalagay nila sa piling ng lahat ng buong mga bilang ay hindi lubos na nauunawaan, bagaman may antas ng pagkakaunawa rito ang mga matematiko. Tingnan ang teorem ng pangunahing bilang.
+May isang payak na paraan upang makahanap ng isang talaan ng pangunahing mga bilang. Nilikha ito ni Eratosthenes, at may pangalang Salaan ni Eratosthenes, dahil nakakahuli o nakakasalok ito ng ilang mga bilang na hindi pangunahin  at ang mga natitira na nakakalagos ay mga pangunahin:
+Ang paraan ay palaging magkatulad:
+Bilang isang halimbawa, kapag ginawa ito hanggang sa bilang na 10, ang mga bilang na 2, 3, 5 at 7 ay pangunahing mga bilang, at ang 4, 6, 8, 9 at 10 ay mga kompositong bilang.
+Ang metodo o algoritmong ito ay napakatagal upang matagpuan ang napakamalalaking mga pangunahing bilang, subalit hindi gaanong masalimuot o kumplikado kaysa mga paraang ginagamit sa napakamalalaking mga pangunahing bilang, katulad ng pagsusulit ng primalidad ni Fermat o ang pagsusulit ng primalidad nina Miller-Rabin.

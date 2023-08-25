@@ -1,0 +1,7 @@
+Valtaventtiili on höyryveturin päätoimintaventtiili, jonka avulla veturin tehoa ja nopeutta säädetään. 
+Venttiilin yhdistää kattilaan tai tulistimen laatikkoon valtaputki. 
+Käyttökuntoisista höyryvetureista Kovjoella liikennöivässä Ojakkalan–Olkkalan rautatien veturi n:o 3:ssa  on ulkopuolinen, höyrykuvun oikealle puolelle kattilan päälle asennettu valtaventtiili, jolloin valtaputken saattoi jättää kokonaan pois tai se typistyi lyhyeksi yhdysputkeksi kuvun ja venttiilin välille.
+Rakennetta käytettiin pääasiassa 600 mm märkähöyrykalustossa tilan säästämiseksi ja huollon helpottamiseksi, joskin niitä asennettiin jonkin verran myös 750 mm kalustoon. Esimerkiksi Kausalan–Leininselän rautatien molemmissa vetureissa ja niiden kanssa samanlaisissa Harvialan metsäradan ja Åminneforsin teollisuusradan ykkösvetureissa oli sellainen. 
+Osaltaan tämä johtui siitä että Orenstein&Koppel –tehdas käytti pitkään samaa kattilamallia kaikkien eri kapearaideleveyksien vetureissaan. Vasta 30-luvulla valmistuneissa vetureissa  on sisäinen valtaventtiili. 
+Ulkoinen valtaventtiili voitiin sijoittaa myös höyrykuvun eteen; silloin sen käyttötanko kulkee erillistä putkea pitkin höyrykuvun läpi. Tällainen valtaventtiilirakenne on muun muassa Suomen vanhimmassa kapearaideveturissa, Fiskarsin Krauss-veturissa. 
+Suomessa rakennetuissa vetureissa valtaventtiili oli lähes aina sisäinen.

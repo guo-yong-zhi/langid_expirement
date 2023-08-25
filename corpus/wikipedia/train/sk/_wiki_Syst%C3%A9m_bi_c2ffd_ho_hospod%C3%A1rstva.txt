@@ -1,0 +1,7 @@
+Systém bilancií národného hospodárstva  bol ekvivalent súčasného systému národného účtovníctva, ktorý sa používal v krajinách bývalého východného bloku. 
+Terminologicky sa SBNH niekedy považuje za druh národného účtovníctva, inokedy sa kladie do protikladu s termínom "systém národného účtovníctva" .
+SBNH vymysleli v 20. rokoch 20. storočia v ZSSR. Po druhej svetovej vojne ho prevzali aj satelity ZSSR, Čína a Juhoslávia, vrátane Česko-Slovenska. Medzinárodne štandardizovaný bol v roku 1971 . V súvislosti s rozpadom východného bloku ho jednotlivé štáty prestali používať, väčšinou tak urobili začiatkom 90. rokov 20. storočia . V ZSSR SBNH opustili v roku 1988, v Číne po prechodnom období v roku 1992. V Česko-Slovensku bol SBNH v roku 1992 nahradený systémom ESNÚ 79 , ktorý bol neskôr nahradený dnešným systém ESNÚ 95.
+Základná koncepcia SBNH je podobná koncepcii západného  národného účtovníctva, ale podstatný rozdiel je v tom, že SBNH úplne ignoruje, t.j. z ukazovateľov úplne vynecháva, služby, okrem služieb slúžiacich priamo výrobe. Je to spôsobené tým, že teoretickým podkladom systému je teória pracovnej hodnoty K. Marxa, kde sa dôraz kladie na materiálnu stránku ekonomiky.
+Hlavné agregátne ukazovatele SBNH sa volajú úhrnný spoločenský produkt  a národný dôchodok .
+SBNH pozostáva z týchto súhrnných bilancií:
+Každá súhrnná bilancia je doplnená sústavou regionálnych bilancií a tabuliek, ktoré rozoberajú podrobnosti a majú aj samostatný význam:

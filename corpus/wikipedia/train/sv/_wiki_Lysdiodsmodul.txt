@@ -1,0 +1,2 @@
+En lysdiodsmodul är ett kretskort där lysdiod och drivelektronik är monterade redan när kortet kommer till kund/användaren.
+Lysdiodsmoduler  brukar vanligtvis vara byggda med högeffektslysdioder och bestå av ett aluminiummönsterkort samt drivelektronik till lysdioden. Anledningen till att man använder sig av mönsterkort av aluminium är att de leder bort den värme som dessa högeffektslysdioder genererar. Detta leder till att lysdioderna hålls på en behaglig temperatur och livslängden på dem blir så lång som möjligt.

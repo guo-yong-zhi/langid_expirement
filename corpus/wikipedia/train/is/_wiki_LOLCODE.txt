@@ -1,0 +1,7 @@
+LOLCODE er forritunarmál ætlað þröngum hópi sem var blásið í brjóst af Internetbrandaranum lolcat. 1  Forritunarmálið var búið til árið 2007 af Adam Lindsay, rannsóknarmanni við tölvudeild háskólans í Lancaster. 2 
+Tungumálið er skrifað með ensku netslangri. Hér er dæmi um halló heim forrit skrifað í LOLCODE:
+ HAI
+CAN HAS STDIO?
+VISIBLE "HAE HEIMUR!"
+KTHXBYE    3   
+</pr

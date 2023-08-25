@@ -1,0 +1,73 @@
+Inom matematiken är Fishers ekvation, även kallad för Fisher–Kolmogorovs ekvation och Fisher–KPP-ekvationen, den partiella differentialekvationen
+Den är uppkallad efter Ronald Fisher och Andrej Kolmogorov.
+Fisher föreslog denna ekvation för att beskriva den rumsliga spridningen av en fördelaktig allel och utforskade sina resande våglösningar. För varje våghastighet c ≥ 2 medges resande våglösningar på formen
+där 
+  
+    
+      
+        
+          v
+        
+      
+    
+    
+  
+ ökar och
+Det vill säga, lösningen växlar från jämviktstillståndet u = 0 till jämviktstillståndet u = 1. Någon sådan lösning finns för c < 2. Vågformen för en given våghastighet är unik.
+För den speciella våghastigheten 
+  
+    
+      
+        c
+        =
+         
+        5
+        
+          /
+        
+        
+          
+            6
+          
+        
+      
+    
+    }}
+  
+, kan alla lösningar finnas i en sluten form, med
+där 
+  
+    
+      
+        C
+      
+    
+    
+  
+ är godtycklig, och ovannämnda gränsvillkoren uppfylls för 
+  
+    
+      
+        C
+        >
+        0
+      
+    
+    
+  
+. 
+Den är det enklaste exemplet på ett semilinjärt reaktion–spridningssystem
+som kan uppvisa resande våg-lösningar som växlar mellan jämviktstillstånd som ges av 
+  
+    
+      
+        f
+        
+        =
+        0
+      
+    
+    
+  
+. Sådana ekvationer inträffar till exempel i ekologi, fysiologi, förbränning, kristallisering, plasmafysik och i allmänhet fasövergångsproblem.
+Bevis på att det finns resande våg-lösningar och analyser av deras egenskaper görs ofta av fasrumsmetoden.

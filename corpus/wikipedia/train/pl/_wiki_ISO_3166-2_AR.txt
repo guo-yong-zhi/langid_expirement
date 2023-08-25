@@ -1,0 +1,5 @@
+ISO 3166-2:AR – kody ISO 3166-2 dla  prowincji oraz miasta autonomicznego Buenos Aires w Argentynie opublikowane przez Międzynarodową Organizację Normalizacyjną.
+Pierwsza część oznaczenia to kod Argentyny zgodnie z ISO 3166-1, natomiast druga część oznaczenia znajdująca się po myślniku to kod literowy jednostki administracyjnej.
+Część 1: Kody państw
+Część 2: Kody jednostek administracyjnych
+Część 3: kody poprzednio używanych nazw państw

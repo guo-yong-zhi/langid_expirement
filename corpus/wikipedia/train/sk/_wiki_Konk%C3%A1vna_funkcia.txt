@@ -1,0 +1,111 @@
+Spojitá konkávna funkcia na intervale 
+  
+    
+      
+        
+      
+    
+    
+  
+, je význačná tým, že jej graf leží pod každou jej zostrojenou dotyčnicou. Jednoduchou a názornou pomôckou môže byť predstava grafu konkávnej funkcie na 
+  
+    
+      
+        
+      
+    
+    
+  
+ ako šálky, do ktorej nemožno naliať kávu, pretože sa vždy vyleje. Opačný prípad tvorí konvexná funkcia. Samotná definícia je analyticky odvodená z vlastností funkčných hodnôt konkávnej funkcie vzhľadom na spojnicu krajných bodov intervalu konkávnosti. Možno povedať, že funkčné hodnoty konkávnej funkcie sú na intervale konkávnosti vždy nad spojnicou spomínaných krajných bodov.
+Definíciu konkávnosti funkcie možno rozdeliť na definíciu konkávnosti funkcie a špeciálneho prípadu – rýdzej konkávnosti funkcie. Väčšinu elementárnych funkcií možno však považovať za rýdzo konkávne respektíve rýdzo konvexné. Príkladom môžu byť polynómy.
+Nech f je funkcia spojitá na intervale 
+  
+    
+      
+        
+      
+    
+    
+  
+. Potom hovoríme, že funkcia f je na intervale 
+  
+    
+      
+        
+      
+    
+    
+  
+ rýdzo konkávna práve vtedy, keď existuje číslo 
+  
+    
+      
+         
+         
+        
+      
+    
+    
+  
+ s vlastnosťou
+Nech f je funkcia spojitá na intervale 
+  
+    
+      
+        
+      
+    
+    
+  
+. Potom hovoríme, že funkcia f je na intervale 
+  
+    
+      
+        
+      
+    
+    
+  
+ konkávna práve vtedy, keď existuje číslo 
+  
+    
+      
+         
+         
+        
+      
+    
+    
+  
+ s vlastnosťou
+Pri hľadaní intervalov, na ktorých je funkcia konkávna sa postupuje použitím druhej derivácie funkcie. Intervaly konvexnosti a konkávnosti funkcie delia inflexné body. V týchto bodoch funkcia mení zakrivenie. Funkcia je preto rýdzo konkávna na intervale, kde 
+  
+    
+      
+        
+          f
+           
+        
+        
+        <
+        0
+      
+    
+    
+  
+. Analogicky sa odvodí pravidlo pre interval konkávnej funkcie 
+  
+    
+      
+        
+          f
+           
+        
+        
+         
+        0
+      
+    
+    
+  
+. Daná derivácia musí existovať. To, že funkcia je diferencovateľná nevyplýva priamo z podmienky spojitosti skúmanej funkcie, preto treba pridať podmienku diferencovateľnosti.

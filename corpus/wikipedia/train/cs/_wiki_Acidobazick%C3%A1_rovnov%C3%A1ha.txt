@@ -1,0 +1,18 @@
+Acidobazická rovnováha  je dynamická rovnováha kyselin a zásad uvnitř organizmu, tj. stálý poměr mezi jejich tvorbou a odbouráváním, respektive vylučováním. Je nezbytná pro udržení stabilního prostředí pro funkci enzymů . Normální hodnota kyselosti - pH extracelulární  tekutiny je 7,36-7,44. V klidovém stavu dochází k větší produkci kyselých látek, které jsou ovšem neutralizovány systémem pufrů a vylučovány z těla pryč. Pufry upravují výkyvy pH jen do výše své pufrovací kapacity. Pokud je tato kapacita vyčerpána, pak dochází k poměrně rychlým změnám pH. V krvi se jako pufry uplatňují erytrocytární a plazmatický hydrogenuhličitanový systém , z nehydrogenuhličitanových systémů pak hemoglobin/oxyhemoglobin, anorganické a organické fosfáty a bílkoviny plazmy. Hydrogenuhličitanový pufr je otevřený systém. Jeho složky jsou neustále ovlivňovány dýcháním a produkcí moči. ABR je tedy neustále udržována funkcí plic  a ledvin .
+Porucha acidobazické rovnováhy ve prospěch kyselin vede k acidóze , porucha ve prospěch zásaditých látek k alkalóze  . Slučitelné se životem jsou hodnoty pH krve v rozmezí přibližně 6,8-7.8.
+Rozlišujeme primární poruchy a kompenzační reakci, která vyvažuje pH změnou složek hydrogenuhličitanového pufru. 
+Je navozena poruchami ve výměně krevních plynů dýchacím systémem. Respirační porucha je v daném čase vždy jen jedna .
+Různé příčiny, které vedou ke snížení ventilace v plicních sklípcích , způsobí nahromadění oxidu uhličitého  v organizmu a tím dojde k poklesu extracelulárního  pH na kyselou stranu. Výsledkem je respirační acidóza. Opačný děj, kdy se zvýší alveolární ventilace, vede k respirační alkalóze.
+K respirační acidóze vedou mimo jiné:
+Tělo nemůže ve větší míře kompenzačně snížit odvětrávání oxidu uhličitého (při hypoventilaci začne chybět životně důležitý kyslík). Naproti tomu respirační alkalóza je často reakcí na přebytek "metabolických" kyselin. Nastává při nadměrné ventilaci, kdy se snižuje koncentrace CO2 v krvi.  
+Primárně vzniká například při psychickém vzrušení,  při nižší koncentraci O2 ve vdechovaném vzduchu, která vede k hyperventilaci – ve vysoké nadmořské výšce).
+Jako  kompenzační reakce dýchání vznika hyperventilace  při mnoha metabolických poruchách 
+Respirační výkyvy ABR jsou kompenzovány ledvinnými mechanismy.
+U respirační acidózy se rozvine v rozmezí 1-6 dnů zvýšené vylučování protonů  v renálních kanálcích, ke zpětné absorpci hydrogenuhličitanu  a k návratu pH skoro do normálního stavu. K opačným dějům dojde při respirační alkalóze, tj. omezí se vylučování protonů a sníží zadržování hydrogenuhličitanových iontů.
+Na regulaci dýchání, tak aby byla udržována ABR, se podílejí stimulačním účinkem nevázané, nepufrované protony mozkomíšního moku, které aktivují dechová centra prodloužené míchy.
+O metabolické acidóze či alkalóze hovoříme vždy, když dochází ke změnám extracelulárního pH, z příčin jiných, než je nahromadění či nedostatek oxidu uhličitého v tělesných tekutinách.
+U metabolické acidózy jsou mimo jiné příčinami:
+Metabolická alkalóza je ve srovnání s acidózou vzácná.
+Občas jí lze navodit:
+Metabolické alkalóza a acidóza jsou kompenzovány dýchacím systémem. Tato kompenzace je velmi pohotová, rozvine se během několika minut, není dlouhodobě účinná jako kompenzace renální. Jejím hlavním omezením je vzrůstající námaha dýchacích svalů.
+jsou především výsledkem samotné chorobného procesu, který způsobil vzniklou poruchu . Nelze léčit příznaky. Obecným následkem  acidózy je například deprese CNS,  alkalózy – hyperexcitace nervového systému až křeče.

@@ -1,0 +1,3 @@
+
+Tetrachordu vadinama kvartos intervalo apimties keturių sekundomis išdėstytų garsų eilė . Pagal tonų ir pustonių išdėstymą skiriami penkių rūšių tetrachordai:
+Visų tetrachordų apimtis - grynoji kvarta, tik lydinio - padidintoji kvarta . Iš šių tetrachordų sudaromos įvairių dermių gamos.

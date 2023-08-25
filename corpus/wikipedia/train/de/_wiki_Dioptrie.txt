@@ -1,0 +1,72 @@
+Dioptrie ist die Maßeinheit für die Brechkraft optischer Systeme und stellt den Kehrwert der Brennweite in Meter dar, 
+  
+    
+      
+        1
+         
+        
+          d
+          p
+          t
+        
+        =
+        1
+         
+        
+          
+            m
+            
+               
+              1
+            
+          
+        
+      
+    
+     =1\ \mathrm  }
+  
+. Ihr Einheitenzeichen in Deutschland ist dpt. 1  Im alltäglichen Gebrauch tritt sie besonders bei der Beschreibung von Sehhilfen wie Brillengläsern auf. 2 
+Die Brechkraft 
+  
+    
+      
+        D
+      
+    
+    
+  
+ ist der Kehrwert der Brennweite 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+:
+Optische Systeme mit positiver Brennweite, also beispielsweise Sammellinsen , besitzen somit eine positive Brechkraft.
+Zerstreuungslinsen  hingegen haben eine negative Brechkraft.
+Die Einheit Dioptrie wird als gesetzliche Einheit in den Staaten der EU 3  und in der Schweiz 4  bei der Angabe der Brechkraft optischer Systeme, speziell in der Augenoptik, verwendet.
+Für die Dioptrie ist kein internationales Einheitenzeichen festgelegt. Das Zeichen „dpt“ wird in der deutschen Einheitenverordnung aufgeführt, erscheint jedoch nicht in der zugrundeliegenden Richtlinie 80/181/EWG.
+Auf Vorschlag des französischen Augenarztes Ferdinand Monoyer wurde die Dioptrie 1872 in die ophthalmologische Optik eingeführt. 5 
+Die Brechkraft des normalsichtigen gesunden menschlichen Auges beträgt im akkommodationslosen Zustand, das heißt bei entspannter Linse, etwa 59 bis 60 dpt  und kann sich zur Anpassung auf kleinere Sehentfernungen vergrößern. Dieses Anpassungsvermögen ist altersabhängig und lässt schon in der Jugend nach. 6  7  Zur Unterstützung werden Brillen oder verwandte optische Hilfsmittel eingesetzt, deren Gläser meist nach Vermessung der Fehlsichtigkeit  passend ausgewählt werden.
+Sammellinsen mit positiver Brechkraft dienen dabei der Korrektur von Übersichtigkeit , Zerstreuungslinsen  der Korrektur von Kurzsichtigkeit und torische Linsen der Korrektur eines Astigmatismus. 6  Je größer der Betrag der Brechkraft der eingesetzten Linse ist, desto stärker ist die Korrektur der Fehlsichtigkeit.
+Auch der Dioptrienausgleich, z. B. an Kamerasuchern und Mikroskopen ist nach der Einheit benannt und ermöglicht in vielen Fällen die Nutzung ohne zusätzliche Brille.
+Zur Schätzung der Stärke einer benötigten Lesebrille bei Alterssichtigkeit dient folgende Faustformel:
+Beispiel: Leseentfernung ⅓ m ≙ 3,0 dpt; minimale Sehweite: ½ m ≙ 2,0 dpt; also ist eine Lesebrille von 3,0 dpt − 2,0 dpt = 1,0 dpt  erforderlich.
+Das Wort ist eine Übernahme des gleichbedeutenden französischen dioptrie, das selbst eine Ableitung von dioptrique ist. Diese sprachliche Neuschöpfung des 17. Jahrhunderts leitet sich über lateinisch dioptra von altgriechisch διόπτρα .mw-parser-output .Latndióptra ab, womit ein antikes optisches Gerät zur Höhenmessung bezeichnet wurde, 8 
+das sich auf δια dia „hindurch“ und ὄψεσθαι ópsesthai „sehen werden“ zurückführen lässt.
+Ar •
+Barn  
+Bar •
+Millimeter-Quecksilbersäule  
+Dioptrie  
+Gon •
+Vollwinkel  
+Kilowattstunde  
+Metrisches Karat  
+Tex  
+Var •
+Voltampere

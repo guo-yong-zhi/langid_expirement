@@ -1,0 +1,1 @@
+Upplýsingahuld ― Meginreglan um upplýsingahuld segir að sérhverja veigamikla hönnunarákvörðun  skuli fela í einingu. Tilgangurinn er að geta seinna skipt um skoðun og breytt útfærslunni án þess að það valdi keðjuverkandi villum í heildarkerfinu.

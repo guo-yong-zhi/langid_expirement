@@ -1,0 +1,4 @@
+Fasti er stærð, sem er óbreytanleg eða óbreytt í því samhengi sem hún er skoðuð og er andstaða breytu. Fastar skipta miklu máli í stærðfræði og eðlisfræði.
+Mikilvægir, torræðir stærðfræðilegir fastar eru t.d. pí og e.
+Dæmi um fasta í eðlisfræði: Ljóshraðinn er fasti í öllum tregðukerfum, en sólarfastinn, sem segir til um styrk sólargeislunar á lofthúpi jarðar, er strangt tekið ekki fasti, nema þegar hann er mældur í skamman tíma miðað við sveiflur á styrk sólar. Ekki er vitað hvort heimsfastinn, sem segir til um hraða útþenslu alheims, sé ranverulegur fasti.
+Fastafall er stærðfræðilegt fall, sem tekur fast gildi fyrir öll stök í formengi fallsins.

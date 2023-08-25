@@ -1,0 +1,137 @@
+Fritt fall er bevegelse der tyngdekraften er den eneste kraften som virker på massen. En fallskjermhopper f.eks  blir påvirket av tyngdekraft og luftmotstand og faller derfor ikke fritt slik definisjonen i fysikk krever. Tyngdekraften vil ved lav høyde over havnivå gi en akselerasjon på ca
+  
+    
+      
+        9
+        ,
+        81
+        m
+        
+          /
+        
+        
+          s
+          
+            2
+          
+        
+      
+    
+    }
+  
+  dersom massen faller i vakuum. Tyngdekraften, og dermed også akselerasjonen, avtar med høyden over havnivå. 1  
+  
+    
+      
+        
+          v
+          
+            f
+            f
+          
+        
+        =
+        
+          
+            2
+            g
+            h
+          
+        
+      
+    
+    =}
+  
+   angir farten ved fall fra høyden h. 
+  
+    
+      
+        
+          h
+          
+            f
+            f
+          
+        
+        =
+        
+          
+            1
+            2
+          
+        
+        g
+        
+          t
+          
+            2
+          
+        
+      
+    
+    =}gt^
+  
+   angir hvor langt massen har falt fra ro etter tid t. 
+  
+    
+      
+        
+          t
+          
+            f
+            f
+          
+        
+        =
+        
+          
+            
+              
+                2
+                h
+              
+              g
+            
+          
+        
+      
+    
+    =}}}
+  
+ angir hvor lang tid det tar å falle h meter. 
+  
+    
+      
+        
+          v
+          
+            f
+            f
+          
+        
+        =
+        g
+        t
+      
+    
+    =gt}
+  
+    angir farten massen har fra ro etter falltid t. 
+Når noe faller fra ro vil akselerasjonen i praksis være lik 1g første sekundet, men luftmotstanden vil etter få sekunder fall bli like stor som tyngdekraften, og den fallende massen vil da ha oppnådd terminalfart og deretter holde terminalfart. 2    
+Når en gjenstand A kun er påvirket av tyngdekraften fra en gjenstand B, sier man at gjenstand A faller fritt i tyngdefeltet til B. Da har A en akselerasjon lik tyngdeakselerasjonen i feltet til B. Denne akselerasjonen er også lik gravitasjonsfeltstyrken 
+der M er massen til B,  r er avstanden mellom tyngdepunktene til A og B og G er gravitasjonskonstanten.
+Nær havoverflaten på jorda, har g gjennomsnittsverdien 
+  
+    
+      
+        g
+        =
+        9
+        ,
+        80665
+      
+    
+    
+  
+. Denne kan regnes ut numerisk ved å finne integralet av en harmonisk varierande funksjon for g med breddegrad som uavhengig variabel, og dele på 180°.
+Selv om definisjonen ekskluderer andre krefter som f. eks. luftmotstand, benyttes også uttrykket fritt fall om fall gjennom en atmosfære. I fallskjermhopping og BASE-hopping betegnes aktiviteten mellom utsprang og skjermåpning «frittfall».

@@ -1,0 +1,28 @@
+1Z2M, 2HJ8, 3PHX, 3PSE, 3R66, 3RT3, 3SDL
+• GO:0001948, GO:0016582 protein binding• protein tag• integrin binding
+• цитоплазма• гіалоплазма• Нуклеоплазма• extracellular region
+• immune system process• regulation of interferon-gamma production• negative regulation of protein ubiquitination• negative regulation of viral genome replication• defense response to virus• type I interferon signaling pathway• response to type I interferon• translesion synthesis• negative regulation of type I interferon production• GO:0022415 viral process• Вроджений імунітет• modification-dependent protein catabolic process• positive regulation of bone mineralization• ISG15-protein conjugation• defense response to bacterium• positive regulation of erythrocyte differentiation• response to bacterium• integrin-mediated signaling pathway
+ISG15  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 1-ї хромосоми.  3  Довжина поліпептидного ланцюга білка становить 165 амінокислот, а молекулярна маса — 17 888 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Задіяний у таких біологічних процесах як імунітет, вроджений імунітет, взаємодія хазяїн-вірус, убіквітинування білків, антивірусний захист, поліморфізм. 
+Локалізований у цитоплазмі.
+Також секретований назовні.
+  Портал «Біологія»   Портал «Хімія»                       

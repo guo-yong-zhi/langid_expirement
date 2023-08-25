@@ -1,0 +1,2 @@
+Java Platform Debugger Architecture  es una colección de APIs que proporciona una infraestructura para depurar aplicaciones de J2SE. Incluye tres API:
+http://java.sun.com/javase/6/docs/technotes/guides/jpda/ 

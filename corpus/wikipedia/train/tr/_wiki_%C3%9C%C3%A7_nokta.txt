@@ -1,0 +1,2 @@
+Üç nokta , bir noktalama işaretidir.
+İki noktadan sonra sıralanan örnekler bittiyse cümlenin sonuna nokta konur.

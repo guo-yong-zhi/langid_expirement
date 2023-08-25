@@ -1,0 +1,19 @@
+La projecció gràfica és una tècnica de dibuix emprada per a representar un objecte sobre una superfície. La figura s'obté utilitzant línies auxiliars projectants que, partint d'un punt anomenat focus, reflecteixen aquest objecte en un plànol, a manera d'ombra. També és la representació que per mitjà de projectants que partint de l'observador incideixen en un pla.
+Quan totes les línies projectants passen per un punt, es parla de projecció central o projecció cònica; aquest és el cas, per exemple, de l'ombra d'un objecte sobre una superfície quan és il·luminat per un llum . És l'adoptada en el sistema de representació cònic, o simplement perspectiva cònica.
+Una variant d'aquest sistema de representació el constitueix la projecció estereogràfica emprada per a la representació plana de la superfície d'una esfera, i que s'obté projectant tots els punts de l'esfera des d'un d'ells sobre el pla tangent en el punt diametralment oposat, o sobre un pla paral·lel a aquest, traçat pel centre de l'esfera.
+Quan les línies projectants són paral·leles, com l'objecte vist més amunt il·luminat per la llum del Sol, es parla de projecció paral·lela. És un cas particular de projecció central, on el focus del feix projectant estaria a distància infinita.
+És el cas del sistema dièdric, en què a més es compleix que les línies projectants són perpendiculars  al pla de projecció. En aquest sistema, a diferència dels altres, no s'obté una representació volumètrica de l'objecte en perspectiva, sinó la seva alçada, planta i perfil. A partir d'aquestes vistes, es pot aconseguir una representació tridimensional de l'objecte en el sistema axonomètric. Les línies projectants poden ser tant ortogonals com obliqües, sent la perspectiva cavallera un cas particular d'aquest sistema .
+Una variant del sistema dièdric, és el dibuix acotat, igualment de projecció ortogonal, consistent en la representació d'alçats o diverses seccions paral·leles de l'objecte. Aquest sistema s'utilitza per a la millor definició i reproducció de superfícies complexes, com són les seccions d'un edifici, el casc d'un vaixell, el perfil del terreny i altres elements similars que, a la pràctica, no es poden descriure adequadament amb els sistemes anteriorment assenyalats. Són molt utilitzats en arquitectura, enginyeria, topografia, etc.
+Cònica
+Isomètrica
+Dimètrica
+Trimètrica
+Cavallera
+Militar
+ 
+Projecció ortogonal
+Projecció obliqua
+Projecció cònica amb un punt de fuga.
+Projecció paral·lela isomètrica.
+Projecció obliqua:Perspectiva cavallera.
+Projecció obliqua:Perspectiva militar.

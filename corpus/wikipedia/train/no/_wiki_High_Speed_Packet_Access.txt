@@ -1,0 +1,5 @@
+High Speed Packet Access  er en sammenslåing av High Speed Upload Packet Access  og High Speed Download Packet Access  og er en utvidelse av WCDMA protokollene.
+Det har senere kommet en utvidelse av HSPA som kalles Evolved HSPA eller HSPA+, denne standarden ble ferdigstilt i 2008 og lanseringen begynte i 2010
+HSPA støtter opp til 21 Mbit/s nedlastningshastighet og opp til 5,8 Mbit/s opplastningshastighet sammtidig som den senker svartiden  og øker nedlastningskapasiteten med nesten fem ganger og opplastningskapasisteten med nesten to ganger i forhold til det originale WCDMA-standarden.
+HSPA har allerede blitt installert på over 200 nettverk hos 80 telefonopperatører Juni 2010 tall.
+Noen nettverk som ennå ikke har HSPA, men kun 3G kan få HSPA ved å oppgradere programvaren på senderen. 

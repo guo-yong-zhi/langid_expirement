@@ -1,0 +1,4 @@
+Fold és una instrucció d'unix emprada per a fer més llegible un arxiu amb línies llargues, en un terminal d'amplada limitada.
+La majoria de terminals d'unix tenen una amplada de pantalla de 80 columnes per defecte i per tant, la lectura d'arxius amb línies llargues pot ser fins i tot irritant. La instrucció fold insereix un salt de línia cada N caràcters, si no troba un salt de línia abans d'aquest punt. Si inserim el modificador -w, es pot especificar la llargada màxima de línia. A tall d'exemple, per limitar un arxiu anomenat file.txt a un màxim de 30 caràcters per línia, hom pot emprar la següent instrucció: 1  2 
+   fold   -w    30    file.txt
+</prManual de 'fold'

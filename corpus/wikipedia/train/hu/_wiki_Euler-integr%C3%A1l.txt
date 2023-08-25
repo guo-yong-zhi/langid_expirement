@@ -1,0 +1,3 @@
+Pontosságellenőrzött
+A matematikában kétféle Euler-integrál ismert: 1  2 
+Pozitív egész m és n-re mindkét integrál kifejezhető faktoriálisokkal és binomiális együtthatókkal:

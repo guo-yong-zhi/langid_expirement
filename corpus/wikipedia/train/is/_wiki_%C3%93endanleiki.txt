@@ -1,0 +1,27 @@
+Óendanleiki er hugtak, sem vísar til einhvers sem er ótakmarkað, þ.e. stærra en allt það, sem hugsanlegt er. Óendanleiki kemur fyrir í heimspeki, stærðfræði, eðlisfræði, heimsfræði og trúarbrögðum. Endanleiki er andheiti óendanleika og á við allt hitt, sem er takmarkað.
+E.t.v. er óendanleikinn fyrst og fremst heimspekilegt viðfangsefni, þ.e. spurningin um umfang og aldur alheims og þar sem gera má ráð fyrir að aldur og umfang hans er ótakmarkað.
+Hugtakið óendanlegt gegnir mikilvægu hlutverki í stærðfræði og á við stærðfræðileg fyrirbæri, sem ekki eru endanlegt í stærðfræðilegum skilningi, táknuð með : 
+  
+    
+      
+         
+      
+    
+    
+  
+. Allar tölur eru endanlegar, en vöxtur t.d. runu, summu, heildis eða falls getur orðið óendanlegur þegar vísir eða háð breyta vex ótakmarkað, en þá er sagt að runan, o.s.frv. stefni á óendanlegt, táknað með 
+  
+    
+      
+         
+         
+      
+    
+    
+  
+. Örsmæðareikningur grundvallast á markgildishugtaki, sem notast við stærðir, sem geta orðið ótakmarkaðar.
+Til að mögulegt sé að meðhöndla stærðir, sem geta vaxið ótakmarkað þarf að víkka út talnalínuna  með því að bæta við tveimur nýjum stökum, sem reyndar eru ekki tölur, þ.e. stakið plús óendanlegt , sem er stærra en allar aðrar  rauntölur, og mínus óendanlegt  sem er minna en allar aðrar  rauntölur. Einnig þarf að auka við reiknireglur á talnalínunni, eftir að þessi tvö nýju stök bætast við.
+Mengjafræðin fæst gjarnan við mengi, sem innihalda ótakmarkað fjölda staka. Til þess að fást við þau hafa verið innleiddar s.k. fjöldatölur, sem þó eru ekki tölur, heldur mælikvarði á fjölda staka mengis. Slíkar fjöldatölur, geta þó haft eiginleika sem minna á tölur, þ.e. verið "misstórar" í einhverjum skilningi þ.a. framkvæma megi einfaldar reikniaðgerðir með þeim skv. algebru fjöldatalna.
+Eðlisfræðin fæst gjarnan við langdræga krafta , þ.e. krafta sem verka milli hluta um allt rúmið, en verða að lokum núll, þegar fjarlægðin milli hlutanna er óendanleg. Einnig er fjallað um tímaháð kerfi og þau könnuð þegar tíminn verður óendanlega langur.
+Heimsfræðin fjallað um heima, sem eru ýmist opnir eða lokaðir og takmarkaðir að umfangi eða ótakmarkaðir, þ.e. óendanlegir. Einnig er fjallað um aldur alheims, sem getur verið óendanlegur.
+Í trúarbröðum er gjarnan fjallað um guði, sem eru eilífir og ótakmarkaðaðan alheim.

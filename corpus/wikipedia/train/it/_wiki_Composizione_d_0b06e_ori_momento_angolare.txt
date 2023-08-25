@@ -1,0 +1,788 @@
+La composizione di operatori momento angolare è una procedura della meccanica quantistica atta a definire la relazione tra gli autostati e gli autovalori di due o più momenti angolari, siano essi orbitali o intrinseci, e quelli della loro somma.
+Si sa dalla teoria generale del momento angolare totale che, dato 
+  
+    
+      
+        
+          
+            
+              
+                J
+              
+               
+            
+          
+        
+      
+    
+     }}}
+  
+ momento angolare, le regole di commutazione per le sue componenti sono:
+dove 
+  
+    
+      
+        
+           
+          
+            i
+            j
+            k
+          
+        
+      
+    
+    }
+  
+è il tensore di Levi-Civita.
+Se si hanno due momenti angolari 
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            1
+          
+        
+        ,
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+     }}_{1},}_
+  
+ allora la precedente regola 
+di commutazione vale per ognuno di essi:
+ma siccome i due momenti angolari agiscono in sottospazi diversi si ha:
+Formalmente si può definire il momento angolare totale come:
+per il quale vale la regola di commutazione :
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            1
+          
+          
+            2
+          
+        
+        ,
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            2
+          
+          
+            2
+          
+        
+        ,
+        
+          
+            
+              
+                J
+                 
+              
+            
+          
+          
+            1
+            z
+          
+        
+        ,
+        
+          
+            
+              
+                J
+                 
+              
+            
+          
+          
+            2
+            z
+          
+        
+      
+    
+     }}_,}_,_{1z},_
+  
+ sono allora osservabili compatibili in quanto commutano, quindi possiamo diagonalizzarli nella stessa base che identifichiamo con i vettori:
+Valgono le equazioni agli autovalori:
+Possiamo in alternativa scegliere la base in cui sono diagonali 
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            1
+          
+          
+            2
+          
+        
+        ,
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            2
+          
+          
+            2
+          
+        
+        ,
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            2
+          
+        
+        ,
+        
+          
+            
+              
+                J
+                 
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+     }}_,}_,}^}_
+  
+ che identifichiamo con i vettori di base:
+e valgono le equazioni agli autovalori:
+dove si sono indicati con 
+  
+    
+      
+        
+          j
+          
+            1
+          
+        
+        ,
+        
+          j
+          
+            2
+          
+        
+      
+    
+    ,j_
+  
+ gli autovalori di 
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            1
+          
+        
+        ,
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+     }}_{1},}_
+  
+ e con 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+        ,
+        
+          m
+          
+            2
+          
+        
+      
+    
+    ,m_
+  
+ gli autovalori di 
+  
+    
+      
+        
+          
+            
+              
+                J
+                 
+              
+            
+          
+          
+            1
+            z
+          
+        
+        ,
+        
+          
+            
+              
+                J
+                 
+              
+            
+          
+          
+            2
+            z
+          
+        
+      
+    
+    }_{1z},_
+  
+, mentre con 
+  
+    
+      
+        J
+      
+    
+    
+  
+ si è indicato l'autovalore di 
+  
+    
+      
+        
+          
+            
+              
+                
+                  J
+                
+                 
+              
+            
+          
+          
+            2
+          
+        
+      
+    
+     }}^
+  
+ e con 
+  
+    
+      
+        M
+      
+    
+    
+  
+ l'autovalore della sua proiezione sull'asse 
+  
+    
+      
+        z
+      
+    
+    
+  
+: 
+  
+    
+      
+        
+          
+            
+              
+                J
+                 
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+    }_
+  
+.
+Entrambe sono basi complete dello spazio di Hilbert. Ovvero ogni stato può essere rappresentato sia da una combinazione lineare degli elementi della prima base che da una di quelli della seconda base.
+Il passaggio da una base all'altra è determinato dai coefficienti di Clebsch-Gordan.
+D'ora in poi si considerino fissati i valori 
+  
+    
+      
+        
+          j
+          
+            1
+          
+        
+      
+    
+    }
+  
+ e 
+  
+    
+      
+        
+          j
+          
+            2
+          
+        
+      
+    
+    }
+  
+ legati al modulo dei due momenti angolari. Saranno liberi invece i valori delle loro proiezioni sull'asse 
+  
+    
+      
+        z
+      
+    
+    
+  
+. Le due basi, accoppiata e disaccoppiata, possono essere quindi scritte in modo più sintetico:
+Dalla teoria del momento angolare si sa che il numero totale degli stati  è:
+Inoltre è evidente che gli stati della base disaccoppiata siano anche autostati di 
+  
+    
+      
+        
+          
+            
+              
+                J
+                 
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+    }_
+  
+ con autovalore:
+Quindi anche il sottospazio in cui la terza componente vale M deve avere la stessa dimensione in entrambe le rappresentazioni.
+Si procede analizzando a uno a uno gli autospazi di 
+  
+    
+      
+        
+          
+            
+              
+                J
+                 
+              
+            
+          
+          
+            z
+          
+        
+      
+    
+    }_
+  
+.
+Fissati i valori dei due momenti angolari il valore massimo della terza componente deve necessariamente valere:
+Resta da determinare il valore del modulo del momento totale. Questo però deve essere necessariamente uno stato di massima terza componente. Se non lo fosse infatti, tramite l'operatore di salita si potrebbe costruire uno stato con terza componente inaccettabile. Quindi:
+Tramite l'operatore di discesa ora si può produrre uno stato con terza componente abbassata di uno.
+di stati di questo tipo però nella base disaccoppiata se ne ottengono due:
+Manca quindi uno stato. Questo però deve essere uno stato di massima terza componente per non produrre una catena di salita inaccettabile
+La procedura può essere iterata, tenendo conto però che dal valore
+la dimensione dell'autospazio cessa di crescere fino a che M non raggiunge il valore nullo.
+Per valori negativi lo schema è speculare.
+In definitiva, fissati 
+  
+    
+      
+        
+          j
+          
+            1
+          
+        
+      
+    
+    }
+  
+ e 
+  
+    
+      
+        
+          j
+          
+            2
+          
+        
+      
+    
+    }
+  
+, tutti i valori che 
+  
+    
+      
+        J
+      
+    
+    
+  
+ può assumere sono:
+e per ciascuno di questi abbiamo tutti i possibili valori di 
+  
+    
+      
+        M
+      
+    
+    
+  
+Nel caso di due momenti angolari di spin 
+  
+    
+      
+        1
+        
+          /
+        
+        2
+      
+    
+    
+  
+ si definisce il momento di spin totale:
+Vi sono quattro configurazioni possibili per la coppia di spin, una con  
+  
+    
+      
+        S
+        =
+        0
+      
+    
+    
+  
+ e 
+  
+    
+      
+        
+          M
+          
+            S
+          
+        
+        =
+        0
+      
+    
+    =0}
+  
+, detta singoletto, e tre con 
+  
+    
+      
+        S
+        =
+        1
+      
+    
+    
+  
+ e componenti lungo l'asse 
+  
+    
+      
+        z
+      
+    
+    
+  
+ rispettivamente 
+  
+    
+      
+        
+          M
+          
+            S
+          
+        
+        =
+         
+        1
+        ,
+        0
+        ,
+        1
+      
+    
+    =-1,0,1}
+  
+, dette tripletto. Il singoletto è caratterizzato da una funzione d'onda antisimmetrica e corrisponde allo stato:
+Il tripletto è caratterizzato da una funzione d'onda simmetrica e corrisponde agli stati:
+Si consideri il caso 
+  
+    
+      
+        
+          
+            
+              
+                J
+              
+               
+            
+          
+        
+        =
+        
+          
+            
+              
+                L
+              
+               
+            
+          
+        
+        +
+        
+          
+            
+              
+                S
+              
+               
+            
+          
+        
+      
+    
+     }}=}+}}
+  
+ e poniamoci nel caso 
+  
+    
+      
+        l
+        =
+        1
+      
+    
+    
+  
+ ed 
+  
+    
+      
+        s
+        =
+        1
+        
+          /
+        
+        2
+      
+    
+    
+  
+.
+Da quanto detto l'autovalore 
+  
+    
+      
+        J
+      
+    
+    
+  
+ può assumere solo i valori 
+  
+    
+      
+        J
+        =
+        l
+         
+        1
+        
+          /
+        
+        2
+      
+    
+    
+  
+ cioè 
+  
+    
+      
+        3
+        
+          /
+        
+        2
+      
+    
+    
+  
+ e 
+  
+    
+      
+        1
+        
+          /
+        
+        2
+      
+    
+    
+  
+. I sei stati della base 
+  
+    
+      
+        
+      
+    
+    ,s_
+  
+ si ripartiscono nella base 
+  
+    
+      
+        
+      
+    
+    }
+  
+ in quattro stati con
+e due stati con

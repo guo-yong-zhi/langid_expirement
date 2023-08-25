@@ -1,0 +1,32 @@
+Pour les articles homonymes, voir DSP.
+Le Defense Support Program ou DSP  est un programme de l’Armée de l'Air américaine portant sur le développement et l'utilisation de satellites de reconnaissance qui forment en 2011 la principale composante du Système d'alerte avancé  américain chargé de détecter le lancement de missiles balistiques éventuellement porteurs de têtes nucléaires.
+Les satellites de reconnaissance DSP sont en orbite géostationnaire. La charge utile est composée de capteurs infrarouges montés à l'extrémité d'une montures de télescope Schmidt à grande focale. Le satellite tourne sur lui-même autour de son axe optique, à une vitesse de 6 tours par minute, pour balayer l'ensemble de l'hémisphère visible depuis sa position.
+Les satellites du DSP, contrôlés par l’Air Force Space Command, sont conçus pour détecter les lancements de missiles ou de vaisseaux spatiaux ainsi que les explosions nucléaires. Ainsi pendant l'opération Tempête du désert, le DSP a été utilisé pour détecter le lancement des missiles Scud irakiens et alerter les forces militaires ainsi que les autorités civiles d'Israël et de l'Arabie saoudite.
+Le DSP a été conçu comme un système d'alerte avancée contre des menaces en provenance d'États belliqueux mais des militaires américains doutent de la capacité de ces satellites à détecter des menaces en provenance d'acteurs non étatiques.
+Le système DSP a remplacé les satellites MIDAS développé dans les années 1960. Douze satellites MIDAS ont été lancés . En 1966 le programme DSP est mis sur pied et le premier lancement du nouveau système a lieu le 6 novembre 1966. Plusieurs générations de satellites DSP se sont succédé avec des capacités croissantes. Les premiers DSP d'une masse de 900 kg et disposant de 400 watts d'énergie disposaient de 2000 détecteurs infrarouges et leur durée de vie était de 1,25 an. Les satellites DSP de la dernière génération ont une masse de 2 380 kg, disposent de 1 275 watts d'énergie et de 6000 détecteurs ; leur durée de vie nominale est de 5 ans. Tous les satellites sont construits par   Northrop Grumman.
+Cinq générations de satellites DSP se sont succédé :
+Satellites de 907 kg disposant de 2 000 détecteurs infrarouges et de panneaux solaires fournissant 400 W. Durée de vie de 15 mois.
+Satellites de 1 046 kg disposant de panneaux solaires fournissant 480 W avec une durée de vie accrue à 2 ans.
+Satellites de 1 170 kg disposant de panneaux solaires fournissant 500 W avec une durée de vie portée à 3 ans. Capacité à se placer sur une orbite elliptique en cours de mission.
+Ces satellites de 1 674 kg comportent 6 000 détecteurs infrarouges et des panneaux solaires fournissant 680 watts.
+Satellites de 2 386 kg.
+Les satellites DSP sont en cours de remplacement par les satellites SBIRS dont la tête de série a été lancée le 7 mai 2011. Le dernier satellite DSP a été lancé le 11 novembre 2007 mais est tombé en panne en orbite géostationnaire pour des raisons indéterminées. En 1999 un autre satellite du programme n'avait pu atteindre l'orbite géostationnaire à la suite d'une défaillance de l'étage IUS chargé de la placer sur cette orbite.
+2d Space Warning Squadron .
+8th Space Warning Squadron .
+11th Space Warning Squadron .
+DSP Flight 1.
+DSP Flight 2.
+DSP Flight 3.
+DSP Flight 4.
+DSP Flight 5.
+DSP Flight 7.
+DSP Flight 8.
+DSP Flight 9.
+DSP Flight 10.
+DSP Flight 13.
+DSP Flight 14.
+DSP Flight 15.
+DSP Flight 16.
+DSP Flight 17.
+DSP Flight 18.
+Lancement du DSP F1, le 6 novembre 1970.

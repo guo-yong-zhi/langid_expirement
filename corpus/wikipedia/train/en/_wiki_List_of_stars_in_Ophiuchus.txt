@@ -1,0 +1,16 @@
+
+This is the list of notable stars in the constellation Ophiuchus, sorted by decreasing brightness.
+    Name = Proper name
+    B = Bayer designation
+    F or/and G. = Flamsteed designation or Gould designation
+    Var = Variable star designation
+    HD = Henry Draper Catalogue designation number
+    HIP = Hipparcos Catalogue designation number
+    RA = Right ascension for the Epoch/Equinox J2000.0
+    Dec = Declination for the Epoch/Equinox J2000.0
+    vis. mag. = visual magnitude , also known as apparent magnitude
+    abs. mag. = absolute magnitude 
+    Dist.  = Distance in light-years from Earth
+    Sp. class = Spectral class of the star in the stellar classification system
+    Notes = Common name or alternate name; comments; notable properties 
+ 

@@ -1,0 +1,6 @@
+Systemkrav er de kravene programvare stiller til maskinvaren i en datamaskin før programvaren kan brukes. Disse kravene er ofte brukt som en retningslinje istedenfor som et krav. Ofte er to sett med systemkrav gitt: et minimumssett  og et sett med anbefalte systemkrav . Datamaskiner med enda lavere spesifikasjoner enn minimumssettet kan noen ganger kjøre programvaren tilfredsstillende. Det er dog antydet at brukeren ikke vil få en representativ opplevelse av programvaren.
+Systemkravene for programvare har en tendens til å stige over tid, og de har steget mye over det siste tiåret. Denne stigningen kan vises ved å se på tre spill som har blitt utgitt de siste åtte årene.
+StarCraft :
+Spider-Man :
+Doom 3 :
+Det er ikke bare videospill som har disse kravene. Programmer som DVD-spillere og filbehandlere har også systemkrav.

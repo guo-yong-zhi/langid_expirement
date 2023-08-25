@@ -1,0 +1,7 @@
+
+Coriant was incorporated as an independent company in 2013 as a spin-out from Siemens Optical Networks .  The launch of the company was announced for the OFC/NFOEC in March 2013 and on May 6, 2013 Coriant became independent from  Nokia Siemens Networks under the ownership of Marlin Equity Partners. 1   2 
+Coriant merged with Sycamore Networks , which continued operating as Coriant America Inc. 3 
+Marlin Equity merged Coriant and Tellabs , which continued as Coriant. 4   Later, the telco and GPON related components of the company were spun back out as a new company, also called Tellabs.
+Coriant was acquired by Infinera in 2018.
+Coriant originates from the Transmission Technology department of Siemens based in Munich, Germany, . In those days the technology evolved from Plesiochronous Digital Hierarchy  to Synchronous Digital Hierarchy  in the STM-4 / STM-16  level.
+In the late 1990s and early 2000s DWDM emerged to allow for even higher transmission capacity . This technology is also named optical transport network , where a set of multiplex and encapsulation hierarchies is standardized.

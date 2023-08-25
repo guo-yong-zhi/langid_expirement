@@ -1,0 +1,55 @@
+Eine selbstrückstellende Sicherung ist eine elektrische Sicherung, die aus einem Kaltleiter besteht. Ihr elektrischer Widerstand vergrößert sich bei hohem elektrischem Strom  aufgrund der Eigenerwärmung derart, dass der Strom sehr klein wird. Nach Unterbrechung des Stromkreises und Abkühlung wird das Bauteil von selbst wieder niederohmig, wodurch es erneut einsatzfähig ist.
+Im Gegensatz etwa zu Schmelzsicherungen müssen selbstrückstellende Sicherungen nach dem Ansprechen nicht ausgetauscht werden. Sie sind allerdings in ihrem Schaltverhalten sehr träge und können keine großen Ströme abschalten.
+Andere übliche Bezeichnungen sind PPTC- oder PTC-Sicherung  und rückstellende Sicherung. Diese Bauteile werden von unterschiedlichen Herstellern unter verschiedenen Markennamen angeboten: Polyswitch , Multifuse , Polyfuse oder Everfuse.
+Das Festkörpermaterial zwischen den Elektroden ist ein mit Kohlenstoff-Pulver  gefülltes und dadurch leitfähiges Polymer , woraus sich auch die Bezeichnung Polymer PTC  für selbstrückstellende Sicherungen ableitet. Der elektrische Widerstand 
+  
+    
+      
+        R
+      
+    
+    
+  
+ dieses Materials vergrößert sich bei einer charakteristischen Temperatur wegen des großen Ausdehnungskoeffizienten des schmelzenden Polymers und den damit verloren gehenden Verbindungen zwischen den Kohlenstoffteilchen um mehrere Größenordnungen.
+Der Stromfluss 
+  
+    
+      
+        I
+      
+    
+    
+  
+ durch das Element während der Zeitdauer 
+  
+    
+      
+        t
+      
+    
+    
+  
+ verursacht Joulesche Wärme 
+  
+    
+      
+        
+          Q
+          
+            
+              W
+            
+          
+        
+      
+    
+     }}
+  
+:
+die zu einer Erhöhung der Temperatur und des Widerstands führt. Wenn der Strom den sogenannten Haltestrom wesentlich übersteigt und den Auslösestrom erreicht, schreitet der Effekt lawinenartig voran, und die gestiegene Temperatur führt das Element in einen hochohmigen Zustand über. Der Strom im Stromkreis wird auf einen Wert weit unter dem Betriebsstrom gedrosselt, was einem Abschalten gleichkommt. In diesem Zustand ist der Spannungsabfall am Sicherungselement fast so hoch wie die Speisespannung. Die Eigenerwärmung des Elements wird durch einen kleinen verbleibenden Stromfluss solange aufrechterhalten, bis der Stromkreis vollständig unterbrochen wird . Erst danach kann das Element abkühlen und sodann wieder den Nennstrom führen.
+Selbstrückstellende Sicherungen sind nicht für alle Anwendungsfälle geeignet. Sie waren anfangs nur bis 60 V Nennspannung verfügbar, später für bis zu 240 V. Die maximal zulässige Stromstärke  darf zum Beispiel nur wenige Ampere bis etwa 40 A betragen und ist bei hoher Nennspannung umso kleiner. Daher ist oftmals noch eine zusätzliche Schmelzsicherung zur Absicherung gegen höhere Stromstärken erforderlich.
+Die Auslösezeit  ist stark vom Überstrom abhängig und beträgt aufgrund der hohen Wärmekapazität zum Beispiel beim fünffachen Überstrom 10 Sekunden. 1  Auch wird die Funktion durch ungewöhnlich hohe oder tiefe Umgebungstemperaturen beeinträchtigt. Für manche Anwendungen ist die Ansprechzeit zu lang, oder die Temperaturabhängigkeit ist nicht tolerierbar und es muss auf andere Überstrom-Schutzmaßnahmen zurückgegriffen werden.
+Selbstrückstellende Sicherungen sind teurer als konventionelle Sicherungen und Sicherungswiderstände, schaffen jedoch einen erhöhten Gebrauchswert, da sie einen Totalausfall bzw. Service vermeiden.
+Selbstrückstellende Sicherungen kommen aus den oben genannten Gründen meist in kleineren Elektrogeräten im Niedervoltbereich als wartungsfreier Kurzschluss- und Überlastschutz, direkt auf den Leiterplatten im Gerät eingebaut, zum Einsatz. Ein Einsatzfall ist die Absicherung der Versorgungsspannung an USB-Ports in Computern und USB-Hubs.
+PPTC werden als Überlast- und Kurzschlussschutz in Lithium-Ionen-Akkumulator-Packs eingebaut. Sie dienen hier gleichzeitig dem thermischen Schutz.
+Für Netzspannung sind PPTC als Kurzschlussschutz nicht geeignet, können jedoch gut zum Überlastschutz von Transformatoren eingesetzt werden. Hierfür sind sie oft besser geeignet als Schmelzsicherungen, da sie vom Einschaltstromstoß nicht beeinträchtigt werden, thermisch träge wie der Transformator sind und umgebungstemperaturabhängig reagieren. Oft sind sie in kleinen Netztransformatoren mit in deren Wicklung eingebaut, sind somit thermisch gekoppelt und machen solche Trafos auf diese Weise eigensicher.

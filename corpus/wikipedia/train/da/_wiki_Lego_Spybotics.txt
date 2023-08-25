@@ -1,0 +1,1 @@
+Lego Spybotics er en produktlinje produceret af den danske legetøjskoncern LEGO, der blev produceret i 2002. Det er et undertema til Mindstorms. Det bestod af fire forskellige sæt, inklusive en Spybot, der var en controller, et kabel og software. 1  Spybots var farvekodede og hver af dem havde forskelligt tilhørende udstyr. Softwaren gør det muligt at programmere probotterne

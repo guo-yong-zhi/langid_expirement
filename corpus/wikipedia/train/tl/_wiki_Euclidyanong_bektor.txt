@@ -1,0 +1,19 @@
+Sa matematika, pisika, at inhinyera, ang Euclidyanong bektor  o tuganong Euclidyano , mas kilala sa pinaiksing tawag na bektor  o tugano lamang, a  ay isang heometrikal na bagay na may kalakhan  o haba, at direksyon. Ayon sa alhebrang pambektor, maaaring idagdag ang mga bektor sa iba pang mga bektor. Madalas itong ipinapakita bilang isang sinag  o pasulat sa anyong 
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+             
+          
+        
+      
+    
+    }}
+  
+, kung saan ang AB ay ang mga punto ng sinag — A ang pinagmulan at B ang patutunguhan.
+Galing sa salitang Kastila na vector ang "bektor," na nagmula naman sa salitang Latin na vector . Una itong ginamit noong ika-18 siglo ng mga astronomo sa kanilang pag-iimbestiga sa pag-ikot ng mga planeta sa Araw. Ang kalakhan ng bektor ay ang layo ng dalawang punto sa isa't isa, at tinutukoy naman ng direksyon ang direksyon ng paglipat  mula sa punto na A papuntang B. Maraming pagkakatulad ang mga operasyon sa bektor sa mga operasyon sa alhebra  — sinusunod rin nila ang mga katangian ng komukatibo, asosyatibo, at pamamahagi. Ang mga operasyon at katangiang ito ay ang dahilan kung bakit ginagawang halimbawa ang mga Euclidyanong bektor sa pangkalahatang konsepto ng mga bektor bilang isang elemento sa espasyong pambektor.

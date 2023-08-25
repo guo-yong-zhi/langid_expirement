@@ -1,0 +1,13 @@
+Na Mecânica dos solos o peso específico natural do  solo 
+  
+    
+      
+        
+      
+    
+    
+  
+ é definido numericamente como o peso total do solo  dividido pelo seu volume total , ou seja:
+As unidades são dadas em kgf/cm³ ou kN/m³ 
+O ensaio mais comum para determinação do peso específico natural do solo in situ é o método do cilindro de cravação, que é padronizado no Brasil pela norma ABNT NBR 09813/87. O método consiste basicamente na cravação  no solo de um molde cilindrico de dimensões e peso conhecidos. O volume do solo será igual ao volume interno do cilindro e seu peso igual ao peso total subtraído do peso do cilindro.
+Outro ensaio muito utilizado, principalmente quando os corpos de prova possuem volumes irregulares, é o método da balança hidrostática que utiliza o Princípio de Arquimedes e no Brasil é realizado com base na NBR 6508/84

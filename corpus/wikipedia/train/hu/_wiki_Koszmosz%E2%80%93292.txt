@@ -1,0 +1,13 @@
+Pontosságellenőrzött
+A Koszmosz–292  Koszmosz műhold, a szovjet műszeres műhold-sorozat tagja. Navigációs műhold, a szolgálati rendszer első kísérleti űreszköze.
+Ciklon  szovjet műholdas navigációs rendszer, az 1950-es években tervezték meg, 1962-ben hagyták jóvá a kivitelezés megkezdését. 1967-től 1978-ig 31 űreszközt állítottak pályára Kapusztyin Jar, illetve Pleszeck űrrepülőtérről. Modernizált típusa 1971-től került alkalmazására.
+A műhold elsődleges feladata a tengeralattjárók helyzetének pontos meghatározása, az elhelyezett rakéták pályaadatainak meghatározásával növelve a találati pontosságot. Összehangolni a felszíni hajók , a tengeralattjárók, a hadászati repülőgépek pozícióit, alkalmazásuk hatékonyságát segíteni.
+Üzemeltetője az MO minisztérium  СССР).
+1969. augusztus 14-én a Pleszeck űrrepülőtérről egy Koszmosz–3M  segítségével indították magas Föld körüli  körpályára. Az orbitális egység alappályája 99,9 perces, 74 fokos hajlásszögű, elliptikus pálya perigeuma 744 kilométer, apogeuma 763 kilométer volt. Hasznos tömege 775 kilogramm.
+Az orbitális egység pályáját 7 alkalommal korrigálták, legutóbb 2009. január 1-jén. Átlagos pályaelemek 99,35 perces, 74,05 fokos hajlásszögű, elliptikus pálya perigeuma 720 kilométer, apogeuma 735 kilométer volt.
+A Koszmosz–220 programját folytatta. Műszerezettsége: általános fedélzeti egység  doppler navigációs egység; Sziriusz rádióegység; jeladó-jelfogó antenna; Konusz-4 körsugárzó antenna; Kvant-L antenna. Az első kísérletbe 680 hajóegységet vontak be, a mérési eredmények 3 kilométeres pontatlanságot rögzítettek. 1969-től a mérési pontosság 100 méteres tűréshatáron belül volt. 1974-től 2 méteres pontosságot sikerült állandósítani.
+Az űreszköz hengeres testének átmérője 2 méter, magassága 2,035 méter. Felületére építették a napelemlapokat, hőmérséklet-érzékelőket. A sorozat felépítését, szerkezetét, alapvető fedélzeti rendszereit tekintve egységesített, szabványosított tudományos-kutató űreszköz. Áramforrása kémiai, illetve a felületét burkoló napelemek energiahasznosításának kombinációja . Tájolása háromtengelyes Föld-központú, passzív rendszer.
+Szolgálati ideje ismeretlen.
+Elődje:Koszmosz–291
+Koszmosz-program 1969
+Utódja:Koszmosz–293

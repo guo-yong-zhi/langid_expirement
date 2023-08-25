@@ -1,0 +1,213 @@
+Konjektur Arnold–Givental adalah sebuah pernyataan pada submanifold Lagrange, yang dinamai dari dua matematikawan bernama Vladimir Arnold dan Alexander Givental. Konjektur ini mengatakan ada sebuah batas bawah dalam bentuk bilangan Betti 
+  
+    
+      
+        L
+      
+    
+    
+  
+ pada jumlah titik perpotongan 
+  
+    
+      
+        L
+      
+    
+    
+  
+ dengan submanifold Lagrange isotopik Hamilton yang memotong 
+  
+    
+      
+        L
+      
+    
+    
+  
+ dengan melintang.
+Misalkan 
+  
+    
+      
+        
+          H
+          
+            t
+          
+        
+         
+        
+          C
+          
+             
+          
+        
+        
+      
+    
+    \in C^
+  
+; 
+  
+    
+      
+        0
+         
+        t
+         
+        1
+      
+    
+    
+  
+ adalah keluarga mulus fungsi Hamilton 
+  
+    
+      
+        M
+      
+    
+    
+  
+ dan dinyatakan dengan 
+  
+    
+      
+        
+           
+          
+            H
+          
+        
+      
+    
+    }
+  
+, pemetaan satu waktu dari alir medan vektor Hamilton 
+  
+    
+      
+        
+          X
+          
+            
+              H
+              
+                t
+              
+            
+          
+        
+      
+    
+    }}
+  
+ dari 
+  
+    
+      
+        
+          H
+          
+            t
+          
+        
+      
+    
+    }
+  
+. Misalkan 
+  
+    
+      
+        L
+      
+    
+    
+  
+ adalah submanifold Lagrange, invarian terhadap setiap involusi antisimplektik 
+  
+    
+      
+        M
+      
+    
+    
+  
+. Asumsi bahwa 
+  
+    
+      
+        L
+      
+    
+    
+  
+ dan 
+  
+    
+      
+        
+           
+          
+            H
+          
+        
+        
+      
+    
+    }
+  
+ memotong dengan melintang. Maka jumlah titik perpotongan 
+  
+    
+      
+        L
+      
+    
+    
+  
+ dan 
+  
+    
+      
+        
+           
+          
+            H
+          
+        
+        
+      
+    
+    }
+  
+ dapat diduga dari bawah melalui jumlah dari bilangan Betti 
+  
+    
+      
+        
+          
+            Z
+          
+          
+            2
+          
+        
+      
+    
+     _
+  
+ dari 
+  
+    
+      
+        L
+      
+    
+    
+  
+, yaitu
+Hingga saat ini, per kapan?  konjektur Arnold–Givental hanya dapat dibuktikan terhadap beberapa anggapan tambahan.
+Artikel bertopik topologi ini adalah sebuah rintisan. Anda dapat membantu Wikipedia dengan mengembangkannya.

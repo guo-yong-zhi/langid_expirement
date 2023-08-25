@@ -1,0 +1,3 @@
+En la física, el coeficiente de difusión es un valor que representa la facilidad con que cada soluto en particular se mueve en un disolvente determinado.  Depende de cuatro factores:
+Los coeficientes de difusión para líquidos son del orden de 10⁻⁵ , para gases del orden de 10⁻¹  y para sólidos 10⁻⁹ .
+Este coeficiente aparece en la ley de Fick, relacionada con la difusión de materia o energía.

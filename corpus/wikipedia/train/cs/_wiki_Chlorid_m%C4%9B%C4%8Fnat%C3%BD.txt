@@ -1,0 +1,26 @@
+Chlorid měďnatý je anorganická sloučenina se vzorcem CuCl2. Jedná se o žlutohnědou tuhou látku, která pomalu pohlcuje vlhkost a tvoří modrozelený dihydrát. Chlorid měďnatý je druhou nejrozšířenější měďnatou sloučeninou po síranu měďnatém.
+Bezvodý chlorid měďnatý má strukturu vycházející z té, kterou známe od jodidu kademnatého. Měďnatá centra jsou osmistěnná. Většina měďnatých sloučenin vykazuje deformace oproti ideální osmistěnné geometrii vlivem Jahn-Tellerova efektu, který zde popisuje lokalizaci jednoho elektronu d v orbitalu, kde je silně antivazebný oproti páru chloridových ligandů. V CuCl2·2H2O má měď opět silně zdeformovanou osmistěnnou geometrii, centra mědi jsou obklopena dvěma ligandy vody a čtyřmi chloridovými, které asymetricky přemosťují měďnatá centra. 2 
+Chlorid měďnatý je paramagnetický. V historii byl CuCl2·2H2O použit pro první měření paramagnetické rezonance elektronů, a to Jevgenijem Zavojským v roce 1944. 3  4 
+Vodné roztoky připravované z chloridu měďnatého obsahují škálu měďnatých komplexů v závislosti na koncentraci, teplotě a přítomnosti dalších chloridových iontů. Tato škála sahá od modré barvy 2+ až po žlutou nebo červenou barvu halogenidových komplexů se vzorcem x−. 5 
+Při 1 000 °C se chlorid měďnatý rozkládá na chlorid měďný a chlor:
+S chlorovodíkem nebo jinými zdroji chloridu tvoří komplexní ionty: červený CuCl3− nebo žlutý CuCl42−. 6 
+Některé z těchto komplexů mohou krystalizovat z vodných roztoků a získávají širokou škálu různých struktur.
+Při přidání hydroxidu do roztoku chloridu měďnatého se sráží hydroxid měďnatý:
+Chlorid měďnatý tvoří také různé koordinační komplexy s ligandy, například s pyridinem nebo trifenylfosfanoxidem:
+Ovšem některé „měkké ligandy“, například fosfanové , jodidové nebo kyanidové, stejně jako třeba některé terciární aminy, způsobují redukci na měďné komplexy. Pro převod chloridu měďnatého na měďné deriváty je ale obecně běžnější redukovat vodný roztok oxidem siřičitým:
+Hydrolýzou chloridu měďnatého vzniká oxychlorid měďnatý, Cu2Cl3, populární fungicid.
+Chlorid měďnatý se komerčně připravuje chlorací mědi:
+Lze ho vyrábět také z hydroxidu, oxidu nebo uhličitanu měďnatého působením kyseliny chlorovodíkové. Elektrolýzou vodného roztoku chloridu sodného s měděnými elektrodami vzniká  modrozelená pěna, kterou lze sbírat a převádět na hydrát chloridu měďnatého.
+Bezvodý CuCl2 lze připravovat přímo slučováním prvků, tedy mědi a chloru.
+CuCl2 lze čistit krystalizací z horké zředěné kyseliny chlorovodíkové, ochlazováním v lázni chloridu vápenatého a ledu. 7  8 
+Chlorid měďnatý se v přírodě vyskytuje jako velmi vzácný nerost tolbachit a v podobě dihydrátu jako eriochalcit. Oba se objevují blízko fumarol. Rozšířenější jsou smíšené oxyhydroxid-chloridy, například atacamit Cu23Cl, objevující se v oxidačních zónách slojí měděné rudy za suchého podnebí .
+Hlavní průmyslovou aplikací chloridu měďnatého je jako kokatalyzátor  ve Wackerově procesu. Zde se ethen  převádí na ethanal  pomocí vody a vzduchu. Při reakci se PdCl2 redukuje na elementární palladium, CuCl2 ho oxiduje zpět na PdCl2. Vzduch pak oxiduje výsledný chlorid měďný zpět na chlorid měďnatý, čímž se cyklus uzavře.
+Celý proces lze zapsat takto:
+Chlorid měďnatý katalyzuje chloraci při výrobě vinylchloridu a dichlorethanu. 9 
+Chlorid měďnatý má řadu různých specializovaných aplikací v syntéze organických sloučenin. 7  Chloruje aromatické uhlovodíky – často za přítomnosti oxidu hlinitého. Je schopen chlorovat alfapozici karbonylových sloučenin: 10 
+Tato reakce probíhá v polárních rozpouštědlech, například dimethylformamidu , často v přítomnosti chloridu lithného, který reakci urychluje.
+Za přítomnosti kyslíku může CuCl2 oxidovat fenoly. Takto lze získávat chinon nebo spřažený produkt oxidativní dimerizace. Druhý z procesů poskytuje  1,1-binaftol: 11 
+Takové sloučeniny jsou surovinami pro syntézu BINAP a jeho derivátů.
+Dihydrát chloridu měďnatého vyvolává hydrolýzu acetonidů, tj. deprotekci k regeneraci diolů 12  nebo aminoalkoholů, jako v tomto příkladě : 13 
+CuCl2 lze použít v pyrotechnice k barvení plamene na modrozeleno .
+V tomto článku byl použit překlad textu z článku Copper chloride na anglické Wikipedii.

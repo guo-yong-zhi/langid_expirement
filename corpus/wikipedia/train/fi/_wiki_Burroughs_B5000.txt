@@ -1,0 +1,4 @@
+Burroughs B5000 oli Burroughsin valmistama suurtietokone, joka käytti diskreettejä transistoreja ja myöhemmin mikropiirejä. 1 
+Tietokone julkaistiin vuonna 1961. 2  Päivitetty seuraaja B5500 julkaistiin vuonna 1964, jonka seuraaja B6500 julkaistiin vuonna 1966. 3 
+Tietokoneessa oli pinokäskyjä ALGOL 60 -ohjelmien tehokkaaseen suoritukseen. 4  Laitteiston suunnittelussa oli mukana periaatteita kuten mahdollisuus suorittaa ohjelmaa riippumatta sen sijainnista, data olisi riippumaton sen sijainnista ja muistiosoitus ohjelmissa käyttäisi kontekstia hyödyksi. 5 
+B5000:n Master Control Program  oli mahdollisesti ensimmäinen korkeamman tason ohjelmointikielellä toteutettu käyttöjärjestelmä. 6  5  MCP tallennettiin osaan rumpumuistia, josta sitä kutsutaan tietyissä tapahtumissa tai järjestelmätilanteissa. 5  MCP:n suoritusta kutsuttiin kontrollitilaksi  ja siirtymät kontrollitilaan tapahtuvat keskeytyksien kautta. 5 

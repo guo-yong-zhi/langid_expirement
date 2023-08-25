@@ -1,0 +1,2 @@
+La restituzione prospettica è un procedimento di costruzioni geometriche grazie al quale da un disegno prospettico già realizzato si risale alla vera forma e misura della pianta e alzato. Per lo più è applicato a manufatti architettonici.
+L'applicazione informatica di tale procedimento, detta fotorestituzione 3D, viene finalizzata a riprodurre con l'ausilio di fotografie, modelli tridimensionali virtuali di manufatti architettonici reali.

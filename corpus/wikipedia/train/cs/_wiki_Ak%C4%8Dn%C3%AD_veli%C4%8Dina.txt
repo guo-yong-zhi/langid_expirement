@@ -1,0 +1,4 @@
+Akční veličina  je výstupní veličina akčního členu a současně vstupní veličina řízené soustavy. Řízení se uskutečňuje jejím působením na řízenou soustavu. Okamžitá hodnota akční veličiny se nazývá amplituda.
+Při ovládání je vstupní veličinou akčního členu přímo referenční veličina , zatímco při regulaci je referenční veličina jednou z porovnávaných veličin na vstupu centrálního členu regulátoru, jehož výstup je jako řídicí veličina  veden na akční člen.
+Příkladem akční veličiny je otevřený stav ventilu. Jeho referenční hodnotou je například natočení ovládacího knoflíku . Při regulaci se používá ovládací ventil; jeho řídicí veličinou je při pneumatickém řízení tlak na membránu, který je výstupem z pneumatického regulátoru.
+V tomto článku byl použit překlad textu z článku Stellgröße na německé Wikipedii.

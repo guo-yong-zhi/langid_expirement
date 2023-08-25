@@ -1,0 +1,7 @@
+Pontosságellenőrzött
+Az ideális térelemek – pont, egyenes, sík – fogalma a projektív geometria fontos absztrakciója. Ez utóbbi a térbeli alakzatok síkban való ábrázolása során felmerülő problémák tisztázásának egyik fontos terméke.
+Nem sokkal a perspektíva törvényeinek felfedezése után született meg az ideális pont fogalma. Nem is egy, hanem két forrást is ismerünk. Az egyik a csillagász Johannes Kepler , aki a parabola „másik” fókuszáról mondja, hogy végtelen távolságban van . A másik a francia építész Gérard Desargues , aki a párhuzamosok végtelen távoli „közös végéről” ír.
+A helyesen szerkesztett tájképen  a párhuzamos egyenesek képe egy pontba fut össze . Ez a képpont nem feleltethető meg az ábrázolt térbeli egyenesek egyik pontjának sem. A vetítés  matematikai elemzése egységessé tehető, ha párhuzamosok pontjaihoz egy, a valóságban nem létező, ideális pontot csatolunk.
+Az egy síkban fekvő egyenesek ideális pontjai alkotják a sík ideális egyenesét. A párhuzamos síkok ideális egyenesei közösek. A tájképen a vízszintes síkok ideális egyeneseinek képe a horizont.
+A tér különböző állású síkjainak ideális egyenesei alkotják a tér  ideális síkját.
+Megjegyzés: az ideális térelemeket szokták végtelen távoli pontoknak, egyeneseknek, síknak is nevezni.

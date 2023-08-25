@@ -1,0 +1,4 @@
+Indeksisijoittaminen tarkoittaa sijoitusstrategiaa, jossa sijoitetaan jonkin indeksin kuten osakeindeksin mukaisesti. 
+Indeksisijoittamisessa noudatetaan niin sanottua passiivistrategiaa. Sijoitukset hajautetaan sijoituskohteisiin ennalta valitun indeksin mukaisesti. Passiivistrategian vastakohtia ovat aktiivistrategiat, joissa sijoituskohteet poimitaan muulla tavoin. 1 
+Indeksisijoittaja tavoittelee valitsemansa markkinan keskimääräistä tuottoa. Strategian etuihin kuuluvat matalat kustannukset ja hajauttaminen. 2  3  4  Strategian haittapuolena voidaan pitää sitä, että sijoittaja ei juuri voi saada markkinan keskimääräistä tuottoa enempää. Kulujen vuoksi tuotto tavallisesti jää jonkin verran indeksin tuottoa heikommaksi. 4 
+Indeksisijoittaminen tapahtuu tavallisesti jonkin indeksirahaston kautta. Moni indeksirahasto on pörssinoteerattu rahasto eli ETF. 2  Indeksin mukaan sijoittavasta ETF:stä käytetään myös nimeä indeksiosuusrahasto.

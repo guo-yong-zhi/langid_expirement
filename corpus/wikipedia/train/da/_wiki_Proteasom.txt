@@ -1,0 +1,4 @@
+Proteasomet er et stort proteinkompleks, der i eukaryote celler og archaea står for nedbrydningen af proteiner markeret med ubiquitin.
+Proteasomet er en ATP-afhængig protease på 26S, der består af tre komponenter – 20S proteasomet, der indeholder proteaseaktiviteten, og to 19S-proteasomer, der har regulerende rolle. 20S-proteasomet har form som en tønde, og på tøndens bund og top sidder 19S-proteasomerne.
+20S-proteasomet er opbygget af 14 subunits, 2 kopier af 7 forskellige homologe polypeptider, der alle antager cirka samme konformation. Den samlede masse af 20S-proteasomet er 700 kDa.
+De enkelte subunits er arrangeret i to cirkler på 7 subunits; disse er så placeret ovenpå hinanden så der dannes en tønde-lignende form. Proteasomets substrater nedbrydes inde i midten af tøndestrukturen, hvor de aktive sites befinder sig.

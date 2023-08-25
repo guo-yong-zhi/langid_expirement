@@ -1,0 +1,4 @@
+Cet article est une ébauche concernant l’informatique.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+Basic PDP-1 LISP est une implémentation du langage de programmation Lisp pour machines PDP-1 développée par L. Peter Deutsch publiée en 1963, et dérivée de l'implémentation de l'IBM 7090.
+Cette implémentation est l'ancêtre commun des implémentations ultérieures de LISP sous PDP-6 et PDP-10, puis de MacLisp, et également l'une des plus influentes dans l'évolution initiale du Lisp.

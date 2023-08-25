@@ -1,0 +1,16 @@
+Hledání min  je počítačová hra, obsažená v operačním systému MS Windows, dále v některých distribucích Linuxu, ale i jinde, například ve vývojovém prostředí MS Visual FoxPro.
+Cílem hry je odhalit všechna políčka obsahující minu nebo, ještě přesněji, odkrýt všechna políčka, která minu neobsahují .
+To, jestli nějaké neodkryté políčko minu obsahuje, či nikoli, se hráč dozví tak, že na ně klepne levým tlačítkem myši. Pokud políčko minu neobsahuje, objeví se číslo, které ukazuje, kolik min se celkem nachází na osmi políčkách s ním sousedících .
+Je-li zřejmé, že některé neodkryté políčko obsahuje minu, lze jej pro větší přehlednost označit vlajkou, kterou hráč přidá klepnutím pravého tlačítka myši na dané políčko. Vlajka zároveň hráči zabraňuje v případném dalším neúmyslném odkrytí políčka.
+Hra končí vítězstvím, pokud se podaří odkrýt všechna políčka neobsahující minu, nebo prohrou v případě odkrytí tlačítka s minou.
+Ve hře jsou tři původní obtížnosti + jedna vlastní.
+U starších verzí  fungovalo zastavení času tím způsobem, že při držení stisknutých obou tlačítek myši současně hráč stiskl klávesu Esc. Tím se zastavilo odpočítávání času a hráč už mohl hledat miny neomezeně dlouho, počítal se mu zastavený čas. Ve Windows XP je k zastavení času nutno klepnout na ikonu hry a po vysunutí rozevírací nabídky stisknout klávesovou zkratku Win+D. Po klepnutí na minimalizované okno Hledání min čas opět stojí.
+Tabulku nejlepších časů lze také editovat přímo. U starších verzí byla tato tabulka uložena v souboru winmine.ini, ve Windows XP je třeba změnu provést v systémových registrech. Je to však doporučováno pouze pro zkušené uživatele. Používá se program regedit  a adresa je HKEY_CURRENT_USER\Software\Microsoft\winmine.
+Pravděpodobně u všech verzí Hledání min ve Windows funguje následující pomůcka: po zadání řady kláves „X, Y, Z, Z, Y, Enter, Shift“ se pomocí levého horního bodu na obrazovce dá zjistit, co se skrývá na poli pod kurzorem – pokud je bod černý, je na poli mina; pokud je bílý, pole je bezpečné.
+V roce 2000 publikoval Richard Kaye důkaz, že zjištění, zda k zobrazené pozici ve hře existuje nějaké možné rozmístění min, je NP-úplný problém. 1 
+Neobdélníkové pole
+3D
+Šestiúhelníková varianta
+Trojúhelníková varianta
+ASCII
+Některé verze rozmisťují miny tak, aby nebylo nutné hádat

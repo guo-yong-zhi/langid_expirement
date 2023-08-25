@@ -1,0 +1,2 @@
+LAPB  este un protocol din nivelul  legătură de date din stiva protocolului X.25 . LAPB este un protocol orientat pe bit, derivat din HDLC, care asigură lipsa de erori a cadrelor  și ordinea lor corectă.
+Protocoale înrudite: ISDN, X.25, SDLC, HDLC

@@ -1,0 +1,4 @@
+Creatio – SaaS-sistema, sukurta „Creatio“ platformos „bpm’online“ pagrindu, naudojanti  technologijas, HTML, AJAX, Silverlight standartus ir protokolus. 1  2  Technologinis „Creatio“ sprendimas sujungia tiek veiklos procesų valdymo , tiek santykių su klientais valdymo  galimybes.
+Trejus metus 35 programuotojų komandos kurtoje sistemoje panaudota BPM  koncepcija ir naujausias procesų modeliavimo standartas BPMN . 3  Sistemos veikimą keisti ir kurti naują joje funkcionalumą galima be specifinių programavimo žinių. 1  Bet koks darbas sistemoje vyksta pagal sukonfigūruotus procesus. 4  Sistema yra atvirojo kodo ir nepriklausoma nuo gamintojo, naudojama per internetinę naršyklę. Sistemą galima nuomotis naudojantis sertifikuoto duomenų centro paslauga  arba įsidiegti savo serveryje. 3  5 
+2011 m. lapkričio 7 d. „bpm’online CRM“ paskelbtas konkurso „CRM Idol 2011“ nugalėtoju EMEA zonoje. 6  7  8  9 
+Naujausia platformos versija  išleista 2020 m. rugpjūtį. 10 

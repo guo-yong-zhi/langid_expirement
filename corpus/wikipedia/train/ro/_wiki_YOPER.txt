@@ -1,0 +1,1 @@
+YOPER este o distribuție de Linux bazată pe RPM.

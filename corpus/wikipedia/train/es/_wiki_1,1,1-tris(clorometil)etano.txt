@@ -1,0 +1,9 @@
+El 1,1,1-trisetano o 1,3-dicloro-2--2-metilpropano de acuerdo a la nomenclatura IUPAC, es un compuesto orgánico de fórmula molecular C5H9Cl3. Es un haloalcano derivado del neopentano con tres átomos de cloro unidos respectivamente a tres de los carbonos terminales.   
+A 25 °C el 1,1,1-trisetano es un líquido que solidifica a 18 °C. Su punto de ebullición, a 22 mmHg de presión, es de 89 - 90 °C, mientras que a presión normal su punto de ebullición estimado es de 196 °C. Tiene una densidad mayor que la del agua, ρ = 1,271 g/cm³.
+El valor del logaritmo de su coeficiente de reparto, logP = 3,13, indica que es mucho más soluble en disolventes apolares —como el 1-octanol— que en disolventes polares.
+Así, en agua es prácticamente insoluble, en proporción de 66 mg/L. 
+El 1,1,1-trisetano se obtiene por cloración de 1,1,1-trisetano con cloruro de tionilo, empleando como catalizador óxido de trifenilfosfina. La reacción se lleva a cabo a una temperatura de 110 - 135 °C y el rendimiento obtenido alcanza el 85%. 
+Igualmente, la reacción de diazometano con cloroformo produce 1,1,1-trisetano. Esta reacción es inducida por medio de luz. 
+A partir del 1,1,1-trisetano se han sintetizado arsanos terciarios multidentados quirales. 
+Otros usos de este compuesto incluyen la síntesis de ligandos tripodales funcionalizados para aplicaciones de rayos X e imágenes radioactivas,  la elaboración de compuestos de fenol «obstaculizado», usados como antioxidantes,  y la fabricación de polímeros en estrella densos con puentes. 
+Asimismo se ha propuesto su utilización en la producción de composiciones curables de tioéteres, que tienen aplicación como revestimientos y sellantes. 

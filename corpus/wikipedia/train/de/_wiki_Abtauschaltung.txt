@@ -1,0 +1,3 @@
+Die Abtauschaltung wird zum Enteisen von Freileitungen verwendet. 1 
+Über vereiste Freileitungen wird für kurze Zeit so viel elektrischer Strom geleitet, dass sie sich auf Grund des spezifischen Widerstands des elektrischen Leiters erwärmen. In Kanada wird für die Enteisung von Freileitungen auch Gleichspannung wie beim Lévis-Enteiser verwendet.
+Eine Möglichkeit zur Enteisung von Oberleitungen ist das Einspeisen von höherfrequentem Wechselstrom  über Kondensatoren. Solche Anlagen sind in Deutschland jedoch nicht vorhanden.

@@ -1,0 +1,3 @@
+ 
+Quando se invia datos per Internet, cata pacchetto de datos transmittite include informationes de capite e le datos mesme a inviar. Le capite identifica le origine e destination del pacchetto, e le datos mesme se appella le carga utile .
+Post que le informationes de capite constitue datos supplementari que se usa solmente durante le processo de transmission, illos se dismonta del pacchetto quando illo attinge su destination. Ergo, le carga utile es le sol datos recipite per le systema de destination.

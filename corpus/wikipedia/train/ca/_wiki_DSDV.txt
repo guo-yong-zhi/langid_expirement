@@ -1,0 +1,2 @@
+DSDV  és un protocol d'enrutament basat en taules per a xarxes mòbil ad hoc  i que segueix l'algorisme Bellman-Ford. DSDV va ser desenvolupat per C. Perkins i P. Bhagwat el 1994. 1  2  3 
+Protocols AODV, Dynamic Source Routing, OSPF, OLSR

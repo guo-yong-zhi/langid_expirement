@@ -1,0 +1,8 @@
+En tandhjulspumpe er en type pumpe, hvor  to roterende tandhjul transporterer en væske eller en luft/gas. Væsken indfanges i rummet mellem tænderne i tandhjulene og presses ud ved afløbet af pumpen. Tænderne i tandhjulene griber fat i hinanden, således at væsken ikke kan strømme tilbage til indløbet.
+Væsken tages med i tandmellemrummene langs pumpehusets omkreds og presses ud af pumpen, når tænderne på de to tandhjul går i indgreb med hinanden.
+Når tandhjulene drejer rundt, vil det der skal pumpes blive presset igennem pumpen. Der vil opstå et undertryk på sugesiden og overtryk på tryksiden.
+Tandhjulspumper vil altid være forsynet med en sikkerhedsventil  på tryksiden, idet de ikke tåler at pumpe imod en lukket rørledning.
+Tandhjulspumpen er selvansugende.
+Ekstern gear pumpe design for hydraulik.
+Intern gear  pumpe design for pumper.
+Intern gear  pumpe design for høj viskositets væsker.

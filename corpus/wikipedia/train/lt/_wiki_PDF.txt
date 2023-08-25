@@ -1,0 +1,9 @@
+PDF  – atviro standarto formatas, skirtas elektroniniam dvimačiam dokumentui atvaizduoti. PDF sukurtas ir tvarkomas korporacijos „Adobe Systems“.
+Į PDF failą gali būti įtraukiami tekstas kartu su jam naudojamais šriftais, vektoriniai, rastriniai ir daugialypės terpės vaizdai. PDF leidžia CMYK ir RGB spalvų paletes. Rastriniai vaizdai gali būti keliais būdais suspaudžiami.
+Formatas numato dokumento elektroninį parašą.
+PDF formatas plačiai naudojamas, kai norima užtikrinti, kad gavėjas matytų tokį patį vaizdą, kaip ir dokumento siuntėjas.
+Paplitusioms operacinėms sistemoms prieinami įvairių kūrėjų nemokamos bei laisvai platinamos PDF atvaizduojančios programos. 
+PDF kūrimui pritaikytos programos yra mažiau paplitusios.
+Tai dažniau profesionaliems maketuotojams skirti įrankiai, pavyzdžiui, pdfTeX – TeX maketavimo programos versija, skirta darbui su PDF.
+Mažiau patyrę vartotojai PDF kūrimui naudojasi konverteriais.
+Biuro programų paketai LibreOffice bei Apache OpenOffice gali padaryti PDF failą iš bet kokio palaikomo dokumento , naujesnės versijos taip pat gali ir atverti bei keisti  PDF failus.

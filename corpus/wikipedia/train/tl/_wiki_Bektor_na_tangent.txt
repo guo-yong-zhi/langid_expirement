@@ -1,0 +1,2 @@
+Sa diperensiyal na heometriya, ang bektor na tangent  ay isang bektor na tangent sa isang kurba o sa isang surpasiyo sa isang ibinigay na punto.
+Ang mga bektor na tangent ay inilalarawan sa diperensiyal na heometriya ng mga kurba sa konteksto ng mga kurba sa Rn. Sa pangkalahatan, ang mga bektor na tanget ay mga elemento ng espasyong tangent ng isang diperensiyableng manipoldo.
