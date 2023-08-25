@@ -19,16 +19,19 @@ function count_ngrams(text::AbstractString, n, counter=Dict{Vector{UInt8},Float3
     end
     counter
 end
-function count_one_to_ngrams(text::AbstractString, n=5, counter=Dict{Vector{UInt8},Float32}(); kwargs...)
+function count_all_ngrams(text::AbstractString, rg::AbstractRange=1:5, counter=Dict{Vector{UInt8},Float32}(); kwargs...)
     text = normalize_text(text; kwargs...)
     text = transcode(UInt8, string(text))
-    for k in 1:n
+    for k in rg
         for i in 1:length(text)-k+1
             p = text[i:i+k-1]
             counter[p] = get(counter, p, 0.0) + 1.0
         end
     end
     counter
+end
+function count_all_ngrams(text::AbstractString, n::Int=5, counter=Dict{Vector{UInt8},Float32}(); kwargs...)
+    count_all_ngrams(text, 1:n, counter; kwargs...)
 end
 
 
@@ -43,10 +46,10 @@ function count_dataset_ngrams(dataset, n; kwargs...)
     counters
 end
 
-function count_dataset_one_to_ngrams(dataset, n; kwargs...)
+function count_dataset_all_ngrams(dataset, n; kwargs...)
     counter = Dict{Vector{UInt8},Float32}()
     for (text, lang) in dataset
-        count_one_to_ngrams(text, n, counter; kwargs...)
+        count_all_ngrams(text, n, counter; kwargs...)
     end
     counter
 end

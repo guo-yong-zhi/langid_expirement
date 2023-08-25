@@ -44,7 +44,7 @@ function build_ngram_profile(lang; ngram=7, ratio=0.9, minfreq=10, maxsize=10000
     D1 = TatoebaDataset("corpus/tatoeba", "tatoeba_train.txt", langs=[lang])
     D2 = WikiDataSet("corpus/wikipedia/train", langs=[lang])
     println("# ", lang)
-    norm_ngrams_dict(count_dataset_one_to_ngrams.([D1, D2], ngram, blacklist=blacklist), ratio, minfreq, maxsize)
+    norm_ngrams_dict(count_dataset_all_ngrams.([D1, D2], ngram, blacklist=blacklist), ratio, minfreq, maxsize)
 end
 
 function build_ngram_profiles(langs, path; ngram=7, ratio=0.9, minfreq=10, maxsize=100000, kwargs...)
