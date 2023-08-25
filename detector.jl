@@ -75,7 +75,7 @@ function langprob(text::AbstractString, languages::Vector{String}, profiles::Vec
     vs = sum(values(p))
     map!(v -> v / vs, values(p))
     lls = loglikelihood.(Ref(p), profiles)
-    ls = exp.(lls)
+    ls = exp.(lls) .- exp(DEFAULT_LOGP)
     ls = ls ./ sum(ls)
     si = sortperm(ls, rev=true)[1:min(end, candidates)]
     [k => v for (k, v) in zip(languages[si], ls[si])]
