@@ -1,0 +1,41 @@
+Bezpečnosť v Unixe znamená spôsoby zabezpečenia unixového alebo Unix-like operačného systému. Bezpečné prostredie je dosiahnuté nielen návrhom dizajnu týchto operačných systémov, ale aj pomocou pozorných užívateľských a administrátorských praktík.
+Jedným zo základných znakov v týchto systémoch je systém prístupových práv. Všetky súbory v Unix-ových súborových systémoch môžu dovoľovať rôzny prístup k súborom na základe určených prístupových práv.
+Prístupové práva pre súbor sú zvyčajne nastavované pomocou príkazu chmod a zobrazované cez príkaz ls. Napríklad:
+ -r-xr-xr-x  1 root  wheel  745720 Sep  8  2002 /bin/sh
+ /pvr 
+ nickname:hash_hesla:UserID:GroupID:kompletné_meno:domovský_adresár:shell_bin
+ xfze:$1$zuW2nX3sslp3qJm9MYDdglEApAc36r/:1000:100:José Carlos D. S. Saraiva:/home/xfze:/bin/bash
+ xfze:$1$zuW2nX3sslp3qJm9MYDdglEApAc36r/:::::
+    $ netstat -a
+ Active Internet connections 
+ Proto Recv-Q Send-Q  Local Address          Foreign Address        State
+ tcp        0      0  localhost.smtp         *.*                    LISTEN
+ tcp        0      0  *.ssh                  *.*                    LISTEN
+ Active Internet6 connections 
+ Proto Recv-Q Send-Q  Local Address          Foreign Address        
+ tcp6       0      0  localhost.smtp         *.*                    LISTEN
+ tcp6       0      0  *.ssh                  *.*                    LISTEN
+ Active UNIX domain sockets
+ Address  Type   Recv-Q Send-Q    Inode     Conn     Refs  Nextref Addr
+ c0d10d80 dgram       0      0        0 c0cd8680        0 c0cb7000 -> /var/run/log
+ c0cb7000 dgram       0      0        0 c0cd8680        0        0 -> /var/run/log
+ c0cd8680 dgram       0      0 cb9639e8        0 c0d10d80        0 /var/run/log
+    $ sockstat -4
+ USER     COMMAND    PID   FD PROTO  LOCAL ADDRESS         FOREIGN ADDRESS
+ root     sendmail   569    4 tcp    localhost.smtp        *.*
+ root     sshd       593    4 tcp    *.ssh                 *.*
+ Chain INPUT 
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 ACCEPT     all—any    any     anywhere             anywhere            state ESTABLISHED
+    0     0 ACCEPT     tcp—any    any     anywhere             anywhere            tcp dpt:smtp
+    0     0 LOG        all—any    any     anywhere             anywhere            LOG level warning
+    0     0 DROP       all—any    any     anywhere             anywhere
+ Okruh OUTPUT 
+ pkts bytes target     prot opt in     out     source               destination
+    0     0 DROP       tcp—any    any    !server               anywhere            tcp dpt:smtp
+</prNie je potrebné zahŕňať ďalšie pravidlá do tohto príkladu, keďže implicitná politika pre OUTPUT okruh je ACCEPT.  Všimnite si, že toto pravidlo predpokladá, že host, ktorý sa správa ako firewall nebude posielať email sám, ale pošle ho emailovému serveru. Toto je dobrý predpoklad, keďže typicky firewall obsahuje minimum systémového kódu potrebného aby fungoval ako firewall.
+Viac obmedzujúci OUTPUT okruh by obsahoval povoľujúce  vstupy pre tie služby, ku ktorým môže byť pristupované zvonka firewallu a potom obmedzujúcu  politiku pre okruh samotný.
+Bezpečná sieťová komunikácia:
+Packet sniffing :
+Útoky:
+Practical UNIX and Internet Security, Simson Garfinkel and Gene Spafford, O'Reilly & Associates, 2003. 

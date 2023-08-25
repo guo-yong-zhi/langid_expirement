@@ -1,0 +1,3 @@
+Fermioner er en gruppe af forskellige kvantemekaniske stofpartikler, der danner fuldstændig asymetriske sammensatte kvantetilstande. Derfor følger de Paulis udelukkelsesprincip og opfylder Fermi-Dirac statistikken. Spin-statistik-teoremet angiver, at fermioner har et halvtalligt spin 
+Alle elementarpartikler er enten fermioner eller bosoner. Partikler som er sat sammen af fermioner kan enten være bosoner  eller fermioner  afhængig af deres samlede spin.
+Fermioner er opkaldt efter fysikeren Enrico Fermi. 

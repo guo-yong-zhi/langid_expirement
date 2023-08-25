@@ -1,0 +1,73 @@
+La stimolazione magnetica transcranica  è una tecnica non invasiva di stimolazione elettromagnetica del tessuto cerebrale effettuata posizionando dei potenti magneti in prossimità della cute. Mediante questa tecnica, è possibile stimolare e studiare il funzionamento dei circuiti e delle connessioni neuronali del cervello, provocando una alterazione della attività elettrica piuttosto ridotta e transitorio e per lo più limitata ai tessuti più esterni .
+È possibile adottare anche questa tecnica in modo ripetuto, ciclicamente, per trattare disturbi psichiatrici e neurologici quali la depressione, le allucinazioni, la malattia di Parkinson, ecc.; gli studi su questi presunti effetti terapeutici sono stati tuttavia condotti, per lo più, solo su scala ridotta e hanno dato risultati a volte contrastanti.
+Infatti, l'utilizzo della TMS è stato approvato dalla Food and Drug Administration statunitense nel trattamento dell'emicrania 1  e l'utilizzo della TMS ripetuta  nel trattamento della depressione resistente ad altri trattamenti. 2 
+La stimolazione magnetica si basa sul principio fondamentale dell'induzione elettromagnetica o Legge di Faraday: una corrente elettrica  in uno stimolatore produce un campo magnetico variabile nel tempo che induce un flusso di corrente nei conduttori vicini, inclusi i tessuti umani. Il campo elettrico  
+  
+    
+      
+        
+          E
+        
+      
+    
+     }
+  
+ prodotto è dato dal rapporto tra la variazione del campo magnetico 
+  
+    
+      
+        
+           
+          
+            B
+          
+        
+      
+    
+    }
+  
+ nel tempo t.
+Il segno meno della Legge di Faraday specifica la direzione della forza elettromotrice risultante dall'induzione elettromagnetica , ossia la forza elettromotrice indotta si oppone alla forza che l'ha generata.
+La forza elettromotrice indotta è direttamente proporzionale all'induttanza 
+  
+    
+      
+        L
+      
+    
+    
+  
+ della bobina e al rapporto tra la l'intensità di corrente 
+  
+    
+      
+        
+          d
+        
+        i
+      
+    
+    i}
+  
+ circolante nella bobina e il tempo 
+  
+    
+      
+        
+          d
+        
+        t
+      
+    
+    t}
+  
+:
+L'energia magnetica immagazzinata è data dall'induttanza della bobina e dalla quantità di corrente che circola in essa, ed è uguale al lavoro compiuto dal generatore di forza elettromotrice del circuito  per portare la corrente al suo valore di regime:
+L'energia induttiva della bobina è uguale alla potenza rilasciata a ogni impulso dallo stimolatore, questa energia è cruciale per stimolare i tessuti ed è generata da un condensatore che accumula energia secondo la legge:
+I condensatori per la stimolazione magnetica sono caricati a migliaia di volt.
+Il circuito essenziale su cui si basa la stimolazione magnetica è costituito da un condensatore, un interruttore e un induttore .
+Questa tecnica permette di bloccare temporaneamente le funzioni corticali tramite onde elettromagnetiche e viene utilizzata per ricerche di mappatura cerebrale sulle risposte  a varie stimolazioni.
+.mw-parser-output .chiarimento.mw-parser-output .chiarimento-apiceViene effettuata nei casi clinici approvati dalla giurisdizione 1161 del codice medico. Quale codice medico? Di quale stato? 
+La rTMS può essere anche utilizzata come strumento per il trattamento di diverse patologie o disturbi, quali la depressione.
+Verso la metà degli anni novanta è stato riscontrato, in modo del tutto accidentale, come pazienti affetti da patologia neurologica che erano sottoposti a TMS ripetitiva  a fini diagnostici, e che presentavano associato un disturbo del tono dell'umore, potessero presentare un miglioramento del quadro depressivo. Queste osservazioni hanno dato l'avvio all'utilizzo della rTMS come trattamento terapeutico in ambito neuropsichiatrico. Infatti, la TMS, se utilizzata in modo ripetitivo ad alte o basse frequenze, secondo recenti evidenze, può indurre e modulare i fenomeni di riorganizzazione neuronale, ed è in grado di facilitare o inibire in modo relativamente selettivo circuiti neuronali responsabili di una determinata funzione o di un determinato sintomo. Negli ultimi anni sono uscite diverse pubblicazioni che costituiscono le linee guida per l'uso terapeutico della rTMS. I dati riportati si basano su evidenze sperimentali, per diverse patologie quali: il dolore, i disturbi del movimento, l'ictus, sclerosi laterale amiotrofica, sclerosi multipla, epilessia, tinnito, la depressione, disturbi d'ansia, disturbi ossessivo compulsivi, la schizofrenia e le dipendenze 3 . Sono state pubblicate anche le linee guida per il suo utilizzo, sia per l'applicazione clinica sia di ricerca in ambito delle neuroscienze 4 .
+Altri progetti

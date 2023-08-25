@@ -1,0 +1,5 @@
+
+modifier  1991 LY est un astéroïde de la ceinture principale d'astéroïdes de 6,670 km de diamètre découvert en 1991.
+ 1991 LY a été découvert le 14 juin 1991 à l'observatoire Palomar, situé au nord de San Diego en Californie, par Eleanor Francis Helin.
+L'orbite de cet astéroïde est caractérisée par un demi-grand axe de 2,63 UA, un périhélie de 2,16 UA, une excentricité de 0,18 et une inclinaison de 15,73° par rapport à l'écliptique. Du fait de ces caractéristiques, à savoir un demi-grand axe compris entre 2 et 3,2 UA et un périhélie supérieur à 1,666 UA, il est classé, selon la JPL Small-Body Database, comme objet de la ceinture principale d'astéroïdes.
+ 1991 LY a une magnitude absolue  de 13,2 et un albédo estimé à 0,275, ce qui permet de calculer un diamètre de 6,670 km. Ces résultats ont été obtenus grâce aux observations du Wide-Field Infrared Survey Explorer , un télescope spatial américain mis en orbite en 2009 et observant l'ensemble du ciel dans l'infrarouge, et publiés en 2011 dans un article présentant les premiers résultats concernant les astéroïdes de la ceinture principale.

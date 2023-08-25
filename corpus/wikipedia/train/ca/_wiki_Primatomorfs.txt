@@ -1,0 +1,19 @@
+Els primatomorfs  són una mirordre de mamífers basada en anàlisis de les seqüències genètiques moleculars i informació de la presència o absència de retrotransposons. Combina el clade dels dermòpters amb el dels primats.
+ ── Euarchontoglires 
+├── Euarchonta 
+│ ├── Scandentia 
+│ └── Primatomorpha 
+│ ├── Dermoptera 
+│ └── Primates 
+│
+└── Glires 
+├── Lagomorpha 
+└── Rodentia 
+</prProbablement se separaren del seu grup germà Scandentia fa entre 90 i 85 milions d'anys durant el Cretaci. Aquesta hipòtesi té el suport de l'evidència fòssil i molecular.
+ Lagomorpha
+ Rodentia
+ Scandentia
+ Dermoptera
+ 
+ Tarsiiformes
+ Simiiformes 

@@ -1,0 +1,132 @@
+Torricellin laki tai Torricellin teoreema liittyy virtausdynamiikkaan. Laki on nimetty lain 1643 löytäneen Evangelista Torricellin mukaan. 1 
+Lain mukaan avoimen astian nestepinnan ollessa jollakin korkeudella  astian kyljessä olevasta reiästä, on nesteen virtausnopeus reiästä yhtä suuri kuin samalta korkeudelta pudonneen kappaleen nopeus. 2 
+Laki pätee jos neste oletetaan ideaalinesteeksi. Siihen ei siis vaikuta mm. ilmanvastus tai viskositeetti. Myöskään putoavaan kappaleeseen ei vaikuta ilmanvastus ja painovoiman kiihtyvyys g pysyy vakiona.
+Putoavalle kappaleelle pätee kaava 
+  
+    
+      
+        v
+        =
+        
+          
+            2
+            g
+            h
+          
+        
+      
+    
+    }}
+  
+, missä v on kappaleen nopeus sen pudottua korkeudelta h, ja g on painovoiman aiheuttama putoamiskiihtyvyys . 2 
+Nesteen nopeudelle pätee seuraavanlainen Bernoullin laista johdettu kaava: 2 
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+        +
+        
+          
+            1
+            2
+          
+        
+         
+        
+          v
+          
+            2
+          
+        
+        +
+        
+          h
+          
+            2
+          
+        
+        =
+        P
+         
+        g
+        
+          h
+          
+            1
+          
+        
+      
+    
+    +}\rho v^=P\rho gh_
+  
+Nopeuden v selvittämiseksi yhtälö muutetaan muotoon ottaen huomioon että h1 – h2 = h: 2 
+  
+    
+      
+        v
+        =
+        
+          
+            
+              
+                
+                  2
+                  
+                
+                 
+              
+            
+            +
+            2
+            g
+            h
+          
+        
+      
+    
+    
+  
+Jos P = P0, kuten se on avoimessa astiassa, jollaisessa Torricellin laki pätee, supistuu yllä olevasta kaavasta osa pois ja saadaan pudonneen kappaleen kaava: 2 
+  
+    
+      
+        v
+        =
+        
+          
+            
+              
+                
+                  2
+                   
+                  0
+                
+                 
+              
+            
+            +
+            2
+            g
+            h
+          
+        
+        =
+        
+          
+            2
+            g
+            h
+          
+        
+      
+    
+    }}
+  
+P0 = paine reiän ulkopuolella, yleensä yhtä suuri kuin ilmanpaine 
+P = paine astian sisällä 
+ρ = tiheys, rhoo 

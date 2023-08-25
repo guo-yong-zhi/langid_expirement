@@ -1,0 +1,252 @@
+U atomskoj fizici, hiperfina struktura se odnosi na mala pomeranja i razdvajanja energetskih nivoa atoma, molekula, i jona, usled interakcije između stanja nukleusa i stanja elektronskog oblaka.
+U atomima, hiperfina struktura nastaje iz energije nuklearnog magnetnog dipolnog momenta u interakciji sa magnetnim poljem koje stvaraju elektroni i energije nuklearnog električnog kvadrupolnog momenta u gradijentu električnog polja usled raspodele naboja unutar atoma. Molekularna hiperfina struktura je uglavnom dominirana sa ova dva efekta, ali takođe obuhvata energiju povezanu sa interakcijom između magnetnih momenata asociranih sa različitim magnetnim jezgrama u molekulu, kao i između nuklearnih magnetnih momenata i magnetnog polja generisanog rotacijom molekula.
+Hiperfina struktura je u kontrastu sa finom strukturom, koja je rezultat interakcije između magnetnih momenata povezanih sa elektronskim spinom i elektronskim orbitalnim ugaonim momentom. Hiperfina struktura, sa energetskim pomacima tipično više redova veličine manjim od onih u finoj strukturi, proizilazi iz interakcija jezgra  sa unutrašne generisanim električnim i magnetnim poljima.
+Optičku hiperfinsku strukturu je uočio Albert Abraham Majkelson 1881. godine. 1  Ona se, međutim, mogla objasniti samo pomoću kvantne mehanike kada je Volfgang Pauli predložio postojanje malog nuklearnog magnetnog momenta 1924. godine.
+Godine 1935, H. Šiler i Teodor Šmit predložili su postojanje nuklearnog kvadrupolnog momenta, kako bi objasnili anomalije hiperfine strukture.
+Teorija hiperfine strukture potiče direktno iz elektromagnetizma, i bavi se interakcijama nuklearnih multipolnih momenata (izuzimajući električne monopole sa interno generisanim poljima. Teorija je prvo izvedena za slučaj atoma, ali se može primeniti na svako jezgro u molekulu. Nakon toga sledi diskusija o dodatnim efektima jedinstvenim za molekulski slučaj.
+Dominantni član u hyperfinom Hamiltonijanu je tipično magnetni dipolni član. Atomsko jezgro sa nenultim nuklearnim spinom 
+  
+    
+      
+        
+          I
+        
+      
+    
+     }
+  
+ ima magnetni dipolni momenat, dat sa:
+gde je 
+  
+    
+      
+        
+          g
+          
+            I
+          
+        
+      
+    
+    }}
+  
+ g-faktor, a 
+  
+    
+      
+        
+           
+          
+            N
+          
+        
+      
+    
+    }}
+  
+ je nuklearni magneton.
+Postoji energija asocirana sa magnetnim dipolnim momentom u prisustvu magnetnog polja. Za nuklearni magnetni dipolni momenat, μI, smešten u magnetnom polju, B, odgovarajući član u Hamiltonijanu je dat sa: 2 
+U odsustvu primenjenog spoljašnjeg polja, magnetno polje koje doživljava jezgro je ono koje je povezano sa orbitalnim  i spinskim  ugaonim momentom elektrona:
+Elektronski orbitalni ugaoni momenat proizilazi je kretanja elektrona oko neke fiksne spoljne tačke za koju se uzima da je lokacija jezgra. Magnetno polje u jezgru usled kretanja jednog elektrona, sa naelektrisanjem -e na položaju r u odnosu na jezgro, daje se sa:
+gde r daje poziciju jezgra relativno na elektron. Napisano u obliku Borovog magnetona, to daje:
+Propoznajući da je mev elektronski momenat, p, i da je r×p/ħ orbitalni ugaoni momenat u jedinicama od ħ, l, može se napisati:
+Za mnogoelektronski atom ovaj izraz se generalno piše u obliku ukupnog orbitalnog ugaonog momenta, 
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+        
+      
+    
+     }}
+  
+, sumirajući preko elektrona i koristeći projekcioni operator, 
+  
+    
+      
+        
+          
+            
+               
+              
+                i
+              
+              
+                l
+              
+            
+          
+        
+      
+    
+    ^
+  
+, gde je 
+  
+    
+      
+        
+          
+            
+               
+              
+                i
+              
+            
+            
+              
+                l
+              
+              
+                i
+              
+            
+            =
+            
+               
+              
+                i
+              
+            
+            
+               
+              
+                i
+              
+              
+                l
+              
+            
+            
+              L
+            
+          
+        
+      
+    
+    \mathbf \phi _{i}^{l}\mathbf 
+  
+. Za stanja sa dobro definisanom projekcijom orbitalnog ugaonog momenta, Lz, može se napisati 
+  
+    
+      
+        
+          
+            
+               
+              
+                i
+              
+              
+                l
+              
+            
+            =
+            
+              
+                
+                  
+                    l
+                     
+                  
+                
+              
+              
+                
+                  z
+                  
+                    i
+                  
+                
+              
+            
+            
+              /
+            
+            
+              L
+              
+                z
+              
+            
+          
+        
+      
+    
+    ^_}}
+  
+, što daje:
+Elektronski spinski ugaoni momenat je fundamentalno različito svojstvo koje je intrinsično za čestice i stoga ne zavisi od kretanja elektrona. Uprkos toga, to je ugaoni momenat i svaki ugaoni moment asociran sa naelektrisanom česticom rezultira magnetnim dipolnim momentom, koji je izvor magnetnog polja. Elektron sa spinskim ugaonog momenta, s, ima magnetni moment, μs, dat sa:
+gde je gs elektronski spinski g-faktor i ima negativni znak jer je elektron negativno naelektrisan .
+Magnetno polje dipolnog momenta, μs, je dato sa: 3 
+Kompletni doprinos magnetnog dipola hiperfinom Hamiltonijanu je stoga dat sa:
+Prvi član daje energiju nuklearnog dipola u polju zbog elektronskog orbitalnog ugaonog momenta. Drugi član daje energiju interakcije nuklearnog dipola na „konačnom rastojanju”" sa poljem usled elektronskog spinskog magnetnog momenta. Završni član, često poznat kao „Fermijev kontakt”, odnosi se na direktnu interakciju nuklearnog dipola sa spinskim dipolima i različit je od nule samo za stanja koja imaju konačnu elektronsku spinsku gustinu u poziciji jezgra . Postoje tvrdnje da se može dobiti drugačiji izraz kada se uzme u obzir detaljna raspodela nuklearnog magnetnog momenta. 4 
+Za stanja sa 
+  
+    
+      
+        l
+         
+        0
+      
+    
+    
+  
+ ovo se može izraziti u obliku
+gde je:
+Ako je hiperfina struktura mala u poređenju sa finom strukturom , I i J su dobri kvantni brojevi i elementi matrice od 
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    H
+                     
+                  
+                
+              
+              
+                D
+              
+            
+          
+        
+      
+    
+    }_}
+  
+ se mogu aproksimirati kao dijagonala u I i J. U ovom slučaju , može se projektovati N na J  i dobija se: 5 
+Ovo se obično piše kao
+gde je 
+  
+    
+      
+        
+          
+             
+            
+              
+                
+                  A
+                   
+                
+              
+            
+             
+          
+        
+      
+    
+    }\rangle }}
+  
+ hiperfina strukturna konstanta koja je eksperimentalno određena. Kako je I.J = ½ , to daje energiju od:
+U ovom slučaju hiperfina interakcija zadovoljava Landeovo pravilo inervala.

@@ -1,0 +1,96 @@
+
+ 
+  
+   
+    
+     
+      
+       
+Toki Pona es un lingua artificial e philosophic create per le traductor e linguista Sonja Lang  de Toronto, qui lo publicava in 2001. 1  2 
+Le vocabulario de Toki Pona es minime, con 14 phonemas e 123 radices, pro concentrar se super le conceptos relativemente universe de tote le culturas. Le creator de Toki Pona non lo intendeva como un lingua auxiliar international mais como un via de adjutar le pensamento per le principes del Tao. 3 
+On appella un parlante de Toki Pona un jan pi toki pona que pote significar "persona de Toki Pona" o "bon communicator".
+Toki Pona ha solmente 14 phonemas: 9 consonantes e 5 vocales. On accentua le prime syllaba. 4 
+Le structura del syllabas es similar a Japonese. Le syllabas possibile in Toki Pona son:
+   a   e   i   o   u
+ ka  ke  ki  ko  ku
+ sa  se  si  so  su
+ ta  te      to  tu
+ na  ne  ni  no  nu
+ pa  pe  pi  po  pu
+ ma  me  mi  mo  mu
+ ja  je      jo  ju
+ la  le  li  lo  lu
+ wa  we  wi
+</prLe autor officialmente usa certe litteras del alphabeto latin pro representar le lingua, con la mesme significatos como in le API: p, t, k, s, m, n, l, j, w, a, e, i, o, e u. Le litteras capital se utilisa solmente in le nomines de personas e locos e non pro significar le prime parola de un phrase. Assi illos non representa jamais le radices de Toki Pona mais semper le parolas estranie.
+Alternativemente, il ha un methodo de scriber Toki Pona per characteres chinese. On pote scriber Toki Pona etiam per hieroglyphicos. Il ha duo systemas de hieroglyphicos officialmente recognite: "sitelen sitelen"  e "sitelen pona" .
+Parlantes de Toki Pona ha create altere methodos pro scriber le lingua per alphabetos numerose.
+Le libro Toki Pona: The Language of Good  describe  un systema de communicar Toki Pona per signos.
+Alicun characteres del syntaxe de Toki Pona son:
+Le lingua es si simple que su syntaxe pote exprimer se in dece regulas:
+Alicun radices son utilisate pro functiones grammatic , dum alteres ha significatos lexical. Le radices lexical non son ben definite como partes del discurso mais pote generalmente esser usate como substantivos, verbos o modificatores, dependente super le contexto o lor position in un phrase. Per exemplo, ona li moku pote significar "illes mangiava" o "illo es un alimento."
+Toki Pona ha le pronomines basic mi , sina , e ona .
+Iste parolas non specifica numero o genere. Assi, ona pote significar "ille", "illa", "illo", "illes", "illas" o "illos". In practica, le parlatores de Toki Pona usa le expression mi mute pro significar "nos". Minus commun son ona mute  e sina mute .
+Quandocunque le subjecto de un phrase es un del pronomines non modificate mi o sina, tunc li non es usate pro appartar le subjecto e predicato.
+Le pronomine demonstrative es ni . Isto pote functionar etiam quasi le conjunction que:
+Con un vocabulario tanto minimal de parolas radical, Toki Pona se remitte gravemente a phrases substantive , ubi un substantivo es modificate per un radice sequente pro facer significatos plus complexe. Un exemplo typic es le combination de jan  con utala  pro facer jan utala .
+Le substantivos non se declina per numero. jan pote significar "persona", "personas" o "le racia human" dependente del contexto.
+Toki Pona non usa nomines proprie isolate; in vice, illos debe modificar un substantivo precedente. . Per exemplo, le nomines de personas e locos se utilisa como modificatores del radices commun pro "persona" e "loco", e.g. ma Kanata  o jan Lisa .
+In Toki Pona le modificatores semper seque le parolas que illos modifica. Iste characteristica resimila le arrangiamento typic de adjectivos del linguas espaniol e arabic e contrasta con le structura del lingua anglese. Assi un kasi kule, litteralmente "planta de color", semper significa un specie de planto, le specie colorose . Un kasi kule poki, litteralmente "planta de color de receptaculo", solmente pote esser la specie de "planta de color" que se trova in un receptaculo, i.e. un flor plantate in testo.
+In le altere direction, le expression "testo de flor" se refere a un specie de receptaculo, assi illo debe esser rendite con le signification "receptaculo" al initio, i.e. poki kasi . Un "testo de flor" esserea poki pi kasi kule " o "testo de flor").
+In Toki Pona, "N A1 A2"  es semper intendite como  A2), illo es, un N A1 que es A2: e.g., jan pona lukin =  lukin), un amico spectante .
+On pote cambiar isto con le particulo pi, "de", que aggruppa le adjectivos sequente a un specie de adjectivo composite que se applica al substantivo initial, que conduce a jan pi pona lukin = ), "persona de bon aspecto" o "persona belle".
+Le demonstratives, numeros, e pronomines possessive seque le altere modificatores.
+Il ha un copula nulle.
+Toki Pona non inflecte le verbos per persona, tempore, modo o voce. Le persona se infere del subjecto del verbo; le tempore se infere del contexto o un adverbio temporal in le phrase. Le cosa le plus proxime a passivitate grammatic in Toki Pona es un structura como " de  es causate de ". Alternativemente, on poterea formar un phrase passive como un active ubi la subjecto agente es incognite.
+Alicun prepositiones pote esser usate como un subclasse del verbos principal.
+Per exemplo, tawa significa "a"  como un preposition o "ir" o "ir a" como un verbo; lon significa "in" o "a"  como un preposition o "exister, star in/a" como un verbo; kepeken significa "per"  como un preposition o "usar" como un verbo.
+lon e tawa  omitte le marca de objecto directe e ante lor objectos: mi tawa tomo mi "Io va a  domo."
+Le vocabulario de 120 radices es designate circa le principe de viver simplemente sin le complicationes del civilisation modern.
+A cause del minime amonta de radices in Toki Pona, le parolas de altere linguas son frequentemente traducte per un collocation de al minus duo radices, e.g. "inseniar" per pana e sona, que litteralmente significa "dar scientia". Ben que Toki Pona es generalmente descripte como habente solmente 115, 118, o 120 "parolas", isto es inexacte, proque il ha multe parolas composite e phrases determinate que, como expressiones idiomatic, constitue entratas lexical independente o lexemas e consequentemente debe esser independentemente apprendite de memoria.
+Toki Pona ha quinque radices de color: pimeja , walo , loje , jelo , e laso . Cata parola representa multe tintas: laso se refere a colores tanto clar como blau de cyano o obscur como blau marin, etiam extendente se a tintas de glauc como cyano.
+Ben que le conception simple de colores tende al exclusion de numerose colores que communmente son exprimite in linguas occidental, le parlantes a vices combina iste quinque parolas pro facer descriptiones plus specific de certe colores. Per exemplo, "purpuree" pote esser representate per le combination de laso e loje. Le phrasa laso loje significa "un rubee tinta de blau" e loje laso significa "un blau tinta de rubie".
+Toki Pona ha radices que significa un , duo , e multe . De plus, ala pote significar zero, ben que su significato le plus literal es "nulle" o "non".
+Parlantes de Toki Pona exprime numeros plus grande additivemente per phrases como tu wan pro tres, tu tu pro quatre, et cetera. Iste characteristica era addite pro facer impracticabile le communication de grande numeros.
+Un vetule description del lingua usava luka  pro significar "quinque". Ben que Lang ha deprecate iste function in le description official le plus recente de Toki Pona, su uso es totevia commun; de Januario a Julio 2006, illo era usate 10 vices plus frequentemente al lista de dissemination pro Toki Pona como su senso original de "mano". Per exemplo, usante iste structura, "luka luka luka wan" significarea "dece-sex".
+Duo parolas ha synonymos archaic: nena reimplaciava kapa  proximemente post le creation del lingua pro rationes incognite. Plus tarde, le pronomine ona reimplaciava iki , illa), proque illo era a vices confundite con ike . Similemente, ali era addite como un alternativa a ale  pro evitar confusion con ala  inter le personas qui reduce le vocales sin accento, ben que ambe formas son utilisate hodie.
+Le parolas que simplemente habeva removite del lexicon, sin reimplaciamento, include leko , kan , e pata .
+Extra ali, nena, e ona, que reimplaciava radices existente, altere radices que era addite al 118 original include pan pro cereales , esun pro locos de commercio , e kipisi pro "secar".
+Le radices de Toki Pona generalmente veni del linguas anglese, Tok Pisin, finnese, georgian, hollandese, francese acadian, Esperanto, croate, e chinese .
+Multe de iste derivationes son transparente. Per exemplo, oko  es identical al parola croate oko e simile a altere cognatos como espaniol ojo, italian occhio e anglese ocular; item, toki  es simile al parola tok de Tok Pisin e su fonte anglese talk, durante que pona , del Esperanto bona, reflecte le parolas romance generic bon, buona, etc. Totevia, le cambiamentos de pronunciation requisite del systema phonetic simple obscura le origines de altere parolas. Le parola lape , per exemplo, veni del hollandese slapen e es cognate con anglese sleep; kepeken  es pauco distorte del hollandese gebruiken, e akesi de hagedis  es a pena recognoscibile. 
+Ben que 14 sol radices  son listate como derivate del lingua anglese, un grande amonta del parolas de Tok Pisin, Esperanto, e altere radices son transparentemente cognate con le anglese, augmentante le parte amicabile al anglese a circa 30%. Le partes del lexicon ex altere linguas son 15% de Tok Pisin, 14% finnese, 14% de Esperanto, 12% croate, 10% acadian, 9% hollandese, 8% georgian, 5% mandarin, 3% cantonese; un radice de cata ex le linguas gallese, tongan , Akan, e un lingua incerte  ; quatre radices phonesthetic ; e un altere radice inventate .
+Lang ha publicate proverbios, un pauc de poesia e un libro de phrases basic in Toki Pona.
+Toki Pona era selecte pro le prime version del vocabulario pro le projecto ROILA. Le proposito de iste projecto era le studer del uso de un lingua artificial pro exactificar le recognition machinal de parola.
+On ha reportate que Lang diceva que al minus 100 personas parla Toki Pona fluentemente 5  e estima que alicun pauc centos ha un scientia basic del lingua. Le traffico super le lista de dissemination pro Toki Pona e altere communitates in linea suggere que plure centos de personas ha occupate se brevemente con le lingua. Durante le Congresso International de Juventute Esperantista in Sarajevo in Augusto de 2006, un session special pro parlantes de Toki Pona habeva loco con 12 participantes.
+John Clifford, PhD, dava un presentation super Toki Pona al Conferentia Secunde del Creation de Linguas, in 2007 al Universitate de California, Berkeley: "Le problemas de successo: que eveni quando un conlang opiniose incontra su parlantes". 6  7 
+Toki lili 8  es un sito microblog simile a Twitter, specificamente designate con le parlantes de Toki Pona in scopo.
+mama pi mi mute 
+Traduction per Pije/Jopi
+mama pi mi mute o, sina lon sewi kon.
+nimi sina li sewi.
+ma sina o kama.
+jan o pali e wile sina lon sewi kon en lon ma.
+o pana e moku pi tenpo suno ni tawa mi mute.
+o weka e pali ike mi. sama la mi weka e pali ike pi jan ante.
+o lawa ala e mi tawa ike.
+o lawa e mi tan ike.
+tenpo ali la sina jo e ma e wawa e pona.
+Amen.
+ma tomo Pape 
+Traduction per jan Siwen 
+jan ali li kepeken e toki sama.
+jan li kama tawa nasin pi kama suno li kama tawa ma Sinale li awen lon ni.
+jan li toki e ni: "o kama! mi mute o pali e kiwen. o seli e ona."
+jan mute li toki e ni: "o kama! mi mute o pali e tomo mute e tomo palisa suli. sewi pi tomo palisa li lon sewi kon. nimi pi mi mute o kama suli! mi wile ala e ni: mi mute li lon ma ante mute."
+jan sewi Jawe li kama anpa li lukin e ma tomo e tomo palisa.
+jan sewi Jawe li toki e ni: "jan li lon ma wan li kepeken e toki sama li pali e tomo palisa. tenpo ni la ona li ken pali e ijo ike mute. mi wile tawa anpa li wile pakala e toki pi jan mute ni. mi wile e ni: jan li sona ala e toki pi jan ante."
+jan sewi Jawe li kama e ni: jan li lon ma mute li ken ala pali e tomo.
+nimi pi ma tomo ni li Pape tan ni: jan sewi Jawe li pakala e toki pi jan ali. jan sewi Jawe li tawa e jan tawa ma mute tan ma tomo Pape.
+wan taso 
+"poesia tenebrose" de adolescentia
+ijo li moku e mi.  
+mi wile pakala. 
+pimeja li tawa insa kon mi. 
+jan ala li ken sona e pilin ike mi. 
+toki musi o, sina jan pona mi wan taso. 
+telo pimeja ni li telo loje mi, li ale mi. 
+tenpo ale la pimeja li lon. 

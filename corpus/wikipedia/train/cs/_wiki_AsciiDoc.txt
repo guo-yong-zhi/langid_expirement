@@ -1,0 +1,18 @@
+AsciiDoc je úsporný značkovací jazyk pro přípravu textů. Zároveň se jedná o multiplatformní svobodný program napsaný v Pythonu a distribuovaný pod licencí GNU GPL, který s využitím značek vytvoří text ve výstupních formátech jako je HyperText Markup Language a nebo Docbook jako mezistupeň k vytvoření výstupu ve formátech PDF, TeX, unixové manuálové stránky, ebooky atp.
+Podobně jako jiné úsporné značkovací jazyky typu Wikitext nebo Markdown v podstatě nebrání plnohodnotnému čtení zdrojového tvaru jako by se jednalo o prostý text. Vyrobil ho v roce 2002 Stuart Rackham, 
+V roce 2013 byl uvolněn klon AsciiDocu, AsciiDoctor napsaný v Ruby a používaný mj. na GitHubu.
+ = O Wikipedii
+Čeněk Psavec
+https://cs.wikipedia.org je velice užitečná
+a známá encyklopedie.
+== Software
+Používá software 'MediaWiki', který si příkazem +apt-get+
+můžete nainstalovat i Vy:
+ apt-get install mediawiki
+== Hardware
+K běhu stačí obyčejný počítač, který by tedy měl mít
+* procesor
+* paměť
+* pevný disk
+ apt-get install mediawiki
+</prK běhu stačí obyčejný počítač, který by tedy měl mít:

@@ -1,0 +1,1 @@
+Antonín Kučera  je český informatik, profesor Fakulty informatiky Masarykovy univerzity v Brně. Zabývá se algoritmickými aspekty stochastických her a aplikacemi teorie her ve formální verifikaci a umělé inteligenci. Od ledna 2017 je členem Vědecké rady oboru Computer Science Nadačního fondu Neuron.

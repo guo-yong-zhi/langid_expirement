@@ -1,0 +1,3 @@
+Analizala geometrio esas la brancho di geometrio fondita sur la ideo, ke punto povas definesar relative kun altra punto, od ad axi, per ensemblo de nombri.
+En geometrio esas ordinare du axi, x-axo e y-axo. La poziciono di punto en la plano di la axi povas definesar per paro de nombri , la koordinati, qui indikas la disto en la direcioni x e y del origino.
+En tri dimensioni esas tri axi, x, y e z.

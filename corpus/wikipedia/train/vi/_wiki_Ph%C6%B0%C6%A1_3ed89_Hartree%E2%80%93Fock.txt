@@ -1,0 +1,126 @@
+
+Bản mẫu:Các phương pháp cấu trúc điện tử
+Trong vật lý tính toán và Hóa tính toán, phương pháp Hartree–Fock  là phương pháp gần đúng cho việc xác định hàm sóng và năng lượng của một hệ lượng tử nhiều hạt trong trạng thái dừng.
+Phương pháp Hartree–Fock thường giả định rằng hàm sóng chính xác N hạt của hệ có thể được tính gần đúng bằng định thức Slater  hoặc bằng hoặc bằng một permanent   của N spin-quỹ đạo.  Bằng phương pháp biến phân, ta có thể khảo sát tập N phương trình liên kết cho N spin quỹ đạo. Nghiệm của các phương trình này là hàm sóng Hartree–Fock và năng lượng của hệ.
+Đặc biệt trong các tài liệu cũ, phương pháp Hartree–Fock còn được gọi là phương pháp trường tự hợp . Phương trình Hartree là một giải pháp gần đúng của phương trình Schrödinger, Hartree yêu cầu trường cuối cùng được tính từ phân bố điện tích phải "tự hợp" với trường được giả định ban đầu. Do đó, tính tự hợp là yêu cầu bắt buộc cho nghiệm. Các nghiệm của các phương trình Hartree–Fock phi tuyến cũng biểu hiện như là mỗi hạt bị ảnh hưởng bởi trường trung bình được tạo ra bởi tất cả các hạt còn lại , và do đó có thuật ngữ này. Các phương trình hầu hết được giải bằng phép lặp, mặc dù thuật toán lặp điểm cố định luôn luôn không hội tụ. 1  Sơ đồ nghiệm này không chỉ là nghiệm khả dĩ và không là các đặc tính thiết yếu của phương pháo Hartree–Fock.
+Phương pháp Hartree–Fock có ứng dụng phổ biến trong tìm nghiệm của phương trình Schrödinger cho nguyên tử, phân tử, cấu trúc nano 2  và chất rắn nhưng nó cũng được sử dụng rộng rãi trong vật lý hạt nhân. .  Trong lý thuyết cấu trúc nguyên tử, các tính toán có thể cho phổ với nhiều năng lượng kích thích và dẫn đến phương pháp Hartree–Fock cho nguyên tử giả định hàm sóng là hàm trạng thái cấu hình đơn với số lượng tử được xác định và mức năng lượng đó không nhất thiết là trạng thái cơ bản.
+Với cả nguyên tử và phân tử, nghiệm Hartree–Fock là điểm xuất phát chính cho hầu hết các phương pháp mô tả hệ nhiều electron một cách chính xác hơn.
+Phần còn lại của bài này sẽ tập trung vào các ứng dụng trong lý thuyết cấu trúc electron phù hợp cho các phân tử với nguyên tử như một trường hợp đặc biệt. Thảo luận ở đây chỉ giới hạn cho phương pháp Hartree–Fock, nơi mà các nguyên tử hoặc phân tử là một hệ cấu trúc vỏ kín với tất cả quỹ đạo  bị chiếm đóng hai lần. Hệ vỏ mở, nơi một số electron không được bắt cặp, có thể đượ giải quyết với giới hạn vỏ mở hoặc phương pháp Hartree-Fock không giới hạn.
+Nguồn gốc của phương pháp Hartree–Fock xuất hiện cuối những năm 1920, trước khi phát hiện ra phương trình Schrödinger vào năm 1926. Phương pháp của Douglas Hartree được giới thiệu bởi một số người trước đó, các phương pháp bán thực nghiệm đầu năm 1920  trong lý thuyết lượng tử cũ của Bohr.
+Trong mô hình Bohr của nguyên tử, năng lượng của một trạng thái với số lượng tử chính n được cho theo đơn vị nguyên tử là 
+  
+    
+      
+        E
+        =
+         
+        1
+        
+          /
+        
+        
+          n
+          
+            2
+          
+        
+      
+    
+    }
+  
+. Nó được quan sát từ phổ nguyên tử mà các mức năng lượng của nguyên tử nhiều electron mô tả tốt bằng cách áp dụng phiên bản hiệu chỉnh của công thức Bohr. Bằng việc đưa ra độ hụt lượng tử d như một tham số bán thực nghiệm, các mức năng lượng của nguyên tử tổng quát được gần đúng khá tốt bằng công thức 
+  
+    
+      
+        E
+        =
+         
+        1
+        
+          /
+        
+        
+          
+            2
+          
+        
+      
+    
+    {\displaystyle E=-1/^
+  
+, ta có thể tạo lại khá tốt các chuyển dịch mức được quan sát trong vùng tia X . Sự tồn tại của độ hụt lượng tử khác không được được quy cho lực đẩy electron–electron, mà nó không tồn tại một cách rõ ràng trong nguyên tử hydro cô lập. Lực đẩy này là kết quả trong hiệu ứng chắn của điện điện tích hạt nhân thuần túy. Các nhà nghiên cứu sau này đã giới thiệu các thế khác chứa thêm các tham số bán thực nghiệm với hi vọng nó có thể tạo lại các kết quả thực nghiệm tốt hơn.
+Năm 1927, D. R. Hartree giới thiệu quy trình, ông gọi là phương pháp trường tự hợp, để tính gần đúng các hàm sóng và năng lượng cho các nguyên tử và ion. 3  Hartree đã tìm cách với các tham số bán thực nghiệm và giải phương trình Schrödinger độc lập thời gian cho hệ nhiều hạt từ những nguyên lý vật lý cơ bản, tức là, ab initio. Phương pháp được đề xuất đầu tiên của ông được biết đến là phương pháp Hartree, hay tích Hartree. Tuy nhiên, nhiều người đương thời của Hartree lại không hiểu lý do vật lý đằng sau phương pháp Hartree: nó xuất hiện nhiều yếu tố thực thực nghiệm, và sự kết nối của nó với nghiệm của phương trình Schrödinger là không rõ ràng. Tuy nhiên, năm 1928 J. C. Slater và J. A. Gaunt đã chỉ ra một cách độc lập rằng phương pháp Hartree có thể dựa trên cơ sở lý thuyết hợp lý hơn bằng cách áp dụng nguyên lý biến phân với một ansatz  như là tích của các hàm sóng đơn hạt. 4  5 
+Nắm 1930, Slater và V. A. Fock đã chỉ ra một cách độc lập rằng phương pháp Hartree không tuân theo nguyên lý phản đối xứng của hàm sóng. 6  7  Phương pháp Hartree đã sử dụng nguyên lý loại trừ Pauli trong công thức cũ hơn của nó, việc cấm sự xuất hiện của hai electron trong cùng trạng thái lượng tử giống nhau. Tuy nhiên, điều này cho thấy tính không đầy đủ trong việc bỏ qua thống kê lượng tử.
+Nghiệm thiếu tính phản đối xứng trong phương pháp Hartree khi nó chỉ rằng một định thức Slater, một định thức của quỹ đạo một hạt được sử dụng lần đầu bởi Heisenberg và Dirac vào năm 1926, thỏa mãn tính chất phản đối xứng của nghiệm chính xác và do đó nó là một ansatz thích hợp cho việc áp dụng nguyên lý biến phân. Phương pháp Hartree gốc có thể được xem như một phép tính gần đúng cho phương pháp Hartree–Fock bằng việc bỏ qua trao đổi. Phương pháp gốc của Fock dựa nhiều trên lý thuyết nhóm và quá tóm tắt cho các nhà vật lý đương thời để hiểu và thực hiện. Năm 1935, Hartree đã công thức lại phương pháp để phù hợp hơn cho những mục đích tính toán. 8 
+Mặc dù phương pháp Hartree–Fock là một bức tranh chính xác hơn về vật lý nhưng ít được sử dụng cho đến khi các máy tính điện tử phát triển những năm 1950 do nó đòi hỏi nhiều tính toán hơn phương pháp Hartree và các mô hình bán thực nghiệm. Đầu tiên, cả phương pháp Hartree và phương pháp Hartree–Fock đều áp dụng cho nguyên tử, nơi tính đối xứng cầu của hệ cho phép ta đơn giản bài toán. Các phương pháp gần đúng này thường được sử dụng cùng nhau với gần đúng trường xuyên tâm, để áp đặt điều kiện các electron trong vỏ giống nhau có phần bán kính giống nhau, và để giới hạn thì nghiệm biến phân là một hàm riêng spin. Do đó ngay cả tính toán nghiệm bằng tay sử dụng phương trình Hartree–Fock cho nguyên tử có kích thước trung bình cũng cần tính tỉ mỉ; các phân tử nhỏ yêu cầu nguồn máy tính mạnh ở thời đó trước những năm 1950.
+Phương pháp Hartree–Fock được sử dụng phổ biến để giải phương trình Schrödinger độc lập thời gian cho nguyên tử hoặc phân tử nhiều electron như được mô tả trong gần đúng Born–Oppenheimer. Do không có nghiệm tường minh cho hệ nhiều electron , nên bài toán chỉ được giải số. Do tính phi tuyến được đưa ra bởi gần đúng Hartree–Fock, các phương trình được giải sử dụng phương pháp phi tuyến như là phép lặp, nên nó xuất hiện cái tên "phương pháp trường tự hợp".
+Phương pháp Hartree–Fock làm nên 5 sự đơn giản khác để giải quyết các bài toán:
+Sử dụng hai sự đơn giản cuối gọi là các phương pháp hậu Hartree–Fock.
+Lý thuyết biến phân phát biểu rằng với một toán tử Hamiltonian độc lập thời gian, bất kì hàm sóng thử nào cũng sẽ có một năng lượng giá trị kì vọng lớn hơn hoặc bằng với năng lượng của hàm sóng trạng thái cơ bản ứng với Hamiltonian cho trước.  Bởi vì điều này, năng lượng Hartree–Fock được liên kết trên với năng lượng trạng thái cơ bản của một phân tử cho trước. Trong ngữ cảnh của phương pháp Hartree–Fock, nghiệm khả dĩ nhất là giới hạn Hartree–Fock; tức là, giới hạn của năng lượng Hartree–Fock như tập cơ sở tiến đến tính đầy đủ.  Năng lượng Hartree–Fock là năng lượng cực tiểu cho một định thức Slater đơn.
+Điểm xuất phát cho phương pháp Hartree–Fock là tập các hàm sóng gần đúng một electron được biết đến là spin-quỹ đạo. Với một tính toán quỹ đạo nguyên tử, đây thường là các quỹ đạo cho một nguyên tử giống hydro . Với một quỹ đạo phân tử hoặc tính toán tinh thể, các hàm sóng gần đúng một electron ban đầu thường là một tổ hợp tuyến tính của các quỹ đạo nguyên tử .
+Các quỹ đạo ở trên chỉ xét đến sự có mặt của các electron khác trong một phương thức trường trung bình. Trong gần đúng Hartree–Fock, hiệu ứng của các electron khác được xét đến trong một ngữ cảnh lý thuyết trường trung bình. Các quỹ đạo được tối ưu hóa bằng cách yêu cầu chúng cực tiểu hóa năng lượng của định thức Slater tương ứng. Các điều kiện biến phân trên các quỹ đạo dẫn đến toán tử mới cho một electron, toán tử Fock. Tại cực tiểu, các quỹ đạo bị chiếm đóng là nghiệm riêng của toán tử Fock thông qua một phép biến đổi unitary giữa chúng. Toán tử Fock là toán tử Hamiltonian một electron hiệu dụng và là tổng của hai số hạng. Số hạng đầu là tổng của các toán tử động năng cho mỗi electron, năng lượng đẩy liên hạt nhân, và một tổng của các số hạng lực hút Coulomb giữa electron-hạt nhân. Số hạng thứ hai là các số hạng lực đẩy Coulomb giữa các electron trong mô tả lý thuyết trường trung bình; năng lượng đẩy toàn phần cho mỗi electron trong hệ được tính bằng cách xem tất cả các electron khác trong phân tử như một phân bố trơn của điện tích âm. Điều này là sự đơn giản hóa vốn có trong gần đúng Hartree-Fock và tương đương với đơn giản thứ năm trong danh sách ở trên.
+Do toán tử Fock phụ thuộc vào các quỹ đạo được sử dụng để xây dựng ma trận Fock tương ứng, các hàm riêng của toán tử Fock tiếp tục thuộc các quỹ đạo mới mà chúng có thể được sử dụng để xây dựng một toán tử Fock mới. Theo cách này, các quỹ đạo Hartree–Fock được tối ưu hóa một cách lặp liên tục cho đến khi sự thay đổi điện tích trong năng lượng electron rơi xuống ngưỡng được xác định trước. Theo cách này, tập các quỹ đạo một electron tự hợp được tính. Hàm sóng electron Hartree–Fock khi đó là định thức Slater được xây dựng từ những quỹ đạo này. Theo các tiên đề cơ bản của cơ học lượng tử, hàm sóng Hartree–Fock khi đó có thể được sử dụng để tính các đại lượng vật lý mong muốn nào đó trong khuôn khổ phương pháp Hartree–Fock và các gần đúng đã thực hiện.
+Do thành phần lực đẩy electron-electron của Hamiltonian phân tử bao gồm các tọa độ của hai electron khác nhau nên công thức lại theo cách gần đúng là cần thiết.  Dưới phép gần đúng này , tất cả các thành phần Hamiltonian chính xác trừ thành phần lực đẩy hạt nhân-hạt nhân được biểu diễn lại như tổng của các toán tử một electron được tóm tắt dưới đây, với các nguyên tử hoặc phân tử vỏ đóng . 12  "" sau mỗi kí hiệu toán tử đơn giản chỉ ra rằng toán tử là electron đơn trong tự nhiên.
+trong đó
+là toán tử Fock một electron được tạo ra bởi các quỹ đạo 
+  
+    
+      
+        
+           
+          
+            j
+          
+        
+      
+    
+    }
+  
+, và
+là Hamiltonian lõi một electron. Đồng thời
+là toán tử Coulomb, xác định năng lượng đẩy electron-electron do một trong hai electron trên quỹ đạo thứ j. 12  Cuối cùng,
+là toán tử trao đổi, xác định năng lượng trao đổi electron do tính phản đối xứng của hàm sóng N electron toàn phần. 12  Toán tử "năng lượng trao đổi" này 
+  
+    
+      
+        
+          
+            
+              K
+               
+            
+          
+        
+      
+    
+    }}
+  
+ đơn giản một định thức Slater. Việc tìm các hàm sóng Hartree–Fock một electron lúc này tương đương với việc giải phương trình hàm riêng
+trong đó 
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+        
+      
+    
+    }
+  
+ là tập các hàm sóng một electron, gọi là các quỹ đạo phân tử Hartree–Fock.
+Thông thường, trong các tính toán Hartree–Fock hiện đại, các hàm sóng một electron được gần đúng bằng một tổ hợp tuyến tính các quỹ đạo nguyên tử. Các quỹ đạo nguyên tử này được gọi là quỹ đạo loại Slater. Hơn nữa, nó rất phổ biến cho các "quỹ đạo nguyên tử" trong việc sử dụng để lấy tổ hợp tuyến tính của một hoặc nhiều quỹ đạo loại Gaussian, hơn là các quỹ đạo loại Slater, để tiết kiệm được thời gian tính toán.
+Nhiều tập cơ sở được sử dụng là các hàm Gaussian. Trong một số ứng dụng, một phương pháp trực giao như là quy trình Gram–Schmidt được thực hiện để tạo ra tập các hàm cơ sở trực giao. Đây có thể tiết kiệm thời gian tính toán khi máy tính giải phương trình Roothaan–Hall bằng cách chuyển ma trận xen phủ về một ma trận đơn vị tương ứng. Tuy nhiên, hầu hết các chương trình tính toán hiện đại cho các tính toán Hartree–Fock phân tử, quy trình này không được cho phép do giá trị số của sự trực giao rất cao và dẫn đến sự ra đời của các thuật toán hiệu quả hơn cho việc giải bài toán trị riêng tổng quát, của phương trình Roothaan–Hall là một ví dụ.
+Tính ổn định giá trị số có thể là một vấn đề với quy trình này và có nhiều cách để giải quyết tính bất ổn này. Một trong những cách cơ bản và tổng quát nhất là trộn F hoặc tắt dần.  Với trộn F, khi một hàm sóng đơn electron được tính, nó không được sử dụng trực tiếp. Thay vào đó, một số tổ hợp của hàm sóng được tính và các hàm sóng trước cho electron được sử dụng, phổ biến hầu hết là tổ hợp tuyến tính đơn giản các hàm sóng được tính và hàm sóng trước đó được tính.  Một cách né tránh hay, được thực hiện bởi Hartree, với các tính toán nguyên tử để tăng điện tích hạt nhân, dẫn đến kéo tất cả các electron lại gần nhau hơn. Như một hệ bền, điều này rút gọn dần dần điện tích chính xác. Trong các tính toán phân tử, cách tiếp cận tương tự thỉnh thoảng được sử dụng bằng cách đầu tiên tính hàm sóng cho một ion dương và sau đó sử dụng các quỹ đạo này như điểm xuất phát cho phân tử trung hòa. Các chương trình máy tính Hartree–Fock phân tử hiện đại sử dụng nhiều phương pháp để đảm bảo tính hội tụ của phương trình Roothaan–Hall.
+Trong 5 sự đơn giản được tóm tắt trong phần "thuật toán Hartree–Fock", vấn đề thứ năm là quan trọng nhất. Bỏ qua tương quan electron có thể dẫn đến sự sai lệch lớn với các kết quả thực nghiệm. Một lượng tiếp cận đến tính yếu này, các hậu Hartree–Fock tập thể, đã được nghĩ ra để bao gồm tương quan electron đến hàm sóng đa electron. Một trong các cách tiếp cận này, lý thuyết nhiễu loạn Møller–Plesset, giải quyết sự tương quan như một nhiễu loạn của toán tử Fock. Những các tiếp cận khác mở rộng hàm sóng đa electron theo một tổ hợp tuyến tính của các định thức Slater như là trường tự hợp đa cấu hình, tương tác cấu hình, tương tác cấu hình bậc hai, và SCF không gian kích hoạt đầy đủ .  Vẫn còn những cách tiếp cận khác  hiệu chỉnh hàm sóng Hartree–Fock bằng cách nhân nó với một hàm tương quan , một số hạng là một hàm tường mình của các electron không thể phân tích thành các hàm đơn hạt độc lập.
+Một cách thay thế các tính toán Hartree–Fock được sử dụng trong một số trường hợp là lý thuyết phiếm hàm mật độ, mà nó giải quyết cả năng lượng trao đổi và tương quan, mặc dù một cách gần đúng. Quả thực, nó sử dụng các tính toán hỗn hợp của hai phương pháp—sơ đồ B3LYP là một phương pháp phiếm hàm hỗn hợp như vậy. Một sự lựa chọn khác là sử dụng các phương pháp liên kết hóa trị hiện đại.
+Với danh sách các gói phần mềm được biết đến cho các tính toán Hartree–Fock, cụ thể cho các phân tử và chất rắn, hãy xem danh sách phần mềm hóa lượng tử và vật lý chất rắn.
+Các lĩnh vực liên quan
+ 
+Lý thuyết
+ 
+Con người
+ 

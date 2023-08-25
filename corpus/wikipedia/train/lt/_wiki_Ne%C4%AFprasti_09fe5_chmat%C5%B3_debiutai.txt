@@ -1,0 +1,5 @@
+
+Neįprasti šachmatų debiutai - šachmatų debiutų grupė, kurių pirmieji baltųjų ėjimai yra neįprasti. Šie debiutai žymimi A00 Šachmatų debiutų enciklopedijoje:
+Nors Benko debiutas, Dunsto debiutas ir Sokolskio debiutas žymimi A00 kodu, tačiau yra dažniau priskiriami prie flanginių debiutų, o ne prie neįprastų.
+Neįprastų pirmųjų baltųjų ėjimų  yra 14, o įprastų - tik 6:
+Jei baltieji padaro kokį nors standartinį ėjimą, o juodieji neatsako tuo pačiu, tai irgi gali būti nestandartiniai debiutai, pavyzdžiui, jei į 1. e4 juodieji atsako kokiu nors ėjimu, kuris laikomas nestandartiniu atsakymu , jis klasifikuojamas kaip karaliaus pėstininko debiutas .

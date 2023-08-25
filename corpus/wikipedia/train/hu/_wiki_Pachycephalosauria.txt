@@ -1,0 +1,25 @@
+Pontosságellenőrzött
+Lásd a szövegben.
+A Wikifajok tartalmaz Pachycephalosauria témájú rendszertani információt.
+A Wikimédia Commons tartalmaz Pachycephalosauria témájú kategóriát.
+A Pachycephalosauria  a madármedencéjű dinoszauruszok egyik kládja. Jól ismert nemei közé tartozik a Pachycephalosaurus, a Stegoceras, a Stygimoloch és a Dracorex. A csoport legtöbb tagja a késő kréta korban élt Észak-Amerika és Ázsia területén. Mind két lábon járó, növényevő vagy mindenevő, vastag koponyával rendelkező állatok voltak. Egyes fosszíliáknál a koponyatető kupolás és több centiméter vastag, míg másoknál lapos vagy ék alakú. Bár a laposfejű pachycephalosaurusokat hagyományosan külön fajok vagy családok tagjainak tekintik, lehetséges, hogy a kupolásfejű felnőttek fiatal utódait képviselik. 1  2  A kupolát gyakran csomók és/vagy tüskék vették körül.
+A középső jura kori Ferganocephale adenticulatum, amely Kirgizisztán területén élt és a kora kréta kori Stenopelix valdensis, melynek maradványaira Németországban találtak rá a legkorábbi pachycephalosaurusokként ismertek, bár Robert M. Sullivan kétségbe vonta, hogy ezek a fajok ebbe a kládba tartoznak. 1 
+A megvastagodott koponyatető célja erősen vitatott. Gyakran kijelentik, hogy az egyes példányok fejjel rontottak egymásnak, ahogy azt a mai havasi kecskék és keleti pézsmatulkok teszik. Az is felmerült, hogy a pachycephalosaurusok feje, nyaka és teste vízszintesen kiegyenesedett, hogy elvezesse az ütés erejét. Azonban egy olyan dinoszaurusz sem ismert, amely képes volt ilyen testhelyzetet felvenni. Ezzel szemben a pachycephalosaurusok nyakcsigolyái és elülső hátcsigolyái azt mutatják, hogy a nyak S vagy U alakban meghajlott. 3  Emellett a koponya lekerekített formája csökkentette az érintkező felület méretét a fejelés során, és eltérítette az ütést. Az egyéb lehetőségek közé tartozik az oldalirányú csapás, a ragadozók elleni védelem, illetve e kettő együtt. A pachycephalosaurusok széles törzse  és a Stygimoloch squamosális szarvai  hitelt adnak az előbbi lehetőségnek.
+A legtöbb pachycephalosaurus maradvány nem teljes, de rendszerint tartalmazza az egyedi kupolát formáló frontoparietális csont részeit. Ez megnehezíti a taxonómiai azonosítást, ugyanis a Pachycephalosauria csoporton belül a nemek és fajok besorolása szinte teljesen a koponyajellemzők alapján történik. Ennek következtében történelmileg több téves fajt is létrehoztak a kládon belül. Például a Majungatholust egy ideig pachycephalosauridának hitték, de később megállapították, hogy az abelisaurida theropoda, a Majungasaurus példánya. Emellett a Yaverlandiát, egy másik, kezdetben pachycephalosauridaként leírt dinoszauruszt később coelurosaurusként sorolták be. 4  Tovább bonyolítja a helyzetet a pachycephalosaurusok egyedfejlődésének és nemi jellegzetességeinek többféle értelmezése.
+Egy 2009-es cikk szerint a Dracorex és a Stygimoloch nem különálló nemek, hanem a Pachycephalosaurus fiatal egyedei. 5 
+A Pachycephalosauria csoportot Teresa Maryańska és Halszka Osmólska definiálta először 1974-ben, alrendként. Csak egyetlen családot soroltak be ide, a Pachycephalosauridae-t. 6  A későbbi kutatók, mint például Michael Benton, a ceratopsiákat és az ornithopodákat magába foglaló Cerapoda alrend alrendágaként helyezték el. 7  2006-ban Robert Sullivan megjelentette a pachycephalosaurus taxonómia újraértékelését. Sullivan megpróbálta leszűkíteni Maryańska és Osmólska Pachycephalosauria alrendjét az általa elnevezett Pachycephalosauridae családra, mivel annak definiálásához ugyanazokat a diagnosztikus anatómiai jellemzőket használta fel. Emellett elvetette a Paul Sereno filogenetikus tanulmányaiban megjelent újabb definíciót, ami szerint csak a kupolás koponyájú nemek  tartoznak a Pachycephalosauridae családba, míg a bazálisabbak azon kívül a Pachycephalosauria alrendben helyezkednek el. Emiatt a Sullivan által használt Pachycephalosauridae megegyezik a Sereno és Benton által használt Pachycephalosauriával
+Sullivan a Pachycephalosauridae családot csak a koponya jellemzői alapján definiálta, a kupola alakú frontoparietális csont tulajdonságait felhasználva. Sullivan szerint egyes kezdetlegesnek tartott fajok esetében e jellegzetesség hiánya vezetett ahhoz, hogy külön sorolták be a kupolás és a kupola nélküli pachycephalosaurusokat; azonban a jóval fejlettebb és feltehetően fiatal, lapos koponyájú példányok  maradványainak felfedezése azt jelezte, hogy ez a megkülönböztetés helytelen. Sullivan rámutatott arra is, hogy a Pachycephalosauridae eredeti definíciója a lapostól a kupolaszerűig változó koponyákra koncentrálódott, ezért a laposfejű formák is ebbe a családba sorolandók. 1 
+Az alábbi taxonómia Sullivan 2006-os osztályozását követi.
+Megjegyzendő, hogy Sullivan a Stenopelixet  nem találta elég diagnosztikusnak ahhoz, hogy a csoporthoz kapcsolja, inkább az Ornithischia rendbe sorolta be bizonytalan helyzetű nemként .
+Az alábbi kladogram Thomas E. Williamson és Tomas D. Carr 2002-es elemzése alapján készült. 9 
+Stenopelix
+Wannanosaurus
+Yaverlandia 
+Goyocephale
+Homalocephale
+Stegoceras
+Tylocephale
+Prenocephale
+Sphaerotholus
+Stygimoloch
+Pachycephalosaurus

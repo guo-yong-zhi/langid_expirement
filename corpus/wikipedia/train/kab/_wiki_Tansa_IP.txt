@@ -1,0 +1,2 @@
+Tansa IP d amḍan imettel yiwen uselkim g l'internet, s umata imettel yal tiɣawsiwin n l'informatique g network am l'imprimante, router.. atg.
+Tansa IP d amḍan Hexadecimal, meɛna nettaru-t s decimal : FF yuɣal 255, A2 yuɣal 162, 24 yuɣal 36. Llan sin tisiwal : IPv4 d IPv6 :

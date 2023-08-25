@@ -1,0 +1,4 @@
+Modelo vectorial é o modelo no qual informações sobre pontos, linhas e polígonos são codificadas e armazenadas como uma coleção de coordenadas x, y e z.
+O modelo vetorial é extremamente útil para descrever características discretas, mas menos utilizados para descrever características continuamente variantes, tal como tipos de solos.
+Pontos, linhas e polígonos complexos podem ser usados para capturar as estruturas internas de uma entidade, e estas definições podem ser funcionais ou descritivas.
+Por exemplo, uma cidade pode ser representada tanto por um ponto, em um mapa com nível de descrição por continentes, ou como um polígono, em um mapa com nível de descrição por regiões. Em um nível ainda mais detalhado, uma cidade pode incluir ruas, casas, parques, cada uma com diferentes funcionalidades e respondendo diferentemente às operações de consulta.

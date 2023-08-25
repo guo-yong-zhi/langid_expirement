@@ -1,0 +1,21 @@
+Abscissen, ofte betegnet 
+  
+    
+      
+        x
+      
+    
+    
+  
+, er førstekoordinaten i et koordinatsystem. Andenkoordinaten betegnes da ordinaten.
+At betegne 
+  
+    
+      
+        x
+      
+    
+    
+  
+-aksen  i et koordinatsystem som "abscissen" er en udbredt, men mindre korrekt sprogbrug. Førsteaksen er almindeligvis vandret.
+Imidlertid omtales et punkts x- og y-værdi ofte som hhv. punktets første- og andenkoordinat.

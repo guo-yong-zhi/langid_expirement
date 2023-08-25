@@ -1,0 +1,5 @@
+Java-multlingva estas projekto kiu celas produkti multlingvajn liberajn programojn, uzante la programlingvon Java.
+La laborlingvo de la projekto estas Esperanto: Ĉiuj komentoj, dokumentoj, komunikado inter la programistoj estas en Esperanto. La programoj mem estas tiel, ke oni tre facile povas traduki ilin al
+ĉiu ajn lingvo, la programlingvo Java kun sia implicita biblioteko tre helpas tie.
+Kaj programado kaj traduko estas farita de volontuloj, kaj ĉiu esperantisto estas invitata kunlabori kiel programisto, tradukanto aŭ provanto de la programoj.
+La projekto komenciĝis en oktobro 2002.

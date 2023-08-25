@@ -1,0 +1,1147 @@
+Pontosságellenőrzött
+A pí szám irracionális. Jelen cikk ezt az állítást bizonyítja.
+Johann Heinrich Lambert  bizonyítása a tangensfüggvényt és a lánctörteket használja. Lényege, hogy a racionális számok tangense irracionális. A π/4 tangense 1, így π/4, tehát π sem lehet racionális.
+A bizonyításhoz két lemma tartozik:
+1. lemma: legyen 
+  
+    
+      
+        x
+        =
+        
+          b
+          
+            0
+          
+        
+        +
+        
+          
+            
+              a
+              
+                1
+              
+            
+            
+              
+                b
+                
+                  1
+                
+              
+              +
+              
+                
+                  
+                    a
+                    
+                      2
+                    
+                  
+                  
+                    
+                      b
+                      
+                        2
+                      
+                    
+                    +
+                    
+                      
+                        
+                          a
+                          
+                            3
+                          
+                        
+                        
+                          
+                            b
+                            
+                              3
+                            
+                          
+                          +
+                          
+                            
+                              
+                                a
+                                
+                                  4
+                                
+                              
+                              
+                                
+                                  b
+                                  
+                                    4
+                                  
+                                
+                                +
+                                 
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+    +},}
+  
+ ahol 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    }
+  
+ és 
+  
+    
+      
+        
+          b
+          
+            i
+          
+        
+      
+    
+    {\displaystyle b_
+  
+ relatív prímek. Ekkor, ha véges kivétellel 
+  
+    
+      
+        
+          |
+        
+        
+          a
+          
+            i
+          
+        
+        
+          |
+        
+        <
+        
+          |
+        
+        
+          b
+          
+            i
+          
+        
+        
+          |
+        
+      
+    
+    |<|b_
+  
+, akkor 
+  
+    
+      
+        x
+      
+    
+    
+  
+ irracionális.
+2. lemma: 
+  
+    
+      
+        x
+      
+    
+    
+  
+ tangensének lánctört alakja: 
+  
+    
+      
+        
+          t
+          g
+        
+        
+        =
+        
+          
+            x
+            
+              1
+               
+              
+                
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  
+                    3
+                     
+                    
+                      
+                        
+                          x
+                          
+                            2
+                          
+                        
+                        
+                          5
+                           
+                          
+                            
+                              
+                                x
+                                
+                                  2
+                                
+                              
+                              
+                                7
+                                 
+                                 
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+     =}}}}}}}},}
+  
+Feltehető, hogy már az 
+  
+    
+      
+        i
+        =
+        1
+      
+    
+    
+  
+ értéktől kezdve 
+  
+    
+      
+        
+          |
+        
+        
+          a
+          
+            i
+          
+        
+        
+          |
+        
+        <
+        
+          |
+        
+        
+          b
+          
+            i
+          
+        
+        
+          |
+        
+      
+    
+    |<|b_
+  
+, kivételek nincsenek. Ekkor minden pozitív egész 
+  
+    
+      
+        i
+      
+    
+    
+  
+-re 
+  
+    
+      
+        
+          b
+          
+            i
+          
+        
+         
+        1
+        <
+        
+          b
+          
+            i
+          
+        
+        +
+        
+          
+            
+              a
+              
+                i
+                +
+                1
+              
+            
+            
+              b
+              
+                i
+                +
+                1
+              
+            
+          
+        
+        <
+        
+          b
+          
+            i
+          
+        
+        +
+        1
+      
+    
+    -1<b_}<b_
+  
+, és mivel az 
+  
+    
+      
+        
+          a
+          
+            i
+          
+        
+      
+    
+    }
+  
+ és 
+  
+    
+      
+        
+          b
+          
+            i
+          
+        
+      
+    
+    }
+  
+ egészek különbsége legalább 1, ezért 
+  
+    
+      
+        
+          |
+          
+            
+              b
+              
+                i
+              
+            
+            +
+            
+              
+                
+                  a
+                  
+                    i
+                    +
+                    1
+                  
+                
+                
+                  b
+                  
+                    i
+                    +
+                    1
+                  
+                
+              
+            
+          
+          |
+        
+        >
+        
+          |
+        
+        
+          a
+          
+            i
+          
+        
+        
+          |
+        
+      
+    
+    {\displaystyle \left|b_}\right|>|a_
+  
+. Mivel az 
+  
+    
+      
+        
+          
+            
+              a
+              
+                i
+                +
+                1
+              
+            
+            
+              b
+              
+                i
+                +
+                1
+              
+            
+          
+        
+      
+    
+    {\displaystyle }
+  
+ érték feltevésünk szerint egynél kisebb, ezért nem tudja megváltoztatni az egész számok előjelét.
+Az előjel nem változott, ennélfogva 
+  
+    
+      
+        
+          
+            
+              a
+              
+                i
+              
+            
+            
+              
+                b
+                
+                  i
+                
+              
+              +
+              
+                
+                  
+                    a
+                    
+                      i
+                      +
+                      1
+                    
+                  
+                  
+                    
+                      b
+                      
+                        i
+                        +
+                        1
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    }}
+  
+ előjele megegyezik 
+  
+    
+      
+        
+          
+            
+              a
+              
+                i
+              
+            
+            
+              b
+              
+                i
+              
+            
+          
+        
+      
+    
+    }}
+  
+ előjelével. Hasonlóan kaphatjuk, hogy 
+  
+    
+      
+        
+          
+            
+              a
+              
+                i
+                 
+                1
+              
+            
+            
+              
+                b
+                
+                  i
+                   
+                  1
+                
+              
+              +
+              
+                
+                  
+                    a
+                    
+                      i
+                    
+                  
+                  
+                    
+                      b
+                      
+                        i
+                      
+                    
+                    +
+                    
+                      
+                        
+                          a
+                          
+                            i
+                            +
+                            1
+                          
+                        
+                        
+                          
+                            b
+                            
+                              i
+                              +
+                              1
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    }{\displaystyle b_{i-1}+}}}
+  
+ előjele is megegyezik 
+  
+    
+      
+        
+          
+            
+              a
+              
+                i
+              
+            
+            
+              b
+              
+                i
+              
+            
+          
+        
+      
+    
+    }}
+  
+ előjelével, és abszolútértéke egynél kisebb. Leszálló rekurzióval  beláthatjuk, hogy 
+  
+    
+      
+        x
+      
+    
+    
+  
+ előjele is ugyanez, és abszolútértéke nem lehet egynél nagyobb.
+Az 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+        =
+        1
+      
+    
+    
+  
+ eseteket könnyen átvizsgálhatjuk. Ha 
+  
+    
+      
+        
+          |
+        
+        x
+        
+          |
+        
+        <
+        1
+      
+    
+    
+  
+, akkor tegyük fel indirekt, hogy 
+  
+    
+      
+        x
+      
+    
+    
+  
+ racionális:
+ahonnan 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+        =
+        
+          
+            
+              q
+              
+                a
+                
+                  1
+                
+              
+               
+              p
+              
+                b
+                
+                  1
+                
+              
+            
+            p
+          
+        
+        =
+        
+          
+            r
+            p
+          
+        
+      
+    
+    =}
+  
+. A 
+  
+    
+      
+        
+          p
+          
+            1
+          
+        
+      
+    
+    }
+  
+ szám olyan, mint a fenti 
+  
+    
+      
+        x
+      
+    
+    
+  
+, tehát egynél kisebb abszolútértékű, és 
+  
+    
+      
+        
+          |
+        
+        r
+        
+          |
+        
+        <
+        
+          |
+        
+        p
+        
+          |
+        
+      
+    
+    
+  
+. Ezt ismételve törtek végtelen sorozatához jutunk, ahol a számlálók abszolútértékben csökkenő egészek, ami ellentmondás.
+A szinusz és a koszinusz sorfejtését felhasználva:
+és hasonlóan írhatjuk, hogy 
+  
+    
+      
+        
+          R
+          
+            1
+          
+        
+        =
+        
+           
+          
+            x
+            
+              2
+            
+          
+        
+        
+          3
+          +
+          
+            R
+            
+              2
+            
+          
+        
+        .
+      
+    
+    =.}
+  
+ Ezt folytatva kapjuk, hogy 
+  
+    
+      
+        
+          t
+          g
+        
+        
+        =
+        
+          
+            x
+            
+              1
+               
+              
+                
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  
+                    3
+                     
+                    
+                      
+                        
+                          x
+                          
+                            2
+                          
+                        
+                        
+                          5
+                           
+                          
+                            
+                              
+                                x
+                                
+                                  2
+                                
+                              
+                              
+                                 
+                                 
+                                
+                                  
+                                    
+                                      x
+                                      
+                                        2
+                                      
+                                    
+                                    
+                                      2
+                                      k
+                                       
+                                      1
+                                      +
+                                      
+                                        R
+                                        
+                                          k
+                                        
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+     =}},}
+  
+a rekurziót feloldva
+  
+    
+      
+        
+          R
+          
+            k
+          
+        
+        =
+        
+          
+            
+              
+                 
+                
+                  n
+                  =
+                  0
+                
+                
+                   
+                
+              
+              
+                
+                  
+                    
+                    
+                     
+                    
+                    
+                      x
+                      
+                        2
+                        n
+                        +
+                        2
+                      
+                    
+                  
+                  
+                    
+                    !
+                  
+                
+              
+            
+            
+              
+                 
+                
+                  n
+                  =
+                  0
+                
+                
+                   
+                
+              
+              
+                
+                  
+                    
+                    
+                     
+                    
+                    
+                      x
+                      
+                        2
+                        n
+                      
+                    
+                  
+                  
+                    
+                    !
+                  
+                
+              
+            
+          
+        
+      
+    
+    =}}
+  
+Innen már következik, hogy
+  
+    
+      
+        
+          t
+          g
+        
+        
+        =
+        
+          
+            x
+            
+              1
+               
+              
+                
+                  
+                    x
+                    
+                      2
+                    
+                  
+                  
+                    3
+                     
+                    
+                      
+                        
+                          x
+                          
+                            2
+                          
+                        
+                        
+                          5
+                           
+                          
+                            
+                              
+                                x
+                                
+                                  2
+                                
+                              
+                              
+                                7
+                                 
+                                 
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+        ,
+      
+    
+     =}}}}}}}},}
+  
+Még bizonyítani kellene, hogy ez a sor a tangenshez konvergál. Ehhez a számlálók és a nevezők egyenletes konvergenciáját és határértékeit kell igazolni.
+A 
+  
+    
+      
+        
+          t
+          g
+        
+        
+          
+             
+            4
+          
+        
+        =
+        1
+      
+    
+     }=1}
+  
+ helyett használhatjuk a 
+  
+    
+      
+        
+          t
+          g
+        
+        
+           
+        
+        =
+        0
+      
+    
+     
+  
+-t Legendre nyomán:
+  
+    
+      
+        k
+        =
+        5
+      
+    
+    
+  
+-től kezdve 
+  
+    
+      
+        
+        >
+        
+           
+          
+            2
+          
+        
+      
+    
+    }
+  
+, tehát az első lemmával kapjuk, hogy 
+  
+    
+      
+        
+           
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \pi ^
+  
+, így 
+  
+    
+      
+         
+      
+    
+    
+  
+ is irracionális.

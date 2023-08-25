@@ -1,0 +1,1 @@
+Chordální graf je takový graf, který neobsahuje kružnici velikosti alespoň 4 jako indukovaný podgraf.

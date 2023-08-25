@@ -1,0 +1,2 @@
+Ferningur er rétthyrningur með allar fjórar hliðar jafnlangar og öll horn jafnstór . Hliðarlengd fernings er oft táknuð með a. Flatarmál ferningsins er fundið með því að hefja hliðarlengdina upp í annað veldi: F = a2 og ummálið er summa allra hliðanna: U = 4a.
+Ferningur tölu x, er talan x margfölduð með sjálfri sér, þ.e. x í öðru veldi, táknað með x2. Ferningur ferningsrótar tölu, er talan sjálf.

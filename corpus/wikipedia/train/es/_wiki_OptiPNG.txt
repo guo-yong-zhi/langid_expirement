@@ -1,0 +1,3 @@
+OptiPNG es un programa optimizador de imágenes en formato PNG liberado bajo licencia zlib/libpng, que vuelve a comprimir los archivos de imagen PNG a un tamaño más pequeño, sin pérdida de información. Adicionalmente es capaz de corregir archivos PNG erróneos.
+En términos prácticos, un documento PNG se puede grabar como otro PNG ocupando alrededor del 30% menos de espacio, sin que la imagen sufra cambio alguno. Es utilizado por webmasters para reducir el tamaño de una página web.
+Este programa también convierte formatos externos  a PNG optimizados.

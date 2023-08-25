@@ -1,0 +1,35 @@
+.কিউএ  হচ্ছে কাতারের ইন্টারনেট কান্ট্রি কোড টপ-লেভেল ডোমেইন।
+২০১১ সালের সেপ্টেম্বর মাস থেকে কাতারের সাধারণ জনগণ স্বীকৃত নিবন্ধক মাধ্যমে কাতারের ইন্টারনেট ডোমেইন  হিসেবে নিবন্ধন করতে পারে। .কিউএ সবার জন্য উন্মুক্ত করার পূর্বে, কিউডিআর একটি বিশেষ সময়কাল ঘোষণা করে যাতে ট্রেডমার্কধারী এবং সরকারি সংগঠনগুলো কাতার ভিত্তিক ডোমেইন নামের জন্য রেজিস্ট্রেশন করতে পারে। 
+ ২ 
+বর্তমানে ডোমেইন নাম দেয়ার জন্য কিউডিআর এর অনুমতি প্রাপ্ত ১২ টি নিবন্ধক প্রতিষ্ঠান আছে। নিবন্ধক প্রতিষ্ঠান গুলো হচ্ছে কিউটেল, ডব্লিউ৩ ইনফোটেক, আইপি মিরর, অ্যাসকিও, মার্কমনিটর, মারাকিয়া.কম, ইপিএজি ডোমেইন সার্ভিস, সেফনেম, সিপিএস-ডেটেন্সিস্টেম, ডোমেইনমনোস্টার এবং ইন্টারনেটএক্স।  ৩ 
+. ৪ 
+A .ac .ad .ae .af .ag .ai .al .am .ao .aq .ar .as .at .au .aw .ax .az   
+B .ba .bb .bd .be .bf .bg .bh .bi .bj .bm .bn .bo .br .bs .bt .bw .by .bz   
+C .ca .cc .cd .cf .cg .ch .ci .ck .cl .cm .cn .co .cr .cu .cv .cw .cx .cy .cz   
+D .de .dj .dk .dm .do .dz  
+E .ec .ee .eg .er .es .et .eu   
+F .fi .fj .fk .fm .fo .fr   
+G .ga .gd .ge .gf .gg .gh .gi .gl .gm .gn .gp .gq .gr .gs .gt .gu .gw .gy   
+H .hk .hm .hn .hr .ht .hu   
+I .id .ie .il .im .in .io .iq .ir .is .it   
+J .je .jm .jo .jp   
+K .ke .kg .kh .ki .km .kn .kp .kr .kw .ky .kz   
+L .la .lb .lc .li .lk .lr .ls .lt .lu .lv .ly   
+M .ma .mc .md .me .mg .mh .mk .ml .mm .mn .mo .mp .mq .mr .ms .mt .mu .mv .mw .mx .my .mz   
+N .na .nc .ne .nf .ng .ni .nl .no .np .nr .nu .nz   
+O .om   
+P .pa .pe .pf .pg .ph .pk .pl .pm .pn .pr .ps .pt .pw .py   
+Q .qa   
+R .re .ro .rs .ru .rw   
+S .sa .sb .sc .sd .se .sg .sh .si .sk .sl .sm .sn .so .sr .ss .st .sv .sx .sy .sz   
+T .tc .td .tf .tg .th .tj .tk .tl .tm .tn .to .tr .tt .tv .tw .tz   
+U .ua .ug .uk .us .uy .uz   
+V .va .vc .ve .vg .vi .vn .vu   
+W .wf .ws   
+Y .ye   
+Z .za .zm .zw
+.бг  .κπ  .ελ  ישראל.  .日本  .ລາວ 
+.bl .bq .eh .mf
+.bv .gb .sj .yt
+.an .su .tp
+.bu .cs .dd .um .yu .zr

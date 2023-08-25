@@ -1,0 +1,22 @@
+Nel calcolo infinitesimale la formula di Eulero-Maclaurin fornisce un collegamento di grande utilità tra il calcolo degli integrali  e il calcolo di somme e serie.
+Essa si può usare per approssimare integrali mediante somme finite e viceversa per valutare somme finite e somme di serie a partire da valori di integrali definiti ottenuti analiticamente o mediante approssimazioni ottenute usando il computer. 
+In particolare da questa formula si deducono molti sviluppi asintotici e la formula di Falhauber per la somma di potenze di interi è una sua immediata conseguenza.
+La formula è stata scoperta indipendentemente da Leonhard Euler e Colin Maclaurin attorno al 1735. Euler l'ha trovata mentre cercava di calcolare serie infinite lentamente convergenti, mentre Maclaurin l'ha utilizzata per calcolare degli integrali specifici. Questa formula è stata generalizzata nel 1886 da Gaston Darboux .
+Se n è un intero positivo e f è una funzione liscia  definita per tutti i numeri reali x tra 0 e n, allora l'integrale
+può essere approssimato con la somma
+. La formula di Euler - Maclaurin fornisce espressioni per la differenza tra la somma e l'integrale in termini di derivate di ordine elevato f nei punti finali dell'intervallo 0 e n. Per ogni numero naturale p, abbiamo
+dove B2 = 1/6, B4 = -1/30, B6 = 1/42,
+B8 = -1/30... sono i numeri di Bernoulli.
+R è un termine di errore che è normalmente piccolo se p è abbastanza grande e può essere stimato come
+Impiegando la regola di sostituzione, si può adattare questa formula anche a funzioni che sono definite su qualche intervallo della retta reale diverso da 
+  
+    
+      
+        
+      
+    
+    
+  
+.
+Se f è un polinomio e p è un intero abbastanza grande, allora il termine residuo vale zero. Per esempio, se f = x3, può essere scelto p = 2 per ottenere dopo la semplificazione
+Con la funzione f = log, la formula di Eulero-Maclaurin può essere usata per derivare con precisione l'errore stimato per l'approssimazione di Stirling della funzione fattoriale.

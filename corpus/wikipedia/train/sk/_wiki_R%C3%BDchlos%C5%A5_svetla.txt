@@ -1,0 +1,4 @@
+Rýchlosť svetla  je rýchlosť šírenia svetla a všetkých ostatných druhov elektromagnetického vlnenia. Rýchlosť svetla mimo vákua sa označuje aj ako rýchlosť svetla v látke či rýchlosť svetla v prostredí. Výrazom "rýchlosť svetla" sa často myslí špecificky len rýchlosť svetla vo vákuu.
+Rýchlosť svetla v látke závisí jednak od fyzikálnych vlastností danej látky  a jednak od frekvencie svetla , ktorého rýchlosť meriame.
+Vzorec rýchlosti svetla je cph = λ.f = c / n, kde λ je vlnová dĺžka, c je rýchlosť svetla vo vákuu a n je absolútny index lomu . 
+Rýchlosť viditeľného svetla vo vzduchu je  približne rovnaká ako c . Rýchlosť viditeľného svetla vo vode je 225 000 km/s, v skle 200 000 km/s.

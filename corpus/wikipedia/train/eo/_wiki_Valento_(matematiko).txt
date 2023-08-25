@@ -1,0 +1,16 @@
+En logiko, matematiko kaj komputado, valento estas la nombro kaj la tipoj de operandoj , kiujn akceptas operacio, funkcio, rilato, predikato, proceduro ktp.
+Plej ofte temas pri operacioj kaj rilatoj duvalentaj kaj unuvalentaj. En la programadlingvo C la kondiĉa esprimo x ? y : z estas trivalenta. En iuj formalaj teorioj estas oportune rigardi la konstantojn kiel operaciojn nulvalentajn aŭ 0-valentajn; cetere, en programado nulvalentaj funkcioj povas liveri variajn rezultojn .
+Ĝenerale oni povas paroli pri funkcioj, rilatoj ktp n-valentaj.
+En matematiko oni ankaŭ povas diri «argumentonombro», «duargumenta» ktp. Tamen tio estas iom pli longa; kaj pli grave, en komputado oni ofte bezonas kontrastigi argumentojn kaj rezultojn. Nu, operacioj kaj funkcioj programlingvaj povas disponigi argumenton por rezulto; ekz-e
+Krome, se akcepti la NPIV-an difinon, ke argumento estas «Elemento, por kiu funkcio estas difinita», tiam 
+  
+    
+      
+        sin
+         
+        x
+      
+    
+    
+  
+ akceptas ne 1, sed malfinion da argumentoj . La terminoj unuargumenta, duargumenta ktp estas do konfuzaj, kio devus ŝoki matematikan rigoremon.

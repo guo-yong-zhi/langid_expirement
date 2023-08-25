@@ -1,0 +1,5 @@
+Vienkartinis bloknotas  – šifravimo algoritmas, kuriame teksto kodavimui naudojamo rakto ilgis yra lygus paties teksto ilgiui. Kodavimui naudojama modulinė sudėtis.
+Vienkartinis bloknotas yra kol kas vienintelis žinomas kriptografijos algoritmas, kurio neįmanoma įveikti 1 , jei laikomasi šių sąlygų:
+Praktikoje vienkartinio bloknoto panaudojimą labai riboja visi šie trys veiksniai, labiausiai – visiškai atsitiktinių raktų generavimas ir perdavimas. Suprantama, kad raktais abi pusės turi apsikeisti skirtingu būdu, nei keičiasi koduotais pranešimais.
+Vienkartiniu bloknotu užšifruotą tekstą yra vienoda tikimybė iššifruoti į bet kokį kitą tokio paties ilgio tekstą.
+1940 m. šifro nepažeidžiamumą įrodė Claude Shannon.

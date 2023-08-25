@@ -1,0 +1,861 @@
+Na teoria do modelo e áreas relacionadas da matemática, um tipo é um objeto que, falando livremente, descreve como um elemento  ou elementos em uma estrutura matemática podem se comportar. Mais precisamente, é um conjunto de fórmulas de primeira ordem em uma linguagem L com variáveis livres x1, x2, ..., xn que são verdadeiras de uma sequência de elementos de uma L-estrutura 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+. Dependendo do contexto, os tipos podem ser completos ou parciais e podem utilizar um conjunto fixo de constantes, A, da estrutura 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+. A questão de quais tipos representam elementos reais de 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+ nos leva às ideias de modelos saturados e tipos de omissão.
+Considere a estrutura 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+ para uma linguagem L. Seja M o universo da estrutura. Para cada A ⊆ M, seja L a linguagem obtida  de L a partir da adição de uma constante ca para cada a ∈ A. Em outras palavras,
+Um 1-tipo  sobre A é um conjunto de p fórmulas em L com, no máximo, uma variável livre x  de modo que para cada subconjunto finito p0 ⊆ p existe algum b ∈ M, dependendo do p0, com 
+  
+    
+      
+        
+          
+            M
+          
+        
+         
+        
+          p
+          
+            0
+          
+        
+        
+      
+    
+    }\models p_
+  
+ (isto é. todas as fórmulas em p0 são verdadeiras em 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+ quando x é substituído por  b).
+Similarmente, um n-tipo  sobre A é definido como sendo um conjunto de p = p de fórmulas em L, cada um tendo suas variáveis livres ocorrendo apenas entre as n variáveis livres dadas , desta forma, para cada subconjunto finito p0 ⊆ p existem alguns elementos b1,…,bn ∈ M com 
+  
+    
+      
+        
+          
+            M
+          
+        
+         
+        
+          p
+          
+            0
+          
+        
+        
+      
+    
+    }\models p_
+  
+.
+Tipo completo refere-se aos tipos que são maximais com respeito a inclusão, isto é, se p é um tipo completo, então para cada 
+  
+    
+      
+         
+        
+         
+        L
+        
+      
+    
+    
+  
+ e 
+  
+    
+      
+         
+        
+         
+        p
+        
+      
+    
+    
+  
+  or  
+  
+    
+      
+         
+         
+        
+         
+        p
+        
+      
+    
+    
+  
+. Qualquer tipo não-completo é chamado de tipo parcial.  Assim, a palavra tipo, em geral, refere-se a qualquer n-tipo, parcial ou completo, sobre qualquer conjunto de parâmetros escolhidos .
+Um n-tipo p é dito como sendo realizado em 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+ se houver um elemento b ∈ Mn de modo que 
+  
+    
+      
+        
+          
+            M
+          
+        
+         
+        p
+        
+      
+    
+    }\models p}
+  
+. A existência de uma tal realização é garantida, para qualquer tipo, através do Teorema da Compacidade, embora a realização possa acontecer em alguma extensão elementar de 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+, ao invés de no próprio 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+. Se um tipo completo é realizado por b em 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+, então o tipo é designado como 
+  
+    
+      
+        t
+        
+          p
+          
+            n
+          
+          
+            
+              M
+            
+          
+        
+        
+      
+    
+    ^}
+  
+ e referido como o tipo completo de b sobre A.
+Um tipo p é dito isolado por φ se existir uma fórmula φ com a propriedade que 
+  
+    
+      
+         
+         
+        
+         
+        p
+        
+        ,
+         
+        
+         
+         
+        
+      
+    
+    
+  
+. Desde que subconjuntos finitos de um tipo sejam sempre realizados em 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+, há sempre um elemento b ∈ Mn de tal forma que φ é verdadeira em 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+; ou seja 
+  
+    
+      
+        
+          
+            M
+          
+        
+         
+         
+        
+      
+    
+    }\models \varphi }
+  
+, assim b realiza todo o tipo isolado. Então os tipos isolados serão realizados em cada subestrutura ou extensão elementar. Devido a isso, os tipos isolados nunca podem ser omitidos .
+Um modelo que realiza a máxima variedade possível de tipos é chamado de modelo saturado, e a construção ultrapoderosa fornece uma maneira de produzir modelos saturados.
+Considere a linguagem com um conectivo binário,ao qual nós chamamos de 
+  
+    
+      
+         
+      
+    
+    
+  
+. Seja 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+ o modelo 
+  
+    
+      
+         
+         
+        ,
+        
+           
+          
+             
+          
+        
+         
+      
+    
+    \rangle }
+  
+, ao qual o 
+  
+    
+      
+         
+      
+    
+    
+  
+ é um valor ordinal padrão bem ordenado. Seja 
+  
+    
+      
+        
+          
+            T
+          
+        
+      
+    
+    }}
+  
+ a teoria deste modelo.
+Considere o conjunto de fórmulas 
+  
+    
+      
+        p
+        
+        :=
+        
+      
+    
+    x\}}
+  
+. Primeiro, nós  dizemos que isso é um tipo. Seja 
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+        
+         
+        p
+        
+      
+    
+    \subseteq p}
+  
+ um subconjunto finito de  
+  
+    
+      
+        p
+        
+      
+    
+    
+  
+. Precisamos encontrar um 
+  
+    
+      
+        n
+         
+         
+      
+    
+    
+  
+ que satisfaça todas as fórmulas em 
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+      
+    
+    }
+  
+. Bem, podemos apenas pegar o sucessor do maior ordinal mencionado no conjunto de fórmulas 
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+        
+      
+    
+    }
+  
+. Então, isso claramente irá conter todos os ordinais mencionados em 
+  
+    
+      
+        
+          p
+          
+            0
+          
+        
+        
+      
+    
+    }
+  
+. Assim, teremos que 
+  
+    
+      
+        p
+        
+      
+    
+    
+  
+  é um tipo. Em seguida, perceba que 
+  
+    
+      
+        p
+        
+      
+    
+    
+  
+ não é realizado em 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+. Pois, se fosse, existiria algum 
+  
+    
+      
+        n
+         
+         
+      
+    
+    
+  
+ que contém cada elemento de 
+  
+    
+      
+         
+      
+    
+    
+  
+. Se quiséssemos realizar o tipo,poderíamos ser tentados a considerar o modelo 
+  
+    
+      
+         
+         
+        +
+        1
+        ,
+        
+           
+          
+             
+            +
+            1
+          
+        
+         
+      
+    
+    \rangle }
+  
+,que é de fato uma supermodelo de 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+ que compreende o tipo. Unfortunately, this extension is not elementary, isto é, esse modelo não tem ue satisfazer 
+  
+    
+      
+        
+          
+            T
+          
+        
+      
+    
+    }}
+  
+. Em particular, a semtemça 
+  
+    
+      
+         
+        x
+         
+        y
+        
+      
+    
+    
+  
+ é satisfeita por este modelo e não por 
+  
+    
+      
+        
+          
+            M
+          
+        
+      
+    
+    }}
+  
+.
+Então, desejamos realizar o tipo numa extensão elementar. Podemos fazer isso definindo uma nova estrutura nessa linguagem, ao qual chamamos de 
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+           
+        
+      
+    
+    }'}
+  
+. O domínio da estrutura será 
+  
+    
+      
+         
+         
+        
+          
+            Z
+          
+           
+        
+      
+    
+     '}
+  
+ onde 
+  
+    
+      
+        
+          
+            Z
+          
+           
+        
+      
+    
+    {\displaystyle \mathbb 
+  
+ representa o conjunto de números inteiros de tal modo que
+  
+    
+      
+        
+          
+            Z
+          
+           
+        
+         
+         
+        =
+         
+      
+    
+     '\cap \omega =\emptyset }
+  
+. Seja 
+  
+    
+      
+        <
+      
+    
+    
+  
+ a ordem habitual de 
+  
+    
+      
+        
+          
+            Z
+          
+           
+        
+      
+    
+    {\displaystyle \mathbb 
+  
+. Interpretamos o simbolo 
+  
+    
+      
+         
+      
+    
+    
+  
+ na nossa nova estrutura por 
+  
+    
+      
+        
+           
+          
+            
+              
+                
+                  M
+                
+              
+               
+            
+          
+        
+        =
+        
+           
+          
+             
+          
+        
+         
+        <
+         
+        
+        
+      
+    
+    {\displaystyle \in _{'}=\in _
+  
+. A ideia é que estamos adicionando uma "cadeia-Z", ou cópia dos inteiros, acima de todos os ordinais finitos. Claramente qualquer elemento 
+  
+    
+      
+        
+          
+            Z
+          
+           
+        
+      
+    
+    {\displaystyle \mathbb 
+  
+ realiza o tipo 
+  
+    
+      
+        p
+        
+      
+    
+    
+  
+. Além disso, pode-se verificar que essa extensão é elementar.
+Outro exemplo: o tipo completo do número 2 sobre o conjunto vazio, considerado como um membro dos números naturais, seria o conjunto de todas as sentenças de primeira ordem que descrevem uma variável x que são verdadeiras para x = 2. Esse conjunto incluiria fórmulas tais como  
+  
+    
+      
+        
+        
+        x
+         
+        1
+        +
+        1
+        +
+        1
+      
+    
+    
+  
+, 
+  
+    
+      
+        x
+         
+        1
+        +
+        1
+        +
+        1
+        +
+        1
+        +
+        1
+      
+    
+    
+  
+, e 
+  
+    
+      
+         
+        y
+        
+      
+    
+    
+  
+. Esse é um exemplo  de um tipo isolado,uma vez que a fórmula 
+  
+    
+      
+        x
+        =
+        1
+        +
+        1
+      
+    
+    
+  
+ implica todas as outras fórmulas que são verdadeiras sobre o número 2.
+Por exemplo, as sentenças
+e
+descrevendo a raiz quadrada de 2  são consistentes com os axiomas de campos ordenados,  e pode ser estendida para um tipo completo. Esse tipo não é realizado no campo ordenado de números racionais, mas é realizado em campos ordenados de números reais. Similarmente, o conjunto infinito de fórmulas   não é realizado em campos ordenados de números reais, ,as é realizado em campo ordenado de hiperreais. Se permitirmos mais parâmetros, como por exemplo, todos os reais, podemos especificar um tipo 
+  
+    
+      
+        
+      
+    
+     \}}
+  
+ que é realizado por um hiperreal infinitesimal que viola a Propriedade de Arquimedes.
+A razão pela qual é útil restringir os parâmetros a um determinado subconjunto do modelo é que isso ajuda a distinguir os tipos que podem ser satisfeitos daqueles que não podem. Por exemplo, usando o conjunto completo de números reais como parâmetros poderia ser gerado um conjunto infinito e incontável de fórmulas como 
+  
+    
+      
+        x
+         
+        1
+      
+    
+    
+  
+, 
+  
+    
+      
+        x
+         
+         
+      
+    
+    
+  
+, ... que explicitamente, colocaria uma regra para cada possível valor real para x, e, portanto, nunca poderia ser realizado dentro dos números reais.
+É útil para considerar o conjunto de n-tipos completos sobre A  como um espaço topológico. Considere a seguinte relação de equivalência na fórmula nas variáveis livres x1, , xn com parâmetros em M:
+Pode-se mostrar que 
+  
+    
+      
+         
+         
+         
+      
+    
+    
+  
+ se, somente se eles são contidos, exatamente, nos mesmos tipos completos.
+O conjunto de fórmulas nas varáveis livres x1, ,xn sobre A até essa relação de equivalência é uma álgebra booleana . Os n-tipos completos correspondem ao ultrafiltro dessa álgebra booleana. O conjunto de n-tipos completos pode ser feito num espaço topológico, tendo os conjuntos de tipos que contém uma dada fórmula como conjuntos abertos de base. Isso constrói o Espaço de Pedra que é compacto, Hausdorff, e totalmente desconectado.
+Exemplo. A teoria completa de campos algebricamente fechados de característica 0 tem eliminação de quantificador que permite mostrar que os possíveis 1-tipos completos correspondem a:
+Em outras palavras, os 1-tipos correspondem exatamente aos ideais primos do anel polinomial Q sobre os racionais Q: Se r  é um elemento do modelo do tipo p, então o ideal correspondente a p é o conjunto de polinomiais que possuem r  como uma raiz. De modo mais geral, os n-tipos completos correspondem aos ideais primos do anel polinomial Q, em outras palavras, até os pontos do espectro principal deste anel.  Por exemplo, se q é um polinômio irredutível em 2 variáveis, existe um 2-tipo cuja realizações  pares  de elementos transcendentais com q=0.
+Dado um n-tipo completo p pode-se perguntar se existe um modelo da teoria que omite p, em outras palavras não existe n-tuplo no modelo que realiza p. Se p é um ponto isolado no Espaço de Pedra, isto é se  é um conjunto aberto, é fácil ver que todo modelo realiza p . O teorema dos tipos omitidos diz que inversamente, se p não é isolado, então existe um modelo contável omitindo p .
+Exemplo: Na teoria dos campos algebricamente fechados de característica  0, existe um 1-tipo representado por elementos que são transcendentais sobre o campo primo. Este é um ponto de não isolado do Espaço de Pedra . O campo de números algébricos é um modelo que omite esse tipo, bem como o encerramento de qualquer extensão algébrica transcendental dos racionais é um modelo de realização deste tipo.
+Todos os outros tipos são "números algébricos" ,  e todos esses tipos são realizados em todos os campos algebricamente fechados de característica 0.

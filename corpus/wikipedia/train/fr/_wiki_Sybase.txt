@@ -1,0 +1,29 @@
+
+modifier - modifier le code - voir Wikidata  Sybase est un éditeur de logiciels fondé en 1984.
+Sybase fournit des solutions d'infrastructure d'entreprise, des solutions de mobilités de logiciel pour la gestion de l'information, pour le développement, et pour l'intégration.
+Cette société est principalement connue pour son logiciel de gestion de base de données. Celui-ci fait partie des SGBD les plus importants du marché avec Oracle, IBM DB/2, Microsoft SQL Server, MySQL et PostgreSQL.
+Le 12 mai 2010, SAP, société allemande, annonce son intention de racheter Sybase, valorisant l'entreprise à 5,8 milliards de dollars.
+Sybase a été fondée en 1984 par Mark Hoffman, Bob Epstein, Jane Doughty et Tom Haggin au domicile de Bob Epstein à Berkeley en Californie. Ensemble, ils ont créé un système de gestion de base de données relationnelle  où les informations sont organisées et disponibles aux ordinateurs d'un réseau.
+À la fin de 1986, Sybase offrait ses premiers programmes en test. 
+Et en mai 1987 rendait disponible  le système SYBASE, le premier SGBDR de haute performance pour les applications  en ligne. Plutôt que de fournir une grande base de données stockée sur un ordinateur central, le système SYBASE fournissait un accès base de données en architecture client/serveur. Sybase a été le premier à fournir une base de données relationnelle en mode client/serveur. Sybase a ainsi fourni au projet du Génome Humain des licences pour la première génération de bases de données relationnelle client/serveur. 
+À cette époque, Sybase appelait son serveur de données « Sybase SQL Server ». Sybase a signé un accord avec Microsoft pour partager le code source du serveur de données et distribuer sous OS/2 comme " SQL Server ".
+Jusqu'à la version 4.9, les logiciels Sybase et Microsoft SQL Server étaient pratiquement identiques.
+À la suite de désaccords entre les deux sociétés concernant le partage des revenus, Sybase et Microsoft ont décidé d'arrêter l'accord.
+Les produits ont ainsi évolué de façon différente, codes sources distincts.
+Bien que l'héritage commun soit évident, tant au niveau du langage procédural Transact SQL  qu'au niveau 
+des structures de base de l'architecture du serveur de données, la différence majeure entre les serveurs de données Sybase et Microsoft
+est que les serveurs de données Sybase sont orientés UNIX alors que le serveur de données Microsoft a été adapté et optimisé pour le système d'exploitation Microsoft Windows NT.
+Sybase continue à offrir des versions pour Windows, plusieurs variétés d'UNIX et GNU/Linux.En octobre 1989, Sybase a sorti de nouveaux produits : les bibliothèques de connectivité Open Client et Open Server. Ces APIs fournissaient des interfaces génériques de communication client/serveur. Avec ces nouvelles offres, le chiffre d'affaires de Sybase a atteint 56 millions de dollars en 1989. Deux ans après, en août 1991, Sybase entrait en bourse.
+En juin 1992, Sybase annonce sa dernière génération logiciels. Dénommée System 10, cette famille de produits a été conçue pour fournir aux entreprises un framework pour les aider à migrer leurs applications des infrastructures grands systèmes aux systèmes ouverts client/serveur.
+En avril 1993, Sybase présente son premier composant de la famille System 10, OmniSQL Gateway.
+Plus tard cette année, Sybase dévoile le reste des composants de la famille System 10. Cela inclut SQL Server 10, Backup Server, SQL Monitor, les APIs Open Client/Server et SA Companion.
+En 1994, Sybase acquiert Powersoft, leader dans les outils de développement client/serveur avec 40 % de part
+de marché. Sybase acquiert ainsi PowerBuilder, outil de développement RAD.
+Cette acquisition marque aussi l'entrée de Sybase dans le marché de la mobilité avec WATCOM SQL, que Sybase renomme en SQL Anywhere.
+En 2000, Sybase lance sa division de mobilité, Sybase Anywhere. SQL Anywhere devient ainsi le produit phare de Sybase dans le domaine de la mobilité et permet à Sybase de devenir le leader dans le marché des bases de données mobiles.
+En perte de vitesse fin des années 1990, Sybase revient à la profitabilité sous la houlette de John CHEN en 2000.
+Depuis 2000, Sybase maintient sa rentabilité, et s'est réinventé avec la nouvelle stratégie Unwired Enterprise, qui consiste à permettre aux entreprises de diffuser, d'exploiter des informations d'entreprise sur n'importe quel matériel, des grands ordinateurs aux mobiles. L'offre Unwired Enterprise combine les technologies des produits de gestion de données Sybase à ces nouveaux produits mobiles. Sybase a en effet étoffé son offre mobile par une série de plusieurs acquisitions. 
+En 2006, Sybase termine l'acquisition de Mobile 365 . Cette acquisition permet à Sybase d'entrer dans le marché de la messagerie mobile et du commerce électronique mobile.
+Sybase a maintenu une forte position dans les produits de gestion de données. Les produits phares sont Sybase Adaptive Server Enterprise , Sybase IQ   et Replication Server . Sybase possède une forte présence dans le domaine des services financiers, des télécommunications, des technologies et des marchés publics.
+En 2007, Sybase a dépassé le milliard de dollars.
+En 2010, SAP acquiert Sybase pour 5.8 milliards de dollars.

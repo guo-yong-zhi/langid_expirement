@@ -1,0 +1,4 @@
+Driver Easy là một chương trình quản lý trình điều khiển cho Microsoft Windows. Phần mềm được sử dụng để cập nhật và quản lý trình điều khiển thiết bị trên máy tính Windows.
+Driver Easy quét phần cứng máy tính và so sánh trình điều khiển thiết bị với trình điều khiển trong cơ sở dữ liệu của nó. 1  Sau đó, nó tải xuống các trình điều khiển trong phần mềm. 1 
+Driver Easy cũng có các tính năng:
+Mặc dù Driver Easy có cơ sở dữ liệu trình điều khiển, chương trình có thể không phát hiện được một vài trình điều khiển hoặc đôi khi cung cấp trình điều khiển lỗi thời. 3  4  Và một số bản cập nhật trình điều khiển mà nó cung cấp có thể không phải từ nguồn của nhà sản xuất phụ tùng gốc . 3 

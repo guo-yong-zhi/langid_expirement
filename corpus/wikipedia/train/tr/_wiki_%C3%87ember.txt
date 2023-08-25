@@ -1,0 +1,36 @@
+Çember ya da dönge, düzlemde sabit bir noktaya eşit uzaklıkta bulunan noktaların kümesinin oluşturduğu yuvarlak, geometrik şekil. Çemberin çevrelediği 2 boyutlu alana daire denir.
+Tanımda bahsi geçen sabit noktaya çemberin merkezi, eşit uzaklıkların her birine yarıçap, yarıçapın iki katı uzunluğa ise çap denir. Genellikle, merkez o, yarıçap r, çap ise R  ile gösterilir . Çemberde sonsuz yarıçap ve çap vardır. Yarıçap ve çapların uzunlukları sabittir.
+Çember üzerindeki iki noktayı birleştiren doğru parçasına ise kiriş adı verilir. Çemberde sonsuz sayıda kiriş vardır. Kirişlerin uzunlukları farklı olabilir. Bu anlamda, merkeze göre birbirine simetrik olan iki noktayı birleştiren doğru parçasının uzunluğu aynı zamanda çapa eşittir. Çap en uzun kiriştir.
+Analitik geometride çemberin denklemi x y-koordinat sisteminde şu biçimde yazılabilir:
+Eğer çemberin merkezi koordinat sistemi içinde  noktası olursa, yukarıdaki ifade
+şeklinde de yazılabilir ve bu çembere yarıçap 1 olduğunda birim çember denir.
+Yarıçapı r olan bir çember için çevre 
+  
+    
+      
+         
+      
+    
+    
+  
+ sayısının formülünden bulunur
+  
+    
+      
+        
+          
+             
+          
+        
+        =
+        2
+         
+         
+         
+        r
+      
+    
+    }=2\cdot \pi \cdot r}
+  
+formülüyle bulunur.
+Çemberin merkezi, merkez açının köşesidir. Çevre açının köşesi, çemberin üzerindedir. Merkez açının içinde kalan çember parçasına, merkez açının gördüğü yay; çevre açının içinde kalan çember parçasına, çevre açının gördüğü yay denir. Merkez açının kenarlarının, çemberi kestiği noktaların arasındaki yaylardan birisi majör, yani büyük çember yayı, diğeri de minör, yani küçük çember yayıdır. Merkez açının gördüğü yay, minör yaydır. Merkez açının ölçüsü, 0 ile 180 derece arasında, çember yaylarının ise, 0 ile 360 derece arasındadır.

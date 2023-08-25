@@ -1,0 +1,96 @@
+Die Konzentrationsrate  ist in der Wirtschaftsstatistik eine volkswirtschaftliche Kennzahl, welche die Marktanteile der größten Unternehmen auf einem relevanten Markt wiedergibt.
+Bei der Unternehmenskonzentration ist von Bedeutung, wie viele Unternehmen als Marktteilnehmer auf einem Markt vorhanden sind und welche Marktanteile jedes der Unternehmen, gemessen am Umsatzerlös, aufweist. 1  In dieser Form gibt die Konzentrationsrate Auskunft über die Marktmacht, Marktstruktur und die Markttypologie. Sie kann auch für Betriebsvergleiche herangezogen werden. Da sich der Wettbewerb quantitativ nicht messen lässt, ist die Messung der Unternehmenskonzentration durch die Konzentrationsrate ein wichtiges Hilfsmittel. 2 
+Allgemein kann zwischen absoluten und relativen Konzentrationsraten unterschieden werden: 3 
+Die absolute Konzentrationsrate gibt darüber Auskunft, welcher Anteil eines Merkmals  auf eine bestimmte Zahl der nach Größe sortierten Merkmale entfällt. Bei der relativen Konzentration wird die Disparität der Unternehmensgrößen erfasst. Die hier dargestellte Konzentrationsrate gehört zu den absoluten und numerischen Konzentrationen.
+Mit der absoluten Konzentrationsrate lässt sich ausdrücken, welcher Marktanteil auf die größten Unternehmen entfällt. 4  Die Konzentrationsrate 
+  
+    
+      
+        C
+        
+          R
+          
+            n
+          
+        
+      
+    
+    }
+  
+ besagt, wie viel Prozent einer ökonomischen Größe  die 
+  
+    
+      
+        n
+      
+    
+    
+  
+ größten Unternehmen auf sich vereinen. 5  Wenn beispielsweise auf einem Markt fünf Unternehmen mit einem gleichen Marktanteil von 20 % agieren, dann gibt die 
+  
+    
+      
+        C
+        
+          R
+          
+            2
+          
+        
+      
+    
+    }
+  
+ für die zwei größten Unternehmen einen Wert von 
+  
+    
+      
+        C
+        
+          R
+          
+            2
+          
+        
+      
+    
+    }
+  
+an. In Deutschland wird in Wirtschaftsstatistiken als kleinster Wert 
+  
+    
+      
+        C
+        
+          R
+          
+            3
+          
+        
+      
+    
+    }
+  
+ veröffentlicht.
+Generell gilt:
+Die Monopolkommission erfasst Konzentrationsraten durch Umsatzanteile der sechs größten Unternehmen eines Wirtschaftszweiges. 6  Die Kennzahl 
+  
+    
+      
+        C
+        
+          R
+          
+            6
+          
+        
+        =
+        60
+      
+    
+    =60}
+  
+ bedeutet dementsprechend, dass auf die sechs größten Unternehmen ein Marktvolumen von 60 % des gesamten Marktvolumens entfällt. 7 
+Als Konzentration wird in der Volkswirtschaftslehre der Prozess einer Monopolisierung von Wirtschaftssubjekten – auch im Sinne von Karl Marx – verstanden. 8  Absolute Konzentration liegt vor, wenn sich die Umsatzerlöse auf ein oder sehr wenige Unternehmen verteilen, eine relative Konzentration ist vorhanden, wenn die Verteilung ungleichmäßig ist. 9  Wie weit dieser Prozess fortgeschritten ist, kann durch das Konzentrationsniveau gemessen werden. 
+Dem Konzentrationsniveau können folgende Konzentrationsraten zugeordnet werden, die wiederum über die Marktform entscheiden:.
+Eine Konzentrationsanalyse verlangt eine umfassende Marktanalyse, die eine Untersuchung der Marktstruktur, des Marktverhaltens und der Marktentwicklung erfordert. 10  Der Wettbewerb ist umso schwächer, je weniger Marktteilnehmer vorhanden sind  oder je ungleichmäßiger die Verteilung des Marktvolumens auf die Marktteilnehmer ist . 11  Die Wettbewerbsintensität steigt bei sinkenden Konzentrationsraten und sinkt bei steigenden Konzentrationsraten. Eine geringe Marktkonzentration liegt bei einer Konzentrationsrate zwischen 0 % und 50 % vor, während von einer hohen Marktkonzentration zwischen 80 % und 100 % gesprochen werden kann. 12  Der Wettbewerb nimmt zu bei Wachstumsmärkten und Zukunftsmärkten und nimmt ab bei Marktsättigung und Schrumpfmärkten.

@@ -1,0 +1,3 @@
+Y-320 je oralno aktivni imunomodulator, i inhibits IL-17 produkciju u CD4 T ćelijama stimulisanim sa IL-15 sa IC50 vrednošću od 20 do 60 nM. 3 
+Y-320 isto tako inhibira produkciju IFN-γ i TNF-α u CD4 T ćelijama miša stimulisanim sa IL-15, CXCL12, i anti-CD3 mAb.
+Y-320  ublažava posledice kolagenom indukovanog artritisa  kod miševa putem redukcije IL-17 mRNA u artritičkim zglobovima, a isto tako pokazuje terapeutsko dejstvo na CIA kod cinomolgsnih majmuna. Za Y-320 je pokazano da sinergistički deluje u kombinaciji sa anti-TNF-α mAb na hroničnu progresiju CIA kod miševa. 4 

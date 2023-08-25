@@ -1,0 +1,20 @@
+Et rektangel er en plan firkant, hvori modstående sider er lige lange, og alle fire vinkler er rette . Firkanten på illustrationen til højre er et rektangel; bemærk at de røde hjørner der er indtegnet, blot symboliserer at hjørnerne danner rette vinkler; de er ikke en del af selve rektanglet.
+For et rektangel der som vist på illustrationen har har bredden 
+  
+    
+      
+        a
+      
+    
+    
+  
+ og højden 
+  
+    
+      
+        b
+      
+    
+    
+  
+ kan man beregne:

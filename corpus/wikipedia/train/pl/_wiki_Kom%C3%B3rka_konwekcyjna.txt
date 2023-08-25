@@ -1,0 +1,5 @@
+Komórka konwekcyjna – układ wznoszących i opadających prądów konwekcyjnych w płynie, tworzących w stanie stacjonarnym zamkniętą pętlę.
+Kształt komórek konwekcyjnych powstających w cieczy zależy od wielu  czynników: geometrii ośrodka , rozkładu i wydajności źródeł ciepła, a także od właściwości płynu podlegającego konwekcji .
+Komórki konwekcyjne powstające w atmosferze mają wpływ na formowanie się układów burzowych i kształty chmur; na przykład uliczka chmur tworzy się w miejscu, gdzie dwie sąsiadujące komórki konwekcyjne o kształcie rolek wynoszą wilgotne powietrze ku górze. Także wielkoskalowa cyrkulacja powietrza obejmująca całą planetę, wynikająca z różnic temperatury i ciśnienia, jest podzielona na komórki .
+Innym przykładem komórek konwekcyjnych są granule widoczne na powierzchni Słońca.
+Ruchy płyt tektonicznych mają najprawdopodobniej związek z konwekcją w płaszczu Ziemi, aczkolwiek granice zbieżne i rozbieżne płyt nie odzwierciedlają dokładnie granic komórek konwekcyjnych w górnym płaszczu, ze względu na to, że litosfera zachowuje się jak ciało sztywne.

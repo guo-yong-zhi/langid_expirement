@@ -1,0 +1,71 @@
+ 
+In mathematica, un function 1  es un relation inter duo insimules que adjunge un elemento de un del duo insimules a un elemento del altere insimul.
+Le prime elemento es le argumento del function o le valor 
+  
+    
+      
+        x
+      
+    
+    
+  
+ , dum le secunde elemento es le valor del function o le valor 
+  
+    
+      
+        y
+      
+    
+    
+  
+ . In systemas de coordinatas, le abscissas es sur le axe horizontal e le ordinatas es sur le axe vertical.
+  
+    
+      
+        f
+      
+    
+    
+  
+ es un function 
+  
+    
+      
+        : 
+      
+    
+    
+  
+ 
+  
+    
+      
+        f
+      
+    
+    
+  
+ es un relation 
+  
+    
+      
+         
+        
+         
+        x
+        ,
+        y
+        ,
+        z
+        
+        
+        
+         
+        f
+         
+        
+      
+    
+    
+  
+Function decrescente

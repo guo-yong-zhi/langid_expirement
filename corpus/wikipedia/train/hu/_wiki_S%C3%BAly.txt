@@ -1,0 +1,9 @@
+Pontosságellenőrzött
+A fizikában a súly az az erő, amellyel a test az alátámasztást nyomja vagy a felfüggesztést húzza. Tehát például egy asztalon lévő könyv súlya az az erő, amellyel az asztalt nyomja . Gyakran keverik a tömeggel, köznapi nyelvben a két szót szinonimaként használják. Azonos tömegű testek különböző erősségű gravitációs terekben különböző súlyúak, mert a testre ható gravitációs erőt a test közvetíti a környezetének, és ez adja általában a test súlyát.
+A súly azonban függ a test gyorsulásától is. Például a Föld gravitációs terében függőlegesen gyorsuló test súlya: G = m, ahol m a test tömege, g a nehézségi gyorsulás, a pedig a test gyorsulása. Utóbbi előjele úgy értendő, hogy a pozitív, ha a test felfelé gyorsul, és negatív, ha lefelé.
+Ha a = −g, akkor a test a súlytalanság állapotában van.
+A súly SI-mértékegysége a newton , aminek a jele: N. 1 N = 1 kg·m·s−2 vagyis az az erő, ami 1 kg tömegű testet 1 s alatt 1 m/s-ra gyorsít fel. Az SI bevezetése előtt  használatos volt a kilopond  mint súlyegység, amely egy 1 kg tömegű tárgy súlyát jelölte, ezen kívül alapmértékegysége volt a Műszaki–technikai mértékegységrendszernek is.
+A súlyerőre vonatkozóan továbbiakat találunk az erőtérről szóló cikkben.
+A 3. CGPM 70. számú határozata a következőket tartalmazza:
+Megjegyzés: 1901-ben nem használták még a konvencionális valódi érték kifejezést. A fordításnál már használnunk kell a Nemzetközi Metrológiai Értelmező Szótárban  foglaltak szerint.
+A súly kifejezés másik értelmezése: mérték . Tehát nem elvont fogalom , hanem valóságosan is létező tárgy.

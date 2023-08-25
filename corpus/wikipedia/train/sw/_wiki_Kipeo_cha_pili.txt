@@ -1,0 +1,7 @@
+
+Katika hisabati, kipeo cha pili  ni tokeo la kuzidisha namba mara namba hii.
+Kwa mfano, 4 ni kipeo cha pili cha 2 kwa hivyo 2*2=4
+9 ni kipeo cha pili cha 3 kwa hivyo 3*3 = 9 
+Ili mtafute kipeo cha pili kwa lugha ya programu ya takwimu R mandike :
+> 5^2
+ 25
