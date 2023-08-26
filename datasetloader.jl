@@ -1,3 +1,4 @@
+using StatsBase
 struct WikiDataSet <: AbstractVector{Pair{String,String}}
     path
     lang_files
@@ -75,6 +76,19 @@ function Base.iterate(rl::RandomLoader, i=1)
     end
 end
 
+struct WeightedLoader
+    datasets
+    weights
+end
+function WeightedLoader(datasets; weights=ones(length(datasets)))
+    datasets = Iterators.Stateful.(Iterators.cycle.(RandomLoader.(datasets)))
+    weights = Weights(weights)
+    return WeightedLoader(datasets, weights)
+end
+function Base.iterate(wl::WeightedLoader, i=nothing)
+    dataset = sample(wl.datasets, wl.weights)
+    return popfirst!(dataset), nothing
+end
 function dump_index(index, filename)
     open(filename, "w") do f
         for (k, vs) in index
@@ -98,6 +112,14 @@ function load_index(filename)
         end
     end
     return index
+end
+
+struct BatchedLoader # only for WeightedLoader
+    data
+    batchsize
+end
+function Base.iterate(bl::BatchedLoader, i=nothing)
+    [first(bl.data) for _ in 1:bl.batchsize], nothing
 end
 
 const TLANGS = ["ara", "bel", "ben", "bul", "cat", "ces", "dan", "deu", "ell", "eng", "epo", "pes", "fin",
