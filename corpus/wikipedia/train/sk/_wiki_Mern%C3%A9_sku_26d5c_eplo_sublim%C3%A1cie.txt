@@ -1,0 +1,26 @@
+Merné skupenské teplo sublimácie je teplo, ktoré príjme 1 kilogram pevnej látky, ak sa celá premení na plyn pri sublimácii, tzn. bez predchádzajúcej fázy topenia.
+Pri desublimácii je hodnota merného skupenského tepla rovnaká ako pri sublimácii, preto sa používa iba merné skupenské teplo sublimácie.
+Merné skupenské teplo sublimácie sa určí ako podiel skupenského tepla sublimácie 
+  
+    
+      
+        
+          L
+          
+            s
+          
+        
+      
+    
+    }
+  
+ a hmotnosti 
+  
+    
+      
+        m
+      
+    
+    
+  
+ látky, tzn.

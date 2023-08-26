@@ -1,0 +1,2 @@
+La sèrie americana Els Simpson disposa d'una llarga llista de personatges, ja que després dels protagonistes i personatges principals hi ha una llarga sèrie de companys de feina, amics, professors, parents llunyans, gent del poble i més personatges diversos.
+Model: Personatge , "Primera aparició": Descripció

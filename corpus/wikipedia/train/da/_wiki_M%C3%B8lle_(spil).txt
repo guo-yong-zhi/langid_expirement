@@ -1,0 +1,11 @@
+Mølle er et brætspil for to personer, hvor man ved at placere tre af sine brikker på stribe – en såkaldt "mølle" - kan fjerne en af modspillerens brikker. Målet med spillet er at reducere modspilleren til to brikker eller blokere alle modspillerens træk.
+Spillet spilles på et særligt bræt.
+Hver spiller har ni brikker. Alle brikker har samme egenskaber. Typisk er brikkerne sorte og hvide.
+Spillerne placerer skiftevis en brik på brættet. Brikken skal placeres på et af de 24 steder , hvor en lodret og en vandret linje mødes. Hvis man får placeret tre af sine brikker på stribe, har man en "mølle" og må fjerne en af modspillerens brikker. Dog skal man fjerne en brik, der ikke indgår i en "mølle", hvis det er muligt. Indgår alle modstandernes brikker i møller må man gerne fjerne én af dem.
+Når alle brikker er placeret, ændres spillet, således at man må flytte en brik til et nabokryds. Man må ikke hoppe over brikker. Hvis man åbner en mølle kan man i næste træk lukke den igen og derved danne en mølle og fjerne en af modstandernes brikker.
+Den optimale strategi er at placere sine brikker således at man har tre brikker i en mølle og kan flytte den ene af disse over til to andre, så denne brik kommer til at indgå i en ny mølle. Så kan man fjerne en af modstanderens brikker i hvert træk. Denne kombinationen kaldes en "svikmølle" eller en "dobbeltmølle" og en spiller der får dannet en sådan vil oftest vinde spillet.
+Når den ene spiller kun har tre brikker tilbage, må dennes brikker "springe" – de behøver således ikke følge linjerne, men kan flyttes til ethvert ledigt kryds.
+Når den ene spiller kun har to brikker tilbage, eller hvis man ikke kan flytte sine brikker fordi modstanderen har blokeret dem, så har man tabt.
+I oktober 1993 fandt Ralph Gasser at mølle ender uafgjort hvis begge spillere spiller optimalt. Gasser udviklede desuden en AI kaldet Bushy som betragtes som verdens stærkeste spiller.
+Når ens modspiller har en svikmølle, er det overordentlig ubehageligt. Dette har ført til at en "svikmølle" i overført betydning er en ond situation, man ikke kan gøre noget for at komme ud af – en ond cirkel.
+Svikmøllen er et dansk satirisk hæfte, som udkommer hvert år op til jul.

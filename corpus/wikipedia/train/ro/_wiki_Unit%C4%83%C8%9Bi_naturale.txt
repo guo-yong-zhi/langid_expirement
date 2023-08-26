@@ -1,0 +1,3 @@
+În fizică, unități naturale sunt unități de măsură definite în funcție de una sau mai multe constante fizice universale. Într-un sistem de unități naturale, constantele selectate în acest scop sunt normate la unitate, adică au valoarea 1.
+Utilizarea unor unități naturale este avantajoasă în probleme care comportă calcule laborioase ale unor expresii matematice complicate. Ele prezintă dezavantajul că în expresiile calculate dimensiunile fizice nu sunt evidente, întrucât simbolurile mărimilor respective sunt înlocuite prin valoarea numerică 1.
+În teoria cuantică relativistă se utilizează sistemul de unități naturale bazat pe constanta Planck redusă  și viteza luminii în spațiu liber .

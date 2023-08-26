@@ -1,0 +1,27 @@
+En estadística, un model lineal generalitzat  és una generalització flexible de la regressió lineal ordinària. El GLM generalitza la regressió lineal permetent que el model lineal estigui relacionat amb la variable de resposta mitjançant una funció d'enllaç i permetent que la magnitud de la variància de cada mesura sigui una funció del seu valor previst. 1 
+John Nelder i Robert Wedderburn van formular models lineals generalitzats com una manera d'unificar altres models estadístics, incloent la regressió lineal, la regressió logística i la regressió de Poisson. 2  Van proposar un mètode iteratiu de mínims quadrats reponderat iterativament per a l'estimació de màxima probabilitat  dels paràmetres del model. MLE segueix sent popular i és el mètode predeterminat en molts paquets de computació estadística. S'han desenvolupat altres enfocaments, inclosa la regressió bayesiana i els mínims quadrats que s'ajusten a les respostes estabilitzades per variància. 3 
+En un model lineal generalitzat , se suposa que cada resultat Y de les variables dependents es genera a partir d'una distribució particular en una família exponencial, una gran classe de distribucions de probabilitat que inclou les distribucions normals, binomials, de Poisson i gamma, entre d'altres.. La mitjana, μ, de la distribució depèn de les variables independents, X, a través de:  4 
+  
+    
+      
+        E
+         
+        
+        =
+        
+           
+        
+        =
+        
+          g
+          
+             
+            1
+          
+        
+        
+      
+    
+     ==g^
+  
+El GLM consta de tres elements:

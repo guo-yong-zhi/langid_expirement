@@ -1,0 +1,25 @@
+• phospholipase inhibitor activity• queuine tRNA-ribosyltransferase activity
+• photoreceptor inner segment• цитоплазма• гіалоплазма• photoreceptor outer segment• cell projection• Війка• клітинне ядро
+• queuosine biosynthetic process• G protein-coupled receptor signaling pathway• response to stimulus• зір• phototransduction• GO:0048553 negative regulation of catalytic activity
+PDC  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 1-ї хромосоми.  3  Довжина поліпептидного ланцюга білка становить 246 амінокислот, а молекулярна маса — 28 246 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Локалізований у цитоплазмі, ядрі, клітинних відростках, війках.
+  Портал «Біологія»   Портал «Хімія»                       

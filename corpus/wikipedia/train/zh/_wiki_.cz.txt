@@ -1,0 +1,34 @@
+.cz為捷克國家及地區頂級域的域名。它由捷克網絡信息中心（CZ.NIC）管理，所有申請者必須向得到授權的域名登記處進行訂購和登記後才可使用該域名。捷克的前身捷克斯洛伐克在1993年天鵝絨離婚前，是使用.cs作為其域名。
+該域名的最長可准許長度為63個字元，而這域名只可以由字母、數字或連字符（-）所組成。當中連字符又被限制為不可以在域名的開首和末端中出現，以及不允許連續地使用。 1 截至2013年，.cz總共有6個達到63個字元的域名。 2 
+該域名隨著天鵝絨離婚後在1993年1月正式生效。 3 2009年，一條新的歐盟法規正式實施，該法令容許在.eu域名之下的第二層域名中使用變音符號。在各歐盟成員國之中，捷克客戶為僅次於德國客戶之後第二感興趣於這些含有變音符號的新域名，而法國客戶則排在第三位。可是，.cz域名的運營商捷克網絡信息中心公司決定只會繼續提供含有標準字母的域名，因為該公司認為這些新域名在數量上並不足夠供應給申請者，以及新域名會減少在捷克國外的易親近性。 4 
+在2011年末期，超過85萬個網站已使用.cz作為其域名。 5 而於2012年，該數字更超過了100萬， 3 這使捷克成為歐盟第12個其頂級域名擁有100萬活躍域名的成員國。 6 
+2011年末，捷克網絡信息中心公佈了其所有域名的擁有者，當中58%的擁有者為個人，被描述為少數的機構擁有者則為剩下的42%。 5 另外，擁有最多域名的城市為布拉格，其次為布爾諾和俄斯特拉發。 5 
+A .ac .ad .ae .af .ag .ai .al .am .ao .aq .ar .as .at .au .aw .ax .az  
+B .ba .bb .bd .be .bf .bg .bh .bi .bj .bm .bn .bo .br .bs .bt .bw .by .bz  
+C .ca .cc .cd .cf .cg .ch .ci .ck .cl .cm .cn .co .cr .cu .cv .cw .cx .cy .cz  
+D .de .dj .dk .dm .do .dz  
+E .ec .ee .eg .er .es .et .eu  
+F .fi .fj .fk .fm .fo .fr  
+G .ga .gd .ge .gf .gg .gh .gi .gl .gm .gn .gp .gq .gr .gs .gt .gu .gw .gy  
+H .hk .hm .hn .hr .ht .hu  
+I .id .ie .il .im .in .io .iq .ir .is .it  
+J .je .jm .jo .jp  
+K .ke .kg .kh .ki .km .kn .kp .kr .kw .ky .kz  
+L .la .lb .lc .li .lk .lr .ls .lt .lu .lv .ly  
+M .ma .mc .md .me .mg .mh .mk .ml .mm .mn .mo .mp .mq .mr .ms .mt .mu .mv .mw .mx .my .mz  
+N .na .nc .ne .nf .ng .ni .nl .no .np .nr .nu .nz  
+O .om  
+P .pa .pe .pf .pg .ph .pk .pl .pm .pn .pr .ps .pt .pw .py  
+Q .qa  
+R .re .ro .rs .ru .rw  
+S .sa .sb .sc .sd .se .sg .sh .si .sk .sl .sm .sn .so .sr .ss .st .su .sv .sx .sy .sz  
+T .tc .td .tf .tg .th .tj .tk .tl .tm .tn .to .tr .tt .tv .tw .tz  
+U .ua .ug .uk .us .uy .uz  
+V .va .vc .ve .vg .vi .vn .vu  
+W .wf .ws  
+Y .ye .yt  
+Z .za .zm .zw
+.κπ（kp，塞浦路斯） .日本（Nippon，日本）
+.bl .bq .eh .mf
+.bv .gb .sj
+.an .bu .cs .dd .tp .um .yu .zr

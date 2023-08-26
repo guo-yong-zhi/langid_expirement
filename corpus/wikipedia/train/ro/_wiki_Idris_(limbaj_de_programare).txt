@@ -1,0 +1,29 @@
+Idris este un limbaj de programare pur funcțional, cu scop general, cu tipuri dependente, evaluare lenească strictă sau opțională și caracteristici cum ar fi o verificare a totalității.
+Chiar înainte de utilizarea posibilă a teoriei interactive, Idris se concentrează pe programarea generală, cum ar fi Haskell pur funcțional și cu performanță suficientă. Sistemul de tip Idris este similar celui folosit de Agda și teorema-dovedind în el este similar cu Coq, inclusiv tactici. În comparație, Idris are o prioritate în gestionarea ușoară a efectelor secundare și a suportului pentru implementarea limbilor specifice domeniului încorporat. 
+Începând cu luna mai 2017, Idris se compilează la C  și JavaScript . Există, de asemenea, un număr de generatoare de coduri terțe pentru alte platforme, inclusiv Java, JVM, CIL, OCaml și un backend parțial LLVM. 4 
+Numele Idris se întoarce la caracterul dragonului cântând în programul de televiziune pentru copii britanici Ivor the Engine din anii 1970. 5 
+Idris combină o serie de caracteristici din limbile de programare funcționale relativ importante, cu caracteristici împrumutate de la asistenții de probă.
+Sintaxa lui Idris arată multe asemănări cu cele ale lui Haskell. Un Program Hello, world! în Idris ar putea arăta astfel:
+    module     Main 
+ main     :     IO      
+main    =    putStrLn    "Hello, World!" 
+    data     Tree    a    =     Node               |     Leaf    a
+    data     Tree     :     Type     ->     Type     where 
+       Node     :     Tree    a    ->     Tree    a    ->     Tree    a
+       Leaf     :    a    ->     Tree    a
+    data     Vect     :     Nat     ->     Type     ->     Type     where 
+     Nil      :     Vect     0    a
+          :          ->          ->     Vect         a
+    total 
+ append     :     Vect    n   a    ->     Vect    m   a    ->     Vect         a
+append    Nil          ys    =    ys
+append        ys    =    x    ::    append   xs   ys
+    total 
+ pairAdd     :     Num    a    =>     Vect    n   a    ->     Vect    n   a    ->     Vect    n   a
+pairAdd    Nil           Nil           =     Nil 
+pairAdd              =    x    +    y    ::    pairAdd   xs   ys
+</prNum a înseamnă că tipul a aparține clasei de tip Num. Rețineți că această funcție continuă să fie verificată cu succes în totalitate, chiar dacă nu există niciun caz care să se potrivească cu Nil într-un vector și un număr în celălalt. Deoarece ambii vectori sunt asigurați de sistemul de tip pentru a avea exact aceeași lungime, putem fi siguri la momentul compilării că acest caz nu va avea loc. Prin urmare, nu este necesar să se menționeze pentru ca funcția să fie totală.
+Tipurile dependente sunt suficient de puternice pentru a codifica cele mai multe proprietăți ale programelor, iar un program Idris se poate dovedi invarianți în timpul compilării. Asta face Idris să devină asistent de probă.
+Există două modalități standard de a interacționa cu asistenții dovezi: prin scrierea unei serii de invocări tactice  sau prin elaborarea interactivă a unui termen de probă . Idris sprijină ambele moduri de interacțiune, deși setul de tactici disponibile nu este încă la fel de util ca cel al Coq.
+Deoarece Idris conține un asistent de probă, programele Idris pot fi scrise pentru a face dovada în jur. Dacă sunt tratați naiv, aceste dovezi rămân în jur la timpul de execuție. Idris urmărește să evite această capcană prin ștergerea agresivă a termenilor neutilizați 6 , cu rezultate promițătoare 7 .
+Implicit, Idris generează cod nativ prin C. Sunt disponibile și alte backend-uri pentru generarea JavaScript și Java.

@@ -1,0 +1,7 @@
+La paradoja de Allais es un problema de elección diseñado por Maurice Allais para mostrar una inconsistencia en la teoría de la utilidad esperada relativa a la divergencia entre los valores predictos y los observados.
+La paradoja de Allais consiste en la combinación de dos experimentos, en los que a la persona se le ofrecen dos opciones.
+En varios estudios se halló que la mayoría de la gente elige las opciones 1A y 2B. Esto es inconsistente con la teoría de utilidad esperada, que indica que una persona debería elegir 1A y 2A, o bien 1B y 2B.
+Para comprender la paradoja, los experimentos se reescriben de la siguiente manera:
+Con esta formulación, se aprecia que en ambos experimentos la opción A significa recibir 1 millón de dólares con probabilidad 11%, mientras que la opción B significa 5 millones con probabilidad 10%, o nada con probabilidad 1%. El restante 89% de probabilidad corresponde al mismo efecto en ambas opciones del experimento: recibir 1 millón de dólares en el primer experimento, y recibir nada en el segundo experimento.
+Así, la teoría de utilidad esperada afirma que una persona debería preferir la opción A o la B, según si prefiere un retorno bajo y seguro, o si prefiere un retorno alto e inseguro.
+Sin embargo, los estudios muestran que la gente prefiere las opciones 1A y 2B, de manera que prefiere un retorno bajo y seguro en el primer experimento, y un retorno alto e inseguro en el segundo experimento. Esto es inconsistente con la teoría de utilidad esperada.

@@ -1,0 +1,3 @@
+Windows Terminal  は、マイクロソフトによって開発されたWindows 10およびWindows 11向けの端末エミュレータである 2 。MITライセンスの下で公開されており、コマンドプロンプト、PowerShell、WSL及びSSHに対応している 3 。GitHubにおいてソースコードが公開された後、2019年6月21日にMicrosoft Storeにおいてプレビュー版が公開された 4 。
+2022年後半に行われる予定のWindows 11の「22H2」の大型アップデートにおいて、コマンドプロンプトやPowerShellに代わり「Windows Terminal」が“デフォルト”のCUIになる予定。 5 
+マイクロソフトはコマンドラインインタフェース向けの新しい等幅フォントとしてCascadia Code  を公開した。このフォントにはプログラミングのための合字が含まれており、Windows Terminal、コンソールアプリケーション、Visual StudioやVisual Studio Codeのようなソースコードエディタのルック・アンド・フィールを向上させるように設計されている 8 。このフォントは2019年5月にWindows Terminalと同時に発表され 9 、同年9月にOFL 1.1の下で公開されたオープンソースのフォントであり、ソースコードはGitHubで公開されている 10 。マイクロソフトによると、このフォントは将来のWindows Terminalのリリースで同梱される予定である 8 。

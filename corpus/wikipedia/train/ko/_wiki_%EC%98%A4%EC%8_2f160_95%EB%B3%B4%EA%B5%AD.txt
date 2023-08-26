@@ -1,0 +1,3 @@
+
+.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct.mw-parser-output .longitude,.mw-parser-output .latitude
+오스트레일리아 비밀정보국은 오스트레일리아의 정보 기관이다. 오스트레일리아 비밀정보국은 영국 비밀정보청 과 미국 중앙정보국 과 상응한다.
