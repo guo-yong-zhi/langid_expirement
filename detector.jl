@@ -28,7 +28,7 @@ Initialize the language detector with the given parameters. This function must b
 
 # Arguments
 - `languages::Vector{String}`: A list of languages to be used for language detection. If this argument is not provided, all the languages returned by the [`supported_languages`](@ref) function will be used.
-- `ngram::Union{Int, AbstractRange}`: The length of character n-grams to use for language detection. A range can be provided to use multiple n-gram sizes. An integer value will be converted to a range from 1 to the given value. The default value is 4.
+- `ngram::Union{Int, AbstractRange}`: The length of utf-8 byte n-grams to use for language detection. A range can be provided to use multiple n-gram sizes. An integer value will be converted to a range from 1 to the given value. The default value is 4.
 - `cutoff::Float64`: The cutoff value of the cumulative probability of the n-grams to use for language detection. The default value is 0.85, and it must be between 0 and 1.
 - `vocabulary_size::Int`: The maximum size of the vocabulary of each language. The default value is 100000.
 """
@@ -89,7 +89,7 @@ Return the language of the given text based on the provided language profiles.
 - `text::AbstractString`: The text to identify the language of.
 - `languages::Vector{String}`: The list of languages to choose from. Omitting this argument will use all supported languages.
 - `profiles::Vector{Dict{Vector{UInt8}, Float32}}`: The language profiles to use for identification. Omitting this argument will use the default profiles.
-- `ngram::Union{Int, AbstractRange}`: The length of character n-grams to use for language detection. The default value is the value set in [`initialize`](@ref), and should not exceed that value.
+- `ngram::Union{Int, AbstractRange}`: The length of utf-8 byte n-grams to use for language detection. The default value is the value set in [`initialize`](@ref), and should not exceed that value.
 # Returns
 - The language of the given text.
 """
@@ -116,7 +116,7 @@ Returns the probability distribution of the language of the given text based on 
 - `languages::Vector{String}`: A list of languages to choose from. If this argument is not provided, all the languages returned by the [`supported_languages`](@ref) function will be used.
 - `profiles::Vector{Dict{Vector{UInt8}, Float32}}`: The language profiles to use for identification. If this argument is not provided, the default profiles will be used.
 - `topk::Int`: The number of candidates to return. The default value is 5.
-- `ngram::Union{Int, AbstractRange}`: The length of character n-grams to use for language detection. The default value is the value set in [`initialize`](@ref), and should not exceed that value.
+- `ngram::Union{Int, AbstractRange}`: The length of utf-8 byte n-grams to use for language detection. The default value is the value set in [`initialize`](@ref), and should not exceed that value.
 
 # Returns
 - A list of the `topk` languages and their probabilities.
