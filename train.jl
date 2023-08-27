@@ -14,6 +14,8 @@ mutable struct Model
     langs_inds::Dict{String, Int}
     Qs::Vector{Dict{Vector{UInt8}, Float32}}
     default_q::Float32
+    cutoff_list::Vector{Float32}
+    ngram::Int
 end
 
 function Model(path)
@@ -28,13 +30,20 @@ function Model(path)
         push!(Qs, D)
     end
     default_q = minimum(minimum.(values.(Qs)))
-    Model(langs, langs_inds, Qs, default_q)
+    Model(langs, langs_inds, Qs, default_q, fill(typemin(Float32), length(langs)), 7)
 end
 
-function loglikelihood(P, Q, default_q)
+function loglikelihood(P, Q, default_q, cutoff)
     sc = 0.0
     for (code, p) in P
-        q = haskey(Q, code) ? Q[code] : default_q
+        if haskey(Q, code)
+            q = Q[code]
+            if q < cutoff
+                q = default_q
+            end
+        else
+            q = default_q
+        end
         sc += p * log_sigmoid(q)
     end
     sc
@@ -44,15 +53,16 @@ function loss(lls, ys)
     sum(ys .* (log.(sum(exp.(lls .- m))) .+ m .- lls)) # softmax & cross entropy
 end
 function get_loss(params, p::AbstractDict, ys::AbstractVector)
-    lls = [loglikelihood(p, Q, params.default_q) for Q in params.Qs]
+    lls = [loglikelihood(p, Q, params.default_q, c)
+            for (c, Q) in zip(params.cutoff_list, params.Qs)]
     loss(lls, ys)
 end
 function get_loss(params, batch::AbstractVector{<:AbstractDict}, ys::AbstractMatrix)
     sum(get_loss.(Ref(params), batch, eachcol(ys))) / size(ys, 2)
 end
-function loss_and_grad(params, p, ys)
+function loss_and_grad(params, params_aux, p, ys)
     val, grad = withgradient(params) do params
-        get_loss(params, p, ys)
+        get_loss(merge(params, params_aux), p, ys)
     end
     val, grad[1]
 end
@@ -72,11 +82,50 @@ end
 function loss_and_grad(model::Model, args...; kwargs...)
     x, y = preprocess_data(args...; kwargs...)
     params = (Qs=model.Qs, default_q=model.default_q)
-    loss_and_grad(params, x, y)
+    params_aux = (cutoff_list=model.cutoff_list,)
+    loss_and_grad(params, params_aux, x, y)
 end
 function step!(model, grad, lr=1e-3)
-    model.default_q -= lr * grad.default_q
+    if grad.default_q !== nothing
+        model.default_q -= lr * grad.default_q
+    end
     for (D1, D2) in zip(model.Qs, grad.Qs)
         mergewith!((v1, v2) -> v1 - lr * v2, D1, D2)
+    end
+end
+
+function cutoff_value_by_size(tb, ngram, s)
+    vs = [v for (k, v) in tb if length(k)<=ngram]
+    s >= length(vs) ? minimum(vs) : partialsort(vs, s, rev=true)
+end
+function cutoff_value_by_ratio(tb, ngram, r)
+    logits = [v for (k, v) in tb if length(k)<=ngram]
+    probs = sigmoid.(logits)
+    si = sortperm(probs, rev=true)
+    logits = logits[si]
+    probs = probs[si]
+    cs = cumsum(probs)
+    ind = findfirst(x -> x >= r * cs[end], cs)
+    ind == nothing ? typemin(valtype(tb)) : logits[ind]
+end
+function cutoff_value_by_size(m::Model, ngram, s)
+    for (i, tb) in enumerate(m.Qs)
+        m.cutoff_list[i] = cutoff_value_by_size(tb, ngram, s)
+    end
+    m.ngram = ngram
+end
+function cutoff_value_by_ratio(m::Model, ngram, r)
+    for (i, tb) in enumerate(m.Qs)
+        m.cutoff_list[i] = cutoff_value_by_ratio(tb, ngram, r)
+    end
+    m.ngram = ngram
+end
+
+function random_cutoff(m::Model)
+    ngram = rand([1:7; 3:7; 3:5])
+    if rand() < 0.5
+        cutoff_value_by_size(m, ngram, rand(100:20000))
+    else
+        cutoff_value_by_ratio(m, ngram, rand(0.5:0.01:1.0))
     end
 end

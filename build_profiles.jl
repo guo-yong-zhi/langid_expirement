@@ -3,7 +3,7 @@ include("ngrams.jl")
 
 function cutoff_point(D, r)
     cs = cumsum(last.(D))
-    findfirst(x -> x > r * cs[end], cs)
+    findfirst(x -> x >= r * cs[end], cs)
 end
 function sum_ngrams(D)
     counter = Float32[]
