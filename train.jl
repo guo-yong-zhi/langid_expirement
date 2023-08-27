@@ -85,7 +85,7 @@ function loss_and_grad(model::Model, args...; kwargs...)
     params_aux = (cutoff_list=model.cutoff_list,)
     loss_and_grad(params, params_aux, x, y)
 end
-function step!(model, grad, lr=1e-3)
+function step!(model, grad, lr::Float32=0.01f0)
     if grad.default_q !== nothing
         model.default_q -= lr * grad.default_q
     end
