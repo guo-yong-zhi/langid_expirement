@@ -30,7 +30,7 @@ function count_all_ngrams(text::AbstractString, rg::AbstractRange=1:5, counter=D
     end
     counter
 end
-function count_all_ngrams(text::AbstractString, n::Int=5, counter=Dict{Vector{UInt8},Float32}(); kwargs...)
+function count_all_ngrams(text::AbstractString, n::Int, counter=Dict{Vector{UInt8},Float32}(); kwargs...)
     count_all_ngrams(text, 1:n, counter; kwargs...)
 end
 

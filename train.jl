@@ -61,19 +61,19 @@ end
 function get_loss(params, batch::AbstractVector{<:Tuple{<:AbstractDict, <:AbstractVector}})
     sum(get_loss.(Ref(params), batch)) / length(batch)
 end
-function get_loss(params, data)
-    get_loss(params, preprocess_data(data, params.ngram))
+function get_loss(model::Model, data)
+    get_loss(model, preprocess_data(data, model.ngram, model.langs_inds))
 end
-function preprocess_data(x_y::Union{Tuple, Pair}, ngram)
+function preprocess_data(x_y::Union{Tuple, Pair}, ngram, langs_inds::Dict{String, Int})
     x, y = x_y
-    yi = M.langs_inds[y]
-    onehot = zeros(Float32, length(M.languages))
+    yi = langs_inds[y]
+    onehot = zeros(Float32, length(langs_inds))
     onehot[yi] = 1.0
     p = count_all_ngrams(x, ngram) |> normalize!
     (p, onehot)
 end
-function preprocess_data(data::AbstractVector, ngram)
-    preprocess_data.(data, Ref(ngram))
+function preprocess_data(data::AbstractVector, ngram, langs_inds::Dict{String, Int})
+    [preprocess_data(d, ngram, langs_inds) for d in data]
 end
 function loss_and_grad(params, params_aux, p_ys)
     val, grad = withgradient(params) do params
@@ -81,10 +81,10 @@ function loss_and_grad(params, params_aux, p_ys)
     end
     val, grad[1]
 end
-function loss_and_grad(model::Model, args...; kwargs...)
+function loss_and_grad(model::Model, data, ngram)
     params = (Qs=model.Qs, default_q=model.default_q)
     params_aux = (cutoff_list=model.cutoff_list,)
-    data = preprocess_data(args...; kwargs...)
+    data = preprocess_data(data, ngram, model.langs_inds)
     loss_and_grad(params, params_aux, data)
 end
 function step!(model::Model, grad, lr::Float32=0.01f0)
