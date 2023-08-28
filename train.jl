@@ -61,14 +61,14 @@ end
 function get_loss(params, batch::AbstractVector{<:Tuple{<:AbstractDict, <:AbstractVector}})
     sum(get_loss.(Ref(params), batch)) / length(batch)
 end
-function get_loss(model::Model, data)
+function get_loss(model, data)
     get_loss(model, preprocess_data(data, model.ngram, model.langs_inds))
 end
 function preprocess_data(x_y::Union{Tuple, Pair}, ngram, langs_inds::Dict{String, Int})
     x, y = x_y
     yi = langs_inds[y]
-    onehot = zeros(Float32, length(langs_inds))
-    onehot[yi] = 1.0
+    onehot = fill(Float32(0.1/(length(langs_inds)-1)), length(langs_inds))
+    onehot[yi] = 0.9
     p = count_all_ngrams(x, ngram) |> normalize!
     (p, onehot)
 end
