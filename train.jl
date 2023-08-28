@@ -48,6 +48,21 @@ function loglikelihood(P, Q, default_q, cutoff)
     end
     sc
 end
+function accuracy(lls, ys)
+    argmax(lls) == argmax(ys)
+end
+function get_accuracy(params, p_ys::Tuple{<:AbstractDict, <:AbstractVector})
+    p, ys = p_ys
+    lls = [loglikelihood(p, Q, params.default_q, c)
+            for (c, Q) in zip(params.cutoff_list, params.Qs)]
+    accuracy(lls, ys)
+end
+function get_accuracy(params, batch::AbstractVector{<:Tuple{<:AbstractDict, <:AbstractVector}})
+    sum(get_accuracy.(Ref(params), batch)) / length(batch)
+end
+function get_accuracy(model, data)
+    get_accuracy(model, preprocess_data(data, model.ngram, model.langs_inds))
+end
 function loss(lls, ys)
     m = maximum(lls)
     sum(ys .* (log.(sum(exp.(lls .- m))) .+ m .- lls)) # softmax & cross entropy
