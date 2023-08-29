@@ -29,8 +29,8 @@ function Model(path::AbstractString)
         map!(logit, values(D))
         push!(Qs, D)
     end
-    default_q = minimum(minimum.(values.(Qs)))
-    Model(langs, langs_inds, Qs, default_q, fill(typemin(Float32), length(langs)), 7)
+    cutoff_list = minimum.(values.(Qs))
+    Model(langs, langs_inds, Qs, -2.0, cutoff_list, 7)
 end
 
 function loglikelihood(P, Q, default_q, cutoff)
@@ -38,15 +38,32 @@ function loglikelihood(P, Q, default_q, cutoff)
     for (code, p) in P
         if haskey(Q, code)
             q = Q[code]
-            if q < cutoff
-                q = default_q
+            if q >= cutoff
+                logq = log_sigmoid(q)
+            else
+                logq = log_sigmoid(default_q + cutoff) 
             end
         else
-            q = default_q
+            logq = log_sigmoid(default_q + cutoff)
         end
-        sc += p * log_sigmoid(q)
+        sc += p * logq
     end
     sc
+end
+function accuracy(lls, ys)
+    argmax(lls) == argmax(ys)
+end
+function get_accuracy(params, p_ys::Tuple{<:AbstractDict, <:AbstractVector})
+    p, ys = p_ys
+    lls = [loglikelihood(p, Q, params.default_q, c)
+            for (c, Q) in zip(params.cutoff_list, params.Qs)]
+    accuracy(lls, ys)
+end
+function get_accuracy(params, batch::AbstractVector{<:Tuple{<:AbstractDict, <:AbstractVector}})
+    sum(get_accuracy.(Ref(params), batch)) / length(batch)
+end
+function get_accuracy(model, data)
+    get_accuracy(model, preprocess_data(data, model.ngram, model.langs_inds))
 end
 function loss(lls, ys)
     m = maximum(lls)
@@ -92,7 +109,7 @@ function step!(model::Model, grad, lr::Float32=0.01f0)
         model.default_q -= lr * grad.default_q
     end
     for (D1, D2) in zip(model.Qs, grad.Qs)
-        mergewith!((v1, v2) -> v1 - lr * v2, D1, D2)
+        D2 !== nothing && mergewith!((v1, v2) -> v1 - lr * v2, D1, D2)
     end
 end
 
@@ -108,7 +125,7 @@ function cutoff_value_by_ratio(tb, ngram, r)
     probs = probs[si]
     cs = cumsum(probs)
     ind = findfirst(x -> x >= r * cs[end], cs)
-    ind === nothing ? typemin(valtype(tb)) : logits[ind]
+    ind === nothing ? minimum(logits) : logits[ind]
 end
 function cutoff_value_by_size(m::Model, ngram, s)
     for (i, tb) in enumerate(m.Qs)
