@@ -1,0 +1,3 @@
+BDD  este o bază de date bibliografică și bibliometrică, care cuprinde articole, cărți și recenzii din domeniile lingvisticii, filologiei, sociolingvisticii, traductologiei biblice, lingvisticii corpusurilor, paremiologiei și antropologiei. Baza de date este creată și întreținută de către Revista „Diacronia”.
+BDD cuprinde informații bibliografice , rezumate, cuvinte-cheie, informații bibliometrice , și, pentru multe din publicațiile indexate, versiuni integrale în format pdf.
+Căutarea se poate face după autor, titlu, rezumate, cuvinte-cheie sau după tipul publicației .

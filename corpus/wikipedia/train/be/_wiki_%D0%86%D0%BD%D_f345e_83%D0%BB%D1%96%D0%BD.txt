@@ -1,0 +1,25 @@
+1ai0, 1aiy, 1aph, 1b17, 1b18, 1b19, 1b2a, 1b2b, 1b2c, 1b2d, 1b2e, 1b2f, 1b2g, 1b9e, 1ben, 1bph, 1cph, 1dph, 1ev3, 1ev6, 1evr, 1fu2, 1fub, 1g7a, 1g7b, 1guj, 1hiq, 1hit, 1hls, 1htv, 1iza, 1izb, 1j73, 1jca, 1jco, 1lph, 1m5a, 1mhi, 1mhj, 1mpj, 1mso, 1os3, 1os4, 1q4v, 1qiy, 1qiz, 1qj0, 1rwe, 1sf1, 1t0c, 1trz, 1tyl, 1tym, 1uz9, 1w8p, 1wav, 1xda, 1xgl, 1xw7, 1zeg, 1zeh, 1zni, 1znj, 2a3g, 2aiy, 2bn1, 2bn3, 2c8q, 2c8r, 2g4m, 2g54, 2g56, 2hiu, 2ins, 2omg, 2omh, 2omi, 2tci, 3aiy, 3ins, 3mth, 4aiy, 4ins, 5aiy, 6ins, 7ins, 9ins
+• hormone activity 
+• protein binding 
+• glucose metabolic process 
+• generation of precursor metabolites and energy 
+• acute-phase response 
+• cell surface receptor linked signal transduction 
+• cell-cell signaling 
+• cell death 
+• glucose transport 
+• negative regulation of protein catabolic process 
+• positive regulation of nitric oxide biosynthetic process 
+• negative regulation of vasodilation 
+• positive regulation of vasodilation 
+• alpha-beta T cell activation 
+• regulation of protein secretion 
+• positive regulation of cytokine secretion 
+Інсулін  — гармон пепціднай прыроды, утвараецца ў бэта-клетках астраўкоў Лангерганса падстраўнікавай залозы. Аказвае ўплыў на абмен практычна ва ўсіх тканках. Асноўнае дзеянне інсуліну заключаецца ў зніжэнні канцэнтрацыі глюкозы ў крыві.
+Інсулін павялічвае пранікальнасць плазматычных мембран для глюкозы, актывуе ключавыя ферменты гліколіза, стымулюе ўтварэнне ў печані і цягліцах з глюкозы глікагену, узмацняе сінтэз тлушчаў і бялкоў. Акрамя таго, інсулін душыць актыўнасць ферментаў, якія расшчапляюць глікаген і тлушчы. Гэта значыць, акрамя анабалічнага дзеяння, інсулін валодае таксама і антыкатабалічным эфектам.
+Парушэнне сакрэцыі інсуліну з прычыны дэструкцыі бэта-клетак — абсалютная недастатковасць інсуліну — з’яўляецца ключавым звяном патагенезу цукровага дыябету 1-га тыпу. Парушэнне дзеяння інсуліну на тканкі — адносная інсулінавыя недастатковасць — мае важнае месца ў развіцці цукровага дыябету 2-га тыпу.
+ Яечнікі: эстрадыёл    прагестэрон    актывін і інгібін    рэлаксін 
+ Шышкападобнае цела: мелатанін
+ Тлушчавая тканка: лептын    адыпанектын    рэзістын
+Шкілет: Астэакальцын
+ Ныркі: JGA     перытубулярныя клеткі     кальцытрыёл    простагландзін

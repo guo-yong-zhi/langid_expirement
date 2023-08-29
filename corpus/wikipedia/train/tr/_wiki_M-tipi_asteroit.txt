@@ -1,0 +1,96 @@
+M tipi  asteroitler, diğer asteroit sınıflarına göre daha yüksek oranlarda demir-nikel gibi metal fazları içerdiği görülen ve yaygın olarak demir göktaşlarının kaynağı olduğu düşünülen spektral bir asteroit sınıfıdır. 1  2 
+Bu sınıfa dahil olan Asteroitler, genel olarak saf ve düz kırmızımsı eğimli absorpsiyon spektrumlarına ve orta derecede optik albedolarına göre M tipi olarak sınıflandırılır. Spektral olarak E-tipi ve P-tipi asteroitlerle birlikte daha büyük X-tipi asteroit grubuna dahil edilirler. Bu sınıflandırma öncesinde E ve P tipleri M tipinin içinde yer almaktaydı. Bu nedenle diğerlerinden yalnızca aşağıda gösterilen optik albedo farklılıkları ile ayırt edilebilirler. 3 
+Sınıflandırmada kullanılan "M" harfinin nedeni olan metal açısından zengin olduğu yaygın olarak varsayılsa bile, M-tipi asteroitlerdeki yüksek metal içeriğine dair kanıtlar, makul olmakla birlikte dolaylıdır. Spektrumları demir göktaşları ve enstatit kondritlerinkine 4  benzerlik göstermektedir. Radar gözlemleri, albedolarının diğer asteroit sınıflarından çok daha yüksek düzeylerde olduğuna işaret etmektedir. 5  Bu durum demir-nikel gibi daha yüksek yoğunluklu bileşimlerin var olduğu teziyle tutarlıdır. Neredeyse tüm M-tipleri, daha yaygın olan S ve C tipinden en az iki kat daha yüksek albedoya sahip olup, kabaca üçte biri ise ~3 kat daha yüksek albedoya sahiptir. 1 
+M tipinin yüksek çözünürlüklü spektrumları bazen 0,75 μm'ten uzun ve 0,55 μm'den ince küçük farklı özellikler göstermiştir. 6  Silikatların varlığı birçoğunda belirgindir 7  8  ve önemli bir kısmı 3 μm'da hidratlı silikatlara atfedilen soğurma özelliklerinin kanıtlarını göstermektedir. 9  Bu silikat varlığı, M tipi asteroitlerin demir çekirdeklerden oluştuğu yönündeki geleneksel iddiaların güvenilirliğini azaltmaktadır. 
+Bir asteroitin kütle yoğunluğu, bileşikleri ve diğer göktaşlarıyla olan benzerleri hakkında ipuçları sağlar. 10  M-tipleri için, önerilen analoglar bazı karbonlu kondrit türleri için ~3 g/cm3 ile demir-meteoritlerde bulunan demir-nikel için yaklaşık 8 g/cm3 arasında değişen kütle yoğunlukları olarak belirtilmektedir. 2  4  9  Bir asteroitin hacimsel yoğunluğu ve onu oluşturan malzemelerin yoğunluğu göz önüne alındığında, gözenekliliği hesaplanabilir. Bu kapsamda da asteroitin iç yapısı hakkında tutarlı bir cisim olup olmadığı veya bir moloz yığını mı yoksa ikisinin arasında bir şey olup olmadığı gibi çıkarımlar yapılabilir. 10 
+Bir asteroitin kütle yoğunluğunu hesaplamak için kütlesinin ve hacminin doğru bir şekilde belirlenmesi gerekmektedir. Ancak asteroitlerin diğer Güneş Sistemi nesnelerine oranla küçük olan boyutları göz önüne alındığında bunların her ikisini de elde etmek zordur. Daha büyük asteroitler söz konusu olduğunda ise yerçekimi alanlarında bulunan diğer asteroitleri ve yörüngelerinde dönen uzay araçları gibi cisimler de dahil olmak üzere diğer nesneleri nasıl etkilediğini gözlemleyerek kütleleri tahmin edilebilir. 11  Bir asteroidin bir veya daha fazla uydusu bulunuyorsa, örneğin iki cisim probleminde, cisimlerin kütlelerini tahmin etmek için toplu yörünge parametreleri kullanılabilir.
+Bir asteroitin hacmini tahmin etmek için en azından çapının tahmin edilmesi gerekmektedir. Çoğu durumda, bunlar asteroitin görsel albedosundan , örtülmeler sırasındaki kiriş uzunluklarından veya termal emisyonlarından  çıkarılabilmektedir. Bu durumda, gök bilimciler çeşitli teknikler kullanarak  veya birkaç şanslı örnekte olduğu üzere uzay aracı görüntülemelerinden  üç boyutlu şekil modelleri geliştirmeyi başarabilmektedirler.
+Bunlardan uzay aracı sapması veya uyduların yörüngeleri aracılığıyla yapılan kütle ölçümleri en güvenilir olanları kabul edilir. Efemeris tahminleri, o asteroit üzerindeki diğer nesnelerin ince yerçekimsel çekimine veya tam tersine dayanmakta olup, daha az güvenilir kabul edilmektedir. Bunun istisnası, en büyük M-tipi asteroit olduğu ve çok sayıda kütle tahminine sahip olduğu için 16 Psyche olabilir. 12  Genellikle uyarlanabilir optiklerden, örtülmelerden ve radar görüntülemelerinden elde edilen şekil modellerine dayalı boyut tahminleri ise yine en güvenilir olanlardır. Doğrudan uzay aracı geçişi  ile görüntüleme yöntemi de oldukça güvenilirdir. Termal IR gibi dolaylı yöntemlere dayalı boyutlar  ve radar ekoları daha az güvenilir olarak kabul edilmektedir.
+M-tipi asteroitlerin hiçbiri, saf bir demir-nikel çekirdeği olduğu ile ilgili tutarlı hacimsel yoğunluğa sahip değildir. Bu nesneler gözenekliyse , o zaman bu yorum hala geçerli olabilir. Ancak alandaki genel fikir birliği, büyük boyutu nedeniyle bunun 16 Psyche için bile pek olası olmadığı yönündedir. 12  Çoğu M-tipi asteroit üzerindeki silikatların spektral kanıtları göz önüne alındığında, bunların daha düşük yoğunluklu göktaşı analoglarından moloz yığınlarından oluştukları yönünde genel itibarıyla bir fikir birliği bulunmaktadır. 12  18  20  21 
+M-tipi asteroitlere ilişkin ilk tahminler, bunların, güneş sisteminin oluşumunun erken dönemlerinde sık sık meydana geldiği düşünülen çarpışmalar sonucunda üzerlerindeki kabuk ve mantolardan sıyrılan, protogezegenlerin kalan çekirdekleri olduğu yönündeydi. 2 
+Bazı küçük M-tipi asteroitler  bu şekilde oluşmuş olabilir 22 , ancak M-tipi asteroitlerin en büyüğü olan 16 Psyche için bu tahmin geçerli değildir. 2  Psyche'nin durumuna ilişkin üç argüman ortaya atılmıştır. 2  Bunlardan ilki, Vesta boyutunda  bir protogezegen olduğu yönündedir. Ancak istatistiksel olarak, Vesta bozulmadan kalırken Psyche'nin tamamen bozulması pek olası görülmemektedir. İkincisi, Psyche ile ilişkili bir asteroit ailesi için çok az gözlemsel kanıt olması nedeniyle kesin olarak durumunun saptanamayacağı veya türünün tek örneği olduğudur. Üçüncü ve son olarak ise, çarpışmalardan kaynaklanmış olması beklenen manto parçaları  için spektroskopik kanıt bulunmadığıdır. Bunun yerine, Psyche'nin parçalanmış ve yerçekimsel olarak iyi karışmış bir demir-silikat nesnesine yeniden birikmiş bir protogezegenin kalıntısı olduğu iddia edilmiştir. 2  Böyle bir ana gövdeden nesneler haline gelebilecek çok sayıda metal-silikat meteorit, başka bir değişle mezosiderit bulunması bu iddiayı desteklemektedir.
+Bu yoruma karşı olası bir yanıt olarak, M-tipi asteroitlerin  önceleri Güneş'e  çok daha yakın bir yerde toplaştığı, burada hala erimemiş veya yarı erimiş durumdayken ince kabuklarından/mantolarından sıyrıldığı ve daha sonra dinamik olarak mevcut asteroit kuşağına doğru hareket ettikleri iddiası verilebilir. 23 
+Üçüncü bir görüş olarak ise 16 Psyche dahil olmak üzere en büyük M-tiplerinin 1 Ceres ve 4 Vesta gibi farklılaşmış cisimler olabileceği yönündedir. Ancak doğru demir ve kükürt gibi uçucu maddeler bileşikli yapısı göz önüne alındığında, bu cisimlerin hala soğumaktayken demir volkanizma yani ferrovolkanizma yaşamış olabilecekleri söylenebilir. 24 
+JPL Küçük Cisim Veritabanında, Tholen asteroit spektral taksonomi sistemi altında sınıflandırılan 980 adet asteroit bulunmaktadır. 25  Bunlardan 38'i M tipi olarak sınıflandırılmakta 26  olup, bilinen diğer 10 tanesi başlangıçta X-tipi olarak sınıflandırılmaktayken optik albedolarının 0,1 ile 0,3 arasında bulunması nedeniyle sonrada M-tipleri arasında sayılmaya başlanmıştır. 27  Genel olarak M-tipleri, Tholen taksonomisi altında sınıflandırılan asteroitlerin yaklaşık %5'ini oluşturmaktadır.
+16 Psyche, ortalama 222 km çapıyla en büyük M-tipi asteroittir ve yüzeyinin üst birkaç metresinde yüksek metal içeriğine sahip olduğunu düşündüren 
+  
+    
+      
+        
+          
+            
+              
+                 
+                 
+              
+            
+          
+          
+            O
+            C
+          
+        
+        =
+        0.34
+         
+        0.08
+      
+    
+    }_
+  
+ gibi nispeten yüksek bir ortalama radar albedosuna sahiptir. 13  Psyche uzay aracının 2026 yılının başlarında cismi ziyaret etmesi planlanmaktadır.
+21 Lutetia'nın ortalama çapı 100 km'dir 1  ve Rosetta uzay sondası 10 Temmuz 2010'da onu ziyaret ettiğinde bir uzay aracı tarafından görüntülenen ilk M tipi asteroit olmuştur. 28  Ortalama radar albedosu 
+  
+    
+      
+        
+          
+            
+              
+                 
+                 
+              
+            
+          
+          
+            O
+            C
+          
+        
+        =
+        0.24
+         
+        0.07
+      
+    
+    }_
+  
+, ortalama S-tipi veya C-tipi asteroitin yaklaşık iki katıdır ve bu durum regolitinin diğer asteroit sınıflarına göre yüksek miktarda metal faz içerdiğini göstermektedir. 1  Rosetta spektrometresinden  elde edilen veriler kullanılarak yapılan analiz, estatitik veya demir açısından zengin karbonlu kondritik malzemelerle tutarlıdır. 29 
+22 Kalliope, ortalama çapı 150 km olan ikinci en büyük M tipi asteroittir. 15  2001'de keşfedilen Linus adlı uydusu sayesinde asteroitin kütlesi doğru bir biçimde tahmin edilebilmektedir. 30  M-tipi asteroitlerin çoğundan farklı olarak Kalliope'nin radar albedosu, S- ve C-tipi asteroitlere 5  benzer şekilde 0,15'tir ve bu durum regolitinde metalin zenginleşmediğini göstermektedir. Güvenilir bir boyut ve şekle sahip olması ile 4,1 g/cm3'lük nispeten yüksek hacim yoğunluğuna sahip olmas nedeniyle yüksek çözünürlüklü uyarlanabilir optik görüntüle yöntemlerinin test süreçlerinde kullanılmıştır. 15  16 
+216 Kleopatra'nın ortalama çapı 122 km olup, 16 Psyche ve 22 Kalliope'den sonra bilinen en büyük üçüncü M tipi asteroittir. 19   Radar gecikmeli Doppler görüntüleme, yüksek çözünürlüklü teleskopik görüntüleri ve birkaç yıldız örtülmesi gözlemi sayesinde "köpek kemiği" veya "halter" şeklini andıran bir şekle sahip olan ikili bir asteroit grubu olduğu tahmin edilmektedir. 19   Arecibo radar teleskobundan yapılan radar gözlemleri, metal açısından zengin bir bileşim ile tutarlı olarak güney yarımküresinde 
+  
+    
+      
+        
+          
+            
+              
+                 
+                 
+              
+            
+          
+          
+            O
+            C
+          
+        
+        =
+        0.43
+         
+        0.10
+      
+    
+    }_
+  
+ gibi çok yüksek bir radar albedosuna işaret etmektedir. 19  Kleopatra, kütlesinin ve hacim yoğunluğunun doğru bir şekilde hesaplanmasına izin veren Alexhelios ve Cleoselena adlı iki küçük uydusu bulunmasıyla da dikkat çekmektedir. 31 

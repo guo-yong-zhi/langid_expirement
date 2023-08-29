@@ -1,0 +1,148 @@
+Dalam matematika, sebuah fungsi implisit adalah fungsi yang mana variabel takbebas tidak diberikan secara "eksplisit" dalam bentuk variabel bebas. Menyatakan sebuah fungsi 
+  
+    
+      
+        f
+      
+    
+    
+  
+ secara eksplisit adalah memberikan cara untuk menentukan nilai keluaran dari sebuah fungsi 
+  
+    
+      
+        y
+      
+    
+    
+  
+ dari nilai masukan 
+  
+    
+      
+        x
+      
+    
+    
+  
+:
+Sebailknya, sebuah fungsi adalah implisit apabila nilai y didapatkan dari x dengan memecahkan persamaan dalam bentuk:
+Dengan kata lain, sebuah variabel dapat menentukan variabel lainnya, tetapi kita tidak diberikan rumus eksplisit untuk suatu variabel dalam bentuk variabel lainnya.
+Secara formal, sebuah fungsi 
+  
+    
+      
+        f
+         
+        X
+         
+        Y
+      
+    
+    
+  
+ dikatakan sebagai fungsi implisit apabila fungsi tersebut memenuhi persamaan:
+untuk semua 
+  
+    
+      
+        x
+         
+        X
+      
+    
+    
+  
+, dengan 
+  
+    
+      
+        R
+      
+    
+    
+  
+ adalah fungsi pada perkalian Cartesian 
+  
+    
+      
+        X
+         
+        Y
+      
+    
+    
+  
+.
+Fungsi implisit sering berguna dalam keadaan yang tidak memudahkan buat memecahkan persamaan dalam bentuk 
+  
+    
+      
+        R
+        
+        =
+        0
+      
+    
+    
+  
+ untuk 
+  
+    
+      
+        y
+      
+    
+    
+  
+ yang dinyatakan dalam 
+  
+    
+      
+        x
+      
+    
+    
+  
+. Bahkan bila memungkinkan untuk menyusun ulang persamaan ini untuk memperoleh 
+  
+    
+      
+        y
+      
+    
+    
+  
+ sebagai fungsi eksplisit 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+ hal ini boleh jadi tidak diinginkan, karena pernyataan 
+  
+    
+      
+        f
+      
+    
+    
+  
+ jauh lebih rumit dari pernyataan R. Dalam keadaan lain, persamaan 
+  
+    
+      
+        R
+        
+        =
+        0
+      
+    
+    
+  
+ mungkin tidak dapat menyatakan suatu fungsi sama sekali, dan sebenarnya mendefinisikan fungsi bernilai ganda. Bagaimanapun, dalam banyak keadaan, bekerja dengan fungsi implisit masih dimungkinkan. Beberapa teknik dari kalkulus, seperti turunan, dapat dilakukan dengan relatif mudah menggunakan fungsi implisit.
+Artikel bertopik matematika ini adalah sebuah rintisan. Anda dapat membantu Wikipedia dengan mengembangkannya.

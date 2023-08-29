@@ -1,0 +1,2 @@
+ICO on Microsoft Windows -käyttöjärjestelmän käyttämä tiedostomuoto ohjelmakuvakkeissa. Sitä käytetään myös internet-sivujen lisämerkintänä eli Faviconina osoitinpalkissa vasemmassa laidassa. IANA on rekisteröinyt ikonitiedostolle MIME-tyypin image/vnd.microsoft.icon. Aikaisemmin ikonitiedostot oli rekisteröity image/x-icon-luokkaan. 
+Alun perin ICO oli kooltaan 32x32 pikseliä ja käytti 16 väriä. Windows XP:n mukana tulivat tuki 1x1:stä 255x255 pikseliin sekä 4-, 8-, 16- ja 24- bittiset värisyvyydet. ICO ja BMP ovat hyvin samankaltaisia tiedostomuotoja.

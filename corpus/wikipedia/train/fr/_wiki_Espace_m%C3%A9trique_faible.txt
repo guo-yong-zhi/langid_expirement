@@ -1,0 +1,127 @@
+Cet article ne cite pas suffisamment ses sources .
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+En mathématiques, un espace métrique faible  généralise la notion d'espace métrique et même d'espace pseudo-métrique.
+Une distance faible sur un ensemble 
+  
+    
+      
+        E
+      
+    
+    
+  
+ est une fonction
+telle que pour tout 
+  
+    
+      
+        x
+        ,
+        y
+        ,
+        z
+         
+        E
+      
+    
+    
+  
+,
+Un espace métrique faible est alors un couple 
+  
+    
+      
+        
+      
+    
+    
+  
+ formé d'un ensemble 
+  
+    
+      
+        E
+      
+    
+    
+  
+ et d'une distance faible 
+  
+    
+      
+        
+          d
+        
+      
+    
+     }
+  
+ sur 
+  
+    
+      
+        E
+      
+    
+    
+  
+.
+C'est le cas des distances dans un réseau comportant des segments à sens unique, et généralement dans tout graphe orienté.
+Une distance faible induit une topologie sur 
+  
+    
+      
+        E
+      
+    
+    
+  
+. Une base d'ouverts de cette topologie est donnée par l'ensemble :
+où 
+  
+    
+      
+        
+          B
+          
+            r
+          
+        
+        
+          
+        
+        =
+        
+      
+    
+    \left=\}
+  
+ est la boule ouverte de rayon 
+  
+    
+      
+        r
+      
+    
+    
+  
+ centrée en 
+  
+    
+      
+        x
+      
+    
+    
+  
+. En particulier, tout point de 
+  
+    
+      
+        E
+      
+    
+    
+  
+ admet une base dénombrable de voisinages. 

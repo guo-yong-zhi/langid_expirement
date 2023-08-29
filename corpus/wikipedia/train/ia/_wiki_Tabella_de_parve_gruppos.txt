@@ -1,0 +1,1 @@
+La prime tabella lista le gruppos finite con un ordine minor o equal a 20 excepte isomorphitate.

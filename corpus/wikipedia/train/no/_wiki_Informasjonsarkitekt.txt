@@ -1,0 +1,3 @@
+En informasjonsarkitekt er en person som arbeider med å strukturere og modellere informasjon. Begrepet anvendes spesielt innen utvikling av et nettsted, en applikasjon eller ulike typer informasjonstjenester. Fagdisiplinen kalles informasjonsarkitektur, og de viktigste oppgavene utført av informasjonsarkitekter har samlebetegnelsen informasjonsstruktur.
+Begrepet ble anvendt første gang av den amerikanske arkitekten Richard Saul Wurman i 1976 som en reaksjon på at det ofte blir produsert mye informasjon uten at brukerne blir tilbudt en god struktur.
+Tittelen informasjonsarkitekt er foreløpig ikke beskyttet og kan anvendes fritt.

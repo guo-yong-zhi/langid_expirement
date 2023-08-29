@@ -1,0 +1,12 @@
+Všeobecný kvantifikátor  je kvantifikátor, ktorým sa nahradzuje spojenie „pre všetky“. Značí, že všetky opakovania výrazu, ktorý za ním nasleduje majú určitú vlastnosť. Jeho symbol je 
+  
+    
+      
+         
+      
+    
+    
+  
+ .
+Na množine prirodzených čísel je možné opísať vzťah 
+teda, že pre všetky x  platí, že sú väčšie alebo rovné nule.

@@ -1,0 +1,328 @@
+Teorema catetei se enunță astfel: într-un triunghi dreptunghic lungimea unei catete este media geometrică dintre lungimea proiecției sale pe ipotenuză și lungimea ipotenuzei.
+  
+    
+      
+        A
+        B
+        =
+        
+          
+            D
+            B
+             
+            B
+            C
+          
+        
+      
+    
+    }}
+  
+Fie 
+  
+    
+      
+        A
+        D
+         
+        B
+        C
+        ,
+        D
+         
+        B
+        C
+        ,
+        p
+        
+          r
+          
+            B
+            C
+          
+        
+        A
+        B
+        =
+        B
+        D
+      
+    
+    AB=BD}
+  
+Din asemănarea triunghiurilor 
+  
+    
+      
+         
+        A
+        B
+        D
+      
+    
+    
+  
+ și 
+  
+    
+      
+         
+        C
+        B
+        A
+      
+    
+    
+  
+ rezultă proporția:
+  
+    
+      
+        
+          
+            
+              A
+              B
+            
+            
+              B
+              C
+            
+          
+        
+        =
+        
+          
+            
+              B
+              D
+            
+            
+              A
+              B
+            
+          
+        
+      
+    
+    
+  
+, de unde:
+  
+    
+      
+        A
+        
+          B
+          
+            2
+          
+        
+        =
+        B
+        D
+         
+        B
+        C
+      
+    
+    =BD\cdot BC}
+  
+, deci:
+  
+    
+      
+        A
+        B
+        =
+        
+          
+            D
+            B
+             
+            B
+            C
+          
+        
+      
+    
+    }}
+  
+Analog, se demonstrează și pentru cateta 
+  
+    
+      
+        A
+        C
+      
+    
+    
+  
+:
+  
+    
+      
+        A
+        
+          C
+          
+            2
+          
+        
+        =
+        C
+        D
+         
+        B
+        C
+      
+    
+    =CD\cdot BC}
+  
+, sau:
+  
+    
+      
+        A
+        C
+        =
+        
+          
+            D
+            C
+             
+            B
+            C
+          
+        
+      
+    
+    }}
+  
+Dacă într-un triunghi 
+  
+    
+      
+        A
+        B
+        C
+      
+    
+    
+  
+:
+  
+    
+      
+        A
+        D
+         
+        B
+        C
+         
+      
+    
+    
+  
+   și  
+  
+    
+      
+        A
+        
+          B
+          
+            2
+          
+        
+        =
+        B
+        D
+         
+        B
+        C
+      
+    
+    =BD\cdot BC}
+  
+, 
+rezultă că: 
+  
+    
+      
+        m
+        
+        =
+        
+          90
+          
+            o
+          
+        
+      
+    
+    }
+  
+Dacă într-un triunghi 
+  
+    
+      
+        A
+        B
+        C
+      
+    
+    
+  
+:
+  
+    
+      
+        m
+        
+        =
+        
+          90
+          
+            o
+          
+        
+      
+    
+    }
+  
+   și  
+  
+    
+      
+        A
+        
+          B
+          
+            2
+          
+        
+        =
+        B
+        D
+         
+        B
+        C
+      
+    
+    =BD\cdot BC}
+  
+rezultă că: 
+  
+    
+      
+         
+        A
+        D
+         
+        B
+        C
+      
+    
+    
+  

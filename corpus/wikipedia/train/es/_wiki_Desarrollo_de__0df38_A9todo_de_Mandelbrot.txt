@@ -1,0 +1,53 @@
+ El método de Mandelbrot : este método para desarrollar "objetos fractales" fue creado por Benoît Mandelbrot en la década de los años 70, mientras trabajaba en IBM. Consiste en construir, para cada punto c del plano complejo, una sucesión de números complejos zn. Partiendo del punto z0 = 0, se calcula la sucesión de forma iterativa mediante la fórmula zn+1=F+c, donde F es una función arbitraria previamente elegida. Cuando la sucesión iterativa está acotada, se asigna al punto c del plano complejo un color sólido . Si la sucesión diverge entonces se asigna al punto c un color progresivamente distinto, dependiendo de cuántas iteraciones hayan sido necesarias para detectar la divergencia de la sucesión.
+El fractal derivado por este método cuando se toma la función F=z2 se llama conjunto de Mandelbrot.
+En lo que sigue, en lugar de zn+1=F+c se utilizará la notación Z=F+C, como si se tratara de una asignación en algún lenguaje de programación.
+A continuación se muestra una serie de fractales iterando las diferentes potencias de Z = Zm + C, según el método de Mandelbrot. 
+Ejemplos de fractales del tipo Mandelbrot: Z = Zm + C
+Tal y como se puede ver en los ejemplos representados, el número de lóbulos es L = m - 1 
+A continuación vamos a adentrarnos en el fractal clásico de Mandelbrot, utilizando el microscopio de altísima resolución que nos proporciona el cálculo iterativo. Todas las ampliaciones vienen precedidas de una imagen del fractal a escala 1:1 en donde podemos apreciar la zona ampliada. 
+Centro de coordenadas : Cx = 0.291811 , Cy = 0.0144686
+Centro de coordenadas : Cx = -0.165643411 , Cy = 0.656685704  
+Centro de coordenadas : Cx = -0.755625 , Cy = 0.06328125  
+Centro de coordenadas : Cx = -0,1758752481899, Cy = 1,075392007 
+A continuación bajaremos a gran profundidad, con una ampliación de más de 2 millones y con un número máximo de 6000 iteraciones por pixel !
+Centro de coordenadas : Cx = 0,02816835288421, Cy = 0,63790834667330 
+Ahora nos adentraremos en un sitio con extrañas formas y colores, pero donde pueden apreciarse perfectamente las formas del fractal de Mandelbrot...
+Ejemplos de fractales del tipo Mandelbrot, con potencias negativas de Z.
+Pero, ¿ qué pasa cuando hacemos Z = Zm + Cp ?. Tal y como se puede ver en los siguientes ejemplos, el número de lóbulos es L =  * p 
+A continuación se muestra una serie de fractales iterando las diferentes potencias de Z = Zm + Z + C, según el método de Mandelbrot. 
+A continuación se muestra una serie de fractales iterando las diferentes potencias de Z = Zm - Z + C, según el método de Mandelbrot. 
+También se puede transformar cada punto del plano complejo, de acuerdo a una función arbitraria, antes de ser sumado a la función iterativa, según la siguiente ecuación Z = Zm + F . Veamos que pasa cuando la transformación es del tipo:F = 1 / C
+Ejemplos de fractales del tipo Mandelbrot: Z = Zm + 1/C, donde cada punto C del plano complejo se transforma en 1 / C, antes de entrar en la iteración de la potencia de Z. Zo = . El número de vértices es V =  
+Pero, qué pasa cuándo Z = Zm +  ?.
+Pues algo muy parecido a lo que veíamos antes, ahora el número de vértices es V =  * p 
+La zona en color BLANCO intenso es el área de la intersección de los 2 sets.
+También podemos añadir más sumandos a la función Zm, combinando C, Cp, 1/C y 1/Cq en grupos de 2, 3 o 4, veamos que sucede si agrupamos C2, 1/C y 1/C2 de 2,3 o 4 formas ..: 
+A continuación más combinaciones con otros exponentes:
+Podemos combinar diferentes potencias de C y/o Z sumándolas a Zm , veamos qué sucede:
+Podemos sumar a Zm polinomios mixtos de C i Z , veamos qué sucede:
+Pero existe una amplia variedad de funciones, en el dominio de los números complejos, que pueden ser iteradas según el método de Mandelbrot. 
+Voy a citar aquí algunos ejemplos, explicitando la parte real y la imaginaria:
+ Exp =  
+ Sin =  
+ Cos =  
+ SinH =  
+ CosH =  
+ LN =  
+ SQR =  
+ ATN = 
+A continuación algunos ejemplos de fractales por iteración de Z2, pero transformando C según las funciones descritas anteriormente:
+Esta función se descompone en una parte real y otra imaginaria:  Exp =  
+Puede ser utilizada como función iterativa o como función transformadora de C = , o simultáneamente:
+Esta función es muy sensible a Zo, y también al coeficiente  que multiplica a Z. Veamos algunos ejemplos interesantes:
+Aparece un número de lóbulos centrales = m, y un número de aristas exteriores = p, siendo m<p.
+Aparecen un número de aristas = m.
+Esta función se descompone en una parte real y otra imaginaria:  Sin =  
+Puede ser utilizada como función iterativa o como función transformadora de los puntos C = , simultáneamente:
+Esta función se descompone en una parte real y otra imaginaria:  ' Cos =  
+Puede ser utilizada como función iterativa o como función transformadora de C = , o simultáneamente
+Esta función se descompone en una parte real y otra imaginaria:  SinH =  
+Puede ser utilizada como función iterativa o como función transformadora de C = , o simultáneamente:
+Esta función se descompone en una parte real y otra imaginaria:  CosH =  
+Puede ser utilizada como función iterativa o como función transformadora de C = , o simultáneamente:
+Aquí se muestra un ejemplo de iteración de dos funciones F y F, por adición de cada uno de los puntos del plano C, y la introducción de una tercera función F que desequilibra el punto de convergencia.
+Xn+1 = Xn - Sin + C .. Yn+1 = Yn - Sin + C .. Zn+1 = Zn - Cos 

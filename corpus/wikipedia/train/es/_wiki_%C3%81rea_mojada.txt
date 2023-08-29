@@ -1,0 +1,4 @@
+El área mojada es la superficie que interactúa con el fluido o gas de trabajo.
+En términos marítimos, el área mojada es el área del  casco que está sumergida en el agua. Esto tiene una relación directa con la  resistencia hidrodinámica general del buque o submarino.
+En aeronáutica, el área mojada es el área que está en contacto con la corriente de aire externa. Esto tiene una relación directa con la resistencia aerodinámica general de la aeronave. 
+En deportes de motor, como la Fórmula 1, el término superficies mojadas se utiliza para referirse a la carrocería, las alas y el radiador, que están en contacto directo con el flujo de aire, de forma similar al uso del término en aeronáutica. 

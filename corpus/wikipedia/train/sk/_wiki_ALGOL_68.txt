@@ -1,0 +1,5 @@
+ALGOL 68 je imperatívny programovací jazyk predstavujúci rozsiahle a dôsledné rozvinutie predchádzajúcej verzie jazyka ALGOL 60. Vznikol v roku 1973 a bol navrhnutý podľa fundamentálneho princípu tzv. „ortogonálneho návrhu“ . Ide o princíp minimálneho, univerzálneho, ľubovoľne kombinovateľného stavebnicového systému. 
+Základných stavebnicovými prvkami tohto jazyka, sú údajové typy boolean, character, integer a real a tiež syntaxe jazyka. Z týchto stavebnicových prvkov sa pomocou tzv mode-makerov dajú zostrojiť ľubovoľne zložité oblasti dát. Takýto skladací systém sa dá považovať predchodcu objektového modelu. Mode-makermi na skladanie boli:
+Stavebnicový sytém doplňovali elementárne akcie. Týmito akciami boli:
+Pomocou týchto elementárnych akcií sa dali zostrojiť ľubovoľné ďalšie akcie. Skladať tieto elementárne operácie bolo možné nasledovne:
+Najväčším problémom jazyka bol jeho preklad. Jeho rozvinuté vyjadrovacie schopnosti , spôsobovali problém pri zostrojovaní prekladača – kompilátora. Programy na väčšine systémov boli interpretované pomocou interpretra, čo malo za následok ich pomalší chod.

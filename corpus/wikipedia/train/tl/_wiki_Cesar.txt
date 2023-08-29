@@ -1,0 +1,36 @@
+Ang Cesar ay isang departamento sa Colombia.
+Ang kagawaran ng Cesar ay may 25 munisipalidad.
+ Amazonas
+ Antioquia
+ Arauca
+ Atlántico
+ Bolívar
+ Boyacá
+ Caldas
+ Caquetá
+ Casanare
+ Cauca
+ Cesar
+ Chocó
+ Córdoba
+ Cundinamarca
+ Guainía
+ Guaviare
+ Huila
+ La Guajira
+ Magdalena
+ Meta
+ Nariño
+ N. Santander
+ Putumayo
+ Quindío
+ Risaralda
+ San Andrés
+ Santander
+ Sucre
+ Tolima
+ Valle del Cauca
+ Vaupés
+ Vichada
+Kabiserang distrito:
+ Bogotá

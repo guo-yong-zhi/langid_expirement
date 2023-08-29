@@ -1,0 +1,30 @@
+Pontosságellenőrzött
+A matematikában a G Catalan-állandó időnként a kombinatorikai becslésekben fordul elő. Definíciója:
+ahol β a Dirichlet-féle bétafüggvény.
+Numerikus értéke közelitően 1 
+Nem ismeretes, hogy a G vajon irracionális szám-e, arról nem is beszélve, hogy transzcendens-e.
+Az állandót Eugène Charles Catalan  belga matematikusról nevezték el.
+és
+ahol K egy teljes első fajú elliptikus integrál. 2 
+A G többnyire a kombinatorikában fordul elő, valamint a második poligamma-függvény értékeiben, melyet trigamma-függvénynek is hívnak :
+Simon Plouffe  kanadai matematikus egy végtelen azonossággyűjteményt szerkesztett, a 
+  
+    
+      
+        
+           
+          
+            2
+          
+        
+      
+    
+    }
+  
+ trigamma-függvény és a Catalan-állandó között; ezek az összefüggések gráfokkal kifejezhetőek. A G feltűnik a hiperbolikus metsző típusú eloszlásban is.
+A következő két képlet gyorsan konvergáló sorozatokat tartalmaz, ezért alkalmas numerikus számításokra:
+és
+Az ilyen sorozatok elméleti alapjai Broadhursttől , 3  illetve Srínivásza Rámánudzsantól  4  származnak.
+A Catalan-állandó gyors számítási algoritmusát Jekatyerinya Karacuba alkotta. 5  6 
+A Catalan-állandó ismert tizedesjegyeinek száma drámai módon emelkedett az utóbbi évtizedekben. Ez részben a számítógépek teljesítménynövekedésének, másrészt hatékonyabb algoritmusok kidolgozásának köszönhető. 7 
+A Catalan-állandó ismert tizedesjegyeinek száma:

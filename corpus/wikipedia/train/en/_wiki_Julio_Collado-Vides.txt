@@ -1,0 +1,5 @@
+Julio Collado-Vides is a Guatemalan scientist and Professor of Computational Genomics at the National Autonomous University of Mexico. His research focuses on genomics and bioinformatics. 1  2 
+Collado-Vides studied at the National Autonomous University of Mexico, gaining a BSc in biomedical science , an MSc in physical chemistry  and a PhD in biomathematics . Following his PhD, he carried out postdoctoral studies at the Massachusetts Institute of Technology . 1 
+Collado-Vides' research focuses on the regulation of gene expression in bacteria, 1  in particular, creating a model of the regulatory network of E. coli K-12. The RegulonDB database  makes this data available. 3  He has also been involved in the construction of the EcoCyc E. coli database 4  5  and the completion of the sequenced E. coli genome. 6 
+He was the founding President of the Mexican Society of Genomics. 7 
+Collado-Vides is a member of the Mexican Academy of Sciences 8  and was elected a Fellow of the International Society for Computational Biology in 2015. 9 

@@ -1,0 +1,7 @@
+xamarin.com
+Xamarin  d ccarika spécialisée deg software, tettwaxleq g 2011 u tuɣ-itt Microsoft g 2016. 
+S langage n C#, mkull développeur yezmer ad yaru application tezmer ad teddu g Windows, Android neɣ iOS.
+Deg 1999, Miguel de Icaza akk d Nat Friedman xelqen ccarika Ximian, ssenzen les application i iteddun deg GNOME .
+Mi d-yeffeɣ C# akk d .Net, Icaza d Friedman xemmemen af protaj ar Linux. Version tamezwarut teffeɣ-d g 2001 u semman-tt Mono.
+Ximian tɛedda ar ifassen n Novell g 2003 umbeɛd ar ifassen n Attachmate g 2011. Attachmate tessufeɣ aṭas n les développeurs i yellan deg usenfar n Mono. 
+G 2011, Icaza d Friedman xelqen ccarkia tajdidt : Xamarin, aṭas n les développeurs usan-d seg tarbaɛt n Mono.

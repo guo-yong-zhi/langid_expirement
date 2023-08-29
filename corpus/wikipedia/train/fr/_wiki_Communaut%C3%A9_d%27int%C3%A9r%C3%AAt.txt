@@ -1,0 +1,25 @@
+Cet article ne cite pas suffisamment ses sources .
+Si vous disposez d'ouvrages ou d'articles de référence ou si vous connaissez des sites web de qualité traitant du thème abordé ici, merci de compléter l'article en donnant les références utiles à sa vérifiabilité et en les liant à la section « Notes et références » 
+En pratique : Quelles sources sont attendues ? Comment ajouter mes sources ?
+Cet article est une ébauche concernant le management.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+Une communauté d'intérêt est un groupe composé d'individus qui partagent soit une identité, soit des expériences et des préoccupations. Elle se compose de personnes qui sont personnellement touchées par un problème commun, soit directement, soit dans leur entourage. L'appartenance à une communauté de ce type les aide à comprendre, interpréter leur condition et à chercher des solutions aux problèmes qu'ils peuvent rencontrer.
+La communauté d'intérêt n'est pas de même nature que la communauté de pratique.
+On peut considérer que Les communautés de métiers du Moyen Âge et de l'époque moderne étaient déjà des communautés d'intérêt. Elles veillaient non seulement à la défense des intérêts de leurs membres, mais avaient également un pouvoir de réglementation strict en matière d'organisation du travail, de la production, et de la commercialisation.
+Le terme « communauté d'intérêts » est une traduction littérale de l'anglais community of interest. Cette traduction hâtive induit un glissement conceptuel car en français, le mot « communauté » ne désigne pas le même concept et ne recouvre pas la même réalité que l'anglais community dans les pays anglophones.
+Au Royaume-Uni par exemple, les parents d’élèves d’une même école se perçoivent comme une community. En France, en revanche, les parents d’élèves d’une même école ne se désignent pas comme une communauté car ils ne se perçoivent pas comme un groupe doté de caractéristiques communes au point de constituer une communauté. On parle à la rigueur de « groupe », ou lorsque des statuts juridiques existent, d'« association ».
+La notion de communauté d'intérêt a été introduite par Joseph Carl Robnett Licklider et Robert Taylor dans un article intitulé The Computer as a Communications Device qui préfigure l'internet d'aujourd'hui :
+Les personnes d'une communauté d'intérêt échangent des idées sur une même passion, tout en s'intéressant peu aux autres en dehors de ce domaine. La participation à une communauté d'intérêt peut être contraignante ou divertissante et créer une communauté ‘étroite’ où les gens reviennent fréquemment et restent pour de longues périodes.
+On peut trouver des communautés d'intérêt par exemple sur le football, les amateurs de musique sur MP3, les petites et moyennes entreprises…
+Les communautés d'intérêt doivent disposer d'un vocabulaire partagé pour l'information échangée. Elles jouent un rôle important dans la dissémination de l'information.
+Les communautés d'intérêt ne sont pas nécessairement liées à une zone géographique.
+Les personnes ou organismes qui ont des intérêts en commun avec une entreprise ou une administration sont appelées des parties prenantes .
+La communauté d'intérêt en ligne s'oppose à la proximité de la communauté géographique. L'intérêt partagé crée le lien commun à distance. Les communautés d'intérêt sur internet sont caractéristiques d'une nouvelle forme de sociabilité .
+La directive Inspire de l'Union européenne sur l'utilisation des données publiques a donné lieu à une communauté d'intérêt : Spatial Data Interest Community .
+La notion de communauté d'intérêt est l'un des trois éléments clés de la stratégie données en réseau-centré  du département de la Défense des États-Unis, et est employée dans le cadre d'architecture DoDAF pour définir des données à partager.
+On trouve les communautés suivantes :
+etc.
+La notion de communauté d'intérêt est également employée dans le cadre d'architecture MODAF du Royaume-Uni, qui identifie six communautés d'intérêt :
+Le 15 janvier 2021, MODAF a été remplacé par le NATO Architecture Framework V4 de l'OTAN.
+Le cadre d'architecture de l'OTAN comprend également des communautés d'intérêt .
+Les communautés d'intérêt peuvent avoir des points communs ou des relations avec :

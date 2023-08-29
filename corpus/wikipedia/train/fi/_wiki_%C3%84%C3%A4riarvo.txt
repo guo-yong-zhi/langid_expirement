@@ -1,0 +1,270 @@
+Matematiikassa funktion ääriarvo on funktion arvo sellaisessa pisteessä, että tämän pisteen jossakin ympäristössä olevissa pisteissä funktion arvo on aina joko suurempi tai yhtä suuri  tai pienempi tai yhtä suuri  kuin ääriarvo. Ääriarvot voivat olla funktion maksimeja tai minimejä.  1  Ääriarvot voivat olla paikallisia eli lokaaleja tai yleisiä eli globaaleja ääriarvoja. Funktion derivaatta on nolla niissä ääriarvokohdissa, joissa funktio on derivoituva.   
+Funktion f paikallinen  minimi välillä 
+  
+    
+      
+        
+      
+    
+    
+  
+ on 
+  
+    
+      
+        
+          x
+          
+             
+          
+        
+         
+         
+         
+        >
+        0
+        :
+        f
+        
+         
+        f
+        
+        
+         
+        x
+         
+        
+         
+        
+      
+    
+    \Leftrightarrow \exists \delta >0:f\leq f\quad \forall x\in \cap \\right|<\delta \}}
+  
+Funktion f paikallinen  minimi välillä 
+  
+    
+      
+        
+      
+    
+    
+  
+ on 
+  
+    
+      
+        
+          x
+          
+             
+          
+        
+      
+    
+    }
+  
+ jos ja vain jos ehto 
+  
+    
+      
+        f
+        
+         
+        f
+        
+      
+    
+    
+  
+ toteutuu kaikilla 
+  
+    
+      
+        x
+      
+    
+    
+  
+ , jotka kuuluvat väliin 
+  
+    
+      
+        
+      
+    
+    
+  
+ ja ovat pisteen 
+  
+    
+      
+        
+          x
+          
+             
+          
+        
+      
+    
+    }
+  
+ lähellä.
+Funktion f paikallinen  maksimi välillä 
+  
+    
+      
+        
+      
+    
+    
+  
+ on 
+  
+    
+      
+        
+          x
+          
+             
+          
+        
+         
+         
+         
+        >
+        0
+        :
+        f
+        
+         
+        f
+        
+        
+         
+        x
+         
+        
+         
+        
+      
+    
+    \Leftrightarrow \exists \delta >0:f\geq f\quad \forall x\in \cap \\right|<\delta \}}
+  
+Funktion f paikallinen  maksimi välillä 
+  
+    
+      
+        
+      
+    
+    
+  
+ on 
+  
+    
+      
+        
+          x
+          
+             
+          
+        
+      
+    
+    }
+  
+ jos ja vain jos ehto 
+  
+    
+      
+        f
+        
+         
+        f
+        
+      
+    
+    
+  
+ toteutuu kaikilla 
+  
+    
+      
+        x
+      
+    
+    
+  
+ , jotka kuuluvat väliin 
+  
+    
+      
+        
+      
+    
+    
+  
+ ja ovat pisteen 
+  
+    
+      
+        
+          x
+          
+             
+          
+        
+      
+    
+    }
+  
+ lähellä.
+Funktion f  minimi on 
+  
+    
+      
+        
+          x
+          
+             
+          
+        
+         
+        f
+        
+         
+        f
+        
+         
+        x
+      
+    
+    \Leftrightarrow f\leq f\forall x}
+  
+Minimi on siis funktion kaikkein pienin arvo.
+Funktion f  maksimi on 
+  
+    
+      
+        
+          x
+          
+             
+          
+        
+         
+        f
+        
+         
+        f
+        
+         
+        x
+      
+    
+    \Leftrightarrow f\geq f\forall x}
+  
+Maksimi on siis funktion kaikkein suurin arvo.
+Funktiolla voi olla ääriarvokohta 
+Jatkuvalla funktiolla on suljetulla välillä suurin ja pienin arvo.
+Jos funktiolla on suurin arvo, se on yksi maksimeista. Jos funktiolla on pienin arvo, se on yksi minimeistä.

@@ -1,0 +1,28 @@
+C2H4O
+CH3CHO, CH3−CO−H
+44,05 g/mol
+bezbarwna ciecz o mocnym zapachu
+75-07-0
+177
+−123,37 °C
+20,1–21 °C
+193 °C
+0,45
+1,332
+22,54 mN/m 20,50 mN/m 17,10 mN/m 
+sp² – trójkąt płaski dla C1sp³ – tetraedr dla C2
+2,750 ± 0,006 D
+H224, H319, H335, H351
+P210, P261, P281, P305+P351+P338
+−39 °C
+175 °C
+AB1925000
+LD50 661–1930 mg/kg 
+aldehyd mrówkowy , propanal , kwas octowy , acetamid 
+Aldehyd octowy, acetaldehyd, CH3CHO – organiczny związek chemiczny z grupy aldehydów.
+Aldehyd octowy jest bezbarwną cieczą rozpuszczalną w wodzie i rozpuszczalnikach organicznych. Wobec katalizatorów kwasowych  polimeryzuje z wytworzeniem paraldehydu , metaldehydu  i poliacetaldehydu.
+Aldehyd octowy występuje w przyrodzie w dojrzałych owocach i w kawie.
+Acetaldehyd można otrzymać przez
+W przemyśle aldehyd octowy jest używany do produkcji kwasu octowego, bezwodnika octowego, chloroformu, pentaerytrytu i wielu innych związków. Podobnie jak aldehyd mrówkowy ulega reakcjom kondensacji z fenolem i aminami, w wyniku których tworzą się żywice syntetyczne.
+Aldehyd octowy powstaje w wątrobie w wyniku odwodornienia etanolu przez enzym dehydrogenazę alkoholową według reakcji:
+Następnie jest on przetwarzany do kwasu octowego przez kolejną dehydrogenazę. Aldehyd octowy jest bardziej toksyczny zarówno od etanolu, jak i od kwasu octowego, i to on jest główną przyczyną objawów przedawkowania alkoholu etylowego, popularnie zwanych kacem.

@@ -1,0 +1,2 @@
+Kuorma-autonkuljettaja on kuorma-auton kuljettamisesta vastaava henkilö. Mikäli kuorma-autoon on kytketty tai kytkettävissä myös perävaunu, kutsutaan kuljettajaa puhekielessä usein rekkakuskiksi. Kuorma-autonkuljettajan tehtäviä ovat kuljettaa kuorma-autolla rahti, ja huolehtia tavaran toimituksesta määräaikaan mennessä. Kuorma-autonkuljettajat työskentelevät kuljetusyrityksissä tai itsenäisinä yrittäjinä. 
+Kuorma-autonkuljettajalta edellytetään ADR-ajolupaa, jos hän kuljettaa vaarallisia aineita yli vapaarajan.

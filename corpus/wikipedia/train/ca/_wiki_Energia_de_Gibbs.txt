@@ -1,0 +1,1885 @@
+L'energia de Gibbs, també anomenada energia lliure de Gibbs i funció de Gibbs, 1  és una funció d'estat, simbolitzada per 
+  
+    
+      
+        G
+      
+    
+    
+  
+, que dona la condició d'equilibri i d'espontaneïtat per una reacció química i que està definida per la combinació de funcions d'estat:
+  
+    
+      
+        G
+         
+        U
+        +
+        P
+         
+        V
+         
+        T
+         
+        S
+        =
+        H
+         
+        T
+         
+        S
+      
+    
+    
+  
+on:
+Fou proposta a finals del segle xix pel físic i matemàtic estatunidenc J. Willard Gibbs. És una propietat extensiva, és a dir depèn de la quantitat de matèria, i la seva variació 
+  
+    
+      
+         
+        G
+      
+    
+    
+  
+ representa el màxim treball químic útil sota temperatura constant i pressió constant , per tant està relacionada amb la formació d'enllaços químics i amb la creació de partícules.
+El físic i matemàtic estatunidenc Josiah Willard Gibbs  publicà l'article On the Equilibrium of Heterogeneous Substances , en una revista científica poc coneguda,Transactions of the Connecticut Academy of Arts and Sciences, en diverses parts, durant els anys 1875 a 1878. 3  4  Aquest significatiu treball, de més de tres-centes pàgines, restà desconegut pels científics europeus fins que fou traduït a l'alemany per Wilhelm Ostwald el 1891 i al francès per Henry Louis Le Châtelier el 1899. 5 
+Aquesta obra de Gibbs marcà el principi de la termodinàmica química mitjançant la integració dels fenòmens químics, físics, elèctrics i electromagnètics en un sistema coherent. Introduí conceptes com el de potencial químic, la regla de les fases i altres, que formen la base de la química física moderna.
+La primera llei de la termodinàmica estableix que la variació de l'energia interna 
+  
+    
+      
+         
+        U
+      
+    
+    
+  
+ d'un procés és igual a la calor 
+  
+    
+      
+        q
+      
+    
+    
+  
+ més el treball 
+  
+    
+      
+        w
+      
+    
+    
+  
+. Aquest treball total pot posar-se com a suma del treball d'expansió 
+  
+    
+      
+        
+          w
+          
+            e
+          
+        
+        =
+        p
+         
+        V
+      
+    
+    =p\Delta V}
+  
+ més el treball útil 
+  
+    
+      
+        
+          w
+          
+            u
+          
+        
+      
+    
+    }
+  
+:
+  
+    
+      
+         
+        U
+        =
+        q
+        +
+        w
+        =
+        q
+        +
+        
+          w
+          
+            e
+          
+        
+        +
+        
+          w
+          
+            u
+          
+        
+        =
+        q
+         
+        p
+         
+        V
+        +
+        
+          w
+          
+            u
+          
+        
+      
+    
+    +w_}
+  
+Si el procés és reversible la calor es pot posar en funció de l'entropia 
+  
+    
+      
+        S
+      
+    
+    
+  
+ a partir de la definició d'aquesta 
+  
+    
+      
+         
+        S
+        =
+        q
+        
+          /
+        
+        T
+      
+    
+    
+  
+:
+  
+    
+      
+         
+        U
+        =
+        T
+         
+        S
+         
+        p
+         
+        V
+        +
+        
+          w
+          
+            u
+          
+        
+      
+    
+    }
+  
+Aïllant el treball útil:
+  
+    
+      
+        
+          w
+          
+            u
+          
+        
+        =
+         
+        U
+         
+        T
+         
+        S
+        +
+        p
+         
+        V
+      
+    
+    =\Delta U-T\Delta S+p\Delta V}
+  
+La definició d'entalpia és 
+  
+    
+      
+        H
+        =
+        U
+        +
+        p
+        V
+      
+    
+    
+  
+, de manera que l'expressió anterior es pot escriure en funció de la variació d'entalpia en un procés a pressió constant:
+  
+    
+      
+        
+          w
+          
+            u
+          
+        
+        =
+         
+        H
+         
+        T
+         
+        S
+        =
+         
+        G
+      
+    
+    =\Delta H-T\Delta S=\Delta G}
+  
+on 
+  
+    
+      
+         
+        G
+      
+    
+    
+  
+ és la variació d'energia de Gibbs a temperatura i pressió constant en un procés reversible. 6 
+L'energia de Gibbs, per tant, és una funció termodinàmica que la seva variació representa el valor del treball útil que es pot aconseguir en una reacció química, com ara el treball electroquímic. Malauradament hom parla d'energia de Gibbs no és pròpiament una energia. La seva variació s'obté a partir de dues quantitats que tenen dimensions d'energia, però no ho són, l'entalpia 
+  
+    
+      
+        H
+      
+    
+    
+  
+ i el terme 
+  
+    
+      
+        T
+        S
+      
+    
+    
+  
+, producte de la temperatura per l'entropia. 6 
+Per a un sistema tancat  de composició constant la variació d'energia de Gibbs amb la temperatura i la pressió es pot expressar amb l'equació:
+  
+    
+      
+        d
+        G
+        =
+        
+          
+            
+          
+          
+            P
+          
+        
+        d
+        T
+        +
+        
+          
+            
+          
+          
+            T
+          
+        
+        d
+        P
+        =
+         
+        S
+        d
+        T
+        +
+        V
+        d
+        P
+      
+    
+    dT+\left_
+  
+Aquestes relacions indiquen que l'energia de Gibbs disminueix en augmentar la temperatura, a 
+  
+    
+      
+        P
+      
+    
+    
+  
+ constant, i augmenta en augmentar la pressió a 
+  
+    
+      
+        T
+      
+    
+    
+  
+ constant.
+Si hom torna derivar cadascuna de les derivades parcials de l'anterior fórmula s'obtenen les relacions:
+  
+    
+      
+        
+          
+            
+          
+          
+            P
+          
+        
+        =
+         
+        
+          
+            
+          
+          
+            P
+          
+        
+        =
+         
+        
+          
+            
+              C
+              
+                P
+              
+            
+            T
+          
+        
+      
+    
+    =-\left_}
+  
+  
+    
+      
+        
+          
+            
+              
+                 
+                
+                  2
+                
+              
+              G
+            
+            
+               
+              P
+               
+              T
+            
+          
+        
+        =
+        
+          
+            
+          
+          
+            P
+          
+        
+        =
+        V
+         
+         
+      
+    
+    G}=V\cdot \alpha }
+  
+  
+    
+      
+        
+          
+            
+          
+          
+            T
+          
+        
+        =
+         
+        
+          
+            
+          
+          
+            T
+          
+        
+        =
+         
+        V
+         
+        
+           
+          
+            T
+          
+        
+      
+    
+    =-\left_}
+  
+on:
+Aquestes tres magnituds són mesurables experimentalment i, en molts casos, són l'única informació disponible sobre el valor de l'energia de Gibbs. Tanmateix no és possible determinar experimentalment les energies de Gibbs en forma absoluta, per la qual cosa cal establir un conveni que possibiliti disposar de valors relatius. Per aquesta raó s'estableix el valor zero a l'energia de Gibbs estàndard de qualsevulla element químic en el seu estat d'agregació més estable, per la qual cosa, en aquestes condicions de pressió i temperatura, el valor de 
+  
+    
+      
+        
+          
+          
+            f
+          
+        
+        
+          G
+          
+             
+          
+        
+      
+    
+    G^
+  
+ d'un compost correspon a la variació de l'energia de Gibbs estàndard de la seva reacció de formació, a partir dels seus elements en el seu estat estàndard. 2 
+En els sistemes en els quals es pot produir una reacció química o un canvi de fase, la quantitat de cada substància present és una variable d'estat. En aquest cas l'energia de Gibbs pot variar amb la temperatura, la pressió i amb cadascuna de les quantitats de substància 
+  
+    
+      
+        n
+      
+    
+    
+  
+ dels components de la mescla. L'expressió per a una mescla de 
+  
+    
+      
+        c
+      
+    
+    
+  
+ components és:
+  
+    
+      
+        d
+        G
+        =
+        
+          
+            
+          
+          
+            P
+            ,
+            
+              n
+              
+                i
+              
+            
+          
+        
+        d
+        T
+        +
+        
+          
+            
+          
+          
+            T
+            ,
+            
+              n
+              
+                i
+              
+            
+          
+        
+        d
+        P
+        +
+        
+           
+          
+            i
+            =
+            1
+          
+          
+            c
+          
+        
+        
+          
+            
+          
+          
+            T
+            ,
+            P
+            ,
+            
+              n
+              
+                j
+                 
+                i
+              
+            
+          
+        
+        d
+        
+          n
+          
+            i
+          
+        
+        =
+         
+        S
+        d
+        T
+        +
+        V
+        d
+        P
+        +
+        
+           
+          
+            i
+            =
+            1
+          
+          
+            c
+          
+        
+        
+           
+          
+            i
+          
+        
+        d
+        
+          n
+          
+            i
+          
+        
+      
+    
+    }dT+\left_dP+\sum _\left_dn_{i}=-SdT+VdP+\sum _\mu _}
+  
+on la derivada 
+  
+    
+      
+        
+          
+            T
+            ,
+            P
+            ,
+            
+              n
+              
+                j
+                 
+                i
+              
+            
+          
+        
+      
+    
+    }}
+  
+ és l'energia de Gibbs molar parcial 
+  
+    
+      
+        
+          
+            
+              
+                G
+                 
+              
+            
+          
+          
+            i
+          
+        
+      
+    
+    }_
+  
+ del component 
+  
+    
+      
+        i
+      
+    
+    
+  
+, habitualment denominada potencial químic del component 
+  
+    
+      
+        i
+      
+    
+    
+  
+, que se simbolitza per 
+  
+    
+      
+        
+           
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \mu _
+  
+. 2 
+Els canvis en l'energia de Gibbs són útils per determinar la direcció del canvi espontani i avaluar el màxim treball que es pot obtenir a partir de processos termodinàmics que impliquen reaccions químiques o d'un altre tipus. D'acord amb la segona llei de la termodinàmica, en un procés espontani la variació total de l'entropia, això és la variació d'entropia del sistema més la variació d'entropia de l'entorn, és major que zero:
+  
+    
+      
+         
+        
+          S
+          
+            t
+            o
+            t
+            a
+            l
+          
+        
+        =
+         
+        
+          S
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+        +
+         
+        
+          S
+          
+            e
+            n
+            t
+            o
+            r
+            n
+          
+        
+        >
+        0
+      
+    
+    =\Delta S_>0}
+  
+Si el sistema està en equilibri tèrmic amb l'entorn, la temperatura de l'entorn serà la mateixa que la del sistema 
+  
+    
+      
+        T
+      
+    
+    
+  
+, i l'increment d'entalpia de l'entorn 
+  
+    
+      
+         
+        
+          H
+          
+            e
+            n
+            t
+            o
+            r
+            n
+          
+        
+      
+    
+    }
+  
+ serà igual a la disminució d'entalpia del sistema 
+  
+    
+      
+         
+        
+          H
+          
+            e
+            n
+            t
+            o
+            r
+            n
+          
+        
+        =
+         
+         
+        
+          H
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+      
+    
+    =-\Delta H_
+  
+. Per tant la variació d'entropia de l'entorn es pot escriure com:
+  
+    
+      
+         
+        
+          S
+          
+            e
+            n
+            t
+            o
+            r
+            n
+          
+        
+        =
+        
+          
+            
+               
+              
+                H
+                
+                  e
+                  n
+                  t
+                  o
+                  r
+                  n
+                
+              
+            
+            T
+          
+        
+        =
+         
+        
+          
+            
+               
+              
+                H
+                
+                  s
+                  i
+                  s
+                  t
+                  e
+                  m
+                  a
+                
+              
+            
+            T
+          
+        
+      
+    
+    =}
+  
+I la variació d'entropia total queda:
+  
+    
+      
+         
+        
+          S
+          
+            t
+            o
+            t
+            a
+            l
+          
+        
+        =
+         
+        
+          S
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+         
+        
+          
+            
+               
+              
+                H
+                
+                  s
+                  i
+                  s
+                  t
+                  e
+                  m
+                  a
+                
+              
+            
+            T
+          
+        
+      
+    
+    =\Delta S_}
+  
+  
+    
+      
+        T
+         
+        
+          S
+          
+            t
+            o
+            t
+            a
+            l
+          
+        
+        =
+        T
+         
+        
+          S
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+         
+         
+        
+          H
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+      
+    
+    =T\Delta S_}
+  
+En un procés espontani és 
+  
+    
+      
+         
+        
+          S
+          
+            t
+            o
+            t
+            a
+            l
+          
+        
+        >
+        0
+      
+    
+    >0}
+  
+, per tant:
+  
+    
+      
+        T
+         
+        
+          S
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+         
+         
+        
+          H
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+        >
+        0
+      
+    
+    -\Delta H_
+  
+  
+    
+      
+         
+        
+        >
+        0
+      
+    
+    
+  
+Posant aquesta expressió en funció de l'energia de Gibbs:
+  
+    
+      
+         
+         
+        
+          G
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+        >
+        0
+        
+         
+        
+         
+        
+          G
+          
+            s
+            i
+            s
+            t
+            e
+            m
+            a
+          
+        
+        <
+        0
+      
+    
+    >0\quad \longrightarrow \quad \Delta G_
+  
+Sota temperatura i pressió constants, la transformació de l'estat es produirà espontàniament si la variació de l'energia de Gibbs és negatiu.
+El terme d'entropia 
+  
+    
+      
+        T
+         
+         
+        S
+      
+    
+    
+  
+ representa l'energia no disponible per a produir un treball, per tant la variació d'energia de Gibbs 
+  
+    
+      
+         
+        G
+      
+    
+    
+  
+ equival a l'energia neta disponible per a produir un treball útil, no d'expansió. Per aquesta raó es qualifica d'«energia lliure», és a dir energia disponible. 7 
+Sigui un sistema tancat a pressió i temperatura constants que té dues fases, α i β, i que un petit nombre de mols de la substància present canvia de la fase α a la β. Tendrem que 
+  
+    
+      
+        d
+        
+          G
+          
+             
+          
+        
+        =
+         
+        
+           
+          
+             
+          
+        
+        d
+        n
+      
+    
+    =-\mu _
+  
+ i 
+  
+    
+      
+        d
+        
+          G
+          
+             
+          
+        
+        =
+        
+           
+          
+             
+          
+        
+        d
+        n
+      
+    
+    =\mu _
+  
+. Per la condició d'equilibri serà:
+  
+    
+      
+        d
+        G
+        =
+        d
+        
+          G
+          
+             
+          
+        
+        +
+        d
+        
+          G
+          
+             
+          
+        
+        =
+        
+        d
+        n
+         
+        0
+      
+    
+    +dG_
+  
+Si consideram 
+  
+    
+      
+        d
+        n
+      
+    
+    
+  
+, positiu en passar d'α a β, hi ha un transport de massa d'α a β i, per tant, ha de ser:
+  
+    
+      
+        
+           
+          
+             
+          
+        
+        >
+        
+           
+          
+             
+          
+        
+      
+    
+    >\mu _
+  
+Això significa que la substància tendeix a passar a la fase de menor potencial, en aquest cas la β. A partir d'aquesta consideració pot establir-se que «qualsevol espècie química tendeix a tenir el mínim potencial químic possible». En assolir l'equilibri 
+  
+    
+      
+        d
+        G
+        =
+        0
+      
+    
+    
+  
+ i serà: 8 
+  
+    
+      
+        
+           
+          
+             
+          
+        
+        =
+        
+           
+          
+             
+          
+        
+      
+    
+    =\mu _
+  
+És a dir, la condició d'equilibri químic es compleix quan els potencials químics  de cada espècie tenen el mateix valor en cada fase, de manera que la substància pugui passar d'una a l'altra lliurement. 8 
+La variació de l'energia de Gibbs d'una substància amb la temperatura i la pressió i és:
+  
+    
+      
+        d
+        G
+        =
+        d
+        H
+         
+        T
+         
+        d
+        S
+         
+        S
+         
+        d
+        T
+        =
+         
+        S
+         
+        d
+        T
+        +
+        V
+         
+        d
+        P
+      
+    
+    
+  
+A temperatura constant només queda el darrer terme, on el volum 
+  
+    
+      
+        V
+      
+    
+    
+  
+ es pot posar en funció de la pressió 
+  
+    
+      
+        P
+      
+    
+    
+  
+ emprant l'equació d'estat dels gasos ideals 
+  
+    
+      
+        P
+         
+        V
+        =
+        n
+         
+        R
+         
+        T
+      
+    
+    
+  
+:
+  
+    
+      
+        d
+        G
+        =
+        V
+         
+        d
+        P
+        =
+        
+          
+            
+              n
+               
+              R
+               
+              T
+            
+            P
+          
+        
+        d
+        P
+      
+    
+    
+  
+Integrant per a 
+  
+    
+      
+        n
+        =
+        1
+        
+        m
+        o
+        l
+      
+    
+    
+  
+ entre una pressió 
+  
+    
+      
+        
+          P
+          
+             
+          
+        
+      
+    
+    }
+  
+ i una pressió 
+  
+    
+      
+        P
+      
+    
+    
+  
+:
+  
+    
+      
+        
+           
+          
+            
+              G
+              
+                 
+              
+            
+          
+          
+            G
+          
+        
+        d
+        G
+        =
+        
+           
+          
+            
+              P
+              
+                 
+              
+            
+          
+          
+            P
+          
+        
+        R
+        T
+        
+          
+            
+              d
+              P
+            
+            P
+          
+        
+        
+         
+        
+        G
+         
+        
+          G
+          
+             
+          
+        
+        =
+        R
+        T
+        ln
+         
+        
+          
+        
+      
+    
+    }^}^=RT\ln \left}
+  
+D'on s'obté la relació:
+  
+    
+      
+        G
+        =
+        
+          G
+          
+            o
+          
+        
+        +
+        R
+        T
+        ln
+         
+        
+      
+    
+    +RT\ln}
+  
+on 
+  
+    
+      
+        
+          G
+          
+             
+          
+        
+      
+    
+    }
+  
+ és l'energia de Gibbs molar d'un gas a 
+  
+    
+      
+        
+          P
+          
+             
+          
+        
+        =
+        100
+        
+        k
+        P
+        a
+      
+    
+    =100\,kPa}
+  
+ , 9  
+  
+    
+      
+        R
+      
+    
+    
+  
+ la constant dels gasos, 
+  
+    
+      
+        T
+      
+    
+    
+  
+ la temperatura i 
+  
+    
+      
+        P
+      
+    
+    
+  
+ la pressió.
+Sigui una reacció química representada per la següent equació química:
+  
+    
+      
+        a
+        A
+        +
+        b
+        B
+        
+         
+        
+        c
+        C
+      
+    
+    
+  
+La variació de l'energia de Gibbs del procés, o energia de Gibbs de la reacció, es pot escriure com:
+  
+    
+      
+        
+           
+          
+            r
+          
+        
+        G
+        =
+         
+        
+          n
+          
+            p
+            r
+            o
+            d
+            u
+            c
+            t
+            e
+            s
+          
+        
+        
+          G
+          
+            p
+            r
+            o
+            d
+            u
+            c
+            t
+            e
+            s
+          
+        
+         
+         
+        
+          n
+          
+            r
+            e
+            a
+            c
+            t
+            i
+            u
+            s
+          
+        
+        
+          G
+          
+            r
+            e
+            a
+            c
+            t
+            i
+            u
+            s
+          
+        
+        =
+        c
+        
+          G
+          
+            C
+          
+        
+         
+        
+          
+        
+      
+    
+    G=\sum n_-\sum n_=cG_
+  
+I es pot posar en funció de les energies de Gibbs estàndard:
+  
+    
+      
+        
+           
+          
+            r
+          
+        
+        G
+        =
+        c
+        
+         
+        a
+        
+         
+        b
+        
+        =
+      
+    
+    G=c-a-b=}
+  
+  
+    
+      
+        =
+        
+        +
+        R
+        T
+        
+        =
+      
+    
+    
+  
+  
+    
+      
+        =
+        
+           
+          
+            r
+          
+        
+        
+          G
+          
+             
+          
+        
+        +
+        R
+        T
+        ln
+         
+        
+          
+        
+        =
+        
+           
+          
+            r
+          
+        
+        
+          G
+          
+             
+          
+        
+        +
+        R
+        T
+        ln
+         
+        
+      
+    
+    G^{\circ }+RT\ln \left=\Delta _+RT\ln}
+  
+On 
+  
+    
+      
+        Q
+      
+    
+    
+  
+ s'anomena quocient de reacció.
+A l'equilibri el criteri d'espontaneïtat indica que 
+  
+    
+      
+        
+           
+          
+            r
+          
+        
+        
+          G
+          
+             
+          
+        
+        =
+        0
+      
+    
+    G^
+  
+ i el quocient de reacció és igual a la constant d'equilibri: 
+  
+    
+      
+        Q
+        =
+        
+          K
+          
+            P
+          
+        
+      
+    
+    }
+  
+. Per tant:
+  
+    
+      
+        0
+        =
+        
+           
+          
+            r
+          
+        
+        
+          G
+          
+             
+          
+        
+        +
+        R
+        T
+        ln
+         
+        
+      
+    
+    G^
+  
+  
+    
+      
+        
+           
+          
+            r
+          
+        
+        
+          G
+          
+             
+          
+        
+        =
+         
+        R
+        T
+        ln
+         
+        
+      
+    
+    {\displaystyle \Delta _=-RT\ln}
+  
+O bé:
+  
+    
+      
+        
+          K
+          
+            P
+          
+        
+        =
+        
+          e
+          
+            
+              
+                 
+                
+                   
+                  
+                    r
+                  
+                
+                
+                  G
+                  
+                     
+                  
+                
+              
+              
+                R
+                T
+              
+            
+          
+        
+      
+    
+    =e^}
+  
+ 7 

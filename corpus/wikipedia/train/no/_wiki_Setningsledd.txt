@@ -1,0 +1,19 @@
+Setningsledd kan bestå av en eller flere ord eller fraser, med en bestemt grammatisk funksjon i en setning.
+Norsk er et såkalt SVO-språk . Det betyr at subjektet helst kommer først i en fortellende setning, etterfulgt av verbal og objekt. Det finnes totalt fem type ledd: verbal, subjekt, objekt , adverbial og predikativ.
+Forklaring :
+Indirekte objekt – Den som handlingen angår; for eksempel går ut over, eller er til fordel for.
+Adverbial – Utfyller verbalet 
+Predikativ – Utfyller subjektet eller objektet
+Eksempel:
+Faren til Hans har et basseng i hagen. Han er en svømmer. Han kaller bassenget "Plensjøen".
+Faren til Hans – Subjekt
+Har – Verbal
+Basseng – Direkte objekt
+I hagen – Adverbial
+Han – Subjekt
+Er – Verbal
+En svømmer – Subjektspredikativ
+Han - Subjekt
+kaller - Verbal
+bassenget - Direkte objekt
+"Plensjøen" - Objektspredikativ

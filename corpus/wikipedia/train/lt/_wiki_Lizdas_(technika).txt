@@ -1,0 +1,2 @@
+Lizdas  – elektrinių grandinių sujungimo elementas, naudojamas kartu su kištuku. Susideda iš kontaktinių elementų, įmontuotų izoliuoto vamzdelio  arba įdubimo viduje. Skirtumai, lyginant su kištuku:
+Tipiškas lizdo atvejis – elektros lizdas, dažniausiai turinti du kontaktus, esančius dviejose angose. Kai kurie iš sudėtingesnių lizdų gali turėti kelis šimtus kontaktų , o kai kurios gerai apsaugotos lizdų ir kištukų jungtys yra pakankamai sudėtingos, kad jungčių elementus būtų keblu priskirti kištukams ar lizdams, tokiuose lizduose, pvz., gali būti išsikišusių kontaktų.

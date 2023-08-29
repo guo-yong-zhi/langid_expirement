@@ -1,0 +1,29 @@
+El cálculo estocástico es una rama de las matemáticas que opera en los procesos estocásticos y las ecuaciones diferenciales estocásticas. El cálculo estocástico constituye una teoría coherente de integración, que generaliza la integración de Stieljes-Lebesgue, y permite definir de manera rigurosa integrales de los procesos estocásticos con respecto a otros procesos estocásticos. Se utiliza para modelar sistemas que se comportan de forma aleatoria.
+El proceso estocástico más conocido de los cuales cálculo estocástico se aplica es el proceso de Wiener , que se utiliza para modelar el movimiento browniano como se describe por Louis Bachelier en 1900 y por Albert Einstein en 1905 y otros procesos de difusión física en el espacio de partículas sujetas a fuerzas aleatorias. Desde la década de 1970, el proceso de Wiener se ha aplicado ampliamente en las matemáticas financieras y la economía para modelar la evolución en el tiempo de los precios de las acciones y las tasas de interés de bonos.
+Los principales sabores de cálculo estocástico son el cálculo de Itô y su pariente el cálculo variacional de Malliavin. Por razones técnicas la integral de Itō es el más útil para las clases generales de los procesos, pero la integral de Stratonovich relacionado es con frecuencia útil en la formulación del problema  La integral Stratonovich fácilmente se puede expresar en términos de la integral de Itō. El principal beneficio de la integral Stratonovich es que obedece a la regla de la cadena de costumbre y por lo tanto no requiere el lema de Itō. Esto permite a los problemas que se expresan en una forma invariante sistema de coordenadas, que tiene un valor incalculable en el desarrollo de cálculo estocástico en variedades distintas de Rn. El teorema de la convergencia dominada no se mantiene para la integral Stratonovich, en consecuencia, es muy difícil de probar los resultados sin re-expresión de las integrales en forma de Itō.
+La integral del Itō es central para el estudio de cálculo estocástico. La integral:
+se define para un semimartingala Wt y limitada localmente  proceso predecible  H. Es decir, Wt será un proceso estocástico  de valor esperado cero. Esta integral generaliza la integral de Riemann-Stieltjes, siendo ahora Wt no una función mensurable ordinaria sino un proceso de Wiener.
+La integral de Itō puede definirse de manera similar a la integral de Riemann-Stieltjes, que es el límite probabilista de una suma de Riemann, dicho límite no existe en general en términos de caminos. Si  es una sucesión de particiones del intervalo  con el diámetro del elemento más grande de la partición tendiendo a cero, entonces la integral de Itō de H con respecto al proceso browniano Wt viene dada por el límite:
+Puede demostrarse que este límite converge en probabilidad.
+La integral Stratonovich de un X semimartingala contra otro semimartingala Y se puede definir en términos de la integral como Itō
+donde 
+  
+    
+      
+        
+          
+            t
+          
+          
+            c
+          
+        
+      
+    
+    ^
+  
+ indica la covariación cuadrática de las partes continuas de X e Y. La notación alternativa 
+también se utiliza para denotar la integral de Stratonovich.
+El cálculo estocástico ha sido una herramienta muy utilizada para resolver problemas aplicados en los que intervienen procesos estocásticos. Por ejemplo, en problemas de control estocástico y de filtrado, las ecuaciones diferenciales de Itō han sido utilizadas como modelos dinámicos de sistemas perturbados por ruido. 
+Otra aplicación importante de cálculo estocástico está en finanzas cuantitativas, en el que los precios de activos a menudo se supone que siguen ecuaciones diferenciales estocásticas. En el modelo de Black-Scholes, los precios se supone que siguen el movimiento browniano geométrico. En 1973 la fórmula de Itō fue utilizada para calcular el precio de opciones por Fischer Black, Myron Scholes y Robert C. Merton.  Esta metodología probó ser muy eficiente para determinar el valor de productos derivados y en 1997 Robert Merton y Myron Scholes recibieron el premio nobel por dicho trabajo pionero.  
+Los tipos de integral estocástica más general, como las integrales más generales como la de Lévy-Itō permiten, ser aplicadas a una gran variedad de ecuaciones diferenciales estocásticas.

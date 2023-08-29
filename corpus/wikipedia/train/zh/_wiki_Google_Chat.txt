@@ -1,0 +1,5 @@
+Google Chat是Google开发的一款通信软件，允許一對一聊天和群組聊天。Google將其視為Google 環聊的替代者 1  2  3  4 。該款軟件最初名為Hangouts Chat，2020年4月更名為Google Chat 5 。
+Google Chat最初只适用于Google Workspace用戶。 6 2021年起，Google Chat向所有用戶開放 7 。Google Chat有管理員功能，這表示建立聊天室者能幾乎掌控聊天室。用戶必須透過Google Workspace帳戶使用Google Chat，才能編輯或刪除Chat訊息。 8 
+Google計劃在2022年初棄用Google 環聊，並用Google Chat取代。 9 
+Google Chat的舊稱為Hangouts Chat。在與Hangouts Meet一同更名之後，Hangouts品牌從 Google Workspace中移除。
+2021年8月，Google開始自動登出iOS和Android上的Google 环聊用戶，並通知他們切換到Google Chat。 10 

@@ -1,0 +1,3 @@
+Leon Marie Esprit Walras  var en sveitsisk økonom, opprinnelig fra Frankrike, som hørte til den nyklassiske retning. Han er særlig kjent for sin generelle likevektsanalyse som han framstilte strengt matematisk. 
+Walras viste at under visse, økonomiske forutsetninger vil alle markeder være gjensidig avhengig av hverandre, og at det i en frikonkurransesituasjon kan eksistere et sett av priser som gjør at markedene gjennom det han kalte en «tatonnement»  prosess vil bli klarert, dvs. at  tilbudte mengder blir lik etterspurte mengder. trenger referanse 
+Walras lov: Har vi n markeder og n – 1 er i likevekt med hverandre, så vil også det siste markedet være i likevekt.

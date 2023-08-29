@@ -1,0 +1,9 @@
+Ne doit pas être confondu avec la lettre grecque lambda ‹ Λ ›.
+Cette page contient des caractères spéciaux ou non latins. Si certains caractères de cet article s’affichent mal , consultez la page d’aide Unicode.
+Ʌ , appelé V culbuté, est une lettre additionnelle qui est utilisée dans l’écriture du temne en Sierra Leone, du dan de l'Est et du goo en Côte d’Ivoire, du landoma en Guinée, de l’ibibio au Nigéria, du nankina en Papouasie-Nouvelle-Guinée, du ch'ol, du lacandon et du tepehuan du Nord au Mexique, de l’emberá darién et du woun meu au Panama et en Colombie, de l’oneida.
+La graphie de la lettre est basée sur celle d’un V retourné. Sa forme minuscule est utilisée par l’alphabet phonétique international pour représenter une voyelle moyenne inférieure postérieure non arrondie.
+En 1885, Wilhelm Viëtor utilise le v culbuté pour transcrire une voyelle mi-ouverte postérieure non arrondie.
+L’alphabet phonétique international utilise le v culbuté depuis 1889, remplaçant le œ utilisé auparant dans la transcription de l’anglais.
+Cette lettre est uilisée dans un dictionnaire de Jarrett de la variante manga du kanuri.
+Sa forme est souvent employée pour remplacer le A majuscule dans des titres stylisés de films ou de livres, ou des logos de marques.
+Le V culbuté peut être représenté avec les caractères Unicode suivants :

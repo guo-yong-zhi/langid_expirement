@@ -1,0 +1,92 @@
+Pontosságellenőrzött
+A matematikában a Hasse-diagram a részbenrendezett halmazok ábrázolására használt ábra. 1 
+Egy tetszőleges 
+  
+    
+      
+        
+      
+    
+    
+  
+ részbenrendezett halmaz Hasse-diagramja olyan irányított gráf, amelyben a részbenrendezett halmaz 
+  
+    
+      
+        M
+      
+    
+    
+  
+ alaphalmazának az elemei alkotják a gráf pontjait, és a gráfban az 
+  
+    
+      
+        a
+      
+    
+    
+  
+ és 
+  
+    
+      
+        b
+      
+    
+    
+  
+ pontok között pontosan akkor halad él, ha 
+  
+    
+      
+        a
+        <
+        b
+      
+    
+    
+  
+ teljesül és nincs olyan 
+  
+    
+      
+        c
+      
+    
+    
+  
+ elem, amelyre 
+  
+    
+      
+        a
+        <
+        c
+        <
+        b
+      
+    
+    
+  
+ teljesülne az adott részbenrendezésben. Az él irányítását a diagramon úgy ábrázoljuk, hogy a 
+  
+    
+      
+        b
+      
+    
+    
+  
+ pontot az 
+  
+    
+      
+        a
+      
+    
+    
+  
+ pont fölött helyezzük el. Ezzel az elrendezéssel azért lehet ábrázolni az élek irányítását, mert a Hasse-diagram körmentes. A reflexivitásból adódó hurokéleket a diagramon nem ábrázoljuk.
+Egy természetes szám osztóit ábrázolhatjuk Hasse-diagram segítségével, hiszen az oszthatóság relációja részbenrendezés. Az alábbi gráf a 60 osztóinak a Hasse-diagramját ábrázolja.
+Az  halmaz osztályozásai, az osztályozás fokozatos „finomítása” által létrehozott részbenrendezéssel

@@ -1,0 +1,297 @@
+I matematikk er en øvre skranke til en delmengde 
+  
+    
+      
+        S
+      
+    
+    
+  
+ av en ordnet mengde 
+  
+    
+      
+        V
+      
+    
+    
+  
+ et element i mengden 
+  
+    
+      
+        V
+      
+    
+    
+  
+ som er større eller lik alle elementer 
+i delmengden.  Tilsvarende defineres en nedre skranke. 1  2  3 
+En delmengde som har en øvre skranke sies å være opptil begrenset.  Tilsvarende er en delmengde nedtil begrenset dersom det eksistererer nedre skranker.  
+Gitt mengden 
+  
+    
+      
+        V
+        =
+        
+      
+    
+    
+  
+ og delmengden 
+  
+    
+      
+        S
+        =
+        
+      
+    
+    
+  
+.  Delmengden er både nedtil og opptil begrenset: 3, 4 og 5 er øvre skranker, og 1 er en nedre skranke.
+Delmengden 
+  
+    
+      
+        
+      
+    
+    
+  
+ i mengden av naturlige tall har 14 som både øvre og nedre skranke. Alle naturlige tall større eller lik 14 er øvre skranker.  Alle narurlige tall mindre eller lik 14 er nedre skranker.  
+Mengden av naturlige tall 
+  
+    
+      
+        
+          
+            N
+          
+          
+            0
+          
+        
+        =
+        
+      
+    
+     _
+  
+ har nedre skranker i mengden av reelle tall 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+, men ingen øvre skranker.
+En delmengde kan være opptil begrenset uten å ha et maksimalt element.  Intervallet 
+  
+    
+      
+        S
+        =
+        [
+        0
+        ,
+        1
+        )
+         
+        
+          
+            R
+          
+        
+      
+    
+     }}
+  
+ har ingen maksimumselement, men er likevel både opptil og nedtil begrenset i mengden av reelle tall.
+Gitt at en delmengde 
+  
+    
+      
+        S
+         
+        V
+      
+    
+    
+  
+ har nedre skranker, og at mengden av nedre skranker har et maksimumselement, så kalles dette elementet for infimum eller største nedre skranke til delmengden:
+Infimum vil ikke alltid eksistere.  Dersom det eksisterer trenger det ikke være et element i 
+  
+    
+      
+        S
+      
+    
+    
+  
+, men det kan være det.  
+Tilsvarende definerer en supremum eller minste øvre skranke:
+Dersom en ordnet mengde har en maksimumsverdi, så er denne lik supremum.  Begrepene infimum og supremum ligner på minimum- og maksiumsverdier, men de kan i mange tilfeller brukes selv om minimums- og 
+maksimumsverdien ikke eksisterer.  
+Det latinske ordet «infimum» er superlativ av «inferus», som betyr «under». 4 
+Flertallsformen på latin er «infima».  Tilsvarende er «supremum» superlativ av «super», med betydning «over».
+Intervallet 
+  
+    
+      
+        S
+        =
+        [
+        0
+        ,
+        1
+        )
+         
+        
+          
+            R
+          
+        
+      
+    
+     }}
+  
+ har 
+  
+    
+      
+        inf
+        S
+        =
+        0
+      
+    
+    
+  
+ og 
+  
+    
+      
+        sup
+        S
+        =
+        1
+      
+    
+    
+  
+.  
+  
+    
+      
+        inf
+        
+          
+        
+        =
+         
+        1.
+      
+    
+    +\mid n=1,2,3,\ldots \right\}=-1.}
+  
+Kompletthetsaksiomet for reelle tall sier at enhver ikketom delmengde av de reelle tall 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+ som er opptil begrenset, har en minste øvre skranke i 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+. 2 
+Dette er et grunnleggende aksiom for mengden av reelle tall, det vil si en grunnsetning som blir forutsatt uten bevis.
+Aksiomet er et uttrykk for mengden av reelle tall er «komplett» i den forstand at der ikke er gap eller hull i mengden.  Mengden av rasjonale tall 
+  
+    
+      
+        
+          Q
+        
+      
+    
+     }
+  
+ har ikke denne egenskapen:
+Ser en for eksempel på delmengden
+så har denne mengden en øvre grense.  Den minste øvre grensen i 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+ ville vært 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    }}
+  
+, men supremum eksisterer ikke i 
+  
+    
+      
+        
+          Q
+        
+      
+    
+     }
+  
+: For hver øvre grense i 
+  
+    
+      
+        
+          Q
+        
+      
+    
+     }
+  
+, så eksisterer det en øvre grense i  
+  
+    
+      
+        
+          Q
+        
+      
+    
+     }
+  
+ som er mindre.  

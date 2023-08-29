@@ -1,0 +1,5 @@
+DVD region code  je technika DRM  navržená k tomu, aby umožnila filmovým studiím kontrolovat aspekty ceny a vypuštění daného DVD na trh  podle daného regionu. DVD disky s filmy vydané těmito studii mohou být opatřeny kódem, který omezí možnost přehrání na určitý region.
+Asociace DVDCCA  se sídlem v Kalifornii v součinnosti s ACCC  vyžaduje, aby výrobci DVD přehrávačů do nich zakomponovali RPC system , který toto rozdělení a toto omezení přehrávání implementuje.
+Podle tohoto rozdělení existuje šest regionů a dvě neformální variace. DVD disky mohou používat jeden kód nebo kombinaci více kódů  nebo být bez omezení .
+Vynucení této restrikce je implementováno v DVD přehrávačích – tj. přehrávač určený pro prodej do země daného regionu si „pamatuje“ číslo svého regionu a disk, který pro něj není určen, odmítne přehrát. Toto platí pro drtivou většinu přehrávačů, existují ale tzv. region free přehrávače, které toto omezení nemají, popř. lze přehrávač hardwarově upravit tak, aby regionální omezení neuplatňoval.
+V tomto článku byl použit překlad textu z článku DVD region code na anglické Wikipedii.

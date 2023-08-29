@@ -1,0 +1,6 @@
+Equaciono esas aserto di egaleso. Se l'aserto inkluzas varianto, l'aserto veresos pri un o plura valori di ta varianto, ma ne sempre per reala nombri .
+Lineara equaciono havas nula varianto di povo plu kam 1. Solvo di lineara equacioni kun un varianto esas simpla. Konsiderata kom equaciono di kurvo, lineara equaciono definas rekta lineo.
+Quadratala equaciono havas varianto di povo 2, ma nula povo plu alta. Videz Radiko.
+Grado di equaciono. Lineara equaciono esas di 1ma grado, quadrata di 2ma grado.
+Samtempa equacioni. Singla equaciono kun du  varianti esas generale nesolvebla. Tamen se esas tam multa equacioni kam varianti, onu povas solvar por singla varianto.
+Equaciono di kurvo. Onu povas definar kurvo kom ensemblo de punti. La relato inter la koordinati di omna punto di l'ensemblo esas l'equaciono di la kurvo.

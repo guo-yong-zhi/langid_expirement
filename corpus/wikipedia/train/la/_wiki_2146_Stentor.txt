@@ -1,0 +1,5 @@
+2146 Stentor, 1  olim designatione 1976 UQ agnitus, est asteroides systematis solaris nostri, asteroidibus Troiani Ioviani attributus. Astronomis terrestribus magnitudinem absolutam 10.8 monstrat. Die 24 Octobris 1976 a Ricardo Martino West, astronomo apud Observatorium La Silla versato, repertus est. 2  
+Rerum orbitalium ratio epochae 4 Ianuarii 2010 constitit. Qua epocha 2146 Stentor per dies 4324 circa solem movebatur. Axem orbitalem habebat unitatum astronomicarum 5.19 et eccentricitatem 0.1, distans igitur a sole quam minime unitatibus 4.66, quam maxime unitatibus 5.73. Inclinatio orbitalis 39.27° reperiebatur, anomalia media 347.83°.
+ Haec commentatio, automatice praeparata, res astronomicas colligit excerptas e pagina  sitús Small-Body Database, quem elaboraverunt NASA et JPL apud Institutum Technologiae Californiense.
+Planetae: Mercurius | Venus | Tellus  | Mars | Iuppiter | Saturnus | Uranus | Neptunus 
+Corpora alia: Satellites | Luna | Asteroides  | Corpora transneptuniana

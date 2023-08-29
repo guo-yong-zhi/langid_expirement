@@ -1,0 +1,2 @@
+Hraničník je nepřenosné železniční návěstidlo, které v síti Správy železnic značí bod styku železničních drah dvou různých provozovatelů. Má stejný tvar jako námezník, ale na rozdíl od něj je žluté barvy s jedním černým pruhem uprostřed. Na místě styku se zahraniční železnicí se toto návěstidlo neumisťuje, běžně se s ním lze setkat například v místě napojení vlečky na železniční síť.
+Návěst, kterou toto návěstidlo dává, se jmenuje Hranice provozovatele dráhy.

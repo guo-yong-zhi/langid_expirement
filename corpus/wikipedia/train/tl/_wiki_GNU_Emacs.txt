@@ -1,0 +1,2 @@
+Isang uri ng text editor kalimitang ginagamit ng mga kompyuter programmer. Bahagi ng GNU Proyekto. Unang sinulat ni Richard Stallman nuong 1975.
+ Ang lathalaing ito na tungkol sa Kompyuter ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito.

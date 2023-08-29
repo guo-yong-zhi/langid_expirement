@@ -1,0 +1,212 @@
+Efekt Unruha – efekt polegający na tym, że obserwator poruszający się z przyspieszeniem będzie w stanie wykryć promieniowanie ciała doskonale czarnego, kiedy obserwator stacjonarny nie będzie obserwował takiego promieniowania. Innymi słowy, obserwator niepodlegający przyspieszeniu  może nie widzieć w danej przestrzeni żadnych cząstek, daną przestrzeń wypełnia dla niego jedynie próżnia kwantowa, ale przyspieszający obserwator będzie w stanie w danej przestrzeni obserwować istniejące cząstki. Według równania opisującego efekt Unruha, liczba cząstek obserwowanych w danym polu kwantowym jest zależna od przyspieszenia obserwatora – im większe przyspieszenie, tym więcej cząstek jest widocznych. W prosty sposób efekt może być opisany następującym eksperymentem myślowym – poruszany w próżni termometr  zarejestruje niezerową temperaturę, a będący w tej samej przestrzeni termometr stacjonarny będzie wskazywał zerową temperaturę.
+Ściśle detektor termiczny poruszający się z przyspieszeniem 
+  
+    
+      
+        a
+      
+    
+    
+  
+ w próżni kwantowej w temperaturze zera bezwzględnego zarejestruje ją jako przestrzeń wypełnioną promieniowaniem o temperaturze
+a więc wypełnioną głównie kwantami o energii
+tzn. częstości
+Okres tego promieniowania jest więc proporcjonalny z małym współczynnikiem do czasu 
+  
+    
+      
+        t
+        =
+        c
+        
+          /
+        
+        a
+        ,
+      
+    
+    
+  
+ tzn. czasu w jakim detektor ten osiąga nierelatywistycznie prędkość światła 
+  
+    
+      
+        c
+        ,
+      
+    
+    
+  
+ a więc żeby był obserwowalny np. dla temperatur pokojowych przyspieszenie to musi być gigantyczne.
+Zgodnie z tzw. silną zasadą równoważności efekt powinien być obserwowalny zarówno dla detektora poruszającego się z przyspieszeniem, jak też dla detektora w polu grawitacyjnym ciała masywnego, którego spadkowi swobodnemu opiera się ten detektor, tzn. np. na powierzchni Ziemi. Znaczy to, że ciała w polach grawitacyjnych, w których spadkowi swobodnemu się opierają, same nagrzewają się. Podstawiając do wzoru na temperaturę Unruha np. przyspieszenie ziemskie 
+  
+    
+      
+        a
+        =
+        g
+        =
+        9
+        
+          ,
+        
+        81
+        
+          
+            m/s
+          
+          
+            2
+          
+        
+        ,
+      
+    
+    81^
+  
+ otrzymujemy efektywną temperaturę próżni na powierzchni Ziemi z powodu efektu 
+  
+    
+      
+        T
+        =
+        3
+        
+          ,
+        
+        89
+         
+        
+          10
+          
+             
+            20
+          
+        
+      
+    
+    89\times 10^
+  
+ Kelwina, a więc tak małą, że całkowicie niemierzalną. Natomiast podstawiając przyspieszenie na powierzchni Schwarzschilda
+gdzie:
+jest promieniem Schwarzschilda.
+Otrzymujemy dokładnie temperaturę Unruha równą temperaturze promieniowania Hawkinga czarnej dziury
+Używając związku wiążącego stałą grawitacji ze stałą Plancka
+temperaturę tę możemy zapisać jako
+Mimo że stosunek masy elektronu do masy czarnej dziury 
+  
+    
+      
+        
+          m
+          
+            e
+          
+        
+        
+          /
+        
+        M
+      
+    
+    /M}
+  
+ jest normalnie znikomy  gigantyczny czynnik wzmacniający 
+  
+    
+      
+        
+          m
+          
+            e
+          
+        
+        
+          c
+          
+            2
+          
+        
+        
+          /
+        
+        
+           
+          
+            20
+          
+        
+      
+    
+    c^}
+  
+ odpowiadający temperaturze energii spoczynkowej elektronu, tzn. gigantycznej temperaturze połowy kwantu gamma kreującego parę elektron-pozytron  pomnożonej przez odwrotność 20. potęgi stałej struktury subtelnej 
+  
+    
+      
+         
+      
+    
+    
+  
+  może powiększyć tę temperaturę do łatwo mierzalnej lub nawet gigantycznej. Wzór również oznacza, że paradoksalnie im lżejsza i mniejsza jest czarna dziura, tym większa jest jej temperatura Unruha . Ponieważ czarna dziura promieniuje, a energia tego promieniowanie nie może pochodzić z samej próżni, a jedynie ze spalania jej masy spoczynkowej, cząstka tak lekka jak cząstka Plancka, która też jest czarną dziura, generując bardzo gorące, czyli bardzo energetyczne promieniowanie, wyparowałaby poprzez mechanizm Unruha-Hawkinga prawie natychmiast. Efekt przewiduje więc także, że istnieje krytyczna gęstość każdej materii, kiedy samoczynnie zaczyna ona podlegać spalaniu i eksplozji jądrowej.
+Efekt został niezależnie opisany przez Fullinga , Daviesa  i Unruha .
+Ze względu na znikomość efektu dla przyspieszeń obiektów makroskopowych efekt możliwy jest do zaobserwowania dla pola elektromagnetycznego w laboratorium jedynie poprzez użycie jako detektora  elektronu lub mionu albo poprzez obserwacje absorpcji spontanicznej w jego wewnętrznym stopniu swobody, spinie, bądź w widmie jego promieniowania jako dodatkowego promieniowania Hawkinga.
+Rozwiązując temperaturę Unruha ze względu na przyśpieszenie, można je wyrazić jako
+gdzie 
+  
+    
+      
+        
+          a
+          
+            
+              P
+            
+          
+        
+      
+    
+     }}
+  
+ jest przyśpieszeniem Plancka, a 
+  
+    
+      
+        
+          T
+          
+            
+              P
+            
+          
+        
+      
+    
+    {\displaystyle T_}
+  
+ jest temperaturą Plancka.
+  
+    
+      
+        E
+        =
+        
+          
+            
+              
+                2
+              
+            
+            +
+            
+              
+                2
+              
+            
+          
+        
+      
+    
+    +^
+  

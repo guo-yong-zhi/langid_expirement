@@ -1,0 +1,130 @@
+Em matemática, em especial na teoria da medida, um espaço mensurável é um conjunto 
+  
+    
+      
+        
+          X
+        
+        
+      
+    
+     \,}
+  
+ dotado de uma sigma-álgebra 
+  
+    
+      
+        
+          
+            M
+          
+        
+        
+      
+    
+    }\,}
+  
+. Denota-se 
+  
+    
+      
+        
+          
+        
+        .
+      
+    
+    
+  
+Todo conjunto pertencente à 
+  
+    
+      
+        
+          
+            M
+          
+        
+        
+      
+    
+    }\,}
+  
+ é dito conjunto mensurável.
+Quando 
+  
+    
+      
+        
+          X
+        
+        
+      
+    
+     \,}
+  
+ é também um espaço topológico com uma topologia 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+, é muitas vezes o caso que 
+  
+    
+      
+         
+         
+        
+          
+            M
+          
+        
+        
+      
+    
+    }\,}
+  
+. Neste caso, todos os conjuntos borelianos são
+mensuráveis e o espaço é dito de Borel.
+Quando existe uma medida 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ definida em 
+  
+    
+      
+        
+          
+            M
+          
+        
+        
+      
+    
+    }\,}
+  
+, dizemos que 
+  
+    
+      
+        
+          
+        
+        
+      
+    
+    
+  
+ é um espaço de medida ou espaço com medida.

@@ -1,0 +1,3 @@
+Open Smart Grid Protocol  è una famiglia di specifiche pubblicate dall'European Telecommunications Standards Institute  usata insieme allo standard di rete di controllo ISO/IEC 14908 per le applicazioni di smart grid.
+OSGP è ottimizzato per fornire una spedizione efficiente ed affidabile di comando e controllo dell'informazione per i contatori intelligenti, i moduli di controllo diretto del carico, i pannelli solari, i gateway e altri dispositivi di rete smart.
+Con oltre 5 milioni di contatori smart e dispositivi con protocollo OSFP in tutto il mondo, è uno degli standard di rete smart più usati.

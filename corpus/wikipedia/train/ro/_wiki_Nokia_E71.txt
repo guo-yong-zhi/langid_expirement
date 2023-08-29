@@ -1,0 +1,17 @@
+
+Smartphone-ul se bazează pe platforma S60 cu sistemul de operare Symbian v9.2.
+Nokia E71 are un ecran de 2.4 inchi, o tastaură QWERTY și o cameră de 3.2 megapixeli.
+E71 are Bluetooth, port Infraroșu, Wi-Fi și port micro-USB.
+E71 are carcasa din inox si plastic și este disponibilă în 2 culori negru și alb.
+În partea superioară găsim senzorul de lumină ambiantă și în dreaptă este camera pentru apelurile video.
+Microfonul este în față. În partea stângă este amplasat slotul pentru cardul microSD și portul microUSB și sunt acoperite cu capace din plastic. 3 
+În partea dreaptă avem mufa audio de 2.5 mm, iar puțin mai jos sunt tastele de volum. Între acestea găsim butonul pentru comanda vocală.
+În partea de sus este localizat difuzorul. 
+În partea de jos avem mufa pentru încărcare și locasul pentru șnur.
+Camera foto are 3.2 megpaixeli cu focalizare automată și bliț LED cu care se pot face fotografii la rezoluția maximă de 2048 x 1536 pixeli. 4 
+Camera video este QVGA care captează la 15 cadre pe secundă.
+Player-ul audio suportă formatele MP3/WMA/WAV/RA/AAC/M4A. Real Player suportă formatele video WMV/RV/MP4/3GP.
+Conexiune se bazează pe GPRS, EDGE și HSDPA. E71 are un port Infraroșu, Bluetooth 2.0 cu A2DP, microUSB 2.0 și Wi-Fi 802.11 b/g.
+Clientul de e-mail suportă protocoalele IMAP, POP3 și clientul de e-mail Nokia Mail permite conectarea la conturi Microsoft Exchange. 5 
+Are GPS integrat cu suport A-GPS și aplicația de navigație Nokia Maps.
+Este echipat cu Radio FM și aplicația Visual Radio.

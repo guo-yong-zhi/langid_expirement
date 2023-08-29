@@ -1,0 +1,10 @@
+RFID  estas originale angla mallongigo por sentuŝa aŭtomata identigo de objektoj kaj datentransporto per radiofrekvenco. La RFID-etikedo estas malgranda objekto, kiu estas fiksebla, konstruebla sur/en la difinitan objekton. La objekto povas esti iu ajn artikolo, varoelemento aŭ eĉ organismo, eĉ homo.
+La unuaj RFID-similaj aplikoj okazis en fino de la dua mondmilito, por identigi amikajn-malamikajn aviadilojn .
+En 1946 Léon Theremin inventis spionan antaŭtipon de RFID, enkonstruita en blazonon de Usono kaj donacita al la usona ambasadejo. Usono malkovris nur en 1952 la spionadon.
+La RFID-etikedoj havas tri ĉefajn tipojn, kiuj ĉiuj havas antenon. La tipoj diferenciĝas laŭ la energiprizorgo:
+La pasiva RFID ne havas propran energifonton, ĝi kaptas kaj uzas la energion, senditan per radiofrekvencoj . La energion transdonas la legilo tra radiofrekvenca signo, kiu vivigas la enkonstruitan etan CMOS-an IC-on per la anteno kaj tiuj respondas la signon .
+La responda signo estas plej ofte unika identiga numero, sed okazas, ke la etikedo entenas malgrandan memorion  kaj ankaŭ ties enhavo estas resendita okaze de datenpeto.
+La pasivaj etikedoj estas tre malgrandaj, en 2005 oni uzis en la komerco grandajn de 0,4 x 0,4 mm, paperdikajn etikedojn. La efika distanco de la pasivaj RFID-etikedoj estas de 2 mm  ĝis kelkaj metroj . Ĉar ĝi estas malmultekoste produktebla, ĝi disvastiĝis plej larĝe.
+Tiu tipo entenas malgrandan pilon, kiu ebligas la daŭran funkciadon de la IC. La anteno ne devas akcepti signojn, tiel ĝi estas optimigita je datensendo. Tiu tipo pli rapide kaj pli ĝuste respondas ol la pasiva tipo.
+La aktivaj RFID-etikedoj entenas energiofonton, kiu sufiĉas por funkciigo de iu ajn IC kaj por sendo de informoj. Ili havas pli grandan atingopovon  kaj memorian kapaciton ol la pasivaj versioj.
+Kelkaj aktivaj etikedoj funkcias impulsosimile, tiel ŝparas energion, tiel funkcitenas eĉ 10 jarojn.

@@ -1,0 +1,8 @@
+V klasické logice se používají dvě pravdivostní hodnoty – pravda a nepravda. Hodnota pravda znamená, že výrok je pravdivý.
+V algebře tvoří množina  a na ní definované operace Booleovu algebru.
+V klasické logice se používají dvě pravdivostní hodnoty pravda , a nepravda . Logické spojky konjunkce a disjunkce jsou binární] logické funkce; vzájemně jsou propojeny de Morganovými zákony:
+V elektrických obvodech a v počítačích se hodnoty pravda a nepravda reprezentují podle vhodně vybraných elektrických veličin, nejčastěji napětí. Ve standardní logice TTL se používají tyto úrovně napětí:
+V jiných typech logických obvodů se používají jiné úrovně napětí, v moderních počítačích se pro snížení příkonu napětí pro logickou jedničku snižuje až k jednomu voltu.
+U počítačových sběrnic se používá tak zvaná trojstavová logika. Znamená to pouze, že výstupy obvodů, které nejsou vybrány, jsou ve stavu vysoké impedance, aby neovlivňovaly výstupy právě vybraných obvodů.
+Fuzzy logika a vícestavová logika používají více hodnot, než je pouze pravda a nepravda. Výrok tak může být pravdivý, nebo nepravdivý pouze částečně, můžeme také prohlásit, že pravdivost nebo nepravdivost výroků je neznámá.
+V tomto článku byl použit překlad textu z článku Truth value na anglické Wikipedii.

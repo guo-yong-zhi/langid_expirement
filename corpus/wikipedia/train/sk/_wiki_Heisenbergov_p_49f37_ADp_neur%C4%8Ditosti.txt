@@ -1,0 +1,63 @@
+Heisenbergov princíp neurčitosti  je jeden zo základných termínov kvantovej mechaniky . Podľa tohto princípu isté dvojice pozorovateľných veličín  nemôžu byť súčasne známe s vyššou presnosťou než aká je daná hornou hranicou vyjadrenou pomocou Planckovej konštanty. Čím presnejšie zmeriame jednu veličinu, tým nepresnejšie zmeriame druhú veličinu.
+Dôsledkom princípu je skutočnosť, že nie je možné teoreticky ani experimentálne určiť polohu a hybnosť častice súčasne. V každodennom svete sa ale s týmto dôsledkom nestretávame vzhľadom na veľmi malú hodnotu Planckovej konštanty. 
+V kvantových systémoch však hrá princíp významnú rolu. Ak chceme preto veľmi presne lokalizovať časticu, potom môžeme použiť svetlo s krátkou vlnovou dĺžkou. Čím nižšiu vlnovú dĺžku svetla však na lokalizáciu použijeme, tým väčšiu energiu má samotný fotón, tým pádom, má fotón aj väčšiu hybnosť. Avšak túto hybnosť  počas merania polohy fotón odovzdá samotnej častici, čím výrazne zmení jej hybnosť.
+Ak by sme pokus spravili naopak, t. j. chceli by sme poznať presnú hybnosť, musíme použiť svetlo s nízkou energiou, čiže veľkou vlnovou dĺžkou. Tým by ale došlo k veľmi nepresnému určeniu polohy častice.
+Súčin štandardných odchýlok Δx a Δp merania polohy a hybnosti danej častice je podľa Heisenbergovho princípu neurčitosti viazaný nasledujúcim vzťahom:
+pričom 
+  
+    
+      
+         
+      
+    
+    
+  
+ je tzv. redukovaná Planckova konštanta. Podobne je obmedzená aj presnosť v simultánnom určení času 
+  
+    
+      
+        t
+      
+    
+    
+  
+ a energie 
+  
+    
+      
+        E
+      
+    
+    
+  
+:
+či napríklad uhla 
+  
+    
+      
+        
+          O
+          
+            i
+          
+        
+      
+    
+    }
+  
+ a momentu hybnosti 
+  
+    
+      
+        
+          J
+          
+            i
+          
+        
+      
+    
+    {\displaystyle J_
+  
+  daného objektu:
+Vo všeobecnosti platí princíp neurčitosti pre všetky operátory pozorovateľných veličín, ktoré navzájom nekomutujú.

@@ -1,0 +1,2 @@
+Konoda -  pojęcie dotyczące analizy wykresów równowagi, odcinek izotermy pomiędzy punktami przecięcia z linią likwidus albo liniami granicznymi obszarów. Skrajne punkty konody określają jakie fazy współistnieją oraz jaki jest ich skład chemiczny. Linia pionowa przypisana do rozpatrywanego stopu, dzieli konodę na odcinki proporcjonalne do udziału faz w tym stopie
+.

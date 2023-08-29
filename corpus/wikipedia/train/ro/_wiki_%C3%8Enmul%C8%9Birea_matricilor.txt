@@ -1,0 +1,1078 @@
+În matematică, în special în algebra liniară, înmulțirea matricilor sau înmulțirea matricială 1  este o operație binară care produce o matrice din două matrici. La înmulțirea matricială, numărul de coloane din prima matrice trebuie să fie egal cu numărul de linii din a doua matrice. Matricea rezultată, cunoscută sub numele de produs matricial, are numărul de linii ale primei matrice și numărul de coloane ale celei de-a doua matrice. Produsul matricilor A și B este notat AB. 2 
+Înmulțirea matricială a fost descrisă pentru prima dată de matematicianul francez Jacques Philippe Marie Binet în 1812, 3  pentru a reprezenta compunerea funcțiilor⁠ de transformări liniare care sunt reprezentate cu ajutorul matricilor. Astfel, înmulțirea matricială a devenit un instrument de bază al algebrei liniare și, ca atare, are numeroase aplicații în multe domenii ale matematicii, precum și în matematica aplicată, statistică, fizică, economie și inginerie. 4  5  Calculul produselor matriciale este o operație centrală în toate aplicațiile algebrei liniare.
+În acest articol convențiile privind notațiile sunt următoarele: matricile sunt reprezentate prin litere majuscule grase , de exemplu A; vectorii cu litere minuscule grase, de exemplu a; iar elementele vectorilor și matricilor cu italice, de exemplu A sau a. Notația indexată este adesea cel mai clar mod de a exprima definițiile și este notația standard folosit în literatura de specialitate. Linia din matrice este indicată de indicele i, iar coloana de indicele j. Elementul matricei A este indicat prin ij, Aij sau aij. Prin excepție, un singur indice, de exemplu A1, A2, se folosește pentru a indica o matrice  dintr-o colecție de matrici.
+Dacă A este o matrice m × n iar B este o matrice n × p,
+Produsul matricial C = AB  este definit ca fiind matricea m × p  6  7  8  9 
+asfel încât
+pentru i = 1, ..., m și j = 1, ..., p.
+Adică elementul cij al produsului se obține prin înmulțirea termen cu termen a elementelor din linia i a matricei A cu cele din coloana j a matricei B și sumând aceste n produse. Altfel spus, cij este produsul scalar al liniei i a matricei A cu coloana j a matricei B.
+Prin urmare AB poate fi scris și ca
+Astfel produsul AB este definit dacă și numai dacă numărul de coloane din A este egal cu numărul de linii din  B, 2  în acest caz n.
+În majoritatea cazurilor elementele matricilor sunt numere, dar pot fi orice fel de obiecte matematice pentru care sunt definite o adunare și o înmulțire, care sunt asociative, adunarea să fie comutativă, iar înmulțirea să fie distributivă în raport cu adunarea. În particular, elementele pot fi ele înseși matrici.
+Figura din dreapta ilustrează schematic produsul a două matrice A și B, arătând cum fiecare intersecție din matricea produsului corespunde cu o linie din A și o coloană din B.
+Valorile de la intersecții, marcate cu cercuri în figura din dreapta, sunt:
+Istoric, înmulțirea matricilor a fost introdusă pentru a facilita și clarifica calculele din algebra liniară. Această relație strânsă între înmulțirea matricilor și algebra liniară rămâne fundamentală în toate ramurile matematicii, precum și în fizică, chimie, inginerie și informatică.
+Dacă un spațiu vectorial are o bază finită, orice vector este reprezentat în mod unic printr-un șir finit de scalari, numit componentele vectorului, ale cărui elemente sunt coordonatele vectorului în acea bază. Aceste componente formează un alt spațiu vectorial, care este izomorf cu spațiul vectorial inițial. Componentele vectorului sunt plasate de obicei într-o matrice coloană , care este o matrice cu o singură coloană. Deci, un vector coloană reprezintă atât componentele vectorului, cât și un vector din spațiului vectorial inițial.
+O aplicație liniară A dintr-un spațiu vectorial de dimensiune n într-un spațiu vectorial de dimensiune m aplică un vector coloană
+pe vectorul coloană
+Aplicația liniară A este astfel definită de matricea 
+și aplică vectorul coloană 
+  
+    
+      
+        
+          x
+        
+      
+    
+     }
+  
+ pe produsul matricial
+Dacă B este o altă aplicație liniară din spațiul vectorial precedent de dimensiunea m, într-un spațiu vectorial de dimensiunea p, este reprezentată printr-o matrice 
+  
+    
+      
+        
+          B
+        
+      
+    
+     }
+  
+ . Un calcul simplu arată că matricea compunerii 
+  
+    
+      
+        B
+         
+        A
+      
+    
+    
+  
+ este produsul matricial 
+  
+    
+      
+        
+          B
+          A
+        
+        .
+      
+    
+     .}
+  
+ Formula generală 
+  
+    
+      
+        
+        
+        =
+        B
+        (
+        A
+        
+        )
+      
+    
+    
+  
+ care definește funcția compusă este prezentată aici ca un caz particular de asociativitate al produsului matricial:
+Folosind un sistem de coordonate carteziene într-un plan euclidian, rotația cu un unghi 
+  
+    
+      
+         
+      
+    
+    
+  
+ în jurul originii este o aplicație liniară. Mai exact,
+unde punctul inițial 
+  
+    
+      
+        
+      
+    
+    
+  
+ și imaginea sa 
+  
+    
+      
+        
+      
+    
+    
+  
+ sunt scrise ca vectori coloană.
+Compunerea rotației cu unghiul 
+  
+    
+      
+         
+      
+    
+    
+  
+ și cea cu unghiul 
+  
+    
+      
+         
+      
+    
+    
+  
+ corespunde apoi cu produsul matricial
+în care membrul drept al ultimei identități conține identitățile trigonometrice pentru sinusul și cosinusul sumei și diferenței unghiurilor, compunerea corespunde rotației cu unghiul 
+  
+    
+      
+         
+        +
+         
+      
+    
+    
+  
+, cum era de așteptat.
+De exemplu, o fabrică fictivă folosește 4 tipuri de materii prime, 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+        ,
+        
+          b
+          
+            2
+          
+        
+        ,
+        
+          b
+          
+            3
+          
+        
+        ,
+        
+          b
+          
+            4
+          
+        
+      
+    
+    ,b_,b_
+  
+ pentru a produce 3 tipuri de bunuri intermediare , 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+        ,
+        
+          m
+          
+            2
+          
+        
+        ,
+        
+          m
+          
+            3
+          
+        
+      
+    
+    ,m_}
+  
+, care la rândul lor sunt folosite pentru a produce 3 tipuri de produse finite, 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        ,
+        
+          f
+          
+            2
+          
+        
+        ,
+        
+          f
+          
+            3
+          
+        
+      
+    
+    ,f_{2},f_
+  
+. Matricile
+furnizează cantitatea de materii prime necesare pentru o anumită cantitate de bunuri intermediare și, respectiv, cantitatea de bunuri intermediare necesară pentru o anumită cantitate de produse finite. De exemplu, pentru a produce o unitate de bun intermediar 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+      
+    
+    }
+  
+, sunt necesare o unitate de materie primă 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    {\displaystyle b_
+  
+, două unități de 
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+      
+    
+    }
+  
+, nicio unitate de 
+  
+    
+      
+        >
+        
+          b
+          
+            3
+          
+        
+      
+    
+    }
+  
+ și o unitate de 
+  
+    
+      
+        
+          b
+          
+            4
+          
+        
+      
+    
+    }
+  
+, corespunzătoare primei coloane din 
+  
+    
+      
+        
+          A
+        
+      
+    
+     }
+  
+.
+Folosind înmulțirea matricilor se calculează
+această matrice indică direct cantitățile de materii prime necesare pentru cantități date de produse finite. De exemplu, intrarea din stânga jos a 
+  
+    
+      
+        
+          A
+          B
+        
+      
+    
+     }
+  
+ este calculată ca fiind 
+  
+    
+      
+        1
+         
+        1
+        +
+        1
+         
+        2
+        +
+        2
+         
+        4
+        =
+        11
+      
+    
+    
+  
+, reflectând faptul că pentru a produce o unitate de 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+      
+    
+    }
+  
+ sunt necesare 
+  
+    
+      
+        11
+      
+    
+    
+  
+ unități de 
+  
+    
+      
+        
+          b
+          
+            4
+          
+        
+      
+    
+    }
+  
+. Efectiv, este necesară o unitate de 
+  
+    
+      
+        
+          b
+          
+            4
+          
+        
+      
+    
+    }
+  
+ pentru 
+  
+    
+      
+        
+          m
+          
+            1
+          
+        
+      
+    
+    {\displaystyle m_
+  
+, 2 pentru 
+  
+    
+      
+        
+          m
+          
+            2
+          
+        
+      
+    
+    }
+  
+ și 
+  
+    
+      
+        4
+      
+    
+    
+  
+ pentru fiecare dintre cele două 
+  
+    
+      
+        
+          m
+          
+            3
+          
+        
+      
+    
+    }
+  
+ unități care intră în unitatea 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+      
+    
+    }
+  
+, vezi imaginea.
+Pentru a produce de exemplu 100 de unități din produsul final 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+      
+    
+    }
+  
+, 80 de unități de 
+  
+    
+      
+        
+          f
+          
+            2
+          
+        
+      
+    
+    }
+  
+ și 60 de unități de 
+  
+    
+      
+        
+          f
+          
+            3
+          
+        
+      
+    
+    }
+  
+, cantitățile necesare de materii prime pot fi calculate prin
+adică 
+  
+    
+      
+        1000
+      
+    
+    
+  
+ unități de 
+  
+    
+      
+        
+          b
+          
+            1
+          
+        
+      
+    
+    }
+  
+, 
+  
+    
+      
+        1820
+      
+    
+    
+  
+ unități de 
+  
+    
+      
+        
+          b
+          
+            2
+          
+        
+      
+    
+    }
+  
+, 
+  
+    
+      
+        1180
+      
+    
+    
+  
+ unități de 
+  
+    
+      
+        
+          b
+          
+            3
+          
+        
+      
+    
+    }
+  
+ și 
+  
+    
+      
+        2180
+      
+    
+    
+  
+ unități de 
+  
+    
+      
+        
+          b
+          
+            4
+          
+        
+      
+    
+    }
+  
+.
+Similar, matricea produsului 
+  
+    
+      
+        
+          A
+          B
+        
+      
+    
+     }
+  
+ poate fi utilizată pentru a calcula cantitățile necesare de materii prime pentru alte date privind cantitățile de produse finale. 10 
+Forma generală a unui sistem de ecuații liniare este:
+Folosind aceeași notație ca mai sus, un astfel de sistem este echivalent cu o singură ecuație matricială:
+Produsul scalar al doi vectori coloană este elementul unic al produsului matricial
+unde 
+  
+    
+      
+        
+          
+            x
+          
+          
+            
+              T
+            
+          
+        
+      
+    
+     ^}
+  
+ este vectorul linie obținut prin transpunerea 
+  
+    
+      
+        
+          x
+        
+      
+    
+     }
+  
+. 
+În general, orice formă biliniară pe un spațiu vectorial de dimensiune finită poate fi exprimată ca produs matricial:
+și orice altă formă sesquiliniară⁠ poate fi exprimată prin
+unde 
+  
+    
+      
+        
+          
+            x
+          
+          
+             
+          
+        
+      
+    
+     ^
+  
+ este adjuncta lui 
+  
+    
+      
+        
+          x
+        
+      
+    
+     }
+  
+ .
+Înmulțirea matricială are unele proprietăți asemănătoare cu înmulțirea obișnuită. Totuși, înmulțirea matricială nu este definită dacă numărul de coloane al primului factor diferă de numărul de linii al celui de-al doilea factor și este necomutativă, 11  chiar și când produsul rămâne definit după schimbarea ordinii factorilor. 12  13 
+O operație este comutativă dacă, fiind date două elemente A și B astfel încât produsul 
+  
+    
+      
+        
+          A
+        
+        
+          B
+        
+      
+    
+     \mathbf 
+  
+ este definit, atunci 
+  
+    
+      
+        
+          B
+        
+        
+          A
+        
+      
+    
+     \mathbf 
+  
+ este definit și 
+  
+    
+      
+        
+          A
+        
+        
+          B
+        
+        =
+        
+          B
+        
+        
+          A
+        
+        .
+      
+    
+     \mathbf {B} =\mathbf  .}
+  
+Înmulțirea matricială a două matrici A și B al căror produs matricial 
+  
+    
+      
+        
+          A
+        
+        
+          B
+        
+      
+    
+     \mathbf 
+  
+ este definit, ar fi comutativă dacă produsul 
+  
+    
+      
+        
+          B
+        
+        
+          A
+        
+      
+    
+     \mathbf 
+  
+ este și el definit, iar 
+  
+    
+      
+        
+          A
+        
+        
+          B
+        
+        =
+        
+          B
+        
+        
+          A
+        
+        .
+      
+    
+     \mathbf {B} =\mathbf  .}
+  
+Dacă A și B sunt matrici de dimensiunile m×n respectiv p×q, atunci 
+  
+    
+      
+        
+          A
+        
+        
+          B
+        
+      
+    
+     \mathbf 
+  
+ este definit dacă n = p, iar 
+  
+    
+      
+        
+          B
+        
+        
+          A
+        
+      
+    
+     \mathbf 
+  
+ este definit dacă m = q. Prin urmare, dacă unul dintre produse este definit, celălalt ar trebui să fie nedefinit. Dacă 
+  
+    
+      
+        m
+        =
+        q
+         
+        n
+        =
+        p
+      
+    
+    
+  
+, cele două produse sunt definite, dar au dimensiuni diferite; astfel că ele nu pot fi egale. Doar dacă m = q= n= p, adică dacă A și B sunt ambele  pătrate, de aceeași dimensiune, ambele produse sunt definite și au aceeași dimensiune. Chiar și în acest caz, în general
+De exemplu
+dar
+Acest exemplu poate fi extins pentru a arăta că dacă A este o matrice n×n cu elementele într-un corp F, atunci 
+  
+    
+      
+        
+          A
+        
+        
+          B
+        
+        =
+        
+          B
+        
+        
+          A
+        
+      
+    
+     \mathbf  \mathbf 
+  
+ pentru orice matrice B n×n cu elementele din F dacă și numai dacă 
+  
+    
+      
+        
+          A
+        
+        =
+        c
+        
+        
+          I
+        
+      
+    
+     =c\,\mathbf 
+  
+ unde 
+  
+    
+      
+        c
+         
+        F
+      
+    
+    
+  
+ și I este matricea unitate n×n. Dacă, în loc de un corp, se presupune că elementele aparțin unui inel, atunci trebuie adăugată condiția ca c să aparțină centrului inelului.
+Un caz particular în care comutativitatea apare este atunci când D și E sunt două matrici diagonale pătrate de aceeași mărime. Atunci DE = ED. 11  Din nou, dacă matricile sunt peste un inel generic în loc de a fi peste un corp, elementele corespunzătoare ale fiecăreia trebuie, de asemenea, să fie comutative unul față de celălalt pentru ca acest lucru să fie valabil.
+Produsul matricial este distributiv față de adunarea matricilor. Adică dacă A, B, C, D sunt matrici de dimensiunile respective m×n, n×p, n×p, și p×q, există atât distributivitatea la stânga 11 
+cât și la dreapta 11 
+Aceasta rezultă din distributivitatea coeficienților 
+Fiind date matricile A, B și C, produsele C și A sunt definite dacă și numai dacă numărul de coloane din A este egal cu numărul de linii din B și numărul de coloane din B este egal cu numărul de linii din C . În acest caz există asociativitatea
+Ca la orice operație asociativă, aceasta permite omiterea parantezelor și scrierea produselor de mai sus ca 
+  
+    
+      
+        
+          A
+          B
+          C
+        
+        .
+      
+    
+     .}
+  
+Aceasta se extinde natural la produsul a oricâte matrici, cu condiția ca dimensiunile să se potrivească. Adică dacă A1, A2, ... , A n sunt matrici astfel încât numărul de coloane ale Ai este egal numărul de linii ale Ai + 1 pentru i = 1, ... , n−1, atunci produsul
+este definit și nu depinde de ordinea în care se fac înmulțirile, cât timp ordinea matricilor este păstrată fixă.
+Aceste proprietăți pot fi demonstrate prin operații de adunare simple, dar lungi. Acest rezultat rezultă și din faptul că matricile sunt aplicații liniare. Prin urmare, proprietatea asociativă a matricilor este pur și simplu un caz particular al proprietății asociative a compunerii funcțiilor⁠.
+Dacă A este o matrice și c un scalar, atunci matricile 
+  
+    
+      
+        c
+        
+          A
+        
+      
+    
+     }
+  
+ și 
+  
+    
+      
+        
+          A
+        
+        c
+      
+    
+     c}
+  
+ se obțin înmulțind la stânga sau la dreapta toate elementele lui A cu c. Dacă scalarii sunt comutativi, atunci 
+  
+    
+      
+        c
+        
+          A
+        
+        =
+        
+          A
+        
+        c
+        .
+      
+    
+     =\mathbf 
+  
+Dacă produsul 
+  
+    
+      
+        
+          A
+          B
+        
+      
+    
+     }
+  
+ este definit , atunci
+Dacă scalarii sunt comutativi, atunci toate cele patru matrici sunt egale. În general, toate cele patru sunt egale dacă c aparține centrului unui inel care conține elementele matricei, deoarece în acest caz, c X = X c pentru toate matricile X.
+Aceste proprietăți rezultă din biliniaritatea produsului scalarilor:
+Dacă scalarii sunt comutativi, transpusa produsului matricial este produsul, în ordine inversă, al transpuselor factorilor. Acesta este
+unde cu T este notată transpusa.
+Această identitate nu este valabilă pentru elementele necomutative, deoarece ordinea dintre elementele lui A și B este inversată atunci când se extinde definirea produsului matricial.
+Dacă A și B au elemente complexe, atunci
+unde cu * sunt notate conjugatele complexe ale elementelor matricei.
+Acest lucru rezultă din aplicarea la definiția produsului matricial a faptului că conjugatul unei sume este suma conjugatelor sumelor, iar conjugatul unui produs este produsul conjugatelor factorilor.
+Transpunerea acționează asupra indicilor elementelor, în timp ce conjugarea acționează independent asupra elementelor în sine. Rezultă că, dacă A și B au elemente complexe, există
+unde cu † sunt notate adjunctele .
+Fie 
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            n
+          
+        
+        
+      
+    
+    }_
+  
+ mulțimea de matrici pătrate n×n cu elementele din inelul R, care, în practică, este adesea un corp.
+În 
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            n
+          
+        
+        
+      
+    
+    }_
+  
+, produsul este definit pentru fiecare pereche de matrici. Acest lucru face din 
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            n
+          
+        
+        
+      
+    
+    }_
+  
+ un inel, care are matricea unitate I ca element neutru . Acest inel este, de asemenea, o R-algebră asociativă⁠.
+Dacă n > 1, multe matrici nu au o inversă multiplicativă. De exemplu, o matrice care are toate elementele unei linii  0 nu are inversă. Dacă există, inversa unei matrice A se notează A−1 și verifică relația
+O matrice care are o inversă este o matrice inversabilă. În caz contrar, este o matrice singulară.
+Un produs matricial este inversabil dacă și numai dacă fiecare factor este inversabil. În acest caz există relația
+Când R este comutativ și, în special, când este un corp, determinantul unui produs este produsul determinanților. Deoarece determinanții sunt scalari, iar scalarii sunt comutativi, există relația
+Ceilalți invarianți⁠ matriciali nu se comportă la fel de bine cu produsele. Totuși, dacă R este comutativ, AB și BA au aceeași urmă, același polinom caracteristic⁠ și aceleași valori proprii cu aceleași multiplicități. Totuși, vectorii proprii sunt în general diferiți dacă AB ≠ BA.
+O matrice pătrată poate fi ridicată la orice putere întreagă nenegativă înmulțind-o cu ea însăși în mod repetat, în același mod ca pentru numerele obișnuite. Acesta este,
+Calcularea celei de a k-a putere a unei matrice, dacă se face cu algoritmul trivial  necesită de k−1 ori timpul unei singure înmulțiri matriciale. Deoarece acest lucru consumă foarte mult timp, se preferă metoda ridicării la putere rapide⁠, care necesită mai puțin de 2 log2 k înmulțiri matriciale, deci este mult mai eficientă.
+Un caz ușor de ridicare la putere este cel al unei matrice diagonale. Deoarece produsul matricilor diagonale echivalează cu simpla înmulțire a elementelor diagonale corespunzătoare, a k-a putere a unei matrici diagonale se obține prin ridicarea elementelor ei la puterea k:
+Orice matrice inversabilă 
+  
+    
+      
+        
+          P
+        
+      
+    
+     }
+  
+ definește o transformare de asemănare 
+Transformările de asemănare aplică produsul la factori, adică
+De fapt,
+Un algoritm de înmulțire a matricilor care rezultă din definiție necesită în cazul cel mai rău n3 înmulțiri și n2 adunări de scalari pentru a calcula produsul a două matrice pătrate n×n. Într-un model de calcul în care operațiile scalare au timp constant complexitatea sa de calcul⁠ este deci O.
+Surprinzător, această complexitate nu este optimă, așa cum a arătat în 1969 Volker Strassen, care a furnizat un algoritm, numit acum algoritmul Strassen⁠, cu o complexitate de 
+  
+    
+      
+        O
+        
+         
+        O
+        
+        .
+      
+    
+    
+  
+ 14 
+Din 2020, cel mai bun algoritm de înmulțire matricială era cel dat de Josh Alman și Virginia Vassilevska Williams, cu complexitatea O. 15 
+Nu se știe dacă înmulțirea matricială poate fi efectuată în timp n2 + o. Acest lucru ar fi optim, deoarece trebuie citite cele n2 elementele unei matrice pentru a o înmulți cu o altă matrice.
+Deoarece înmulțirea matricială formează baza pentru mulți algoritmi și multe operații pe matrici chiar au aceeași complexitate ca și înmulțirea matricială , complexitatea de calcul a înmulțirii matriciale este o chestiune importantă în algebra liniară numerică⁠ și informatica teoretică⁠.
+Deși rezultatul unei secvențe de produse matrice nu depinde de ordinea efectuării produselor , complexitatea de calcul poate depinde mult de această ordine.
+De exemplu, dacă A, B și C sunt matrici cu dimensiunile 10×30, 30×5, 5×60, calculul C necesită 10×30×5 + 10×5×60 = 4500 de înmulțiri, în timp ce calculul A necesită 30×5×60 + 10×30×60 = 27 000 de înmulțiri.
+Au fost concepuți algoritmi pentru alegerea ordinii optime de efectuare a produselor, adică printr-un număr minim de operații. Când numărul n de matrici crește, s-a demonstrat că alegerea ordinii optime are o complexitate de 
+  
+    
+      
+        O
+        
+        .
+      
+    
+    
+  
+Înmulțirea „standard” a matricilor prezentată în articolul de față este singurul mod de înmulțire al matricilor studiat în învățământul preuniversitar din România. 16  Însă există și alte tipuri de produse de matrici:

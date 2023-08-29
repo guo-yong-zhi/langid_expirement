@@ -1,0 +1,1 @@
+Pikanäppäin on näppäin tai näppäinyhdistelmä, jolla käyttäjä voi toteuttaa tietyn käyttöliittymän toiminnon käyttämättä valikkoa. Useissa Windows-ohjelmissa käyttäjä voi esimerkiksi tallentaa tiedot käyttämällä näppäinyhdistelmää Ctrl+S. 

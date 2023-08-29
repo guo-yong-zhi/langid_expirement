@@ -1,0 +1,20 @@
+Pontosságellenőrzött
+A Reynolds-szám egyike az áramlástan és a hőátadás számításaiban használt hasonlósági dimenziómentes számoknak. Ha egy áramlástani elven működő gép  kimért, ismert jellemzőiből egy tőle eltérő méretű, hasonló gép jellemzőire akar valaki következtetni, akkor a hasonlósági törvényeket kell követni. Ilyen eset fordulhat elő például repülőgép tervezésénél, ahol a tervezés előrehaladtával elkészítik a gép léptékhelyes modelljét, majd annak légellenállását, a szárny felhajtóerejét és egyéb aerodinamikai jellemzőit szélcsatornában kimérik és a kapott adatokat átszámítják a végleges méretű repülőgépre. De hasonló a feladat akkor is, ha egy repülőgép-modellező elkészíti egy nagy repülőgép kicsinyített mását és annak ismert adataiból kívánja meghatározni a modell tulajdonságait. 
+Ahhoz, hogy a fenti számítások elvégezhetők legyenek, több feltételt kell teljesíteni. 
+A Reynolds-szám dimenziómentes mennyiség, mely a tehetetlenségi erők és a viszkózus erők, vagyis a közeg belső súrlódása közötti viszonyszám, és az alábbi képlettel számítható:
+ahol
+Összenyomhatatlan közegben két áramlás akkor hasonló, ha a geometriai viszonyok hasonlóak és a két áramlás Reynolds-száma azonos. Ez azt jelenti, hogy például, ha egy repülőgép modelljéből akarunk a nagy repülőgép jellemzőire következtetni, akkor a modell méretei és a gép méretei fordítottan arányosak lesznek a sebességekkel: 
+ahol 
+Az 
+  
+    
+      
+        l
+        
+      
+    
+    
+  
+ méretet szokások szerint szokták választani, az a lényeges, hogy mindkét áramlásnál ugyanazt a méretet használják a számításoknál, például repülőgépszárnynál a szelvény hosszát, cső esetén a belső átmérőt.
+A tapasztalatok szerint csövekben  lamináris áramlás  Re<2320 tartományban alakul ki, Re>2320 esetén az áramlás turbulens, ez utóbbi esetben az áramlási ellenállás ugrásszerűen megnő. Azt a Reynolds-számot, melynél a turbulens áramlás kialakul, kritikus Reynolds-számnak nevezik.
+A Reynolds-számnak köszönhetően mérettől, sebességtől és áramló közegtől függetlenül, általános érvényű megállapításokat lehet tenni. Például kétszer akkora méret esetén fele akkora sebesség okozza ugyanazt a hatást, és fordítva; fele akkora méret esetén kétszer akkora sebesség okozza ugyanazt a hatást. Ezért ha a valódi méretnél n-szer kisebb modellt készít valaki , úgy az áramlástechnikai vizsgálatokat n-szer nagyobb áramlási sebességgel kell elvégezni. Például ha egy az eredetihez képest 10-szer kisebb hídmodell 300 km/h-s áramlási sebességnél dől össze, úgy a valódi feltételezhetően 30 km/h sebességű áramlás esetén dőlne össze.

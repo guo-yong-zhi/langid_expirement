@@ -1,0 +1,37 @@
+Der Hellschreiber, eigentlich Typenbildfeldfernschreiber genannt, ist ein von Rudolf Hell erfundenes Fernschreibgerät, das Mitte des 20. Jahrhunderts auf besonders störanfälligen Übertragungswegen benutzt wurde. Das Prinzip wurde 1929 patentiert und sowohl mit Funk-Übermittlung als auch über Kabel eingesetzt. Besondere Bedeutung hatte er bei der Übertragung von Pressefunknachrichten bis in die 1980er Jahre. Heute wird er teilweise noch von Funkamateuren benutzt.
+Bei moderneren Anlagen wurde jedes Schriftzeichen in ein Raster von 7 Zeilen und 7 Spalten, also 49 Bildpunkten zerlegt. Durch die Raster-Übertragung kann der Hellschreiber jedes Zeichen übertragen, das sich auf dem Raster abbilden lässt, weshalb das Verfahren auch im asiatischen Raum erfolgreich eingesetzt wurde.
+Im Folgenden werden die ersten vier Spalten des Buchstabens W übertragen, und zwar spaltenweise von unten nach oben und dann von links nach rechts.
+Das Sendegerät enthält für jedes Zeichen eine Nockenscheibe, die bei Druck auf die Gebertaste eine Umdrehung ausführt. Dabei erzeugen ihre Nocken je nach Länge verschieden lange Stromimpulse.
+Beim Empfangsgerät wird ein Papierband im Rhythmus der empfangenen Impulse vom Anker eines Elektromagneten an eine mit 60 Umdrehungen pro Sekunde rotierende Schreibschnecke gedrückt. Pro Umdrehung der Schreibschnecke wird eine Spalte eines Zeichens geschrieben, so dass pro Sekunde ungefähr 8½ Zeichen übertragen werden können. In heutige Verhältnisse übersetzt betrug die Datenübertragungsrate dieses Systems 420 bit/s. Die Bandbreite von Fernschreibverbindungen reichte damit für Übertragungen mit dem Hellschreiber aus.
+Liefen Sender und Empfänger nicht synchron, hatte dies lediglich die Folge, dass die Buchstaben schräg gedruckt wurden, aber noch lesbar waren. Weiter wurde die Störanfälligkeit des Empfangsgerätes dadurch gesenkt, dass die Schreibschnecke die Buchstaben zweimal untereinander schrieb.
+Ferner gab es bei diesem analogen Übertragungsverfahren keinerlei technische Fehlerkorrektur oder Decodierung im eigentlichen Sinne – die Zeichenerkennung erfolgt durch den Leser. Dies erzielte lange Zeit Wiedererkennungs-Raten, die mit anderen technischen Mitteln erst wesentlich später durch hochentwickelte Kanalkodierung erreichbar wurden.
+Die Patente zum Hellschreiber sind auf Wikimedia Commons ersichtlich.
+Frequenzmodulation :
+AMTOR  
+ARDOP  
+CLOVER  
+FT8  
+G-TOR  
+JS8  
+M17  
+Olivia  
+Packet Radio  
+PACTOR  
+ROS  
+RTTY  
+VARA  
+WINMOR  
+WSJT  
+WSPR 
+Phasenmodulation :
+ARDOP  
+MT63  
+PACTOR  
+PSK31  
+PSK63  
+PSK125  
+VARA  
+WINMOR 
+Amplitudenumtastung :
+CW  
+Feld-Hell 

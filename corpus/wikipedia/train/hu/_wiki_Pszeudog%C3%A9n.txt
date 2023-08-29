@@ -1,0 +1,5 @@
+Pontosságellenőrzött
+A pszeudogén egy élőlény genomjának olyan nukleotid szekvenciája, amely csak látszólag kódol egy génterméket.
+Számos elmélet is született a pszeudogének keletkezésének magyarázatára:
+A pszeudogének nehezebbé teszik a molekuláris genetika tanulmányozását. Például, egy kutató, aki egy gént akar sokszorozni PCR módszerrel, lehet, hogy a hasonló szekvenciájú pszeudogént sokszorozza. Vagy éppen akár tévesen egy pszeudogént génként írhatnak le.
+Egyes esetekben a pszeudogén kifejezés megtévesztő lehet. Hirotsune és munkatársai 2003-ban találtak egy pszeudogént, ami semmilyen fehérjeterméket nem kódolt. Azonban rájöttek, átíródik róla egy RNS transzkriptum, mely egy másik gént szabályoz. Tehát fehérjét nem eredményez, de más gének szabályozásával, és azzal a ténnyel, hogy RNS íródik át róla, mégiscsak génnek minősül bizonyos értelemben.

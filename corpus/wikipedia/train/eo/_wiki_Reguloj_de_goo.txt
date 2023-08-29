@@ -1,0 +1,24 @@
+La fundamentaj reguloj de goo estas konservitaj dum mil jaroj de goa historio, tamen oni reformis detalajn partojn por ke oni ludu kun pli malmultaj problemoj.
+Ĝenerale ekzistas ĉinaj kaj japanaj reguloj.
+La Japanaj reguloj de Goo estas laŭ La Japana Regularo de Goo  de Nihon Ki-in . Ĝi estis ripete reformataj.
+La intersekcoj 4D, 4J, 4P, 10D, 10P, 16D, 16J kaj 16P nomiĝas steloj. Tiu centra 10J ankaŭ nomiĝas zenito.
+Komence de la ludo la ludtabulo malplenas. Ludanto nomata Nigro havu ŝtonujon  de nigraj ŝtonoj, kaj ludanto nomata Blanko havu ŝtonujon de blankaj ŝtonoj. Nigro ludas unue. Poste ambaŭ ludantoj ludu alterne.
+Ludmovo konsistas meti ŝtonon sur malplenan intersekcon.
+Kiam ludanto metas ŝtonon sur la lastan liberon de ŝtono aŭ ŝtongrupo kontraŭula, li-ŝi elprenu de la ludtabulo la ĉirkaŭitajn ŝtonojn kaj gardu ilin aparte ĝis la partifino. Elprenita ŝtono estas nomata Hama .
+En la ekzemploj oni uzos, kiel eble, pli malgrandan 9x9'an ludtabulon, kutime uzita por instrui la komencantojn.
+Bildoj supraj montras situaciojn antaŭ kaj post ol la kaptoj. Oni montras ekzemplojn sur la centro, bordoj kaj angulo de la ludtabulo. La kaptinto retenos la malamikajn ŝtonojn ĝis la partifino por tiam ilin kalkuli.
+Malpermeso de memmortigo 
+Estas malpermesate ludi okupante la lastan internan liberon de malamika grupo , ekscepte se tiel li-ŝi kaptas unu aŭ pli da malamikaj ŝtonoj.
+Maldekstra bildo: estas malpermesate al Blanko ludi en 'a', 'b' aŭ en 'e' ĉar tio egalus al memmortigo.
+Tamen Blanko povus ludi sur iun ajn el la intersekcoj 'c' aŭ 'd', ĉar tiu nigra grupo ankoraŭ havus unu pluan internan liberon. Sed, kaze Blanko ludus sur 'c' aŭ 'd', Blanko ne povus ĉe sia sekvanta ludvico ludi sur la alian malplenan. Li-ŝi bezonus tute ĉirkaŭi la malamikan nigran grupon tiel, kiel oni montras per la centra bildo.
+Centra bildo: Blanko nun povas ludi sur la intersekcojn 'a', 'b' aŭ 'c' ĉar farante tion, forigas la lastan liberon de la respektivaj nigraj formacioj kaj kaptas ilin. Tamen, Blanko ne povas ludi sur intersekcon 'e' ĝis ne ludos antaŭe sur intersekcon 'f'.
+Dekstra bildo: jen pozicio tuj post Blanko forigis de la Nigro ties lastan liberon kaj forprenis la nigrajn kaptitajn ŝtonojn.
+Se ludanto kaptas ŝtonon estantan je ko-situacio la alia ludanto ne povos tuj rekapti. Li-ŝi metu alien antaŭ ol rekapti.
+Ko-situacio. Blanko ne povas dum tiu ĉi ludvico kapti tiun nigran ŝtonon, kiu detruis lian okulon. Anstataŭ fari tion, li devas ludi sur alian intersekcon.
+Maldekstra bildo: Nigro elektas ne plenigi sian okulon por tiel defendi ĝin.
+Centra bildo: Uzinte sian atendo-vicon, Blanko jam povas ataki la nigran grupon.
+Dekstra bildo: Fina pozicio estas ja nova ko-situacio.
+Anstataŭ meti ŝtonon, ludanto povas rifuzi ludi . Se ambaŭ ludantoj sinsekve rifuzas, partio finiĝas.
+ Fininte partion, oni forigas el la ludtabulo ĉiujn mortintajn ŝtonojn de ambaŭ ludantoj, aldonante ilin al tiuj kaptitaj dumpartie. Poste, ĉiu ludanto ricevas po unu poenton pro ĉiu malplena intersekco ene de sia teritorio, plus unu poenton pro ĉiu ŝtono kaptita al la malamiko. Kiu havas pli da poentoj, tiu venkas.
+Sed Nigro ludas unua kaj pro tio havas grandan avantaĝon. Kompense Blanka ricevas komi-on  — egaligajn poentojn, kiujn Nigro pagas al Blanko por la rajto unue meti ŝtoneton. Ĉe ludoj de egalfortaj ludantoj komi nun plej ofte estas 6,5 de poentoj. Duono da poento malebligas egalan rezulton. 1 
+Per la maldekstra bildo videblas ekzemplo de partifino.

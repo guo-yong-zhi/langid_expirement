@@ -1,0 +1,54 @@
+संगणकाची एक भाषा
+संगणकाकडून कोणतेही काम करून घेण्यासाठी , प्रथम सूचनांची एक यादी प्रोग्रॅमिङ् लॅंग्वेजचा उपयोग करून तयार केली जाते. ह्या यादीला 'प्रोग्रॅम' म्हटले जाते. संगणक ह्या यादीनुसार ठरावीक क्रमाने, ठरावीक क्रिया करून इच्छित काम पार पाडतो.
+प्रोग्रॅमिंग लॅंग्वेजेसचे अनेक वेगवेगळ्या दृष्टीने वर्गीकरण केले जाते .
+कार्यनिष्ठ भाषा 
+उदा. सी , कोबॉल , फोर्ट्रान, बेसिक, एपीएल
+    10     INPUT     "What is your name: "  ,     U$ 
+ 20     PRINT     "Hello "  ;     U$ 
+ 30     INPUT     "How many stars do you want: "  ,     N 
+ 40     S$     =     "" 
+ 50     FOR     I     =     1     TO     N 
+ 60     S$     =     S$     +     "*" 
+ 70     NEXT     I 
+ 80     PRINT     S$ 
+ 90     INPUT     "Do you want more stars? "  ,     A$ 
+ 100     IF     LEN       =     0     THEN     GOTO     90 
+ 110     A$     =     LEFT$   
+ 120     IF     A$     =     "Y"     OR     A$     =     "y"     THEN     30 
+ 130     PRINT     "Goodbye "  ;  U$ 
+ 140     END 
+    INPUT     "What is your name: "  ,     UserName$ 
+ PRINT     "Hello "  ;     UserName$ 
+ DO 
+     INPUT     "How many stars do you want: "  ,     NumStars 
+     Stars$     =     STRING$      
+     PRINT     Stars$ 
+     DO 
+       INPUT     "Do you want more stars? "  ,     Answer$ 
+     LOOP     UNTIL     Answer$     <>     "" 
+     Answer$     =     LEFT$   
+ LOOP     WHILE     UCASE$       =     "Y" 
+ PRINT     "Goodbye "  ;     UserName$ 
+      
+ Class     stars 
+       Sub     Main   
+           Dim     UserName  ,     Answer  ,     stars     As     String       UserName$, Answer$, stars$ may be used as well. 
+           Dim     NumStars  ,     I     As     Integer 
+           Console  .  Write   
+           UserName     =     Console  .  ReadLine   
+           Console  .  WriteLine   
+           Do 
+               Console  .  Write   
+               NumStars     =     CInt  (  Console  .  ReadLine  ) 
+               stars     =     New     String   
+               Console  .  WriteLine   
+               Do 
+                   Console  .  Write   
+                   Answer     =     Console  .  ReadLine   
+               Loop     Until     Answer     <>     "" 
+               Answer     =     Answer  .  Substring   
+           Loop     While     Answer  .  ToUpper       =     "Y" 
+           Console  .  WriteLine   
+       End     Sub 
+ End     Class 
+</pr

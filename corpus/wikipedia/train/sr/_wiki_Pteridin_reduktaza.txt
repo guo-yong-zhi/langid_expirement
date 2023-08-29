@@ -1,0 +1,2 @@
+Pteridin reduktaza  je enzim sa sistematskim imenom 5,6,7,8-tetrahidrobiopterin:NADP+ oksidoreduktaza. 1  2  3  Ovaj enzim katalizuje sledeću hemijsku reakciju
+Ovaj enzim iz Leishmania katalizuje redukciju posredstvom NADPH. On deluje na folat i znatan broj drugih nekonjugovanih pterina, uključujući biopterin, do njihovih tetrahidro formi. On takođe katalizuje redukciju 7,8-dihidropterina i 7,8-dihidrofolata do njihovih tetrahidro formi.

@@ -1,0 +1,26 @@
+Ang sekstikong punsiyon  ay isang punsiyon na polinomial na may anyong:
+kung saan ang  
+  
+    
+      
+        a
+         
+        0.
+      
+    
+    
+  
+Ang mga koepisyente na  a, b, c, d, e, f, g ay mga miyembro ng field na karaniwan ay mga rasyonal na bilang, real na bilang o mga kompleks na bilang at ang 
+  
+    
+      
+        a
+         
+        0.
+      
+    
+    
+  
+Dahil sa ang mga punsiyong ito ay may digring even, ang mga normal na sekstikong punsiyon ay mukhang katulad ng mga normal na punsiyon kung ipapakita sa isang grapa at maaaring magkaroon ng mga karagdagang mga loka na maksimum at lokal na minimum ang bawat isa. Ang deribatibo ng isang sekstikong punsiyon ay isang kwintikong punsiyon.
+Dahil ang ang sekstikong punsiyon ay isang polinomial na may digring even, ito ay may parehong hangganan kung ang argumento ay patungo mula positibo hanggang negatibong inpinidad. Kung ang a ay positibo, ang punsiyong ito ay dumadami patungo sa positibong inpinidad sa parehong gilid, kaya ito ay mayroon global na minimum. Gayundin, kung ang a ay negatibo, ito ay lumiliit patungo sa negatibong inpindad at may global na maksimum.
+ Ang lathalaing ito na tungkol sa Matematika ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito.
