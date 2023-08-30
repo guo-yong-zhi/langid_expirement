@@ -1,0 +1,31 @@
+In geometria solida, il dodecaedro troncato metabiaumentato è un poliedro con 52 facce che può essere costruito, come intuibile dal suo nome, aumentando un dodecaedro troncato facendo combaciare due delle sue facce decagonali non parallele e non adiacenti con la base di due cupole pentagonali.
+Il dodecaedro troncato metabiaumentato è uno dei 92 solidi di Johnson, in particolare quello indicato come J70, ossia un poliedro strettamente convesso avente come facce dei poligoni regolari ma comunque non appartenente alla famiglia dei poliedri uniformi, 1  ed è il sesto di una serie di diciannove solidi archimedei modificati tutti facenti parte dei solidi di Johnson.
+Per quanto riguarda i 70 vertici di questo poliedro, su 40 di essi incidono due facce decagonali e una triangolare, su altri 20 incidono una faccia decagonale, una quadrata e due triangolari, e su gli altri 10 incidono una faccia pentagonale, due quadrate e una triangolare.
+Considerando un dodecaedro troncato metabiaumentato avente come facce dei poligoni regolari aventi lato di lunghezza 
+  
+    
+      
+        a
+      
+    
+    
+  
+, le formule per il calcolo del volume 
+  
+    
+      
+        V
+      
+    
+    
+  
+ e della superficie 
+  
+    
+      
+        A
+      
+    
+    
+  
+ risultano essere:

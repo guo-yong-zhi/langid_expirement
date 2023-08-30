@@ -1,0 +1,7 @@
+ISO 3166-2:LV er Letlands del af ISO 3166-2, som er del af ISO 3166 standarden udgivet af International Organization for Standardization , der definerer koder for navne på principielle subnationale enheder i alle lande tilgængelige i ISO 3166-1.
+For nuværende defineres Letlands ISO 3166-2-koder for 110 novads og ni republikanske byer. De ni republikanske byer har særlig status svarende til novads'.
+Hver kode består af to dele, adskilt af en bindestreg. Den første del er LV, ISO 3166-1 alpha-2-koden for Letland. Den anden del er én af følgende:
+Navne på subnationale enheder er opført som i ISO 3166-2-standarden udgivet af ISO 3166 Maintenance Agency .
+Navne på subnationale enheder er sorteret i henhold til det lettiske alfabets rækkefølge: a, ā, b-c, č, d-e, ē, f-g, ģ, h-i, ī, j-k, ķ, l, ļ, m-n, ņ, o-s, š, t-u, ū, v-z, ž.
+Klik på knappen i overskriften for at sortere hver kolonne.
+Følgende ændringer annonceres i nyhedsbrevet fra ISO 3166/MA siden den første udgivelse af ISO 3166-2 i 1998:

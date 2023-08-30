@@ -1,0 +1,8 @@
+Ozonolýza je oxidační reakce alkenů nebo alkynů, při které dochází ke štěpení násobné vazby ozonem.
+Obecné schéma ozonolýzy:
+Ozonolýza byla objevena Christianem Friedrichem Schönbeinem, německým chemikem pracujícím ve Švýcarsku, který v roce 1840 objevil ozon. Před příchodem moderních spektroskopických technik to byla důležitá metoda pro určení struktury organických molekul, především přírodních látek, které dokáže štěpit v místě dvojné vazby na menší, snadněji identifikovatelné fragmenty. 1 
+Alkeny mohou být ozonem oxidovány na aldehydy, ketony, alkoholy nebo karboxylové kyseliny.
+Obvykle se ozon nechává probublávat roztokem alkenu v rozpouštědle  při nízké teplotě , dokud nezíská charakteristické modré zbarvení. Takový surový produkt je velmi nestálý a proto se ihned dále zpracovává. Při redukčním zpracování za použití zinkového prachu či trifenylfosfinu jsou produkty karbonylové sloučeniny . Silnější redukční činidla jako LiAlH4  nebo NaBH4  redukují ozonid na alkoholy. Při oxidativním zpracování vznikají karboxylové kyseliny.
+Alkyny lze podrobit ozonolýze obdobně jako alkeny. Reakce však probíhá asi tisíckrát pomaleji, proto je možné selektivně ozonolyzovat pouze dvojnou vazbu vedle trojné.
+Při ozonolýze alkynů obvykle vzniká anhydrid kyseliny či diketon. Pro tuto reakci není potřeba redukční činidlo. Přesný reakční mechanismus dosud není zcela znám. Provedeme-li reakci za přítomnosti vody, anhydrid hydrolyzuje na dvě karboxylové kyseliny.
+V tomto článku byl použit překlad textu z článku Ozonolysis na anglické Wikipedii.

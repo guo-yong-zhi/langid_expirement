@@ -1,0 +1,2 @@
+Stafsetning.is er íslensk vefsíða með stafsetningaræfingar fyrir nemendur í grunn- og framhaldsskólum.
+Kerfið er þróað og hannað af Njáli Skarphéðinssyni, Kjartan Reynir Ólafssyni, Nataliu López Peralta, Gabríel Sighvatssyni og Júlíu Ingadóttur.

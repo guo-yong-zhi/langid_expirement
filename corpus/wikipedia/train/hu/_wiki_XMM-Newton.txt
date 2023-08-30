@@ -1,0 +1,5 @@
+Pontosságellenőrzött
+Az XMM-Newton európai röntgencsillagászati műhold, amelyet Isaac Newton tiszteletére neveztek el. Az Európai Űrügynökség 1999. december 10-én bocsátotta Föld körüli pályára Francia-Guyanáról, Ariane-5 rakétával.
+Főműszere három, a röntgentartományban működő Wolter-távcső, amelyek mindegyike 58, nagy pontossággal megmunkált koncentrikus tükröt tartalmaz.
+A 3800 kg tömegű röntgenobszervatórium hossza 10 m, szélessége a napelemtáblákkal 16 m.
+A műhold 48 óra alatt kerüli meg egyszer a Földet egy 40 fok dőlésszögű pályán, melynek földközelpontja 7000 km, földtávolpontja 114 000 km.

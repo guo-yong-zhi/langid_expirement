@@ -1,0 +1,11 @@
+Pontosságellenőrzött
+Az OpenShift egy a Red Hat által fejlesztett platform szolgáltatás. A privát felhőre kínált verzió neve OpenShift Enterprise. A szolgáltatást működtető szoftver nyílt forráskódú. A fejlesztők git-et használhatnak különböző nyelven írt szoftverek telepítésére. Az OpenShift megengedi lefordított kódok futtatását is a platformon, amennyiben képesek futni Red Hat Enterprise Linux operációs rendszeren. 1 
+Az OpenShift gondoskodik a szolgáltatások elérhetőségéről és az alkalmazás skálázhatóságáról.
+Az OpenShift a következő nyelveket támogatja:
+Adatbázisok:
+Az alkalmazások 1 GB háttérttároló kapacitást kapnak, amelyre maximum 40000 fájlt helyezhetnek el. Egy alkalmazás 512 MB memóriát használhat és a hálózati forgalom 512 kb/mp sebességre van korlátozva. 2 
+Google Apps  ·  Microsoft Office 365  ·  Salesforce
+OpenShift  ·  Google App Engine  ·  Amazon Web Services  ·  Cloud Foundry
+Amazon EC2  ·  Google Compute Engine
+oVirt  ·  Apache CloudStack  ·  vSphere  ·  OpenStack
+Amazon S3  ·  Google Cloud Storage

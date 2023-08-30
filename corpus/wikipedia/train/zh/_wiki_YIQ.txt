@@ -1,0 +1,4 @@
+YIQ，是NTSC（National Television Standards Committee）電視系統標準。Y是提供黑白電視及彩色電視的亮度信號（Luminance），即亮度（Brightness），I代表In-phase，色彩從橙色到青色，Q代表Quadrature-phase，色彩從紫色到黄绿色。
+Y=0.299R+0.587G+0.114B
+I=0.596R-0.274G-0.322B
+Q=0.211R-0.523G+0.312B

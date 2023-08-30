@@ -1,0 +1,188 @@
+Tüm doğal sayıların toplamını belirten ve
+şeklinde de yazılabilen 1 + 2 + 3 + 4 + · · · ifadesi bir ıraksak seridir. Serinin ilk n teriminin toplamı
+  
+    
+      
+        
+          
+            
+              n
+              
+            
+            2
+          
+        
+      
+    
+    
+  
+formülüyle hesaplanır.
+Serinin bütününün ilk bakışta anlamsız görünmesi yanıltıcıdır. Serinin farklı biçimlerdeki yazımları karmaşık çözümleme, kuantum teorisi ve sicim kuramı alanları için işe yarar sonuçlar üretir.
+n'ye değin doğal sayıların toplamının 
+  
+    
+      
+        
+          
+            
+              n
+              
+            
+            2
+          
+        
+      
+    
+    
+  
+ olduğu birkaç farklı yöntemle gösterilebilir. İlk olarak aşağıdaki eşitlik kurulu olsun.
+Terimler sondan başa doğru sıralandığında
+ifadesi elde edilir. Bu ifade önceki ile toplanırsa
+sonucuna ulaşılır.
+  
+    
+      
+        1
+        +
+        2
+        +
+        3
+        +
+        4
+        +
+         
+      
+    
+    
+  
+ ifadesinin Ramanujan toplamı, 
+  
+    
+      
+         
+        
+          
+            1
+            12
+          
+        
+      
+    
+    
+  
+'dir. 1 
+s'nin gerçel kısmı 1'den büyükse s'nin Riemann zeta fonksiyonu 
+  
+    
+      
+        
+           
+          
+            n
+            =
+            1
+          
+          
+             
+          
+        
+        
+          
+            n
+            
+               
+              s
+            
+          
+        
+      
+    
+    ^}}
+  
+ toplamına eşit olur.
+Bu toplam, s'nin 1'e eşit ya da 1'den küçük olması durumunda ıraksar, ancak s = −1 ise ζ'nin analitik sürekliliği 
+  
+    
+      
+         
+        
+          
+            1
+            12
+          
+        
+      
+    
+    
+  
+'ye eşit olur.
+Bozonik sicim kuramında ana amaç bir sicimin sahip olduğu erke düzeylerinin hesaplanmasıdır. Sicimin her armonisi 
+  
+    
+      
+        D
+      
+    
+    
+  
+ bağımsız kuantum harmonik titreşiminden oluşan bir çokluk olarak görülebilir. Burada 
+  
+    
+      
+        D
+      
+    
+    
+  
+, uzayzaman boyutunu belirtir. Temel titreşim sıklığı 
+  
+    
+      
+         
+      
+    
+    
+  
+ ise 
+  
+    
+      
+        n
+      
+    
+    
+  
+. armoniye karşılık gelen erke miktarı 
+  
+    
+      
+        n
+         
+         
+        
+          /
+        
+        2
+      
+    
+    
+  
+'dir. Iraksak seri kullanıldığında tüm armonilerin toplamının 
+  
+    
+      
+         
+         
+         
+        D
+        
+          /
+        
+        24
+      
+    
+    
+  
+ olduğu görülür. Böylece, biyonik sicim kuramının 26 dışındaki boyutlarda tutarlı olmadığı kanıtlanmış olur.
+Casimir kuvvetinin belirmesinde de benzer bir hesaba gereksinim duyulur.
+Srinivasa Ramanujan'ın G. H. Hardy'ye yazdığı 27 Şubat 1913 tarihli ikinci mektupta şöyle denilmektedir:

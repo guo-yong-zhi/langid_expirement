@@ -1,0 +1,2 @@
+Ein Waitstate  ist ein Wartezyklus eines Prozessors, angegeben in Taktzyklen, der eingelegt werden muss, damit ein langsamerer Speicher die angeforderten Daten korrekt am Ausgang anliegen hat und es nicht zu Fehlern bei der Verarbeitung kommt.
+Aus diesem Grund arbeitet man heute mit zusätzlichem, schnellen Pufferspeicher, Cache genannt. Auch hier gibt es Waitstates, aber auch in anderen Bereichen taucht dieser Begriff auf: Immer dann wenn schnelle Komponenten auf langsamere zugreifen müssen.

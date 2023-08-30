@@ -1,0 +1,164 @@
+Das Menzerathsche Gesetz  ist eines der Ergebnisse der Quantitativen Linguistik. Es bedeutet, dass die Komplexität der direkten Bestandteile einer sprachlichen Einheit abhängig ist von der Komplexität der Einheit selbst.
+Am Beispiel des Verhältnisses der Silben zu den Wörtern, deren Bestandteile sie sind: Die Länge der Silben eines Wortes ist abhängig von der Zahl der Silben, die das Wort hat. Das heißt: Untersucht man eine große Zahl von Wörtern, dann lässt sich zeigen, dass die Länge der Silben dieser Wörter sich mit der Länge der Wörter ändert. Dieses Gesetz gilt jedoch nicht nur für das Verhältnis von Wort und Silbe, sondern ganz allgemein auch bei kleineren und größeren sprachlichen Einheiten.
+Bereits im 19. Jahrhundert wurde die Hypothese aufgestellt, dass die Dauer der Laute eines Wortes mit seiner Länge abnimmt. 1  Menzerath & de Oleza  erweiterten diese Hypothese um die Aussage, dass bei zunehmender Silbenzahl der Wörter die Silben selbst durchschnittlich kürzer werden.
+Hieraus entwickelte sich folgende Hypothese:
+Je größer das Ganze, desto kleiner die Teile.
+Auf den Bereich der Linguistik spezifiziert:
+Je größer ein sprachliches Konstrukt, desto kleiner seine Konstituenten.
+Altmann, Heups und Köhler zeigten Anfang der 80er Jahre mit quantitativen Methoden, dass dieses Postulat auch auf größere Konstrukte der natürlichen Sprache angewandt werden kann: Je größer der Satz, desto kleiner die einzelnen Teilsätze  etc. Voraussetzung für derartige Zusammenhänge ist, dass eine Beziehung zwischen Einheiten  und ihren direkten Konstituenten  untersucht wird. 2  Betrachtet man die Beziehung zwischen Einheiten, die über eine Zwischenebene miteinander verbunden sind , ändert sich ihre Relation: Je komplexer der Satz, desto komplexer/größer die Wörter . Diese Relation ist als Arenssches Gesetz bekannt, benannt nach Hans Arens, der eine entsprechende Untersuchung angestellt hat. 3 
+Aus der Hypothese, dass die Veränderung der Konstituentenlänge proportional zur Änderung der Konstruktlänge erfolgt, und der zusätzlichen Annahme einer Störgröße lässt sich nach Altmann & Schwibbe  folgendes mathematische Modell ableiten: 
+  
+    
+      
+        y
+        =
+        a
+        
+          x
+          
+            b
+          
+        
+        
+          e
+          
+            c
+            x
+          
+        
+      
+    
+    e^
+  
+ mit den Spezialfällen 
+  
+    
+      
+        a
+        
+          e
+          
+            c
+            x
+          
+        
+      
+    
+    {\displaystyle ae^
+  
+  und 
+  
+    
+      
+        y
+        =
+        a
+        
+          x
+          
+            b
+          
+        
+      
+    
+    }
+  
+ für 
+  
+    
+      
+        b
+         
+        0
+        ,
+        c
+        =
+        0
+      
+    
+    
+  
+.
+Um die Gültigkeit des Menzerathschen Gesetzes zu überprüfen, hat Gerlach  4  ein Wörterbuch des Deutschen 5  mit rund 15000 Stichwörtern komplett ausgewertet. Die Anpassung des Modells 
+  
+    
+      
+        y
+        =
+        a
+        
+          x
+          
+            b
+          
+        
+      
+    
+    }
+  
+ ergab folgendes:
+Dabei ist 
+  
+    
+      
+        x
+      
+    
+    
+  
+: Zahl der Morphe pro Wort, 
+  
+    
+      
+        n
+      
+    
+    
+  
+ die Zahl der Wörter im Wörterbuch mit der Länge 
+  
+    
+      
+        x
+      
+    
+    
+  
+; 
+  
+    
+      
+        y
+      
+    
+    
+  
+ die beobachtete durchschnittliche Länge der Morphe ; 
+  
+    
+      
+        
+          y
+          
+             
+          
+        
+      
+    
+    }
+  
+ die Länge der Morphe, die berechnet wird, wenn man die angegebene Form des Menzerathschen Gesetzes an die beobachteten Daten anpasst; der F-Test ergab mit 
+  
+    
+      
+        P
+        =
+        0,001
+      
+    
+    001}
+  
+ ein sehr gutes Ergebnis. Man sieht sehr deutlich, dass die Morphlänge abnimmt, wenn die Wortlänge zunimmt. Ergebnis: das Menzerathsche Gesetz ist für diesen Text ein gutes Modell. Für ausführlichere Erläuterungen sei auf die angegebene Literatur verwiesen.
+Der Länge von Silben in Abhängigkeit von der Wortlänge widmen sich Asleh & Best  für deutsche und italienische Beispiele; eine neue Untersuchung behandelt das Thema am Beispiel des Griechischen. 6 
+Das Menzerathsche Gesetz wird seit seiner mathematischen Formulierung und Verallgemeinerung durch Altmann  auch als Menzerath-Altmann-Gesetz oder Menzerath-Altmannsches Gesetz bezeichnet. Es strukturiert die Sprache von den sogenannten „Satzaggregaten“  als größten Einheiten bis hinunter zu den Lauten/Phonemen. 7  Zumindest bei einer Teilklasse der japanischen Kanji-Schriftzeichen scheint sich dieses Gesetz ebenfalls zu bewähren. 8 
+Das Menzerath-Gesetz hat sich in vielen Untersuchungen zu verschiedensten sprachlichen Phänomenen in etlichen Sprachen bewährt. Darüber hinaus kann es jedoch auch in anderen Bereichen als der Sprachwissenschaft angewendet werden. So ergaben Untersuchungen, dass das soziale Verhalten von Pavian-Gruppen ebenfalls dem Menzerathschen Gesetz entspricht: Je größer die gesamte Gruppe, desto kleiner sind die untergeordneten sozialen Gruppen. 9 

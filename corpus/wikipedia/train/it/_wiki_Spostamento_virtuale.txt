@@ -1,0 +1,192 @@
+In meccanica razionale, uno spostamento virtuale 
+  
+    
+      
+         
+        
+          
+            r
+          
+          
+            i
+          
+        
+      
+    
+     _
+  
+ di un punto materiale in moto in un sistema dotato di vincoli è definito come:
+In pratica, se i vincoli cui il punto materiale, o il punto dello spazio delle configurazioni, è sottoposto sono mobili, lo spostamento virtuale considera soltanto lo spostamento del punto sul vincolo così come questo è posizionato al tempo 
+  
+    
+      
+        t
+      
+    
+    
+  
+, al contrario dello spostamento reale, che considera anche il moto del vincolo. Se invece i vincoli sono fissi, l'insieme degli spostamenti virtuali coincide con l'insieme degli spostamenti possibili.
+Può essere utile  immaginare uno spostamento virtuale di una certa struttura "congelata" ad un certo istante di tempo, come un possibile movimento infinitesimo della stessa in previsione a quelli che potrebbero essere gli spostamenti reali. 
+L'1-forma differenziale associata ad un insieme di vettori posizione che caratterizzano il sistema, 
+  
+    
+      
+        
+          
+            r
+          
+          
+            i
+          
+        
+      
+    
+     _
+  
+, che sono funzioni di altre variabili 
+  
+    
+      
+        
+      
+    
+    ,\dots ,q_
+  
+, i quali generano lo spazio delle configurazioni, e del tempo, 
+  
+    
+      
+        t
+      
+    
+    
+  
+ può essere espresso come segue: 1 
+Dove il secondo termine a destra dell'uguale rappresenta lo spostamento virtuale: 1 
+Come caso particolare di spostamento infinitesimo, solitamente indicato 
+  
+    
+      
+        d
+        
+          r
+        
+      
+    
+     }
+  
+, uno spostamento virtuale, indicato 
+  
+    
+      
+         
+        
+          r
+        
+      
+    
+    {\displaystyle \delta \mathbf 
+  
+, è riferito a un cambiamento infinitesimo nelle coordinate di posizione di un sistema così che le equazioni dei vincoli rimangano soddisfatte.
+La seconda equazione è utilizzata nella meccanica lagrangiana per collegare le coordinate generalizzate, 
+  
+    
+      
+        
+          q
+          
+            j
+          
+        
+      
+    
+    }
+  
+, al lavoro virtuale, 
+  
+    
+      
+         
+        W
+      
+    
+    
+  
+, e alle forze generalizzate, 
+  
+    
+      
+        
+          Q
+          
+            j
+          
+        
+      
+    
+    {\displaystyle Q_
+  
+. Nella meccanica analitica il concetto di spostamento virtuale, collegato al concetto di lavoro virtuale ha senso solo se applicato a un sistema fisico vincolato. 
+Per esempio, se un corpo è costretto a muoversi su una circonferenza verticale la sua posizione può essere rappresentata dalla coordinata 
+  
+    
+      
+         
+      
+    
+    
+  
+, che indica l'angolo a cui si trova il corpo. Se il corpo si trova al culmine della circonferenza alzarlo dalla sua quota 
+  
+    
+      
+        z
+      
+    
+    
+  
+ ad un'altezza 
+  
+    
+      
+        z
+        +
+        d
+        z
+      
+    
+    
+  
+ comporta la messa in atto di uno spostamento infinitesimo, ma viola la equazioni di vincolo. Il solo spostamento virtuale possibile consiste nel muovere il corpo, che si trova in 
+  
+    
+      
+         
+      
+    
+    
+  
+, in una nuova posizione 
+  
+    
+      
+         
+        +
+         
+         
+      
+    
+    
+  
+, dove 
+  
+    
+      
+         
+         
+      
+    
+    
+  
+ può essere negativo o positivo.
+Va osservato che uno spostamento virtuale è necessariamente spaziale, infatti, quando vengono eseguiti il tempo è fissato; per questo, quando si calcolano i differenziali virtuali di quantità che sono funzioni delle coordinate spaziali e temporali non si tiene conto della dipendenza dal tempo.

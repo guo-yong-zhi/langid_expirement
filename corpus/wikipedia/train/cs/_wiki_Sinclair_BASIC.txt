@@ -1,0 +1,16 @@
+Sinclair BASIC je dialekt programovacího jazyka BASIC pro počítače ZX Spectrum. Sinclair BASIC vyvinula firma Nine Tiles Networks Ltd.
+První varianta z roku 1979 byla uložena ve 4 KB ROM počítače ZX80. Šlo o nekompletní implementaci minimal BASICu podle normy ANSI z roku 1978. Vývoj pokračoval 8 KB verzí pro ZX81 a implementací pro ZX Spectrum, která se vešla do 16 KB ROM. Na počítačích ZX Spectrum +2 a ZX Spectrum +3 byl použit jazyk Sinclair 128 BASIC, který byl rozšířený o některé příkazy a možnost psát příkazy po písmenech. 1 
+Protože implementace Sinclair BASICu ponechávala v ROM počítačů ZX Spectrum nevyužité místo, objevilo se několik ROM se Sinclair BASICem rozšířeným o některé možnosti. Jednou z těchto modifikací je SE BASIC Andrewa Owena, který podporuje i rozšířené grafické možnosti obvodu ULAplus, 2  a jehož některé rozšířené příkazy byly inspirovány obdobnými rozšířenými příkazy počítačů TK 95, Timex Sinclair 2068 a původní španělské verze počítače Sinclair ZX Spectrum 128K+. 3  Andrew Owen je také autorem OpenSE Basicu, což je varianta Sinclair BASICu vydaná pod licencí GPL v.2. 4  5  6  Sinclair BASICem byl inspirován projekt Sparky eZX BASIC. 7 
+Spectrum mělo 86 klíčových slov. Ve výčtu jsou vyznačena takto:
+příkazy, výrazy, funkce a ostatní klíčová slova:
+Výrazy a příkazy, které byly pouze na počítačích ZX81, TS1000 a TS1500:
+Model 128K přinesl tyto příkazy:
+Původní Španělská verze počítače ZX Spectrum 128K+ neobsahovala systém nabídek jako pozdější anglická verze a verze z ní vycházející, ale místo nich používala další přidané příkazy:
+Tyto příkazy ovšem není možné vložit do programu, jsou určeny pouze k přímému vykonání. 9 
+Timex BASIC používaný v TS2048 a TS2068  má navíc těchto šest slov:
+Počítače TK 90X a TK 95 mají navíc příkazy:
+Neexistuje operátor ELSE ve výrazu IF - THEN . Tedy namísto
+ 10 IF V=5 THEN GO TO 50 ELSE GO TO 100 10 IF V=5 THEN GO TO 50
+20 GO TO 100 10 LET A=1 A=1 10 LET A=5
+20 LET Apples=5
+30 LET A$="Hello" LET APPLES$="Fruit"  10 PRINT "Hello World"</pr

@@ -1,0 +1,2 @@
+Ǟ  är ett A med prickar och ett streck över. Ǟ användes i det sedan juni 2013 utdöda språket liviska. Bokstaven uttalas som ett långt ä-ljud.
+Med Unicode lagras Ǟ med kodpunkten U+01DE och ǟ med kodpunkten U+01DF.

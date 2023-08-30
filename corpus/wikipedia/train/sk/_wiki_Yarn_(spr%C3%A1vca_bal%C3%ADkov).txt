@@ -1,0 +1,20 @@
+Yarn je systém balenia softvéru vyvinutý v roku 2016 spoločnosťou Facebook pre runtime prostredie Node.js programovacieho jazyka JavaScript, ktoré poskytuje rýchlosť, konzistenciu, stabilitu a bezpečnosť ako alternatívu k nástroju npm . Yarn bol vytvorený v spolupráci spoločností Facebook, Exponent, Google a Tilde s cieľom vyriešiť problémy s konzistenciou, bezpečnosťou a výkonom s veľkými kódovými základňami po tom, čo tomuto problému čelili vývojári spoločnosti Facebook. 1  Názov Yarn znamená "Yet Another Resource Negotiator". 2 
+Yarn poskytuje plug-in funkciu na rozšírenie základných funkcií na vytváranie lepších a štruktúrovanejších pracovných tokov.
+Nástroj Yarn obsahuje pluginy, ktoré sú k dispozícii v predvolenom nastavení. Používatelia môžu taktiež vytvárať svoje vlastné pluginy.
+Nástroj Yarn obsahuje funkciu Constraints, ktorá umožňuje automaticky nastavovať pravidlá pre dependency balíky alebo manifest nastavení projektu v rámci celých pracovných priestorov.
+Táto funkcia je k dispozícii iba pri inštalácii nástroja Yarn Berry. Funckia sa sprístupňuje spustením príkazu yarn plugin import constraints
+Offline vyrovnávacia pamäť umožňuje nástroju Yarn automaticky ukladať v minulosti  stiahnuté dependency balíky a urýchliť ďalšie sťahovanie rovnakých dependency balíkov.
+Táto funkcia je dôležitou súčasťou Zero-Installs a neukladá viac ako jeden súbor pre každý balík. Jeden súbor pre každý balík umožňuje jednoduché ukladanie v repozitári.
+Funkcia Plug'n'Play umožňuje spúšťať projekty vyžadujúce technológiu Node bez priečinka node_modules. Definuje vhodný spôsob umiestnenia súborov dependency balíkov pomocou ovládacieho súboru Plug-n-Play. Táto funkcia je zameraná na opravu zle štruktúrovanej architektúry node_modules. Výsledkom tejto funkcie je rýchlejší čas spustenia aplikácie vyžadujúcej technológiu NodeJs.
+Pluginy - doplnky umožňujú používateľom rozšíriť funkcie nástroja Yarn napísaním rozšírení. Nástroj Yarn je možné prispôsobiť potrebám vývojárov.
+Pluginy môžu pridávať nové resolvery, fetchery, linkery, príkazy a môžu sa tiež registrovať do špecifických udalostí alebo byť integrované navzájom. Väčšina funkcií nástroja Yarn je implementovaná prostredníctvom pluginov, vrátane funkcií yarn add a yarn install.
+Funckia Protokoly umožňuje používateľom definovať, ktorý protokol sa použije na získanie  určitých dependency balíkov, napríklad protokol git sa používa na stiahnutie verejného balíka z úložiska Git, protokol patch sa používa na vytvorenie opravenej kópie pôvodného balíka, protokol semver  sa používa pri inštalácii nového balíka. Tento balík sa pridá do súboru package.json s rozsahom verzií semver.
+Funkcia Release Workflow automaticky aktualizuje navezujúce dependency balíky medzi pracovnými priestormi monorepos pri aktualizácii koreňových balíkov.
+Táto funkcia je k dispozícii iba pri inštalácii verzie nástroja Yarn Berry. Prístup k tejto funkcii je možné doplniť spustením príkazu yarn plugin import version
+Funckia Workspaces umožňuje fungovanie viacerých projektov v rovnakom úložisku - repozitári a automaticky aplikovať zmeny na ďalšie naväzujúce balíky pri úprave zdrojového kódu. Táto funkcia umožňuje inštaláciu viacerých balíkov spustením príkazu yarn install iba raz. Všetky balíky špecifikované v príkaze sa nainštalujú spolu.
+Časť nástroja Yarn s názvom Zero-Installs zjdednodušuje používnie softvérových balíkov pri spúštaní kódu, ktorý bol stiahnutý z repozitára.
+Vývojári môžu vlastné balíky zdieľať s ostatnými vývojármi ich zverejnením v registri npm, ktorý sa používa na globálnu distribúciu doplnkových softvérových balíkov. 4 
+Pre publikovanie balíkov v registri npm je potrebná registrácia.
+Pre publikovanie balíka z príkazového riadka sa využíva príkaz:   yarn   login
+   yarn   publish
+</prVytvorenie repozitára pre komponenty nie je povinné. 5 

@@ -1,0 +1,18 @@
+cd, có tên khác là chdir , là một lệnh giao diện dòng lệnh dùng để thay đổi thư mục làm việc trong các hệ điều hành như Unix, DOS, OS/2 và Windows. Nó cũng có trong kịch bản shell và tập tin bó.
+chdir là một system call làm thay đổi thư mục làm việc, được định nghĩa bởi POSIX. CHDIR cũng có trong tập hàm của Visual Basic với chức năng tương tự.
+Một thư mục là một vùng luận lý trên hệ thống file dùng để chứa file. Thư mục có thể chứa bên trong nhiều thư mục con. Lệnh cd có thể dùng để chuyển đến thư mục con, trở về thư mục cha, trở về thư mục gốc, hay có thể đến bất kỳ thư mục nào.
+Giả sử có một cấu trúc thư mục trên hệ thống file Unix gồm có thư mục nhà của người dùng  chứa 1 file  và 3 thư mục con.
+Nếu thư mục hiện tại là thư mục nhà , thì khi nhập lệnh ls, sau đó đến lệnh cd games có thể sẽ cho ra kết quả:
+ user@wikipedia:~$  ls 
+workreports games encyclopedia text.txt
+user@wikipedia:~$  cd games 
+user@wikipedia:~/games$
+ C:\>   dir  
+workreports <DIR> Wed Oct 9th 9:01
+games  <DIR> Tue Oct 8th 14:32
+encyclopedia <DIR> Mon Oct 1st 10:05
+text txt  2007 Thu Oct10th 12:43
+C:\>  cd games 
+C:\games>
+</prChú ý rằng lệnh cd sẽ thực hiện các tác vụ khác nhau trên các hệ điều hành khác nhau nếu như không cung cấp tham số. Thí dụ, nếu thực thi không có tham số trên DOS, OS/2 hoặc Windows, lệnh sẽ in ra thư mục làm việc. Nếu chạy trên Unix hoặc hệ điều hành tựa Unix, người dùng sẽ được chuyển đến thư mục nhà của mình.
+Trong DOS, khi thực thi lệnh cd trong tập tin bó, thư mục làm việc của người gọi sẽ bị thay đổi theo. Trong Unix, thư mục làm việc không bị thay đổi vì các script thường thực thi trong một shell khác.

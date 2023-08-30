@@ -1,0 +1,5 @@
+Pontosságellenőrzött
+A hipocentrum  vagy fókusz az a hely a Föld belsejében, ahol egy földrengés vagy föld alatti robbanás energiája felszabadul. Más néven rengésfészek. 
+A hipocentrum éppen a földrengés epicentruma alatt helyezkedik el az ún. fókuszmélységben vagy fészekmélységben.
+A hipocentrum szó utalhat a földfelszínnek arra a részére is, amely közvetlenül a nukleáris robbanás felszabadulása alatt helyezkedik el .
+Egy földrengés eredetét az általa keltett szeizmikus hullámok regisztrálásával és a szeizmogramok összevetésével határozzák meg. Ez a meghatározás gyakran bizonytalanságot tartalmaz, mivel a mérés pontatlansága annál nagyobb lehet, minél nagyobb egy rezgés hullámhossza, az erős földrengések pedig energiájuk jó részét nagy hullámhosszokon adják le. Ilyenkor nehéz a fókuszmélység meghatározása.

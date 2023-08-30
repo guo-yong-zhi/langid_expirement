@@ -1,0 +1,3 @@
+Maršalų Salų valstybę sudaro 29 atolai, sudaryti iš daugelio mažų salelių, ir 5 salos. Kiekvienas jų, išskyrus negyvenamas salas, sudaro atskirą administracinį vienetą. Iš viso tokių administracinių salų yra 24. Salos skirstomos į dvi pagrindines salų grupes – Ratako ir Raliko.
+Šios salos ar salų grupės sudaro administracinius vienetus.
+Negyvenami atolai ir salos administruojami iš gretimų atolų.

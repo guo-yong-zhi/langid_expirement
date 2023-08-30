@@ -1,0 +1,12 @@
+Incoterms  je súbor medzinárodných pravidiel na výklad najčastejšie používaných obchodných podmienok  v zahraničnom obchode. Ojedinele sa používajú aj pri vnútroštátnych obchodných transakciách.
+Hovorovo slovo „Incoterms“ označuje „doložky podľa Incoterms“.
+Existujú tieto vydania Incoterms: 1936, 1953, 1967, 1976, 1980, 1990, 2000, 2010, 2020. V súčasnosti platia Incoterms 2020. Vypracúva ich Medzinárodná obchodná komora , slovenský preklad vydáva Slovenská obchodná a priemyselná komora - Incoterms 2000  vydala ako knihu pod názvom Incoterms 2000, Pravidlá MOK na výklad obchodných podmienok v Bratislave v roku 1999. Kniha obsahuje aj pôvodný anglický text.
+Určujú v podstate miesto a spôsob prechodu rizika  a podmienky , vyplývajúce z dodacích doložiek uvedených v kúpno-predajnej  zmluve, teda riziká a podmienky vo vzťahu medzi predajcom a kupujúcim, pri medzinárodnom obchode. Doložka Incoterms má vždy podobu niekoľkopísmenovej skratky . V ideálnom prípade sa do zmluvy teda napíše napr. ....DAF Bratislava....Zmluva sa riadi Incoterms 2000… a v praxi sa potom skratka DAF vykladá podľa textu Incoterms 2000.
+Nie je to jediný takýto súbor, ale dnes je celosvetovo najakceptovanejší. Staršie verzie Incoterms boli naozaj len „výkladom“ zaužívaných pravidiel, novšie - potom ako Incoterms získali vo svete rešpekt - však už aj sami vytvorili niektoré nové dodacie doložky a ich definície. 
+Vo vydaní z roku 2010 obsahuje Incoterms len 11 položiek, z toho dve nové . Položky DAF, DES, DEQ a DDU z Incoterms 2000 boli zrušené. Incoterms 2010 sa delia na dve skupiny podľa druhu dopravy.
+Poznámka:Za lomkou sú uvedené oficiálne slovenské preklady jednotlivých doložiek - napr. „zo závodu“.
+Vo vydaní z roku 2000, podobne ako v predošlom vydaní, obsahujú Incoterms 13 doložiek, delia sa na štyri „kategórie“ či „skupiny“ pomenované podľa prvého písmena doložiek, ktoré do nej patria.
+Tovar odvezie kupujúci priamo zo závodu predávajúceho, kupujúci zaň ďalej zodpovedá.
+Predávajúci dodá tovar dopravcovi, ktorého určí kupujúci.
+Predávajúci musí zabezpečiť prepravnú zmluvu, bez toho aby prijal na seba riziko straty či poškodenia tovaru.
+Predávajúci musí znášať všetky náklady a riziká spojené s celou trasou prepravy tovaru.

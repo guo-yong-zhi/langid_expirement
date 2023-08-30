@@ -1,0 +1,18 @@
+Darcyho zákon je matematický vztah, který definuje rychlost průtoku kapaliny nasycenou zónou pevného porézního tělesa. Jedná se o lineární závislost mezi filtrační rychlostí kapaliny vf  a piezometrickým  gradientem I. Odvodil ji francouzský inženýr Henry Darcy , který ji vyjádřil vzorcem:
+resp.
+kde
+Darcyho zákon platí pro stacionární proudění, proto se připouští závislost pouze na x a nikoliv na čase. Lze jej také vyjádřit vztahem:
+resp.:
+kde:
+Vztah mezi efektivní a filtrační rychlostí proudění je dán úměrou:
+kde
+Darcyho zákon byl odvozen pro proudění vody v nasycené zóně. Pro proudění v nenasycené zóně platí Darcy-Buckinghamův zákon.
+Zákon vyjadřuje lineární závislost rychlosti proudění na rozdílu tlaků proudícího média a vzdálenosti sledovaných bodů. Četné experimenty ukazují, že tato lineární závislost platí pro velký rozsah hodnot hydraulického gradientu a pro většinu obvyklých hornin a zemin. Odchylky od platnosti Darcyho zákona jsou zjišťovány při malých gradientech hydraulické výšky ve velmi jemnozrnných materiálech a také u hrubozrnných materiálů, pokud gradient hydraulické výšky překročí jistou mezní hodnotu. V prvém případě mluvíme o prelineárním proudění, ve druhém o postlineárním proudění.
+K postlineárnímu proudění dochází, pokud setrvačné síly v proudící tekutině začnou převažovat nad silami vazkými a v prostoru pórů nastane významné turbulentní proudění. Indikátorem je kritická hodnota Reynoldsova čísla Re. V hydromechanice pórového prostředí definujeme Reynoldsovo číslo vztahem :
+kde
+Hálek a Švec  uvádějí, že v porézním prostředí Re splňuje nerovnost 1 < Re < 10
+Položíme-li Re = 1, dosadíme-li dále za velikost toku hodnotu vs = 2,5×10−3 m/s a za kinematickou viskozitu vody hodnotu pro běžné teploty podzemní vody ν =1,31×10−6 m2/s, dostaneme jako podmínku platnosti Darcyho zákona nerovnost d ≤ 5,24×10−4 m. Tato hodnota odpovídá hrubému písku. Z toho je vidět, že je velmi málo pravděpodobné překročení meze platnosti Darcyho zákona pro běžné přírodní materiály.
+Prelineární proudění bývá pozorováno u materiálů charakterizovaných velmi malými zrny a póry a velkým specifickým povrchem . Příčinou prelineární odchylky od Darcyho zákona je skutečnost, že v těchto materiálech je prakticky veškerá voda v pórech v kontaktu s pevnou fází, má formu hygroskopické nebo obalové vody a je tudíž víceméně nepohyblivá. V takovém případě existuje určitá prahová kladná hodnota velikosti gradientu tlakové výšky, při jejímž překročení teprve dochází k pohybu vody.
+Darcyho zákon se všeobecně přijímá jako zákon určující pohyb podzemní vody, platí však v zásadě pouze pro laminární proudění v určitém rozsahu rychlostí.
+Používá se především v hydrogeologii nebo stavebnictví při projektování způsobů odvodňování stavebních jam apod.
+Podstatné je, že množství pronikající kapaliny je přímo úměrné tlakovému gradientu  a nepřímo úměrné protékané vzdálenosti. Velikost konstanty k se určuje pomocí čerpacích nebo stoupacích zkoušek případně laboratorně na neporušených vzorcích horninového materiálu.

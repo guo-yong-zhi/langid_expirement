@@ -1,0 +1,3 @@
+
+.mw-parser-output .ib-chembox.mw-parser-output .ib-chembox td,.mw-parser-output .ib-chembox th.mw-parser-output .ib-chembox td+td
+노르메타네프린은 노르에피네프린에 카테콜-O-메틸트랜스퍼레이스가 작용하여 생성되는 노르에피네프린의 분해 과정에서의 대사산물이다. 노르메타네프린은 오줌으로 배설되고, 특정 조직에서 발견된다. 노르메타네프린은 크롬친화세포종과 같은 카테콜아민 분비 종양의 표지자이다.

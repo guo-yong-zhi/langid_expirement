@@ -1,0 +1,9 @@
+Il cordino è uno spezzone di corda di diametro ridotto  che, in arrampicata e alpinismo, è utilizzato per specifiche operazioni. Più comunemente, con il termine "cordino" in arrampicata e alpinismo si intende definire un anello chiuso di cordino.
+Per la costruzione di un cordino possono essere utilizzati materiali come il nylon, il dyneema o il kevlar.  Il carico che esso può sopportare, soprattutto nel caso del nylon, varia generalmente in funzione del diametro. 1  Solitamente, i cordini sono venduti al metro.
+I cordini vengono usati in arrampicata e alpinismo con svariate funzioni: la costruzione di soste, l'allungamento dei punti di ancoraggio, manovre di autosoccorso della cordata e manovre di sicurezza .
+Nella comune pratica arrampicatoria o alpinistica, gli spezzoni di corda sono quasi sempre utilizzati "chiusi" ad anello, ossia con i due capi tra loro annodati, utilizzando il nodo doppio inglese. 2  Particolare attenzione deve essere prestata alla corretta esecuzione del nodo di giunzione, che costituisce la sezione più debole in tenuta per qualsiasi cordino. I capi che escono dal nodo, per questioni di sicurezza, dovrebbero essere lunghi almeno 10 volte il diametro del cordino .
+Durante l'arrampicata o l'attraversamento di un ghiacciaio i cordini vengono solitamente tenuti a tracolla come gli zaini monospalla, facendo passare un braccio all'interno del cordino, tenendo l'altro invece libero.
+Quando non si è in parete i cordini sono utili anche per il semplice trasporto di materiale, quali moschettoni, permettendo così un loro raggruppamento e una più bassa probabilità di perdere il materiale trasportato.
+I cordini, per essere omologati all'utilizzo arrampicatorio e alpinistico, devono sopportare un carico minimo di rottura F maggiore del prodotto del diametro d  del cordino al quadrato moltiplicato per un fattore f = 20 daN ossia F > d²·f
+Nel caso dei cordini in nylon f vale 20 daN/mm². 3 
+Altri progetti

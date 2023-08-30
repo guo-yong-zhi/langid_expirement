@@ -1,0 +1,18 @@
+În matematică, criterul de condensare  se aplică pentru determinarea naturii seriilor infinte. Pentru un șir pozitiv, monoton descrescător f, seria
+este convergentă dacă și numai dacă suma
+este convergentă.
+Din punct de vedere geometric, suma se aproximează cu trapeze la fiecare 
+  
+    
+      
+        
+          2
+          
+            n
+          
+        
+      
+    
+    }
+  
+.

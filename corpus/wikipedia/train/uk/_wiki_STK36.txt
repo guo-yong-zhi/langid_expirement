@@ -1,0 +1,28 @@
+• nucleotide binding• GO:0001948, GO:0016582 protein binding• protein kinase activity• kinase activity• transferase activity• transcription factor binding• зв'язування з іоном металу• protein serine/threonine kinase activity• ATP binding
+• клітинне ядро• цитоплазма• гіалоплазма• extracellular region
+• фосфорилювання• cell projection organization• regulation of DNA-binding transcription factor activity• multicellular organism development• epithelial cilium movement involved in extracellular fluid movement• brain development• positive regulation of smoothened signaling pathway• positive regulation of hh target transcription factor activity• protein phosphorylation• post-embryonic development• cilium assembly
+STK36  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 2-ї хромосоми.  3  Довжина поліпептидного ланцюга білка становить 1 315 амінокислот, а молекулярна маса — 143 995 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функціями належить до трансфераз, кіназ, серин/треонінових протеїнкіназ, білків розвитку. 
+Задіяний у таких біологічних процесах як біогенез та деградація війок, поліморфізм, альтернативний сплайсинг. 
+Білок має сайт для зв'язування з АТФ, нуклеотидами, іонами металів, іоном магнію. 
+Локалізований у цитоплазмі, ядрі.
+  Портал «Біологія»   Портал «Хімія»                       

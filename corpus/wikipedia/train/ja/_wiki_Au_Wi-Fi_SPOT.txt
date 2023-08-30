@@ -1,0 +1,104 @@
+au Wi-Fi SPOT（エーユーワイファイスポット）とは、auブランドを展開するKDDIの子会社であるワイヤ・アンド・ワイヤレス 注 1 が提供する公衆無線LANサービスの名称である 1 。
+ワイヤ・アンド・ワイヤレスがauの利用者向けに提供する公衆無線LANサービスであり、指定のデータ定額サービス 2 の契約者のみ利用可能である。利用料金はスマートフォンなど契約端末の利用は一部を除き無料で、コンピュータなど契約外端末で利用する場合は「Wi2 300 for auマルチデバイスサービス」プラン 3 の契約が必要で、利用料金は契約のデータ定額サービスによって異なり、無料で利用可能な場合と月額300円で利用可能な場合がある。2020年9月まで、au指定のデータ定額サービスやau回線の契約がない場合利用できなかったが、現在はau Wi-Fiアクセスで利用できる。
+iPhoneはauで発売当初はau Wi-Fi SPOTに対応しておらず、公衆無線LANお試しキャンペーンとして2012年3月末までワイヤ・アンド・ワイヤレスが提供するWi-Fiスクエアを利用できた。au Wi-Fi SPOTは2011年12月20日から対応し、上記契約している場合は引き続き2012年3月末以降もWi-Fiスクエア、UQ Wi-Fi及びau Wi-Fi SPOT対応アクセスポイントで利用が可能である。iPhoneなどのiOS ８以前の機器ではSSIDが「au_Wi-Fi」のものには対応しておらず、それ以外のSSIDでの利用となっていたが、iOS 9から対応している。
+SSIDが「au_Wi-Fi2」のものはWPA2-EAP  方式とで、従来より接続時間が短縮され、高セキュリティである。
+2012年3月1日 - 2016年1月31日はauのスマートフォン以外の一部を除くWi-Fi対応機器でも利用可能で、対象のauスマートフォン1台の他に最大1台までとなっていた。2016年2月1日からは「Wi2 300 for auマルチデバイスサービス」で利用可能である。
+2016年1月31日までは、1分につき27円、1480円を上限に1日間、で国外も利用可能であった 4 。2016年8月から24時間980円で利用可能な「世界データ定額」を開始する 5 。
+au Wi-Fi SPOTは2.4ギガヘルツ  帯の他、一部を除いては5GHz帯にも対応する。
+KDDIの子会社であるワイヤ・アンド・ワイヤレス  やUQコミュニケーションズ  が展開する公衆無線LANを利用可能である。バックボーンにUQコミュニケーションズが展開するWiMAX網やKDDIおよび電力系通信事業者各社の光回線などを利用する。Wi-Fiスポットは一部を除くauショップ、トヨタ自動車系販売店のPiPit、一部のTSUTAYA、ローソンをはじめ、カフェなどの飲食店や携帯電話売り場を持つ家電量販店、路線バスや一部の駅などで、2013年3月末時点で23万箇所ある。ごく一部にドコモショップで利用できる箇所がある。一部のスポット 注 2 はSSIDが検出されるもののログインできない。京王線・京王井の頭線 6 ・小田急ロマンスカー 7 ・京成スカイライナー・成田スカイアクセス 8 などは車内でも利用可能で、高速バスも対応路線がある 9 。
+利用可能SSIDは機種・エリアにより異なる。
+宅内でもWi-Fiが利用可能で、インターネット接続環境と専用機器（HOME SPOT CUBE ・プラネックスコミュニケーションズ製）のレンタルが必要である。利用料金は通常月額525円だが、「ISフラット」もしくは「プランF  シンプル/プランF 」を契約している場合は105円で利用可能である。2012年8月末までに申し込んだ場合はさらに105円が割引されて永年無料で利用可能である。WPSに対応しており、接続は上記のau Wi-Fi 接続ツールでかんたん接続からauの項目を選択する。接続ツールを利用しない場合はSSID  とパスワードの入力する。
+HOME SPOT CUBE  は、最高通信速度は150メガビット毎秒 、周波数帯は2.4GHzと5GHzの無線ルーターで、auスマートフォン以外の携帯ゲーム機を含むWi-Fi対応機器も接続可能である。
+Android向けのau Wi-Fi 接続ツールの最新バージョンではかんたん接続に従来のHOME SPOT CUBEを利用するものに加えて、バッファロー製とNECアクセステクニカ製のWi-Fiルーターのバーコード読み取り設定対応機種でバーコード読み取り設定にも対応するようになった。
+2015年5月末にHOME SPOT CUBE  のサポートを終了し、すでにレンタルしている利用者は無償譲渡される。
+後継にHOME SPOT CUBE2は、希望小売価格7800円で2015年4月10日発売予定である。
+2020年9月1日から、au PAYユーザーとauスマートパスプレミアムユーザー向けに提供されている公衆Wi-Fiサービスである。au PAYとauスマートパスプレミアムはauユーザー以外も利用可能で、auユーザー以外にもau Wi-Fi SPOTが解放された。利用料金は無料でauスマートパスプレミアムユーザーはVPN機能に対応した「セキュリティモード」を利用可能で、パソコンやゲーム機の利用も対応している。
+他事業者の類似サービス
+C100M - C102K
+C307K - C308P - C309H - C310T - C311CA - Rapira - C313K - P'sBoat - Rapira
+C401SA - C402DE - C403ST - C404S - C405SA - C406S - C407H - C408P - C409CA - C410T - C411ST - C412SA - C413S - C414K/K II - C415T
+C451H - C452CA
+C1001SA - C1002S
+C3001H - C3002K - C3003P
+C5001T
+1998年 - 1999年  ドコモ mova
+端末納入メーカー （日本国内企業）： カシオ  - 日立  - 京セラ  - ソニー→ソニー・エリクソン  - デンソー - 三洋電機  - 鳥取三洋  - 松下通信工業／パナソニック - 東芝  - セイコーインスツルメンツ
+A1011ST - A1012K/K II - A1013K - A1014ST
+A1101S
+A1301S - A1302SA - A1303SA - A1304T
+A1401K
+A3011SA - A3012CA - A3013T - A3014S - A3015SA
+A5301T - A5302CA - A5303H/H II - A5304T - A5305K - A5306ST
+A5401CA - A5402S
+2003年 - 2007年   ドコモ mova 
+簡単ケータイS
+A1304T II - A1305SA
+A1402S - A1402S II - A1403K - A1404S/S II - A1405PT - 簡単ケータイ - 簡単ケータイ
+INFOBAR
+A5401CA II - A5402S - A5403CA - A5404S - A5405SA - A5406CA - A5407CA
+A5501T - A5502K - A5503SA - A5504T - A5505SA - A5506T - A5507SA - talby - A5509T - Sweets - A5511T - A5512CA - G'zOne TYPE-R - A5514SA - A5515K - A5516T - 簡単ケータイ - A5518SA - Sweets Pure - ジュニアケータイ - A5521K - A5522SA - A5523T - Sweets Cute - ジュニアケータイ - A5526K - A5527SA - 簡単ケータイ - A5529T
+B01K
+2002年 - 2003年  ドコモ mova
+端末納入メーカー （日本国内企業）： カシオ日立／カシオ  - カシオ日立／日立  - 京セラ  - ソニー・エリクソン  - 三洋電機  - 鳥取三洋  - 東芝 
+「●」：CDMA 1X WIN（EV-DO Rev.A）対応機種、「 」（マーク無）：CDMA 1X WIN（EV-DO Rel.0）対応機種
+携帯電話 CA001● - Woooケータイ H001● - 安心ジュニアケータイ K001■ - P001● - Cyber-shotケータイ S001● - SH001● - フルチェンケータイ T001●   Walkman Phone, Premier3●   ベルトのついたケータイ NS01■ - ケースのようなケータイ NS02■   G9●   ビジネスケータイ E05SH● - ビジネスケータイ E06SH●スマートフォン Touch Pro E30HT●
+携帯電話 G'zOne CA002● - K002■ - 簡単ケータイ K003■ - SOLAR PHONE SH002● - T002●   biblio* - Mobile Hi-Vision CAM Wooo● - Sportio water beat●   misora■ - D.O.S.水玉で幸福いっぱい/宇宙へ行くときのハンドバッグ/私の犬のリンリン● - PLY●   ビジネスケータイ E07K■
+携帯電話 EXILIMケータイ CA003● - EXILIMケータイ CA004● - S002■ - SA001● - AQUOS SHOT SH003● - SH004● - T003●   BRAVIA Phone U1●   PRISMOID■
+データ通信カード : W07K●  
+携帯電話 簡単ケータイ K004■ - SH005● - AQUOS SHOT SH006*   URBANO BARONE● - mamorino■   lotta■  ビジネスケータイ E08T●
+携帯電話 EXILIMケータイ CA005● - 簡単ケータイ K005■ - K006■ - Cyber-shotケータイ S003● - BRAVIA Phone S004* - SA002● - SOLAR PHONE SH007● - AQUOS SHOT SH008* - REGZA Phone T004* - 簡単ケータイS PT001■   beskey●    LIGHT POOL●スマートフォン IS01● - dynapocket IS02●
+携帯電話 EXILIMケータイ CA006* - K006 Z■ - BRAVIA Phone S005** - SH009● - AQUOS SHOT SH010* - T005●    G'zOne TYPE-X* - URBANO MOND●    X-RAY○スマートフォン IS03● - SIRIUS α IS06○
+PHOTO-U : SP01   電子書籍端末 : biblio Leaf SP02■   通信機能付きカーナビゲーション : WND-01K■   データUSB : DATA01★ - DATA03★   データ通信カード : DATA02★ - DATA04★   Wi-Fiルータ : URoad-7000● - Wi-Fi WALKER DATA05● - NEX-fi（携帯電話用）
+スマートフォン REGZA Phone IS04○ - IS05● - HTC EVO WiMAX ISW11HT★   ビジネスケータイ E31T●携帯電話 K007● - 簡単ケータイ K008■ - Cyber-shotケータイ S006** - SH011● - T006** - PT002■     mamorino2■   G11**
+スマートフォン G'zOne IS11CA○  - Xperia acro IS11S○ - AQUOS PHONE IS11SH○ - AQUOS PHONE IS12SH○ - REGZA Phone IS11T○ - MIRACH IS11PT○ - Windows Phone IS12T○   INFOBAR A01○   REGZA Phone IS04FV○   ビジネススマートフォン EIS01PT○携帯電話 CA007○ - K009○ - 簡単ケータイ K010■ - S007** - T007** - T008○     Mi-Look■     ビジネスケータイ E09F●
+スマートフォン MEDIAS BR IS11N○ - DIGNO ISW11K☆ - AQUOS PHONE IS13SH○ - AQUOS PHONE IS14SH○ - ARROWS Z ISW11F☆ - ARROWS ES IS12F○ - HTC EVO 3D ISW12HT★ - MOTOROLA PHOTON ISW11M★    iPhone 4S●携帯電話 F001○   URBANO AFFARE○   ビジネスケータイ E10K■
+タブレット : SMT-i9100 - MOTOROLA XOOM Wi-Fi TBi11M   ビジネスタブレット -TOUGH- ETBW11AA★   Wi-Fiルータ : Wi-Fi WALKER DATA06● - Wi-Fi WALKER DATA08W★ - NEX-fi/S（携帯電話用）  データUSB : DATA07●   PHOTO-U2 :  SP03■   電子書籍端末 : Reader PRS-G1■
+「☆」：+WiMAX & WIN HIGH SPEED（EV-DO MC-Rev.A）対応機種、「★」：+WiMAX & CDMA 1X WIN（EV-DO Rev.A）対応機種、「○」：WIN HIGH SPEED（EV-DO MC-Rev.A）対応機種、「●」：CDMA 1X WIN（EV-DO Rev.A）対応機種、「**」：WIN HIGH SPEED（EV-DO MC-Rev.A） & Wi-Fi WIN対応機種、「*」：CDMA 1X WIN（EV-DO Rev.A） & Wi-Fi WIN対応機種、「■」：CDMA 1X WIN（EV-DO Rel.0）対応機種、「 」（マーク無）：CDMA通信モジュール非搭載機種
+端末納入メーカー （日本国内企業）：カシオ日立→NECカシオ／CASIO  - カシオ日立→NECカシオ／HITACHI  - NECカシオ／NEC  - 京セラ  - 京セラ／SANYO  - パナソニックモバイル／Panasonic  - シャープ  - 東芝→富士通東芝／TOSHIBA  - 富士通東芝／Fujitsu  
+スマートフォン： GALAXY S II WiMAX ISW11SC★ - Optimus X IS11LG○ - Xperia acro HD IS12S○ - MOTOROLA RAZR IS12M●    INFOBAR C01○
+スマートフォン： HTC J ISW13HT★ - AQUOS PHONE SL IS15SH○ - AQUOS PHONE SERIE ISW16SH☆ - AQUOS PHONE CL IS17SH○ - ARROWS Z ISW13F☆    URBANO PROGRESSO☆タブレット： REGZA Tablet AT500/26F携帯電話： K011○ - 簡単ケータイ K012■ - PT003■   K011 カメラなしモデル（K011 Z）○
+スマートフォン： HTC J Butterfly HTL21◎ - Xperia VL SOL21◎ - GALAXY S III Progre SCL21◎ - G'zOne TYPE-L CAL21◎ - DIGNO S KYL21◎ - AQUOS PHONE SERIE SHL21◎ - ARROWS ef FJL21◎ - Optimus G LGL21◎ - VEGA PTL21◎   iPhone 5◎タブレット：AQUOS PAD SHT21◎    iPad mini ◎ - iPad  ◎
+無線LANルータ： HOME SPOT CUBE PXH11モバイルWiMAXルータ： URoad-7000データ通信端末： Wi-Fi WALKER LTE HWD11◎ - USB STICK LTE HWD12◎
+スマートフォン： INFOBAR A02◎タブレット：iPad ◎携帯電話： mamorino3■
+スマートフォン・ファブレット： HTC J One HTL22◎ - Xperia UL SOL22◎ - AQUOS PHONE SERIE SHL22◎   URBANO L01◎タブレット： HP ElitePad 900 for au◎ - Nexus 7 Wi-Fiモデル
+スマートフォン・ファブレット： Xperia Z1 SOL23◎ - DIGNO M KYL22◎ - AQUOS PHONE SERIE SHL23◎ - isai LGL22◎ - ARROWS Z FJL22◎ - GALAXY Note 3 SCL22◎*  iPhone 5s◎ - iPhone 5c◎ タブレット： ARROWS Tab FJT21◎   iPad Air◎ - iPad mini ◎モバイルノートPC： VAIO Duo 13 SVD13229DJB◎携帯電話： GRATINA KYY06■ - MARVERA KYY08○
+Android搭載小型STB： Smart TV StickBDレコーダーストリーミング端末：Remote TVデータ通信端末： Wi-Fi WALKER WiMAX2+ HWD14◎TVフォトフレーム： PHOTO-U TV ZTS11■GPS搭載M2Mツール： あんしんGPS KYS11M
+スマートフォン・ファブレット：G Flex LGL23◎* - Xperia Z Ultra SOL24◎* -  AQUOS PHONE SERIE mini SHL24◎   URBANO L02◎ タブレット：AQUOS PAD SHT22◎タブレットPC： VAIO Tap 11 SVT11229EJB◎
+スマートフォン・ファブレット：isai FL LGL24◇* - Xperia ZL2 SOL25◇ - GALAXY S5 SCL23◇ - AQUOS SERIE SHL25◇ - HTC J butterfly HTL23◇    URBANO L03◇ - TORQUE G01◎タブレット： Xperia Z2 Tablet SOT21◇ - ASUS MeMO Pad 8◎データ通信端末： Wi-Fi WALKER WiMAX2+ HWD15◎
+スマートフォン・ファブレット：isai VL LGV31* - Xperia Z3 SOL26◇ - GALAXY Note Edge SCL24◇*  Fx0 LGL25◎  URBANO V01  iPhone 6◇(iOS 8.3適用後は) - iPhone 6 Plus◇(iOS 8.3適用後は)*タブレット： GALAXY Tab S SCT21◇携帯電話： MARVERA2 KYY09○
+スマートフォン・ファブレット：AQUOS SERIE mini SHV31 - シンプルスマートフォン BASIO KYV32   INFOBAR A03   miraie KYL23◎ 携帯電話：AQUOS K SHF31◎ -  GRATINA2 KYY10■
+スマートフォン・ファブレット：isai vivid LGV32* - Xperia Z4 SOV31 - HTC J Butterfly HTV31  - AQUOS SERIE SHV32 - Galaxy S6 edge SCV31   TORQUE G02 - URBANO V02 タブレット： Xperia Z4 Tablet SOT31◇ - Qua tab 01◇携帯電話：AQUOS K SHF32
+スマートフォン・ファブレット：Xperia Z5 SOV32 - DIGNO rafre KYV36 - Galaxy A8 SCV32  iPhone 6s - iPhone 6s Plusタブレット：iPad mini 4◇ - iPad Pro◇法人向けタブレット：TOUGHPAD FZ-E1◎ - TOUGHPAD FZ-X1◎
+TVフォトフレーム： PHOTO-U TV ZTS12■
+「」：au VoLTE & au 4G LTE CA & WiMAX2+ （キャリアアグリケーション、およびVoLTE対応・国内3G通信非対応）対応機種、「」：au VoLTE & WiMAX2+ （VoLTE対応・国内3G通信非対応）対応機種、、「」：au VoLTE （VoLTE対応・国内3G通信非対応）対応機種、「◇」：au 4G LTE CA （キャリアアグリケーション対応）& WiMAX2+ & EV-DO MC-Rev.A（au 3G WIN HIGH SPEED）対応機種、「◆」：au 4G LTE CA （キャリアアグリケーション対応） & EV-DO MC-Rev.A（au 3G WIN HIGH SPEED）対応機種、 「◎」：au 4G LTE（キャリアアグリケーション非対応） & EV-DO MC-Rev.A（au 3G WIN HIGH SPEED）対応機種、「☆」：+WiMAX & EV-DO MC-Rev.A対応機種、「★」：+WiMAX & EV-DO Rev.A（au 3G）対応機種、「○」：EV-DO MC-Rev.A対応機種、「●」：EV-DO Rev.A対応機種、「■」：EV-DO Rel.0（au 3G）対応機種、「*」：ファブレット、「M」：CDMA通信（au 3G）モジュール搭載M2M専用機種、「 」（マーク無）：CDMA通信モジュール非搭載機種
+スマートフォン・ファブレット：AQUOS SERIE mini SHV33    Qua phone    iPhone SE   TOUGHPAD FZ-N1  1 タブレット：Qua tab 02◆携帯電話：GRATINA 4G   mamorino Watch
+スマートフォン・ファブレット：HTC 10 HTV32 - Xperia X Performance SOV33 - AQUOS SERIE SHV34 - AQUOS U SHV35 - Galaxy S7 edge SCV33     Qua phone PX   BASIO2 SHV36   HP Elite ×3* 2 タブレット：Qua tab PX◆携帯電話：AQUOS K SHF33   かんたんケータイ KYF32 データ通信端末：Speed Wi-Fi NEXT W03◇
+スマートフォン・ファブレット：Xperia XZ SOV34 - isai Beat LGV34 - AQUOS U SHV37   URBANO V03   iPhone 7 - iPhone 7 Plus*  タブレット：Qua tab PZ◆
+スマートフォン・ファブレット：AQUOS SERIE mini SHV38 - miraie f - rafre KYV40 携帯電話：TORQUE X01
+スマートフォン・ファブレット：Galaxy S8 SCV36 - Galaxy S8+ SCV35* - AQUOS R SHV39 - Xperia XZs SOV35 - TORQUE G03 - Qua phone QX - HTC U11 HTV33 携帯電話：MARVERA KYF35 - かんたんケータイ KYF36
+スマートフォン・ファブレット： Galaxy Note8 SCV37* - isai V30+ LGV35*  - Xperia XZ1 SOV36 - AQUOS sense SHV40 - AQUOS R Compact SHV41   iPhone 8 - iPhone 8 Plus* - iPhone X
+「」：au VoLTE & au 4G LTE CA & WiMAX2+ （キャリアアグリケーション、およびVoLTE対応・国内3Gサービス非対応）対応機種、「」：au VoLTE & au 4G LTE & WiMAX2+ （VoLTE対応・キャリアアグリケーション非対応・国内3G通信非対応）対応機種、「」：au VoLTE & au 4G LTE（VoLTE対応・国内3Gサービス非対応）対応機種、「」：au  VoLTE & au  4G LTE & WiMAX2+（国内VoLTE & LTEサービス専用・WiMAX2+対応・キャリアアグリケーション非対応・国内3Gサービス非対応・SIMロック解除非対応・国内通信エリア専用機種、「」：au VoLTE & au 4G LTE（国内VoLTE & LTEサービス専用・キャリアアグリケーション非対応・国内3Gサービス非対応・SIMロック解除非対応・国内通信エリア専用機種）、「◇」：au 4G LTE CA （キャリアアグリケーション対応）& WiMAX2+対応機種、「◆」：au 4G LTE & WiMAX2+対応機種、「」:au 4G LTE対応機種、「*」：ファブレット、「」：法人向け機種、「 」（マーク無）：通信モジュール非搭載機種
+スマートフォン : Touch Pro E30HT
+スマートフォン : IS01（SHI01） - dynapocket IS02（TSI01）
+スマートフォン : IS03（SHI03） - SIRIUS α IS06（PTI06）
+スマートフォン : REGZA Phone IS04（TSI04） - IS05（SHI05） - HTC EVO WiMAX ISW11HT（HTI11）   E31T タブレット : SMT-i9100 - MOTOROLA XOOM Wi-Fi TBi11M（MOT11）
+スマートフォン : G'zOne IS11CA（CAI11）  - Xperia acro IS11S（SOI11） - AQUOS PHONE IS11SH（SHI11） - AQUOS PHONE IS12SH（SHI12） - REGZA Phone IS11T（TSI11） - MIRACH IS11PT（PTI11） - Windows Phone IS12T（TSI12）   INFOBAR A01（SHX11）   REGZA Phone IS04FV（TSI04）   ビジネススマートフォン EIS01PT（PT01E）
+スマートフォン : MEDIAS BR IS11N（NEI11） - DIGNO ISW11K（KYI11） - AQUOS PHONE IS13SH（SHI13） - AQUOS PHONE IS14SH（SHI14） - ARROWS Z ISW11F（FJI11） - ARROWS ES IS12F（FJI12） - HTC EVO 3D ISW12HT（HTI12） - MOTOROLA PHOTON ISW11M（MOI11）    iPhone 4s タブレット : ビジネスタブレット -TOUGH- ETBW11AA
+スマートフォン : GALAXY S II WiMAX ISW11SC（SCI11） - Optimus X IS11LG（LGI11） - Xperia acro HD IS12S（SOI12） - MOTOROLA RAZR IS12M（MOI12）   INFOBAR C01（SHX12）
+スマートフォン : HTC J ISW13HT（HTI13） - AQUOS PHONE SL IS15SH（SHI15） - AQUOS PHONE SERIE ISW16SH（SHI16） - AQUOS PHONE CL IS17SH（SHI17） - ARROWS Z ISW13F（FJI13） - URBANO PROGRESSO（KYY04）タブレット： REGZA Tablet AT500/26F
+スマートフォン : iPhone 5   HTC J butterfly HTL21 - G'zOne TYPE-L CAL21 - Xperia VL SOL21 - AQUOS PHONE SERIE SHL21 - GALAXY S III Progre SCL21 - DIGNO S KYL21 - Optimus G LGL21 - ARROWS ef FJL21 - VEGA PTL21タブレット： AQUOS PAD SHT21   iPad mini  - iPad （16/32/64GB）
+スマートフォン : INFOBAR A02（HTX21）タブレット： iPad （128GB）
+スマートフォン : Xperia UL SOL22 - AQUOS PHONE SERIE SHL22 - URBANO L01（KYY21） - HTC J One HTL22
+スマートフォン : iPhone 5s - iPhone 5c   Xperia Z1 SOL23 - AQUOS PHONE SERIE SHL23 - ARROWS Z FJL22 - DIGNO M KYL22 - isai LGL22ファブレット： GALAXY Note 3 SCL22タブレット： ARROWS Tab FJT21   iPad Air  - iPad mini 
+スマートフォン : AQUOS PHONE SERIE mini SHL24 - URBANO L02（KYY22） - G Flex LGL23ファブレット： Xperia Z Ultra SOL24タブレット： AQUOS PAD SHT22
+スマートフォン : Xperia ZL2 SOL25 - AQUOS SERIE SHL25 - URBANO L03（KYY23） - TORQUE G01（KYY24） - GALAXY S5 SCL23 - isai FL LGL24タブレット： Xperia Z2 Tablet SOT21 - ASUS MeMO Pad 8（AST21）
+スマートフォン :iPhone 6 - iPhone 6 Plus   Xperia Z3 SOL26 - URBANO V01（KYV31） - isai VL LGV31   Fx0 LGL25 ファブレット： GALAXY Note Edge SCL24タブレット： GALAXY Tab S   iPad Air 2 - iPad mini 3
+スマートフォン : AQUOS SERIE mini SHV31 - シンプルスマートフォン BASIO KYV32 - INFOBAR A03（KYV33） - miraie KYL23
+スマートフォン : Xperia Z4 SOV31 - AQUOS SERIE SHV32 - TORQUE G02 - URBANO V02 - HTC J Butterfly HTV31 - isai vivid LGV32 - Galaxy S6 edge SCV31タブレット： Xperia Z4 Tablet - Qua tab 01
+スマートフォン :iPhone 6s - iPhone 6s Plus   Xperia Z5 SOV32 
+端末納入メーカー （日本国内企業）：NECカシオ／CASIO  - NECカシオ／NEC  - 京セラ  - シャープ  - ソニー・エリクソン→ソニーモバイル  - 東芝→富士通東芝→富士通モバイル／TOSHIBA  - 富士通東芝→富士通モバイル／FUJITSU  
+CD-10DE - CD-10F - CD-10K - CD-10P - CD-10T
+C101S - C102K - C103T - C104SA - C105P
+C201H - C202DE
+C301T - C302H - C303CA - C304SA - C305S
+2000年 - 2001年  ドコモ mova

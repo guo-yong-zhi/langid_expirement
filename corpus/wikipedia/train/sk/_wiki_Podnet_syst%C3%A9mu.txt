@@ -1,0 +1,2 @@
+Podnet systému je stav veličín vstupných premenných v danom časovom okamihu, t. j. stav vstupu systému charakterizujúci určité pôsobenie podstatného okolia na systém.
+Jednotlivé podnety pôsobia na systém s rôznou intenzitou a môžu mať rozličný charakter . Ich časová postupnosť sa nazýva trajektóriou vstupu. Niektoré podnety, hoci pôsobia na systém, vzhľadom na nízku intenzitu nevyvolávajú zmenu stavu systému, sú pre systém nepodstatné. Možnosť identifikovania existencie podnetov a príčin ich vzniku závisí od objektívnej úrovne  vedeckého poznania v danej problémovej oblasti.

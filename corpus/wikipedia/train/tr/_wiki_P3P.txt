@@ -1,0 +1,2 @@
+P3P, gizlilik tercihleri platformu protokolü.
+World Wide Web Consortium  tarafından geliştirilmiştir ve web sitelerini kapsayan bir protokoldür. P3P, standart bir formattaki internet sitelerinin gizlilik politikasının, kullanıcı aracısı tarafından otomatik olarak alınıp, kolayca yorumlanıp belirtilmesine olanak sağlar. Kullanıcıların internet sitelerine göz atarken kişisel bilgilerini daha çok kontrol etmeleri için tasarlanmıştır. Microsoft Internet Explorer, P3P'yi destekleyen ilk web tarayıcısıdır.

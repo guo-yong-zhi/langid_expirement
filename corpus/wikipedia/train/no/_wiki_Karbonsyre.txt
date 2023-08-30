@@ -1,0 +1,13 @@
+6,3 )
+Karbonsyre  er en uorganisk syre med den kjemiske formelen H2CO3. Karbonsyre vil inngå i en likevekt når karbondioksid oppløses i vann. CO2 + H2O ⇌ H2CO3. 
+Karbonsyre er en toprotisk syre som kan avgi 2 H+-ioner i to protolysetrinn:
+1. protolysetrinn: H2CO3 + H2O → HCO3- + H3O+ 
+2. protolysetrinn: HCO3- + H2O → CO32- + H3O+
+Navnet «kullsyre» er et unøyaktig trivialnavn, som i dag fremfor alt brukes synonymt med karbonsyre. Tidligere refererte navnet «kullsyre» også til karbondioksid. «Kull» refererte til karbon-bestanddelen, mens «syre» refererte til oksygenet. 
+Omdanningen av CO2 løst i vann til karbonsyre, og de to protolysetrinnene av karbonsyre er en viktig del av CO2/O2 omsetningen for celleåndingen, i blodet i menneskekroppen. Reaksjonene virker som buffer for å unngå for lav pH i blodet .
+Det vanligste karbonførende ionet i ferskvann er bikarbonat-ionet (HCO3-, og her er innholdet av karbon 19,7 %. Mineralet kalkspat (CaCO3), som er hovedkomponenten i alle jordens kalksteiner, inneholder 12 % karbon.
+Grunnvannet vil inneholde karbonsyre fordi nedbøren,  siger ned i jorda. Mengden med karbonsyre i grunnvannet øker på grunn av rotrespirasjon og nedbrytning av organisk materiale. Vannets høye innhold av karbonsyre fører til forvitring av karbonatbergarter og silikatbergarter.
+Forvitringsreaksjonen for mineralet kalkspat er : CaCO3 + H2CO3 → Ca+2 + 2HCO3-. Én av mange mulige forvitringsreaksjoner med silikatberger kan illustreres med følgende ligning: 
+MgSiO3+ + 2H2CO3 + H2O → Mg2+ + 2HCO3- + H4SiO4.
+Disse to reaksjonene forklarer hvorfor bikarbonationet  er det viktigste anionet i de fleste elver.
+Karbonsyre blir tilsatt blant annet i brus og musserende vin og dannes naturlig i champagne og øl.

@@ -1,0 +1,17 @@
+El  nus Stevedore  és un nus de límit, sovint lligat prop de l'extrem d'una corda. És més voluminós i menys propens a embussar-se que el nus en forma de vuit.
+En  The Art of Knwotting & Splicing , s'afirma que "el nom es va originar en un fullet publicat el 1890 per la Companyia CW Hunt, que venia cordes sota el nom Stevedore. Va ser posteriorment adoptat pels diccionaris, manuals tècnics, i altres obres de referència, i ara està fermament establert en els llibres, i en el vocabulari dels mariners. " 1 
+En l'àmbit de la teoria de nusos, del fet d'unir els extrems del Nus Stevedore en resulta el nus 
+  
+    
+      
+        
+          6
+          
+            1
+          
+        
+      
+    
+    }
+  
+.

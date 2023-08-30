@@ -1,0 +1,105 @@
+I statistikk er Wolds dekomponering eller Wolds representasjonsteorem , oppkalt etter Herman Wold. Teoremet sier at hver kovarians-stasjonær tidsserie 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+      
+    
+    }
+  
+ kan bli skrevet som summen av to tidsserier, en deterministisk og en stokastisk.
+Formelt
+hvor:
+Moving average-koeffisientene har disse egenskapene:
+Dette teoremet kan bli sett på som et eksistensteorem - hvilken som helst stasjonær prosess har denne tilsynelatende spesielle representasjonen. Ikke bare er en så enkel linæer og presis representasjons eksistens bemerkelsesverdig, men desto mer er moving average-modellens spesielle karakter. Forestill deg å lage en prosess som er moving average, men som ikke innehar de fire første egenskapene. For eksempel kunne koeffisientene 
+  
+    
+      
+        
+          b
+          
+            j
+          
+        
+      
+    
+    }
+  
+ definert en akasual og ikke-minimum forsinkelsesmodell. Uansett tillater teoremet en kausal, minst-mulig-forsinkende moving averages eksistens som representerer denne prosessen eksakt. Hvordan alt dette fungerer i forhold til kausalitet- og minst-mulig-forsinkelses egenskapene er omtalt i Scargle , hvor det er foreslått en forlengelse av Wold-dekomposisjonen.
+Wold-teoremets brukbarhet er at det tillater en variabel 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+      
+    
+    }
+  
+ sin dynamiske utvikling å være tilnærmet en lineær modell. Hvis innovasjonen 
+  
+    
+      
+        
+           
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \varepsilon _
+  
+ er uavhenging, så er denne lineære modellen den eneste mulige representasjonen som forbinder observasjonen 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+      
+    
+    }
+  
+ til dens tidligere utvikling. Ellers, når 
+  
+    
+      
+        
+           
+          
+            t
+          
+        
+      
+    
+    {\displaystyle \varepsilon _
+  
+ er kun en ukorrellert men ikke en uavhengig sekvens, eksisterer den lineære modellen, men den er ikke den den eneste representasjonen for seriens dynamiske avhengighet. I dette tilfellet er det mulig den lineære modellen ikke er særlig brukbar, og det ville vært en ikke-lineær modell som forbinder observasjonen 
+  
+    
+      
+        
+          Y
+          
+            t
+          
+        
+      
+    
+    }
+  
+ til dens tidligere utvikling. Det er forøvrig ofte slik i praktiske tidsserieanalyser at kun lineære prediktorer vurderes, delvis på grunn av enkelhet, hvor Wolds dekomposisjon er direkte relevant.
+Wolds representasjon er avhengig av uendelig mange parametere, selv om de vanligvis forfaller ganske raskt. Den autoregressive modellen er et alternativ som trenger kun få koeffisienter dersom dens korresponderende moving average har flere. Disse to modellene kan bli slått sammen til en autoregressiv-moving average  modell, eller en autoregressiv integrert moving average  modell dersom det involverer ikke-stasjonæritet  og referansene der). I tillegg gir dette dokumentet en forlengelse av Wolds teorem som tillater mer allmenngyldighet for moving average  fulgt av en strengere karakterisering av innovasjonen , ikke bare ukorrelert). Denne forlengelsen tillater muligheten for modeller som er mer egnet til fysiske og astrofysiske prosesser og kan i sær fortolke modellenes fremtidige retning.

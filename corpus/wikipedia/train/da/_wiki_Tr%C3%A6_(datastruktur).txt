@@ -1,0 +1,4 @@
+Træet som datastruktur bruges i mange sammenhænge. De bruges både i forbindelse med opbevaring af data og i forbindelse med sortering. Fordelen ved en træstruktur er, at den er fleksibel og kan bruges forholdsvis effektivt både til sekventiel gennemlæsning af data og til direkte opslag. Et træ vises som regel med roden øverst og med grene, der vokser ned ad.
+Filsystemer er ofte lavet så filerne kan tilgås i en træstruktur hvor mapper kan have undermapper.
+Alle træer er acykliske grafer, selvom ikke alle acykliske grafer er træer.
+Der bruges en række ord med specielle betydninger, når det drejer sig om træstrukturer.

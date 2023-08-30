@@ -1,0 +1,95 @@
+Pontosságellenőrzött
+Avram Noam Chomsky  amerikai nyelvész, a Massachusetts Institute of Technology  professzora, a generatív nyelvtan elméletének megalkotója, filozófus, politikai aktivista, előadó és lektor. Kidolgozója a róla elnevezett Chomsky-hierarchiának.
+Az általános nyelvtudomány terén végzett munkásságával nagyban hozzájárult a behaviorizmus hanyatlásához és a kognitív tudomány fellendüléséhez. A nyelvészet terén mutatott kiemelkedő munkája mellett Chomsky az egyik leginkább számon tartott amerikai baloldali értelmiségi, és a vietnámi háború óta világszerte az amerikai külpolitika és gazdaságpolitika éles bírálójaként ismert. Az 1992-es „Arts and Humanities Citation Index” szerint 1980 és 1992 között Chomsky volt a világon a leggyakrabban idézett élő személy. A professzor a politikában is aktívan részt vesz, magát libertariánus szocialistának vallja, és szimpatizál az anarcho-szindikalizmus nézeteivel is. Tagja az Industrial Workers of the World elnevezésű szervezetnek és az Anticionista Mozgalomnak. 17 
+Chomsky szerint a nyelvtan olyan szabályrendszer, amely meghatározza és létrehozza az adott nyelvben lehetséges, nyelvtanilag helyes mondatok körét. Chomsky megkülönbözteti a nyelv felszíni és mélystruktúráját: a mélystruktúra a nyelv alapja, amely bizonyos transzformációs szabályok segítségével létrehozza a felszíni struktúrát, azaz a nyelvi megnyilvánulásokat. A nyelvi kompetencia, a nyelv használatának képessége minden ember veleszületett tulajdonsága, tehát már a nyelv tanulása előtt megtalálható. Ezek olyan általános struktúrák, melyek az egyes nyelvekben közösek. A nyelv tanulása során ezeket a struktúrákat az adott nyelv igényei szerint állítják be .
+Noam Chomsky 1928. december 7-én, Philadelphiában, zsidó családba született, William Chomsky és Elsie Simonofsky fiaként. 1945-ben kezdte meg tanulmányait a University of Pennsylvania egyetemen, filozófia és nyelvészet szakon. Tanárai között tartják számon többek közt Zellig S. Harris nyelvészprofesszort, valamint Nelson Goodman filozófust.
+Az 1950-es évek elején néhány évig a Harvardon tanult. 1955-ben a Pennsylvaniai Egyetemen nyelvészetből doktorált. A doktori disszertációjában, mely a „The Logical Structure of Linguistic Theory” címet kapta, Chomsky elkezdte kifejteni azon elméleteit, melyeket 1957-ben Syntactic Structures című könyvében dolgozott ki. Az 1960-as években váltak világszerte elfogadottá a nyelvészettel kapcsolatos forradalmi munkái, azóta Chomskyt e terület legnagyobbjai közt tartják számon. 1949-ben feleségül vette Carol Chomsky nyelvészt . Két lányuk  és egy fiuk  született, idősebb lányuk, Aviva Chomsky ismert Latin-Amerika-kutató. 18 
+Ami a mondattant illeti, Chomsky megközelítése, az úgynevezett generatív grammatika a nyelvtant mint az ismeret, a tudás gerincét – melyet a nyelvhasználók birtokolnak – vizsgálja. A nyelvészprofesszor 1960 óta fenntartja nézetét, mely szerint a tudás és ismeret legnagyobb részt öröklött – utalva a gyerekekre, akiknek elég nyelvük csupán bizonyos jellegzetességeit megtanulni. 19  A nyelvészet örökletes voltát gyakran nevezik univerzális grammatikának.
+Chomsky szemszögéből nézve a legerősebb érv, mely az univerzális grammatika létezése mellett szól, az az egyszerű tény, hogy a gyerekek milyen gyorsan képesek elsajátítani anyanyelvüket. Továbbá még azzal érvel, hogy egy hatalmas rés van a nyelvi ingerek – melyeknek a gyerekek vannak kitéve –, valamint a gazdag nyelvtani ismeretek között, melyeket magukénak tudhatnak . Az univerzális grammatika ismerete Chomsky véleménye alapján alkalmas lenne arra, hogy kitöltse ezt a bizonyos rést. Chomsky elméletei nagy befolyással bírtak  a nyelvészetre, de egyúttal akadtak olyanok is, akik kritikával illették a professzor teóriáit.
+Egy visszatérő kritika a Chomsky-féle generatív grammatikára, hogy az meglehetősen „angolközpontú”  és „Európa-központú”. 20  21  22  23  24  Ami pedig az ebben a hagyományban dolgozó nyelvészeket illeti, hajlamosak a nyelvek egy igen kis mintáját alapul venni, ha az univerzális grammatika saját igényeikre, illetve elvárásaikra való alapozásáról van szó.
+A további kritikák közt szerepel például, hogy a Chomsky nyelvészetében lévő formalizmusok hamis színben tüntetik fel a nem angol nyelvek bizonyos kellékeit. Néhány pszichológus szimpatizált ugyan Chomsky összefoglaló programjával, mégis kritizálta a Chomskyhoz hű nyelvészeket, azzal érvelve, hogy nem fordítottak elegendő figyelmet a nyelvfeldolgozás kapcsán a kísérletekben felmerülő adatokra, s ennek következményeképp teóriáik pszichológiailag nem elfogadhatóak.
+Más kritikák felvetik a kérdést, hogy szükséges-e rögzíteni az univerzális grammatikát a gyerekek nyelvével kapcsolatos adatgyűjtés magyarázására. Azzal érveltek, hogy az általános értelmezési tartomány mechanizmusai elegendőek. 25  26 
+Chomskyt, függetlenül attól, hogy mennyiben játszanak kulcsszerepet az emberi nyelvek megértésében, híressé tették a formális nyelvek terén végzett kutatásai. A Chomsky-hierarchia a formális nyelvet osztályokra osztja növekvő kifejezőerő szerint. Ez annyit jelent, hogy minden egymás után következő osztály előállíthatja a formális nyelvnek egy az előtte álló osztálynál tágabb csoportját. Chomsky úgy véli, az emberi nyelv néhány ponton való mintázása összetettebb formális nyelvtant igényel, mint más nyelveké. Például míg egy szabályos nyelv elég erős ahhoz, hogy az angol alaktant mintázza, nem elég erős ahhoz, hogy egyúttal az angol mondattant is mintázhassa. A Chomsky-hierarchia fontos szerepet játszik az informatikában is. 27 
+Chomsky munkássága a nyelvészet terén jelentős hatást gyakorolt a modern pszichológiára. Chomsky számára a nyelvészet a kognitív pszichológia egy ága; a nyelvészetbe való hiteles bepillantás magába foglalja bizonyos velejáró mentális folyamatoknak és az emberi természet különböző szempontjainak megértését. Az univerzális grammatikáról alkotott teóriájában többen látni vélték a behaviorista elméletek leváltásának és annak megértésének lehetőségét, hogyan tanulnak beszélni a gyerekek, és pontosan mi a nyelvhasználat képessége. 1959-ben Chomsky megjelentette nagy hatású kritikáját, B. F. Skinner Verbal Behaviour című munkájára reagálva. A szerző a verbális viselkedést mint tanult viselkedést határozta meg, melynek jellegzetes következményei mások tanult viselkedésétől származnak. Skinner elméletében a körülményekre fókuszált, melyek közt az adott nyelvet használták, például vizet kérni, funkcionálisan más választ vár el, mint valamit víznek minősíteni, felelet gyanánt olyasvalakinek, aki vizet kér stb. Ezek a funkcionálisan különböző fajta reakciók különálló értelmezést kívántak, s élesen különböztek mind Chomsky nyelvvel kapcsolatos, hagyományos eszméitől, mind pedig a pszicholingvisztika felfogásától. Chomsky úgy vélte, egy funkcionalista magyarázat, mely kizárólag a kommunikatív teljesítmény kérdéseire korlátozódik, fontos kérdéseket hagy figyelmen kívül. 28  Ő azon kérdésekre fókuszált, melyek a működéssel, a mondattanon belül az öröklött fejlődés szerkezetével, alkalmazkodással és szerveződéssel foglalkoztak. Vizsgálatában Chomsky hangsúlyozta, hogy az állatokkal végzett kutatásokból származó behaviorista elvek tudományos alkalmazása komoly hiányt szenved értelmező megfelelésből, továbbá különösen felületes mint emberi verbális viselkedés, mivel egy teória, mely csupán külső körülményekre korlátozódik, arra „mi tanult?”, nem hordozhat magában kielégítő hasznot, a generatív grammatikára nézve. Chomsky növelte azon példák számát, melyek a gyerekek anyanyelvük terén mutatott gyors tanulását – beleértve ugyancsak gyorsan fejlődő készségüket különböző mondatok megfogalmazására – hivatottak alátámasztani, valamint az anyanyelvüket beszélők egyetemesen kreatív nyelvhasználatát, ezzel különös hangsúlyt fektetve az eljárásra, mellyel Skinner nézetét szemléltette, teóriájának aluldetermináltságát bizonyítékkal alátámasztva. Azzal érvelt, hogy ahhoz, hogy az ember verbális viselkedése érthető legyen , az első követelmény egy genetikai adottság a nyelvhez. A nyelvek ezen fontos szempontjai, feltevése szerint egy univerzálisan öröklött képesség eredményei. Ezzel ellentmond Skinner radikális behaviorizmusának." 29  30 
+Három kitételt kell ezzel kapcsolatban leszögezni. Az első, hogy az elme „kognitív”, vagyis hogy az elme tulajdonképpen különböző mentális állapotokat, kétségeket stb. tartalmaz. A második, hogy mind a nyelv, mind az elme legfontosabb tulajdonságai öröklöttek. Egy nyelv elsajátítása és fejlődése az öröklött hajlam kibontakozásának eredménye, a külső környezet tapasztalat általi betáplálásán keresztül előidézve. Az ember öröklött nyelvi adottsága és öröksége közti láncszem a vita magját képezi, mely szembeállította egymással Noam Chomsky-t és Jean Piaget-t az „Abbaye de Royaumont”-on, 1975-ben. 31  Bár az ember genetikai kódolása és a nyelvi adottságok közti láncszem kutatását akkoriban indítványozták, még mindig messze vagyunk attól, hogy megértsük az emberi nyelv genetikai alapjait. A munka a szinapszisok szelektív állandósításának modelljéből származtatható, melyet Jean-Pierre Changeux, Philippe Courrége és Antoine Danchin állított fel, Jacques Mehler és Stanislas Dehaene pedig nemrégiben mind kísérletileg, mind teoretikailag továbbfejlesztett, különösen számszerű észlelés tárgykörben, támogatást nyújtva a Chomsky-féle nativizmusnak.
+Azt adja meg, miképp hozzuk létre  a mondatokat. A formális nyelvek nyelvtanát generatív grammatikának is szokták nevezni.
+A generatív grammatika négy alkotóeleme:
+Egy nyelv szavainak generálása a generatív grammatikával:
+Formális grammatikán a következő rendezett négyest értjük: 
+  
+    
+      
+        G
+        =
+        
+      
+    
+    
+  
+A grammatikák osztályozása a helyettesítési szabályok alapján történik.
+Chomsky szerinti osztályozás:
+Chomsky szerint politikai meglátásai „meglehetősen hagyományos anarchista, valamint a felvilágosodásból és a klasszikus liberalizmusból eredő” nézetek, és dicsérőleg nyilatkozott a libertariánus felfogásról. Szimpatizál az anarcho-szindikalizmussal, valamint tagja az IWW nemzetközi munkásuniónak. Az anarchizmusról írott könyve 2006-ban, Chomsky az anarchizmusról  címmel jelent meg az AK Press anarchista kollektíva gondozásában. 
+A tévesen neki tulajdonított, és az interneten keringő ún. "Médiamanipulációs 10 parancsolatot" – saját bevallása szerint – nem ő írta, bár a szövegegyüttes bizonyos elemei valóban az ő nézeteiből eredeztethetők. 32   
+"A Terrorizmus kultúrája" című könyvének előszavában kifejtette, hogy a Roosevelt elnök 1941 január 6-i kongresszusi beszédében  meghirdetett Négy Szabadságon túlmenὄen   34  létezik egy sokkal erősebb Ötödik Szabadság is, amely  az Egyesült Államok nemzetközi és biztonsági politikájának íratlan irányelvét képezi: a rablás, a kizsákmányolás és az uralkodás szabadsága, a meglévő kiváltságok védelmének és növelésének érdekében tett bármilyen lépés megtételének szabadsága.  35  Érveinek rövid összefoglalása Saul Landau könyvismertetésében  36  olvasható.
+Baloldali ·  Baloldali piac ·  Egoista ·  Egzisztencialista ·  Fekete ·  Felkelő ·  Feminista · Filozofikus ·  Individualista ·  Kapitalista ·  Keresztény ·  Kollektivista ·  Kommunista ·  Magonista ·  Mutualista ·  Naturista ·  Pacifista ·  Platformista ·  Posztanarchista ·  Posztkoloniális ·  Posztbalos ·  Primitivista ·  Queer ·  Szociális ·  Szindikalista ·  Szintézis ·  Zöld ·  Jelzők nélküli
+Affinitási csoport · 
+Anarchia · 
+Anarchista Fekete Kereszt · 
+Anacionalizmus · 
+Anti-autoriterizmus · 
+Antimilitarizmus · 
+Deventralizáció · 
+Egoisták szakszervezete · 
+Egyéni reklamáció · 
+Ellengazdaság · 
+Especifizmus · 
+Expropriatív anarchizmus · 
+Fekete Blokk · 
+Forradalom · 
+Ideiglenes autonóm zóna · 
+Illegalizmus · 
+Individualizmus · 
+Internacionalizmus · 
+Izokrácia · 
+Jog · 
+Kettős hatalom · 
+Kommün · 
+Konszenzusos demokrácia · 
+Kölcsönös segítségnyújtás · 
+Közvetlen akció · 
+Közvetlen demokrácia · 
+Lakásfoglalás · 
+Lelkiismereti megtagadó · 
+Mélyökológia · 
+Munkamegtagadás · 
+Osztályharc · 
+Osztálynélküli társadalom · 
+Önfoglalkoztatás · 
+Permanens autonóm zóna · 
+Prefiguratív politika · 
+Részvételi politika · 
+Spontán rend · 
+Szabadgondolkodás · 
+Szabad iskola · 
+Szabad képzettársítás · 
+Szabad szerelem · 
+Szómaterápia · 
+Társadalmi központ · 
+Társadalmi közzététel · 
+Társadalmi ökológia · 
+Tett általi propaganda · 
+Visszavadulás ·  Vízszintesség
+Állati jogok
+ ·  Anarchokapitalizmus
+ ·  Életstílus
+ ·  Erőszak
+ ·  Iszlám
+ ·  Kapitalizmus
+ ·  Kritikák
+ ·  Kripto-anarchizmus
+ ·  Marxizmus
+ ·  Nacionalizmus
+ ·  Oktatás
+ ·  Ortodox zsidóság
+ ·  Szerelem
+ ·  Vallás

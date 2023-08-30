@@ -1,0 +1,2 @@
+Ang kernel ay isang mahalagang device driver/system driver at OS program driver ng kahit anong bersyon ng Microsoft Windows. Puwede itong 16-bit hanggang 32-bit.
+ Ang lathalaing ito  ay isang usbong. Makatutulong ka sa Wikipedia sa pagpapalawig nito.

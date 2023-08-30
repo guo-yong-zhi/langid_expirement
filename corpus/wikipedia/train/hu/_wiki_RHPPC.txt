@@ -1,0 +1,33 @@
+Pontosságellenőrzött
+PowerPC e sorozat  
+Qor sorozat  
+POWER ISA  
+    POWER sorozat  
+    PowerPC sorozat 
+ )
+    RS64 
+    RAD sorozat 
+Gekko
+    Broadway
+    Espresso
+Titan
+    PWRficient
+    Cell
+    Xenon
+    X704
+OpenPOWER Alapítvány
+    AIM alliance
+    RISC
+    Blue Gene
+    Power.org
+    PAPR
+    PReP
+    CHRP
+    AltiVec
+    tovább... 
+dőlt betűsek a történelmi tételek
+Az RHPPC egy sugárzástűrő mikroprocesszor, amely eredetileg a Motorola 1  által licencelt PowerPC 603e technológiáján alapul. 2001-ben jelent meg, és jelenleg is gyártja a Honeywell. 2  3  4  5  Az RHPPC egyenértékű a kereskedelmi forgalomban kapható PowerPC 603e processzorral, néhány kisebb eltéréstől eltekintve, mint az órajel előállítására használt fáziszárt hurok  és a processzor-verzióregiszter  értéke. Az RHPPC processzor kompatibilis a PowerPC architektúrával , a PowerPC 603e programozói interfésszel, ezen felül a processzort támogatják a PowerPC platform közös szoftvereszközei és beágyazott operációs rendszerei, mint pl. a VxWorks.
+Az RHPPC processzor 190 MIPS-et ér el a Dhrystone teljesítménytesztben 100 MHz-es mag órajel mellett . Az RHPPC 60x sínjének órajele  25, 33,3, 40, vagy 50 MHz lehet, amelyet a PCI órajel alapján generál. A 60x sín órajel-elcsúszását egy chipen belüli PLL javítja és az órajel felszorozható.
+Az RHPPC processzor egy szuperskalár gép, öt végrehajtási egységgel: rendszerregiszter egység, fixpontos egység, betöltő-tároló egység, lebegőpontos egység, és elágazásfeldolgozó egység. Az utasításkiküldő egység ciklusonként két utasítást adhat ki. A lebegőpontos egység három szint mélységű futószalaggal rendelkezik. A soron kívüli végrehajtás árnyék- vagy átnevezőregiszterek használatával támogatott. A befejező egység ciklusonként két utasítást tud végrehajtani az átnevezési regiszterek eredményeinek a valós regiszterekbe másolásával. Ezektől függetlenül az elágazásfeldolgozó egység minden ciklusban végrehajthat egy elágazást. Így elméletileg az RHPPC processzor ciklusonként három utasítást képes végrehajtani . Az RHPPC processzoron belül egy 16 KiB méretű L1 szintű utasítás- és egy 16 KiB méretű L1 szintű adat-gyorsítótár található, ezek négy utas asszociatívak, és támogatják az átíró vagy visszamásoló  protokollt. A gyorsítótár sorai rögzítetten nyolc szavasak.
+Az RHPPC processzor a Honeywell 0,35 µm-es SOI-V folyamatával készül, ami egy négy rétegű fémezést alkalmazó eljárás. A folyamatban szabványos cellákat és egyedi beilleszthető modulokat alkalmaznak. A processzor-lapka 21 × 21 mm méretű hermetikus alumínium-oxid tokba van építve, 255  kivezetéses csatlakozómátrixszal. A kivezetések középpontjai 1,27 mm lépésközzel vannak elhelyezve. A kivezetésekhez forrasztógolyók, forrasztóoszlopok vagy rövid tűk is rögzíthetők. A lapkát szabványos felerősítéssel rögzítik és szintén szabványos huzalköteg-csatlakozással csatlakozik a be/kimenetekhez.
+Ez a szócikk részben vagy egészben  a   RHPPC című angol Wikipédia-szócikk ezen változatának fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel. Ez a jelzés csupán a megfogalmazás eredetét és a szerzői jogokat jelzi, nem szolgál a cikkben szereplő információk forrásmegjelöléseként.

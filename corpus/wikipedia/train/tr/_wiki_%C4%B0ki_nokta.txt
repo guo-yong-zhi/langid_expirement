@@ -1,0 +1,19 @@
+İki nokta, bir noktalama işareti. İki nokta üst üste olarak da bilinir. 1  Metin içerisinde çoğunlukla alıntı yaparken, liste yaparken ve açıklama yaparken kullanılır.
+İki nokta, metin içerisinde kullanıldığında işaretin ardından bir boşluk bırakılır. İşaretin ardından gelen ifade bir "cümle" ise büyük harfle başlar: 2 
+İki noktanın ardından gelen ifade bir cümle değilse ve ilk sözcüğünün başka bir kural nedeniyle büyük yazılması gerekmiyorsa, ifade küçük harfle başlar: 2 
+Kendisinden sonra örnek verilecek veya liste oluşturulacak cümlenin sonunda kullanılır:
+Kendisinden sonra açıklama yapılacak cümlenin sonunda kullanılır:
+Edebî eserlerdeki karşılıklı konuşmalarda, söz sırasının kimde olduğunu belirtmek için kullanılır:
+  Bilge Kağan : Türklerim, işitin!
+             Üstten gök çökmedikçe
+             alttan yer delinmedikçe
+             ülkenizi, törenizi kim bozabilir sizin?
+Koro:        Göğe erer başımız
+             başınla senin!
+ 
+</prİnternet sitesi adreslerinde kullanılır:
+Matematikte bölme işareti olarak kullanılır:
+Kesir veya oran belirtirken kullanılır:
+Türk Dil Kurumu'nun yeni düzenlemesiyle zamanı belirtirken saat ile dakika arasında "kullanılmaz". Onun yerine "Nokta" kullanılır:
+Dinî metinlerden bahsederken sûre/bölüm ve âyet numaraları arasında kullanılır:
+Ses biliminde uzun ünlüyü göstermek için kullanılır:

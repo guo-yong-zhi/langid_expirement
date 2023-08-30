@@ -1,0 +1,7 @@
+Pontosságellenőrzött
+A ČSD E 458.0 sorozat, jelenlegi nevén ČD 110 sorozat és ŽSSK 110 sorozat eredetileg egy Bo’Bo’ tengelyelrendezésű csehszlovák villamosmozdonysorozat volt. A sorozatgyártást 1971 és 1973 között a Škoda végezte. Összesen 52 db készült. Csehszlovákia felbomlása után a mozdonyok egy része Szlovákiába, egy része pedig Csehországba került.
+ES 499.0
+U 25.0
+ČD 704
+ČD 710
+ČSD SM 488.0

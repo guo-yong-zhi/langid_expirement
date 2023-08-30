@@ -1,0 +1,103 @@
+La suscripción de acciones es un contrato por el cual una persona llamada suscriptor, se compromete a entrar en la sociedad anónima, en el plazo y condiciones estipuladas, el precio de una cierta cantidad de acciones adquiridas, y que en cuya virtud este adquiere la calidad de accionista, debiendo la sociedad por su parte hacer entrega al suscriptor del título de acciones que acredite su participación en ésta. En línea con el Derecho de Suscripción Preferente  es el derecho de opción que presentan los socios  frente a terceros interesados en suscribir acciones o participaciones que, con sus aportes, generarán un aumento del Capital social. El objetivo, por tanto, es respetar la proporción que tiene cada socio en el capital social, a efectos de que su participación no se vea disminuida por la ampliación de capital debido a la aportación de terceros.
+Entre los derechos de suscripción preferente resaltan los referidos a un aumento del capital social mediante el incremento en el valor nominal de las acciones y, por otro lado, mediante el incremento sobre la base de capitalización de créditos.
+Por otro lado, para tener en cuenta el valor teórico de un derecho de suscripción se debe considerar el número de acciones que se emiten, la proporción con las que se poseen, la cotización de las acciones antes de la ampliación y el precio de emisión de nuevas acciones procedentes de la ampliación de capital. La "cotización teórica después de la ampliación de capital", viene definida por la siguiente fórmula:
+                                
+     
+   
+     
+       
+         
+           C 
+           
+             1 
+           
+         
+         = 
+         
+           
+             
+                
+               + 
+                
+             
+             
+               m 
+               + 
+               n 
+             
+           
+         
+       
+     
+     =}} 
+   
+     
+     
+   
+     
+       
+         d 
+         = 
+         
+           
+             C 
+             
+               0 
+             
+           
+              
+           
+             C 
+             
+               1 
+             
+           
+         
+       
+     
+     -C_ 
+   
+     
+</pr
+Donde: 
+  
+    
+      
+        d
+      
+    
+    
+  
+ : Valor teórico del Derecho de Suscripción.
+  
+    
+      
+        
+          C
+          
+            1
+          
+        
+      
+    
+    }
+  
+ : Cotización después de la ampliación de capital.
+  
+    
+      
+        
+          C
+          
+            0
+          
+        
+      
+    
+    }
+  
+ : Cotización antes de la ampliación de capital.
+Referencias
+Elías Laroza, Enrique. Derecho Societario Peruano. Editora Normas Legales, 2001, pag. 681
+Rodrigo Prado, Luis Carlos. "El derecho de suscripción preferente". Tratado de Derecho Mercantil. Lima, Editorial Gaceta Jurídica, agosto de 2003, pag. 817.
+ 

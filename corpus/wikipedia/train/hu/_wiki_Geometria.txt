@@ -1,0 +1,37 @@
+Pontosságellenőrzött
+Halmazelmélet ·   Naiv halmazelmélet
+Axiomatikus halmazelmélet ·  Matematikai logika
+Elemi algebra ·  Lineáris algebra ·  Polinomok Absztrakt algebra · 
+Csoportelmélet ·  Gyűrűelmélet ·  Testelmélet
+Mátrixok ·  Univerzális algebra
+Valós analízis ·  Komplex analízis ·  Vektoranalízis
+Differenciálegyenletek ·  Funkcionálanalízis
+Mértékelmélet
+Euklideszi geometria ·  Nemeuklideszi geometria
+Affin geometria ·  Projektív geometria
+Differenciálgeometria ·  Algebrai geometria
+Topológia
+Algebrai számelmélet ·  Analitikus számelmélet
+Kombinatorika ·  Gráfelmélet ·  Játékelmélet
+Algoritmusok ·  Formális nyelvek
+Információelmélet
+Numerikus analízis ·  Valószínűségszámítás
+Statisztika ·  Káoszelmélet ·  Matematikai fizika
+Matematikai biológia ·  Gazdasági matematika
+Kriptográfia
+Matematikusok ·  
+Matematikatörténet
+Matematikafilozófia ·  Portál
+A geometria vagy mértan a matematika térbeli törvényszerűségek, összefüggések leírásából kialakult ága, melynek a tér mennyiségi viszonyainak leírása még ma is fontos alkalmazása.
+Maga a geometria szó görögül eredetileg földmérést jelentett. Kialakulásában és több eredményének felfedezésében régészeti bizonyítékokkal alátámaszthatóan nagy szerepet játszott az ókori keleti kollektív munkára épült gazdasági rendszer. Innen ered a terület- és térfogatszámítás, és a szintén keleti eredetű, de a görögök által is művelt csillagászat is. 1  A geometria az i. e. 5. század körül azonban lassan-lassan elszakadt tapasztalati gyökereitől, az eleata filozófusok  és olyan tudósok, mint Thalész hatására. A geometria az első tudományág, amit deduktív módon, vagyis axiómarendszer formájában építettek fel .
+Az axiómákat a görög filozófusoktól eredeztethetően úgy szokás felfogni, mint a tér olyan egyszerű és nyilvánvaló empirikus vagy intuitív tapasztalatokból általánosított alapvető tulajdonságainak logikai leírását, matematikai megfogalmazását, melyekben épeszű ember nem kételkedik. Az axiómák segítségével a geometria által vizsgált dolgokkal, például a pontokkal, egyenesekkel, görbékkel, felületekkel és testekkel kapcsolatos logikus következtetések vonhatóak le. E felfogás, különösen a történeti fejlődést tekintve, nem alaptalan, de a matematika, illetve a matematikafilozófia sok művelője  - főképp a nemeuklideszi geometriák tudományos polgárjogra emelkedésére alapozva - mára túlhaladottnak tekinti. Sokkal inkább vagy legalább annyira jellemző a geometriára az, hogy axiomatikus, mint az, hogy a „fizikai” tér leírásával foglalkozna . Arra a kérdésre, hogy mi tulajdonképp a geometria, manapság nagyon nehéz egy mondatban válaszolni anélkül, hogy az ne válna puszta felsorolássá, vagy a geometria számos ága közül valamelyik ki ne lógna a definíció alól.
+Közvetlen, gyakorlati alkalmazása miatt a geometria a matematika elsőként kifejlődő ágai közt volt , és az első ismeretterület volt, melyet sikerült, több próbálkozás után, axiomatikus elvekre építeni.
+A görög tudománytörténet-írás által ránk hagyott hagyomány alapján úgy tűnik, a geometria bizonyos területeinek szakrális  jellegű motivációi is lehettek, különösen az eukleidészi szerkesztések elméletének. Ezek körében olyan problémákat is sikerült megfogalmazniuk, melyekre csak több mint egy évezred múltán sikerül válaszolni.
+A görög és hellenisztikus geometria nemcsak óriási és ma is használható ismeretanyagot hagyott az utókorra, de tárgyalásmódja, precizitása is olyan mintát jelentett az európai tudomány - és nem csak a matematika - számára, amelynek hatásai felbecsülhetetlenek, és csak a tizenkilencedik-huszadik században sikerült túlszárnyalni. A görögök eljutottak a szabályos testek elméletéig, tökélyre vitték a terület-és térfogatszámítást, képesek voltak a kúpszeletek értelmezésére és rendkívül egzakt vizsgálatára. Az - igaz, eléggé anekdotikus jellegű - hagyomány szerint legelméletibb eredményeiket is képesek voltak hatékonyan alkalmazni.
+A következő igazán jelentős  lépésre csak a XVI. században, az analitikus geometria felfedezésével került sor, melyben megjelentek olyan fogalmak, mint a koordináta-rendszerek, és ahol a pontokat számpárokkal vagy számhármasokkal írták le. Ezen új nézőpont is segíthetett abban, hogy kifejlődjenek az euklideszitől eltérő geometriák is.
+Mintegy kétezer éven át Eukleidész axiómarendszere uralkodónak számított, és nemcsak a geometria, de az összes tudomány bizonyos értelemben mintaképnek tekintette. Carl Friedrich Gauss, Nyikolaj Ivanovics Lobacsevszkij, Bolyai János, Henri Poincaré, Bernhard Riemann, és mások munkáinak eredményeképp az 1800-as évek közepén megszülettek a nemeuklideszi geometriák.
+A geometria legújabb ágai a tér folytonosságának vizsgálatát látszanak többé-kevésbé feladni: ide tartozik a véges geometria és a diszkrét geometria. A véges mértan tulajdonképp inkább a kombinatorika, mint a geometria ága, a diszkrét geometria azonban a valós életben is előforduló érdekes vagy fontos problémákkal  és azok megoldásával foglalkozik.
+A geometria központi fogalma az illeszkedés. Az elemi geometriában az egybevágóság, hasonlóság és általában a transzformáció fogalmai alapvetőek. Két alakzat egybevágó, ha valamilyen mozgatással , például eltolással, tengely körüli forgatással, síkra való tükrözéssel* stb. egymásba vihetőek.
+A nemeuklideszi geometriák felfedezésével megkezdődött a geometria elszakadása tapasztalati gyökereitől. Ezeknek és a modern algebrai felfedezéseknek  köszönhetően a geometria egy új meghatározása és paradigmája született, az ún. erlangeni program. Az erlangeni program szerint a geometria ágai olyan transzformációk csoportjainak leírása, tanulmányozása , melyek mindegyikére igaz, hogy a transzformált elemek valamilyen, a geometria illető ágára nézve jellemző tulajdonságait helybenhagyja. Az egybevágósági geometria például a távolságot megtartó transzformációk csoportjának elmélete, a hasonlósági mértan a pontok osztóviszonyát, azaz távolságuk arányát nem változtató transzformációk csoportjának elmélete, a topológia az alakzatok folytonosságát meghagyó leképezések csoportját tanulmányozza stb. .
+A geometria legújabb ágai a véges és diszkrét geometriák, melyekkel azonban inkább a kombinatorika foglalkozik.
+A differenciálgeometria a topologikus sokaságokon megadható differenciálstruktúrával foglalkozik. A differenciálható sokaságok olyan terek, melyek bármely pontjuk környezetében egy vektortérrel diffeomorfak , azonban globálisan azoktól lényegesen különbözhetnek. Fontos részterület a  Riemann-mértan, mely a felületelmélet formájában a mérnöki tudományokban , valamint az általános relativitáselméleten keresztül a modern fizikában nyer alkalmazást. A modern fizika mezőelméleteinek precíz matematikai megfogalmazása a nyalábok és konnexiók elméletét használja. Ezek az eszközök a legmodernebb fizikai elméleteknek  is alapját képezik.

@@ -1,0 +1,7 @@
+Doğrusal cebirde, transpozu kendisine eşit olan matrislere simetrik matris denir. A bir simetrik matris olsun. Bu durumda:
+Simetrik matrislerin elementleri matris köşegenine göre simetriktir. A nın elementleri  aij şeklinde gösterilsin. Böylece
+eşitliği her i ve j indeksi için geçerlidir. Örneğin aşağıdaki 3x3 matris simetriktir:
+Yukardaki açıklamalardan anlaşılacağı üzere, köşegen bir matris simetriktir.
+Doğrusal cebirde, gerçel bir simetrik matris gerçek bir iç-çarpım uzayında kendi-döngel  bir operatörü temsil eder. Karmaşık sayılar uzayında buna karşılık gelen operatör, elementleri karmaşık olan Hermitsel  matrisdir. Bundan dolayı, simetrik matris denildiğinde, matris elementlerinin gerçel olduğu varsayılır.
+Simetrinin diğer tipleri veya kare matris içindeki desenlerin özel isimler var; örneğin bkz:
+Ayrıca bakınız matematikte simetri.

@@ -1,0 +1,2 @@
+Voice over Frame Relay je protokol pro přenos hlasu sítěmi Frame Relay. 1  2  VoFR používá dva dílčí protokoly, FRF.11 a FRF.12. FRF.11 definuje formát VoFR rámců; FRF.12 se používá pro fragmentaci paketů a skládání segmentů.
+V tomto článku byl použit překlad textu z článku VoFR na anglické Wikipedii.

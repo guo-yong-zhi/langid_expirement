@@ -1,0 +1,26 @@
+• protein-transporting ATPase activity• GO:0001948, GO:0016582 protein binding• protein transmembrane transporter activity
+• мітохондріальна внутрішня мембрана• integral component of membrane• TIM23 mitochondrial import inner membrane translocase complex• мітохондрія• integral component of mitochondrial inner membrane• мембрана
+• protein transport• protein targeting to mitochondrion• protein import into mitochondrial matrix• intracellular protein transport
+TIMM17B  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі X-хромосоми. 3  Довжина поліпептидного ланцюга білка становить 172 амінокислот, а молекулярна маса — 18 273 4 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Задіяний у таких біологічних процесах, як транспорт, транспорт білків, транслокація, альтернативний сплайсинг. 
+Локалізований у мембрані, мітохондрії, внутрішній мембрані мітохондрії.
+  Портал «Біологія»   Портал «Хімія»                       

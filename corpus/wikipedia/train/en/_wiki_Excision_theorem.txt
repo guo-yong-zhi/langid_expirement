@@ -1,0 +1,395 @@
+In algebraic topology, a branch of mathematics, the excision theorem is a theorem about relative homology and one of the Eilenberg–Steenrod axioms. Given a topological space 
+  
+    
+      
+        X
+      
+    
+    
+  
+ and subspaces 
+  
+    
+      
+        A
+      
+    
+    
+  
+ and 
+  
+    
+      
+        U
+      
+    
+    
+  
+ such that 
+  
+    
+      
+        U
+      
+    
+    
+  
+ is also a subspace of 
+  
+    
+      
+        A
+      
+    
+    
+  
+, the theorem says that under certain circumstances, we can cut out  
+  
+    
+      
+        U
+      
+    
+    
+  
+ from both spaces such that the relative homologies of the pairs 
+  
+    
+      
+        
+      
+    
+    
+  
+ into 
+  
+    
+      
+        
+      
+    
+    
+  
+ are isomorphic.
+This assists in computation of singular homology groups, as sometimes after excising an appropriately chosen subspace we obtain something easier to compute.
+If 
+  
+    
+      
+        U
+         
+        A
+         
+        X
+      
+    
+    
+  
+ are as above, we say that 
+  
+    
+      
+        U
+      
+    
+    
+  
+ can be excised if the inclusion map of the pair 
+  
+    
+      
+        
+      
+    
+    
+  
+ into 
+  
+    
+      
+        
+      
+    
+    
+  
+ induces an isomorphism on the relative homologies: 
+The theorem states that if the closure  of 
+  
+    
+      
+        U
+      
+    
+    
+  
+ is contained in the interior of 
+  
+    
+      
+        A
+      
+    
+    
+  
+, then 
+  
+    
+      
+        U
+      
+    
+    
+  
+ can be excised.
+Often, subspaces that do not satisfy this containment criterion still can be excised it suffices to be able to find a deformation retract of the subspaces onto subspaces that do satisfy it.
+The proof of the excision theorem is quite intuitive, though the details are rather involved. The idea is to subdivide the simplices in a relative cycle in 
+  
+    
+      
+        
+      
+    
+    
+  
+ to get another chain consisting of "smaller" simplices, and continuing the process until each simplex in the chain lies entirely in the interior of 
+  
+    
+      
+        A
+      
+    
+    
+  
+ or the interior of  
+  
+    
+      
+        X
+         
+        U
+      
+    
+    
+  
+. Since these form an open cover for  
+  
+    
+      
+        X
+      
+    
+    
+  
+ and simplices are compact, we can eventually do this in a finite number of steps. This process leaves the original homology class of the chain unchanged .
+In the relative homology  
+  
+    
+      
+        
+          H
+          
+            n
+          
+        
+        
+      
+    
+    }
+  
+, then, this says all the terms contained entirely in the interior of 
+  
+    
+      
+        U
+      
+    
+    
+  
+ can be dropped without affecting the homology class of the cycle. This allows us to show that the inclusion map is an isomorphism, as each relative cycle is  equivalent to one that avoids 
+  
+    
+      
+        U
+      
+    
+    
+  
+ entirely.
+The excision theorem is taken to be one of the Eilenberg–Steenrod Axioms.
+The Mayer–Vietoris sequence may be derived with a combination of excision theorem and the long-exact sequence. 1 
+The excision theorem may be used to derive the suspension theorem for homology,  which says 
+  
+    
+      
+        
+          
+            
+              
+                H
+                 
+              
+            
+          
+          
+            n
+          
+        
+        
+         
+        
+          
+            
+              
+                H
+                 
+              
+            
+          
+          
+            n
+            +
+            1
+          
+        
+        
+      
+    
+    }_{n}\cong _
+  
+ for all 
+  
+    
+      
+        n
+      
+    
+    
+  
+, where 
+  
+    
+      
+        S
+        X
+      
+    
+    
+  
+ is the suspension of 
+  
+    
+      
+        X
+      
+    
+    
+  
+.  2 
+If nonempty open sets 
+  
+    
+      
+        U
+         
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+     ^
+  
+ and 
+  
+    
+      
+        V
+         
+        
+          
+            R
+          
+          
+            m
+          
+        
+      
+    
+     ^
+  
+are homeomorphic, then m = n. This follows from the excision theorem, the long exact sequence for the pair 
+  
+    
+      
+        
+      
+    
+    
+  
+, and the fact that 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+         
+        x
+      
+    
+    {\displaystyle \mathbb -x}
+  
+ deformation retracts onto a sphere.
+In particular, 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle \mathbb }
+  
+ is not homeomorphic to 
+  
+    
+      
+        
+          
+            R
+          
+          
+            m
+          
+        
+      
+    
+    {\displaystyle \mathbb }
+  
+ if 
+  
+    
+      
+        m
+         
+        n
+      
+    
+    
+  
+. 3 

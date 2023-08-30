@@ -1,0 +1,2 @@
+ISO 8859, yani resmi adıyla ISO/IEC 8859, ISO ve IEC tarafından belirlenmiş olan, bilgisayarlarda kullanılacak 8-bit karakterlerin standardıdır.
+Bu standard numaranın arkasına gelen numara takıları, farklı karakter kümelerini ifade eder. Şu anda 16 farklı alt küme standardı vardır:

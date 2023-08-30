@@ -1,0 +1,18 @@
+En programlingvoj ŝlosilvorto  estas vorta simbolo, kiu rolas estkiel gramatikilo, ekz-e la ordonaj krampoj starto  … fino . Per rezervitaj vortoj oni intecas de la programistoj programantaj programoj en tiu programlingvo ne rajtas krei ajnan datumon kun tiuj nomoj. Rezervitaj vortoj havas specialan signifon kiam ili aperas en lingvo kaj estas bone difinitaj en la formala priskribo de la programlingvo.
+Pli precize oni povas difini la ŝlosilvortojn en la terminoj de formala lingvo : la ŝlosilvortoj estas tiaj simboloj de la alfabeto de formala lingvo, kiuj el la vidpunkto komunlingva estas kunmetitaj el literoj de homa lingvo.
+Plej multaj el la rezervitaj vortoj inkluzivas kontrolvortojn, kiuj difinas strukturojn de ekzekutado, iteracilon, kondiĉojn al ekzekutado, ekzekutsalto al etiketoj, tipajn nomojn de primitivaj datumoj kaj pli. La kontrolvortoj kontrolas la ekzekutdirekton de la komputila programo.
+Laŭ la tradicio de Algolo en la tipografiaj publikaĵoj de algoritmoj kaj ĉe redaktado en lingvo-konsciaj redaktiloj la ŝlosilvortojn oni apartigas per graseta tiparfasono. Oni do povas diri, ke la «alfabeto» de Algolo inkludas, interalie:
+    a     b     c     d     e     f     g     i     j     k     l     m     n     o     p     q     r     s     t 
+ 0     1     2     3     4     5     6     7     8     9 
+ .     ;     :     +     −     /     x     ÷ 
+ begin     else     end     if     then 
+       begin     ai     :=     if     i     <     0     then     −  i     else     i     end 
+        
+</prEn ĉi tiu ekzemploj la algolaj ŝlosilvortoj begin end then else rolas same, kiel la simplaj signoj  ? : en C.
+Algolo konsekvence disigis la nomspacon de la ŝlosilvortoj kaj la nomspacon de la nomoj deklaritaj de programisto, tiel ke senprobleme oni povis deklari la variablojn kiaj
+Tio eblis danke al specialaj eskapiloj, kiuj apartigis la ŝlosilvortojn — vd la apartan artikolon ŝlosilvortigo.
+En pliparto da modernaj programlingvoj oni ne plu zorgas pri formala kohero, sed simple malpermesas al la programistoj deklari nomojn kies teksta formo koincidas kun tiu de iu ajn ŝlosilvorto. Tiel apartigitajn ŝlosilvortojn oni do nomas rezervitaj vortoj.
+En ankoraŭ aliaj lingvoj, kiel ekzemple la pli malnovaj lingvoj ALGOL, FORTRAN kaj PL/1, ekzistas ŝlosilvortoj sed neniuj rezervitaj vortoj.
+La listo de rezervitaj vortoj estas difinita kiam la lingvo evoluas, sed kelkfoje rezervitaj vortoj aperos nur por estonta uzo.
+Ekzemple en Java, la vortoj const kaj goto estas rezervitaj vortoj kaj ne uzeblas por la disvolva procezo mem ekzemple kiel nomoj de variabloj kaj funkcioj, Kvankam ili havas nenian signifon en Java. Konservante ĉi tiujn vortojn, lingvaj programistoj rezervis la rajton uzi ilin estonte sen kompromiti la malantaŭan kongruecon de la lingvo. La nombro de rezervitaj vortoj varias laŭ la programlingvo. Dum Java kaj aliaj lingvoj evoluigitaj de C havas pli malpli de ĉirkaŭ 50 rezervitaj vortoj, COBOL enhavas ĉirkaŭ 400 el ili. Ĉe la alia fino de la spektro troveblas PL / I kaj Prologo, kiuj ne enhavas iun rezervitan vorton. Nenio dedukteblas el la kvalito de la lingvo el la nombro da vortoj rezervitaj en ĝi, ĉar la nombro estas ĉefe pro la bezonoj, por kiuj la lingvo estis disvolvita.
+Ĉar en la plimulto da modernaj lingvoj la ŝlosilvortoj estas rezervitaj, multiuj ofte konfuzas la terminojn ŝlosilvorto kaj rezervita vorto aŭ rezervita nomo. Interalie en la angla Vikipedio la termino Keyword referencas la artikolon «Reserved word». Kvankam ene de la artikolo la diferenco inter la du nocioj estas klarigita, tiu identigo estas misgvida. Konvena loko por priskribi la rezervitajn vortojn estas ene de la artikolo «Ŝlosilvortigo» .

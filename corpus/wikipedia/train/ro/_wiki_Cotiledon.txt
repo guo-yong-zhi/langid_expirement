@@ -1,0 +1,7 @@
+Cotiledonul este un segment cu rezerve nutritive al embrionului plantelor cu semințe, care are  rolul de a hrăni planta imediat după încolțire. Denumirea provine pe filieră franceză cotylédone.  1 
+Piloriză    Zona netedă    Zona piliferă    Zona aspră
+Hipocotil    Epicotil    Muguraș    Nod    Internod    Mugur
+Caulis    Culm    Calamus    Scap
+Limb    Pețiol    Teacă    Nervură
+PedicelReceptacul
+Testă    Tegmen

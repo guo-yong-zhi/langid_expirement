@@ -1,0 +1,12 @@
+Synapsia  je miesto styku medzi neurónmi alebo medzi neurónmi a inými bunkami. Slúži na prenos vzruchov z bunky do bunky, väčšinou jednosmerne. Plazmatická membrána synapsie je úzko špecializovaná a obsahuje špecifické receptory. 
+Názov synapsia zaviedol v roku 1897 Charles Scott Sherrington. 1 
+V minulosti bol nervový systém človeka považovaný za sieť vzájomne pospájaných buniek. Až tzv. neurónová teória považovala každú nervovú bunku za samostatnú funkčnú i štrukturálnu jednotku. Presadila sa koncom 19. storočia a jej definitívnu platnosť potvrdil elektrónový mikroskop, ktorý dokázal priamo synapsie zobraziť. 1 
+Synapsie sa delia podľa miesta prepojenia na:
+Podľa efektu na: 2 
+Synapsia sa skladá z 3 základných častí:
+Presynaptická časť je obvykle vakovito rozšírenou koncovou časťou axónu. Táto časť okrem mitochondrií a ďalších organel obsahuje predovšetkým synaptické vačky, nahromadené pri synaptickej štrbine. Potom čo šíriaci sa vzruch dosiahne túto časť neurónu, dochádza k aktivácií napäťovo ovládaných kalciových kanálov a vtoku Ca2+ do bunky. Zvýšená koncentrácia vápnika aktivuje proces exocytózy a zo synaptických vačkov sa do štrbiny uvoľňuje chemická látka – mediátor do synaptickej štrbiny. 2  Mediátor putuje synaptickou štrbinou, až dosiahne membránu postsynaptickej časti. Väzbou mediátora na jej receptory v nej dochádza k spusteniu kaskády procesov, ktorého výsledkom je vznik akčného potenciálu a ďalšie šírenie vzruchu. Prenos vzruchu je pomerne pomalý, trvá minimálne 0,5 ms.
+Ak synapsie fungujú vyššie popísaným spôsobom, označujú sa ako tzv. chemické synapsie. Tieto prevládajú u človeka a vyšších stavovcov. Okrem chemických existujú ešte elektrické a zmiešané synapsie.
+Elektrické synapsie umožňujú neobyčajne rýchly prenos vzruchovej aktivity medzi neurónmi. Presynaptická a postsynaptická membrána sú pri tomto type prenosu veľmi blízko , čo umožňuje priamy prechod vzruchu. U cicavcov  sa tento typ vyskytuje iba zriedka . 
+Zmiešané synapsie predstavujú kombináciu chemickej a elektrickej synapsie. Je to zvláštny typ spojenia, kde sa na jednej a tej istej synapsie uskutočňuje chemický aj elektrický prenos vzruchu. Tento typ sa vyskytuje iba u nižších stavovcov .
+Inhibícia  môže byť vyvolaná dvomi spôsobmi:
+Radovan Malina: Všeobecná zoológia – zdroj, z ktorého  čerpal tento článok.

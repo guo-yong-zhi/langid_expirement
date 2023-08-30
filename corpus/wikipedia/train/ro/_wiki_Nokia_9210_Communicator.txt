@@ -1,0 +1,12 @@
+Nokia 9210 Communicator are un ecran exterior și interior. Dispozitivul oferă un port Infraroșu, conexiune prin cablu serial, un slot MMC.
+Are sistemul de operare Symbian 6.0 și este bazat pe platforma Series 80. În statele Unite s-a comercializat sub denumire de Nokia 9290.
+Sub ecranul extern găsim butoanele pentru meniu stânga, dreapta, sus, jos, butonul de apelare și de respingere apel. Sub butoanele meniului găsim tastele numerice.
+Lângă ecranul intern are 8 butoane de aplicare  care nu pot fi configurate pentru alte programe. 
+Pe partea de jos este interfața RS232 pentru conectarea la un PC pentru sincronizarea prin cablu serial și portul IR. 1 
+Antena pe partea de sus a telefonului poate fi lăsat sau întors cu spatele pentru a crește recepția semnalului.
+Pe partea din spate a telefonului găsim slotul de card de memorie, difuzorul și un microfon.
+Ecranul extern are rezoluția de 80 x 48 pixeli.
+Ecranul intern TFT are dimensiunea de 4.5 inchi și are rezoluția de 640 x 200 pixeli.
+9210 suportă formatele audio WAV, AU, WVE și RNG.
+Are cablu de date și port infraroșu care permite transferul de fișiere, dar nu este compatibil cu dispozitivele mai vechi Symbian. 2  Browser suportă WAP și HTML. Are SMS, fax și client de e-mail.
+În videoclipul pentru piesa "Dilemma" interpretată de Nelly în colaborare cu Kelly Rowland, se poate observa utilizarea telefonului Nokia 9210 de către Kelly Rowland.

@@ -1,0 +1,51 @@
+General Relativity is a graduate textbook and reference on Albert Einstein's general theory of relativity written by the gravitational physicist Robert Wald.
+First published by the University of Chicago Press in 1984, the book, a tome of almost 500 pages, covers many aspects of the general theory of relativity. It is divided into two parts. Part I covers the fundamentals of the subject and Part II the more advanced topics such as causal structure, and quantum effects. 1  The book uses the abstract index notation for tensors. 2  It treats spinors, the variational-principle formulation, the initial-value formulation,  gravitational waves, singularities, Penrose diagrams, Hawking radiation, and black-hole thermodynamics. 3 
+It is aimed at beginning graduate students and researchers. 3  4  To this end, most of the materials in Part I is geared towards an introductory course on the subject while Part II covers a wide range of advanced topics for a second term or further study. The essential mathematical methods for the formulation of general relativity are presented in Chapters 2 and 3 while more advanced techniques are discussed in Appendices A to C. Wald believes that this is the best way forward because putting all the mathematical techniques at the beginning of the book would prove to be a major obstruction for students while developing these mathematical tools as they get used would mean they are too scattered to be useful. While the Hamiltonian formalism is often presented in conjunction with the initial-value formulation, Wald's coverage of the latter is independent of the former, which is thus relegated to the appendix, alongside the Lagrangian formalism. 4 
+This book uses the 
+  
+    
+      
+         
+        +
+        +
+        +
+      
+    
+    
+  
+ sign convention for reasons of technical convenience. However, there is one important exception. In Chapter 13 – and only in Chapter 13 –, the sign convention is switched to 
+  
+    
+      
+        +
+         
+         
+         
+      
+    
+    
+  
+ because it is easier to treat spinors this way. Moreover, this is the most common sign convention used in the literature. 5 
+Most of the book uses geometrized units, meaning the fundamental natural constants 
+  
+    
+      
+        G
+      
+    
+    
+  
+  and 
+  
+    
+      
+        c
+      
+    
+    
+  
+  are set equal to one, except when predictions that can be tested are made. 5 
+According to Daniel Finley, a professor at the University of New Mexico, this textbook offers good physics intuition. However, the author did not use the most modern mathematical methods available, and his treatment of cosmology is now outdated. Finley believes that the abstract index notation is difficult to learn, though convenient for those who have mastered it. 2 
+Theoretical physicist James W. York wrote that General Relativity is a sophisticated yet concise book on the subject that should be appealing to the mathematically inclined, as a high level of rigor is maintained throughout the book. However, he believed the material on linearized gravity is too short, and recommended Gravitation by Charles Misner, Kip Thorne, and John Archibald Wheeler, and Gravitation and Cosmology by Steven Weinberg as supplements. 6 
+Hans C. Ohanian, who taught and researched gravitation at the Rensselaer Polytechnic Institute, opined that General Relativity provides a modern introduction to the subject with emphasis on tensor and topological methods and offers some "sharp insights." However, its quality is very variable. Topics such as geodetic motion in the Schwarzschild metric, the Krushkal extension, and energy extraction from black holes, are handled well while empirical tests of Einstein's theory are barely scratched and the treatment of advanced topics, including cosmology, is just too brief to be useful to students. Due to its heavy use of higher mathematics, it may not be suitable for an introductory course. 7 
+Lee Smolin argued that General Relativity bridges the gap between the presentation of the material in older textbooks and the literature. For example, while the early pioneers of the subject, including Einstein himself, employed coordinate-based methods, researchers since the mid-1960s have switched to coordinate-free formulations, of which Wald's text is entirely based. Its style is uniformly clear and economic, if too brief at times. Topics that deserve more attention include gravitational radiation and cosmology. However, this book can be supplemented by those by Misner, Thorne, and Wheeler, and by Weinberg. Smolin was teaching a course on general relativity to undergraduates as well as graduate students at Yale University using this book and felt satisfied with the results. He also found it useful as a reference to refresh his memory. 8 

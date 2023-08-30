@@ -1,0 +1,28 @@
+Cette page contient des caractères spéciaux ou non latins. Si certains caractères de cet article s’affichent mal , consultez la page d’aide Unicode.
+La barre verticale, le tube ou le pipe  est le nom du caractère ASCII 124, symbolisé par une barre verticale | ou une barre verticale brisée en son milieu ¦.
+En Unicode, la barre verticale se trouve au point U+007C, tandis que la  « barre brisée » est un caractère à part, U+00A6. En HTML, la barre non codée peut être codée  .
+La barre verticale est un signe de ponctuation anglo-saxon, qui n'est pas reconnu par la plupart des scripteurs. Elle ne figure d'ailleurs ni dans la liste des signes de ponctuation du Lexique des règles typographiques en usage à l'Imprimerie nationale ni dans celle du Bescherelle,.
+Le nom pipe  pour le caractère « | » provient d'un usage commun dû au fait qu'il est utilisé dans le Bourne shell pour rediriger le flux de sortie d'un programme vers l'entrée d'un autre, comme s'ils étaient raccordés par un tube . Le mot pipe a alors, adapté à l'informatique, le même sens que dans pipeline.
+La barre verticale est utilisée dans la table des symboles mathématiques :
+Dans un texte qui ne peut être modifié mais qui peut être sélectionné, par exemple une page web, le pointeur de souris est souvent une barre verticale .
+Dans les sites utilisant le logiciel MediaWiki , la barre verticale est utilisée  dans la syntaxe wiki des liens internes pour séparer le lien du texte affiché. Par exemple, « ] » s'affiche « texte » mais lie vers « article ». Ce symbole est également employé pour l'écriture de tableaux et comme séparateur dans l'écriture de modèles.
+Dans cette forme, les expressions sont constituées de séquences de symboles et/ou de séquences séparées par des caractères « | », indiquant une alternative, le tout pouvant être substitué au symbole à gauche. Par exemple,
+Un pipe est une fonctionnalité de certains systèmes d'exploitation utilisée notamment dans UNIX et qui permet de rediriger la sortie standard d'un processus vers l'entrée standard d'un autre. Dans les interpréteurs de commande, le pipe est représenté par une barre verticale. Cette fonctionnalité se trouve aussi sous DOS et Windows.
+Dans les expressions rationnelles, le pipe indique l'alternative . Par exemple, grep « foo|bar » retournera « foo » ou « bar ».
+Un pipe est juste une classe possédant une fonction qui prendra en paramètre un objet / valeur ainsi que des paramètres de transformation, pour le transformer en un autre objet / valeur. 
+Il est également possible de chaîner vos pipes. Par exemple, si nous voulons que la date soit au format français et en majuscule, nous allons utiliser le pipe upperCase comme ceci :
+maDate | date:'d MMM y' | uppercase
+Angular propose de nombreux pipes en standard pour gérer les dates, les monnaies, l'internationalisation, la casse des caractères, les nombres
+Dans les shells UNIX le pipe permet de diriger la sortie d'une commande  vers une autre commande . Par exemple  dmesg | grep firewire  redirigera la sortie de dmesg sur grep qui ne sortira que les lignes contenant le mot « firewire ».
+Dans de nombreux langages de programmation, cela désigne la fonction logique OU, que ce soit le ou bit à bit ou le ou logique.
+Ainsi, dans le langage de programmation C et d'autres langages utilisant la syntaxe du C comme Perl et Java,  signifie ou bit à bit, tandis que la double barre verticale  signifie ou logique.
+En PL/I et SQL, l'opérateur "||" dénote la concaténation de deux chaînes de caractères.
+Bien que moins rencontré que les virgules ou les tabulations, le symbole « | » peut être utilisé dans un  fichier texte représentant des données tabulaires, comme le format LEDES 1998B.
+Le même symbole peut être utilisé dans les dialectes de Lisp pour délimiter le début et la fin des symboles, noms de variables, etc. qui peuvent contenir divers caractères .
+Dans la famille des langues khoïsannes, le « | » est utilisé pour transcrire le clic.
+Notes :
+Sous Windows et Linux, la barre verticale est disponible avec la combinaison Alt Gr + 6 sur la disposition de clavier AZERTY français et Alt Gr + 1 sur clavier azerty belge et clavier qwertz suisse. Elle est également disponible avec la combinaison shift + # sur le clavier QWERTY canadien français.
+En bépo, la combinaison Alt gr + B peut-être utilisée.
+Sous Mac OS Classic, macOS et iOS, elle s'obtient avec  Alt + Maj + L.
+En LaTeX, on distingue l'usage par paire encadrante, et l'usage infixe  :
+Learn Agular - Les pipes

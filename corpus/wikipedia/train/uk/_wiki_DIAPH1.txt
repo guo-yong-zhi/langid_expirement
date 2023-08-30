@@ -1,0 +1,29 @@
+1V9D, 1Z2C, 2BAP, 2BNX, 2F31, 2V8F, 3EG5, 3O4X, 3OBV, 4UWX
+• transmembrane transporter binding• GO:0001948, GO:0016582 protein binding• actin binding• signaling receptor binding• RNA binding
+• цитоплазма• гіалоплазма• cell projection• мембрана• Веретено поділу• Центр організації мікротрубочок• ruffle membrane• mitotic spindle• Цитоскелет• клітинна мембрана• secretory granule membrane• ficolin-1-rich granule membrane• клітинне ядро
+• actin filament organization• positive regulation of cell migration• regulation of release of sequestered calcium ion into cytosol• sensory perception of sound• actin filament polymerization• regulation of microtubule-based process• protein localization to microtubule• cytoskeleton organization• regulation of cell shape• cellular component organization• actin cytoskeleton organization• cellular response to histamine• regulation of cell motility• neutrophil degranulation• regulation of cytoskeleton organization
+DIAPH1  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 5-ї хромосоми.  4  Довжина поліпептидного ланцюга білка становить 1 272 амінокислот, а молекулярна маса — 141 347 5 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функцією належить до фосфопротеїнів. 
+Задіяний у таких біологічних процесах як ацетилювання, альтернативний сплайсинг. 
+Білок має сайт для зв'язування з молекулою актину. 
+Локалізований у клітинній мембрані, цитоплазмі, цитоскелеті, мембрані, клітинних відростках.
+  Портал «Біологія»   Портал «Хімія»                       

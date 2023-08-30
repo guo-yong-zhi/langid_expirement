@@ -1,0 +1,55 @@
+
+  
+    
+      
+        
+          G
+          
+             
+             
+          
+        
+        =
+        
+          
+            
+              8
+               
+              G
+            
+            
+              c
+              
+                4
+              
+            
+          
+        
+        
+          T
+          
+             
+             
+          
+        
+        
+      
+    
+    =T_
+  
+Schwarzschild · Kasner · Kerr 
+Milne · Reissner-Nordström 
+FLRW-metriikka
+Einstein · Minkowski · EddingtonLemaître · SchwarzschildRobertson · Kerr · FridmanChandrasekhar · Hawking
+Yleinen suhteellisuusteoria  on modernin fysiikan painovoimaa kuvaava teoria, jonka kehitti teoreettinen fyysikko Albert Einstein vuosina 1907–1915, ja se on erityisen eli suppean suhteellisuusteorian laajennus. Suppeassa suhteellisuusteoriassa fysiikan lait ovat samat kaikissa inertiaalikoordinaatistoissa johtaen informaation siirtymisen rajanopeuteen c ja yleinen suhteellisuusteoria laajentaa tämän ekvivalenssin kaikkiin koordinaatistoihin.  
+Yleisen suhteellisuusteorian mukaan kahden kappaleen välillä havaittu painovoima johtuu siitä, että kappaleiden massat kaareuttavat aika-avaruutta. Yleisessä suhteellisuusteoriassa gravitaatio siis tulkitaan avaruuden kaareutumiseksi, toisin sanoen avaruuden geometrian muuttumiseksi. Einsteinin teoria käyttää geometrianaan Riemannin epäeuklidista geometriaa. Teoria korvaa Sir Isaac Newtonin vuonna 1686 julkaiseman teorian painovoimasta voimana massallisten kappaleiden välillä. Kokeiden mukaan Einsteinin teoria on tarkempi ja on näin syrjäyttänyt Newtonin teorian modernissa fysiikassa. Yleinen suhteellisuusteoria ennusti myös gravitaatioaaltojen olemassaolon. 
+Yleinen suhteellisuusteoria korjaa ja ennustaa todennettavia ilmiöitä, joita Newtonin teoria ei kykene selittämään tai ennustamaan. Tällaisia ovat esimerkiksi valonsäteiden taipuminen massiivisen kappaleen ympärillä ja Merkuriuksen tai muiden planeettojen perihelin kiertyminen. Lisäksi yleisen suhteellisuusteorian mukaan aika hidastuu voimakkaassa gravitaatiokentässä. Yleinen suhteellisuusteoria ei ole ainoa relativistinen painovoimateoria, mutta se on malliltaan kaikkein yksinkertaisin niistä, ja ainoa joka on sopusoinnussa kaikkien havaintojen kanssa. Vaikka teoria kykenee selittämään ja ennustamaan lukuisia ilmiöitä, se jättää joitakin kysymyksiä avoimiksi. Kaikkein perustavinta laatua oleva kysymys on se, kuinka yleinen suhteellisuusteoria saadaan sovitetuksi yhteen kvanttifysiikan lakien kanssa, jolloin lopputuloksena saadaan kvanttigravitaatioteoria.
+Teoriasta on kehittynyt modernin tähtitieteen yksi tärkeimmistä teorioista. Yleinen suhteellisuusteoria tarjoaa nykyisen ymmärryksen mustien aukkojen suhteen. Yleinen suhteellisuusteoria on myös perusta alkuräjähdysteorialle.
+Albert Einstein julkaisi vuonna 1905 erityisen suhteellisuusteorian, jossa hän esitteli uudenlaiset käsitykset avaruudesta ja ajasta. Erityinen suhteellisuusteoria sovittaa sähködynamiikan ja Newtonin liikelakien väliset ristiriitaisuudet. Suppea suhteellisuusteoria ei kuitenkaan ole yhdenmukainen Newtonin painovoimalain kanssa, jonka mukaan painovoima syntyy kahden kappaleen massojen välisestä vuorovaikutuksesta.
+Newtonin painovoimalain mukaan kahden kappaleen välinen painovoima riippuu ainoastaan niiden massoista ja niiden välisestä etäisyydestä. Erityinen suhteellisuusteoria taas kertoo, että mikään signaali, vuorovaikutus tai häiriö ei voi kulkea valoa nopeammin. Newtonin lain mukaan kuitenkin muutokset painovoimakentässä tapahtuvat välittömästi. a  1  Newtonin painovoimalaki on siis ristiriidassa erityisen suhteellisuusteorian ensimmäisen postulaatin kanssa.
+Albert Einstein alkoi vuonna 1907 työskennellä uudenlaisen relativistisen painovoimateorian kanssa. Kahdeksan vuoden työn jälkeen Einstein sai yleisen suhteellisuusteorian valmiiksi. Teorian kulmakiveksi muodostui yksinkertainen periaate, ekvivalenssiperiaate, jonka avulla hän lopulta loi geometrisen painovoimateoriansa.
+Koko yleisen suhteellisuusteorian peruslähtökohta on ekvivalenssiperiaate. Sen mukaan painovoimakentän ja tasaisesti kiihtyvän liikkeen vaikutuksia on mahdoton erottaa toisistaan millään kokeella edellyttäen, että rajoitutaan riittävän pieneen aika-avaruuden alueeseen. 2  Kärjistäen voidaan todeta ekvivalenssiperiaatteen sanovan, että gravitaation aiheuttama kappaleiden putoaminen voidaan kumota siirtymällä vapaassa pudotuksessa olevaan koordinaatistoon. Klassinen esimerkki ekvivalenssiperiaatteesta on ihminen, joka on hississä. Hissiä kannatteleva köysi on katkennut, ja hissi on näin vapaassa pudotuksessa. Hississä oleva henkilö tuntee tällöin painottomuuden ja jos hän ottaa taskustaan kellon ja päästää siitä irti, kello ei putoa, vaan leijuu henkilön vierellä. Näin hississä olevan havaitsijan tuntemukset ovat hyvin samankaltaiset kuin kaukana avaruudessa ja kaukana gravitaatiolähteestä olevan havaitsijan tuntemukset.
+Albert Einsteinin avainhavainto oli se, että gravitaation aiheuttama voima ei eroa kiihtyvässä liikkeessä tunnetusta näennäisvoimasta. Toisin sanoen kiihtyvässä raketissa, jonka kiihtyvyys on tasan 9,81 m/s², kellon tipauttaminen ei eroa millään tavoin Maan pinnalla pudotetusta.
+Einstein joutui hylkäämään euklidisen geometrian, jotta kaikki kiihtyvässä liikkeessä olevat kappaleet olisivat keskenään samanarvoisia. Tämä johti Einsteinin kehittämään painovoimateoriaan, johon liittyy vahvasti aika-avaruuden kaareutuminen.
+Yksi tunnetuimmista yleisen suhteellisuusteorian ominaisuuksista on se, että painovoima ei olekaan mikään voima, vaan painovoimaksi kutsuttu ilmiö selittyy aika-avaruuden kaareutumisella. Massa kaareuttaa aika-avaruutta. Kaareutuneessa aika-avaruudessa kappale liikkuu lyhimpiä reittejä pitkin. Oleellisinta on se, että tilannetta tutkitaan neliulotteisessa aika-avaruudessa. Yleisessä suhteellisuusteoriassa aika-avaruutta käsitellään  neliulotteisena Lorentzin monistona. Aika-avaruuden kaareutumista kuvataan Einsteinin kenttäyhtälöiden avulla.
+Yleinen suhteellisuusteoria perustuu muutamalle oletukselle. Yleisen suhteellisuuden periaatteen mukaan fysiikan lait ovat samat kaikille havaitsijoille riippumatta siitä, ovatko ne kiihtyvässä liikkeessä, tasaisessa liikkeessä vai paikallaan. Yleisen kovarianssin mukaan fysiikan lait ovat samat kaikissa koordinaatistoissa. Yleinen suhteellisuusteoria vaatii myös, että liikkeen ja geodeettisen liikkeen välillä vallitsee yhtäsuuruus.

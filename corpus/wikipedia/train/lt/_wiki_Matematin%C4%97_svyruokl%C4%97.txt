@@ -1,0 +1,28 @@
+Matematinė svyruoklė – supaprastintas svyruoklės  matematinis modelis kuris tinka jei svyravimų kampas  nedidelis ir dauguma jos masės sukoncentruota apatiniame švytuoklės gale, siūlas ne tamprus, oro pasipriešinimo nėra. Matematinė svyruoklė paprastai vaizduojama kaip ant siūlo pakabintas rutuliukas, nes toks įrenginys į ją panašiausias. Matematinė svyruoklė yra harmoninis osciliatorius: jis aprašomas tomis pačiomis lygtimis kaip ir kiti žinomi harmoniniai osciliatoriai , tik lygties kintamųjų  reikšmė skirtingose sistemose ne ta pati.
+Svyruoklės kampo pagreitis bet kurio laiko momentu
+kur 
+  
+    
+      
+         
+      
+    
+    
+  
+ yra nukrypimo nuo vertikalės kampas, l – svyruokės ilgi, g – planetos gravitacijos stiprumą nusakantis laisvojo kritimo pagreitis. Planetoje su silpnesne gravitacija  svyruoklė švytuotų lėčiau. Lėčiau taip pat svyruoja ilgesnė svyruoklė, o nuo rutuliuko masės ir švytavimų amplitudės šio abstraktaus prietaiso svyravimo periodas nepriklauso. Ši lygtis vadinama Émile Léonard Mathieu lygtimi. Jos sprendinys yra
+kur 
+  
+    
+      
+        
+           
+          
+            0
+          
+        
+      
+    
+    }
+  
+ – pradinis atlenkimo kampas . Matematinės svyruoklės periodas, kuris realioms svyruoklėms yra tik apytikslis, lygus
+Ši lygtis dar vadinama Christiaan Huygens periodo taisykle.

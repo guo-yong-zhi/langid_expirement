@@ -1,0 +1,5 @@
+La reguligo de la nukleaj reaktoroj okazas per reguligaj stangoj . Tiuj stangoj estas produktitaj el neŭtronsorbaj materialoj kiel boro, arĝento, indio, kadmio, kiuj estas elementoj povantaj sorbi neŭtronojn sen fisiiĝi si mem. Per movo de la stangoj, ŝanĝiĝas la kvanto de la neŭtronabsorba materialo en la aktiva zono. Je ekfunkciigo de la reaktoro, oni singarde eltiras la reguligajn stangojn. La kreskon de la povumo montras enkonstruitaj mezuriloj de la neŭtronradiado. Kiam la reaktoro atingis la deziratan povumon, oni reŝovas iomete la stangojn. Tiam haltas la povum-kresko, la reaktoro funkcias en kritika stato.
+1. Sekurigaj stangoj servas rapidan haltigon de la reaktoro.
+2. Duraj reguligaj stangoj servas malrapidan reguligon de la povumo.
+3. Fajnaj reguligaj stangoj daŭre alĝustigas la povumon de la reaktoro laŭ la bezonoj.
+Oni povas ankaŭ reguligo per aldono de neŭtronsorba materialo al la malvarmiga likvo .

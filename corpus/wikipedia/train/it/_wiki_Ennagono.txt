@@ -1,0 +1,35 @@
+In geometria, un ennagono  o nonagono è un poligono con nove lati. Il nome ennagono deriva dal greco enneagonon, .
+Per ennagono regolare si intende un ennagono semplice, convesso, avente i lati di uguale lunghezza e con gli angoli interni di uguale ampiezza, pari a 140°. L'area di un ennagono regolare di lato 
+  
+    
+      
+        a
+      
+    
+    
+  
+ è data da
+In molti contesti il termine ennagono viene usato per indicare un ennagono regolare.
+Tra gli ennagoni non semplici, con lati che si intersecano in punti non estremità, si trovano due ennagoni stellati regolari.
+Il grafo completo K9 è spesso disegnato come un ennagono regolare con tutti e 36 gli spigoli connessi. Questo grafo rappresenta anche una proiezione ortogonale dei 9 vertici e 36 spigoli di un simplesso 8-dimensionale.
+Non è possibile costruire un ennagono regolare in modo esatto con riga e compasso. Qui sotto ne è mostrata una costruzione che fornisce un'ottima approssimazione :
+Per trovare il perimetro 
+  
+    
+      
+        P
+      
+    
+    
+  
+ di un ennagono regolare basta moltiplicare un suo lato 
+  
+    
+      
+        a
+      
+    
+    
+  
+ per 9
+Altri progetti

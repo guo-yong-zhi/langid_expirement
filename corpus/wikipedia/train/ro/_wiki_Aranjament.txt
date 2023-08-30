@@ -1,0 +1,411 @@
+În matematică, numărul de aranjamente  a n      elemente luate câte k      se notează cu 
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            k
+          
+        
+        
+      
+    
+    ^
+  
+ și se calculează cu formula:
+În practică, de multe ori se ajunge la necesitatea de a alege dintr-o mulțime oarecare de obiecte submulțimi care au anumite proprietăți sau de a aranja elementele unei mulțimi într-o anumită ordine. Domeniul matematicii care studiază astfel de probleme se numește combinatorică și are importanță pentru teoria probabilităților, logica matematică, teoria numerelor, precum și pentru alte ramuri ale științei și tehnicii. Din această ramură a matematicii fac parte și aranjamentele.
+Daca 
+  
+    
+      
+        A
+      
+    
+    
+  
+ este o mulțime cu 
+  
+    
+      
+        n
+      
+    
+    
+  
+ elemente, atunci submulțimile ordonate ale lui 
+  
+    
+      
+        A
+      
+    
+    
+  
+, având fiecare câte 
+  
+    
+      
+        k
+      
+    
+    
+  
+ elemente, unde 
+  
+    
+      
+        0
+         
+         
+        k
+         
+         
+        n
+      
+    
+    
+  
+, se numesc aranjamente de 
+  
+    
+      
+        n
+      
+    
+    
+  
+ elemente luate câte 
+  
+    
+      
+        k
+      
+    
+    
+  
+.
+Numărul aranjamentelor de 
+  
+    
+      
+        n
+      
+    
+    
+  
+ elemente luate câte 
+  
+    
+      
+        k
+      
+    
+    
+  
+ se notează 
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            k
+          
+        
+      
+    
+    ^
+  
+ și se citește: "aranjamente de 
+  
+    
+      
+        n
+      
+    
+    
+  
+ luate câte 
+  
+    
+      
+        k
+      
+    
+    
+  
+ ".
+Formula pentru calculul numărului 
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            k
+          
+        
+      
+    
+    ^
+  
+ este următoarea:
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            k
+          
+        
+        =
+        n
+        
+        
+        .
+        .
+        .
+        
+      
+    
+    ^
+  
+Pentru 
+  
+    
+      
+        n
+        =
+        k
+      
+    
+    
+  
+ se regăsește formula permutărilor 
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            k
+          
+        
+        =
+        
+          A
+          
+            n
+          
+          
+            n
+          
+        
+        =
+        n
+         
+        
+         
+        
+         
+        .
+        .
+        .
+         
+        3
+         
+        2
+         
+        1
+        =
+        n
+        !
+      
+    
+    ^^
+  
+Exemplu: Fie mulțimea 
+  
+    
+      
+        A
+        =
+        
+      
+    
+    }
+  
+. Se pot construi 20 mulțimi ordonate, având câte două elemente  fiecare:
+  
+    
+      
+        
+        ,
+        
+        ,
+        
+        ,
+        
+      
+    
+    
+  
+  
+    
+      
+        
+        ,
+        
+        ,
+        
+        ,
+        
+      
+    
+    
+  
+  
+    
+      
+        
+        ,
+        
+        ,
+        
+        ,
+        
+      
+    
+    
+  
+  
+    
+      
+        
+        ,
+        
+        ,
+        
+        ,
+        
+      
+    
+    
+  
+  
+    
+      
+        
+        ,
+        
+        ,
+        
+        ,
+        
+      
+    
+    
+  
+Pentru 
+  
+    
+      
+         
+         
+        n
+         
+        
+          N
+          
+             
+          
+        
+        ,
+        k
+         
+        N
+        ,
+        n
+         
+         
+        k
+      
+    
+    ,k\in N,n\geq \ k}
+  
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            k
+          
+        
+        =
+        
+         
+        
+          A
+          
+            n
+          
+          
+            k
+             
+            1
+          
+        
+      
+    
+    ^^
+  
+  
+    
+      
+        
+          A
+          
+            n
+          
+          
+            k
+          
+        
+        =
+        
+          
+            
+              n
+              !
+            
+            
+              
+              !
+            
+          
+        
+      
+    
+    ^
+  

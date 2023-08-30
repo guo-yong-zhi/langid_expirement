@@ -1,0 +1,27 @@
+Swift編程語言，支持多编程范式和編譯式，用来撰写基于macOS/OS X、iOS、iPadOS、watchOS和tvOS的软件 7 。
+苹果公司于2014年在苹果开发者年会（WWDC）發布了Swift编程语言。从设计上苹果公司让Swift与Objective-C共存在苹果公司的操作系统上 7 。
+2010年7月，苹果开发者工具部门总监克里斯·拉特納开始着手 Swift 编程语言的設計工作，以一年時間，完成基本架構後，他領導了一個設計團隊參與其中。Swift大約歷經4年的開發期，2014年6月發表。
+苹果宣称Swift的特点是：快速、现代、安全、互动，而且明顯優於Objective-C语言。Swift以LLVM編譯，可以使用现有的Cocoa和Cocoa Touch框架。Xcode Playgrounds功能是Swift为苹果开发工具带来的最大创新，该功能提供強大的互动效果，能让Swift源代碼在撰寫过程中能即時显示出其執行結果。拉特纳本人强调，Playgrounds很大程度是受到布雷特·维克多（英语：Bret Victor）理念的启发。 8 
+2015年6月8日，蘋果於WWDC2015上宣布，Swift將開放原始碼，包括编译器和标准库。 9 
+2015年12月3日，蘋果宣布開源Swift，並支持Linux，蘋果在新網站swift.org和託管網站Github上開源了Swift，但蘋果的App Store並不支持開源的Swift，只支持蘋果官方的Swift版本，官方版本會在新網站swift.org上定期與開源版本同步。 10  11 
+Swift取消了Objective-C的指针和其他不安全存取的使用，舍弃了Objective C早期套用Smalltalk风格的語法，全面改为句点表示法（dot-notation）。Swift具备类型推导（type inference）。同时，它提供了类似C++、C#中的命名空間（namespace）、泛型（generic）、运算符重载（operator overloading）。Swift被簡單的形容為 “沒有C的Objective-C”（Objective-C without the C）。 12 
+在Cocoa與Cocoa Touch的環境下，许多共用的类都放在Foundation Kit庫下，這些類別包含了NSString 字串庫（使用 Unicode），還有集合類別 NSArray 與 NSDictionary。Objective-C 提供了語法糖的方式讓這些物件可以整合在同一個語言裡。例如NSString之間合併的表示法如下：
+    NSString     *  str     =     @"hello,"  ; 
+ str     =     ; 
+    var   str  =  "hello" 
+ str   +=   " world" 
+    var     implicitInteger     =     70 
+ var     implicitDouble     =     70.0 
+ var     explicitDouble  :     Double     =     70 
+    let     numberOfApples     =     3 
+ let     numberOfOranges     =     5 
+ let     appleSummary     =     "I have \ apples." 
+ let     fruitSummary     =     "I have \ pieces of fruit." 
+    let     table     =     "The width of this table is " 
+ let     width     =     100 
+ let     tableWidth     =     table     +     String   
+    println   
+ print       /*Swift 2.0 之後不再使用println，改使用print*/ 
+    let   人   =    
+ for      in   人    
+</pr

@@ -1,0 +1,3 @@
+Uma rede nomológica é uma representação dos conceitos  de interesse em um estudo, suas manifestações observáveis e as inter-relações entre eles. O termo "nomológico" deriva do grego, que significa "regrado", ou em termos de filosofia da ciência, "semelhante à uma lei". Foi a visão de Cronbach e Meehl da validade de construto que, para fornecer evidências de que uma medida tem validade de construto, uma rede nomológica deve ser desenvolvida para sua medida. 
+Os elementos necessários de uma rede nomológica são:
+A evidência de validade baseada na validade nomológica é uma forma geral de validade de construto. É o grau em que um construto se comporta como deveria dentro de um sistema de construtos relacionados . 

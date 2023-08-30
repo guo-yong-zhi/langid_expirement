@@ -1,0 +1,41 @@
+Rake是一款软件任务管理及組建自動化工具。用户可指定任务、描述依赖关系及分组命名空间中的任务。 
+此软件与SCons和Make类似，但有着诸多差异。Rake使用Ruby编写，使用以Ruby语法编写的Rakefile（与Make中的Makefile等同）。此软件由吉姆·韦里奇（英语：Jim Weirich）编写。
+Rake使用Ruby的匿名函数块来定义多个任务并允许用户使用Ruby语法。它拥有共同任务库，例如：控制文件任务的函数及移除已编译文件（即“clean”任务）的库。与Make相似的是，Rake同样可以根据模式来合成任务，例如：根据文件名自动构建文件编译任务。Rake现已成为Ruby 1.9后标准库的一部分。
+下方是一个简单的用于构建C语言 “Hellow, world!”程序的Rake脚本。
+        file      hello.o      =>      hello.c      do 
+       sh      cc -c -o hello.o hello.c  
+     end 
+     file      hello      =>      hello.o      do 
+       sh      cc -o hello hello.o  
+     end 
+    rule      .o      =>      .c      do     |  t  | 
+     sh     "cc   #   -c -o   #  " 
+ end 
+    rule  )     do     |  t  | 
+     sh     "cc   #   -c -o   #  " 
+ end 
+    rule      .class      =>     ->       do     |  t  | 
+     java_compile   
+ end 
+    namespace     :cake     do 
+     desc      做煎饼馃子  
+     task     :pancake     =>          do 
+        puts     "凉油" 
+     end 
+     task     :mianhu     do 
+       puts     "放上凉面糊推成圆饼型" 
+     end 
+     task     :egg     =>     :mianhu     do 
+       puts     "打上1}个鸡蛋" 
+     end 
+     task     :conghua     do 
+       puts     "放上1}勺葱花" 
+     end 
+     task     :egg     do 
+      puts     "打上1个鸡蛋" 
+     end 
+     task     :qiguo     do 
+      puts     "铲起大饼打包" 
+     end 
+ end 
+</pr

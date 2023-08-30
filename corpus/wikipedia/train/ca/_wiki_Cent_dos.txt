@@ -1,0 +1,4 @@
+El nombre 102  és el nombre natural que segueix el nombre 101 i precedeix el nombre 103.
+La seva representació binària és 1100110, la representació octal 146 i l'hexadecimal 66.
+La seva factorització en nombres primers és 2×3×17; altres factoritzacions són 1×102 = 2×51 = 3×34 = 6×17.
+Es pot representar com a la suma de quatre nombres primers consecutius: 19 + 23 + 29 + 31 = 102; és un nombre 3-gairebé primer: 3 X 2 X 17 = 102.

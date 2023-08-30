@@ -1,0 +1,122 @@
+
+En alikvotfølge er inden for talteori en særlig type talfølge som beregnes efter principper som er lette at forstå også for lægfolk . Alikvotfølger studeres mest som en hobby eller af teoretiske grunde og har ikke nogen umiddelbare praktiske anvendelser. Emnet kan henregnes til det der kaldes rekreativ matematik eller "underholdningsmatematik".
+Emnet giver et godt eksempel på matematiske spørgsmål som er lette at stille på en måde så alle kan forstå dem, men som hidtil har været umulige at give svaret på.
+Navnet alikvotfølge skyldes at et tal som går op i et større tal, også kaldes en alikvot del af det større tal. Således er 1, 2, 4, 5 og 10 alikvote dele af tallet 20, mens eksempelvis 3, 6, 7 og 8 ikke er det.
+Udtrykket en alikvot del er altså blot et  synonym for en divisor.
+For ethvert naturligt tal 
+  
+    
+      
+        n
+      
+    
+    
+  
+ vil vi nu lade 
+  
+    
+      
+        s
+        
+      
+    
+    
+  
+ betegne summen af alle divisorerne  af 
+  
+    
+      
+        n
+      
+    
+    
+  
+, dog således at 
+  
+    
+      
+        n
+      
+    
+    
+  
+ selv ikke medregnes. For eksempel, hvis 
+  
+    
+      
+        n
+      
+    
+    
+  
+ vælges som 20, får vi
+Den på denne måde definerede funktion 
+  
+    
+      
+        s
+      
+    
+    
+  
+ kaldes den restringerede divisorsumsfunktion. 
+Det faktum at 
+  
+    
+      
+        s
+        
+        =
+        22
+      
+    
+    
+  
+ , vil vi i denne artikel skrive med en pil:
+  
+    
+      
+        20
+         
+        22
+      
+    
+    
+  
+. En alikvotfølge fremkommer nu ved simpelthen at blive ved med at "anvende" pilen på hvert nyt resultat man kommer frem til:
+Kontrollér selv at summen af divisorerne i 22 er 14, at summen af dem i 14 er 10, og så videre.
+I matematisk sprogbrug siger man at følgen fremkommer ved at iterere funktionen 
+  
+    
+      
+        s
+      
+    
+    
+  
+.
+Et par andre eksempler på alikvotfølger er:
+Når man vælger et begyndelsestal og går i gang med at udregne en alikvotfølge, kan man ikke på forhånd vide, hvordan det vil ende. Hver gang man rammer et defektivt tal, hopper man til et mindre tal. Men når man rammer et excessivt tal, springer man opad til højere tal. Det spændende er, hvilken af disse to tendenser der til slut vil vinde.
+Der er i princippet fem muligheder for en alikvotfølges skæbne:
+Hvis følgen på et tidspunkt rammer et primtal, må den stoppe. For primtallet har kun divisoren 1 , og herfra fører pilen os ned til 0. Og så kan vi ikke komme længere, fordi 
+  
+    
+      
+        s
+        
+      
+    
+    
+  
+ ikke kan udregnes.
+Hvis følgen på et tidspunkt rammer et fuldkomment tal, bliver den konstant derfra. Som et eksempel kan man betragte alikvotfølgen fra 143 der er nævnt ovenfor. Dér var det 6 der blev ramt, men det kunne også være et andet fuldkomment tal som fx 28 eller 496.
+Hvis følgen rammer ind i et par af venskabstal , vil den derfra skifte frem og tilbage mellem netop de to tal. Simpleste eksempel er tallene 220 og 284 fra eksemplet herover, men der er mange andre muligheder.
+Hvis følgen på et tidspunkt rammer et tal som den allerede har været på tidligere, går processen "i ring". Man siger at følgen bliver periodisk. Hvis tallet senest blev ramt én eller to pile tidligere, er vi i tilfældene B. eller C. herover. Men det kan også ske at man kommer ind i længere perioder. Det mindste eksempel på dette er alikvotfølgen
+Man ser at de fem tal 12496, 14288, 15472, 14536 og 14264 gentager sig i det uendelige. Sådanne tal kaldes selskabelige tal. I dette tilfælde består "selskabet" altså af fem tal, men der er andre mulige periodelængder. Hvis man starter fra 14316, får man et "selskab" på otteogtyve tal!
+Den klart mest almindelige orden  for sådanne selskabelige tal synes dog at være fire.
+Den sidste mulighed er at følgen aldrig gentager sig selv eller stopper. Det er ikke svært at indse at følgen i dette tilfælde vil gå imod uendelig. Så en følge i denne kategori E. vil vokse uden grænser. Til sidst bliver tallene dog så store, at det er praktisk umuligt at beregne dem inden for overskuelig tid.
+Måske er følgen ovenfor der starter fra 276, af denne type, men det vides ikke.
+Den belgiske matematiker Catalan fremsatte i 1888 den formodning, at ingen alikvotfølger kan vokse sig uendeligt store. Mere præcist foreslog han at der ikke eksisterer nogen følger i kategori E. herover.
+Det er endnu aldrig lykkedes at bevise eller modbevise denne formodning. Det er derfor den dag i dag et ubesvaret spørgsmål om Catalan havde ret eller tog fejl.
+Bemærk at man ikke kan afklare spørgsmålet ved simpelthen at regne på bestemte alikvotfølger. Thi hvis de følger man regner på, stopper, så kan man stadig ikke vide om der er andre følger  der ikke stopper. Og hvis de følger man regner på, går mod uendelig, vil man aldrig finde ud af det, fordi beregningerne så aldrig vil ophøre.
+Der er et væld af andre ubesvarede spørgsmål i forbindelse med alikvotfølger. Catalans formodning nævnt ovenfor er måske den vigtigste, men vi nævner her nogle andre:

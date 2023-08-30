@@ -1,0 +1,2 @@
+Tarım ürünlerinin üretimi  farklı coğrafi dağılıma sahiptir. Ülkelerin iklimi, bitki örtüsü, ekonomik durumu gibi parametreler bu dağılımda önemli bir rol oynar. Aşağıdaki listede belli başlı tarım ürünlerinin üretiminde en büyük paya sahip ülkeler sıralanmaktadır. Veriler FAO  resmi internet sitesinden alınmıştır.
+Major tarımsal ürünler şu şekilde sıralanabilir; gıda, lif, yakıt ve hammadde.

@@ -1,0 +1,5 @@
+
+modifier  Danielzhang est un astéroïde de la ceinture principale découvert en 2000.
+ Danielzhang a été découvert le 28 août 2000 à l'observatoire Magdalena Ridge, situé dans le comté de Socorro, au Nouveau-Mexique , par le projet Lincoln Near-Earth Asteroid Research .
+L'orbite de cet astéroïde est caractérisée par un demi-grand axe de 2,74 ua, un périhélie de 2,20 ua, une excentricité de 0,20 et une inclinaison de 4,79° par rapport à l'écliptique. Du fait de ces caractéristiques, à savoir un demi-grand axe compris entre 2 et 3,2 ua et un périhélie supérieur à 1,666 ua, il est classé, selon la JPL Small-Body Database, comme objet de la ceinture principale.
+ Danielzhang a une magnitude absolue  de 14,9 et un albédo estimé à 0,443.

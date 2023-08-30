@@ -1,0 +1,9 @@
+1000 Heartbeatsは、ヴァーノン・ケイが司会を務める、2015年2月23日から2016年1月15日までITVで放送されたイギリスのクイズ番組。  1 
+電子心拍数カウンターを身に着け、「The Plate」と呼ばれる照明付きの円形プラットフォームの上に立ち、1人の回答者が質問に答えて合計7ラウンドで賞金を獲得する。ラウンドの進行中、回答者の心拍数は継続的にカウントされ、最初の合計1,000から1づつ引かれていく。残り心拍数がゼロになると即ゲームオーバーとなり、獲得賞金は全額没収となる。また、BGMは弦楽四重奏団によって生演奏され、指揮者は回答者の鼓動に合わせて指揮を行う。
+出場者はラウンド1をクリアするために7問正解する必要があり、以降ノルマはラウンドごとに1つずつ減少する（ラウンド2で6つ、ラウンド3で5つなど）。誤答すると残り心拍数が100（初期は50）減少する。競技者は、残り心拍数100（シリーズ1では50）と引き換えに、プレートを降りる（ステップオフ）ことによって問題を変えることができる。ステップオフする前に正解したした数は、プレーが再開された後、各ラウンドをクリアするために必要な数にカウントされる。
+マネーツリーは以下の通り。
+それぞれの新しいラウンドの開始時に、回答者はプレイされるゲームの例を示され、挑戦するか、これ以上の賞金を諦めて「キャッシュアウトゲーム」に挑戦するか選択できる。賞金を獲得するには、最後の「キャッシュアウトゲーム」をクリアしなければならない。出場者には○×問題が出題され、残り心拍数がなくなる前に5問連続正解しなければならない。誤答すると連続正解はリセットされ、残り心拍数が50減る（シリーズ2以前は25）。キャッシュアウトゲームをクリアすると、回答者はその時点の賞金を獲得するが、クリアできなかった場合は賞金はゼロとなる。キャッシュアウトゲームでは、ステップオフはできない。
+The contestant must correctly answer five consecutive true or false statements in order to keep the money in their bank. Each incorrect answer breaks the chain and deducts 25 heartbeats ; the contestant may not step off the Plate during this game.
+A contestant who successfully cashes out at the £10,000 level may be given a chance to play Recall unofficially, using the remaining heartbeats on the counter, and see if they would have been able to win the full £25,000.
+このスペシャルでは、ケイの妻であるテス・デイリーとコメディアンのリー・フランシス（キース・レモンのキャラクター）が挑戦した（賞金は全額慈善団体に寄付）。
+Sari-Sari Channel

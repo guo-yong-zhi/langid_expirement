@@ -1,0 +1,183 @@
+Dalam matematika, khususnya bidang kalkulus, titik stasioner dari fungsi terdiferensialkan adalah suatu titik dalam domain fungsi tersebut dengan nilai turunan pertama pada titik itu sama dengan nol. 1  2  Dengan kata lain, titik stasioner merupakan titik di mana fungsi "berhenti" berubah, naik atau turun, pada titik tersebut. Untuk fungsi beberapa peubah riil yang dapat diturunkan, titik stasioner adalah titik dalam domain fungsi yang nilai turunan parsialnya sama dengan nol.
+Titik stasioner mudah terlihat pada suatu grafik fungsi satu peubah, karena titik tersebut terletak di titik dengan garis singgung mendatar . Untuk fungsi dengan dua peubah, titik ini sama dengan titik di grafik dengan bidang singgung yang sejajar dengan bidang xy.
+Misalkan suatu fungsi 
+  
+    
+      
+        f
+        :
+        
+          
+            R
+          
+          
+            n
+          
+        
+         
+        
+          R
+        
+      
+    
+     ^ }
+  
+ dapat diturunkan pada titik 
+  
+    
+      
+        
+          a
+        
+         
+        
+          
+            R
+          
+          
+            n
+          
+        
+        .
+      
+    
+     \in \mathbb .}
+  
+ Titik 
+  
+    
+      
+        
+          a
+        
+      
+    
+     }
+  
+ adalah suatu titik stasioner fungsi 
+  
+    
+      
+        f
+      
+    
+    
+  
+, jika untuk setiap 
+  
+    
+      
+        i
+        =
+        1
+        ,
+        2
+        ,
+         
+        ,
+        n
+      
+    
+    
+  
+ berlaku
+Notasi 
+  
+    
+      
+        grad
+         
+        f
+        
+      
+    
+     f}
+  
+ menyatakan gradien dari fungsi 
+  
+    
+      
+        f
+        
+      
+    
+    
+  
+.
+Untuk fungsi satu peubah 
+  
+    
+      
+        f
+        :
+        
+          R
+        
+         
+        
+          R
+        
+      
+    
+     \to \mathbb 
+  
+, definisi titik stasioner dapat disederhanakan menjadi: Titik 
+  
+    
+      
+        a
+      
+    
+    
+  
+ adalah suatu titik stasioner jika 
+  
+    
+      
+        
+          f
+           
+        
+        
+        =
+        0
+      
+    
+    
+  
+.
+Titik stasioner fungsi 
+  
+    
+      
+        
+          C
+          
+            1
+          
+        
+      
+    
+    }
+  
+ bernilai riil 
+  
+    
+      
+        f
+         
+        
+          R
+        
+         
+        
+          R
+        
+      
+    
+     \to \mathbb 
+  
+ dapat digolongkan menjadi empat jenis, dari hasil uji turunan pertama:
+Titik stasioner jenis pertama dan kedua disebut "ekstrema lokal". Sementara itu, titik yang merupakan maksimum atau minimum global/absolut disebut ekstremum global/absolut. Dua jenis titik stasioner berikutnya yang bukan merupakan ekstremum lokal disebut titik sadel.
+Penentuan posisi dan sifat titik stasioner membantu proses penggambaran kurva fungsi yang dapat diturunkan. Penyelesaian persamaan f  = 0 menghasilkan koordinat x semua titik stasioner; koordinat y adalah nilai fungsi di koordinat x tersebut. Sifat suatu titik stasioner di x dapat ditentukan dengan melihat turunan kedua f' :
+Cara yang lebih mudah adalah dengan mencari nilai fungsi di antara titik stasioner .

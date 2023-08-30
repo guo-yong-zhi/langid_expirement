@@ -1,0 +1,3 @@
+
+modifier  Unruh est un astéroïde de la ceinture principale.
+ Unruh est un astéroïde de la ceinture principale. Il fut découvert le 30 septembre 1999 à Socorro  par le projet LINEAR. Il présente une orbite caractérisée par un demi-grand axe de 2,64 UA, une excentricité de 0,15 et une inclinaison de 6,2° par rapport à l'écliptique.

@@ -1,0 +1,54 @@
+Berolinos šachmatai   – tai šachmatų rūšis, kurios  pėstininkai vaikšto ir kerta kitaip nei tradiciniuose šachmatuose. Jie dar vadinami Berolinos pėstininkais.
+Bandyta rengti Berolinos šachmatų turnyrus, išbandyta kombinacijų. Berolinos pėstininkais susidomėjo 
+šachmatų kompozitoriai. 1   
+967 Funkschach 19/09/1926 
+1. Ve6 BEf7-h5 2. Ve7 Vxe7 3. BEb4-c5 Vh4# 2  
+Berolinos šachmatus 1926 m. pasiūlė Edmundas Hebermanas  ir pavadino miesto, kuriame gyveno  vardu. 3  
+Berolinos pėstininkai juda įstrižaine vienu laukeliu pirmyn   gulstinės gali ir dviem laukeliais), o figūras kerta priekyje esančiame laukelyje. 
+Pėstininkui judant per du laukelius iš pradinės šachmatų partijos pozicijos galioja kirtimo prasilenkiant taisyklė.
+Kaip ir tradiciniuose šachmatuose  pasiekę paskutinę horizontalę paaukštinami į pageidaujamą figūrą.
+Žaidžiant partijas jie yra mobilesni už tradicinių šachmatų pėstininkus. Dažnai koncentruojasi centre, tačiau jų kertamoji  galia - mažesnė. Kadangi juos ginti gali tik pėstininkas iš apačios, partijos metu susidariusioms pozicijoms būdinga laisvų linijų gausa.
+Partijos pabaigoje  Berolinos pėstininkai tampa pavojingesni už tradicinius, kadangi pasiekti paaukštinimą jiems lengviau.
+Šachmatų diagramose Berolinos pėstininkas vaizduojamas, kaip apverstas žemyn galvą tradicinių šachmatų pėstininkas.
+Šachmatų kompozitoriai Berolinos pėstininką naudoja, kurdami tiesioginius, sutarto mato, atvirkščio mato, refleksinio mato serijinius ir ilgiausių ėjimų ir k.t. uždavinius.
+Šie uždaviniai dalyvauja konkursuose. Geriausi įtraukiami į FIDE albumus.
+Sutrumpintas šachmatų uždavinių tarptautinis žymėjimas prasideda trumpiniu, nurodant užduoties tipą ir ėjimų skaičių. Toliau seka sprendinių, ar dvynių skaičius.
+Kai uždaviniuose panaudotas Berolinos pėstininkas, pažymima naujos eilutės viduryjeː pav., Berolinos pėstininkas ir t. t.
+Užrašant ėjimus Berolinos pėstininku prieš ėjimą rašomas priešdėlis BE, pav. BEc2-a4.
+Berolinos pėstininkas turi kelias atmainasː Berolinos plus ir Seržanto. 
+Berolina plus juda kaip ir Berolinos pėstininkas, bet gali kirsti vertikalia, ar horizontalia kryptimis. Be to, pirmuoju ėjimu gali eiti nekirsdamas  įstrižaine per du laukelius. 4 
+Seržantas gali kirsti ir vaikščioti vienu laukeliu į priekį  vertikale ar įstrižaine: pav. baltųjų seržantas  laukelyje d4 atakuoja ir gali vaikščioti  į laukelius c5, d5 ir e5. Kaip  ir paprastas pėstininkas, jis pirmuoju ėjimu gali eiti per du laukelius, tačiau tik vertikaliai . Darydamas dvigubą ėjimą jis negali kirsti. Seržantas niekados nekerta praeinant. Pasiekęs paskutinę horizontalę seržantas  aukštinamas: į valdovę , bokštą, rikį, žirgą vilką, lapę, nakvišą.  Naudojamas Vilko šachmatuose. 5     
+Dar keletas uždavinių su Berolinos pėstininkais, kuriuose atskleidžiamos Berolinos pėstininko savybės.
+Vilfrido Zėhoferio refleksinio mato uždavinys sprendžiamas, naudojant ilgiausių ėjimų uždavinio taisykles, bei juodųjų Berolinos pėstininko savybes. 
+Baltųjų žirgas f5 laukelyje turi užduotįː neleidžia kažkuriuo metu juodųjų karaliui  pasirinkti ilgesnį Kg7 ėjimą. 
+1. Rd1! (baltieji atveda rikį į laukelį d1 iš kurio jie galės reguliuoti Berolinos pėstininko ėjimo kryptį.
+Juodieji privalo atsakyti į pirmą baltųjų ėjimą žengdami Berolinos pėstininku įstrižaine per du laukelius BEd7-b5 (ilgiausias ėjimas). 
+2. Ra4! (baltieji pasinaudoja tuo, kad Berolinos pėstininkas negali kirsti įstrižaine ir taip neleidžia jam patekti į a4 laukelį. 
+2.... BEc4  
+3. Rb3! . 
+3... BEd3 4.Rc2 BEe2 5.Kh1 BEf1V# .
+Žono Udiu tiesioginio mato uždavinyje atskleistos Berolinos pėstininko galimybės užstoti šachmatų lentos statmenas.
+Manfredo Nierobos sutarto mato uždavinys, kur pradeda juodieji, ir kuris turi dvynį, sprendžiamas, panaudojus Kirkės uždavinio taisykles bei Berolinos pėstininko savybes.
+Pirmasis dvynys . 1. Kxh4 .
+Po 1….Bh5+  2. Kxh5 (nukirstas bokštas baltame laukelyje turi atgimti  pradinės padėties baltame h1 laukelyje) g3# (Berolinos pėstininkas vaikšto įstrižainėmis - tad  atveria juodųjų karaliui šachą nuo baltųjų bokšto. 
+Karaliui nėra kur trauktis, nes laukelis g4, esantis virš Berolinos pėstininko, yra pastarojo šachuojamas – tad juodųjų karaliui matas!
+Antrasis dvynys (b) sudaromas perstūmus Berolinos pėstininką iš h4 į g4 laukelį.
+Po 1. Kxg4 (nukirstasis Berolinos pėstininkas turi atgimti tos pačios statmenos, kurioje buvo nukirstas, pradinėje šachmatų partijos pozicijoje.
+1….Bg5+ 2. Kh4 h3# 
+B8 Problemkiste   08/2001  
+Berolinos pėstininkas
+Sprendinys
+1.Rd1! BEb5 2.Ra4 BEc4 3.Rb3 BEd3 4.Rc2 BEe2 5.Kh1 BEf1V# 6  
+Die Schwalbe 1966
+Sprendinys
+1.Ba3-a2!, jei
+1...Ba5 2.BEa4#
+1...Bb5 2.BEb3#
+1...c3 2.BEc2xc3#
+1...Bd5 2.BEd3#
+1...Be5 2.BEe4# 7   
+K1175 Problemkiste 138 12/2001 
+Du  dvyniai b) bBEh4->g4.  
+Sprendinys
+a) 1. Kxh4 Bh5+ 2. Kxh5 g3#
+b) 1. Kxg4 Bg5+ 2. Kh4 h3#. 8 

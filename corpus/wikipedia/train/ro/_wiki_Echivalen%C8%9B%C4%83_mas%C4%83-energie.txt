@@ -1,0 +1,29 @@
+Echivalența masă-energie este o consecință a teoriei relativității, constând în faptul că între masa totală a unui sistem fizic și energia sa totală există o relație de proporționalitate, exprimată prin relația
+unde E este energia sistemului, m este masa sa, iar c este viteza luminii în vid.
+O primă consecință a teoriei relativității restrânse este faptul că dacă asupra unui sistem se efectuează un lucru mecanic L, masa sistemului crește cu o cantitate 
+  
+    
+      
+         
+        m
+        =
+        
+          
+            L
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    }
+  
+. Mai departe, se deduce că variația de masă se produce la orice transfer de energie între sistem și exterior, drept consecință orice variație ΔE a energiei sistemului este însoțită de o variație Δm a masei sistemului, satisfăcând relația ΔE=Δm·c². De aici, pentru o alegere potrivită a stării de referință, pentru care punem E=0, obținem relația cunoscută E=mc².
+Am aplicat convenția ca produsul punct și juxtapunerea să reprezinte produsul scalar a doi vectori, iar pătratul unui vector reprezintă produsul scalar al vectorului cu el însuși.
+Variația de masă preconizată de relațiile de mai sus este, în majoritatea transformărilor, mult prea mică, raportată la masa totală a sistemului, pentru a putea fi detectată.
+În reacțiile nucleare, însoțite de evacuarea căldurii și radiației produse de reacție, variația energiei sistemului este suficient de mare, raportată la masa sistemului implicat, pentru ca variația masei să fie măsurabilă practic. Variația de masă provine din evacuarea prin căldură și radiație a energiei de legătură dintre componentele nucleului atomic. Variația de masă se manifestă prin aceea că suma maselor atomice ale atomilor rezultați din reacție  este mai mică  decât suma maselor atomice ale atomilor intrați în reacție. Urmarea este că masa unui atom este puțin mai mică decât suma maselor protonilor, neutronilor și electronilor componenți.
+Este adesea afirmat în mod eronat că relația E=mc² exprimă transformarea  masei în energie în diverse reacții nucleare. În realitate, energia este prezentă în cantitate egală înainte și după transformare, doar sub forme diferite . De asemenea, masa se păstrează, doar forma ei de manifestare  se modifică.

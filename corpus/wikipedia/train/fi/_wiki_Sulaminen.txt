@@ -1,0 +1,4 @@
+Sulaminen on kiinteän olomuodon muuttumista nesteeksi. 1  Sulaminen on jähmettymisen vastakohta. Lämpötilaa, jossa aine sulaa kutsutaan sulamispisteeksi.
+Aineen sulattamiseen tarvitaan lämpöenergiaa sulamislämmön määrittelemän verran, reaktio on siis endoterminen. Puhtaan aineen sulaessa lämpötila aineessa ei muutu. Epäpuhdas aine on täysin kiinteää soliduslämpötilan alapuolella ja täysin sulaa likviduslämpötilan yläpuolella. Näiden välillä sula ja kiinteä esiintyvät saman aikaisesti.
+kiinteä   neste   kaasu   plasma
+jähmettyminen   sulaminen   höyrystyminen   tiivistyminen   härmistyminen   sublimoituminen

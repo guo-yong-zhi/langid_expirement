@@ -1,0 +1,26 @@
+• signal transducer activity• olfactory receptor activity• G protein-coupled receptor activity
+• клітинна мембрана• мембрана• integral component of membrane
+• sensory perception of smell• GO:0072468 Сигнальна трансдукція• detection of chemical stimulus involved in sensory perception of smell• response to stimulus• G protein-coupled receptor signaling pathway
+OR6M1  – білок, який кодується однойменним геном, розташованим у людей на короткому плечі 11-ї хромосоми. 2  Довжина поліпептидного ланцюга білка становить 313 амінокислот, а молекулярна маса — 35 328 3 .
+A: Аланін
+C: Цистеїн
+D: Аспарагінова кислота
+E: Глутамінова кислота
+F: Фенілаланін
+G: Гліцин
+H: Гістидин
+I: Ізолейцин
+K: Лізин
+L: Лейцин
+M: Метіонін
+N: Аспарагін
+P: Пролін
+Q: Глутамін
+R: Аргінін
+S: Серин
+T: Треонін
+V: Валін
+W: Триптофан
+Кодований геном білок за функціями належить до рецепторів, g-білокспряжених рецепторів, білків внутрішньоклітинного сигналінгу. 
+Локалізований у клітинній мембрані, мембрані.
+  Портал «Біологія»   Портал «Хімія»                       
