@@ -1,0 +1,4 @@
+Une microémulsion est une dispersion thermodynamiquement stable de deux liquides immiscibles, stabilisée par un ou plusieurs tensioactifs. Ces dispersions sont en général transparentes car les tailles typiques des mésophases sont inférieures à la longueur d'onde de la lumière, et souvent nanométriques. La physique des microémulsions est étudiée dans un domaine appelé 'matière molle'.
+Il ne faut pas confondre émulsion et microémulsion qui sont fondamentalement différentes. Les émulsions sont instables alors que les microémulsions ont une thermodynamique stable.
+Un exemple est donné par la dispersion aqueuse de petites gouttelettes d'huiles stabilisées par des tensioactifs. De par leur diamètre , elles sont invisibles à l'œil nu et même au microscope. Leur taille peut être mesurée par des techniques microscopiques comme la diffusion de rayonnement aux petits angles,.
+Les microémulsions ont de nombreuses utilisations commerciales importantes :

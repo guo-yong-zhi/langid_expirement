@@ -1,0 +1,3 @@
+Tietokoneanimaatio on animaatiotekniikka, jossa liikkuvat kuvat luodaan kokonaan tietokoneilla. Tietokoneanimaatiossa yhdistyvät perinteinen animaatio ja tietokonegrafiikka.
+Tietokoneiden laskentatehon kasvettua ja ohjelmien kehityttyä tietokoneanimaatio on vähitellen syrjäyttänyt perinteisen piirrosanimaation pitkissä animaatioelokuvissa. Nykyisin myös suurin osa Hollywood-elokuvien erikoistehosteista toteutetaan tietokoneanimaation avulla.
+Pixar ja Dreamworks ovat tunnetuimpia tietokoneanimaatioelokuvia valmistavia yhtiöitä.

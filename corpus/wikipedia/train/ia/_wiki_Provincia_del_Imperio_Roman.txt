@@ -1,0 +1,2 @@
+ 
+Provincia del Imperio Roman esseva un classe de entitates territorial administrative del imperio roman.

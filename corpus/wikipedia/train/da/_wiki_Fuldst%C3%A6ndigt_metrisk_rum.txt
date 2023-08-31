@@ -1,0 +1,37 @@
+I matematisk analyse kaldes et metrisk rum, M, fuldstændigt , hvis enhver Cauchyfølge af punkter i M har en grænseværdi, der også ligger i M.
+Intuitivt kan man betragte fuldstændige rum som rum, der ikke "mangler" punkter . For eksempel er mængden af rationale tal ikke fuldstændigt, fordi 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    }}
+  
+ "mangler" i rummet, selvom man kan konstruere en Cauchyfølge af rationale tal, der konvergerer mod det . Det er altid muligt at "udfylde hullerne", hvilket fører til begrebet fuldstændiggørelse af et givent rum.
+Rummet Q af rationale tal med den sædvanlige metrik , er ikke fuldstændigt. Betragt for eksempel er følgen defineret ved x1 := 1 og xn+1 := xn/2 + 1/xn. Denne ses at være en Cauchyfølge af rationale tal, men den konvergerer ikke mod en rational grænse: En sådan grænse, x, ville have den egenskab, at x² = 2, men ingen rationale tal har denne egenskab . Betragtet som en følge af reelle tal, vil følgen dog konvergere mod det irrationale tal 
+  
+    
+      
+        
+          
+            2
+          
+        
+      
+    
+    }}
+  
+, kvadratroden af 2.
+Det åbne interval , igen med den sædvanlige metrik, er heller ikke fuldstændigt. Følgen  er Cauchy, men den har ikke en grænseværdi i rummet. Omvendt er det lukkede interval  fuldstændigt, og følgen ovenfor har grænseværdien 0 i dette interval.
+Rummet R af reelle tal og rummet C af komplekse tal  er eksepmler på fuldstændige rum, og det samme er det euklidiske rum Rn. Generelt kaldes et normeret vektorrum, der er fuldstændigt, for et Banachrum.
+Rummet Qp af p-adiske tal er fuldstændigt for ethvert primtal p. Rummet fuldstændiggør Q med den p-adiske metrik på samme måde, som R fuldstændiggør Q med den sædvanlige metrik.
+Ethvert kompakt metrisk rum er fuldstændigt. Faktisk er et metrisk rum if. Heine-Borels sætning kompakt hvis og kun hvis det er fuldstændigt og prekompakt.
+En lukket delmængde af et fuldstændigt rum er selv fuldstændigt. Omvendt er en fuldstændig delmængde af et metrisk rum lukket.
+Hvis X er en mængde og M er et fuldstændigt metrisk rum, er mængden B af alle begrænsede funktioner f fra X til M et fuldstændigt metrisk rum. Her defineres metrikken i B ved
+for f og g i B. Hvis X er et topologisk rum og M er et fuldstændigt metrisk rum, er mængden Cb af kontinuerte begrænsede funktioner f fra X til M et lukket underrum af B og dermed fuldstændigt.
+Baires kategorisætning siger, at ethvert fuldstændigt metrisk rum er et Bairerum. Det vil sige, at det indre af en forening af tælleligt mange intetsteds tætte delmængder af rummet er tom.

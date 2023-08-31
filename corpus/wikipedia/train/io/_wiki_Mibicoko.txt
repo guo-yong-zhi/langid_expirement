@@ -1,0 +1,2 @@
+Mibicoko es un de bazala unaji dil informo, duimo dil bicoko. Nuntempe maxim ofte uzata es ok-bicala bicoko , do la mibicoko egalas 4 bici. Omna mibicoko povas havar un de 16 valori segun suba tablo:
+Mibicoki es uzita ofte en elektronikala ili , e ank en kontado  e bankokomercado. To es pro uzado di kodexo BCD, qua lasas – uzante 4 bici – konservar un cifro .

@@ -1,0 +1,36 @@
+Kosinusų teorema – trigonometrinė teorema, teigianti, kad trikampio kraštinės ilgio kvadratas lygus kitų dviejų kraštinių ilgių kvadratų sumai minus dviguba tų kraštinių ilgių ir kampo tarp jų kosinuso sandauga. 1  Matematiškai užrašoma:
+kur 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ yra kampas tarp kraštinių a ir b .
+Iš kosinuso teoremos galima išvesti Pitagoro teoremą, kuri yra teisinga statiems kampams: jei kampas 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ yra 90°, tada cos 
+  
+    
+      
+         
+        
+      
+    
+    
+  
+ = 0, taip kosinuso teorema tampa Pitagoro teorema:
+Paprastai kosinusų teorema naudojama tada, kai žinomi visų trijų trikampio kraštinių ilgiai arba kai žinomi dviejų kraštinių ilgiai ir kampas tarp jų.
+Pradinėje formulėje sukeitus vietomis a, b ir c, galima gauti šias formules:
+Vakarų pasaulyje teoremą XVI a. išpopuliarino Fransua Vijetas. 2 

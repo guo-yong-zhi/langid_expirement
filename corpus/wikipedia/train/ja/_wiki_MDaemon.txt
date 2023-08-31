@@ -1,0 +1,39 @@
+MDaemon Messaging Server 1  は、Texas州に位置するAlt-N Technologies社  2 が開発した、Windowsベースのメール・グループウェアサーバソフトウェアである。
+MDaemonは、標準搭載された、ヒューリスティック分析やベイジアン解析を使ったスパムフィルタ、SSL/TLSでの暗号化、パブリックフォルダや共有フォルダ、メーリングリスト、ウェブベースのメールクライアント 、グループウェアデータの共有、ActiveSyncを介したover-the-air によるモバイル端末とのデータ同期、BlackBerry Internet Service、更に追加オプションとしてBlackBerry Enterprise Server  プラグイン 1 といった機能を搭載している。
+MDaemonのメインの設定ファイルはMDaemon/Appフォルダへ格納されており、メールは個々のファイルとして、MDaemon/Usersディレクトリ 3 以下に格納されている。
+MDaemonは、1990年の半ば、Arvel Hathcockが開発を始めた。Hathcockは14歳で父親に買ってもらったTRS-80モデルMC-10で開発を始め、複数の企業向けに掲示板ソフトを開発した後、Mailing List Systems Corporationへ所属した。Hathcockは当時のメールソフトウェアにかかるコストにフラストレーションを感じ、1996年、自分でメールシステムを開発しようと決意した。1996年、Alt-N Technologiesを設立し、Hathcockの商用メールサーバー、 MDaemon 4 が生まれた。
+MDaemonに搭載されているウェブベースのメールクライアント  を使うと、ブラウザからメールや予定表、連絡先、ドキュメント、仕事、メモにアクセスする事ができる。ドキュメントはメッセージへ添付したり、ドラッグ＆ドロップで共有フォルダへ追加したりする事ができる。パブリックフォルダや共有フォルダを共有する際には個別のアクセス権限が設定できる。サイドバーに組み込まれたチャット機能は、他のMDaemonユーザーとのチャット 5 に利用できる。
+リモート管理 はMDaemonの設定を行うために搭載されている機能である。ウェブベースのリモート管理ツールを使うと、アカウント管理、セキュリティ管理、モバイル管理、ログの確認、といった、MDaemonのほとんどの設定 6 にアクセスできる。
+標準搭載された、プライベート・インスタント・メッセージ用クライアントにより、  7 グループチャットや連絡先一覧、ファイル共有、メール通知、アドレス帳の自動同期などの機能を使う事ができる。
+SecurityPlus for MDaemon 8  は、Recurrent Pattern Detection  や Zero Hour Virus Outbreak Protection 9 を使った、ウィルス対策や スパム対策機能を提供している。
+Outlook Connector for MDaemon 10  はMicrosoft Outlookユーザー間で情報共有するためのグループウェア機能である。Outlook Connectorには個別のアクセス権限も使用できるフォルダ共有機能、グループウェア機能、自動応答機能、複数言語対応  11 といった機能が搭載されている。
+ActiveSync for MDaemon includes support for the latest version of Microsoft Exchange ActiveSync  , which is a separately licensed ActiveSync  server. ActiveSync provides native synchronization of a user's default email, calendar, contacts, and tasks data between the MDaemon server, WorldClient  or Outlook  account and an ActiveSync capable device. Other features include: customizable device IT policies, remote wipe, autodiscovery, multiple folder synchronization, global address lookup, SSL encrypted transmissions, device whitelists and blacklists, forgetting inactive devices, and device protocol restrictions 12 .
+The original version of MDaemon was not publicly released. Features included:
+The first public release of MDaemon was July 31, 1996. Features included:
+Released on February 29, 2000. Features included:
+Released on April 10, 2001. Features included:
+Released on September 25, 2001. Features included:
+Released on July 1, 2002. Features included:
+Released on October 29, 2002. Features included:
+Released on February 10, 2003. Features included:
+Released on June 10, 2003. Features included:
+Released on March 2, 2004. Features included:
+Released on May 11, 2004. Features included:
+Released on April 12, 2005. Features included:
+Released on July 26, 2005. Features included:
+Released on April 4, 2006. Features included:
+Released on October 24, 2006. Features included:
+Released on June 12, 2007. Features included:
+Released on August 26, 2008. Features included:
+Released on March 10, 2010. Features included:
+Released on February 15, 2011. Features included:
+Released on October 18, 2011. Features included:
+Released on September 4, 2012. Features included:
+Released on June 18, 2013. Features included:
+MDaemon is available in many different languages 13 .
+Available in the following 9 languages 14 :
+Available in the following 27 languages 15 :
+Available in the following 11 languages 16 :
+Available in the following 13 languages 17 :
+Available in the following 9 languages 18 :
+Available in the following 16 languages 19 :

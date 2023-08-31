@@ -1,0 +1,28 @@
+Una força centrípeta és una força que fa que un cos segueixi una trajectòria corba. La seva direcció és sempre perpendicular al moviment del cos, i apunta cap al punt fix del centre de curvatura instantani de la trajectòria. En la mecànica newtoniana, la gravetat dona la força centrípeta responsable de les òrbites astronòmiques.
+Un exemple comú on apareix la força centrípeta és el cas on un cos es mou amb velocitat uniforme al llarg d'un camí circular. La força centrípeta té direcció i sentit cap al centre de curvatura, i forma un angle recte amb el vector desplaçament. 1  2  El físic neerlandès Christiaan Huygens en va fer la descripció matemàtica el 1659. 3 
+La magnitud de la força centrípeta en un objecte de massa m que es mou a una velocitat tangencial v en una trajectòria amb un radi de curvatura r és: 4 
+on 
+  
+    
+      
+        
+          a
+          
+            c
+          
+        
+      
+    
+    }
+  
+ és l'acceleració centrípeta.
+La direcció de la força és cap al centre del cercle en què es mou l'objecte, o la circumferència osculadora . 5 
+La velocitat a la fórmula està elevada al quadrat, així que el doble de velocitat requereix quatre cops la força. La relació inversa amb el radi de curvatura mostra que la meitat de la distància radial necessita el doble de força. Aquesta força de vegades s'escriu en termes de la velocitat angular ω de l'objecte al voltant del cercle, relacionada amb la velocitat tangencial a través de la fórmula
+pel qual
+Expressada amb el període orbital T per una volta al cercle,
+l'equació esdevé
+En acceleradors de partícules, les velocitats poden ser properes a la velocitat de la llum al buit, així que la mateixa massa en repòs exerceix ara una major inèrcia  i per tant necessita una força superior per aconseguir la mateixa acceleració centrípeta, pel que l'equació esdevé:
+on
+s'anomena factor de Lorentz.
+De forma més intuïtiva:
+que indica com canvia el moment lineal relativista 

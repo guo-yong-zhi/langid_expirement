@@ -1,0 +1,10 @@
+Pour les articles homonymes, voir DEA.
+DEA,2,2'-iminodiéthanol,diolamine,2,2'-dihydroxydiéthylamine,bisamine
+La diéthanolamine, ou DEA, est un composé organique de formule HN2. Il s'agit d'un solide incolore à l'odeur ammoniacale fondant à 28 °C. La diéthanolamine a tendance à absorber l'eau, ce qui entraine de la surfusion : elle est généralement trouvée sous forme d'un liquide visqueux incolore à température ambiante. C'est un diol et une amine secondaire, soluble dans l'eau et hygroscopique.
+La DEA est utilisée comme tensioactif et inhibiteur de corrosion, ainsi que pour éliminer le sulfure d'hydrogène H2S et le dioxyde de carbone CO2 dans les procédés de raffinage du pétrole et le traitement du gaz naturel.
+On produit la DEA en faisant réagir de l'ammoniaque NH4OH avec de l'oxyde d'éthylène C2H4O en excès qui donne successivement la monoéthanolamine , la diéthanolamine  et la triéthanolamine  :
+La proportion des différents produits peut être ajustée en contrôlant la stœchiométrie des réactifs.
+La DEA est utilisée comme tensioactif : elle entre dans la composition de savons, de cosmétiques, de shampoings, etc.
+La DEA se comporte comme une base faible, elle est utilisée pour capturer des molécules acides telles que le H2S ou le CO2 dans les procédés de traitement de gaz aux amines. Ces molécules sont présentes dans les produits pétroliers et le gaz naturel, et ils provoquent une corrosion des installations. Par rapport à un autre aminoalcool tel que l'éthanolamine, la DEA peut être utilisée à concentration plus élevée, ce qui permet de traiter un flux ayant un potentiel de corrosion donné avec un débit d'amine plus faible.
+La DEA est absorbée par la peau, elle est irritante.
+La DEA comme d'autres alcanolamines peut entraîner la formation de nitrosamines qui sont associées au développement de cancers. Au Canada, la DEA est considérée comme cancérogène pour l'animal, et comme cancérogène probable pour l'homme  et est donc interdite dans les cosmétiques.

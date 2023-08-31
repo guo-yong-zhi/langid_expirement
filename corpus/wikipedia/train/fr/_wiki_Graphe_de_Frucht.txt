@@ -1,0 +1,40 @@
+Cet article est une ébauche concernant les mathématiques.
+Vous pouvez partager vos connaissances en l’améliorant  selon les recommandations des projets correspondants.
+Le graphe de Frucht est, en théorie des graphes, un graphe 3-régulier possédant 12 sommets et 18 arêtes. C'est le plus petit graphe cubique dont le groupe d'automorphismes ne contienne que l'élément neutre. En d'autre termes, c'est le plus petit graphe régulier de degré trois étant un graphe asymétrique. Il est décrit pour la première fois en 1939 par Robert Frucht, d'où son nom.
+Le graphe de Frucht est planaire et hamiltonien. C'est aussi un cas de graphe de Halin.
+Le diamètre du graphe de Frucht, l'excentricité maximale de ses sommets, est 4, son rayon, l'excentricité minimale de ses sommets, est 3 et sa maille, la longueur de son plus court cycle, est 3. Il s'agit d'un graphe 3-sommet-connexe et d'un graphe 3-arête-connexe, c'est-à-dire qu'il est connexe et que pour le rendre déconnecté il faut le priver au minimum de 3 sommets ou de 3 arêtes.
+Le nombre chromatique du graphe de Frucht est 3. C'est-à-dire qu'il est possible de le colorer avec 3 couleurs de tel façon que deux sommets reliés par une arêtes soient toujours de couleurs différentes mais ce nombre est minimal. Il n'existe pas de 2-coloration valide du graphe.
+L'indice chromatique du graphe de Frucht est 3. Il existe donc une 3-coloration des arêtes du graphe telle que deux arêtes incidentes à un même sommets soient toujours de couleurs différentes. Ce nombre est minimal.
+Il est possible de compter les colorations distinctes d'un graphe. Cela donne une fonction dépendant du nombre de couleurs autorisé. Cette fonction est polynomiale et est qualifiée de polynôme chromatique du graphe. Ce polynôme a pour racines tous les entiers positifs ou nuls strictement inférieurs à 3 et est de degré 12. Il est égal à : 
+  
+    
+      
+        
+        
+        x
+        
+      
+    
+    
+  
+.
+Le groupe d'automorphismes du graphe de Frucht ne contient que l'élément neutre. Il est donc d'ordre 1. Cela fait du graphe de Frucht un graphe asymétrique. 
+Le polynôme caractéristique  de la matrice d'adjacence du graphe de Frucht est : 
+  
+    
+      
+        
+        
+        x
+        
+        
+        
+        
+      
+    
+    
+  
+.
+Le graphe de Frucht est planaire
+Le graphe de Frucht est hamiltonien
+Le graphe de Frucht admet une 3-coloration

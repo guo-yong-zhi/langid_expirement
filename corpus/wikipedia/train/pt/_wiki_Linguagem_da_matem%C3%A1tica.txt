@@ -1,0 +1,26 @@
+A linguagem da matemática é o sistema usado para comunicar ideias matemáticas. Essa linguagem consiste em uma camada de linguagem cotidiana, termos técnicos e símbolos, convenções gramaticais exclusivas do discurso matemático e tipos específicos de discurso ou fragmentos de linguagem.  Essa linguagem consiste em um substrato de alguma linguagem natural , usando termos técnicos e convenções gramaticais peculiares ao jargão matemático. Também é complementado por uma notação simbólica altamente especializada para fórmulas matemáticas.
+Semelhante às linguagens naturais, o discurso que usa a linguagem da matemática pode empregar uma escala de registros. Artigos de pesquisa em periódicos acadêmicos são fontes para discussões teóricas detalhadas sobre ideias a respeito da matemática e suas implicações para a sociedade.
+Algumas definições de linguagem são:
+Essas definições descrevem a linguagem em termos dos seguintes componentes:
+Cada um desses componentes também é encontrado na linguagem da matemática.
+A notação matemática assimilou símbolos de muitos alfabetos diferentes  e fontes . Também inclui símbolos específicos da matemática, como
+  
+    
+      
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        .
+      
+    
+    
+  
+A notação matemática é fundamental para o poder da matemática moderna. Embora a álgebra de Al-Khwārizmī não usasse tais símbolos, ela resolveu equações usando muito mais regras do que as usadas hoje com notação simbólica e teve grande dificuldade em trabalhar com múltiplas variáveis .  Às vezes, as fórmulas não podem ser compreendidas sem uma explicação escrita ou falada, mas geralmente são suficientes por si mesmas. Em outras ocasiões, eles podem ser difíceis de ler em voz alta ou informações são perdidas na tradução em palavras, como quando vários fatores entre parênteses estão envolvidos ou quando uma estrutura complexa como uma matriz é manipulada.
+Como qualquer outra disciplina, a matemática também tem sua própria marca de terminologia técnica. Em alguns casos, uma palavra de uso geral pode ter um significado diferente e específico dentro da matemática . Em outros casos, termos especializados, como "fractal" e "functor", foram criados exclusivamente para uso em matemática.O vocabulário da matemática também possui elementos visuais. Os diagramas são usados informalmente em quadros-negros, bem como mais formalmente em trabalhos publicados. Quando usados apropriadamente, os diagramas exibem informações esquemáticas com mais facilidade. Os diagramas também podem ajudar visualmente e auxiliar em cálculos intuitivos. Às vezes, como em uma prova visual, um diagrama pode até servir como justificativa completa para uma proposição.
+A matemática é usada por matemáticos, que formam uma comunidade global composta por falantes de várias línguas. Ela também é usado por estudantes de matemática. Como a matemática faz parte da educação primária em quase todos os países, quase todas as pessoas instruídas têm alguma exposição à matemática pura. Existem muito poucas dependências ou barreiras culturais na matemática moderna. Existem competições internacionais de matemática, como a Olimpíada Internacional de Matemática, e a cooperação internacional entre matemáticos profissionais é comum.

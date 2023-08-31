@@ -1,0 +1,3 @@
+FLAC  – failo formatas, skirtas suspausti muziką neprarandant kokybės. Kitaip nei MP3, AAC ir Vorbis, spaudžiant muzikos failą į FLAC neprarandama kokybė. Tai tas pats kaip spaudžiant archyvavimo programa , skirtumas – suspaudus galima klausyti grotuvuose, kurie palaiko šį failo formatą. 1  Deja formatas nėra labai populiarus, todėl dauguma grotuvų jo dar nepalaiko.
+FLAC sumažina diapazono plotį ir saugojimo reikalavimus neprarandant garso šaltinio vientisumo. Skaitmeninis garso įrašas  dekoduotas į FLAC gali būti išspaustas į identišką garso duomenų kopiją. Garso šaltiniai dekoduoti į FLAC yra tipiškai sumažinami 50–60 %. 2 
+FLAC yra nemokamas ir palaiko daugumą operacinių sistemų, tokių kaip Windows, „Unix“ , BeOS, OS/2 ir Amiga.

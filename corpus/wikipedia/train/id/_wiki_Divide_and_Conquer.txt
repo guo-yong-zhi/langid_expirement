@@ -1,0 +1,3 @@
+Di dalam ilmu komputer, algoritme divide and conquer adalah algoritme yang sangat populer. Prinsip dari algoritme ini adalah memecah-mecah masalah yang ada menjadi beberapa bagian kecil sehingga lebih mudah untuk diselesaikan.
+Langkah-langkah umum algoritme Divide and Conquer adalah:  1 
+Artikel bertopik komputer ini adalah sebuah rintisan. Anda dapat membantu Wikipedia dengan mengembangkannya.

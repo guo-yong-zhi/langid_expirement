@@ -1,0 +1,3 @@
+Heterodyn či lokální oscilátor je součást přijímačů rádiového signálu. Slouží k vytváření signálu o jiné frekvenci, než je přijímaný signál. Tato frekvence má však k frekvenci zpracovávaného signálu přesně definovaný vztah, aby s ní mohla být smísena. Signál, vytvořený pomocí heterodynu je využíván k heterodynní detekci, především  v superheterodynech.
+Heterodyn může být samostatně fungující obvod. Často bývá laděn společně s anténním obvodem. U elektronkových přijímačů býval často řešen společně se směšovačem signálu jednou vícemřížkovou společnou elektronkou – pentagridem či oktodou.
+Přijímače nemodulovaného radiotelegrafního signálu mohou obsahovat dva heterodyny – jeden pro detekci nosné vlny a druhý pro vytvoření nízkofrekvenčního zvukového signálu .

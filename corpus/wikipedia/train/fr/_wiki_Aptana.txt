@@ -1,0 +1,9 @@
+
+L'admissibilité de cette page est à vérifier .
+Motif : Supprimé deux fois sur WP:de : cf. de:Wikipedia:Löschkandidaten/19. August 2006#Aptana  et de:Wikipedia:Löschkandidaten/22. November 2008#Aptana . Aucune source secondaire de qualité.
+modifier - modifier le code - voir Wikidata  Aptana Studio est un environnement de développement intégré orienté web, multiplate-forme et open-source. Il facilite l'écriture du code en fournissant des aides à la saisie pour le JavaScript, l'HTML, les CSS, PHP et Python.
+Aptana est disponible en version autonome ou bien en plugin pour son environnement d'origine :  Eclipse.
+Aptana dispose de plusieurs plugins permettant de programmer pour des langages/plateformes spécifiques comme RadRails, Adobe Air, ...
+Le 5 septembre 2007, la direction d'Aptana annonce un changement de licence du produit, de l'EPL à l'APL. De ce fait, Aptana n'entre plus dans le cadre d'un logiciel libre, car il n'est plus possible de redistribuer librement Aptana.
+Cette annonce a provoqué une déception dans la communauté du libre.
+Depuis fin 2007, Aptana est distribué sous double licence GPL v3/APL,

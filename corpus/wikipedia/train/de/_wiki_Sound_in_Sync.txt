@@ -1,0 +1,2 @@
+Sound in Sync , in Großbritannien auch Sound-in-syncs, ist ein Verfahren, bei dem die horizontale Austastlücke eines PAL-Signals anstelle des herkömmlichen Synchronimpulses und der Schwarzschultern ein digitales, üblicherweise unkomprimiertes Tonsignal beherbergt.
+Zur Wiedergabe ist ein zusätzlicher Dekoder erforderlich. Das Verfahren wird somit vor allem für interne Übertragungen zwischen Fernsehsendern, beispielsweise von der Europäischen Rundfunkunion verwendet.

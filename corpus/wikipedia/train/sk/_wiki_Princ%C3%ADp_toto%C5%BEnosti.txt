@@ -1,0 +1,1 @@
+Princíp totožnosti hovorí, že dve veci, dva pojmy atď. x a y sú totožné vtedy a len vtedy, keď každú vlastnosť P, ktorú má x, má súčasne aj y, a naopak.

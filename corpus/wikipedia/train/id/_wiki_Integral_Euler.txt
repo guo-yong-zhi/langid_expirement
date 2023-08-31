@@ -1,0 +1,3 @@
+Integral Euler adalah rumus integrasi yang pertama kalinya diperkenalkan oleh Leonhard Euler, matematikawan asal Swiss, pada tahun 1729-1731. 1 
+Dalam matematika, dikenal ada dua jenis "Integral Euler": 2 
+Untuk integer positif m dan n

@@ -1,0 +1,4 @@
+Bulanık mimari mekân analizi  her türlü mimari örgütlenme içerisindeki mekân oluşum ve yoğunluğunu inceleyen bir mekân analizi modelidir. 1  2 
+Bulanık mimari mekân analizi mimarlık, iç mimarlık, kentsel planlama vb. mekân tasarımı alanlarında kullanılmaktadır. 
+Bulanık mimari mekân analizi, mekân dizimi 3  4   ve derinlik analizi 5   teorilerinden Burçin Cem Arabacıoğlu tarafından, bulanık mantık temelli bir Mamdami bulanık çıkarım sistemi yardımı ile geliştirilmiştir. Bulanık mimari mekân analizi modeli, bir mimari mekânı, algılanabilir mimari elemanlarını sınır ve vurgu karakteristik ve yoğunlukları bağlamında değerlendirerek analiz etmektedir.  Model diğer mekân analizi yöntemlerinden farklı olarak mimari mekân algısının çok duyulu özelliğine uygun olarak analiz edebilme imkânı sunmaktadır.
+Mekân

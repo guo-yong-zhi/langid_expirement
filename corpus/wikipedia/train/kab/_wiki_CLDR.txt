@@ -1,0 +1,2 @@
+CLDR  d axefwal n Common Local Data Repository, d asenfaṛ n ukunsurṣyum UNICODE i d-yettmuddun lsas n usali n iseɣzanen akken ad izmiren ad sferken akk tutlayin n umaḍal. Isefka-agi ad ten-sqedcen deqs n imaẓragen deg usideg n ifecka-nsen. CLDR yegber deqs n yeḥricen:
+Tasidegt n tulayt n teqbaylit tekker yakan deg UNICODE. Ugar n isallen, ddu ar usebter-nneɣ adigan CLDR Aqbaylit anida ara tafem akk iḥricen-agi, neɣ srid ar usmel Web n CLDR 1  dagi

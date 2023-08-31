@@ -1,0 +1,21 @@
+4BDW, 4BDX
+• protein binding 
+• misfolded protein binding 
+• extracellular space 
+• plasma membrane 
+• Factor XII activation 
+• proteolysis 
+• blood coagulation 
+• blood coagulation, intrinsic pathway 
+• positive regulation of plasminogen activation 
+• protein processing 
+• protein autoprocessing 
+• positive regulation of blood coagulation 
+• zymogen activation 
+• fibrinolysis 
+• innate immune response 
+• response to misfolded protein 
+Фактор свёртывания крови XII  белок ß—глобулин, профермент из группы протеаз. Играет важную роль в процессах свёртывания крови. Синтезируется в печени 1 .
+Данный фактор в неактивном состоянии в норме находится в плазме крови. Его активация происходит при контакте с отрицательно заряженными поверхностями, например с коллагеном, обнажающимся при ранении, или in vitro со стеклом. В активации и действии фактора XII участвуют также высокомолекулярный кининоген и протеолитические ферменты, например калликреин, тромбин или трипсин 2 .
+Активированный фактор Хагемана в свою очередь воздействует на фактор свёртывания крови XI и запускает так называемую внутреннюю систему гемостаза 2 .
+История открытия: При васкулитах и ДВС-синдроме у больных наблюдается уменьшение фактора XII, что приводит к тромбофилии, от которой и умер больной по фамилии Хагеман.

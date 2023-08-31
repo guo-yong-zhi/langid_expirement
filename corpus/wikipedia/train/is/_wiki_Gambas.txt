@@ -1,0 +1,29 @@
+Gambas er hlutbundið forritunarmál og þróunarumhverfi sem er afbrigði af forritunarmálinu BASIC. Það keyrir á Linux og öðrum stýrikerfum sem byggja á Unix. Heitið Gambas er einnig spænska orðið fyrir rækju en mynd af rækju er lógó fyrir þetta forritunarmál. GAMBAS er endurkvæm skammstöfun og  stendur fyrir Gambas Almost Means BASic sem vísar til þess að forritunarmálið er afar líkt Basic. Gambas var þróað af frönskum forritara  og fyrsta útgáfa þess kom út árið 1999. Gambas líkist mjög Visual Basic. Gambas er í forritasöfnum sem fylgja mörgum Linux útgáfum. Útgáfa fyrir  Microsoft Windows getur keyrt undir Cygwin umhverfi og á Linux sýndarvél.  Gambas frá útgáfu 3.2 getur keyrt á Raspberry Pi en er þá ekki þýtt í rauntíma.
+Hello world forrit með GUI.
+ Public Sub Main
+  Message
+End Private Sub Test As Float
+  Dim Mu As Float = 10.0
+  Dim Pu, Su As Float
+  Dim I, J, N As Integer
+  Dim aPoly As New Float
+  N = 500000
+  For I = 0 To N - 1
+    For J = 0 To 99
+      Mu =   / 2.0
+      aPoly = Mu
+    Next
+    Su = 0.0
+    For J = 0 To 99
+      Su = X * Su + aPoly
+    Next
+    Pu += Su
+  Next
+  Return Pu
+End
+Public Sub Main
+  Dim I as Integer
+   For I = 1 To 10
+     Print Test
+   Next
+End</pr

@@ -1,0 +1,5 @@
+Wzór Barkhausena – zależność wiążąca parametry charakteryzujące triodę. Ma on postać
+gdzie
+Parametry te opisywane są przez następujące wzory
+czyli pochodna cząstkowa całkowitego prądu po potencjale siatki przy stałym potencjale anody, i analogicznie
+Natężenie prądu I jest sumą natężeń prądu anodowego i prądu siatki.

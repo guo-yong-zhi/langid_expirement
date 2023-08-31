@@ -1,0 +1,43 @@
+Die Flügelfläche an den Tragflächen eines Flugzeugs ist jene Fläche, die vom Flügelgrundriss umschrieben wird.
+Im Flugzeugbau unterscheidet man mehrere Flügelflächen:
+Darüber hinaus existieren einige firmeneigene Definitionen, beispielsweise von Airbus, Boeing/McDonnell Douglas und Fokker. 4 
+Aus der Fläche des Flügels und der Masse des Flugzeugs folgt der wichtige Parameter der Flächenbelastung. Aus ihr, dem Luftwiderstand und dem Antrieb lässt sich das Flugverhalten abschätzen.
+Die Bruttofläche des Tragflügels wird durch seine Projektionsfläche in der von Längsachse und Querachse aufgespannten Ebene gebildet. Bei einem Rechteckflügel ist die Fläche 
+  
+    
+      
+        A
+      
+    
+    
+  
+ gleich dem Produkt aus Spannweite 
+  
+    
+      
+        b
+      
+    
+    
+  
+ und Profiltiefe 
+  
+    
+      
+        l
+      
+    
+    
+  
+:
+Bei üblicher, über die Querachse 
+  
+    
+      
+        y
+      
+    
+    
+  
+ nicht konstanter Profiltiefe liefert die Integration über die Spannweite die Flügelfläche:
+Wenn die Flügel auf beiden Seiten der Ebene, die von der Flugzeug-Längs- und -Hochachse aufgespannt wird, symmetrisch zueinander sind, lässt sich die Rechnung vereinfachen zu:

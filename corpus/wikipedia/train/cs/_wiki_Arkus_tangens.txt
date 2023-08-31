@@ -1,0 +1,483 @@
+Arkus tangens je jedna z cyklometrických funkcí, inverzní funkce k funkci tangens. Obvykle se značí arctg x nebo arctan x, v anglické literatuře se taktéž používá atan x či tan−1 x. Její hodnotou je úhel v obloukové míře z intervalu 
+  
+    
+      
+        
+      
+    
+    
+  
+, popřípadě ve stupňové míře z intervalu , jehož tangens je x. Je to jedna z nejdůležitějších funkcí matematické analýzy.
+Funkce arctg x je inverzní funkce k funkci tg x, jejíž definiční obor byl omezen na interval 
+  
+    
+      
+        
+      
+    
+    
+  
+. Díky tomuto omezení je výchozí funkce prostá, takže požadovaná inverzní funkce existuje.
+Funkce 
+  
+    
+      
+        y
+        =
+        
+          
+            arctg 
+          
+        
+        x
+      
+    
+    }x}
+  
+ v obloukové míře je bijekcí mezi množinou reálných čísel 
+  
+    
+      
+        
+          R
+        
+      
+    
+     }
+  
+ a intervalem 
+  
+    
+      
+        
+      
+    
+    
+  
+, což mimo jiné dokazuje, že každý interval má stejnou mohutnost jako množina reálných čísel.
+Dále má tato funkce následující vlastnosti:
+  
+    
+      
+        
+          lim
+          
+            x
+             
+            +
+             
+          
+        
+        
+          
+            arctg 
+          
+        
+        x
+        =
+        
+          
+            
+               
+              2
+            
+          
+        
+      
+    
+    x=}}
+  
+  
+    
+      
+        
+          lim
+          
+            x
+             
+            0
+          
+        
+        
+          
+            
+              
+                
+                  arctg 
+                
+              
+              x
+            
+            x
+          
+        
+        =
+        1
+        ,
+      
+    
+    x \over x}=1,}
+  
+  takže v okolí nuly je 
+  
+    
+      
+        
+          
+            arctg 
+          
+        
+        x
+         
+        x
+      
+    
+    }x\approx x}
+  
+  
+    
+      
+        
+          
+            arctg 
+          
+        
+        x
+        =
+        
+          
+            
+               
+              2
+            
+          
+        
+         
+        
+          
+            arccotg 
+          
+        
+        x
+        =
+        arcsin
+         
+        
+          
+            x
+            
+              
+                x
+                
+                  2
+                
+              
+              +
+              1
+            
+          
+        
+        =
+        
+          
+            
+               
+              2
+            
+          
+        
+         
+        arccos
+         
+        
+          
+            x
+            
+              
+                x
+                
+                  2
+                
+              
+              +
+              1
+            
+          
+        
+      
+    
+    }x=}-x=\arcsin +1}}}=}-\arccos +1}}}}
+  
+  
+    
+      
+        
+          
+            arctg 
+          
+        
+        
+        =
+         
+        
+          
+            arctg 
+          
+        
+        x
+      
+    
+    }=-x}
+  
+  
+    
+      
+        
+          
+            arctg 
+          
+        
+        
+          
+            1
+            x
+          
+        
+        =
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                         
+                        2
+                      
+                    
+                  
+                   
+                  
+                    
+                      arctg 
+                    
+                  
+                  x
+                  =
+                  
+                    
+                      arccotg 
+                    
+                  
+                  x
+                
+                
+                  
+                    pokud 
+                  
+                  x
+                  >
+                  0
+                
+              
+              
+                
+                   
+                  
+                    
+                      
+                         
+                        2
+                      
+                    
+                  
+                   
+                  
+                    
+                      arctg 
+                    
+                  
+                  x
+                  =
+                   
+                   
+                  +
+                  
+                    
+                      arccotg 
+                    
+                  
+                  x
+                
+                
+                  
+                    pokud 
+                  
+                  x
+                  <
+                  0
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{arctg }}{1 \over x}={\begin{cases}{\tfrac {\pi }{2}}-{\mbox{arctg }}x={\mbox{arccotg }}x&{\text{pokud }}x>0\\-{\tfrac {\pi }{2}}-{\mbox{arctg }}x=-\pi +{\mbox{arccotg }}x&{\text{pokud }}x<0\end{cases}}}
+  
+  
+    
+      
+        
+          
+            
+              1
+              2
+            
+          
+        
+        
+        
+          
+            arctg 
+          
+        
+        x
+        =
+        
+          
+            arctg
+          
+        
+        
+        
+          
+            x
+            
+              1
+              +
+              
+                
+                  1
+                  +
+                  
+                    x
+                    
+                      2
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    }x=\,}}}
+  
+  
+    
+      
+        2
+        
+        
+          
+            arctg 
+          
+        
+        x
+         
+        
+          
+            arctg
+          
+        
+        
+        
+          
+            
+              2
+              x
+            
+            
+              1
+               
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+          
+        
+        ,
+        
+        x
+         
+         
+        1
+      
+    
+    }x\equiv \,,\quad x\neq \pm 1}
+  
+  p 1 
+  
+    
+      
+        
+          
+            arctg 
+          
+        
+        x
+        +
+        
+          
+            arctg 
+          
+        
+        y
+         
+        
+          
+            arctg
+          
+        
+        
+        
+          
+            
+              x
+              +
+              y
+            
+            
+              1
+               
+              x
+              y
+            
+          
+        
+        
+          
+          
+        
+        ,
+        
+        x
+        y
+         
+        1
+      
+    
+    }x+y\equiv \,},\quad xy\neq 1}
+  

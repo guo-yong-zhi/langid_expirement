@@ -1,0 +1,8 @@
+Ang bigat 1  o masa ay ang dami o bilang ng materya sa loob ng isang katawan. Pareho ang masa ng isang bagay saan man ito naroroon. Maaaring isipin ang masa bilang ang dami ng mga materyales na nakapaloob sa isang bagay, sa paraan na hindi nakadepende sa kung gaanong karaming espasyo o puwang ang napupuno.
+Ang yunit ng masa kung pagbabasehan ang Internasyunal na Sistema ng mga Yunit o SI ay ang kilogramo, isinusulat bilang kg. Marami pang ibang mga yunit ng masa, katulad ng gramo , tonelada , libra , at onsa . Sa agham at inhinyeriya kabilang sa mga yunit ng masa ang slug, yunit ng atomikong masa, masang Planck, masang solar, at eV/c2. Ibinatay ang huling yunit sa electron volt , na pangkaraniwang ginagamit bilang isang yunit ng enerhiya.
+Sari-saring mga uri ng timbangan ang ginagamit na panukat ng masa.
+Sa pisika, ipinapakita ng Natatanging Relatibidad na ang masa ng isang bagay ay nagiging mas malaki kapag gumagalaw na napakabilis ang bagay. Kapag lumalapit na ang bilis sa tulin ng liwanag nagiging napakalaki ng masa.
+Ang buong enerhiya  ng katawan ay
+, kung saan ang m = masa ng katawan, v = tulin ng katawan, c = tulin ng liwanag.
+May ilang mga bagay na walang pansariling masa dahil sa kanilang paggalaw. Totoo ito para sa kaso ng liwanag: walang masa ang isang poton ng liwanag, subalit maaaring gumanap bilang masa ang enerhiya nito kapag tumama ito sa isang bagay.
+Sa kimika, hindi nagbabago ang masa. Ang masa ng mga kimikal bago maganap ang isang reaksiyong kimikal aya palaging katumbas ng masa ng mga kimikal pagkaraan. Tinatawag itong Batas ng Konserbasyon ng Masa.

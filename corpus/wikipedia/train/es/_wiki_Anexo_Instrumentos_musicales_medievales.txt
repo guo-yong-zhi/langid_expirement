@@ -1,0 +1,3 @@
+Un instrumento musical es un objeto capaz de producir sonidos.
+Cualquier cosa que produzca un sonido puede ser considerado como un instrumento musical, aunque el término generalmente identifica los útiles construidos específicamente para ejecutar música.
+En el medioevo, especialmente en la llamada Baja Edad Media, se construían instrumentos según dos técnicas: monoxilos, de una única pieza, o de piezas ensambladas; de un solo tipo de madera o varios según la función de la pieza a realizar.

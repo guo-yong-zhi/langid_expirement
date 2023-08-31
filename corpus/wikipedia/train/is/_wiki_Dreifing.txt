@@ -1,0 +1,3 @@
+Dreifing í tölfræði er til marks um mismun breytu eða líkindadreifingar. Dæmi um mælikvarða á dreifingu er dreifni, staðalfrávik og fjórðungsbil. Andstæða dreifingar í tölfræði er miðsækni.
+Ef dreifing er táknuð með rauntölu sem er 0 ef öll gögn eru eins og hækkar eftir því sem meiri munur er á gögnunum. Talan getur aldrei verið minni en 0.
+Í flestum tilvikum er sama mælieining notuð við dreifnina og gögnin segja til um. T.a.m. er hægt að notast við: staðalfrávik, fjórðungsbil, spönn, mismun meðaltals , tölugildi fráviks miðgildis  og frávik.

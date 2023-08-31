@@ -1,0 +1,140 @@
+L'intensità luminosa è una grandezza fisica la cui unità di misura nel Sistema Internazionale è la candela. L'intensità luminosa di una sorgente puntiforme in una determinata direzione nell'angolo solido unitario è il flusso luminoso.
+Appartiene, tra altri raggruppamenti di grandezze fisiche, al gruppo delle Grandezze fotometriche.
+L'intensità luminosa viene quantificata come candele in una data direzione, di una sorgente che emette radiazione monocromatica di frequenza pari a 
+  
+    
+      
+        540
+         
+        
+          10
+          
+            12
+          
+        
+      
+    
+    }
+  
+ hertz e con una intensità radiante nella direzione di propagazione di 
+  
+    
+      
+        
+          
+            1
+            683
+          
+        
+      
+    
+    
+  
+ watt per steradiante.
+L'intensità luminosa può anche essere considerata come il numero di fotoni che attraversa una sezione unitaria di un campione  nell'unità di tempo.
+Nel Sistema Internazionale l'intensità luminosa è una grandezza fondamentale per le misure fotometriche dalla quale si ricavano tutte le altre. Se si indica con 
+  
+    
+      
+         
+      
+    
+    
+  
+ l'angolo solido in cui è compreso il fascio luminoso emesso da una sorgente luminosa di luce bianca, costituito da un cono avente il vertice nella sorgente medesima, con 
+  
+    
+      
+        I
+      
+    
+    
+  
+ l'intensità luminosa, il flusso luminoso misurato in lumen è
+  
+    
+      
+         
+        =
+        I
+         
+      
+    
+    
+  
+e la quantità di luce emessa dalla sorgente, intesa come l'energia elettromagnetica irradiata nello spettro visibile in un dato tempo 
+  
+    
+      
+        t
+      
+    
+    
+  
+, diviene
+  
+    
+      
+        Q
+        =
+         
+        t
+      
+    
+    
+  
+La quantità di luce 
+  
+    
+      
+        Q
+      
+    
+    
+  
+, essendo un'energia, andrebbe misurata in joule, ma la sua unità di misura è il lumensecondo; analogamente il flusso luminoso, essendo una potenza, andrebbe misurato in watt e l'intensità luminosa in watt/steradiante. 
+Tuttavia, poiché non tutta l'energia elettromagnetica emessa da una lampada ad incandescenza ricade nella banda visibile, ma una buona parte si perde nell'infrarosso, nelle misurazioni fotometriche, in cui si valuta soltanto la quantità di energia emessa in luce bianca, è stato necessario introdurre delle nuove unità di misura, dette unità fotometriche.
+Fin qui si è supposto che la sorgente luminosa fosse puntiforme. Se invece la sorgente è estesa, occorre introdurre un'altra grandezza: la luminanza della sorgente  in una determinata direzione. Se questa è perpendicolare alla superficie emettente, di area 
+  
+    
+      
+        A
+      
+    
+    
+  
+, la luminanza 
+  
+    
+      
+        L
+      
+    
+    
+  
+ e l'intensità luminosa 
+  
+    
+      
+        I
+      
+    
+    
+  
+ sono legate dalla relazione
+  
+    
+      
+        L
+        =
+        
+          
+            I
+            A
+          
+        
+      
+    
+    
+  
+Nel SI l'unità di misura della luminanza è la candela/m2.

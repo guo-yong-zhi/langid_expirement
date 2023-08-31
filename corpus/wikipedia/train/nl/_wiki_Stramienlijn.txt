@@ -1,0 +1,10 @@
+Een stramien of systeemlijn is een hulplijn op een technische tekening, bijvoorbeeld een bouwtekening. Voordat de bouwwerkzaamheden beginnen zet een maatvoerder de stramienen uit op de bouwplaats. Vervolgens wordt er gebouwd aan de hand van deze stramienen.
+De stramienen dienen ter oriëntatie en plaatsbepaling van bijvoorbeeld vloersparingen, wanden en kolommen. Bijvoorbeeld: de kolom op de derde verdieping wordt gepositioneerd op het kruispunt van de stramienen C en 3 en zal in de regel op de andere verdiepingen op hetzelfde snijpunt liggen.
+Op de afbeelding hiernaast is te zien is hoe stramienen in de praktijk toegepast worden. Doorgaans zijn stramienen gekoppeld aan de hartlijnen van de constructie, zie stramien 2 en stramien 3.
+Ter plaatse van een gevel zijn stramienlijnen meestal gekoppeld aan de buitenkant van het binnenspouwblad, zie stramien 1, stramien A en stramien B.
+De stramienlijnen vormen een assenstelsel waarvan het nulpunt zich links onder op de tekening bevindt. Horizontaal worden de systeemlijnen vanaf 1 genummerd, verticaal beginnend met A, de oorsprong van het assenstelsel begint dan met A1. 
+De oorsprong van het assenstelsel is met name van belang als er verschillende partijen betrokken zijn bij het ontwerp, zoals architecten, constructeurs en installateurs, enz. Als bovenstaande regels gehanteerd worden en het gebouw 3-dimensionaal gemodelleerd wordt, dan kunnen de 3D-modellen van de verschillende partijen gemakkelijk in elkaar geschoven worden.
+In de regel staan de lijnen haaks op elkaar, bij ronde of gebogen gebouwen is het mogelijk dat de stramienen in een middelpunt bij elkaar komen en de andere stramienen cirkels zijn.
+Aan het eind van een stramienlijn staat een cirkel met daarin de letter of het cijfer. Dit wordt de stramienbol genoemd.
+Het woord stramien wordt ook overdrachtelijk gebruikt, bijvoorbeeld in de uitdrukking dat iets 'binnen het stramien past'. 
+Stramienlijn bij bouwtechnisch tekenen

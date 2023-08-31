@@ -1,0 +1,13 @@
+Alanina  es uno de los aminoácidos que forman las proteínas de los seres vivos. Es codificada por los codones GCU, GCC, GCA y GCG. Es el aminoácido más pequeño después de la glicina y se clasifica como hidrofóbico.
+La alanina es un aminoácido no esencial para el ser humano, pero es de gran importancia.
+Existe en dos distintos enantiómeros L-alanina y D-alanina. La L-alanina es uno de los 20 aminoácidos más ampliamente usados en biosíntesis de proteína, detrás de la leucina, encontrándose en un 7,8 % de las estructuras primarias, en una muestra de 1150 proteínas.  La D-alanina está en las paredes celulares bacteriales y en algunos péptidos antibióticos.
+Se encuentra tanto en el interior como en el exterior de las proteínas globulares.
+La alanina fue aislada por primera vez en 1879 por el químico alemán Adolph Strecker.    El nombre fue acuñado en alemán como alanina a partir del aldehído . 
+El átomo de carbono α de la alanina está enlazado con un grupo metil , siendo por tanto clasificada como un aminoácido alifático.
+La alanina es muy común por transferir su grupo amino al piruvato. Debido a las reacciones de transaminación a través de la enzima alanina transaminasa  , la cual es  rápidamente reversible, la alanina puede fácilmente biosintetizarse del piruvato, por lo que está presente en los ciclos metabólicos de la glicólisis, gluconeogénesis, y en el ciclo del ácido cítrico.
+Alternativamente, las bacterias obtienen alanina por descarboxilación del carbono 4 del aspartato, por acción de la enzima aspartato 4-descarboxilasa , llevándose a cabo la siguiente reacción:
+HOOC-CH2-CH-COOH  →  CO2  +  CH3-CH-COOH
+La alanina racémica puede ser sintetizada por la condensación del acetaldehído con cloruro de amonio en la presencia de cianuro de sodio a través de una síntesis de Strecker, o por amonólisis del, ácido 2-bromopropiónico: 
+El grupo metil de la alanina es muy poco reactivo, por lo que no es común verlo en la función proteica. Sin embargo, puede desempeñar un papel en el reconocimiento del sustrato o especificidad, particularmente en interacciones con otros átomos no reactivos como el carbono.
+Interviene en el metabolismo de la glucosa.
+En general, las proteínas de la carne de vacuno, cerdo, pescado, huevos y productos lácteos son ricas en alanina.

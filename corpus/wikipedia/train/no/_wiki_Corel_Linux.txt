@@ -1,0 +1,2 @@
+Corel Linux, også kalt Corel LinuxOS er en tidligere Linux-distribusjon som var basert på Debian. Den ble utviklet av Corel Corporation. Betatestingen begynte 21. september 1999, 1  og første versjon ble lansert 15. november 1999. Den konkurrerte hovedsakelig med Windows 98, Windows 2000 og Mac OS 9. Siste versjon var Second Edition, som ble lansert 15. august 2000. Corel Corporation fjernet likevel ikke hjemmeside Open Source Development før i mars 2002.
+Distribusjonen benyttet skrivebordsmiljøet KDE, og var tilgjengelig i utgaver for x86-32.

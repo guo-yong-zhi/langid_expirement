@@ -1,0 +1,3 @@
+Ableton Live er forrit til þess að semja og leika raftónlist á eða til þess að stýra hljóðgervlum.
+Forritið er hægt að nota á tvenna vegu með Session view og Arrangement view. Session view er hugsað fyrir þá tónlistarmenn sem eru að spila sína tónlist á tónleikum "live" og er þá oft notast við ýmiss MIDI stjórntæki, eins og til dæmis Akai APC40. Í þessum ham eru svo kölluð clips sett í gang til þess að mynda tónlistina.
+Arrangement er hugsað fyrir þá sem eru að setja upp sína tónlist fyrirfram og jafnvel til þess að svo yfirfæra tónlistina í skrá sem hægt er að hlusta á eða brenna á disk. Einnig er hægt að setja aðal laglínuna upp í arrangement og nota svo session haminn á tónleikum til þess að fyrr upp í til tilbreytinga. 2 

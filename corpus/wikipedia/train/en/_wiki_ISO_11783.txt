@@ -1,0 +1,6 @@
+ISO 11783, known as Tractors and machinery for agriculture and forestry—Serial control and communications data network  is a communication protocol for the agriculture industry based on the SAE J1939 protocol  .
+It is managed by the ISOBUS group in VDMA.
+The ISOBUS standard specifies a serial data network for control and communications on forestry or agricultural tractors and implements.
+The standard comes in 14 parts:
+The Agricultural Industry Electronics Foundation works to promote ISOBUS and coordinate enhanced certification tests for the ISO 11783 standard.
+ Media related to ISOBUS at Wikimedia Commons

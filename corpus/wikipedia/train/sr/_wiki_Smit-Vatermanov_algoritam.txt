@@ -1,0 +1,181 @@
+Smit-Vatermanov algoritam  izvodi lokalno poravnavanje sekvenci; to jest, služi za određivanje sličnih oblasti između nizova nukleotida ili nizova proteina. Umesto pretrage totalnog niza, Smit-Vatermanov algoritam poredi segmente svih mogućih dužina i optimizuje sličnu meru.
+Algoritam je najpre predložen od strane Temple F. Smith-a i Michael S. Waterman-a 1981. godine. Kao i Needleman-Wunsch algoritam, čija je varijacija, i Smith-Waterman je algoritam dinamičkog programiranja. Kao takav, ima poželjnu osobinu koja garantuje pronalazak optimalnog lokalnog poravnanja u odnosu na sistem bodovanja koji se koristi . Glavna razlika u odnosu na Needleman-Wunsch algoritam je da se negativno označene ćelije matrice postavljaju na nulu, sto čini  lokalno svrstavanje vidljivim. Povratak istim putem  počinje na najvećoj označenoj ćeliji matrice i nastavlja se sve dok se ne naiđe na ćeliju sa vrednošću nula, prenoseći tako lokalno poravnanje najviše vrednosti. Zapravo, algoritam se ipak ne implementira na opisan način zato što poboljšane alternative imaju bolje skaliranje  i preciznije su .
+Matrica H se gradi na sledeći način:
+  
+    
+      
+        H
+        
+        =
+        0
+        ,
+        
+        0
+         
+        i
+         
+        m
+      
+    
+    
+  
+  
+    
+      
+        H
+        
+        =
+        0
+        ,
+        
+        0
+         
+        j
+         
+        n
+      
+    
+    
+  
+  
+    
+      
+        
+           ako 
+        
+        
+          a
+          
+            i
+          
+        
+        =
+        
+          b
+          
+            j
+          
+        
+      
+    
+    }a_}
+  
+ onda se
+  
+    
+      
+        w
+        
+        =
+        w
+        
+          
+        
+      
+    
+    }}
+  
+  
+    
+      
+        
+           ili 
+        
+        
+          a
+          
+            i
+          
+        
+         
+        
+          b
+          
+            j
+          
+        
+      
+    
+    }a_{i}\neq b_
+  
+ onda se
+  
+    
+      
+        w
+        
+        =
+        w
+        
+          
+        
+      
+    
+    }}
+  
+  
+    
+      
+        H
+        
+        =
+        max
+        
+          
+            
+          
+        
+        ,
+        
+        1
+         
+        i
+         
+        m
+        ,
+        1
+         
+        j
+         
+        n
+      
+    
+    0\\H+\ w&}\\H+\ w&},\;1\leq i\leq m,1\leq j\leq n}
+  
+Gde su:
+  
+    
+      
+        H
+        =
+        
+          
+            
+          
+        
+      
+    
+    &-&A&C&A&C&A&C&T&A\\-&0&0&0&0&0&0&0&0&0\\A&0&2&1&2&1&2&1&0&2\\G&0&1&1&1&1&1&1&0&1\\C&0&0&3&2&3&2&3&2&1\\A&0&2&2&5&4&5&4&3&4\\C&0&1&4&4&7&6&7&6&5\\A&0&2&3&6&6&9&8&7&8\\C&0&1&4&5&8&8&11&10&9\\A&0&2&3&6&7&10&10&10&12\end
+  
+Da bi dobili optimalno lokalno poravnanje, počinjemo sa najvećom vrednošću u matrici . Onda, idemo nazad na jednu od pozicija , , i  zavisno od pravca kretanja korišćenog za konstrukciju matrice. Ponavljamo proces dok ne dostignemo ćeliju matrice vrednosti nula, ili vrednost sa pozicije .
+U primeru, najveća vrednost odgovara ćeliji pozicije . Kretanje nazad odgovara , , , , , , , , , i .
+Jednom kad završimo, rekonstruišemo svrstavanje na sledeći način: počinjemo od poslednje vrednosti, dostižemo  koristeći prethodno izračunatu putanju. Dijagonalan skok podrazumeva da postoji svrstavanje . Skok odozgo na dole podrazumeva brisanje. Skok s desna na levo podrazumeva ubacivanje.
+Na primer, dobijamo:
+ Sekvenca 1 = A-CACACTA
+Sekvenca 2 = AGCACAC-A
+</prJedna od motivacija za lokalno svrstavanje je teškoća dobijanja korektnih poravnanja u oblastima male sličnosti između daleko povezanih bioloških serija, zato što su mutacije donele previše 'buke' tokom evolucije kako bi se omogućila smislena poređenja tih oblasti. Lokalno svrstavanje izbegava sve regione zajedno i fokusira se na one sa pozitivnim vrednostima, tj. one sa evolutivno zaštićenim znakom sličnosti. Preduslov negativne usklađenosti je očekivanje negativne vrednosti. Očekivana vrednost je definisana kao prosečna vrednost koju sistem vrednosti  doneti za nasumične nizove.
+Druga motivacija za upotrebu lokalnog svrstavanja je ta da postoji pouzdan statistički model  za optimalna lokalna svrstavanja. Poravnanje nepovezanih delova teži da proizvede optimalno svrstane lokalne vrednosti koje prate distribuciju ekstremnih vrednosti. Ovo svojstvo dozvoljava programu da proizvede očekivanu vrednost za optimalno lokalno svrstavanje dva dela, koje je mera toga koliko će često dva nepovezana dela proizvesti optimalno lokalno poravnanje čija je vrednost veća ili jednaka posmatranoj vrednosti. Veoma malo očekivane vrednosti pokazuju da dva dela iz postavke mogu biti odgovarajuća, što znači da oni moraju biti istog porekla.
+Smit–Vatermanov algoritam je prilično zahtevnog vremena: da svrsta dva niza duzina m i n, potrebno vreme je O klase složenosti. Smit–Vatermanove vrednosti lokalne sličnosti mogu biti izračunate u O  prostorne složenosti samo ako optimlno svrstavanje mora biti pronađeno, ali naivni algoritmi da izvrše sortiranje zahtevaju O prostornu složenost. BLAST i FASTA smanjuju prihod vremena potrebnog za identifikaciju određenih regiona koristeći strategiju brze pretrage, po cenu tačnosti.
+Implementacija Smit-Vatermanovog algoritma, S-PRETRAGA, je dostupna samo u FASTA delu paketa analize. Ova implementacija uključuje Altivec ubrzani kod za PowerPC G4 i Generacije 5 procesora koji ubrzavaju poređenje 10-20 puta, koristeći modifikaciju Wozniak-a, 1997 pristup-a, i SSE2 vektorizaciju razvio Farrar praveći optimalnu bazu podataka proteina prilično praktične pretrage.
+Cray je demonstrirao ubrzanje Smit–Vaterman algoritma koristeći rekonfigurišuću platformu za računanje baziranu na FPGA čipovima, sa rezultatima koji su pokazali do 28 puta veću brzinu u odnosu na standardna, mikroprocesorski bazirana rešenja. Zasnovana na FPGA, verzija Smit–Vaterman algoritma pokazuje FPGA  ubrzanje do 100 puta nad 2.2 GHz Opteron procesorom. TimeLogic DeCypher i CodeQuest sistemi takođe ubrzavaju Smit–Vaterman i Framesearch koristeći PCIe FPGA kartice.
+Nedavno je objavljena teza u istraživanju, Genetičko svrstavanje delova na superračunarskoj platformi od strane odeljenja za Sistemsko Inžinjerstvo na Delft Univerzitetu pokazuje analizu ubrzanja FPGA-zasnovanog Smit–Vaterman algoritma.
+Lawrence Livermore Drzavna Laboratorija i Institut Joint Genome US Energetskog Sektora su implementirali ubrzanu verziju Smit–Vatermana svrstavanja lokalnih delova koristeći grafičke procesorske jedinice  sa preliminarnim rezultatima koji su pokazivali dvostruko ubrzanje u odnosu na softverske implementacije. Sličan metod je već bio implementiran u Biofacet softveru još 1997. godine, sa istim faktorom ubrzanja.
+Nekoliko GPU implementacija algoritma u NVIDIA CUDA C platformi su takođe dostupne. U poređenju sa najboljom poznatom računarskom implementacijom , od strane Farrar-a, testiranje rada ovog rešenja koristi jednu NVidia GeForce 8800 GTX karticu i pokazuje blago povećanje za manje delove, ali blago smanjenje za one koji su veći. Kako god, pokretanje istog testa na dvostrukim NVidia GeForce 8800 GTX karticama su skoro dvostruko brži od Farrar-ove implementacije sa testiranim svim dužinama sekvenci.
+Novija GPU CUDA implementacija Smit–Vatermana je sada dostupna, i brža je od prethodnih verzija i takođe uklanja ograničenja zadata pitanjem dužine.
+Jedanaest različitih implementacija Smit–Vatermana na CUDA su bile prijavljene, tri koje imaju ubrzanja od 30 puta.
+2000. godine, brza implementacija Smit–Vaterman algoritma koja koristi SIMD tehnologiju dostupnu u Intel Pentium MMX procesorima i sličnu tehnologiju bila je opisana u objavi Rognes-a i Seeberg-a. Suprotno od pristupa Wozniak-a , nova implementacija je zasnovana na paralelnim vektorima sa redosledom pitanja, ne dijagonalnih vektora. Kompanija Sencel Bioinformatics je podnela zahtev za proizvod koji pokriva ovaj pristup. Sencel razvija softver dublje i obezbeđuje izvršavanje za akademsku besplatnu upotrebu.
+Danska bioinformatička kompanija "CLC bio" je dostigla ubrzanja čak približno 200 puta iznad standardne softverske implementacije SSE2 na Intel 2.17 GHz Core 2 Duo CPU, prema objavama dostupnim beloj štampi.
+Ubrzana verzija Smit–Vaterman algoritma, na Intel i AMD zasnovanim Linux serverima, je podržana GenCore paketom, ponuđenim od strane Biocceleration. Ispitivanja performanse ovog softverskog paketa pokazuju 10 puta veću brzinu u odnosu na standardne implementacije softvera na istom procesoru.
+Trenutno jedina kompanija u bioinformatici koja nudi oboje, i SSE i FPGA rešenja ubrzanog Smit–Vatermana, CLC bio je postignut ubrzanjima sa vise od 110 nad standardnim softverskim implementacijama kompanije CLC Bioinformatics Cube.
+Najbrža implementacija algoritma na procesorima sa SSSE3 se može naći na SWIPE softveru , koja je dostupna pod GNU Affero General Public Licence. Paralelno, ovaj softver upoređuje ostatke iz šesnaest različitih baza podataka na jednoj sekvenci upita ostatka. Koristeći sekvencu od 375 upita ostataka, brzina od 106 biliona ažuriranih ćelija po sekundi  je postignuta na dualnom Intel Xeon X5650 procesorskom sistemu sa šest jezgara, koji je šest puta brži nego softver baziran na Farrar-ovom 'prugastom' pristupu. Brži je od BLAST-a kada koristi BLOSUM50 matricu.
+2008. godine, Farrar je opisao port Striped Smit–Vaterman na Ćeliji Sirokopojasnog Motora i prijavio brzine od 32 i 12 GCUPS na IBM QS20 blade i Sony PlayStation 3, respektivno.

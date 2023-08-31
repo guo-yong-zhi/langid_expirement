@@ -1,0 +1,2 @@
+Pontosságellenőrzött
+A 8D módszer egy problémafelvető, -elemző, fejlesztő módszer, amelyet a Fordnál fejlesztettek ki. Elsősorban a gyártási minőségbiztosítás területén alkalmazzák.

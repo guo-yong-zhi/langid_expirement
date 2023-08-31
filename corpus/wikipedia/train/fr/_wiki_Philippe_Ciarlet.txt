@@ -1,0 +1,37 @@
+Pour les articles homonymes, voir Ciarlet.
+modifier - modifier le code - modifier WikidataPhilippe Ciarlet, né en 1938 à Paris, est un mathématicien français. Il est connu pour son travail sur l'analyse numérique de la méthode des éléments finis, l'élasticité non linéaire, la théorie des plaques et des coques, la géométrie différentielle appliquée.
+Philippe Ciarlet est un ancien élève de l'École polytechnique et de l'École des ponts et chaussées. Il a soutenu son doctorat à l'université Case Institute of technology de Cleveland en 1966 sous la direction de Richard S.Varga. Il est également docteur en sciences mathématiques de la faculté des sciences de Paris .
+Il a dirigé le département de mathématique du Laboratoire central des Ponts et Chaussées  et a été maître de conférences à l'École polytechnique , professeur à l'École nationale des ponts et chaussées , consultant à l'INRIA . De 1974 à 2002, il a été professeur à l'université Pierre et Marie Curie où il a dirigé le laboratoire d'analyse numérique. de 1981 à 1992.
+Il est professeur émérite à cette université, professeur à la City University of Hong Kong,, membre de l'Académie des technologies en 1989, membre de l'Académie des sciences depuis 1991 , membre de l'Académie des sciences de l'Inde en 2001, membre de l'Académie européenne des sciences en 2003, membre de l'Académie mondiale des sciences en 2007, membre de l'Académie des sciences chinoises en 2009, membre de la Société mathématique américaine depuis 2012, et membre de l'Académie des sciences de Honh-Kong en 2015..
+Analyse numérique des méthodes de différences finies et des méthodes générales d'approximation variationnelle : Dans ses thèses de doctorat et ses premières publications, Philippe Ciarlet a apporté des contributions novatrices à l'approximation numérique par des méthodes variationnelles de problèmes aux limites non linéaires de type monotone, et il a introduit les notions de fonctions de Green discrètes et de principe du maximum discret,, qui se sont avérées depuis être fondamentales en analyse numérique.
+Théorie de l'interpolation : Philippe Ciarlet a apporté des contributions novatrices, maintenant devenues “classiques” à la théorie de l'interpolation de Lagrange et de Hermite dans 
+  
+    
+      
+        
+          
+            R
+          
+          
+            n
+          
+        
+      
+    
+     ^
+  
+, notamment par l'introduction de la notion de formules de Taylor multipoints. Cette théorie joue un rôle fondamental dans l'établissement de la convergence des méthodes d’éléments finis.
+Analyse numérique de la méthode des éléments finis : Philippe Ciarlet est très connu pour avoir apporté des contributions fondamentales dans ce domaine, concernant notamment l'analyse de convergence, le principe du maximum discret, la convergence uniforme, l'analyse des éléments finis courbes, l'intégration numérique, les macroéléments non conformes pour les problèmes de plaques, une méthode mixte pour l'équation biharmonique en mécanique des fluides, et les méthodes des éléments finis pour les problèmes de coques. Ses contributions et celles de ses collaborateurs se trouvent dans son livre très connu.
+Modélisation des plaques par des techniques d'analyse asymptotique et de perturbations singulières : Philippe Ciarlet est également bien connu pour son rôle de premier plan dans la justification de modèles bidimensionnels de plaques élastiques linéaires et non linéaires à partir de l'élasticité tridimensionnelle ; en particulier, il a établi la convergence dans le cas linéaire,, et justifié les modèles non linéaires bidimensionnels, notamment les équations de von Kármán et de Marguerre-von Karman, par la méthode des développements asymptotiques.
+Modélisation, analyse mathématique et simulation numérique de "multi-structures élastiques" comprenant des jonctions : C'est un autre domaine entièrement nouveau que Philippe Ciarlet a créé et développé, en établissant la convergence de la solution tridimensionnelle vers celle d'un modèle "pluridimensionnel" dans le cas linéaire, en justifiant les conditions limites d’encastrement d'une plaque,.
+Modélisation et analyse mathématique de coques “générales” : Philippe Ciarlet a établi les premiers théorèmes d'existence pour les modèles de coques linéaires bidimensionnels, tels que ceux de W.T. Koiter et P.M. Naghdi, et a justifié les équations des coques "en flexion" et "membranaires",, ; il a également établi la première justification rigoureuse des équations linéaires bidimensionnelles  coques "peu profondes" et des coques de W.T. Koiter, en utilisant les techniques d'analyse asymptotique ; il a également obtenu une nouvelle théorie de l'existence pour les équations non linéaires des coques.
+Élasticité non linéaire : Philippe Ciarlet a proposé une nouvelle fonction d'énergie qui est polyconvexe , et qui s'est avérée très efficace, car elle est "ajustable" à tout matériau élastique isotrope donné ; il a également apporté des contributions importantes et novatrices à la modélisation du contact et de la non-interpénétration en élasticité tri-dimensionnelle non linéaire. Il a aussi proposé et justifié un nouveau modèle nonlinéaire du type de Koiter pour les coques non linéairement élastiques.
+Inégalités non linéaires de Korn sur une surface : Philippe Ciarlet a donné plusieurs nouvelles preuves du théorème fondamental de la théorie des surfaces, concernant la reconstruction d'une surface d’après ses première et deuxième formes fondamentales. Il a été le premier à montrer qu'une surface varie continuellement en fonction de ses deux formes fondamentales, pour différentes topologies, notamment par l'introduction d'une nouvelle idée, celle des inégalités non linéaires de Korn sur une surface, autre notion qu'il a essentiellement créée et largement développée avec ses collaborateurs.
+Analyse fonctionnelle : Philippe Ciarlet a établi des formes faibles du lemme de Poincaré et des conditions de compatibilité de Saint Venant, dans les espaces de Sobolev avec des exposants négatifs ; il a établi qu'il existe des relations profondes entre le lemme de Jacques-Louis Lions, l’inégalité de Nečas, le théorème de de Rham, et le théorème de Bogovskii, qui fournissent de nouvelles méthodes pour établir ces résultats.
+Méthodes intrinsèques en élasticité linéarisée : Philippe Ciarlet a développé un nouveau domaine, celui de la justification mathématique des méthodes "intrinsèques" en élasticité linéarisée, où le tenseur métrique linéarisé et le tenseur linéarisé  de changement de courbure sont les nouvelles, et seules, inconnues : Cette approche, que ce soit pour l'élasticité tridimensionnelle ou pour les théories des plaques et des coques, nécessite une théorie entièrement nouvelle, basée principalement sur les conditions de compatibilité de Saint-Venant et de Donati dans les espaces Sobolev.
+Méthodes intrinsèques en élasticité non linéaire : Philippe Ciarlet a développé un nouveau domaine, celui de la justification mathématique des méthodes "intrinsèques" en élasticité non linéaire. Cette approche permet d’obtenir de nouveaux théorèmes d'existence en élasticité non linéaire tridimensionnelle.
+Ouvrages d’enseignement et de recherche: Philippe Ciarlet  a écrit plusieurs livres d’enseignement qui sont maintenant des “classiques”,,,, ainsi que plusieurs livres de recherche “de référence”,,,.
+Ordre national de la Légion d'honneur de France :
+Membre ou Membre étranger des Académies suivantes :
+Prix
+Distinctions universitaires

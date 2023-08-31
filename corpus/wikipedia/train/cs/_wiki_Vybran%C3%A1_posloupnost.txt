@@ -1,0 +1,160 @@
+Vybraná posloupnost je v matematice posloupnost, kterou lze odvodit z jiné posloupnosti vypuštěním některých prvků bez změny pořadí zbývajících prvků. Například posloupnost 
+  
+    
+      
+         
+        A
+        ,
+        B
+        ,
+        D
+         
+      
+    
+    
+  
+ je vybranou posloupností z 
+  
+    
+      
+         
+        A
+        ,
+        B
+        ,
+        C
+        ,
+        D
+        ,
+        E
+        ,
+        F
+         
+        ,
+      
+    
+    
+  
+ která byla získána odstraněním prvků 
+  
+    
+      
+        C
+      
+    
+    
+  
+, 
+  
+    
+      
+        E
+      
+    
+    
+  
+, a 
+  
+    
+      
+        F
+      
+    
+    
+  
+. Relace mezi vybranou posloupností a původní posloupností je kvaziuspořádání.
+Vybrané posloupnosti mohou obsahovat po sobě jdoucí prvky, které v původní posloupnosti po sobě nešly. Vybranou posloupnost, která sestává z takových prvků původní posloupnosti, které šly po sobě, jako například 
+  
+    
+      
+         
+        B
+        ,
+        C
+        ,
+        D
+         
+      
+    
+    
+  
+ z 
+  
+    
+      
+         
+        A
+        ,
+        B
+        ,
+        C
+        ,
+        D
+        ,
+        E
+        ,
+        F
+         
+      
+    
+    
+  
+, nazýváme podřetězec. Podřetězec je speciálním případem vybrané posloupnosti.
+Všechny vybrané posloupnosti ze slova „apple“ jsou „a“, „ap“, „al“, „ae“, „app“, „apl“, „ape“, „ale“, „appl“, „appe“, „aple“, „apple“, „p“, „pp“, „pl“, „pe“, „ppl“, „ppe“, „ple“, „pple“, „l“, „le“, „e“, „“ .
+Jsou-li dány dvě posloupnosti X a Y, pak se posloupnost Z nazývá společná vybraná posloupnost z X a Y, pokud Z je vybranou posloupností z X i Y. Pokud například
+pak 
+  
+    
+      
+        Z
+      
+    
+    
+  
+ se nazývá společná vybraná posloupnost z X a Y.
+Nejde o nejdelší společnou podposloupnost, protože Z má délku pouze 3, a společná vybraná posloupnost 
+  
+    
+      
+         
+        B
+        ,
+        E
+        ,
+        E
+        ,
+        B
+         
+      
+    
+    
+  
+ má délku 4. Nejdelší společná vybraná posloupnost z X a Y je 
+  
+    
+      
+         
+        B
+        ,
+        E
+        ,
+        G
+        ,
+        C
+        ,
+        E
+        ,
+        B
+         
+      
+    
+    
+  
+.
+Vybrané posloupnosti se využívají v matematické informatice, 1  zvláště v oboru bioinformatiky, kde se používají počítače pro porovnávání, analýzu, a uchovávání sekvencí DNA, RNA, a bílkovin.
+Uvažujme následující dvě posloupnosti DNA obsahující 37 prvků:
+Nejdelší společná vybraná posloupnost posloupností 1 a 2 je:
+To lze ilustrovat zvýrazněním 27 prvků nejdelší společné vybrané posloupnosti do počáteční posloupnosti:
+Jiným způsobem znázornění je zarovnání prvků nejdelší společné vybrané posloupnosti nad sebou :
+Vybrané posloupnosti se používají pro určení, jak podobná jsou dvě vlákna DNA co do posloupnosti DNA bází .
+V tomto článku byl použit překlad textu z článku Subsequence na anglické Wikipedii. Tento článek obsahuje materiál ze stránky Subsequence na PlanetMath, jejíž licence umožňuje dále šířit publikované texty.

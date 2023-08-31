@@ -1,0 +1,3 @@
+Jen la listo de la asteroidoj kun numeroj 10 001 al 11 000.
+La asteroidoj ricevas numeron nur kiam ilia orbito estas konfirmita; tio, kio povas okazi tre longtempe post ilia malkovro. La numera ordo tute ne kongruas kun la dato de la malkovro.
+Krom numeron, multe da asteroidoj  ricevas nomon. Iuj povas ricevi nomon longtempe post esti numerotita.

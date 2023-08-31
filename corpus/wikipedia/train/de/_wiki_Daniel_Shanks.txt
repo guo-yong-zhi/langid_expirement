@@ -1,0 +1,30 @@
+Daniel Shanks  war ein US-amerikanischer Mathematiker, der sich vor allem mit Zahlentheorie und numerischer Mathematik beschäftigte.
+Shanks studierte zunächst Physik an der University of Chicago . Danach arbeitete er 1940 auf dem Aberdeen Proving Ground der US-Army  und ab 1941 im Naval Ordnance Laboratory der US-Navy als Physiker und ab 1950 als Mathematiker. 1951 bis 1957 leitete er dort die Numerical Analysis Section . Er wurde 1954 an der University of Maryland in Mathematik promoviert. Die Dissertation 1  hatte er schon 1949 fertiggestellt, und sie wurde auch aufgrund ihrer Qualität akzeptiert, die Universität bestand aber auf weiteren formalen Qualifikationen einer universitären Mathematikausbildung, die ihm bis dahin völlig abgingen. Ab 1957 arbeitete er am Naval Ship Research and Development Center beim David Taylor Model Basin in Bethesda  als Berater und Senior Research Scientist. 1976 ging er, nachdem seine Forschungsgelder erheblich reduziert wurden, in den Ruhestand und wurde nach einem Jahr beim National Bureau of Standards Adjunct Professor an der University of Maryland.
+In seiner Dissertation führte er die Shanks-Transformation zur Konvergenzbeschleunigung ein. Mit John William Wrench, Jr. berechnete er 
+  
+    
+      
+         
+      
+    
+    
+  
+ auf 100.000 Stellen 2 . Er studierte auch Primzahlen der Form 
+  
+    
+      
+        
+          n
+          
+            2
+          
+        
+        +
+        1
+      
+    
+    +1}
+  
+, wofür er schon einen Vorläufer des später als Quadratisches Sieb  bekannten Algorithmus entwickelte. 3  Weiter entwickelte er Methoden zur Berechnung der Klassenzahl quadratischer Zahlkörper. Am bekanntesten ist er als Autor eines Buches über Probleme in der elementaren Zahlentheorie  und als Entdecker einer Anzahl zahlentheoretischer Algorithmen wie der Baby Step-Giant Step-Methode zur Berechnung des diskreten Logarithmus oder seine Faktorisierungsmethode mit quadratischen Formen , die er allerdings nie veröffentlichte. Einige seiner Verfahren werden vielfach in der Kryptographie verwendet, durch die das Forschungsgebiet noch zu Shanks' Lebzeiten einen enormen Aufschwung erhielt.
+Er war von 1959 bis zu seinem Tod Mitherausgeber der Zeitschrift Mathematics of Computation  von einem Komitee des National Research Council der National Academy of Sciences der USA gegründet und anfänglich von Raymond Clare Archibald geführt).
+1962 hielt er einen Vortrag auf dem Internationalen Mathematikerkongress in Stockholm .

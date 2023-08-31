@@ -1,0 +1,16 @@
+PSK31 aŭ angle Phase Shift Keying 31 Baud estas moduladspeco por diĝita radiokomunikado, transsendo de tekstoj. Ĝi estas uzata precipe je mallongaj ondoj de radioamatoroj kaj de ŝipoj.
+La sistemo estis evoluita de la brita radioamatoro Peter Martinez . Martinez nomis ĝin unue „Varicode“, ĉar ĝi kodigis la signojn kun varie longaj kodoj. Ofte okazantaj signoj havas mallongajn kodojn, malpli oftaj havas pli longajn, simile kiel en la morsa kodo. Tio ebligas ŝparadon de tempo kaj frekvencspaco. Kanal-larĝeco de PSK-signalo estas tre malgranda, nur 31,25 Hz, bonega por malalta sendpovumo kaj plene okupitaj bendoj. Voĉa sendado okupas bendon de ĉ. 3 kHz, do 100 foje pli.
+Ricevado kaj sendado funkcias per kutima amatora sendricevilo. Por modulado kaj demodulado oni nun uzas softvaron kaj kutiman sonkarton de komputilo. Tiel kun tre malaltaj kostoj oni ricevas tre robustan sistemon. La ricevitaj signaloj estas konektitaj al la komputilo. Inverse oni entajpas tekston en la komputilon, kiu transdonas ĝin al la sendricevilo. Softvaro estas pleje elŝutebla senkoste. Vidu sube.
+Oni agordas la ricevilon malprecize al PSK-frekvencbendo, vidu sube. Sur la ekrano oni vidas signalojn kiel en bildo 1 aŭ 2. Pro la falante aperantaj signaloj la bildo estas nomita "akvofalo". Oni agordas la kursoron sur unu de la signaloj kaj povas nun legi la koncernan tekston. Pli moderna softvaro montras la tekstojn de pli ol dek kanaloj samtempe. Per simpla alklako oni povas elekti kaj agordi interesan signalon.
+La bildo montras plurajn tekstojn, kiuj moviĝas dekstren sur la ekrano.
+Klarigoj. Antaŭe estas la numeroj de la linioj
+Se oni volas respondi al la ĝenerala alvoko de EA5FIF, oni alklakas tiun linion. En dialoga ekrano nun aperas nur lia teksto kaj sub tio vi povas enmeti vian propran tekston.
+Kiel ĉiuj moduladspecoj ankaŭ PSK  povas esti uzata en la konkurso de ILERA.
+Speciale por Esperanto:  La ricevanta stacio enmetu Esperanto kiel serĉvorto. Vokantaj stacioj voku uzante la vorton Esperanto. Ĉe la ricevanto inter la pli ol dek tekstoj samtempaj nun Esperanto aperos markita per ruĝa koloro. Deziro al la programistoj estus, havi aldone enŝalteblan laŭtan voksonon, similan al tiu en skajpo.
+En la programo fldigi vi trovas tiun eron en la "PSK Browser" maldekstre supre en kesto "Find"
+Ĉar la bendolarĝeco de la PSK-signalo nur estas 31 Hz, jam tre malalta povumo povas superi la bruon sur la bendo. Jen raporto pri eksterordinara kontakto:
+Sekvas traduko el la germana magazino CQ-DL okt. 2016:
+Jürgen Schäfer, DL7PE, sukcesis fari kontakton kun Japanio je 14,070 MHz, 2016-08-22, malgraŭ amasiĝo  je tiu frekvenco, en BPSK31. La speciala afero: DL7PE uzis nur ekstreme mallongan antenon, t.n. Microvert, 50cm longan! Post tri alvokoj JA8AHA legis lin kaj respondis. Distanco estis 8832km.
+RTTY  , AMTOR, PACTOR, SSTV , Hellschreiber.
+PSK estas permesita nur en la "diĝita zono" de ĉiu amatora bendo. La sekvantaj frekvencoj estas la komencaj frekvencoj de la diĝitaj bendoj. Entute bendo de 500 Hz povas esti uzata. En tiuj 500 Hz pli ol dek PSK-kontaktoj eblas samtempe. Tamen unu PSK-kanalo nur okupas ĉ. 16% de unu fonia kanalo.
+Specialaj PSK31-frekvencoj:
