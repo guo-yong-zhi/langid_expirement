@@ -1,0 +1,38 @@
+### 2000 ### [2023-08-31_16-21-25]
+2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Caldogno.txt ✓
+!+ 1994. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Iri_(tasnudert).txt ✓
+1995. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Arrif.txt ✓
+!+ 1996. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Ilel_Aberkan.txt ✓
+!+ 1997. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Jean-Marie_Bigard.txt ✓
+!+ 1998. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Tinliwin.txt ✓
+!+ 1999. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Abalessa.txt ✓
+!+ 2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Amafag_n_Lezzayer.txt ✓
+2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_Odoaker.txt ✓
+1996. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%96%D7%90%D_9f167_9C%D7%A7%D7%99%D7%9F.txt ✓
+1997. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_26%D7%A1%D7%98%D7%9F_%D7%9E%D7%99%D7%99.txt ✓
+!+ 1998. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%95%27_%D7%90%D7%9C%D7%A4%D7%99%D7%9D.txt ✓
+1999. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A7%D7%99%D7%A0%D7%99%D7%92%D7%9C.txt ✓
+!+ 2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%99%D_c3d2d_0%D7%98%D7%95%D7%9D).txt ✓
+### 2000 ### [2023-08-31_16-24-03]
+!+ 1995. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Izifu.txt ✓
+1996. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_I%E1%B9%9Ban.txt ✓
+1997. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_%E1%B9%ACehran_Taymz.txt ✓
+1998. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Bu%C7%A7ima.txt ✓
+!+ 1999. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Toulon.txt ✓
+2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_16_du%C7%A7ember.txt ✓
+1999. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%AA%D7%A9%D_16a6a_4_%D7%91%D7%90%D7%91.txt ✓
+2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%D7%95%D_4211f_9B%D7%A1%D7%9C%D7%95.txt ✓
+### 2000 ### [2023-08-31_16-25-30]
+1999. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_At_Yenni_(l%C9%9Berc).txt ✓
+!+ 2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Clara_Schumann.txt ✓
+### 2000 ### [2023-08-31_16-25-52]
+!+ 2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Ibaburen.txt ✓
+### 2000 ### [2023-08-31_16-26-04]
+!+ 2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Izlan.txt ✓
+### 2000 ### [2023-08-31_16-26-15]
+!+ 2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Paris_(Fransa).txt ✓
+### 2000 ### [2023-08-31_16-26-26]
+2000. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Alma.txt ✓
+### 2000 ### [2023-08-31_16-26-38]
+### 2000 ### [2023-08-31_16-26-38]
+### 2000 ### [2023-08-31_16-26-38]

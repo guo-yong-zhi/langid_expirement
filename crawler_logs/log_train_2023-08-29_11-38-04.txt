@@ -1,0 +1,608 @@
+### 50 ### [2023-08-29_11-38-05]
+### 100 ### [2023-08-29_11-38-05]
+### 150 ### [2023-08-29_11-38-05]
+### 200 ### [2023-08-29_11-38-06]
+### 250 ### [2023-08-29_11-38-06]
+### 300 ### [2023-08-29_11-38-06]
+### 350 ### [2023-08-29_11-38-06]
+### 400 ### [2023-08-29_11-38-06]
+### 450 ### [2023-08-29_11-38-06]
+### 500 ### [2023-08-29_11-38-06]
+### 550 ### [2023-08-29_11-38-06]
+### 600 ### [2023-08-29_11-38-06]
+### 650 ### [2023-08-29_11-38-06]
+### 700 ### [2023-08-29_11-38-06]
+### 750 ### [2023-08-29_11-38-07]
+### 800 ### [2023-08-29_11-38-07]
+### 850 ### [2023-08-29_11-38-07]
+### 900 ### [2023-08-29_11-38-07]
+### 950 ### [2023-08-29_11-38-07]
+### 1000 ### [2023-08-29_11-38-07]
+### 1050 ### [2023-08-29_11-38-07]
+### 1100 ### [2023-08-29_11-38-07]
+### 1150 ### [2023-08-29_11-38-07]
+### 1200 ### [2023-08-29_11-38-07]
+### 1250 ### [2023-08-29_11-38-07]
+### 1300 ### [2023-08-29_11-38-07]
+### 1350 ### [2023-08-29_11-38-07]
+### 1400 ### [2023-08-29_11-38-08]
+### 1450 ### [2023-08-29_11-38-08]
+### 1500 ### [2023-08-29_11-38-08]
+### 1550 ### [2023-08-29_11-38-08]
+### 1600 ### [2023-08-29_11-38-08]
+### 1650 ### [2023-08-29_11-38-08]
+### 1700 ### [2023-08-29_11-38-08]
+!+ 1681. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9E%D7%99%D_1016e_95%D7%99%D7%9C%D7%A3.txt ✓
+1682. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_1503.txt ✓
+1683. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%95%D7%95%D7%A0%D7%98.txt ✓
+!+ 1684. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%27%D7%AA%D7%A7%D7%9B%22%D7%90.txt ✓
+1685. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A9%D7%99%D7%A7%D7%90%D7%92%D7%90.txt ✓
+1686. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%9C%D_e0ef0_A6%D7%9E%D7%90%D7%9F.txt ✓
+!+ 1687. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%A4%D_93652_A9%D7%90%D7%A4%D7%98.txt ✓
+!+ 1688. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%D7%95%D_36d7c_90%D7%9C%D7%95%D7%9C.txt ✓
+1689. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A1%D7%A8%D_1cc81_90%D7%A0%D7%A7%D7%90.txt ✓
+1690. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9E%D7%A2%D_9e057_A4%D7%9E%D7%90%D7%9F.txt ✓
+1691. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9B%22%D7%91_%D7%90%D7%9C%D7%95%D7%9C.txt ✓
+1692. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%97%D7%99%D7%A0%D7%95%D7%9A.txt ✓
+1693. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%A4%D_906ed_93%D7%95%D7%95%D7%90.txt ✓
+1694. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9C%D7%95%D_32a3d_90%D7%A6%D7%99%D7%A2.txt ✓
+1695. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%99%D_1bb24_93%D7%A2%D7%94%D7%90.txt ✓
+1696. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%27%D7%AA%D7%A7%22%D7%9C.txt ✓
+1697. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%96%D7%A2%D_3e1f6_98%D7%90%D7%A7%D7%A2.txt ✓
+1698. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%9C%D_65a1a_91%D7%95%D7%99%D7%9D.txt ✓
+1699. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%A8%D_79275_A2%D7%A0%D7%99%D7%A9.txt ✓
+1700. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%A8%D_8e80e_A0%D7%93%D7%A2%D7%A8.txt ✓
+### 1750 ### [2023-08-29_11-41-59]
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_1153.txt (##empty##)
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B8%E0%A_f2d97_8B%E0%A6%B9%E0%A6%A8.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A1%D0%B0%D_90bf0_3%D0%B8%D0%BE%D0%BD).txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_European_BEST_Engineering_Competition.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/da/_wiki_Busenwurth.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/el/_wiki_%CE%93%CE%B5%C_1b4da_8E%CF%84%CE%B7%CF%82.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/fi/_wiki_Virtua_Racing.txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ha/_wiki_Toni_Morrison.txt ✓
+1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ha/_wiki_Harshen_Lamang.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ha/_wiki_Lawan_Gwadabe.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ha/_wiki_Kisan_kai.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ha/_wiki_Dakoa_Newman.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/he/_wiki_%D7%99%D7%95%D_633a8_97%D7%9B%D7%9E%D7%99.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/he/_wiki_%D7%AA%D7%97%D_f45aa_A8%D7%99%D7%91%D7%99.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/he/_wiki_%D7%91%D7%90%D7%9C%D7%90%D7%96%27%D7%95.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/hu/_wiki_A_Down-szindr%_d93cf__fejl%C5%91d%C3%A9se.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/io/_wiki_Backus,_Minnesota.txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/io/_wiki_1328.txt ✓
+!+ 1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/io/_wiki_598.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/io/_wiki_Papo_Sixtus_la_4ma.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/io/_wiki_Bura.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/io/_wiki_Rasy.txt ✓
+!+ 1742. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Deconstruction.txt ✓
+1743. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Gwyneth_Paltrow.txt ✓
+1744. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Selva_di_Val_Gardena.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Roccacasale.txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Fresno_de_Sayago.txt ✓
+!+ 1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Oaxaca.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Ciconio.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Yo-yo.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ia/_wiki_Serrata.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/is/_wiki_Gulspor%C3%B0ur.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/it/_wiki_La_guerra_del_sale.txt ✓
+!+ 1719. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Tadayra_n_Ceccar.txt ✓
+1720. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Tadayra_n_L%E1%B8%A5errac.txt ✓
+!+ 1721. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Ajbabuc.txt ✓
+1722. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Tawilayt_n_Tihert.txt ✓
+!+ 1723. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Tadayra_n_Qnadsa.txt ✓
+!+ 1724. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Adgir.txt ✓
+1725. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Taycukt.txt ✓
+!+ 1726. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Kopenhagen.txt ✓
+!+ 1727. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Fad.txt ✓
+!+ 1728. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Ne%C9%9Bna%C9%9B.txt ✓
+1729. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_3_du%C7%A7ember.txt ✓
+!+ 1730. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Lhamel.txt ✓
+1731. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Ticidiyin.txt ✓
+!+ 1732. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Anattar.txt ✓
+1733. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Tuzart.txt ✓
+1734. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Avril_Lavigne.txt ✓
+!+ 1735. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Talmest_ur_tettwaggez.txt ✓
+!+ 1736. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_12_%C9%A3uct.txt ✓
+1737. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Irzi.txt ✓
+!+ 1738. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Ahaggar.txt ✓
+1739. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Tiza%C9%A3win.txt ✓
+1740. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_At_Cafa%C9%9B.txt ✓
+1741. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Zin_L%C9%9Babidin_Ben_%C6%90li.txt ✓
+1742. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Mein_kampf.txt (##empty##)
+1743. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Kaway.txt ✓
+1744. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Volodymyr_Zelensky.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Bloemfontein.txt ✓
+!+ 1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Rawad.txt ✓
+!+ 1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_17_ctember.txt ✓
+!+ 1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Tadayra_n_Lma_Lebye%E1%B8%8D.txt ✓
+!+ 1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_Sidi_Bayzid.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/kab/_wiki_30_yebrir.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ckb/_wiki_%D9%A1%D9%A3%D_08d08_5%D8%A7%D8%B1%DB%95).txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ckb/_wiki_%D9%BE%D8%A7%D_6c9d3_8C%DB%86%D9%86%DA%AF.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ckb/_wiki_%D8%A8%DA%95%D_7b1e9_B3%D8%A7%DB%8C%D8%B4.txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/mr/_wiki_%E0%A4%A8%E0%A_5478c_2%E0%A4%A6%E0%A4%B0).txt ✓
+!+ 1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/mr/_wiki_%E0%A4%B6%E0%A_73ee1_87%E0%A4%B9%E0%A4%B0.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/mr/_wiki_%E0%A4%97%E0%A_6d597_B8%E0%A4%82%E0%A4%98.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/mr/_wiki_%E0%A4%A8%E0%A_32782_AA%E0%A4%AF%E0%A4%BE.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/mr/_wiki_%E0%A4%86%E0%A_f359e_AF%E0%A4%BE%E0%A4%95.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/mk/_wiki_%D0%9C%D0%B8%D_736f6_BE%D1%81%D0%BA%D0%B8.txt ✓
+1742. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_R%C3%ADo_Sulaco.txt ✓
+1743. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_Caadwisch.txt ✓
+1744. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_Sylvestre_Romero_Palma.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_(443)_Photographica.txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_Hongkong.txt ✓
+1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_Indslev_Sogn.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_Han_S%C5%8Fr-ya.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_Bremerhoben.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/nds/_wiki_Ant%C3%B3nio_Guterres.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/pt/_wiki_Rosa_multiflora.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ro/_wiki_Menoni%C8%9Bi.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/sk/_wiki_West_Coast_Express.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/es/_wiki_Rivetina_inermis_inermis.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tt/_wiki_%D0%A2%D0%B0%D_7b232_BA%D0%B0%D1%81%D1%8B.txt ✓
+1744. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tl/_wiki_Dawn_Zulueta.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tl/_wiki_Napata.txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tl/_wiki_Rinso.txt ✓
+1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tl/_wiki_Wii.txt ✓
+!+ 1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tl/_wiki_Quetzalcoatlus.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tl/_wiki_Bellino.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tl/_wiki_Aaron_Agassi.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/tr/_wiki_Amidal%C4%B1_Acacius.txt ✓
+1721. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%92%D1%96%D_246c2_B0%D1%82%D1%83%D1%82.txt ✓
+1722. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%A1%D0%B5%D_0149a_D%D0%B7%D0%B0%D1%81).txt ✓
+1723. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%93%D0%B0%D_91e20_BE%D0%B2%D0%B8%D1%87.txt ✓
+1724. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%9D%D0%BE%D_b8358_0%D0%B9%D0%BE%D0%BD).txt ✓
+1725. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%A1%D0%B0%D_f2cf0_BD%D1%87%D0%B5%D1%81.txt ✓
+1726. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%95%D1%80%D_c5319_BF%D0%B5%D1%80%D1%82.txt ✓
+1727. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%96%D1%83%D_cdf1b_0%D0%B9%D0%BE%D0%BD).txt ✓
+1728. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_468_%D0%9B%D1%96%D0%BD%D0%B0.txt ✓
+1729. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%90%D1%81%D_5dc65_B5%D1%80%D1%96%D1%97.txt ✓
+1730. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%A0%D1%96%D_3da5d_BA%D0%BA%D0%B5%D1%80.txt ✓
+1731. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%A4%D1%96%D_ebd75_B0%D0%BD%D0%BD%D1%8F.txt ✓
+1732. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_Quercus_litseoides.txt ✓
+1733. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%95%D0%B4%D_e49fa_BC%D0%B0%D0%BD%D0%BD.txt ✓
+1734. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%A0%D0%B5%D_72a8b_B5%D0%B9%D1%80%D1%83.txt ✓
+1735. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%84%D0%BA%D_04f75_BE%D0%B2%D0%B8%D1%87.txt ✓
+1736. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%90%D0%BA%D_a99a6_BB%D0%B5%D0%B2%D0%BE.txt ✓
+1737. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%91%D0%B0%D_32c46_0%D0%B5%D1%81%D1%83).txt ✓
+1738. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%9C%D0%BE%D_56824_2%D1%80%D1%96%D1%8F).txt ✓
+1739. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%94%D0%BE%D_6b2ca_E%D0%B2%D1%96%D1%82).txt ✓
+1740. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%9B%D1%83%D_746c2_96%D0%B2%D0%BD%D0%B0.txt ✓
+1741. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%86%D0%B2%D_51892_B0%D1%80%D0%B8%D0%B9.txt ✓
+1742. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%86%D1%81%D_c9bb9_88%D0%BD%D1%96%D1%80.txt ✓
+1743. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%93%D0%B5%D_eb3bb_BA%D0%B2%D1%96%D1%80.txt ✓
+1744. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%9F%D1%80%D_a7e79_96%D0%B0%D0%BB%D1%96.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%84%D1%80%D_ce650_E%D1%81%D1%96%D1%8F).txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%9A%D0%BE%D_85e29_85%D0%B8%D0%BB%D0%B8.txt ✓
+1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_HNRNPA1L2.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%AF%D0%BD%D_3e303_8C%D0%BA%D0%B8%D0%B9.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_Glechon.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/uk/_wiki_%D0%A0%D0%BE%D_75c8f_2_%D0%91%D0%BE%D1%88.txt ✓
+1701. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_1117.txt ✓
+1702. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Nilus.txt ✓
+1703. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Surajkaradi.txt ✓
+1704. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Tulbaghia_capensis.txt ✓
+1705. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Lycocerus_babai.txt ✓
+1706. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Casimiro_de_Abreu,_Rio_de_Janeiro.txt ✓
+1707. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Peter,_Paul_and_Mary.txt ✓
+1708. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Rosulabryum_queenslandicum.txt ✓
+1709. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Lobelia_solaris.txt ✓
+1710. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Qu%E1%BB%91c_huy_B%C3%A9nin.txt ✓
+1711. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Paranal.txt ✓
+1712. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Eremophila_micrantha.txt ✓
+1713. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Ninh_S%E1%BB%9F.txt ✓
+1714. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Pont-%C3%A0-Mousson.txt ✓
+1715. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Ketchenerovsky_(huy%E1%BB%87n).txt ✓
+1716. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Haralahalli,_Haveri.txt ✓
+1717. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_V%E1%BB%8Bt_Labrador.txt ✓
+1718. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Gi%E1%BA%A3i_v_8e2bb_%C3%B4ng_%C3%81_2017.txt ✓
+1719. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Quassia_salubris.txt ✓
+1720. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_G%C3%BCndo%C4%9Fan,_Hendek.txt ✓
+1721. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Santa_Cruz_de_Pinares.txt ✓
+1722. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Microclin.txt ✓
+1723. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Talensac.txt ✓
+1724. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Cnidoscolus_tepiquensis.txt ✓
+1725. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Xysticus_periscelis.txt ✓
+1726. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Takanl%C4%B1,_Mezitli.txt ✓
+1727. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Oxytropis_foucaudii.txt ✓
+1728. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Laccodytes_apalodes.txt ✓
+1729. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Esendere,_Pasinler.txt ✓
+1730. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Exetastes_caliginosus.txt ✓
+1731. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Anyphaena_cielo.txt ✓
+1732. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Euxoa_holoberba.txt ✓
+1733. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Parietaria_praetermissa.txt ✓
+1734. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Nh%E1%BB%AFng__2782a__g%E1%BA%A7n_Dikanka.txt ✓
+1735. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Astrotricha_floccosa.txt ✓
+1736. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Ph%E1%BB%A9c_h%E1%BB%A3p_SCF.txt ✓
+1737. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Birkenbeul.txt ✓
+1738. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Armillaria_hinnulea.txt ✓
+1739. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Belgaum_(huy%E1%BB%87n).txt ✓
+1740. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Thelypteris_lobata.txt ✓
+1741. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Gmina_Krzanowice.txt ✓
+1742. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Sematophyllum_nebulosum.txt ✓
+1743. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_S%C3%A2n_v%E1%_83c59_99ng_Thomas_Robinson.txt ✓
+1744. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Neotamias_amoenus.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Crotaphytus_bicinctores.txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_ATX_Open_2023.txt ✓
+1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Suntory_PepsiCo_Vi%E1%BB%87t_Nam.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Bryum_haematophyllum.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Qu%E1%BA%ADn_Polk,_Oregon.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/vi/_wiki_Kandel.txt ✓
+!+ 1697. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%92%D7%9C_%D7%A4%D7%96.txt ✓
+!+ 1698. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%95%D7%95%D_12f4e_A0%D7%A6%D7%99%D7%A2.txt ✓
+1699. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%97%D7%9C%D7%95%D7%A6%D7%99%D7%9D.txt ✓
+!+ 1700. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A9%D7%9C%D_9fa81_95%D7%99%D7%98%D7%A9.txt ✓
+!+ 1701. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%A9%D_17e12_91%D7%99%D7%AA%D7%9A.txt ✓
+1702. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%91%D7%90%D_d00be_A1%D7%A7%D7%99%D7%9F.txt ✓
+!+ 1703. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A7%D7%A8%D_bb837_8_%D7%93%D7%90%D7%93.txt ✓
+1704. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%99%D7%99%D7%96%D7%9C.txt ✓
+1705. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%99%D7%A9%D_41baa_A4%D7%A2%D7%9C%D7%93.txt ✓
+1706. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%91%D7%A8%D_62fd5_99%D7%A0%D7%95%D7%99.txt ✓
+1707. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A2%D7%A7%D_db4bc_90%D7%93%D7%95%D7%A1.txt ✓
+1708. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%96%D7%90%D_8fd7d_A0%D7%90%D7%99%D7%A2.txt ✓
+1709. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%97%D7%A0%D_e154d_95%D7%91%D7%99%D7%9F.txt ✓
+1710. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A7%D7%90%D7%A0%D7%95%D7%A1.txt ✓
+1711. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%93%D7%99%D_79bcf_A7%D7%98%D7%99%D7%A7.txt ✓
+1712. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A9%D7%90%D_20caf_A2%D7%99%D7%95%D7%95.txt ✓
+1713. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A8%D7%91%D_09447_96%D7%9B%D7%90%D7%99.txt ✓
+1714. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%27%D7%A9%D7%A0%22%D7%98.txt ✓
+1715. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A9%D7%91%D_d41ad_7%D7%95%D7%93%D7%A9).txt ✓
+1716. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A1%D7%98_%_60769_A0%D7%A6%D7%99%D7%A2.txt ✓
+1717. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%99%D7%9E%D_60480_A6%D7%A8%D7%99%D7%9D.txt ✓
+1718. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_1647.txt ✓
+1719. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%99%D_5ffca_A0%D7%A6%D7%99%D7%A2.txt ✓
+1720. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%27%D7%A9%D7%A0%22%D7%97.txt ✓
+1721. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%95%D7%95%D_e118d_95%D7%90%D7%98%D7%95.txt ✓
+!+ 1722. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%91%D7%A2%D_cc572_93%D7%A2%D7%A0%D7%A1.txt ✓
+1723. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%98%D7%90%D7%90%D7%99%D7%A4%D7%99.txt ✓
+1724. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9E%D7%90%D7%A0%D7%92%D7%90%D7%9F.txt ✓
+1725. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A7%D7%A8%D7%A2%D7%9E%D7%A2%D7%A8.txt ✓
+1726. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%91%D_f81cd_98%D7%99%D7%99%D7%9F.txt ✓
+1727. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%D7%99%D_b6282_A0%D7%A6%D7%99%D7%A2.txt ✓
+1728. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A4%D7%A2%D_30058_95%D7%99%D7%91%D7%9C.txt ✓
+1729. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%93%D7%95%D_f199a_95%D7%A1%D7%A7%D7%99.txt ✓
+1730. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%D7%A2%D_8a831_95%D7%95%D7%90%D7%A7.txt ✓
+1731. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9B%D7%A8%D_d5e11_91%D7%90%D7%A8%D7%92.txt ✓
+1732. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%98%D7%A2%D_95b9c_0_%D7%9E%D7%99%D7%99.txt ✓
+1733. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%98%D7%A2%D_9b1e7_98%D7%99%D7%95%D7%9D.txt ✓
+1734. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9C%D7%90%D_3d3ac_99%D7%94%D7%A2%D7%9D.txt ✓
+!+ 1735. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%95%D7%95%D7%90%D7%93.txt ✓
+1736. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A0%D7%A4%D_17e0e_0%D7%95%D7%95%D7%A2).txt ✓
+1737. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_1896.txt ✓
+1738. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A2%D7%9E%D_73290_95%D7%A6%D7%99%D7%A2.txt ✓
+!+ 1739. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9E%D7%90%D_f85f4_92%D7%9E%D7%90%D7%9F.txt ✓
+1740. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9C%D7%95%D7%92%D7%90%D7%A0%D7%90.txt ✓
+!+ 1741. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%9C%D7%90%D_3f077_A8%D7%95%D7%A0%D7%98.txt ✓
+1742. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_1657.txt ✓
+!+ 1743. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A6%D7%95%D_60a8d_A2%D7%9C%D7%99%D7%94.txt ✓
+!+ 1744. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%A9%D_17e12_91%D7%99%D7%AA%D7%9A.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%99%D7%A9%D_0c0fd_99%D7%A4%D7%A2%D7%A8.txt ✓
+!+ 1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%90%D7%99%D_5ffca_A0%D7%A6%D7%99%D7%A2.txt ✓
+!+ 1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%A1%D7%A8%D_1cc81_90%D7%A0%D7%A7%D7%90.txt ✓
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_1980%D7%A2%D7%A8.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%94%D7%95%D_27ad0_A1%D7%99%D7%95%D7%9F.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/yi/_wiki_%D7%93%D7%96%D_77ad0_1_%D7%9E%D7%90%D7%A8.txt ✓
+1701. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%9E%97%E6%98%93%E7%91%A9.txt ✓
+1702. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%80%AA%E5%8_a1606_9B%E5%85%AC%E5%8F%B8.txt ✓
+1703. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%AD%94%E6%9_6f2c0_4%E7%BD%97%E7%89%8C).txt ✓
+1704. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%82%93%E6%B8%85%E6%98%8E.txt ✓
+1705. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%A9%AC%E6%9_e036a_88%E9%97%AE%E9%A2%98.txt ✓
+1706. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%B2%99%E5%8_060e7_B1%E6%A8%82%E9%83%A8.txt ✓
+1707. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%B8%83%E5%B_7e1e4_AF%E5%A4%9A%E5%A4%AB.txt ✓
+1708. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%99%B3%E6%9_1a434_3%E6%95%99%E7%B7%B4).txt ✓
+1709. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%A9%AC%E5%B_6c727_A%E5%B0%94%E7%9C%81).txt ✓
+1710. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%9E%97%E5%AE%87%E8%BB%92.txt ✓
+1711. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E4%BC%A6%E6%A0%BC%E6%99%AE%E4%BC%8A.txt ✓
+1712. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%B0%BC%E6%B_54a4b_BB%E4%BA%8B%E4%BB%B6.txt ✓
+1713. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_2012%E5%B9%B4%_1dcc3_9B%E6%AF%94%E8%B3%BD.txt ✓
+1714. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%A9%AC%E5%9_48f31_E%E5%B1%B1%E5%8E%BF).txt ✓
+1715. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E7%81%AB%E9%BA%BB.txt ✓
+1716. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%B5%B7%E9%9B%80%E7%A8%97.txt ✓
+1717. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%AF%94%E6%B_d6f36_B%E9%BD%8A%E5%8D%80).txt ✓
+1718. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%9D%8E%E5%8D%87.txt ✓
+1719. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%A4%A9%E5%B1%B1%E4%B9%A1.txt ✓
+1720. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%9B%B7%E5%B8%83%E8%AB%BE%E8%80%B6.txt ✓
+1721. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E8%B4%B9%E8%8_71127_AC%E8%A5%BF%E4%BC%8A.txt ✓
+1722. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%9C%8D%E5%B_fabbe_6%E6%81%A9%E5%B7%9E).txt ✓
+1723. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%9C%A3%E4%B_92668_85%E9%87%8C%E8%BE%BE.txt ✓
+1724. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%BB%83%E5%A5%95%E6%99%A8.txt ✓
+1725. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%97%A5%E8%B4%9D%E5%8B%92.txt ✓
+1726. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%90%89%E7%94%B0%E9%9D%96.txt ✓
+1727. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E4%B9%99%E4%B8%B8%E7%AB%99.txt ✓
+1728. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%BE%B7%E7%8_d336a_B7%E8%8E%B1%E9%9F%A6.txt ✓
+1729. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%88%90%E8%93%AC%E4%B8%80.txt ✓
+1730. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%8D%9A%E6%9_5ed1e_BA%E8%AE%B7%E7%BB%B4.txt ✓
+1731. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%A7%90%E8%B_1daf2_8B%E5%88%97%E8%A1%A8.txt ✓
+1732. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E8%93%9D%E7%A7%BB.txt ✓
+1733. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E7%A0%82%E5%8D%97%E9%B0%8D.txt ✓
+1734. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%9F%B4%E7%88%BE%E5%BE%B7%E5%B2%A9.txt ✓
+1735. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E4%BA%9E%E5%9_7349e_(%E7%8C%B6%E5%A4%A7).txt ✓
+1736. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%8A%A0%E5%8_96aaf_A2%E5%88%A9%E6%96%AF.txt ✓
+1737. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E8%8E%9E%E5%B3%B6%E9%83%A1.txt ✓
+1738. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%8C%97%E4%BA%AC%E5%8C%97%E7%AB%99.txt ✓
+1739. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E6%88%AA%E5%8_38619_8B%E6%96%B9%E9%AB%94.txt ✓
+1740. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E4%B8%AD%E5%9_291e0_A6%E8%BE%B9%E7%95%8C.txt ✓
+1741. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E8%B1%A1%E8%9D%A8%E5%B1%AC.txt ✓
+1742. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E7%A5%9E%E5%8_ded89_9E%E5%AD%B8%E9%99%A2.txt ✓
+1743. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E9%9F%93%E6%A8%B9%E7%8C%B7.txt ✓
+1744. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E8%A5%BF%E7%A5%A0%E8%83%A1%E5%90%8C.txt ✓
+1745. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%90%89%E7%94%B0%E7%88%B1.txt ✓
+1746. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E7%87%95%E5%A1%98%E6%9C%BA%E5%9C%BA.txt ✓
+1747. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E5%B0%8F%E8%A_c9cdd_%A1%A8_307701-307800.txt (##empty##)
+1748. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_YIQ.txt ✓
+1749. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_NGC_114.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/zh/_wiki_%E4%BD%A9%E6%8_90aad_B%E8%90%8A%E7%B8%A3).txt ✓
+### 1800 ### [2023-08-29_12-33-00]
+1751. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%85%D8%B1%D_e1b4b_A_%D9%85%D8%A7%D8%B1.txt ✓
+1752. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%83%D8%A7%D_705a2_88%D8%B1%D9%8A%D8%B3.txt ✓
+1753. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%83%D8%AF%D_40504_4%D8%B1%D9%82%D9%8A).txt ✓
+1754. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%AC%D9%88%D_51d5b_A%D8%A7%D8%B3%D9%8A).txt ✓
+1755. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A3%D9%84%D_a4423_B3%D9%88%D9%83%D9%88.txt ✓
+1756. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%AF%D8%A7%D_8f09b__%D9%82%D8%AF%D9%85).txt ✓
+1757. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%AC%D9%88%D_2ae26_B3%D9%86%D8%AF%D8%B1.txt ✓
+1758. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A8%D8%A7%D_c5e83_87%D8%A7%D8%B1%D8%AF.txt ✓
+1759. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A8%D8%B1%D_0fba8_8A%D8%B3%D8%A8%D8%B3.txt ✓
+1760. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%88%D8%B1%D_887d3_85%D9%82%D9%88%D8%B3.txt ✓
+1761. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A5%D8%B1%D_6b00a_86%D8%A8%D8%B1%D8%BA.txt ✓
+1762. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A2%D8%B1%D_1ca3f_A8%D8%A7%D9%83%D8%B1.txt ✓
+1763. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%81%D9%8A%D_0e820_8A%D9%8A%D8%AA%D9%88.txt ✓
+1764. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A5%D8%AF%D_1a87d_A7%D8%BA%D9%86%D8%B1.txt ✓
+1765. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B3%D9%8A%D_b5f62_B1%D9%88%D9%8A%D8%A9.txt ✓
+1766. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_(23725)_1998_HH43.txt ✓
+1767. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%83%D8%A7%D_59ebb_88%D9%83%D9%8A%D8%B1.txt ✓
+1768. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A8%D8%B7%D_a7046_9%8A_2019%E2%80%9320.txt ✓
+1769. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B3%D9%81%D_2e7c8_A8%D9%8A%D8%B1%D9%88.txt ✓
+1770. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%AA%D8%B3%D_077ae_1%D8%A2%D9%8A%D8%B3).txt ✓
+1771. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A8%D8%A7%D_25685_3_%D9%85%D9%8A%D9%86.txt ✓
+1772. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%81%D9%8A%D_fcbdb_88%D9%86%D8%AF%D9%88.txt ✓
+1773. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A7%D9%84%D_134a5_4%D8%AD%D8%A7%D9%86).txt ✓
+1774. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B5%D9%88%D9%81%D8%A9.txt ✓
+1775. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%85%D8%A7%D_d716e_B9%D9%85%D8%B1%D9%8A.txt ✓
+1776. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%85%D8%A7%D_c4033_A8%D9%8A%D8%B1%D9%83.txt ✓
+1777. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A3%D9%84%D_c562a_8A%D9%84%D9%81%D8%A7.txt ✓
+1778. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A7%D9%84%D_477bc_AD%D9%8A%D9%81%D8%A7.txt ✓
+1779. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%83%D9%8A%D8%A8%D9%84%D8%B1-7b.txt ✓
+1780. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A5%D8%B1%D_98ce9_A8%D8%B1%D9%88%D9%83.txt ✓
+1781. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_STS-132.txt ✓
+1782. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%85%D8%A7%D_58c92_8A%D9%85%D8%A7%D9%86.txt ✓
+1783. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A5%D9%86%D_a31be_A7%D8%B1%D8%AC%D9%8A.txt ✓
+1784. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B9%D8%B2%D_f4320_A7%D9%84%D8%B1%D8%A8.txt ✓
+1785. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B3%D9%8A%D_4683f_B1%D9%88%D9%8A%D8%B3.txt ✓
+1786. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%AD%D8%AC%D_1a418_A7%D8%B1%D9%86%D9%8A.txt ✓
+1787. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A8%D9%8A%D_94d37_D8%B9_(%D8%A5%D8%A8).txt ✓
+1788. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%AA%D8%A8%D_a49e3_1%D9%8A%D9%84%D9%85).txt ✓
+1789. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B9%D9%85%D_2a559_B1%D8%AF%D9%88%D8%B1.txt ✓
+1790. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_4%D8%8C1-%D8%A_7d29d_83%D8%B3%D9%8A%D9%86.txt ✓
+1791. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%83%D9%88%D_d50ea_3%D9%8A%D8%A8%D9%8A).txt ✓
+1792. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B3%D9%87%D_cf125_4%D9%82%D8%B7%D9%86).txt ✓
+1793. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%86%D9%8A%D_61daf_83%D9%88%D9%8A%D9%86.txt ✓
+1794. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A5%D9%8A%D_1c0be_A7%D9%84%D9%8A%D8%B3.txt ✓
+1795. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B1%D9%8A%D_ae391_A8%D9%8A%D8%AA%D9%84.txt ✓
+1796. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%A8%D8%B1%D_c1874_88%D9%86%D8%BA%D9%88.txt ✓
+1797. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D9%83%D9%8A%D_dfbf7_B1%D9%88%D9%81%D9%88.txt ✓
+1798. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%AD%D8%B3%D_e844b_8A%D8%B1%D9%8A%D9%85.txt ✓
+1799. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B5%D9%85%D_da842_88%D9%86%D8%AF%D9%8A.txt ✓
+1800. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ar/_wiki_%D8%B3%D8%A7%D_5bc1d_88%D9%84%D9%88%D9%86.txt ✓
+1750. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9C%D1%96%D_0657f_BE%D0%B2%D1%96%D1%87.txt ✓
+1751. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9B%D1%83%D_5bc9f_0%D0%B0%D1%91%D0%BD).txt ✓
+1752. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%93%D0%B0%D_9decd_BA%D1%83%D1%88%D1%8B.txt ✓
+1753. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%93%D1%96%D_a3b75_BC%D0%B1%D1%96%D1%96.txt ✓
+1754. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A1%D0%B0%D_c7c16_BA%D1%86%D1%8B%D1%8F.txt ✓
+1755. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9A%D0%B5%D_7f7e3_2_%D0%9C%D0%BE%D1%80.txt ✓
+1756. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_IC_650.txt ✓
+1757. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%96%D0%B0%D_a4e6c_2%D0%BD%D0%B0%D0%BC).txt ✓
+1758. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A1%D1%86%D_97738_96%D0%B4%D0%B6%D1%8B.txt ✓
+1759. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9F%D0%BE%D_30e64_0%D1%84%D1%96%D1%8F).txt ✓
+1760. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A1%D0%BC%D_af148_B2%D1%96%D1%87%D1%8B.txt ✓
+1761. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%86%D0%B2%D_61b20_B5%D0%B2%D1%96%D1%87.txt ✓
+1762. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9B%D0%B5%D_18a54_0%D0%B0%D1%91%D0%BD).txt ✓
+1763. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9F%D1%83%D_8d8fe_0%D0%B2%D0%B5%D1%82).txt ✓
+1764. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A0%D0%B0%D_472da_B0%D1%9E%D0%BD%D0%B0.txt ✓
+1765. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A1%D0%BF%D_3ba6c_B0%D0%BD%D1%96%D1%8F.txt ✓
+1766. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%92%D1%96%D_c27ad_3%D0%B2%D0%B0%D0%B9).txt ✓
+1767. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A7%D1%83%D_992ae_0%D0%B0%D1%91%D0%BD).txt ✓
+1768. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%92%D0%B0%D_108af_9D%D0%B5%D1%80%D0%B0.txt ✓
+1769. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%92%D0%B0%D_d05e9_B0%D0%BA%D0%BE%D1%9E.txt ✓
+1770. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%90%D0%B9%D_5891b_88%D1%82%D0%B0%D1%82.txt ✓
+1771. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%96%D1%8D%D_1ea9d_C%D1%96%D0%BD%D0%B0).txt ✓
+1772. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A1%D0%BF%D_bbfbb_80%D0%BD%D0%B0%D0%B5.txt ✓
+1773. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%90%D0%BB%D_c9796_9E%D1%81%D0%BA%D1%96.txt ✓
+1774. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%90%D0%BB%D_b8172_BE%D0%B2%D1%96%D1%87.txt ✓
+1775. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%93%D1%80%D_49999_0%D0%B0%D1%91%D0%BD).txt ✓
+1776. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A1%D0%BF%D_4062c_8001%E2%80%94169000).txt (##empty##)
+1777. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%91%D1%80%D_97a43_BE%D0%B2%D1%96%D1%87.txt ✓
+1778. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%91%D0%B5%D_785aa_81%D1%96%D0%BD%D1%8B.txt ✓
+1779. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%92%D0%BE%D_86691_84%D0%B3%D0%B5%D0%BD.txt ✓
+1780. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%90%D0%B1%D_a757c_BB%D1%96%D1%86%D1%8B.txt ✓
+1781. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%93%D0%B5%D_ca892_E%D0%B3%D1%96%D1%8F).txt ✓
+1782. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%AD%D0%B4%D_355e5_82%D0%B0%D0%B9%D1%80.txt ✓
+1783. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%93%D0%BB%D_af18a_0%D0%B0%D1%91%D0%BD).txt ✓
+1784. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A3%D0%B6%D_ec2d5_BD%D1%8D%D1%86%D1%8C.txt ✓
+1785. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9C%D0%B0%D_d68a0_8E%D1%82%D1%8D%D1%80.txt ✓
+1786. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%92%D0%B0%D_046a2_8F%D0%B7%D0%B5%D1%9E.txt ✓
+1787. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9C%D0%B0%D_756cd_90%D0%B2%D0%B5%D0%BD.txt ✓
+1788. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%94%D0%B6%D_5e424_A0%D0%B0%D0%B9%D1%82.txt ✓
+1789. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A5%D0%B5%D_444aa_B0%D1%81%D0%BA%D1%96.txt ✓
+1790. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A7%D0%B0%D_e76ea_0%D0%B0%D1%91%D0%BD).txt ✓
+1791. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%90%D0%BB%D_4be27_8B%D1%81%D0%B0%D1%9E.txt ✓
+1792. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%86%D0%B2%D_94df3_0%D0%B0%D1%91%D0%BD).txt ✓
+1793. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%94%D0%B0%D_a4fbe_B3%D1%80%D0%B0%D0%B4.txt ✓
+1794. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%91%D0%B5%D_4a6c4_E%D0%BF%D1%96%D1%81).txt ✓
+1795. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A1%D0%BB%D_a815d_B%D1%8C%D0%BC,_1987).txt ✓
+1796. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%9A%D0%B0%D0%BD%D0%B0%D1%85%D1%96.txt ✓
+1797. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%96%D0%B0%D0%B7%D1%8D_I.txt ✓
+1798. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_1954_%D0%B3%D0_808e1_B7%D1%8B%D0%BA%D1%96.txt ✓
+1799. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A6%D1%8F%D_37879_%D1%8D%D0%BD%D1%8C-1.txt ✓
+1800. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/be/_wiki_%D0%A1%D1%82%D_c483c_7%D0%B5%D1%80%D0%B0).txt ✓
+1751. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AA%E0%A_d25bf_A4%E0%A6%AC%E0%A6%95.txt ✓
+1752. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%9A%E0%A_e189d_B8%E0%A7%81%E0%A6%A6.txt ✓
+1753. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%9A%E0%A_66c8d_A8%E0%A6%BE%E0%A6%A4.txt ✓
+1754. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AA%E0%A_46e91_BE%E0%A6%AF%E0%A6%BC.txt ✓
+1755. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B8%E0%A_e7429_A4%E0%A6%BE%E0%A6%A8.txt ✓
+1756. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AE%E0%A_8f5d1_8D%E0%A6%A6%E0%A7%80.txt ✓
+1757. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AC%E0%A_23ab0_87%E0%A6%B6%E0%A6%A8.txt ✓
+!+ 1758. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A7%A8%E0%A_70371_8D%E0%A6%AF%E0%A6%BE.txt ✓
+1759. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%A8%E0%A_a5078_8D%E0%A6%B0%E0%A6%B9.txt ✓
+1760. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AC%E0%A_0a059_AC%E0%A6%BE%E0%A6%B8.txt ✓
+1761. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AC%E0%A_90358_AD%E0%A6%BE%E0%A6%B0.txt ✓
+1762. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AE%E0%A_3d652_A8%E0%A7%8D%E0%A6%A1.txt ✓
+1763. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B8%E0%A_0263d_A1%E0%A6%BC%E0%A6%BE.txt ✓
+1764. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A7%A7%E0%A7%AC%E0%A7%AC%E0%A7%AE.txt ✓
+1765. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B0%E0%A_501de_B2%E0%A6%AF%E0%A6%BC.txt ✓
+1766. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B9%E0%A_4952f_AA%E0%A6%B0%E0%A7%80.txt ✓
+1767. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B8%E0%A_236fd_A6%E0%A7%87%E0%A6%B9.txt ✓
+1768. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%A6%E0%A_379fb_B0%E0%A7%87%E0%A6%B2.txt ✓
+1769. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AC%E0%A_579c7_8D%E0%A6%AC%E0%A6%A4.txt ✓
+1770. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%A6%E0%A6%B2%E0%A6%BF%E0%A6%A4.txt ✓
+1771. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B9%E0%A_4df75_8B%E0%A6%95%E0%A6%BF.txt ✓
+1772. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%8F%E0%A_68873_AC%E0%A7%87%E0%A6%A8.txt ✓
+1773. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%A6%E0%A_a7924_8B%E0%A6%A6%E0%A6%BE.txt ✓
+1774. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AA%E0%A_09e77_D%E0%A6%B0%E0%A6%B9).txt ✓
+1775. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%A6%E0%A_f7d57_9F%E0%A6%BF%E0%A6%AD.txt ✓
+1776. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AC%E0%A_0ca59_A4%E0%A7%8D%E0%A6%AC.txt ✓
+1777. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AE%E0%A_05f1e_BE%E0%A6%A6%E0%A6%BF.txt ✓
+1778. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B8%E0%A_18cab_87%E0%A6%B6%E0%A6%A8.txt ✓
+1779. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AE%E0%A_094cf_87%E0%A6%B6%E0%A6%A8.txt ✓
+1780. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%89%E0%A_7f777_8D%E0%A6%B7%E0%A6%95.txt ✓
+1781. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%97%E0%A_0f2b0_AE%E0%A7%82%E0%A6%B9.txt ✓
+1782. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%87%E0%A_e5b90_AE%E0%A7%82%E0%A6%B9.txt ✓
+1783. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%8F%E0%A_a5a86_A8%E0%A7%87%E0%A6%B8.txt ✓
+1784. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%97%E0%A_947db_AF%E0%A6%BC%E0%A6%BE.txt ✓
+1785. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%8F%E0%A_c5f41_B6%E0%A6%BF%E0%A6%AA.txt ✓
+1786. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%89%E0%A_42701_F%E0%A6%BE%E0%A6%B0).txt ✓
+1787. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%9A%E0%A_0e419_95%E0%A6%AC%E0%A6%B8.txt ✓
+1788. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%9C%E0%A_bfc54_4%E0%A7%8D%E0%A6%B0).txt ✓
+1789. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B6%E0%A_ff0e8_87%E0%A6%B6%E0%A6%A8.txt ✓
+1790. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AC%E0%A_7b77c_A3%E0%A7%8D%E0%A6%A1.txt ✓
+1791. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%A8%E0%A_d7461_97%E0%A6%B9%E0%A6%B0.txt ✓
+1792. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%AE%E0%A_a4e72_BE%E0%A6%AF%E0%A6%BC.txt ✓
+1793. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B0%E0%A_3b9e2_B6%E0%A7%87%E0%A6%B2.txt ✓
+1794. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%9C%E0%A_f3333_8D%E0%A6%B2%E0%A7%80.txt ✓
+1795. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%95%E0%A_ac06d_BE%E0%A6%87%E0%A6%B2.txt ✓
+1796. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%A8%E0%A_94295_9C%E0%A6%BE%E0%A6%B0.txt ✓
+1797. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%B8%E0%A_44c3b_9C%E0%A6%BF%E0%A6%9C.txt ✓
+1798. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%85%E0%A_96352_C%E0%A6%BF%E0%A6%A6).txt ✓
+!+ 1799. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%95%E0%A_e3225_7%E0%A6%A8%E0%A6%BE).txt ✓
+1800. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bn/_wiki_%E0%A6%87%E0%A_8b99a_AC%E0%A6%B2%E0%A6%B8.txt ✓
+1751. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_POSIX.txt ✓
+1752. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%98%D0%B2%D_76608_A%D0%B0%D0%BD%D1%82).txt ✓
+1753. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_Annona_muricata.txt ✓
+1754. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%92%D0%B0%D_98b0f_B2%D1%81%D0%BA%D0%B8.txt ✓
+1755. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9C%D0%B0%D_35b51_5%D0%B3%D0%BE%D0%BD).txt ✓
+1756. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A4%D0%B8%D_f26eb_B8%D0%BC%D0%B5%D1%80.txt ✓
+1757. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_27.txt ✓
+1758. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%90%D0%BB%D_4caf0_BD%D1%81%D0%BA%D0%B8.txt ✓
+1759. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%93%D0%B5%D_b92aa_BB%D0%B8%D0%BA%D0%B0.txt ✓
+1760. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9C%D0%B8%D_aa985_80%D1%81%D0%BA%D0%B8.txt ✓
+1761. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9B%D1%83%D_d7949_B5%D0%BB%D0%B5%D1%80.txt ✓
+1762. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_Overdawn.txt ✓
+1763. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%92%D1%8A%D_4623d_A7%D0%B8%D0%BB%D0%B8.txt ✓
+1764. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_.cl.txt ✓
+1765. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A8%D0%B8%D_45464_B3%D1%80%D0%BE%D0%BC.txt ✓
+1766. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A5%D0%B0%D_4b479_B2%D0%B8%D0%BB%D0%B0.txt ✓
+1767. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A1%D0%BF%D_c90f1_5%D0%BA%D0%B0%D1%80).txt ✓
+1768. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A5%D1%80%D_8dd1d_B0%D0%B2%D0%B0%D1%81.txt ✓
+1769. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9A%D1%83%D_7a4eb_0%D0%BD%D0%B8%D1%8F).txt ✓
+1770. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A3%D0%BE%D_d8fe8_B4%D0%BD%D1%8A%D1%80.txt ✓
+1771. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A3%D0%B8%D_5f146_F%D1%81%D0%BA%D0%B0).txt ✓
+1772. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9D%D0%B8%D0%B3%D0%B4%D0%B5.txt ✓
+1773. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%92%D0%B0%D_ff5cd_BD%D1%81%D0%BA%D0%B8.txt ✓
+1774. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%99%D0%BE%D_5da9b_B0%D1%81%D0%BE%D0%BD.txt ✓
+1775. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9A%D1%83%D_945d8_BA%D0%BB%D0%B8%D1%8F.txt ✓
+1776. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A1%D0%BB%D_5e2db_B0%D0%BA%D0%B8%D1%8F.txt ✓
+1777. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%94%D1%80%D_3a67d_BE%D0%B2%D0%BE%D1%80.txt ✓
+1778. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9E%D1%82%D_86f4d_B0%D0%B3%D0%B0%D1%83.txt ✓
+1779. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%90%D0%BA%D_d1f45_87%D0%B5%D0%BD%D0%B8.txt ✓
+1780. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9A%D0%B0%D_f6d8d_B5%D0%BB%D0%B0%D1%80.txt ✓
+1781. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%95%D0%BD%D_330aa_E%D0%B5%D0%BA%D1%82).txt ✓
+1782. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9E%D1%81%D_288f1_BE%D0%BD%D0%B8%D1%8F.txt ✓
+1783. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9A%D1%83%D_c8bb9_B4%D0%BE%D0%B2%D0%B0.txt ✓
+1784. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%97%D0%BB%D_19164_BA%D1%8F%D0%BD%D0%B5.txt ✓
+1785. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A1%D0%B2.__11c63_5%D0%BE%D1%80%D0%B0).txt ✓
+1786. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9F%D1%80%D_d8213_BD%D1%86%D0%B8%D1%8F.txt ✓
+1787. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9A%D0%BB%D0%B0%D0%BD%D0%B0%D0%B4.txt ✓
+1788. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A5%D0%B8%D_599bd_BF%D0%BB%D0%B0%D0%BD.txt ✓
+1789. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9B%D0%B5%D_39f1b_BD%D0%B5%D1%80%D0%B8.txt ✓
+1790. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%90%D0%BC%D_e24bc_E_%D0%BE%D0%BA%D0%BE.txt ✓
+1791. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9F%D1%80%D_a045f_BA%D1%8A%D1%80)_2009.txt ✓
+1792. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_Megapodius_geelvinkianus.txt ✓
+1793. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9D%D0%B0%D_1c7d9_BF%D1%83%D0%BB%D1%81.txt ✓
+1794. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%90%D0%BD%D_aa715_BE%D0%BA%D0%B8%D0%BE.txt ✓
+1795. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A2%D0%BE%D_d56a2_83%D0%BB%D0%BE%D0%B2.txt ✓
+1796. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%90%D1%82%D_31d1a_C%D0%B5%D0%BD%D1%82).txt ✓
+1797. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_Pterygioteuthis_giardi.txt ✓
+1798. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9A%D1%80%D_c3267_3%D1%80%D0%B0%D0%B4).txt ✓
+1799. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D1%81_557.txt ✓
+1800. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/bg/_wiki_%D0%A5%D0%BE%D_dcb3c_83%D0%BA%D0%B0%D0%B9.txt ✓
+1751. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Monique_de_Bruin.txt ✓
+1752. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Keila_Costa.txt ✓
+1753. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_R%C3%A0dio_Nik%C3%B2sia.txt ✓
+1754. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Tirat_Carmel.txt ✓
+1755. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Johann_Anton_Mederitsch.txt ✓
+1756. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Autob%C3%BAs_biarticulat.txt ✓
+1757. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Euromast.txt ✓
+1758. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Teler.txt ✓
+1759. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Vespres_Sicilianes.txt ✓
+1760. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Sant_Esteve_de_Canapost.txt ✓
+1761. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Habitatge_a_l%_2ab54_a_Navarra,_10_(Olot).txt ✓
+1762. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Harrisburg_(Missouri).txt ✓
+1763. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Fricativa_glotal_sorda.txt ✓
+1764. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Acroneuria_abnormis.txt ✓
+1765. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Eleccions_papals_abans_del_1059.txt ✓
+1766. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Turpial_d%27espatlles_grogues.txt ✓
+1767. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Demetri_(escriptor).txt ✓
+1768. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Torre_del_Cap_Andritxol.txt ✓
+1769. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Sharon_Robinson.txt ✓
+1770. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Llista_de_compositors_d%27%C3%B2pera.txt (##empty##)
+1771. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Moviment_Comun_90db5_onari_de_Gr%C3%A8cia.txt ✓
+1772. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Weldon_(Carolina_del_Nord).txt ✓
+1773. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Thrichomys.txt ✓
+1774. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Maksim_Xostak%C3%B3vitx.txt ✓
+1775. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Tractat_de_l%27espai_exterior.txt ✓
+1776. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Tordenc_d%27ulleres.txt ✓
+1777. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Gnathopogon_nicholsi.txt ✓
+1778. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Lycenchelys_rassi.txt ✓
+1779. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Eileach_an_Naoimh.txt ✓
+1780. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Tartarus_Rupes.txt ✓
+1781. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Operaci%C3%B3_W%C3%A4hrung.txt ✓
+1782. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Domici_Afer.txt ✓
+1783. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Vytautas_Butkus.txt ✓
+1784. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Sent_Haust.txt ✓
+1785. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Laboratori_d%2_3219a_tat_de_Val%C3%A8ncia.txt ✓
+1786. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Can_Robert_(Sitges).txt ✓
+1787. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Karl_Prill.txt ✓
+1788. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Tossal_de_Sant_Donat.txt ✓
+1789. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Haworthia_retusa_var._nigra.txt ✓
+1790. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Alphonse_Magniez.txt ✓
+1791. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Controv%C3%A8rsia_de_Rind_et_al..txt ✓
+1792. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Espal%C2%B7laci%C3%B3.txt ✓
+1793. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Lancia_037.txt ✓
+1794. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Mahmud_Jibril.txt ✓
+1795. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Poggio_a_Caiano.txt ✓
+1796. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Roda_calend%C3%A0rica.txt ✓
+1797. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Kevin_Esteve_Rigail.txt ✓
+1798. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Saint-Thomas-de-Courceriers.txt ✓
+1799. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Lleis_antisocialistes_alemanyes.txt ✓
+1800. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/ca/_wiki_Asquins.txt ✓
+1751. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Rajka_vlajkov%C3%A1.txt ✓
+1752. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Chalkogenidy.txt ✓
+1753. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Caldera_del_Atuel.txt ✓
+1754. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_BGL_Luxembourg_5ee77_A1_%C4%8Dty%C5%99hra.txt ✓
+1755. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Sinclair_BASIC.txt ✓
+1756. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Empire_State.txt ✓
+1757. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Ale%C5%A1_Fla%C5%A1ar.txt ✓
+1758. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Krop%C3%A1%C4%_94067_3%A1dra%C5%BE%C3%AD).txt ✓
+1759. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Jan_Tou%C5%BEimsk%C3%BD.txt ✓
+1760. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Ruy_L%C3%B3pez_de_Segura.txt ✓
+1761. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_MTV_Europe_Mus_05b38_3%AD_p%C3%ADse%C5%88.txt ✓
+1762. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Classic_Brugge%E2%80%93De_Panne_2022.txt ✓
+1763. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Industrial_Light_%26_Magic.txt ✓
+1764. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Southfields_(s_7c54e_v_Lond%C3%BDn%C4%9B).txt ✓
+1765. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Hokuto_(Jamana%C5%A1i).txt ✓
+1766. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Charles_Ingram.txt ✓
+1767. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Pont_de_Neuilly.txt ✓
+1768. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_%C5%A0tadi%C3%B3n_FC_ViOn.txt ✓
+1769. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Nyota_Uhura.txt ✓
+1770. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Vojen_Lo%C5%BEek.txt ✓
+1771. /home/guoyongzhi/langid_expirement/corpus/wikipedia/train/cs/_wiki_Renaud_z_Vichiers.txt ✓
