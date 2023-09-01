@@ -26,7 +26,6 @@ end
 function benchmark(name_detector...; dataset, languages)
     name_bmk = []
     for (name, detector) in name_detector
-        print(name)
         @time b = bmk(detector, dataset, languages)
         push!(name_bmk, name=>b)
     end
@@ -51,4 +50,17 @@ function showtable(rows, header=true; average=true, threshold=-1)
     hd = (header isa Bool) ? header : [""; header]
     markdown_table(Tables.table(permutedims(tb), header=hd), String, formatter=fmt)|>print
     markdown_table(Tables.table(permutedims(tb), header=hd), formatter=fmt)
+end
+function showtable_of_items(items; row_name=n->"$n", col_name=n->"$n")
+    rows = sort(unique(first.(first.(items))))
+    cols = sort(unique(last.(first.(items))))
+    mat = fill(NaN, length(rows), length(cols))
+    for ((i, j), v) in items
+        mat[findfirst(==(i), rows), findfirst(==(j), cols)] = v
+    end
+    row_names = row_name.(rows)
+    col_names = col_name.(cols)
+    fmt(v) = v isa Real ? (v>0 ? (@sprintf "%0.2f%%" v*100) : "-") : v
+    markdown_table(Tables.table([row_names mat], header=[""; col_names]), String, formatter=fmt)|>print
+    markdown_table(Tables.table([row_names mat], header=[""; col_names]), formatter=fmt)
 end
