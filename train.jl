@@ -30,7 +30,7 @@ function Model(path::AbstractString)
         push!(Qs, D)
     end
     cutoff_list = minimum.(values.(Qs))
-    Model(langs, langs_inds, Qs, -2.0, cutoff_list, 7)
+    Model(langs, langs_inds, Qs, -4.0, cutoff_list, 7)
 end
 
 function loglikelihood(P, Q, default_q, cutoff)
@@ -41,10 +41,10 @@ function loglikelihood(P, Q, default_q, cutoff)
             if q >= cutoff
                 logq = log_sigmoid(q)
             else
-                logq = log_sigmoid(default_q + cutoff) 
+                logq = log_sigmoid(default_q) + log_sigmoid(cutoff)
             end
         else
-            logq = log_sigmoid(default_q + cutoff)
+            logq = log_sigmoid(default_q) + log_sigmoid(cutoff) 
         end
         sc += p * logq
     end
@@ -106,7 +106,7 @@ function loss_and_grad(model::Model, data, ngram)
 end
 function step!(model::Model, grad, lr::Float32=0.01f0)
     if grad.default_q !== nothing
-        model.default_q -= lr * grad.default_q
+        model.default_q -= lr * 0.001 * grad.default_q
     end
     for (D1, D2) in zip(model.Qs, grad.Qs)
         D2 !== nothing && mergewith!((v1, v2) -> v1 - lr * v2, D1, D2)
@@ -142,8 +142,8 @@ end
 
 function random_cutoff(m::Model)
     ngram = rand([1:7; 3:7; 3:5])
-    if rand() < 0.5
-        cutoff_value_by_size(m, ngram, rand([100:20000; 20000:10:100000]))
+    if rand() < 1.5
+        cutoff_value_by_size(m, ngram, rand([100:5000; 100:10000; 100:20000; 20000:10:100000]))
     else
         cutoff_value_by_ratio(m, ngram, rand(0.5:0.001:1.0))
     end
