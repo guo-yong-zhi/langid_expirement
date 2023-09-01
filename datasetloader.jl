@@ -25,8 +25,14 @@ struct TatoebaDataset <: AbstractVector{Pair{String,String}}
     data
 end
 
-function TatoebaDataset(path, index::AbstractDict; langs=[f[1:end-4] for f in readdir(path)])
-    lang_lines = Dict(lang => index[get(TLANGMAP, lang, lang)] for lang in langs)
+function TatoebaDataset(path, index::AbstractDict; langs=[f[1:end-4] for f in readdir(path)], negative_index=false)
+    if negative_index
+        lang_lines =  Dict(lang => collect(1:countlines(joinpath(path, get(TLANGMAP, lang, lang) * ".txt"))) for lang in langs)
+        neg_lang_lines = Dict(lang => index[get(TLANGMAP, lang, lang)] for lang in langs)
+        mergewith!(setdiff, lang_lines, neg_lang_lines)
+    else
+        lang_lines = Dict(lang => index[get(TLANGMAP, lang, lang)] for lang in langs)
+    end
     data = Pair{String,String}[]
     for (lang, lines) in lang_lines
         text = readlines(joinpath(path, get(TLANGMAP, lang, lang) * ".txt"))
@@ -41,7 +47,7 @@ function TatoebaDataset(path, index::AbstractString; kwargs...)
     return TatoebaDataset(path, lang_lines; kwargs...)
 end
 function TatoebaDataset(path; langs=[f[1:end-4] for f in readdir(path)], kwargs...)
-    lang_lines = Dict(lang => collect(1:countlines(joinpath(path, lang * ".txt"))) for lang in langs)
+    lang_lines = Dict(lang => collect(1:countlines(joinpath(path, get(TLANGMAP, lang, lang) * ".txt"))) for lang in langs)
     return TatoebaDataset(path, lang_lines; kwargs...)
 end
 function Base.size(td::TatoebaDataset)
