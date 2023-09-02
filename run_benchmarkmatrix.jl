@@ -22,6 +22,7 @@ function run_bmk(name_dataset, name_list; path, kwargs...)
     end
     log_file = "$path/bmkmats-$paramname-$dataname.md"
     redirect_stdio(stdout=log_file) do
+        langs = LI.supported_languages()
         last_vocsize = 0
         @time for n in 1:7
             for pa in paramlist
@@ -31,10 +32,10 @@ function run_bmk(name_dataset, name_list; path, kwargs...)
                     continue
                 end
                 last_vocsize = vocsize
-                println("# $n-grams $pa-$paramname (total vocabulary: $vocsize)")
-                r = benchmark((n, pa) => langid, dataset=TV, languages=LI.supported_languages()) |> only
+                println("# $n-grams $pa-$paramname (average vocabulary: $(vocsize/length(langs)))")
+                r = benchmark((n, pa) => langid, dataset=dataset, languages=langs) |> only
                 push!(bmkmats, r)
-                showtable(["$n-grams $pa-$paramname" => last(r)], LI.supported_languages())
+                showtable(["$n-grams $pa-$paramname" => last(r)], langs)
                 BSON.@save ckpfn bmkmats
                 flush(stdout)
             end
