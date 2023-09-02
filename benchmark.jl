@@ -45,11 +45,16 @@ function showtable(rows, header=true; average=true, threshold=-1)
         rows = [nm=>[sum(vs)/length(vs); vs] for (nm, vs) in rows]
         header = ["Average"; header]
     end
-    fmt(v) = v isa Real ? (v!=0 ? (@sprintf "%0.2f%%" v*100) : "-") : v
+    rows = format_rows(rows)
     tb = hcat((r->vcat(r...)).(rows)...)
     hd = (header isa Bool) ? header : [""; header]
-    markdown_table(Tables.table(permutedims(tb), header=hd), String, formatter=fmt)|>print
-    markdown_table(Tables.table(permutedims(tb), header=hd), formatter=fmt)
+    markdown_table(Tables.table(permutedims(tb), header=hd), String)|>print
+    markdown_table(Tables.table(permutedims(tb), header=hd))
+end
+function format_rows(rows)
+    fmt(v) = v isa Real ? (v>0 ? (@sprintf "%0.2f%%" v*100) : "-") : v
+    maxvs = max.(last.(rows)...)
+    [nm => [(v==mv ? "**$(fmt(v))**" : fmt(v)) for (v, mv) in zip(vs, maxvs)] for (nm, vs) in rows]
 end
 function showtable_of_items(items; row_name=n->"$n", col_name=n->"$n")
     rows = sort(unique(first.(first.(items))))
