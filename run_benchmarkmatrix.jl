@@ -1,0 +1,50 @@
+include("datasetloader.jl")
+include("benchmark.jl")
+using LanguageIdentification
+import LanguageIdentification as LI
+using BSON
+
+WV = WikiDataSet("corpus/wikipedia/test", langs=LI.supported_languages())
+TV = TatoebaDataset("corpus/tatoeba", "tatoeba_test.txt", langs=LI.supported_languages())
+path = isempty(ARGS) ? "benchmarks" : ARGS[1]
+mkpath(path)
+
+function run_bmk(name_dataset, name_list; path, kwargs...)
+    dataname, dataset = name_dataset
+    paramname, paramlist = name_list
+    ckpfn = "$path/bmkmats-$paramname-$dataname.bson"
+    if isfile(ckpfn)
+        BSON.@load ckpfn bmkmats
+        println(length(bmkmats), " items in ", ckpfn)
+    else
+        bmkmats = []
+        println("no checkpoint found.")
+    end
+    log_file = "$path/bmkmats-$paramname-$dataname.md"
+    redirect_stdio(stdout=log_file) do
+        last_vocsize = 0
+        @time for n in 1:7
+            for pa in paramlist
+                LI.initialize(ngram=n; (paramname => pa,)..., kwargs...)
+                vocsize = sum(last.(LI.vocabulary_sizes()))
+                if vocsize == last_vocsize
+                    continue
+                end
+                last_vocsize = vocsize
+                println("# $n-grams $pa-$paramname (total vocabulary: $vocsize)")
+                r = benchmark((n, pa) => langid, dataset=TV, languages=LI.supported_languages()) |> only
+                push!(bmkmats, r)
+                showtable(["$n-grams $pa-$paramname" => last(r)], LI.supported_languages())
+                BSON.@save ckpfn bmkmats
+                flush(stdout)
+            end
+        end
+    end
+end
+
+vocabulary_list = [100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000]
+cutoff_list = [0.5, 0.6, 0.7, 0.75, 0.8, 0.825, 0.85, 0.875, 0.9, 0.95, 1.0]
+run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list; cutoff=2, path=path)
+run_bmk("wikipedia" => WV, :cutoff => cutoff_list; vocabulary=1000000, path=path)
+run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list; cutoff=2, path=path)
+run_bmk("tatoeba" => TV, :cutoff => cutoff_list; vocabulary=1000000, path=path)
