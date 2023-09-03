@@ -9,9 +9,9 @@ TV = TatoebaDataset("corpus/tatoeba", "tatoeba_test.txt", langs=LI.supported_lan
 path = isempty(ARGS) ? "benchmarks" : ARGS[1]
 mkpath(path)
 
-function run_bmk(name_dataset, name_list; path, kwargs...)
+function run_bmk(name_dataset, name_paramlist, ngram_list=1:7; path, kwargs...)
     dataname, dataset = name_dataset
-    paramname, paramlist = name_list
+    paramname, paramlist = name_paramlist
     ckpfn = "$path/bmkmats-$paramname-$dataname.bson"
     if isfile(ckpfn)
         BSON.@load ckpfn bmkmats
@@ -24,7 +24,7 @@ function run_bmk(name_dataset, name_list; path, kwargs...)
     redirect_stdio(stdout=log_file) do
         langs = LI.supported_languages()
         last_vocsize = 0
-        @time for n in 1:7
+        @time for n in ngram_list
             for pa in paramlist
                 LI.initialize(ngram=n; (paramname => pa,)..., kwargs...)
                 vocsize = sum(last.(LI.vocabulary_sizes()))
@@ -49,3 +49,9 @@ run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list; cutoff=2, path=path)
 run_bmk("wikipedia" => WV, :cutoff => cutoff_list; vocabulary=1000000, path=path)
 run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list; cutoff=2, path=path)
 run_bmk("tatoeba" => TV, :cutoff => cutoff_list; vocabulary=1000000, path=path)
+
+ngram_list = [n:n for n in 1:7]
+run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list, ngram_list=ngram_list; cutoff=2, path=path*"/singlegram")
+run_bmk("wikipedia" => WV, :cutoff => cutoff_list, ngram_list=ngram_list; vocabulary=1000000, path=path*"/singlegram")
+run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list, ngram_list=ngram_list; cutoff=2, path=path*"/singlegram")
+run_bmk("tatoeba" => TV, :cutoff => cutoff_list, ngram_list=ngram_list; vocabulary=1000000, path=path*"/singlegram")

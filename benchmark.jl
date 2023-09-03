@@ -53,10 +53,10 @@ function showtable(rows, header=true; average=true, threshold=-1)
 end
 function format_rows(rows)
     fmt(v) = v isa Real ? (v>0 ? (@sprintf "%0.2f%%" v*100) : "-") : v
-    maxvs = max.(last.(rows)...)
+    maxvs = length(rows) > 1 ? max.(last.(rows)...) : fill(nothing, length(last(rows[1])))
     [nm => [(v==mv ? "**$(fmt(v))**" : fmt(v)) for (v, mv) in zip(vs, maxvs)] for (nm, vs) in rows]
 end
-function showtable_of_items(items; row_name=n->"$n", col_name=n->"$n")
+function showtable_of_items(items; row_name=n->"$n", col_name=n->"$n", print_raw=true)
     rows = sort(unique(first.(first.(items))))
     cols = sort(unique(last.(first.(items))))
     mat = fill(NaN, length(rows), length(cols))
@@ -66,6 +66,6 @@ function showtable_of_items(items; row_name=n->"$n", col_name=n->"$n")
     row_names = row_name.(rows)
     col_names = col_name.(cols)
     fmt(v) = v isa Real ? (v>0 ? (@sprintf "%0.2f%%" v*100) : "-") : v
-    markdown_table(Tables.table([row_names mat], header=[""; col_names]), String, formatter=fmt)|>print
+    print_raw && markdown_table(Tables.table([row_names mat], header=[""; col_names]), String, formatter=fmt)|>print
     markdown_table(Tables.table([row_names mat], header=[""; col_names]), formatter=fmt)
 end
