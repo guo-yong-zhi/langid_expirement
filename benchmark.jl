@@ -26,6 +26,7 @@ end
 function benchmark(name_detector...; dataset, languages)
     name_bmk = []
     for (name, detector) in name_detector
+        println(name)
         @time b = bmk(detector, dataset, languages)
         push!(name_bmk, name=>b)
     end

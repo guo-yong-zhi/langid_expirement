@@ -5,8 +5,8 @@ import LanguageIdentification as LI
 using BSON
 
 WV = WikiDataSet("corpus/wikipedia/test", langs=LI.supported_languages())
-TV = TatoebaDataset("corpus/tatoeba", "tatoeba_test.txt", langs=LI.supported_languages())
-path = isempty(ARGS) ? "benchmarks" : ARGS[1]
+TV = TatoebaDataset("corpus/tatoeba", "corpus/tatoeba_test_index.txt", langs=LI.supported_languages())
+path = isempty(ARGS) ? "benchmarks/matrix" : ARGS[1]
 mkpath(path)
 
 function run_bmk(name_dataset, name_paramlist, ngram_list=1:7; path, kwargs...)
