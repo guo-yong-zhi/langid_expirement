@@ -26,7 +26,7 @@ function run_bmk(name_dataset, name_paramlist, ngram_list=1:7; path, kwargs...)
         last_vocsize = 0
         @time for n in ngram_list
             for pa in paramlist
-                LI.initialize(ngram=n; (paramname => pa,)..., kwargs...)
+                LI.initialize(;ngram=n, (paramname => pa,)..., kwargs...)
                 vocsize = sum(last.(LI.vocabulary_sizes()))
                 if vocsize == last_vocsize
                     continue
@@ -50,8 +50,9 @@ run_bmk("wikipedia" => WV, :cutoff => cutoff_list; vocabulary=1000000, path=path
 run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list; cutoff=2, path=path)
 run_bmk("tatoeba" => TV, :cutoff => cutoff_list; vocabulary=1000000, path=path)
 
+mkpath(path*"/singlegram")
 ngram_list = [n:n for n in 1:7]
-run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list, ngram_list=ngram_list; cutoff=2, path=path*"/singlegram")
-run_bmk("wikipedia" => WV, :cutoff => cutoff_list, ngram_list=ngram_list; vocabulary=1000000, path=path*"/singlegram")
-run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list, ngram_list=ngram_list; cutoff=2, path=path*"/singlegram")
-run_bmk("tatoeba" => TV, :cutoff => cutoff_list, ngram_list=ngram_list; vocabulary=1000000, path=path*"/singlegram")
+run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list, ngram_list; cutoff=2, path=path*"/singlegram")
+run_bmk("wikipedia" => WV, :cutoff => cutoff_list, ngram_list; vocabulary=1000000, path=path*"/singlegram")
+run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list, ngram_list; cutoff=2, path=path*"/singlegram")
+run_bmk("tatoeba" => TV, :cutoff => cutoff_list, ngram_list; vocabulary=1000000, path=path*"/singlegram")
