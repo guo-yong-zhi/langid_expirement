@@ -43,16 +43,20 @@ function run_bmk(name_dataset, name_paramlist, ngram_list=1:7; path, kwargs...)
     end
 end
 
+langid("reduce the compilation time")
+
 vocabulary_list = [100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000]
 cutoff_list = [0.5, 0.6, 0.7, 0.75, 0.8, 0.825, 0.85, 0.875, 0.9, 0.95, 1.0]
-run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list; cutoff=2, path=path)
-run_bmk("wikipedia" => WV, :cutoff => cutoff_list; vocabulary=1000000, path=path)
-run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list; cutoff=2, path=path)
-run_bmk("tatoeba" => TV, :cutoff => cutoff_list; vocabulary=1000000, path=path)
 
-mkpath(path*"/singlegram")
-ngram_list = [n:n for n in 1:7]
-run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list, ngram_list; cutoff=2, path=path*"/singlegram")
-run_bmk("wikipedia" => WV, :cutoff => cutoff_list, ngram_list; vocabulary=1000000, path=path*"/singlegram")
-run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list, ngram_list; cutoff=2, path=path*"/singlegram")
-run_bmk("tatoeba" => TV, :cutoff => cutoff_list, ngram_list; vocabulary=1000000, path=path*"/singlegram")
+mkpath(path*"/single_ngram")
+run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list; path=path*"/single_ngram")
+run_bmk("wikipedia" => WV, :cutoff => cutoff_list; vocabulary=1:1000000, path=path*"/single_ngram")
+run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list; path=path*"/single_ngram")
+run_bmk("tatoeba" => TV, :cutoff => cutoff_list; vocabulary=1:1000000, path=path*"/single_ngram")
+
+ngram_list = [1:n for n in 1:7]
+mkpath(path*"/multi_ngram")
+run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list, ngram_list; path=path*"/multi_ngram")
+run_bmk("wikipedia" => WV, :cutoff => cutoff_list, ngram_list; vocabulary=1:1000000, path=path*"/multi_ngram")
+run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list, ngram_list; path=path*"/multi_ngram")
+run_bmk("tatoeba" => TV, :cutoff => cutoff_list, ngram_list; vocabulary=1:1000000, path=path*"/multi_ngram")

@@ -42,6 +42,7 @@ redirect_stdio(stdout=log_file) do
     BSON.@save "$path/compare_tatoeba.bson" TB
     println()
     showtable(TB, LANGS, average=false); println()
+    showtable(TB[1:1], LANGS, threshold=0.); println()
     showtable(TB[1:2], LANGS, threshold=0.); println()
     showtable(TB[2:3], LANGS, threshold=0.); println()
     showtable(TB[[1, 3]], LANGS, threshold=0.); println()
@@ -58,6 +59,7 @@ redirect_stdio(stdout=log_file) do
     BSON.@save "$path/compare_wikipedia.bson" WB
     println()
     showtable(WB, LANGS, average=false); println()
+    showtable(WB[1:1], LANGS, threshold=0.); println()
     showtable(WB[1:2], LANGS, threshold=0.); println()
     showtable(WB[2:3], LANGS, threshold=0.); println()
     showtable(WB[[1, 3]], LANGS, threshold=0.); println()
