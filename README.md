@@ -1,1 +1,1 @@
-# LanguageIdentification.jl
+This repository contains the development code, corpus data and benchmark results for the julia package [**`LanguageIdentification.jl`**](https://github.com/guo-yong-zhi/LanguageIdentification.jl). 
