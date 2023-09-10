@@ -55,8 +55,8 @@ run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list; path=path*"/single_ngra
 run_bmk("tatoeba" => TV, :cutoff => cutoff_list; vocabulary=1:1000000, path=path*"/single_ngram")
 
 ngram_list = [1:n for n in 1:7]
-mkpath(path*"/multi_ngram")
-run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list, ngram_list; path=path*"/multi_ngram")
-run_bmk("wikipedia" => WV, :cutoff => cutoff_list, ngram_list; vocabulary=1:1000000, path=path*"/multi_ngram")
-run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list, ngram_list; path=path*"/multi_ngram")
-run_bmk("tatoeba" => TV, :cutoff => cutoff_list, ngram_list; vocabulary=1:1000000, path=path*"/multi_ngram")
+mkpath(path*"/multi_ngrams")
+run_bmk("wikipedia" => WV, :vocabulary => vocabulary_list, ngram_list; path=path*"/multi_ngrams")
+run_bmk("wikipedia" => WV, :cutoff => cutoff_list, ngram_list; vocabulary=1:1000000, path=path*"/multi_ngrams")
+run_bmk("tatoeba" => TV, :vocabulary => vocabulary_list, ngram_list; path=path*"/multi_ngrams")
+run_bmk("tatoeba" => TV, :cutoff => cutoff_list, ngram_list; vocabulary=1:1000000, path=path*"/multi_ngrams")

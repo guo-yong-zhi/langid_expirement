@@ -14287,9 +14287,9 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/multi_ngram/bmkmats-vocabulary-tatoeba.bson&quot;</span> <span class="n">bmkmats</span>
+<div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/multi_ngrams/bmkmats-vocabulary-tatoeba.bson&quot;</span> <span class="n">bmkmats</span>
 <span class="n">items</span> <span class="o">=</span> <span class="p">[</span><span class="n">k</span><span class="o">=&gt;</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="o">/</span><span class="n">length</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">v</span><span class="p">)</span> <span class="k">in</span> <span class="n">bmkmats</span><span class="p">]</span>
-<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s"> - grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-vocab&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
+<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-vocab&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -14327,7 +14327,7 @@ a.anchor-link {
 </thead>
 <tbody>
 <tr>
-<td>1:1 - grams</td>
+<td>1:1-grams</td>
 <td>76.95%</td>
 <td>76.95%</td>
 <td>-</td>
@@ -14340,7 +14340,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>1:2 - grams</td>
+<td>1:2-grams</td>
 <td>82.32%</td>
 <td>86.98%</td>
 <td>88.97%</td>
@@ -14353,7 +14353,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>1:3 - grams</td>
+<td>1:3-grams</td>
 <td>81.21%</td>
 <td>87.02%</td>
 <td>91.04%</td>
@@ -14366,7 +14366,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>1:4 - grams</td>
+<td>1:4-grams</td>
 <td>80.10%</td>
 <td>86.03%</td>
 <td>91.35%</td>
@@ -14379,7 +14379,7 @@ a.anchor-link {
 <td>95.64%</td>
 </tr>
 <tr>
-<td>1:5 - grams</td>
+<td>1:5-grams</td>
 <td>79.97%</td>
 <td>85.36%</td>
 <td>90.69%</td>
@@ -14392,7 +14392,7 @@ a.anchor-link {
 <td>96.85%</td>
 </tr>
 <tr>
-<td>1:6 - grams</td>
+<td>1:6-grams</td>
 <td>79.63%</td>
 <td>84.85%</td>
 <td>90.52%</td>
@@ -14405,7 +14405,7 @@ a.anchor-link {
 <td>97.38%</td>
 </tr>
 <tr>
-<td>1:7 - grams</td>
+<td>1:7-grams</td>
 <td>78.99%</td>
 <td>84.35%</td>
 <td>90.51%</td>
@@ -14436,7 +14436,7 @@ a.anchor-link {
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/single_ngram/bmkmats-vocabulary-tatoeba.bson&quot;</span> <span class="n">bmkmats</span>
 <span class="n">items</span> <span class="o">=</span> <span class="p">[</span><span class="n">k</span><span class="o">=&gt;</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="o">/</span><span class="n">length</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">v</span><span class="p">)</span> <span class="k">in</span> <span class="n">bmkmats</span><span class="p">]</span>
-<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;single </span><span class="si">$n</span><span class="s">-grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-vocab&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
+<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;single </span><span class="si">$n</span><span class="s">-gram&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-vocab&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -14473,7 +14473,7 @@ a.anchor-link {
 </thead>
 <tbody>
 <tr>
-<td>single 1-grams</td>
+<td>single 1-gram</td>
 <td>76.95%</td>
 <td>76.95%</td>
 <td>-</td>
@@ -14485,7 +14485,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>single 2-grams</td>
+<td>single 2-gram</td>
 <td>83.95%</td>
 <td>88.07%</td>
 <td>90.19%</td>
@@ -14497,7 +14497,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>single 3-grams</td>
+<td>single 3-gram</td>
 <td>82.47%</td>
 <td>87.99%</td>
 <td>91.85%</td>
@@ -14509,7 +14509,7 @@ a.anchor-link {
 <td>94.75%</td>
 </tr>
 <tr>
-<td>single 4-grams</td>
+<td>single 4-gram</td>
 <td>80.39%</td>
 <td>86.27%</td>
 <td>91.25%</td>
@@ -14521,7 +14521,7 @@ a.anchor-link {
 <td>96.78%</td>
 </tr>
 <tr>
-<td>single 5-grams</td>
+<td>single 5-gram</td>
 <td>72.48%</td>
 <td>81.49%</td>
 <td>88.42%</td>
@@ -14533,7 +14533,7 @@ a.anchor-link {
 <td>95.56%</td>
 </tr>
 <tr>
-<td>single 6-grams</td>
+<td>single 6-gram</td>
 <td>54.87%</td>
 <td>72.68%</td>
 <td>82.47%</td>
@@ -14545,7 +14545,7 @@ a.anchor-link {
 <td>85.81%</td>
 </tr>
 <tr>
-<td>single 7-grams</td>
+<td>single 7-gram</td>
 <td>49.14%</td>
 <td>61.29%</td>
 <td>71.76%</td>
@@ -14578,9 +14578,9 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/multi_ngram/bmkmats-vocabulary-wikipedia.bson&quot;</span> <span class="n">bmkmats</span>
+<div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/multi_ngrams/bmkmats-vocabulary-wikipedia.bson&quot;</span> <span class="n">bmkmats</span>
 <span class="n">items</span> <span class="o">=</span> <span class="p">[</span><span class="n">k</span><span class="o">=&gt;</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="o">/</span><span class="n">length</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">v</span><span class="p">)</span> <span class="k">in</span> <span class="n">bmkmats</span><span class="p">]</span>
-<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s"> - grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-vocab&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
+<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-vocab&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -14618,7 +14618,7 @@ a.anchor-link {
 </thead>
 <tbody>
 <tr>
-<td>1:1 - grams</td>
+<td>1:1-grams</td>
 <td>91.99%</td>
 <td>91.99%</td>
 <td>-</td>
@@ -14631,7 +14631,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>1:2 - grams</td>
+<td>1:2-grams</td>
 <td>92.83%</td>
 <td>94.24%</td>
 <td>95.07%</td>
@@ -14644,7 +14644,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>1:3 - grams</td>
+<td>1:3-grams</td>
 <td>93.52%</td>
 <td>95.26%</td>
 <td>96.44%</td>
@@ -14657,7 +14657,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>1:4 - grams</td>
+<td>1:4-grams</td>
 <td>92.08%</td>
 <td>96.54%</td>
 <td>97.30%</td>
@@ -14670,7 +14670,7 @@ a.anchor-link {
 <td>98.45%</td>
 </tr>
 <tr>
-<td>1:5 - grams</td>
+<td>1:5-grams</td>
 <td>92.73%</td>
 <td>96.53%</td>
 <td>97.48%</td>
@@ -14683,7 +14683,7 @@ a.anchor-link {
 <td>98.87%</td>
 </tr>
 <tr>
-<td>1:6 - grams</td>
+<td>1:6-grams</td>
 <td>91.75%</td>
 <td>96.25%</td>
 <td>97.67%</td>
@@ -14696,7 +14696,7 @@ a.anchor-link {
 <td>99.10%</td>
 </tr>
 <tr>
-<td>1:7 - grams</td>
+<td>1:7-grams</td>
 <td>89.84%</td>
 <td>95.56%</td>
 <td>97.77%</td>
@@ -14727,7 +14727,7 @@ a.anchor-link {
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/single_ngram/bmkmats-vocabulary-wikipedia.bson&quot;</span> <span class="n">bmkmats</span>
 <span class="n">items</span> <span class="o">=</span> <span class="p">[</span><span class="n">k</span><span class="o">=&gt;</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="o">/</span><span class="n">length</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">v</span><span class="p">)</span> <span class="k">in</span> <span class="n">bmkmats</span><span class="p">]</span>
-<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;single </span><span class="si">$n</span><span class="s">-grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-vocab&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
+<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;single </span><span class="si">$n</span><span class="s">-gram&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-vocab&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -14764,7 +14764,7 @@ a.anchor-link {
 </thead>
 <tbody>
 <tr>
-<td>single 1-grams</td>
+<td>single 1-gram</td>
 <td>91.99%</td>
 <td>91.99%</td>
 <td>-</td>
@@ -14776,7 +14776,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>single 2-grams</td>
+<td>single 2-gram</td>
 <td>93.50%</td>
 <td>94.22%</td>
 <td>95.31%</td>
@@ -14788,7 +14788,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>single 3-grams</td>
+<td>single 3-gram</td>
 <td>96.21%</td>
 <td>97.07%</td>
 <td>97.47%</td>
@@ -14800,7 +14800,7 @@ a.anchor-link {
 <td>98.24%</td>
 </tr>
 <tr>
-<td>single 4-grams</td>
+<td>single 4-gram</td>
 <td>94.54%</td>
 <td>97.43%</td>
 <td>98.00%</td>
@@ -14812,7 +14812,7 @@ a.anchor-link {
 <td>98.61%</td>
 </tr>
 <tr>
-<td>single 5-grams</td>
+<td>single 5-gram</td>
 <td>90.44%</td>
 <td>95.44%</td>
 <td>97.78%</td>
@@ -14824,7 +14824,7 @@ a.anchor-link {
 <td>96.03%</td>
 </tr>
 <tr>
-<td>single 6-grams</td>
+<td>single 6-gram</td>
 <td>59.97%</td>
 <td>92.28%</td>
 <td>95.96%</td>
@@ -14836,7 +14836,7 @@ a.anchor-link {
 <td>80.27%</td>
 </tr>
 <tr>
-<td>single 7-grams</td>
+<td>single 7-gram</td>
 <td>56.49%</td>
 <td>79.08%</td>
 <td>89.60%</td>
@@ -14861,7 +14861,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="cutoff">cutoff<a class="anchor-link" href="#cutoff">&#182;</a></h1>
+<h1 id="cutoff-value">cutoff value<a class="anchor-link" href="#cutoff-value">&#182;</a></h1>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
@@ -14874,9 +14874,9 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/multi_ngram/bmkmats-cutoff-tatoeba.bson&quot;</span> <span class="n">bmkmats</span>
+<div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/multi_ngrams/bmkmats-cutoff-tatoeba.bson&quot;</span> <span class="n">bmkmats</span>
 <span class="n">items</span> <span class="o">=</span> <span class="p">[</span><span class="n">k</span><span class="o">=&gt;</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="o">/</span><span class="n">length</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">v</span><span class="p">)</span> <span class="k">in</span> <span class="n">bmkmats</span><span class="p">]</span>
-<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s"> - grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-cutoff&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
+<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-cutoff&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -14915,7 +14915,7 @@ a.anchor-link {
 </thead>
 <tbody>
 <tr>
-<td>1:1 - grams</td>
+<td>1:1-grams</td>
 <td>29.52%</td>
 <td>32.84%</td>
 <td>38.61%</td>
@@ -14929,7 +14929,7 @@ a.anchor-link {
 <td>76.95%</td>
 </tr>
 <tr>
-<td>1:2 - grams</td>
+<td>1:2-grams</td>
 <td>44.38%</td>
 <td>60.05%</td>
 <td>72.56%</td>
@@ -14943,7 +14943,7 @@ a.anchor-link {
 <td>89.03%</td>
 </tr>
 <tr>
-<td>1:3 - grams</td>
+<td>1:3-grams</td>
 <td>71.85%</td>
 <td>80.13%</td>
 <td>84.98%</td>
@@ -14957,7 +14957,7 @@ a.anchor-link {
 <td>93.51%</td>
 </tr>
 <tr>
-<td>1:4 - grams</td>
+<td>1:4-grams</td>
 <td>80.98%</td>
 <td>86.74%</td>
 <td>89.80%</td>
@@ -14971,7 +14971,7 @@ a.anchor-link {
 <td>95.64%</td>
 </tr>
 <tr>
-<td>1:5 - grams</td>
+<td>1:5-grams</td>
 <td>85.18%</td>
 <td>89.35%</td>
 <td>92.58%</td>
@@ -14985,7 +14985,7 @@ a.anchor-link {
 <td>96.85%</td>
 </tr>
 <tr>
-<td>1:6 - grams</td>
+<td>1:6-grams</td>
 <td>82.04%</td>
 <td>90.43%</td>
 <td>93.78%</td>
@@ -14999,7 +14999,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>1:7 - grams</td>
+<td>1:7-grams</td>
 <td>76.80%</td>
 <td>91.64%</td>
 <td>95.13%</td>
@@ -15031,7 +15031,7 @@ a.anchor-link {
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/single_ngram/bmkmats-cutoff-tatoeba.bson&quot;</span> <span class="n">bmkmats</span>
 <span class="n">items</span> <span class="o">=</span> <span class="p">[</span><span class="n">k</span><span class="o">=&gt;</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="o">/</span><span class="n">length</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">v</span><span class="p">)</span> <span class="k">in</span> <span class="n">bmkmats</span><span class="p">]</span>
-<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;single </span><span class="si">$n</span><span class="s">-grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-cutoff&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
+<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;single </span><span class="si">$n</span><span class="s">-gram&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-cutoff&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -15070,7 +15070,7 @@ a.anchor-link {
 </thead>
 <tbody>
 <tr>
-<td>single 1-grams</td>
+<td>single 1-gram</td>
 <td>29.52%</td>
 <td>32.84%</td>
 <td>38.61%</td>
@@ -15084,7 +15084,7 @@ a.anchor-link {
 <td>76.95%</td>
 </tr>
 <tr>
-<td>single 2-grams</td>
+<td>single 2-gram</td>
 <td>68.14%</td>
 <td>73.47%</td>
 <td>77.20%</td>
@@ -15098,7 +15098,7 @@ a.anchor-link {
 <td>90.28%</td>
 </tr>
 <tr>
-<td>single 3-grams</td>
+<td>single 3-gram</td>
 <td>65.85%</td>
 <td>79.43%</td>
 <td>86.45%</td>
@@ -15112,7 +15112,7 @@ a.anchor-link {
 <td>94.75%</td>
 </tr>
 <tr>
-<td>single 4-grams</td>
+<td>single 4-gram</td>
 <td>37.40%</td>
 <td>61.35%</td>
 <td>77.98%</td>
@@ -15126,7 +15126,7 @@ a.anchor-link {
 <td>96.78%</td>
 </tr>
 <tr>
-<td>single 5-grams</td>
+<td>single 5-gram</td>
 <td>36.79%</td>
 <td>58.23%</td>
 <td>78.46%</td>
@@ -15140,7 +15140,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>single 6-grams</td>
+<td>single 6-gram</td>
 <td>42.60%</td>
 <td>62.75%</td>
 <td>77.56%</td>
@@ -15154,7 +15154,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>single 7-grams</td>
+<td>single 7-gram</td>
 <td>42.49%</td>
 <td>55.00%</td>
 <td>63.98%</td>
@@ -15189,9 +15189,9 @@ a.anchor-link {
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/multi_ngram/bmkmats-cutoff-wikipedia.bson&quot;</span> <span class="n">bmkmats</span>
+<div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/multi_ngrams/bmkmats-cutoff-wikipedia.bson&quot;</span> <span class="n">bmkmats</span>
 <span class="n">items</span> <span class="o">=</span> <span class="p">[</span><span class="n">k</span><span class="o">=&gt;</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="o">/</span><span class="n">length</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">v</span><span class="p">)</span> <span class="k">in</span> <span class="n">bmkmats</span><span class="p">]</span>
-<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s"> - grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-cutoff&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
+<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-cutoff&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -15230,7 +15230,7 @@ a.anchor-link {
 </thead>
 <tbody>
 <tr>
-<td>1:1 - grams</td>
+<td>1:1-grams</td>
 <td>30.72%</td>
 <td>34.78%</td>
 <td>40.37%</td>
@@ -15244,7 +15244,7 @@ a.anchor-link {
 <td>91.99%</td>
 </tr>
 <tr>
-<td>1:2 - grams</td>
+<td>1:2-grams</td>
 <td>53.51%</td>
 <td>75.86%</td>
 <td>87.14%</td>
@@ -15258,7 +15258,7 @@ a.anchor-link {
 <td>95.24%</td>
 </tr>
 <tr>
-<td>1:3 - grams</td>
+<td>1:3-grams</td>
 <td>85.99%</td>
 <td>90.29%</td>
 <td>94.08%</td>
@@ -15272,7 +15272,7 @@ a.anchor-link {
 <td>96.34%</td>
 </tr>
 <tr>
-<td>1:4 - grams</td>
+<td>1:4-grams</td>
 <td>87.87%</td>
 <td>93.51%</td>
 <td>95.19%</td>
@@ -15286,7 +15286,7 @@ a.anchor-link {
 <td>98.45%</td>
 </tr>
 <tr>
-<td>1:5 - grams</td>
+<td>1:5-grams</td>
 <td>91.51%</td>
 <td>94.33%</td>
 <td>96.39%</td>
@@ -15300,7 +15300,7 @@ a.anchor-link {
 <td>98.87%</td>
 </tr>
 <tr>
-<td>1:6 - grams</td>
+<td>1:6-grams</td>
 <td>74.34%</td>
 <td>90.62%</td>
 <td>96.26%</td>
@@ -15314,7 +15314,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>1:7 - grams</td>
+<td>1:7-grams</td>
 <td>53.78%</td>
 <td>90.44%</td>
 <td>96.42%</td>
@@ -15346,7 +15346,7 @@ a.anchor-link {
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-julia"><pre><span></span><span class="n">BSON</span><span class="o">.</span><span class="nd">@load</span> <span class="s">&quot;benchmarks/matrix/single_ngram/bmkmats-cutoff-wikipedia.bson&quot;</span> <span class="n">bmkmats</span>
 <span class="n">items</span> <span class="o">=</span> <span class="p">[</span><span class="n">k</span><span class="o">=&gt;</span><span class="n">sum</span><span class="p">(</span><span class="n">v</span><span class="p">)</span><span class="o">/</span><span class="n">length</span><span class="p">(</span><span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="p">(</span><span class="n">k</span><span class="p">,</span><span class="n">v</span><span class="p">)</span> <span class="k">in</span> <span class="n">bmkmats</span><span class="p">]</span>
-<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;single </span><span class="si">$n</span><span class="s">-grams&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-cutoff&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
+<span class="n">showtable_of_items</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">row_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;single </span><span class="si">$n</span><span class="s">-gram&quot;</span><span class="p">,</span> <span class="n">col_name</span><span class="o">=</span><span class="n">n</span><span class="o">-&gt;</span><span class="s">&quot;</span><span class="si">$n</span><span class="s">-cutoff&quot;</span><span class="p">,</span> <span class="n">print_raw</span><span class="o">=</span><span class="nb">false</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -15385,7 +15385,7 @@ a.anchor-link {
 </thead>
 <tbody>
 <tr>
-<td>single 1-grams</td>
+<td>single 1-gram</td>
 <td>30.72%</td>
 <td>34.78%</td>
 <td>40.37%</td>
@@ -15399,7 +15399,7 @@ a.anchor-link {
 <td>91.99%</td>
 </tr>
 <tr>
-<td>single 2-grams</td>
+<td>single 2-gram</td>
 <td>82.70%</td>
 <td>84.76%</td>
 <td>88.00%</td>
@@ -15413,7 +15413,7 @@ a.anchor-link {
 <td>95.56%</td>
 </tr>
 <tr>
-<td>single 3-grams</td>
+<td>single 3-gram</td>
 <td>51.52%</td>
 <td>76.87%</td>
 <td>89.78%</td>
@@ -15427,7 +15427,7 @@ a.anchor-link {
 <td>98.24%</td>
 </tr>
 <tr>
-<td>single 4-grams</td>
+<td>single 4-gram</td>
 <td>32.35%</td>
 <td>42.71%</td>
 <td>61.02%</td>
@@ -15441,7 +15441,7 @@ a.anchor-link {
 <td>98.61%</td>
 </tr>
 <tr>
-<td>single 5-grams</td>
+<td>single 5-gram</td>
 <td>35.77%</td>
 <td>42.80%</td>
 <td>61.91%</td>
@@ -15455,7 +15455,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>single 6-grams</td>
+<td>single 6-gram</td>
 <td>39.43%</td>
 <td>48.31%</td>
 <td>63.23%</td>
@@ -15469,7 +15469,7 @@ a.anchor-link {
 <td>-</td>
 </tr>
 <tr>
-<td>single 7-grams</td>
+<td>single 7-gram</td>
 <td>40.93%</td>
 <td>47.05%</td>
 <td>52.62%</td>
