@@ -21,7 +21,7 @@ function plot_series(names_values...; title=nothing, path=".")
         else
             x = collect(sampledindexes(value))
         end
-        fig = plot!(x, y, label="", linecolor=alphacolor(colors[i], 0.2))
+        fig = plot!(x, y, label="", linecolor=alphacolor(Gray(0.5) + 0.5 * colors[i], 0.5))
         ylims!(fig, quantile(y, (0.005, 0.995)))
         step = max(1, length(y) ÷ 50)
         y_ = mean.(Iterators.partition(y, step))

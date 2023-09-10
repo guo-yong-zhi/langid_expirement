@@ -5,7 +5,9 @@ include("trainutils.jl")
 @show Threads.nthreads()
 using BSON
 using SampledVectors
-logdir = "trainlogs"
+
+logdir = isempty(ARGS) ? "trainlogs" : ARGS[1]
+@show logdir
 ckpfn = "$logdir/model.bson"
 if isfile(ckpfn)
     BSON.@load ckpfn M train_loss val_loss val_accuracy default_q_list cutoff_list
@@ -33,7 +35,7 @@ datasets = [WDs; TDs]
 train_set = BatchedLoader(WeightedLoader(datasets, weights=log.(length.(datasets))), 2)
 
 mkpath(logdir)
-for i in 1:8400*2*1
+for i in 1:8400*2*60
     l, grad = loss_and_grad(M, first(train_set), rand([1:M.ngram; 3:M.ngram; 3:min(5, M.ngram)]))
     step!(M, grad, 1f0)
     push!(train_loss, l)
